@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sanitary Survey Checklist
+    pages:
+    - id: 1
+      name: facility_id
+      label: facility_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: system_type
+      label: system_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: system_capacity
+      label: system_capacity
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: construction_materials
+      label: construction_materials
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: operation_and_maintenance
+      label: operation_and_maintenance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: physical_condition
+      label: physical_condition
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: capability_and_capacity
+      label: capability_and_capacity
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: facility_address
+      label: facility_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: facility_contacts
+      label: facility_contacts
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: facility_inspection_notes
+      label: facility_inspection_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: facility_inspection_date
+      label: facility_inspection_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: facility_inspection_time
+      label: facility_inspection_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: output_file
+      label: output_file
+      hint: null
+      type: text
+      options: []
+      required: false

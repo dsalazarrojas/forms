@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: graduate_program_enrollment_marketing_inquiry
+    pages:
+    - id: 1
+      name: name
+      label: Graduate Program Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: program
+      label: Choose Graduate Program
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: start_term
+      label: Start Term
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Spring 2024
+      - Summer 2024
+      - Fall 2024
+      - Winter 2024
+      required: false
+    - id: 4
+      name: name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: program_interest
+      label: What is your interest in this graduate program?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: assigned_to
+      label: Assigned to
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - chatjim
+      required: false
+    - id: 10
+      name: follow_up
+      label: How would you like to be followed up?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Email
+      - Phone
+      - Chat
+      - Text
+      required: false

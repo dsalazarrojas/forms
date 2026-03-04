@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Request A Walkthrough Session
+    pages:
+    - id: 1
+      name: request_a_walkthrough_session
+      label: request a walkthrough session
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: customer name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: scheduled_walkthrough_time
+      label: scheduled walkthrough time
+      hint: Enter a date and time
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: walkthrough_priority
+      label: walkthrough priority
+      hint: null
+      type: select_one
+      options:
+      - high
+      - medium
+      - low
+      required: false
+    - id: 5
+      name: customer_scheduling_preferences
+      label: customer scheduling preferences
+      hint: null
+      type: select_one
+      options:
+      - ASAP
+      - flexible
+      - not flexible at all
+      required: false
+    - id: 6
+      name: customer_phone
+      label: customer phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: customer_email
+      label: customer email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: customer_address
+      label: customer address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: customer_company
+      label: customer company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: customer_job_title
+      label: customer job title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: walkthrough_notes
+      label: walkthrough notes
+      hint: null
+      type: text
+      options: []
+      required: false

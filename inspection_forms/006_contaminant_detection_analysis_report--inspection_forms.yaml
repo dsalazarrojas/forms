@@ -1,0 +1,228 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contaminant Detection Analysis Report
+    pages:
+    - id: 1
+      name: report_id
+      label: Report ID
+      hint: Unique report identification number
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: analysis_date
+      label: Analysis Date
+      hint: Date when analysis was performed
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: lab_name
+      label: Laboratory Name
+      hint: Name of the testing laboratory
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: lab_technician
+      label: Lab Technician Name
+      hint: Name of technician performing analysis
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: sample_id
+      label: Sample ID
+      hint: Unique sample identification number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: sample_type
+      label: Sample Type
+      hint: Type of sample being analyzed
+      type: select_one
+      options:
+      - Water
+      - Soil
+      - Air
+      - Food Product
+      - Blood
+      - Tissue
+      - Surface Swab
+      - Other
+      required: true
+    - id: 7
+      name: sample_collection_date
+      label: Sample Collection Date
+      hint: When the sample was collected
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: sample_collection_location
+      label: Sample Collection Location
+      hint: Where the sample was collected
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: collection_method
+      label: Collection Method
+      hint: Method used to collect the sample
+      type: select_one
+      options:
+      - Swab
+      - Grab Sample
+      - Composite Sample
+      - Core Sample
+      - Filter Collection
+      - Vacuum Collection
+      required: true
+    - id: 10
+      name: contaminant_category
+      label: Contaminant Category
+      hint: General category of contaminant being tested
+      type: select_one
+      options:
+      - Biological
+      - Chemical
+      - Physical
+      - Radiological
+      - Heavy Metals
+      - Pesticides
+      required: true
+    - id: 11
+      name: specific_contaminant
+      label: Specific Contaminant
+      hint: Name of specific contaminant detected
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: detection_method
+      label: Detection Method
+      hint: Analytical method used for detection
+      type: select_one
+      options:
+      - PCR
+      - ELISA
+      - Mass Spectrometry
+      - Chromatography
+      - Spectroscopy
+      - Microscopy
+      - Immunoassay
+      required: true
+    - id: 13
+      name: detection_limit
+      label: Detection Limit
+      hint: Minimum detectable concentration
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: detection_unit
+      label: Detection Unit
+      hint: Unit of measurement
+      type: select_one
+      options:
+      - ppm (parts per million)
+      - ppb (parts per billion)
+      - mg/L
+      - ug/L
+      - CFU/mL
+      - ng/g
+      required: true
+    - id: 15
+      name: measured_concentration
+      label: Measured Concentration
+      hint: Actual concentration detected
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: result_interpretation
+      label: Result Interpretation
+      hint: Interpretation of the detection result
+      type: select_one
+      options:
+      - Below Detection Limit
+      - Within Acceptable Range
+      - Elevated
+      - Above Regulatory Limit
+      - Critical Level
+      required: true
+    - id: 17
+      name: regulatory_standard
+      label: Regulatory Standard Applied
+      hint: Standard or regulation used for comparison
+      type: select_one
+      options:
+      - EPA Standards
+      - FDA Guidelines
+      - WHO Guidelines
+      - OSHA Standards
+      - ISO Standards
+      - Local Regulations
+      required: true
+    - id: 18
+      name: quality_control_passed
+      label: Quality Control Passed
+      hint: Did the analysis pass QC checks?
+      type: select_one
+      options:
+      - true
+      - false
+      - Pending Review
+      required: true
+    - id: 19
+      name: confidence_level
+      label: Confidence Level
+      hint: Statistical confidence of the result
+      type: select_one
+      options:
+      - 95%
+      - 99%
+      - 99.9%
+      required: true
+    - id: 20
+      name: health_risk_assessment
+      label: Health Risk Assessment
+      hint: Assessment of potential health risks
+      type: select_one
+      options:
+      - No Risk
+      - Low Risk
+      - Moderate Risk
+      - High Risk
+      - Critical Risk
+      required: true
+    - id: 21
+      name: recommended_actions
+      label: Recommended Actions
+      hint: Suggested follow-up actions
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other relevant observations
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: report_approved_by
+      label: Report Approved By
+      hint: Name of approving supervisor
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: approval_date
+      label: Approval Date
+      hint: Date of report approval
+      type: date
+      options: []
+      required: true

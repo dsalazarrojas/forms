@@ -1,0 +1,215 @@
+inputSchema:
+  type: object
+  properties:
+    title: Auto Insurance Billing Form
+    pages:
+    - id: 1
+      name: policyholder_info
+      label: Policyholder Information
+      hint: Please provide your policy details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your legal first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your legal last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: policy_number
+      label: Policy Number
+      hint: Your insurance policy number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email Address
+      hint: Primary email for billing communications
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: address
+      label: Billing Address
+      hint: Street address for billing
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: city
+      label: City
+      hint: City of residence
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: state
+      label: State
+      hint: State of residence
+      type: select_one
+      options:
+      - Alabama
+      - Alaska
+      - Arizona
+      - Arkansas
+      - California
+      - Colorado
+      - Connecticut
+      - Delaware
+      - Florida
+      - Georgia
+      - Other
+      required: true
+    - id: 10
+      name: zip_code
+      label: ZIP Code
+      hint: 5-digit ZIP code
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: billing_info
+      label: Billing Information
+      hint: Details about your billing
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: billing_period
+      label: Billing Period
+      hint: Which period is this payment for
+      type: select_one
+      options:
+      - Current Month
+      - Previous Month
+      - Quarterly
+      - Semi-Annual
+      - Annual
+      - Past Due
+      required: true
+    - id: 13
+      name: amount_due
+      label: Amount Due
+      hint: Total amount on the bill
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: invoice_number
+      label: Invoice Number
+      hint: Reference number from bill
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: payment_method
+      label: Payment Method
+      hint: How would you like to pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Bank Transfer
+      - Check
+      - Money Order
+      - Online Payment
+      required: true
+    - id: 16
+      name: card_type
+      label: Card Type
+      hint: Type of card if paying by card
+      type: select_one
+      options:
+      - Visa
+      - MasterCard
+      - American Express
+      - Discover
+      - Not Applicable
+      required: false
+    - id: 17
+      name: card_number
+      label: Card Number
+      hint: XXXX-XXXX-XXXX-XXXX
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: expiration_date
+      label: Expiration Date
+      hint: MM-YYYY
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: cvv
+      label: CVV
+      hint: 3-digit security code
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: billing_cycle
+      label: Preferred Billing Cycle
+      hint: How often do you want to be billed
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Semi-Annual
+      - Annual
+      required: true
+    - id: 21
+      name: autopay_enrollment
+      label: Enroll in AutoPay
+      hint: Would you like automatic payments
+      type: select_one
+      options:
+      - Yes enroll me
+      - No one-time payment
+      - Already enrolled
+      required: true
+    - id: 22
+      name: payment_date
+      label: Preferred Payment Date
+      hint: Which day of month for payment
+      type: select_one
+      options:
+      - 1st of month
+      - 15th of month
+      - Last day of month
+      - Same as policy date
+      - Other
+      required: false
+    - id: 23
+      name: additional_notes
+      label: Additional Notes
+      hint: Any billing questions or comments
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: authorization
+      label: Payment Authorization
+      hint: I authorize this payment
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true

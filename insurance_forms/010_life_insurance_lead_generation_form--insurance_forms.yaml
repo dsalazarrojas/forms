@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Life Insurance Lead Generation Form
+    pages:
+    - id: 1
+      name: customer_info
+      label: Customer Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: policy_info
+      label: Policy Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: insurance_agency
+      label: Insurance Agency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: policy_type
+      label: Policy Type
+      hint: null
+      type: select_one
+      options:
+      - Life Insurance
+      - Whole Life Insurance
+      - Term Life Insurance
+      - Universal Life Insurance
+      - Variable Life Insurance
+      required: true
+    - id: 6
+      name: coverage_amount
+      label: Coverage Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: policy_term
+      label: Policy Term
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: policy_start_date
+      label: Policy Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: policy_end_date
+      label: Policy End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Mail
+      - Chat
+      required: true
+    - id: 11
+      name: customer_first_name
+      label: Customer First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: customer_last_name
+      label: Customer Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 14
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: customer_street
+      label: Customer Street
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: customer_city
+      label: Customer City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: customer_state
+      label: Customer State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: customer_zip
+      label: Customer Zip
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: customer_notes
+      label: Customer Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: customer_agreement
+      label: Customer Agreement
+      hint: null
+      type: select_one
+      options:
+      - I understand and agree with the terms and conditions.
+      - I do not understand and do not agree with the terms and conditions.
+      required: true
+    - id: 21
+      name: form_submitted
+      label: Form Submitted
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: form_submitted_by
+      label: Form Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: customer_signature
+      label: Customer Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: form_comments
+      label: Form Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: text
+      options: []
+      required: false

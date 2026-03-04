@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: Excavation Safety Checklist
+    pages:
+    - id: 1
+      name: excavation_safety_checklist
+      label: excavation_safety_checklist
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: trench_safety_barrier
+      label: trench_safety_barrier
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: personal_protective_equipment
+      label: personal_protective_equipment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: excavated_area_clearance
+      label: excavated_area_clearance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: trench_depth
+      label: trench_depth
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: safety_hatch_protection
+      label: safety_hatch_protection
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: trench_barricading_materials
+      label: trench_barricading_materials
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: trench_barricade_height
+      label: trench_barricade_height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: trench_barricade_type
+      label: trench_barricade_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: trench_barricade_material
+      label: trench_barricade_material
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: trench_barricade_depth
+      label: trench_barricade_depth
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: site_access_control
+      label: site_access_control
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: site_access_control_description
+      label: site_access_control_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: site_access_control_location
+      label: site_access_control_location
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Freight Inspection Checklist Form
+    pages:
+    - id: 1
+      name: shipping_process
+      label: Shipping Process
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: freight_damage
+      label: Freight Damage
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: packaging
+      label: Packaging
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: delivery_method
+      label: Delivery Method
+      hint: null
+      type: select_one
+      options:
+      - Express
+      - Standard
+      - Local
+      required: false
+    - id: 5
+      name: shipping_weight
+      label: Shipping Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: shipping_date
+      label: Shipping Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: shipping_time
+      label: Shipping Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: inspection_result
+      label: Inspection Result
+      hint: null
+      type: select_multiple
+      options:
+      - Passed
+      - Failed
+      - Not Evaluated
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

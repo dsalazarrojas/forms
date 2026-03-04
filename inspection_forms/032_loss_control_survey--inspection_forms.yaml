@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Loss Control Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: risk_areas
+      label: Risk Areas
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: risk_areas_list_1
+      label: What are the risk areas you are concerned about?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: risk_assessment
+      label: Risk Assessment
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: risk_assessment_score
+      label: What is your risk assessment score?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: risk_level
+      label: Risk Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 7
+      name: risk_level_frequency
+      label: How often is this risk level present?
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Annually
+      required: false
+    - id: 8
+      name: loss_control_plan
+      label: Loss Control Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: loss_control_plan_2
+      label: Loss Control Plan 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: loss_control_plan_3
+      label: Loss Control Plan 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: loss_control_plan_4
+      label: Loss Control Plan 4
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: loss_control_plan_5
+      label: Loss Control Plan 5
+      hint: null
+      type: text
+      options: []
+      required: false

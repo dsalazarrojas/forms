@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Film Set Equipment Safety Inspection Form
+    pages:
+    - id: 1
+      name: general_info
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: equipment_list
+      label: Equipment List
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: inspection_results
+      label: Inspection Results
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: action_planned
+      label: Action Planned
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: equipment_checked
+      label: Equipment Checked
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: last_inspected_at
+      label: Last Inspected At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: last_checked_by
+      label: Last Checked By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: next_inspection_due
+      label: Next Inspection Due
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: next_checked_by
+      label: Next Checked By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: equipment_location
+      label: Equipment Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: equipment_status
+      label: Equipment Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 14
+      name: last_status_changed_at
+      label: Last Status Changed At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: notes_on_last_inspection
+      label: Notes On Last Inspection
+      hint: null
+      type: note
+      options: []
+      required: false

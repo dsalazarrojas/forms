@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Insurance Verification Staffing Request Form
+    pages:
+    - id: 1
+      name: staff_request
+      label: Staff Request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: insurance_verification
+      label: Insurance Verification
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: insurance_verification_needed
+      label: Insurance Verification Needed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: insurance_verification_provider
+      label: Insurance Verification Provider
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: fax_number
+      label: Fax Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false

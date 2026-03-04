@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Key Fob Battery Check Form
+    pages:
+    - id: 1
+      name: key_fob_batteries
+      label: Key Fob Batteries
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: vehicle_type
+      label: Vehicle Type
+      hint: null
+      type: select_one
+      options:
+      - Car
+      - Truck
+      - Van
+      - Bus
+      required: false
+    - id: 3
+      name: battery_capacity
+      label: Battery Capacity
+      hint: null
+      type: select_multiple
+      options:
+      - '12'
+      - '36'
+      - '48'
+      - '96'
+      required: false
+    - id: 4
+      name: battery_type
+      label: Battery Type
+      hint: null
+      type: select_one
+      options:
+      - Standard
+      - Extended
+      required: false
+    - id: 5
+      name: condition_of_batteries
+      label: Condition Of Batteries
+      hint: null
+      type: select_multiple
+      options:
+      - Normal
+      - Bad
+      required: false
+    - id: 6
+      name: follow_up_recommendations
+      label: Follow Up Recommendations
+      hint: null
+      type: select_multiple
+      options:
+      - Call
+      - Email
+      - Letter
+      - None
+      required: false
+    - id: 7
+      name: results
+      label: Results
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: actions_taken
+      label: Actions Taken
+      hint: null
+      type: select_multiple
+      options:
+      - Replace
+      - Refill
+      - Inspect
+      - None
+      required: false
+    - id: 10
+      name: follow_up_actions_taken
+      label: Follow Up Actions Taken
+      hint: null
+      type: select_multiple
+      options:
+      - Call
+      - Email
+      - Letter
+      - None
+      required: false

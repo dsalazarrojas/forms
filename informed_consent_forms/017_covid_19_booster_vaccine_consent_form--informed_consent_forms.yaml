@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Booster Vaccine Consent Form
+    pages:
+    - id: 1
+      name: section_header_1
+      label: -- Patient Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_dob
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: patient_id
+      label: Patient ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: appointment_date
+      label: Appointment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: section_header_2
+      label: -- Vaccination History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: initial_vaccine_type
+      label: Type of Initial COVID-19 Vaccine
+      hint: null
+      type: select_one
+      options:
+      - Pfizer
+      - Moderna
+      - Johnson and Johnson
+      - AstraZeneca
+      - Unknown
+      required: true
+    - id: 10
+      name: first_dose_date
+      label: Date of First Dose
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: second_dose_date
+      label: Date of Second Dose
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: previous_reactions
+      label: Any reactions to previous doses?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: reaction_details
+      label: Please describe reactions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: section_header_3
+      label: -- Medical History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: chronic_conditions
+      label: Chronic Health Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: immunocompromised
+      label: Immunocompromised Status
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not sure
+      required: true
+    - id: 17
+      name: current_medications
+      label: Current Medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: drug_allergies
+      label: Known Drug Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: vaccine_component_allergy
+      label: Allergies to vaccine components?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not sure
+      required: true
+    - id: 20
+      name: section_header_4
+      label: -- Informed Consent --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: benefits_understood
+      label: I understand the benefits of the booster vaccine
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 22
+      name: risks_understood
+      label: I understand potential risks and side effects
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 23
+      name: information_provided
+      label: All relevant medical information has been provided
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 24
+      name: questions_answered
+      label: My questions have been answered to my satisfaction
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 25
+      name: consent_signature
+      label: I voluntarily consent to receive the booster vaccine
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

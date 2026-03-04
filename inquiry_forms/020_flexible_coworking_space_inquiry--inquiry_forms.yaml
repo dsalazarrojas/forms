@@ -1,0 +1,128 @@
+inputSchema:
+  type: object
+  properties:
+    title: Flexible Coworking Space Inquiry
+    pages:
+    - id: 1
+      name: inquiry_form_fields
+      label: Inquiry Form Fields
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: team_name
+      label: team_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: team_size
+      label: team_size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: budget
+      label: budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: timeline
+      label: timeline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: space_type
+      label: space_type
+      hint: null
+      type: select_one
+      options:
+      - Office Space
+      - Virtual Office
+      - Coworking Desk
+      - Private Office
+      - Shared Office
+      - Other
+      required: false
+    - id: 7
+      name: space_needs
+      label: space_needs
+      hint: null
+      type: select_multiple
+      options:
+      - Fast internet
+      - Comfortable seating
+      - High-speed Wi-Fi
+      - Access to printers
+      - Other
+      required: false
+    - id: 8
+      name: follow_up
+      label: follow_up
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Mail
+      - Other
+      required: false
+    - id: 9
+      name: workspace_needs
+      label: workspace_needs
+      hint: null
+      type: select_multiple
+      options:
+      - Fast internet
+      - Comfortable seating
+      - High-speed Wi-Fi
+      - Access to printers
+      - Other
+      required: false
+    - id: 10
+      name: follow_up_message
+      label: follow_up_message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: workspace_address
+      label: workspace_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: coworking_providers
+      label: coworking_providers
+      hint: null
+      type: select_multiple
+      options:
+      - Google Workspace
+      - Amazon Web Services
+      - Microsoft Office 365
+      - Open-source office
+      - Other
+      required: false
+    - id: 13
+      name: workspace_phone
+      label: workspace_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: workspace_email
+      label: workspace_email
+      hint: null
+      type: email
+      options: []
+      required: false

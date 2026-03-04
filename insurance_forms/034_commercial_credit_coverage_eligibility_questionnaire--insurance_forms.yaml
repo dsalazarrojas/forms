@@ -1,0 +1,308 @@
+inputSchema:
+  type: object
+  properties:
+    title: Commercial Credit Coverage Eligibility Questionnaire
+    pages:
+    - id: 1
+      name: business_name
+      label: Business Name
+      hint: Legal business name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_name
+      label: Contact Name
+      hint: Primary contact person
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_title
+      label: Contact Title
+      hint: Position in company
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: Business email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_header_business_details
+      label: -- Business Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: business_type
+      label: Business Type
+      hint: Industry or sector
+      type: select_one
+      options:
+      - Manufacturing
+      - Retail
+      - Wholesale
+      - Services
+      - Construction
+      - Technology
+      - Healthcare
+      - Finance
+      - Other
+      required: true
+    - id: 8
+      name: years_in_operation
+      label: Years in Operation
+      hint: How long has business operated
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-3 years
+      - 3-5 years
+      - 5-10 years
+      - 10+ years
+      required: true
+    - id: 9
+      name: number_of_employees
+      label: Number of Employees
+      hint: Total employees
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: annual_revenue
+      label: Annual Revenue
+      hint: Gross annual revenue
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: section_header_credit_history
+      label: -- Credit History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: business_credit_score
+      label: Business Credit Score Range
+      hint: Estimated credit score
+      type: select_one
+      options:
+      - Excellent (750+)
+      - Good (700-749)
+      - Fair (650-699)
+      - Poor (600-649)
+      - Very Poor (below 600)
+      - Unknown
+      required: true
+    - id: 13
+      name: previous_credit_coverage
+      label: Previous Credit Coverage
+      hint: Have you had credit coverage before
+      type: select_one
+      options:
+      - Yes Currently Have
+      - Yes Had Previously
+      - No Never Had
+      required: true
+    - id: 14
+      name: outstanding_debts
+      label: Outstanding Debts
+      hint: Total outstanding business debts
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: bankruptcy_history
+      label: Bankruptcy History
+      hint: Any bankruptcy filings
+      type: select_one
+      options:
+      - None
+      - Chapter 7
+      - Chapter 11
+      - Chapter 13
+      - Other
+      required: true
+    - id: 16
+      name: section_header_coverage_needs
+      label: -- Coverage Needs --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: coverage_amount_needed
+      label: Coverage Amount Needed
+      hint: Desired coverage amount
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: coverage_purpose
+      label: Coverage Purpose
+      hint: Why do you need coverage
+      type: select_one
+      options:
+      - Accounts Receivable Protection
+      - Trade Credit Insurance
+      - Export Credit Insurance
+      - Loan Protection
+      - Contract Security
+      - Other
+      required: true
+    - id: 19
+      name: primary_customers
+      label: Primary Customer Type
+      hint: Who are your main customers
+      type: select_one
+      options:
+      - Consumers (B2C)
+      - Businesses (B2B)
+      - Government
+      - International
+      - Mixed
+      required: true
+    - id: 20
+      name: accounts_receivable_percentage
+      label: Accounts Receivable Percentage
+      hint: AR as percentage of assets
+      type: select_one
+      options:
+      - 0-10%
+      - 11-25%
+      - 26-50%
+      - 51-75%
+      - 76-100%
+      required: true
+    - id: 21
+      name: section_header_financial_stability
+      label: -- Financial Stability --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: profitability
+      label: Profitability Status
+      hint: Is business profitable
+      type: select_one
+      options:
+      - Profitable
+      - Break Even
+      - Operating at Loss
+      - Newly Established
+      required: true
+    - id: 23
+      name: cash_flow
+      label: Cash Flow Status
+      hint: Current cash flow situation
+      type: select_one
+      options:
+      - Strong Positive
+      - Moderate Positive
+      - Neutral
+      - Negative
+      - Variable
+      required: true
+    - id: 24
+      name: debt_to_income_ratio
+      label: Debt to Income Ratio
+      hint: Estimated ratio
+      type: select_one
+      options:
+      - Less than 20%
+      - 20-40%
+      - 40-60%
+      - 60-80%
+      - Over 80%
+      required: true
+    - id: 25
+      name: section_header_risk_factors
+      label: -- Risk Factors --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: industry_risk
+      label: Industry Risk Level
+      hint: Risk level of your industry
+      type: select_one
+      options:
+      - Low Risk
+      - Moderate Risk
+      - Average Risk
+      - Elevated Risk
+      - High Risk
+      required: true
+    - id: 27
+      name: customer_concentration
+      label: Customer Concentration
+      hint: Revenue from top customer
+      type: select_one
+      options:
+      - Less than 10%
+      - 10-25%
+      - 26-50%
+      - 51-75%
+      - Over 75%
+      required: true
+    - id: 28
+      name: international_sales
+      label: International Sales
+      hint: Percentage of international revenue
+      type: select_one
+      options:
+      - None
+      - 1-10%
+      - 11-25%
+      - 26-50%
+      - Over 50%
+      required: true
+    - id: 29
+      name: section_header_eligibility
+      label: -- Eligibility Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 30
+      name: existing_insurance
+      label: Existing Credit Insurance
+      hint: Do you have current coverage
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 31
+      name: claims_history
+      label: Previous Claims
+      hint: Have you filed credit claims
+      type: select_one
+      options:
+      - None
+      - 1-2 Claims
+      - 3-5 Claims
+      - More than 5
+      required: true
+    - id: 32
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,185 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pet Insurance Billing Form
+    pages:
+    - id: 1
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - Pet Insurance Payment Method
+      - Other
+      required: true
+    - id: 2
+      name: payment_amount
+      label: payment_amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: due_date
+      label: due_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: payment_method_details
+      label: payment_method_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: pet_owner_name
+      label: pet_owner_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: owner_contact_info
+      label: owner_contact_info
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: pet_insurance_plan_id
+      label: pet_insurance_plan_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: payment_status
+      label: payment_status
+      hint: null
+      type: select_multiple
+      options:
+      - Paid
+      - Unpaid
+      - Pending
+      required: true
+    - id: 9
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: billing_address
+      label: billing_address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: billing_city
+      label: billing_city
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: billing_state
+      label: billing_state
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: billing_zip
+      label: billing_zip
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: owner_name
+      label: owner_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: owner_email
+      label: owner_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 16
+      name: owner_phone
+      label: owner_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: pet_name
+      label: pet_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: pet_breed
+      label: pet_breed
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: vet_name
+      label: vet_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: insurance_provider_name
+      label: insurance_provider_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: payment_terms
+      label: payment_terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: payment_method_other
+      label: payment_method_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: payment_amount_other
+      label: payment_amount_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: payment_terms_other
+      label: payment_terms_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: payment_status_other
+      label: payment_status_other
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,130 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property Inspection Assessment Form
+    pages:
+    - id: 1
+      name: property_inspection_form_properties
+      label: Property Inspection Form Properties
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Single Family Home'', ''value'': ''Single Family
+        Home''}'
+      - '{''id'': 2, ''label'': ''Condo'', ''value'': ''Condo''}'
+      - '{''id'': 3, ''label'': ''Townhouse'', ''value'': ''Townhouse''}'
+      required: false
+    - id: 3
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: property_location
+      label: Property Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: property_size
+      label: Property Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: property_year_built
+      label: Property Year Built
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: property_condition
+      label: Property Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: property_status
+      label: Property Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Active'', ''value'': ''Active''}'
+      - '{''id'': 2, ''label'': ''Inactive'', ''value'': ''Inactive''}'
+      required: false
+    - id: 9
+      name: inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: inspector_name
+      label: Inspector Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: inspector_phone
+      label: Inspector Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: inspector_email
+      label: Inspector Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: property_manager_name
+      label: Property Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: property_manager_phone
+      label: Property Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: property_manager_email
+      label: Property Manager Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

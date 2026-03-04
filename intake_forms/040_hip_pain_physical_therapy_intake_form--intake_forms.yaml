@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hip Pain Physical Therapy Intake Form
+    pages:
+    - id: 1
+      name: patient_history
+      label: Patient History
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 2
+      name: pain_details
+      label: Pain Details
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 3
+      name: therapy_goals
+      label: Therapy Goals
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 4
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 5
+      name: pain_location
+      label: Pain Location
+      hint: null
+      type: select_one
+      options:
+      - '{''options'': ''left hip''}'
+      - '{''options'': ''right hip''}'
+      - '{''options'': ''both hips''}'
+      - '{''options'': ''neither''}'
+      required: true
+    - id: 6
+      name: pain_duration
+      label: Pain Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: select_multiple
+      options:
+      - '{''options'': ''Arthritis''}'
+      - '{''options'': ''Injury''}'
+      - '{''options'': ''Other''}'
+      required: true
+    - id: 8
+      name: medications
+      label: Medications
+      hint: null
+      type: select_multiple
+      options:
+      - '{''options'': ''Ibuprofen''}'
+      - '{''options'': ''Acetaminophen''}'
+      - '{''options'': ''Other''}'
+      required: false
+    - id: 9
+      name: treatment_goals
+      label: Treatment Goals
+      hint: null
+      type: select_one
+      options:
+      - '{''options'': ''Reduce pain''}'
+      - '{''options'': ''Improve mobility''}'
+      - '{''options'': ''Other''}'
+      required: true
+    - id: 10
+      name: therapist_notes
+      label: Therapist Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: patient_notes
+      label: Patient Notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: emergency_name
+      label: Emergency Name
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: emergency_relationship
+      label: Emergency Relationship
+      hint: null
+      type: select_one
+      options:
+      - '{''options'': ''Parent''}'
+      - '{''options'': ''Spouse''}'
+      - '{''options'': ''Other''}'
+      required: false
+    - id: 17
+      name: emergency_phone
+      label: Emergency Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: emergency_address
+      label: Emergency Address
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: patient_signature
+      label: Patient Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: therapist_signature
+      label: Therapist Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: medical_record_number
+      label: Medical Record Number
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: medical_record_date
+      label: Medical Record Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: medical_record_provider
+      label: Medical Record Provider
+      hint: null
+      type: note
+      options: []
+      required: false

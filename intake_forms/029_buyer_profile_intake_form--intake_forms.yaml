@@ -1,0 +1,167 @@
+inputSchema:
+  type: object
+  properties:
+    title: Buyer Profile Intake Form
+    pages:
+    - id: 1
+      name: full_name
+      label: Full Name
+      hint: Your complete name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: Your email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Your contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: cobuyer_name
+      label: Co-Buyer Name
+      hint: If purchasing with another person
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: cobuyer_phone
+      label: Co-Buyer Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: search_start_date
+      label: When Do You Want to Start Searching
+      hint: Property search timeline
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: estimated_closing_date
+      label: Estimated Closing Date
+      hint: Expected purchase date
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: price_range
+      label: Price Range
+      hint: Select your budget
+      type: select_one
+      options:
+      - Under 250000
+      - 250000 - 400000
+      - 400000 - 600000
+      - 600000 - 1000000
+      - Over 1000000
+      required: true
+    - id: 9
+      name: financing_available
+      label: Is Financing Available
+      hint: Mortgage pre-approval status
+      type: select_one
+      options:
+      - Pre-approved
+      - Pre-qualified
+      - In process
+      - Not yet
+      - Paying cash
+      required: true
+    - id: 10
+      name: property_type_primary
+      label: Primary Property Type Sought
+      hint: Main type you are looking for
+      type: select_one
+      options:
+      - Single Family Home
+      - Condo
+      - Townhouse
+      - Land
+      - Multi-family
+      - Other
+      required: true
+    - id: 11
+      name: property_type_alternative
+      label: Alternative Property Types
+      hint: Other types you would consider
+      type: select_multiple
+      options:
+      - Single Family Home
+      - Condo
+      - Townhouse
+      - Land
+      - Multi-family
+      - New Construction
+      required: false
+    - id: 12
+      name: preferred_neighborhoods
+      label: Preferred Neighborhoods or Areas
+      hint: Specific areas you want
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: bedrooms_needed
+      label: Number of Bedrooms Needed
+      hint: Minimum requirements
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: bathrooms_needed
+      label: Number of Bathrooms Needed
+      hint: Minimum requirements
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: key_amenities
+      label: Key Amenities or Features
+      hint: Must-have features
+      type: select_multiple
+      options:
+      - Garage
+      - Pool
+      - Yard
+      - Updated Kitchen
+      - Master Suite
+      - Fireplace
+      - View
+      - Other
+      required: false
+    - id: 16
+      name: school_important
+      label: School District Important
+      hint: Is school quality a factor
+      type: select_one
+      options:
+      - Very Important
+      - Important
+      - Somewhat Important
+      - Not Important
+      required: true
+    - id: 17
+      name: commute_distance
+      label: Acceptable Commute Distance
+      hint: Commuting considerations
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: open_house_notifications
+      label: Notify Me of Open Houses
+      hint: Want open house alerts
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

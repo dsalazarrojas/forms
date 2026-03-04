@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: server_health_checklist_form
+    pages:
+    - id: 1
+      name: server_performance
+      label: server performance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: server_status
+      label: server status
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Running''}'
+      - '{''option2'': ''Not Running''}'
+      required: false
+    - id: 3
+      name: server_version
+      label: server version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: server_uptime
+      label: server uptime
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: memory_usage
+      label: memory usage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: cpu_usage
+      label: cpu usage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: network_traffic
+      label: network traffic
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: disk_space
+      label: disk space
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: system_logs
+      label: system logs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: backup_status
+      label: backup status
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Backup''}'
+      - '{''option2'': ''Not Backup''}'
+      required: false
+    - id: 11
+      name: server_reboot
+      label: server reboot
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': True}'
+      - '{''option2'': False}'
+      required: false
+    - id: 12
+      name: server_status_2
+      label: server status 2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': ''option1''}'
+      - '{''option2'': ''option2''}'
+      required: false
+    - id: 13
+      name: server_reboot_2
+      label: server reboot 2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': ''option1''}'
+      - '{''option2'': ''option2''}'
+      required: false
+    - id: 14
+      name: server_uptime_2
+      label: server uptime 2
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: server_version_2
+      label: server version 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: server_performance_2
+      label: server performance 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: memory_usage_2
+      label: memory usage 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: disk_space_2
+      label: disk space 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: system_logs_2
+      label: system logs 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: cpu_usage_2
+      label: cpu usage 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: network_traffic_2
+      label: network traffic 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: backup_status_2
+      label: backup status 2
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Backup''}'
+      - '{''option2'': ''Not Backup''}'
+      required: false
+    - id: 23
+      name: server_reboot_3
+      label: server reboot 3
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': True}'
+      - '{''option2'': False}'
+      required: false
+    - id: 24
+      name: server_uptime_3
+      label: server uptime 3
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: system_logs_3
+      label: system logs 3
+      hint: null
+      type: text
+      options: []
+      required: false

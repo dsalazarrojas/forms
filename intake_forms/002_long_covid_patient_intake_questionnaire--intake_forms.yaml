@@ -1,0 +1,141 @@
+inputSchema:
+  type: object
+  properties:
+    title: Long COVID Patient Intake Questionnaire
+    pages:
+    - id: 1
+      name: long_covid_patient_intake_questionnaire_form
+      label: Long COVID Patient Intake Questionnaire Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: long_covid_history
+      label: Long COVID History
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: long_covid_symptoms
+      label: Long COVID Symptoms
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: long_covid_symptom_impact
+      label: Long COVID Symptom Impact
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: patient_contact
+      label: Patient Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: patient_address
+      label: Patient Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: physician_contact
+      label: Physician Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: physician_address
+      label: Physician Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: visit_date
+      label: Visit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: long_covid_diagnosis
+      label: Long COVID Diagnosis
+      hint: null
+      type: select_one
+      options:
+      - Long COVID
+      - Not long COVID
+      - Unknown
+      required: false
+    - id: 11
+      name: long_covid_symptoms_duration
+      label: Long COVID Symptom Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: long_covid_symptom_severity
+      label: Long COVID Symptom Severity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: long_covid_vaccination_status
+      label: Long COVID Vaccination Status
+      hint: null
+      type: select_multiple
+      options:
+      - Vaccinated
+      - Not vaccinated
+      - Unknown
+      required: false
+    - id: 14
+      name: long_covid_medications
+      label: Long COVID Medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: long_covid_other_health_conditions
+      label: Long COVID Other Health Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: long_covid_medication_allergies
+      label: Long COVID Medication Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: long_covid_allergies
+      label: Long COVID Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: long_covid_other_conditions
+      label: Long COVID Other Conditions
+      hint: null
+      type: text
+      options: []
+      required: false

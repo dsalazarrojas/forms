@@ -1,0 +1,352 @@
+inputSchema:
+  type: object
+  properties:
+    title: Biotech Research Collaboration Contact Form
+    pages:
+    - id: 1
+      name: contact_information
+      label: Contact Information
+      hint: Enter your details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: professional_title
+      label: Professional Title
+      hint: Your job title or position
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email Address
+      hint: Professional email address
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: organization_information
+      label: Organization Information
+      hint: Enter your organization details
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: organization_name
+      label: Organization Name
+      hint: Company or institution name
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: organization_type
+      label: Organization Type
+      hint: Type of organization
+      type: select_one
+      options:
+      - Biotechnology Company
+      - Pharmaceutical Company
+      - Academic Institution
+      - Research Institute
+      - Hospital or Medical Center
+      - Government Agency
+      - Non-Profit Organization
+      - Venture Capital or Investment Firm
+      - Other
+      required: true
+    - id: 10
+      name: organization_size
+      label: Organization Size
+      hint: Number of employees
+      type: select_one
+      options:
+      - 1-50 employees
+      - 51-200 employees
+      - 201-500 employees
+      - 501-1000 employees
+      - 1000+ employees
+      required: false
+    - id: 11
+      name: organization_website
+      label: Organization Website
+      hint: URL of your organization
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: collaboration_inquiry
+      label: Collaboration Inquiry
+      hint: Tell us about your collaboration interest
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: inquiry_type
+      label: Type of Inquiry
+      hint: What type of collaboration are you seeking
+      type: select_one
+      options:
+      - Research Collaboration
+      - Licensing Opportunity
+      - Joint Venture
+      - Clinical Trial Partnership
+      - Technology Transfer
+      - Funding or Investment
+      - Consulting Services
+      - Other
+      required: true
+    - id: 14
+      name: research_area
+      label: Research Area of Interest
+      hint: Select relevant research areas
+      type: select_multiple
+      options:
+      - Gene Therapy
+      - Cell Therapy
+      - Immunotherapy
+      - Oncology
+      - Rare Diseases
+      - Infectious Diseases
+      - Neuroscience
+      - Regenerative Medicine
+      - Diagnostics
+      - Drug Delivery
+      - Biomanufacturing
+      - AI and Machine Learning
+      - Other
+      required: true
+    - id: 15
+      name: collaboration_description
+      label: Collaboration Description
+      hint: Describe your collaboration proposal
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: project_stage
+      label: Current Project Stage
+      hint: What stage is your project
+      type: select_one
+      options:
+      - Early Research
+      - Preclinical Development
+      - Clinical Development
+      - Commercial Stage
+      - Idea Stage
+      - Other
+      required: true
+    - id: 17
+      name: timeline
+      label: Expected Timeline
+      hint: When do you want to start collaboration
+      type: select_one
+      options:
+      - Immediate
+      - Within 3 Months
+      - Within 6 Months
+      - Within 1 Year
+      - Flexible
+      required: true
+    - id: 18
+      name: resources_offered
+      label: Resources You Can Offer
+      hint: What can your organization contribute
+      type: select_multiple
+      options:
+      - Research Expertise
+      - Laboratory Facilities
+      - Clinical Trial Access
+      - Manufacturing Capability
+      - Funding
+      - Regulatory Expertise
+      - Commercial Distribution
+      - Intellectual Property
+      - Other
+      required: true
+    - id: 19
+      name: resources_needed
+      label: Resources You Need
+      hint: What do you need from a partner
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: funding_availability
+      label: Funding Availability
+      hint: Is funding available for this collaboration
+      type: select_one
+      options:
+      - Yes - Fully Funded
+      - Yes - Partially Funded
+      - Seeking Co-Funding
+      - Seeking Full Funding
+      - Not Applicable
+      required: true
+    - id: 21
+      name: funding_range
+      label: Funding Range
+      hint: Estimated funding amount if applicable
+      type: select_one
+      options:
+      - Under $100,000
+      - $100,000 - $500,000
+      - $500,000 - $1 Million
+      - $1 Million - $5 Million
+      - $5 Million+
+      - Not Applicable
+      required: false
+    - id: 22
+      name: intellectual_property
+      label: Intellectual Property
+      hint: IP considerations
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: ip_status
+      label: IP Status
+      hint: Do you have relevant IP
+      type: select_one
+      options:
+      - Yes - Patents Filed
+      - Yes - Patents Granted
+      - Yes - Trade Secrets
+      - No IP Yet
+      - Not Applicable
+      required: true
+    - id: 24
+      name: ip_description
+      label: IP Description
+      hint: Briefly describe relevant IP
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: confidentiality
+      label: Confidentiality
+      hint: Are you willing to sign NDA
+      type: select_one
+      options:
+      - Yes - Willing to Sign NDA
+      - Yes - Have Standard NDA
+      - Need to Discuss
+      - false
+      required: true
+    - id: 26
+      name: previous_collaborations
+      label: Previous Collaborations
+      hint: Have you had successful collaborations before
+      type: select_one
+      options:
+      - Yes - Multiple Successful Collaborations
+      - Yes - One or Two
+      - No - First Collaboration
+      - Prefer Not to Say
+      required: false
+    - id: 27
+      name: references
+      label: References
+      hint: Can you provide references
+      type: select_one
+      options:
+      - Yes - Available Upon Request
+      - Yes - Listed Below
+      - false
+      required: false
+    - id: 28
+      name: reference_details
+      label: Reference Details
+      hint: List references if available
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: additional_information
+      label: Additional Information
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: follow_up_preference
+      label: Follow-up Preference
+      hint: How would you like to be contacted
+      type: select_one
+      options:
+      - Email
+      - Phone Call
+      - Video Conference
+      - In-Person Meeting
+      - Any Method
+      required: true
+    - id: 31
+      name: best_contact_time
+      label: Best Time to Contact
+      hint: When is the best time to reach you
+      type: select_one
+      options:
+      - Morning (8 AM - 12 PM)
+      - Afternoon (12 PM - 5 PM)
+      - Evening (5 PM - 8 PM)
+      - Any Time
+      required: false
+    - id: 32
+      name: time_zone
+      label: Your Time Zone
+      hint: Your time zone
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: how_heard_about_us
+      label: How Did You Hear About Us
+      hint: Help us improve outreach
+      type: select_one
+      options:
+      - Website
+      - Scientific Publication
+      - Conference or Event
+      - Colleague Referral
+      - Social Media
+      - Search Engine
+      - Other
+      required: false
+    - id: 34
+      name: urgency_level
+      label: Urgency Level
+      hint: How urgent is this inquiry
+      type: select_one
+      options:
+      - Low - General Inquiry
+      - Medium - Interested in Exploring
+      - High - Ready to Move Forward
+      - Critical - Time Sensitive
+      required: true
+    - id: 35
+      name: submission_date
+      label: Submission Date
+      hint: Date of this inquiry
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,181 @@
+inputSchema:
+  type: object
+  properties:
+    title: ligament_release_surgery_intake_form
+    pages:
+    - id: 1
+      name: name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: patient_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: patient_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: medical_history
+      label: medical_history
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: surgeon_name
+      label: surgeon_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: surgical_date
+      label: surgical_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: surgical_time
+      label: surgical_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: consent
+      label: consent
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: pre_surgical_instructions
+      label: pre_surgical_instructions
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: post_surgical_instructions
+      label: post_surgical_instructions
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: follow_up_care
+      label: follow_up_care
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: ligament_release
+      label: ligament_release
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: consent_date
+      label: consent_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: patient_signature
+      label: patient_signature
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: surgeon_signature
+      label: surgeon_signature
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: patient_date
+      label: patient_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: pre_operating_room_checklist
+      label: pre_operating_room_checklist
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: intraoperative_complications
+      label: intraoperative_complications
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: post_operating_room_checklist
+      label: post_operating_room_checklist
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: post_operating_room_comments
+      label: post_operating_room_comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: anesthesia_type
+      label: anesthesia_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 22
+      name: anesthesia_dose
+      label: anesthesia_dose
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: pain_management
+      label: pain_management
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: post
+      label: post
+      hint: null
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,135 @@
+inputSchema:
+  type: object
+  properties:
+    title: Air Quality Inspection Form
+    pages:
+    - id: 1
+      name: inspection_details_header
+      label: -- Inspection Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: inspector_name
+      label: Inspector Name
+      hint: Certified IAQ Inspector
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: inspection_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: location
+      label: Location / Room
+      hint: Specific area tested
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: measurements_header
+      label: -- Measurements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: temperature
+      label: Temperature (F)
+      hint: Ambient temp
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: humidity
+      label: Relative Humidity (%)
+      hint: Target 30-60%
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: co2_level
+      label: CO2 Level (ppm)
+      hint: Carbon Dioxide
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: voc_level
+      label: TVOC Level (ppb)
+      hint: Volatile Organic Compounds
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: pm25_level
+      label: PM2.5 Level (ug/m3)
+      hint: Fine particulates
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: pm10_level
+      label: PM10 Level (ug/m3)
+      hint: Coarse particulates
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: observations_header
+      label: -- Visual Observations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: mold_check
+      label: Mold Presence
+      hint: Visual signs or smell
+      type: select_one
+      options:
+      - None Detected
+      - Suspected
+      - Visible Growth
+      required: true
+    - id: 15
+      name: ventilation_status
+      label: Ventilation Status
+      hint: Airflow check
+      type: select_one
+      options:
+      - Good / Adequate
+      - Poor / Stagnant
+      - Blocked Vents
+      required: true
+    - id: 16
+      name: odor_detection
+      label: Odor Detection
+      hint: Describe smell
+      type: select_one
+      options:
+      - None
+      - Chemical
+      - Musty / Moldy
+      - Sewage
+      - Food / Cooking
+      required: true
+    - id: 17
+      name: recommendations
+      label: Recommendations
+      hint: Next steps
+      type: text
+      options: []
+      required: true

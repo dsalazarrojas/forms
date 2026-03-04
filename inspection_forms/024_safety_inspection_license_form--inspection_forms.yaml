@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Safety Inspection License Form
+    pages:
+    - id: 1
+      name: business_name
+      label: Enter Business Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_name
+      label: Enter Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: Enter Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: Enter Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: inspection_time
+      label: Inspection Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: safety_standards_met
+      label: Safety Standards Met
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: inspection_results
+      label: Inspection Results
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: corrective_action
+      label: Corrective Action
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: assigned_inspector
+      label: Assigned Inspector
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: signature
+      label: Inspector Signature
+      hint: null
+      type: text
+      options: []
+      required: false

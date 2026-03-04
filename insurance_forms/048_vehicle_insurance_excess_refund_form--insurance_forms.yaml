@@ -1,0 +1,131 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vehicle Insurance Excess Refund Form
+    pages:
+    - id: 1
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: vehicle_make
+      label: vehicle_make
+      hint: null
+      type: select_one
+      options:
+      - Honda
+      - Toyota
+      - Ford
+      - Volkswagen
+      - Nissan
+      required: false
+    - id: 4
+      name: vehicle_year
+      label: vehicle_year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: insurance_provider
+      label: insurance_provider
+      hint: null
+      type: select_multiple
+      options:
+      - Axa
+      - Bupa
+      - Zurich
+      required: false
+    - id: 6
+      name: excess_amount
+      label: excess_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: vehicle_registration_number
+      label: vehicle_registration_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: date_of_incident
+      label: date_of_incident
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: reason_for_claim
+      label: reason_for_claim
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: insurance_claim
+      label: insurance_claim
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: vehicle_damage
+      label: vehicle_damage
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Minor
+      - Moderate
+      required: false
+    - id: 12
+      name: witness_details
+      label: witness_details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: claimant_details
+      label: claimant_details
+      hint: null
+      type: select_multiple
+      options:
+      - Self
+      - Third party
+      - Other
+      required: false
+    - id: 14
+      name: supporting_documents
+      label: supporting_documents
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: vehicle_insurance_excess
+      label: vehicle_insurance_excess
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: vehicle_insurance_excess_reason
+      label: vehicle_insurance_excess_reason
+      hint: null
+      type: text
+      options: []
+      required: true

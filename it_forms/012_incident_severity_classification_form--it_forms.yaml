@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Incident Severity Classification Form
+    pages:
+    - id: 1
+      name: incident_severity_classification_form
+      label: Severity Classification
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: true
+    - id: 2
+      name: incident_details
+      label: Incident Details
+      hint: Please provide a detailed description of the incident.
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: impact_assessment
+      label: Impact Assessment
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: priority_rationale
+      label: Priority Rationale
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: follow_up_details
+      label: Follow-up Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: severity_classification_date
+      label: Severity Classification Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: incident_id
+      label: Incident ID
+      hint: Please enter a unique incident ID.
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: incident_type
+      label: Incident Type
+      hint: null
+      type: select_multiple
+      options:
+      - Network
+      - Server
+      - Application
+      required: true
+    - id: 9
+      name: impact_scale
+      label: Impact Scale
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: true
+    - id: 10
+      name: priority_scale
+      label: Priority Scale
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: true

@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: Software License Termination Request Form
+    pages:
+    - id: 1
+      name: software_license_termination_request_form
+      label: Software License Request
+      hint: null
+      type: select_one
+      options:
+      - License Requested
+      - License Cancelled
+      required: true
+    - id: 2
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: software_id
+      label: Software ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: reason_for_termination
+      label: Reason for Termination
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: department_id
+      label: Department ID
+      hint: null
+      type: select_multiple
+      options:
+      - IT Department
+      - Accounting Department
+      - HR Department
+      - Sales Department
+      required: true
+    - id: 6
+      name: software_name
+      label: Software Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: requestor_name
+      label: Requestor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: comment
+      label: Comment
+      hint: Add any additional comments or notes regarding this software
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: termination_date
+      label: Termination Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: approved_by
+      label: Approved by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: approved_date
+      label: Approved Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Pending
+      - Denied
+      required: true
+    - id: 15
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

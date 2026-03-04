@@ -1,0 +1,92 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: AI Symptom Checker Use Consent Form
+    pages:
+    - id: 1
+      name: --user_information--
+      label: -- User Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: user_name
+      label: User name
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: Contact email
+      hint: Optional for follow up
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: symptom_summary
+      label: Symptom summary
+      hint: Brief description of symptoms
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: consent_statement
+      label: Consent to use AI symptom checker
+      hint: Select one
+      type: select_one
+      options:
+      - I consent to use the symptom checker
+      - I do not consent to use the symptom checker
+      required: true
+    - id: 6
+      name: understanding_limitations
+      label: Understanding of tool limitations
+      hint: Select one
+      type: select_one
+      options:
+      - I understand this is not a diagnosis
+      - I do not understand
+      required: true
+    - id: 7
+      name: data_sharing_preference
+      label: Permission to share anonymized data for research
+      hint: Select one
+      type: select_one
+      options:
+      - Yes
+      - No
+      required: true
+    - id: 8
+      name: emergency_instructions
+      label: Emergency instructions
+      hint: Read only information for users in urgent situations
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: signature
+      label: Electronic signature name
+      hint: Type full name to sign
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: signature_date
+      label: Signature date
+      hint: Date of consent
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Life Insurance Questionnaire
+    pages:
+    - id: 1
+      name: personal_details
+      label: Personal Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: coverage_options
+      label: Coverage Options
+      hint: Select one or more options
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: premium_details
+      label: Premium Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: beneficiary_info
+      label: Beneficiary Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: insurance_history
+      label: Insurance History
+      hint: Include any previous life insurance coverage information
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: policy_details
+      label: Policy Details
+      hint: Select policy terms
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: payment_plan
+      label: Payment Plan
+      hint: Select payment plan
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: review_and_acknowledge
+      label: Review and Acknowledge
+      hint: Review and acknowledge terms and conditions
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: policy_status
+      label: Policy Status
+      hint: Current policy status
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: policy_documents
+      label: Policy Documents
+      hint: Upload policy documents
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: coverage_types
+      label: Coverage Types
+      hint: null
+      type: select_multiple
+      options:
+      - Whole Life
+      - Term Life
+      - Level Term
+      - Universal Life
+      - Index Universal Life
+      - Variable Universal Life
+      required: true
+    - id: 14
+      name: premium_amount
+      label: Premium Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: policy_term
+      label: Policy Term
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: premium_frequency
+      label: Premium Frequency
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Semi-Annually
+      - Annually
+      required: true
+    - id: 17
+      name: policy_start_date
+      label: Policy Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: policy_start_time
+      label: Policy Start Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 19
+      name: death_benefit
+      label: Death Benefit
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: rider_benefits
+      label: Rider Benefits
+      hint: null
+      type: select_multiple
+      options:
+      - Accidental Death Benefit
+      - Waiver of Premium Benefit
+      - Disability Benefit
+      - Long-Term Care Rider
+      - Short-Term Care Rider
+      - Other
+      required: true
+    - id: 21
+      name: premium_payment_method
+      label: Premium Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Automatic Bank Draft
+      - Other
+      required: true
+    - id: 22
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: payment_frequency
+      label: Payment Frequency
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Semi-Annually
+      - Annually
+      required: true
+    - id: 24
+      name: payment_start_date
+      label: Payment Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: payment_start_time
+      label: Payment Start Time
+      hint: null
+      type: time
+      options: []
+      required: true

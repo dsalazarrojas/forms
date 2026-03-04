@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Smart Contract Lease Execution Consent Form
+    pages:
+    - id: 1
+      name: tenant_or_landlord_name
+      label: tenant_or_landlord_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: property_address
+      label: property_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: property_description
+      label: property_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contract_execution_date
+      label: contract_execution_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: consent_provided
+      label: consent_provided
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: consent_provided_reason
+      label: reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: lease_start_date
+      label: lease_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: lease_end_date
+      label: lease_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: rent_amount
+      label: rent_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: rent_frequency
+      label: rent_frequency
+      hint: null
+      type: select_one
+      options:
+      - Weekly
+      - Monthly
+      - Yearly
+      required: false

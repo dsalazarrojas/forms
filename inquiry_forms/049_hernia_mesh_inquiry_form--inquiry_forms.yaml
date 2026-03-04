@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hernia Mesh Inquiry Form
+    pages:
+    - id: 1
+      name: patient_inquiry
+      label: Patient Inquiry
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_inquiry
+      label: Date of Inquiry
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: follow_up_date
+      label: Follow up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: follow_up_time
+      label: Follow up Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: surgery_details
+      label: Surgery Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: follow_up_message
+      label: Follow up Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: medical_office
+      label: Medical Office
+      hint: null
+      type: select_one
+      options:
+      - Medical Office A
+      - Medical Office B
+      - Medical Office C
+      required: false
+    - id: 11
+      name: support_team
+      label: Support Team
+      hint: null
+      type: select_multiple
+      options:
+      - Support Team A
+      - Support Team B
+      - Support Team C
+      required: false
+    - id: 12
+      name: follow_up_method
+      label: Follow up Method
+      hint: null
+      type: select_one
+      options:
+      - Follow up Method A
+      - Follow up Method B
+      - Follow up Method C
+      required: false
+    - id: 13
+      name: follow_up_status
+      label: Follow up Status
+      hint: null
+      type: select_one
+      options:
+      - Follow up Status A
+      - Follow up Status B
+      - Follow up Status C
+      required: false

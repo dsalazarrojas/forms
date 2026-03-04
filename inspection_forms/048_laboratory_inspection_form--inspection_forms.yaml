@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: laboratory_inspection_form
+    pages:
+    - id: 1
+      name: form_header
+      label: form_header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: facility_name
+      label: facility_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: facility_address
+      label: facility_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: facility_city
+      label: facility_city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: facility_state
+      label: facility_state
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: facility_region
+      label: facility_region
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: facility_zip
+      label: facility_zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: facility_phone
+      label: facility_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: facility_inspectors
+      label: facility_inspectors
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: facility_supervisors
+      label: facility_supervisors
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: facility_safety
+      label: facility_safety
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: facility_equipment
+      label: facility_equipment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

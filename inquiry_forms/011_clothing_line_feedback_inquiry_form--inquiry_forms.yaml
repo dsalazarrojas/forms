@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Clothing Line Feedback Inquiry Form
+    pages:
+    - id: 1
+      name: section_customer
+      label: -- Customer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Your Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Optional - for follow-up
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: customer_type
+      label: Are you a customer or prospect?
+      hint: null
+      type: select_one
+      options:
+      - Current customer
+      - Past customer
+      - Prospect
+      - Other
+      required: true
+    - id: 6
+      name: section_feedback
+      label: -- Product Line Feedback --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: product_worn
+      label: Which items have you purchased or tried?
+      hint: null
+      type: select_multiple
+      options:
+      - T-shirts
+      - Dresses
+      - Pants
+      - Jackets
+      - Sweaters
+      - Accessories
+      - Multiple items
+      - None
+      required: true
+    - id: 8
+      name: overall_satisfaction
+      label: Overall satisfaction with our clothing line
+      hint: Rate from 1 (poor) to 5 (excellent)
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: quality_rating
+      label: Quality of fabric and construction
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below average
+      required: true
+    - id: 10
+      name: design_appeal
+      label: Design and style appeal
+      hint: null
+      type: select_one
+      options:
+      - Very appealing
+      - Appealing
+      - Neutral
+      - Not appealing
+      required: true
+    - id: 11
+      name: price_value
+      label: Value for money
+      hint: null
+      type: select_one
+      options:
+      - Great value
+      - Good value
+      - Fair value
+      - Overpriced
+      required: true
+    - id: 12
+      name: fit_comfort
+      label: Fit and comfort
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      required: true
+    - id: 13
+      name: section_specific
+      label: -- Specific Feedback --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: size_accuracy
+      label: Sizing runs true to size?
+      hint: null
+      type: select_one
+      options:
+      - Yes, very accurate
+      - Mostly accurate
+      - Sometimes off
+      - Consistently small
+      - Consistently large
+      required: true
+    - id: 15
+      name: color_accuracy
+      label: Colors match product photos?
+      hint: null
+      type: select_one
+      options:
+      - Yes, very accurate
+      - Mostly accurate
+      - Not accurate
+      required: false
+    - id: 16
+      name: style_variety
+      label: Diversity of styles and designs
+      hint: null
+      type: select_one
+      options:
+      - Great variety
+      - Good variety
+      - Limited variety
+      - Very limited
+      required: true
+    - id: 17
+      name: section_improvement
+      label: -- Suggestions for Improvement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: what_to_improve
+      label: What would you like us to improve?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: desired_styles
+      label: What styles or items would you like to see?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: likelihood_recommend
+      label: Likelihood to recommend our brand
+      hint: Rate from 1 (unlikely) to 5 (very likely)
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: additional_comments
+      label: Additional comments or feedback
+      hint: null
+      type: text
+      options: []
+      required: false

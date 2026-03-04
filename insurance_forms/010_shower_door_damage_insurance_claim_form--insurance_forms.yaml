@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Shower Door Damage Insurance Claim Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: claimant_info
+      label: Claimant Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: claim_type
+      label: Claim Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Water damage''}'
+      - '{''id'': 2, ''label'': ''Glass breakage''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: false
+    - id: 4
+      name: claim_details
+      label: Claim Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: claim_date
+      label: Claim Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: policy_number
+      label: Policy Number
+      hint: null
+      type: text
+      options: []
+      required: false

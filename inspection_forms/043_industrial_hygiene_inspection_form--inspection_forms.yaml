@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: industrial_hygiene_inspection_form
+    pages:
+    - id: 1
+      name: general_conditions
+      label: General Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: chemical_hazards
+      label: Chemical Hazards
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: biological_hazards
+      label: Biological Hazards
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: physical_hazards
+      label: Physical Hazards
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: chemical_control_measures
+      label: Chemical Control Measures
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: biological_control_measures
+      label: Biological Control Measures
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: physical_control_measures
+      label: Physical Control Measures
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: general_comments
+      label: General Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: assigned_inspector
+      label: Assigned Inspector
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Safety Manager'', ''value'': ''Safety Manager''}'
+      - '{''id'': 2, ''label'': ''Shift Manager'', ''value'': ''Shift Manager''}'
+      - '{''id'': 3, ''label'': ''Plant Engineer'', ''value'': ''Plant Engineer''}'
+      - '{''id'': 4, ''label'': ''Environmental Specialist'', ''value'': ''Environmental
+        Specialist''}'
+      required: false

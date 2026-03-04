@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sensor Inspection And Maintenance Checklist
+    pages:
+    - id: 1
+      name: first_page
+      label: first_page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: page_two
+      label: page_two
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: sensor_selection
+      label: select_sensors
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: true
+    - id: 4
+      name: maintenance_action
+      label: select_action
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: true
+    - id: 5
+      name: sensor_location
+      label: sensor_location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: enter_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: enter_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date
+      label: select_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: time
+      label: select_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: sensor_status
+      label: sensor_status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: maintenance_status
+      label: maintenance_status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: notes2
+      label: notes_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: inspection_result
+      label: inspection_result
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: sensor_inspection_frequency
+      label: sensor_inspection_frequency
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: sensor_reorder_frequency
+      label: sensor_reorder_frequency
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: sensor_reorder_quantity
+      label: sensor_reorder_quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: sensor_reorder_cost
+      label: sensor_reorder_cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: sensor_reorder_total
+      label: sensor_reorder_total
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: sensor_reorder_status
+      label: sensor_reorder_status
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: true
+    - id: 22
+      name: notes3
+      label: notes_3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: sensor_reorder_notes
+      label: sensor_reorder_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: sensor_reorder_notes_2
+      label: sensor_reorder_notes_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: sensor_reorder_notes_3
+      label: sensor_reorder_notes_3
+      hint: null
+      type: text
+      options: []
+      required: false

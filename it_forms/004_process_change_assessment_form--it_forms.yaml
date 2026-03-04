@@ -1,0 +1,217 @@
+inputSchema:
+  type: object
+  properties:
+    title: Process Change Assessment Form
+    pages:
+    - id: 1
+      name: process_change_form
+      label: Process Change
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: proposed_change_description
+      label: Proposed Change Description
+      hint: A brief description of the proposed change
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: impact_on_services
+      label: Impact on Services
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 4
+      name: impact_on_users
+      label: Impact on Users
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 5
+      name: impact_on_it
+      label: Impact on IT
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 6
+      name: proposed_change_rationale
+      label: Proposed Change Rationale
+      hint: A brief description of why the proposed change is necessary
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: proposed_change_impact_on_services
+      label: Proposed Change Impact on Services
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: proposed_change_impact_on_users
+      label: Proposed Change Impact on Users
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: proposed_change_impact_on_it
+      label: Proposed Change Impact on IT
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: change_owner
+      label: Change Owner
+      hint: null
+      type: select_multiple
+      options:
+      - '[''John'', ''Jane'', ''Mary'']'
+      - Other
+      required: false
+    - id: 11
+      name: change_manager
+      label: Change Manager
+      hint: null
+      type: select_multiple
+      options:
+      - '[''John'', ''Jane'', ''Mary'']'
+      - Other
+      required: false
+    - id: 12
+      name: change_sponsor
+      label: Change Sponsor
+      hint: null
+      type: select_multiple
+      options:
+      - '[''John'', ''Jane'', ''Mary'']'
+      - Other
+      required: false
+    - id: 13
+      name: change_request_date
+      label: Change Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: change_request_status
+      label: Change Request Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Pending
+      - Denied
+      required: false
+    - id: 15
+      name: change_request_type
+      label: Change Request Type
+      hint: null
+      type: select_one
+      options:
+      - Major
+      - Minor
+      required: false
+    - id: 16
+      name: change_request_frequency
+      label: Change Request Frequency
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 17
+      name: process_owner
+      label: Process Owner
+      hint: null
+      type: select_one
+      options:
+      - John
+      - Jane
+      - Mary
+      required: false
+    - id: 18
+      name: process_manager
+      label: Process Manager
+      hint: null
+      type: select_one
+      options:
+      - John
+      - Jane
+      - Mary
+      required: false
+    - id: 19
+      name: process_sponsor
+      label: Process Sponsor
+      hint: null
+      type: select_one
+      options:
+      - John
+      - Jane
+      - Mary
+      required: false
+    - id: 20
+      name: process_request_date
+      label: Process Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: process_request_status
+      label: Process Request Status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - Closed
+      required: false
+    - id: 22
+      name: process_request_frequency
+      label: Process Request Frequency
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 23
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: submitted_by
+      label: Submitted by
+      hint: null
+      type: text
+      options: []
+      required: false

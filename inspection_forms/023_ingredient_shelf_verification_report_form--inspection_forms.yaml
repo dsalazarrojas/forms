@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ingredient Shelf Verification Report Form
+    pages:
+    - id: 1
+      name: ingredient_shelf_verification_report_form
+      label: ingredient_shelf_verification_report_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: ingredient_shelf_verification_form
+      label: ingredient_shelf_verification_form
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: ingredient_shelf_status
+      label: ingredient_shelf_status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: corrective_action
+      label: corrective_action
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: inspection_date
+      label: inspection_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: shelf_location
+      label: shelf_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: shelf_condition
+      label: shelf_condition
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: storage_area
+      label: storage_area
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: storage_type
+      label: storage_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

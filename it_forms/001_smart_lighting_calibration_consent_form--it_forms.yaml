@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Smart Lighting Calibration Consent Form
+    pages:
+    - id: 1
+      name: first_page
+      label: smart_lighting_calibration_consent_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: contact_details
+      label: contact_details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: authorization
+      label: authorization
+      hint: Please provide authorization for smart lighting adjustments
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: approval_confirmation
+      label: approval_confirmation
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Not approved
+      - Conditional approval
+      - Declined
+      required: false
+    - id: 9
+      name: service_provider_details
+      label: service_provider_details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: property_manager_details
+      label: property_manager_details
+      hint: null
+      type: note
+      options: []
+      required: false

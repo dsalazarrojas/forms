@@ -1,0 +1,62 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daily Food Intake Form
+    pages:
+    - id: 1
+      name: daily_food_intake_form
+      label: daily food intake form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: food_items
+      label: food items
+      hint: null
+      type: select_multiple
+      options:
+      - item1
+      - item2
+      - item3
+      required: false
+    - id: 3
+      name: quantity
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: calories_burned
+      label: calories burned
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: water_intake
+      label: water intake
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: food_frequency
+      label: food frequency
+      hint: null
+      type: select_one
+      options:
+      - daily
+      - weekly
+      - monthly
+      required: false
+    - id: 7
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false

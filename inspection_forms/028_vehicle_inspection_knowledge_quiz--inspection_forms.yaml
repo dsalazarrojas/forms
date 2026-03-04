@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: vehicle_inspection_knowledge_quiz
+    pages:
+    - id: 1
+      name: vehicle_inspection_knowledge_quiz_start
+      label: vehicle inspection knowledge quiz
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: vehicle_type
+      label: vehicle type
+      hint: null
+      type: select_one
+      options:
+      - Vehicle
+      - Motorcycle
+      - Car
+      required: false
+    - id: 3
+      name: vehicle_year
+      label: vehicle year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: engine_type
+      label: engine type
+      hint: null
+      type: select_one
+      options:
+      - Gasoline
+      - Diesel
+      - Hybrid
+      required: false
+    - id: 5
+      name: transmission_type
+      label: transmission type
+      hint: null
+      type: select_one
+      options:
+      - Automatic
+      - Manual
+      - Semi-Automatic
+      required: false
+    - id: 6
+      name: vehicle_inspection_status
+      label: vehicle inspection status
+      hint: null
+      type: select_multiple
+      options:
+      - Passed
+      - Failed
+      - Pending
+      required: false
+    - id: 7
+      name: inspection_date
+      label: inspection date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: inspection_time
+      label: inspection time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: vehicle_inspection_knowledge_quiz_end
+      label: vehicle inspection knowledge quiz end
+      hint: null
+      type: note
+      options: []
+      required: false

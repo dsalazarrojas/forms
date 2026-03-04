@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Insurance Policy Extension Form
+    pages:
+    - id: 1
+      name: policy_request_form
+      label: policy_request_form
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: policy_type
+      label: policy_type
+      hint: null
+      type: select_one
+      options:
+      - Health
+      - Auto
+      - Home
+      - Life
+      - Other
+      required: false
+    - id: 3
+      name: reason_for_extension
+      label: reason_for_extension
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: policy_id
+      label: policy_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: extension_date
+      label: extension_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: expiration_date
+      label: expiration_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: extension_amount
+      label: extension_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: policy_holder_name
+      label: policy_holder_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: policy_holder_email
+      label: policy_holder_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: policy_holder_phone
+      label: policy_holder_contact
+      hint: null
+      type: text
+      options: []
+      required: false

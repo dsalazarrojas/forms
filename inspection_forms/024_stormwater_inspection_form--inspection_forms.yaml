@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stormwater Inspection Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_inspection
+      label: Date Of Inspection
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: stormwater_system_status
+      label: Stormwater System Status
+      hint: null
+      type: select_one
+      options:
+      - Stormwater system is functioning well
+      - Stormwater system is functioning badly
+      - Stormwater system is not functioning at all
+      required: false
+    - id: 4
+      name: inspection_location
+      label: Inspection Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: stormwater_inspection_form_submitted_by
+      label: Stormwater Inspection Form Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

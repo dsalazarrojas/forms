@@ -1,0 +1,278 @@
+inputSchema:
+  type: object
+  properties:
+    title: Commercial Building Insurance Application Form
+    pages:
+    - id: 1
+      name: applicant_name
+      label: Applicant Name
+      hint: Full legal name or business name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: applicant_type
+      label: Applicant Type
+      hint: Type of applicant
+      type: select_one
+      options:
+      - Individual
+      - Corporation
+      - LLC
+      - Partnership
+      - Non-Profit
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_header_property_info
+      label: -- Property Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: property_address
+      label: Property Address
+      hint: Complete address of insured property
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: property_type
+      label: Property Type
+      hint: Type of commercial building
+      type: select_one
+      options:
+      - Office Building
+      - Retail Store
+      - Warehouse
+      - Industrial Facility
+      - Restaurant
+      - Hotel
+      - Medical Facility
+      - Mixed Use
+      required: true
+    - id: 8
+      name: year_built
+      label: Year Built
+      hint: Construction year
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: total_square_footage
+      label: Total Square Footage
+      hint: Building size
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: number_of_floors
+      label: Number of Floors
+      hint: How many floors
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: construction_type
+      label: Construction Type
+      hint: Building construction materials
+      type: select_one
+      options:
+      - Wood Frame
+      - Steel Frame
+      - Concrete
+      - Masonry
+      - Mixed
+      required: true
+    - id: 12
+      name: section_header_coverage
+      label: -- Coverage Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: building_value
+      label: Building Value
+      hint: Estimated replacement value
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: contents_value
+      label: Contents Value
+      hint: Value of building contents
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: desired_coverage_amount
+      label: Desired Coverage Amount
+      hint: Total coverage requested
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: coverage_type
+      label: Coverage Type
+      hint: Type of coverage needed
+      type: select_one
+      options:
+      - Basic
+      - Broad
+      - Special
+      - All Risk
+      required: true
+    - id: 17
+      name: additional_coverages
+      label: Additional Coverages
+      hint: Select additional coverage options
+      type: select_multiple
+      options:
+      - Business Interruption
+      - Equipment Breakdown
+      - Flood
+      - Earthquake
+      - Cyber Liability
+      - General Liability
+      - None
+      required: true
+    - id: 18
+      name: section_header_claims_history
+      label: -- Claims History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: previous_claims
+      label: Previous Claims
+      hint: Have you had insurance claims before
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 20
+      name: claims_details
+      label: Claims Details
+      hint: Describe previous claims
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: section_header_safety_features
+      label: -- Safety Features --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: fire_protection
+      label: Fire Protection
+      hint: Fire protection systems
+      type: select_multiple
+      options:
+      - Smoke Detectors
+      - Fire Alarms
+      - Sprinkler System
+      - Fire Extinguishers
+      - Fire Department Nearby
+      - None
+      required: true
+    - id: 23
+      name: security_system
+      label: Security System
+      hint: Security features installed
+      type: select_multiple
+      options:
+      - Alarm System
+      - Security Cameras
+      - Security Guards
+      - Access Control
+      - Motion Sensors
+      - None
+      required: true
+    - id: 24
+      name: section_header_business_info
+      label: -- Business Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: business_type
+      label: Business Type
+      hint: Type of business conducted
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: years_in_business
+      label: Years in Business
+      hint: How long in operation
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-5 years
+      - 5-10 years
+      - 10-20 years
+      - 20+ years
+      required: true
+    - id: 27
+      name: number_of_employees
+      label: Number of Employees
+      hint: Total employees at location
+      type: number
+      options: []
+      required: true
+    - id: 28
+      name: section_header_payment
+      label: -- Payment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 29
+      name: payment_frequency
+      label: Payment Frequency
+      hint: Preferred payment schedule
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Semi-Annual
+      - Annual
+      required: true
+    - id: 30
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Bank Transfer
+      - Check
+      required: true
+    - id: 31
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,41 @@
+inputSchema:
+  type: object
+  properties:
+    title: Insurance Adjustment Authorization Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: insurance_policy
+      label: Insurance Policy
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: authorization_details
+      label: Authorization Details
+      hint: Enter details about the adjustment, such as the type of change and date
+        of adjustment.
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: adjustment_amount
+      label: Adjustment Amount
+      hint: Enter the amount of the adjustment.
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: text
+      options: []
+      required: false

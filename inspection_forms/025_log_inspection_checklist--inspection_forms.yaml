@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Log Inspection Checklist
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: date_completed
+      label: Date Completed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: inspector_name
+      label: Inspector Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: location_inspected
+      label: Location Inspected
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: equipment_inspected
+      label: Equipment Inspected
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: inspection_findings
+      label: Inspection Findings
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: safety_procedures
+      label: Safety Procedures
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: safety_standards
+      label: Safety Standards
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: action_taken
+      label: Action Taken
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: signature
+      label: Signature
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Temperature Control Audit Request Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Temperature Control Audit Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: inspector_name
+      label: Inspector Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_inspection
+      label: Date of Inspection
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: site_location
+      label: Site Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: temperature_range
+      label: Temperature Range
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: equipment_id
+      label: Equipment ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: equipment_status
+      label: Equipment Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''In Good Working Condition''}'
+      - '{''id'': 2, ''label'': ''Not In Good Working Condition''}'
+      - '{''id'': 3, ''label'': ''In Need of Maintenance''}'
+      required: false
+    - id: 8
+      name: maintenance_notes
+      label: Maintenance Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: signature
+      label: Inspector Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: inspector_signature_date
+      label: Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false

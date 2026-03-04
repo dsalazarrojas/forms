@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Railway Station Platform Inspection Form
+    pages:
+    - id: 1
+      name: platform_condition
+      label: Platform Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: safety_inspection
+      label: Safety Inspection
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: platform_status
+      label: Platform Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 4
+      name: platform_elevation
+      label: Platform Elevation
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: inspection_time
+      label: Inspection Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: assigned_inspector
+      label: Assigned Inspector
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: platform_condition_1
+      label: Platform Condition 1
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: platform_condition_2
+      label: Platform Condition 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: platform_condition_3
+      label: Platform Condition 3
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

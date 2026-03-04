@@ -1,0 +1,286 @@
+inputSchema:
+  type: object
+  properties:
+    title: Caregiver Empowerment Initiative Application Form
+    pages:
+    - id: 1
+      name: caregiver_name
+      label: Caregiver Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Include area code
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: application_date
+      label: Application Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: caregiver_age
+      label: Your Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: caregiver_gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Other
+      - Prefer not to say
+      required: false
+    - id: 7
+      name: relationship_to_care_recipient
+      label: Relationship to Care Recipient
+      hint: Who are you caring for?
+      type: select_one
+      options:
+      - Spouse or partner
+      - Adult child
+      - Parent
+      - Sibling
+      - Grandchild
+      - Grandparent
+      - Friend or neighbor
+      - Other family member
+      - Professional caregiver
+      required: true
+    - id: 8
+      name: care_recipient_name
+      label: Care Recipient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: care_recipient_age
+      label: Care Recipient Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: caregiving_duration
+      label: How Long Have You Been a Caregiver?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: caregiving_hours_weekly
+      label: Hours Per Week Spent Caregiving
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: caregiving_primary_responsibility
+      label: Is Caregiving Your Primary Responsibility?
+      hint: null
+      type: select_one
+      options:
+      - Yes - full-time caregiver
+      - Yes - primary responsibility alongside work
+      - No - secondary responsibility
+      - No - share equally with others
+      required: true
+    - id: 13
+      name: care_types
+      label: Types of Care Provided
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Personal hygiene and grooming
+      - Bathing and toileting
+      - Medication management
+      - Meal preparation
+      - Transportation
+      - Financial management
+      - Medical appointments
+      - Emotional or psychological support
+      - Physical care or lifting
+      - Nursing or medical care
+      - Supervision due to cognitive decline
+      required: true
+    - id: 14
+      name: care_recipient_condition
+      label: Primary Condition of Care Recipient
+      hint: Illness, disability, or condition
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: caregiver_stress_level
+      label: Your Current Stress Level
+      hint: Rate from 1-10 (1 = minimal, 10 = extreme)
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: emotional_wellness
+      label: Emotional Wellness
+      hint: How are you managing emotionally?
+      type: select_one
+      options:
+      - Excellent - coping well
+      - Good - mostly managing
+      - Fair - struggling at times
+      - Poor - significant difficulties
+      - Crisis - urgent support needed
+      required: true
+    - id: 17
+      name: physical_health
+      label: Your Physical Health
+      hint: How is your health?
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Have significant health issues
+      required: true
+    - id: 18
+      name: support_system
+      label: Support System Available
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Family support
+      - Friends or neighbors
+      - Support groups
+      - Religious or spiritual community
+      - Professional services
+      - Community resources
+      - Healthcare providers
+      - Limited support
+      required: true
+    - id: 19
+      name: employment_status
+      label: Employment Status
+      hint: null
+      type: select_one
+      options:
+      - Employed full-time
+      - Employed part-time
+      - Self-employed
+      - Unemployed
+      - Retired
+      - Student
+      - Other
+      required: true
+    - id: 20
+      name: financial_impact
+      label: Financial Impact of Caregiving
+      hint: How has caregiving affected finances?
+      type: select_one
+      options:
+      - No negative impact
+      - Minor impact
+      - Moderate impact
+      - Significant impact
+      - Severe financial strain
+      required: true
+    - id: 21
+      name: barriers_challenges
+      label: Main Challenges or Barriers
+      hint: What makes caregiving difficult?
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: goals_objectives
+      label: Goals for Participating in This Initiative
+      hint: What do you hope to achieve?
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: support_needed
+      label: Types of Support You Need Most
+      hint: Select your top 3 priorities
+      type: select_multiple
+      options:
+      - Respite care or breaks
+      - Mental health counseling
+      - Stress management training
+      - Support groups
+      - Financial assistance
+      - In-home help
+      - Legal or estate planning
+      - Caregiver skills training
+      - Healthcare navigation
+      - Social and recreation
+      required: true
+    - id: 24
+      name: previous_participation
+      label: Previous Participation in Programs
+      hint: Have you participated in other caregiver programs?
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: program_format_preference
+      label: Preferred Program Format
+      hint: How would you like to participate?
+      type: select_multiple
+      options:
+      - In-person meetings
+      - Online classes or webinars
+      - One-on-one coaching
+      - Group support sessions
+      - Flexible or self-paced
+      required: true
+    - id: 26
+      name: time_availability
+      label: Time Availability for Program
+      hint: When can you participate?
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: transportation_needs
+      label: Transportation or Accessibility Needs
+      hint: Any accommodations needed?
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: commitment_level
+      label: Commitment to Program
+      hint: How committed are you to participating?
+      type: select_one
+      options:
+      - Fully committed - will attend regularly
+      - Very committed - expect to participate
+      - Committed - but may miss some sessions
+      - Uncertain - dependent on circumstances
+      required: true
+    - id: 29
+      name: additional_information
+      label: Additional Information
+      hint: Anything else we should know?
+      type: text
+      options: []
+      required: false

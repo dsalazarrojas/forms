@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tattoo Indemnity Form
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: tattoo_type
+      label: Tattoo Type
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Semi-Private Area''}'
+      - Full-Sleeve Tattoo
+      - Tattoo Sleeve
+      - Minimal Tattoo
+      required: false
+    - id: 3
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: client_email
+      label: Client E-Mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: client_phone
+      label: Client Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: artist_name
+      label: Artist Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: tattoo_service
+      label: Tattoo Service
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Tattoo''}'
+      - Piercing
+      required: false
+    - id: 8
+      name: tattoo_service_description
+      label: Tattoo Service Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: risks
+      label: Risks
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: tattoo_aftercare
+      label: Aftercare Instructions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: client_signature
+      label: Client Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: artist_signature
+      label: Artist Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: signature_date
+      label: Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: CrowdStrike Global Threat Report Form
+    pages:
+    - id: 1
+      name: threat_level
+      label: Threat Level
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: false
+    - id: 2
+      name: threat_vector
+      label: Threat Vector
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: threat_description
+      label: Threat Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: threat_severity
+      label: Threat Severity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: threat_confidence
+      label: Threat Confidence
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: threat_frequency
+      label: Threat Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: threat_impact
+      label: Threat Impact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: threat_location
+      label: Threat Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: threat_status
+      label: Threat Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: threat_type
+      label: Threat Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: threat_source
+      label: Threat Source
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: threat_target
+      label: Threat Target
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: threat_actor
+      label: Threat Actor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: threat_indicators
+      label: Threat Indicators
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: threat_ransomware
+      label: Ransomware
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: threat_espionage
+      label: Espionage
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: threat_tactics
+      label: Tactics
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: threat_technique
+      label: Techniques
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: threat_tactics_technique
+      label: Tactics/Techniques
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: threat_category
+      label: Category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: threat_tags
+      label: Tags
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: threat_comment
+      label: Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: threat_file
+      label: File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: threat_hash
+      label: Hash
+      hint: null
+      type: text
+      options: []
+      required: false

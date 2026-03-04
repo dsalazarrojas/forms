@@ -1,0 +1,88 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Claimant Statement Form
+    pages:
+      - id: 1
+        name: claimant_name
+        label: Claimant full name
+        hint: Full legal name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: contact_information
+        label: Contact information
+        hint: Email and phone
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: incident_date
+        label: Incident date
+        hint: When the event occurred
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: statement
+        label: Detailed statement of events
+        hint: Provide chronological details
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: witnesses
+        label: Witness names and contacts
+        hint: If any
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: supporting_documents
+        label: Supporting documents note
+        hint: Upload receipts photos reports via portal
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: signature_declaration
+        label: Signature declaration
+        hint: Typed name accepted as signature
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: privacy_notice
+        label: Privacy notice
+        hint: How your statement will be used
+        type: note
+        options: []
+        required: true
+      - id: 9
+        name: follow_up_preference
+        label: Follow up preference
+        hint: Indicate if you want updates
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: false
+      - id: 10
+        name: submission_date
+        label: Submission date
+        hint: Use current date
+        type: date
+        options: []
+        required: true

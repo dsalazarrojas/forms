@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: vehicle-declaration-form
+    pages:
+    - id: 1
+      name: vehicle_usage
+      label: Vehicle Usage
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vehicle_make
+      label: vehicle-make
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: vehicle_model
+      label: vehicle-model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: vehicle_year
+      label: vehicle-year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: vehicle_registration
+      label: vehicle-registration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: driver_license
+      label: driver-license
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: driver_name
+      label: driver-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: vehicle_owner
+      label: vehicle-owner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: vehicle_usage_date
+      label: vehicle-usage-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: vehicle_usage_time
+      label: vehicle-usage-time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: vehicle_usage_duration
+      label: vehicle-usage-duration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: vehicle_usage_start_date
+      label: vehicle-usage-start-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: vehicle_usage_end_date
+      label: vehicle-usage-end-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: vehicle_insurance
+      label: vehicle-insurance
+      hint: null
+      type: select_one
+      options:
+      - Insurance Company A
+      - Insurance Company B
+      - Insurance Company C
+      required: false
+    - id: 15
+      name: vehicle_insurance_start_date
+      label: vehicle-insurance-start-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: vehicle_insurance_end_date
+      label: vehicle-insurance-end-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: vehicle_insurance_status
+      label: vehicle-insurance-status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 18
+      name: vehicle_insurance_type
+      label: vehicle-insurance-type
+      hint: null
+      type: select_multiple
+      options:
+      - Full Coverage
+      - Liability Coverage
+      - Comprehensive Coverage
+      required: false
+    - id: 19
+      name: vehicle_owner_contact
+      label: vehicle-owner-contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: vehicle_usage_remark
+      label: vehicle-usage-remark
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: vehicle_license_status
+      label: vehicle-license-status
+      hint: null
+      type: select_one
+      options:
+      - Valid
+      - Invalid
+      required: false
+    - id: 22
+      name: vehicle_insurance_company
+      label: vehicle-insurance-company
+      hint: null
+      type: select_one
+      options:
+      - Insurance Company A
+      - Insurance Company B
+      - Insurance Company C
+      required: false
+    - id: 23
+      name: vehicle_insurance_agency
+      label: vehicle-insurance-agency
+      hint: null
+      type: select_one
+      options:
+      - Agency A
+      - Agency B
+      - Agency C
+      required: false
+    - id: 24
+      name: vehicle_insurance_coverage
+      label: vehicle-insurance-coverage
+      hint: null
+      type: select_one
+      options:
+      - Full
+      - Partial
+      required: false
+    - id: 25
+      name: vehicle_insurance_renewal
+      label: vehicle-insurance-renewal
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

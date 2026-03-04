@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Retail Sales Assistant Interview Form
+    pages:
+    - id: 1
+      name: name
+      label: candidates_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: candidates_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: shifts
+      label: shifts
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: availability_start
+      label: availability_start
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: availability_end
+      label: availability_end
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: retail_experience
+      label: retail_experience
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: sales_experience
+      label: sales_experience
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: customer_service
+      label: customer_service
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

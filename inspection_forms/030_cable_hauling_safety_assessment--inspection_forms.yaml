@@ -1,0 +1,77 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Cable Hauling Safety Assessment
+    pages:
+      - id: 1
+        name: assessor_name
+        label: Assessor name
+        hint: Person completing assessment
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: assessment_date
+        label: Assessment date
+        hint: Date of inspection
+        type: date
+        options: []
+        required: true
+      - id: 3
+        name: site_location
+        label: Site location
+        hint: Worksite address
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: equipment_condition
+        label: Equipment condition
+        hint: Winches slings and supports
+        type: select_one
+        options:
+          - Satisfactory
+          - Requires maintenance
+          - Unsatisfactory
+        required: true
+      - id: 5
+        name: environmental_hazards
+        label: Environmental hazards present
+        hint: Weather terrain or wildlife
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: personnel_training_compliance
+        label: Personnel training compliance
+        hint: All personnel certified for task
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 7
+        name: corrective_measures
+        label: Corrective measures required
+        hint: Actions to mitigate risks
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: follow_up_date
+        label: Follow up inspection date
+        hint: Schedule for reinspection
+        type: date
+        options: []
+        required: false

@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Coronavirus Suspected Patient Intake Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_condition
+      label: medical_condition
+      hint: null
+      type: select_one
+      options:
+      - COVID-19
+      - Flu
+      - Allergies
+      - Other
+      required: false
+    - id: 3
+      name: patient_contact
+      label: patient_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: patient_email
+      label: patient_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: medical_history_description
+      label: Medical History Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: symptoms
+      label: symptoms
+      hint: null
+      type: select_multiple
+      options:
+      - Fever
+      - Cough
+      - Fatigue
+      - Headache
+      - Sore Throat
+      - Runny Nose
+      - Shortness of Breath
+      - Loss of Taste
+      - Other
+      required: false
+    - id: 8
+      name: medical_facility
+      label: medical_facility
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: medical_department
+      label: Medical Department
+      hint: null
+      type: select_one
+      options:
+      - Primary Care
+      - Urgent Care
+      - Specialty Care
+      - Other
+      required: false
+    - id: 10
+      name: medical_provider
+      label: Medical Provider
+      hint: null
+      type: text
+      options: []
+      required: false

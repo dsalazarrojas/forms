@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: ride_sharing_vehicle_inspection_form
+    pages:
+    - id: 1
+      name: vehicle_type
+      label: vehicle_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: vehicle_make
+      label: vehicle_make
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: vehicle_model
+      label: vehicle_model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: vehicle_year
+      label: vehicle_year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: vehicle_plate
+      label: vehicle_plate
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: odometer_reading
+      label: odometer_reading
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: vehicle_condition
+      label: vehicle_condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: inspection_date
+      label: inspection_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: inspection_time
+      label: inspection_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: inspector_name
+      label: inspector_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: inspector_phone
+      label: inspector_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: vehicle_registration
+      label: vehicle_registration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: vehicle_status
+      label: vehicle_status
+      hint: null
+      type: select_one
+      options:
+      - Vehicle Available
+      - Vehicle Unavailable
+      - Vehicle In-Transit
+      required: false
+    - id: 14
+      name: inspection_comments
+      label: inspection_comments
+      hint: null
+      type: text
+      options: []
+      required: false

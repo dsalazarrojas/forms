@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: Real Estate Lead Intake Form
+    pages:
+    - id: 1
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Home Owner'', ''label'': ''Home Owner''}'
+      - '{''value'': ''Real Estate Agent'', ''label'': ''Real Estate Agent''}'
+      - '{''value'': ''Other'', ''label'': ''Other''}'
+      required: false
+    - id: 2
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Residential'', ''label'': ''Residential''}'
+      - '{''value'': ''Commercial'', ''label'': ''Commercial''}'
+      - '{''value'': ''Other'', ''label'': ''Other''}'
+      required: false
+    - id: 3
+      name: property_type_value
+      label: Property Type Value
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: location
+      label: Location
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''City'', ''label'': ''City''}'
+      - '{''value'': ''State'', ''label'': ''State''}'
+      - '{''value'': ''Zip'', ''label'': ''Zip''}'
+      required: false
+    - id: 5
+      name: location_value
+      label: Location Value
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Phone'', ''label'': ''Phone''}'
+      - '{''value'': ''Email'', ''label'': ''Email''}'
+      - '{''value'': ''Other'', ''label'': ''Other''}'
+      required: false
+    - id: 7
+      name: contact_method_value
+      label: Contact Method Value
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: lead_info
+      label: Lead Info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: followup_info
+      label: Followup Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: followup_date
+      label: Followup Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: followup_time
+      label: Followup Time
+      hint: null
+      type: time
+      options: []
+      required: false

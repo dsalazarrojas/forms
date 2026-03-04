@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: life_insurance_records_release_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: policy_number
+      label: Policy Number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: effective_date
+      label: Effective Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: expiration_date
+      label: Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: policy_type
+      label: Policy Type
+      hint: null
+      type: select_one
+      options:
+      - Life
+      - Death
+      - Disability
+      required: true
+    - id: 8
+      name: policy_holder
+      label: Policy Holder
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: policy_holder_relationship
+      label: Relationship to Policy Holder
+      hint: null
+      type: select_multiple
+      options:
+      - Spouse
+      - Child
+      - Parent
+      required: true
+    - id: 10
+      name: authorized_party
+      label: Authorized Party
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: authorized_party_relationship
+      label: Relationship to Authorized Party
+      hint: null
+      type: select_one
+      options:
+      - Self
+      - Spouse
+      - Parent
+      required: true
+    - id: 12
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false

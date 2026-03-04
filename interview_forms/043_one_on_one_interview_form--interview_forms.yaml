@@ -1,0 +1,43 @@
+inputSchema:
+  type: object
+  properties:
+    title: One On One Interview Form
+    pages:
+    - id: 1
+      name: one_on_one_interview_form_page_1
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: one_on_one_interview_form_page_2
+      label: interview_questions
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 3
+      name: one_on_one_interview_form_page_3
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: one_on_one_interview_form_page_4
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: one_on_one_interview_form_page_5
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false

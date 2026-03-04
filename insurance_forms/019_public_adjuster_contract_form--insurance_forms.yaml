@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: public_adjuster_contract_form
+    pages:
+    - id: 1
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: adjuster_name
+      label: adjuster_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: adjuster_license_number
+      label: adjuster_license_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: adjuster_phone
+      label: adjuster_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contract_type
+      label: contract_type
+      hint: null
+      type: select_one
+      options:
+      - Adjuster Contract
+      - Public Adjuster Contract
+      - Other
+      required: false
+    - id: 8
+      name: contract_date
+      label: contract_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: contract_duration
+      label: contract_duration
+      hint: null
+      type: select_multiple
+      options:
+      - 30 Days
+      - 60 Days
+      - Other
+      - No Limit
+      required: false
+    - id: 10
+      name: contract_price
+      label: contract_price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: contract_signoff
+      label: contract_signoff
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Undecided
+      required: true
+    - id: 12
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

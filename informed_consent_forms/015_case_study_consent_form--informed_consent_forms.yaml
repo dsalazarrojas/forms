@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Case Study Consent Form
+    pages:
+    - id: 1
+      name: consent_introduction_section
+      label: -- Study Introduction --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: study_title
+      label: Case Study Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: consent_date
+      label: Date of Consent
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: researcher_name
+      label: Researcher or Principal Investigator Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: research_institution
+      label: Research Institution or University
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: participant_information_section
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: participant_dob
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: participant_id_number
+      label: Participant ID Number
+      hint: For record-keeping purposes
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_phone
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: contact_email
+      label: Contact Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: study_description_section
+      label: -- Study Description --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: study_purpose
+      label: Purpose of the Case Study
+      hint: Explain in simple, non-technical terms
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: study_procedures
+      label: What Will Be Involved in the Study?
+      hint: Describe procedures and time commitment
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: study_duration
+      label: Expected Duration of Study Participation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: data_collection_methods
+      label: Data Collection Methods
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Interviews
+      - Surveys
+      - Medical Records Review
+      - Psychological Testing
+      - Observation
+      - Focus Groups
+      - Questionnaires
+      - Other
+      required: true
+    - id: 17
+      name: risk_and_benefits_section
+      label: -- Risks and Benefits --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: potential_risks
+      label: Potential Risks of Participation
+      hint: Describe any foreseeable risks
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: potential_benefits
+      label: Potential Benefits of Participation
+      hint: Describe direct or indirect benefits
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: confidentiality_section
+      label: -- Confidentiality and Privacy --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: confidentiality_measures
+      label: How Will Confidentiality Be Protected?
+      hint: Describe safeguards in place
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: de_identification
+      label: Will Information Be De-Identified?
+      hint: null
+      type: select_one
+      options:
+      - Yes, completely de-identified
+      - Yes, coded only
+      - No, identifiable information will be used
+      - Undecided
+      required: true
+    - id: 23
+      name: publication_use
+      label: How Will Results Be Used or Published?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: consent_agreement_section
+      label: -- Consent Agreement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: voluntary_agreement
+      label: I voluntarily consent to participate in this case study
+      hint: null
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, I do not agree
+      required: true

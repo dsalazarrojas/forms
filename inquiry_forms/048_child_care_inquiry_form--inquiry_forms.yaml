@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: Child Care Inquiry Form
+    pages:
+    - id: 1
+      name: inquiry_intro
+      label: -- Child Care Inquiry Form --
+      hint: Inquire about our child care programs and services
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: inquiry_date
+      label: Inquiry date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: parent_first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: parent_last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: parent_email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: parent_phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: preferred_contact
+      label: Preferred contact method
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - Text message
+      - No preference
+      required: true
+    - id: 8
+      name: child_name
+      label: Child's name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: child_age
+      label: Child's age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: child_date_of_birth
+      label: Child's date of birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: additional_children
+      label: Do you have additional children?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 12
+      name: other_children_ages
+      label: Ages of other children
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: care_type_needed
+      label: Type of care needed
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Full-time care
+      - Part-time care
+      - Before-school care
+      - After-school care
+      - Infant care
+      - Preschool
+      - Drop-in care
+      - Summer program
+      - Other
+      required: true
+    - id: 14
+      name: care_start_date
+      label: When do you need care to start?
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: hours_needed
+      label: Hours of care needed per week
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: schedule_preference
+      label: Preferred schedule
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: current_situation
+      label: Current child care situation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: special_needs_interests
+      label: Special needs or specific interests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: program_interests
+      label: Specific programs you are interested in
+      hint: null
+      type: select_multiple
+      options:
+      - Montessori
+      - Reggio Emilia
+      - Play-based learning
+      - STEM focus
+      - Arts and music
+      - Sports and outdoor
+      - Bilingual program
+      - Special needs support
+      - Other
+      required: false
+    - id: 20
+      name: main_inquiry
+      label: What is your main inquiry or question?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: budget_flexibility
+      label: Budget considerations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: follow_up_preference
+      label: Would you like us to follow up?
+      hint: null
+      type: select_one
+      options:
+      - Yes, call me
+      - Yes, email me
+      - Yes, text me
+      - No follow-up needed
+      required: true

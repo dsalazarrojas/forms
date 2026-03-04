@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hotel Inspection Form
+    pages:
+    - id: 1
+      name: hotel_facilities
+      label: hotel facilities
+      hint: null
+      type: select_multiple
+      options:
+      - Amenities
+      - Cleanliness
+      - Safety
+      required: false
+    - id: 2
+      name: hotel_services
+      label: hotel services
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: hotel_cleanliness
+      label: hotel cleanliness
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: hotel_staff
+      label: hotel staff
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: room_quality
+      label: room quality
+      hint: null
+      type: select_one
+      options:
+      - Very Bad
+      - Bad
+      - Good
+      - Very Good
+      - Excellent
+      required: false
+    - id: 6
+      name: overall_satisfaction
+      label: overall satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Very Dissatisfied
+      - Somewhat Dissatisfied
+      - Neutral
+      - Somewhat Satisfied
+      - Very Satisfied
+      required: false
+    - id: 7
+      name: comments
+      label: comments
+      hint: Please provide any comments or feedback.
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: hotel_name
+      label: hotel name
+      hint: Hotel name
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_person
+      label: contact person
+      hint: Contact Person
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_email
+      label: contact email
+      hint: Contact Person Email
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: contact_phone
+      label: contact phone
+      hint: Contact Person Phone
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: assigned_tool
+      label: assigned tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - chatfrank
+      - chatjohn
+      required: false
+    - id: 13
+      name: hotel_id
+      label: hotel id
+      hint: Hotel ID
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: created_by
+      label: created by
+      hint: null
+      type: text
+      options: []
+      required: false

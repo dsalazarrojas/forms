@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: Remote Job Interview Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: availability
+      label: Availability
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Morning''}'
+      - '{''value'': ''Afternoon''}'
+      - '{''value'': ''Evening''}'
+      required: false
+    - id: 4
+      name: preferred_language
+      label: Preferred Language
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''English''}'
+      - '{''value'': ''French''}'
+      - '{''value'': ''Spanish''}'
+      - '{''value'': ''Other''}'
+      required: true
+    - id: 5
+      name: time_zone
+      label: Time Zone
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''EST''}'
+      - '{''value'': ''PST''}'
+      - '{''value'': ''CST''}'
+      - '{''value'': ''GMT''}'
+      - '{''value'': ''Other''}'
+      required: true
+    - id: 6
+      name: work_location
+      label: Work Location
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Office''}'
+      - '{''value'': ''Home''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 7
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: job_description
+      label: Job Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: notice
+      label: Notice
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: skills
+      label: Skills
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: experience
+      label: Experience
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: job_type
+      label: Job Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Remote''}'
+      - '{''value'': ''On-site''}'
+      required: true
+    - id: 13
+      name: job_status
+      label: Job Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Open''}'
+      - '{''value'': ''Closed''}'
+      - '{''value'': ''Archived''}'
+      required: true
+    - id: 14
+      name: created_by
+      label: Created By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: job_url
+      label: Job URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: job_id
+      label: Job ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: job_description_url
+      label: Job Description URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: created_date
+      label: Created Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: updated_date
+      label: Updated Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: job_location
+      label: Job Location
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Remote''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 22
+      name: job_location_address
+      label: Job Location Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: job_location_map
+      label: Job Location Map
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: job_tags
+      label: Job Tags
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: job_status_notes
+      label: Job Status Notes
+      hint: null
+      type: text
+      options: []
+      required: false

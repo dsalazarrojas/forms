@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Health Waiver Form
+    pages:
+    - id: 1
+      name: header
+      label: -- COVID-19 Health Waiver --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city_state_zip
+      label: City, State, Zip Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: emergency_contact
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: emergency_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: vaccine_interest
+      label: -- Vaccine Interest --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: vaccine_willing
+      label: Are you willing to receive COVID-19 vaccine
+      hint: null
+      type: select_one
+      options:
+      - Yes, I Am Willing
+      - No, I Am Not Willing
+      - Unsure
+      required: true
+    - id: 12
+      name: vaccine_hesitation_reason
+      label: Reasons for hesitation if applicable
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: prior_vaccine_reaction
+      label: Prior allergic reactions to vaccines
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unknown
+      required: true
+    - id: 14
+      name: reaction_details
+      label: Describe prior reactions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: medical_conditions
+      label: Pre-existing medical conditions affecting vaccine
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unknown
+      required: true
+    - id: 16
+      name: condition_details
+      label: Describe medical conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: pregnant_nursing
+      label: Are you pregnant or nursing
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Prefer Not to Say
+      required: true
+    - id: 18
+      name: understanding_section
+      label: -- Understanding and Acknowledgment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: understand_vaccine_info
+      label: I have reviewed vaccine information
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 20
+      name: understand_risks_benefits
+      label: I understand risks and benefits of vaccination
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 21
+      name: voluntary_choice
+      label: This is my voluntary choice
+      hint: null
+      type: select_one
+      options:
+      - Yes, Voluntary
+      - No, Not Voluntary
+      required: true
+    - id: 22
+      name: waiver_agreement
+      label: I waive my rights to pursue legal action
+      hint: null
+      type: select_one
+      options:
+      - I Agree to Waiver
+      - I Do Not Agree
+      required: true
+    - id: 23
+      name: waiver_date
+      label: Date of Waiver
+      hint: null
+      type: date
+      options: []
+      required: true

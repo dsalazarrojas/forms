@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Promotion Interview Form
+    pages:
+    - id: 1
+      name: promotion_interview_form_first_page
+      label: first
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: candidate_name
+      label: candidate name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: reporting_manager
+      label: reporting manager
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: reporting_manager_department
+      label: reporting manager department
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: candidate_job_title
+      label: candidate job title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: job_family_id
+      label: job family id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: job_family
+      label: job family
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: reporting_line_manager_id
+      label: reporting line manager id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: reporting_line_manager
+      label: reporting line manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: candidate_manager
+      label: candidate manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: candidate_job_title_history
+      label: candidate job title history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: reporting_manager_title_history
+      label: reporting manager title history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: performance_review
+      label: performance review
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: performance_rating
+      label: performance rating
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 15
+      name: performance_rating_scale
+      label: performance rating scale
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 16
+      name: evaluation_date
+      label: evaluation date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: evaluation_score
+      label: evaluation score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: evaluation_type
+      label: evaluation type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: candidate_salary
+      label: candidate salary
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: candidate_salary_currency
+      label: candidate salary currency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: candidate_currency_symbol
+      label: candidate currency symbol
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: promotion_decision_date
+      label: promotion decision date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: promotion_decision_date_time
+      label: promotion decision date time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: promotion_decision_date_time_comment
+      label: promotion decision date time comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: promotion_decision
+      label: promotion decision
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

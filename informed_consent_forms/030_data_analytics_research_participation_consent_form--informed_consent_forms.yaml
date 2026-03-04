@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: data_analytics_research_participation_consent_form
+    pages:
+    - id: 1
+      name: research_participation
+      label: Are you participating in research?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: research_description
+      label: What is research?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: participant_name
+      label: Name?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_of_birth
+      label: date of birth
+      hint: mm/dd/yy
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_of_birth
+      label: time of birth
+      hint: "HH:MM"
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: researcher_name
+      label: researcher name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: researcher_email
+      label: researcher email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: researcher_institution
+      label: researcher institution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: participant_informed
+      label: Have you read and signed a consent form?
+      hint: null
+      type: select_one
+      options:
+      - 'yes'
+      - 'no'
+      required: false
+    - id: 12
+      name: participant_consent
+      label: Consent?
+      hint: null
+      type: select_one
+      options:
+      - 'yes'
+      - 'no'
+      required: false

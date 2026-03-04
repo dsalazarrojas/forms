@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Slushie Machine Inspection Form
+    pages:
+    - id: 1
+      name: general_info
+      label: General Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: machine_status
+      label: Machine Status
+      hint: null
+      type: select_one
+      options:
+      - Slushie Machine On
+      - Slushie Machine Off
+      required: false
+    - id: 3
+      name: temperature
+      label: Temperature
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: water_level
+      label: Water Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      - Normal
+      required: false
+    - id: 5
+      name: machine_leakage
+      label: Machine Leaking
+      hint: null
+      type: select_multiple
+      options:
+      - Water Leaking
+      - Ice Cream Leaking
+      required: false
+    - id: 6
+      name: safety_gloves
+      label: Safety Gloves
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 7
+      name: machine_cleaning
+      label: Machine Cleaning
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: machine_maintenance
+      label: Machine Maintenance
+      hint: null
+      type: select_multiple
+      options:
+      - Oil Check
+      - Filter Check
+      - Belt Check
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false

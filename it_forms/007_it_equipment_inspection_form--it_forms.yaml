@@ -1,0 +1,129 @@
+inputSchema:
+  type: object
+  properties:
+    title: IT Equipment Inspection Form
+    pages:
+    - id: 1
+      name: equipment_type
+      label: Equipment Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: condition
+      label: condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: issue_description
+      label: Issue Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: repair_status
+      label: Repair Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Not Applicable''}'
+      - '{''label'': ''Not Required''}'
+      - '{''label'': ''In Progress''}'
+      - '{''label'': ''Fixed''}'
+      - '{''label'': ''Replaced''}'
+      required: true
+    - id: 5
+      name: repair_notes
+      label: Repair Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: equipment_serial_number
+      label: Equipment Serial Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: issue_date
+      label: Issue Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: equipment_location
+      label: Equipment Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: issue_reported_by
+      label: Issue Reported By
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''User''}'
+      - '{''label'': ''Admin''}'
+      - '{''label'': ''Manager''}'
+      required: true
+    - id: 10
+      name: assigned_to
+      label: Assigned to
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: status_date
+      label: Status Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: issue_id
+      label: Issue Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: equipment_type_id
+      label: Equipment Type Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: equipment_condition_id
+      label: Equipment Condition Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: user
+      label: user
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: manager
+      label: manager
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

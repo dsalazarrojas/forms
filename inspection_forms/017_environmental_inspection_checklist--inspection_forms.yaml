@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Environmental Inspection Checklist
+    pages:
+    - id: 1
+      name: building_address
+      label: Building Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: inspector_name
+      label: Inspector Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_inspection
+      label: Date of Inspection
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: building_name
+      label: Building Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: facility_status
+      label: Facility Status
+      hint: Choose one option
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 6
+      name: environmental_standards
+      label: Environmental Standards
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: safety_standards
+      label: Safety Standards
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: safety_concerns
+      label: Safety Concerns
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: inspector_notes
+      label: Inspector Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: assigned_inspector
+      label: Assigned Inspector
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: facility_contact
+      label: Facility Contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: facility_email
+      label: Facility Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: facility_phone
+      label: Facility Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: facility_address
+      label: Facility Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: facility_location
+      label: Facility Location
+      hint: Choose one option
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: building_condition
+      label: Building Condition
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: building_type
+      label: Building Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: building_age
+      label: Building Age
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: building_size
+      label: Building Size
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: building_height
+      label: Building Height
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: building_design
+      label: Building Design
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: building_materials
+      label: Building Materials
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: building_layout
+      label: Building Layout
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: building_elevators
+      label: Building Elevators
+      hint: Choose one option
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: building_elevator_count
+      label: Building Elevators Count
+      hint: null
+      type: number
+      options: []
+      required: false

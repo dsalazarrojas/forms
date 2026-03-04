@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Shipper Intake Form
+    pages:
+    - id: 1
+      name: pickup_details
+      label: pickup_details
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 2
+      name: delivery_details
+      label: delivery_details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: shipper_type
+      label: shipper_type
+      hint: null
+      type: select_one
+      options:
+      - Shipper 1
+      - Shipper 2
+      - Shipper 3
+      required: false
+    - id: 4
+      name: shipper_status
+      label: shipper_status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 5
+      name: shipper_notes
+      label: shipper_notes
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: shipper_email
+      label: shipper_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: shipper_phone
+      label: shipper_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: shipper_address
+      label: shipper_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: shipper_city
+      label: shipper_city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: shipper_state
+      label: shipper_state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: shipper_zip
+      label: shipper_zip
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: shipper_country
+      label: shipper_country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: assigned_user
+      label: assigned_user
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: assigned_date
+      label: assigned_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: shipper_comments
+      label: shipper_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: shipper_signature
+      label: shipper_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: shipper_company
+      label: shipper_company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: shipper_title
+      label: shipper_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: shipper_notes
+      label: shipper_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: shipper_image
+      label: shipper_image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: report_type
+      label: report_type
+      hint: null
+      type: select_one
+      options:
+      - Report 1
+      - Report 2
+      - Report 3
+      required: false
+    - id: 22
+      name: shipper_type
+      label: shipper_type
+      hint: null
+      type: select_one
+      options:
+      - Report 1
+      - Report 2
+      - Report 3
+      required: false
+    - id: 23
+      name: shipper_report
+      label: shipper_report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: shipper_report_date
+      label: shipper_report_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: shipper_report_time
+      label: shipper_report_time
+      hint: null
+      type: time
+      options: []
+      required: false

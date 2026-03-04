@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Remote Work Access Request Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: employee_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_email
+      label: employee_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: employee_phone
+      label: employee_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: remote_work_location
+      label: remote_work_location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: end_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: remote_access_duration
+      label: remote_access_duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: remote_access_approver
+      label: remote_access_approver
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''John''}'
+      - '{''value'': ''Jane''}'
+      - '{''value'': ''Jim''}'
+      required: true
+    - id: 9
+      name: approval_status
+      label: approval_status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''approved''}'
+      - '{''value'': ''pending''}'
+      - '{''value'': ''denied''}'
+      required: false
+    - id: 10
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false

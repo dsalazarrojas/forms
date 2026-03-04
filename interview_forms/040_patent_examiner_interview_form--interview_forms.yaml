@@ -1,0 +1,264 @@
+inputSchema:
+  type: object
+  properties:
+    title: Patent Examiner Interview Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: experience
+      label: Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: education
+      label: Education
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: skills
+      label: Skills
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: previous_experience
+      label: Previous Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: previous_organization
+      label: Previous Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: available_date
+      label: Available Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: work_status
+      label: Work Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Full Time'', ''label'': ''Full Time''}'
+      - '{''id'': 2, ''name'': ''Part Time'', ''label'': ''Part Time''}'
+      - '{''id'': 3, ''name'': ''Contract'', ''label'': ''Contract''}'
+      - '{''id'': 4, ''name'': ''Intern'', ''label'': ''Intern''}'
+      required: false
+    - id: 12
+      name: work_location
+      label: Work Location
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Remote'', ''label'': ''Remote''}'
+      - '{''id'': 2, ''name'': ''Office'', ''label'': ''Office''}'
+      - '{''id'': 3, ''name'': ''Hybrid'', ''label'': ''Hybrid''}'
+      - '{''id'': 4, ''name'': ''Other'', ''label'': ''Other''}'
+      - '{''id'': 5, ''name'': ''Anywhere'', ''label'': ''Anywhere''}'
+      required: false
+    - id: 13
+      name: available_language
+      label: Available Language
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''English'', ''label'': ''English''}'
+      - '{''id'': 2, ''name'': ''French'', ''label'': ''French''}'
+      - '{''id'': 3, ''name'': ''Spanish'', ''label'': ''Spanish''}'
+      - '{''id'': 4, ''name'': ''Arabic'', ''label'': ''Arabic''}'
+      - '{''id'': 5, ''name'': ''Chinese'', ''label'': ''Chinese''}'
+      - '{''id'': 6, ''name'': ''Japanese'', ''label'': ''Japanese''}'
+      - '{''id'': 7, ''name'': ''Other'', ''label'': ''Other''}'
+      - '{''id'': 8, ''name'': ''Any'', ''label'': ''Any''}'
+      required: false
+    - id: 14
+      name: available_region
+      label: Available Region
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''North America'', ''label'': ''North America''}'
+      - '{''id'': 2, ''name'': ''Europe'', ''label'': ''Europe''}'
+      - '{''id'': 3, ''name'': ''Asia'', ''label'': ''Asia''}'
+      - '{''id'': 4, ''name'': ''Africa'', ''label'': ''Africa''}'
+      - '{''id'': 5, ''name'': ''South America'', ''label'': ''South America''}'
+      - '{''id'': 6, ''name'': ''Other'', ''label'': ''Other''}'
+      - '{''id'': 7, ''name'': ''Any'', ''label'': ''Any''}'
+      required: false
+    - id: 15
+      name: available_country
+      label: Available Country
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''United States'', ''label'': ''United States''}'
+      - '{''id'': 2, ''name'': ''Canada'', ''label'': ''Canada''}'
+      - '{''id'': 3, ''name'': ''Mexico'', ''label'': ''Mexico''}'
+      - '{''id'': 4, ''name'': ''France'', ''label'': ''France''}'
+      - '{''id'': 5, ''name'': ''United Kingdom'', ''label'': ''United Kingdom''}'
+      - '{''id'': 6, ''name'': ''Other'', ''label'': ''Other''}'
+      - '{''id'': 7, ''name'': ''Any'', ''label'': ''Any''}'
+      required: false
+    - id: 16
+      name: available_holidays
+      label: Available Holidays
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Holidays'', ''label'': ''Holidays''}'
+      - '{''id'': 2, ''name'': ''Weekends'', ''label'': ''Weekends''}'
+      - '{''id'': 3, ''name'': ''Flexible'', ''label'': ''Flexible''}'
+      - '{''id'': 4, ''name'': ''None'', ''label'': ''None''}'
+      required: false
+    - id: 17
+      name: available_travel
+      label: Available Travel
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': True, ''label'': True}'
+      - '{''id'': 2, ''name'': False, ''label'': False}'
+      - '{''id'': 3, ''name'': ''Flexible'', ''label'': ''Flexible''}'
+      - '{''id'': 4, ''name'': ''Other'', ''label'': ''Other''}'
+      required: false
+    - id: 18
+      name: available_workload
+      label: Available Workload
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''High'', ''label'': ''High''}'
+      - '{''id'': 2, ''name'': ''Medium'', ''label'': ''Medium''}'
+      - '{''id'': 3, ''name'': ''Low'', ''label'': ''Low''}'
+      - '{''id'': 4, ''name'': ''None'', ''label'': ''None''}'
+      - '{''id'': 5, ''name'': ''Flexible'', ''label'': ''Flexible''}'
+      required: false
+    - id: 19
+      name: available_workload2
+      label: Available Workload 2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''High'', ''label'': ''High''}'
+      - '{''id'': 2, ''name'': ''Medium'', ''label'': ''Medium''}'
+      - '{''id'': 3, ''name'': ''Low'', ''label'': ''Low''}'
+      - '{''id'': 4, ''name'': ''None'', ''label'': ''None''}'
+      - '{''id'': 5, ''name'': ''Flexible'', ''label'': ''Flexible''}'
+      required: false
+    - id: 20
+      name: available_workload3
+      label: Available Workload 3
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''High'', ''label'': ''High''}'
+      - '{''id'': 2, ''name'': ''Medium'', ''label'': ''Medium''}'
+      - '{''id'': 3, ''name'': ''Low'', ''label'': ''Low''}'
+      - '{''id'': 4, ''name'': ''None'', ''label'': ''None''}'
+      - '{''id'': 5, ''name'': ''Flexible'', ''label'': ''Flexible''}'
+      required: false
+    - id: 21
+      name: available_language2
+      label: Available Language 2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''English'', ''label'': ''English''}'
+      - '{''id'': 2, ''name'': ''French'', ''label'': ''French''}'
+      - '{''id'': 3, ''name'': ''Spanish'', ''label'': ''Spanish''}'
+      - '{''id'': 4, ''name'': ''Arabic'', ''label'': ''Arabic''}'
+      - '{''id'': 5, ''name'': ''Chinese'', ''label'': ''Chinese''}'
+      - '{''id'': 6, ''name'': ''Japanese'', ''label'': ''Japanese''}'
+      - '{''id'': 7, ''name'': ''Other'', ''label'': ''Other''}'
+      - '{''id'': 8, ''name'': ''Any'', ''label'': ''Any''}'
+      required: false
+    - id: 22
+      name: available_region2
+      label: Available Region 2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''North America'', ''label'': ''North America''}'
+      - '{''id'': 2, ''name'': ''Europe'', ''label'': ''Europe''}'
+      - '{''id'': 3, ''name'': ''Asia'', ''label'': ''Asia''}'
+      - '{''id'': 4, ''name'': ''Africa'', ''label'': ''Africa''}'
+      - '{''id'': 5, ''name'': ''South America'', ''label'': ''South America''}'
+      - '{''id'': 6, ''name'': ''Other'', ''label'': ''Other''}'
+      - '{''id'': 7, ''name'': ''Any'', ''label'': ''Any''}'
+      required: false
+    - id: 23
+      name: available_country2
+      label: Available Country 2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''United States'', ''label'': ''United States''}'
+      - '{''id'': 2, ''name'': ''Canada'', ''label'': ''Canada''}'
+      - '{''id'': 3, ''name'': ''Mexico'', ''label'': ''Mexico''}'
+      - '{''id'': 4, ''name'': ''France'', ''label'': ''France''}'
+      - '{''id'': 5, ''name'': ''United Kingdom'', ''label'': ''United Kingdom''}'
+      - '{''id'': 6, ''name'': ''Other'', ''label'': ''Other''}'
+      - '{''id'': 7, ''name'': ''Any'', ''label'': ''Any''}'
+      required: false
+    - id: 24
+      name: available_holidays2
+      label: Available Holidays 2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Holidays'', ''label'': ''Holidays''}'
+      - '{''id'': 2, ''name'': ''Weekends'', ''label'': ''Weekends''}'
+      - '{''id'': 3, ''name'': ''Flexible'', ''label'': ''Flexible''}'
+      - '{''id'': 4, ''name'': ''None'', ''label'': ''None''}'
+      required: false
+    - id: 25
+      name: available_travel2
+      label: Available Travel 2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': True, ''label'': True}'
+      - '{''id'': 2, ''name'': False, ''label'': False}'
+      - '{''id'': 3, ''name'': ''Flexible'', ''label'': ''Flexible''}'
+      - '{''id'': 4, ''name'': ''Other'', ''label'': ''Other''}'
+      required: false

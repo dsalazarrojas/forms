@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Post Rain Transport Inspection Form
+    pages:
+    - id: 1
+      name: vehicle_type
+      label: Vehicle Type
+      hint: null
+      type: select_one
+      options:
+      - Vehicle
+      - Motorcycle
+      - Car
+      - Truck
+      - Tractor
+      required: false
+    - id: 2
+      name: vehicle_number
+      label: Vehicle Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: license_number
+      label: License Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: vehicle_color
+      label: Vehicle Color
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: vehicle_weight
+      label: Vehicle Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: vehicle_condition
+      label: Vehicle Condition
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 7
+      name: vehicle_location
+      label: Vehicle Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: vehicle_driver
+      label: Vehicle Driver
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: vehicle_inspection_date
+      label: Vehicle Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false

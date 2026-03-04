@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: Facility Location Evaluation Form
+    pages:
+    - id: 1
+      name: facility_location
+      label: Facility Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: facility_type
+      label: Facility Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Facility''}'
+      - '{''id'': 2, ''label'': ''Warehouse''}'
+      - '{''id'': 3, ''label'': ''Office''}'
+      required: false
+    - id: 3
+      name: facility_condition
+      label: Facility Condition
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Strict''}'
+      - '{''id'': 2, ''label'': ''Moderate''}'
+      - '{''id'': 3, ''label'': ''Low''}'
+      required: false
+    - id: 4
+      name: facility_equipment
+      label: Facility Equipments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: facility_safety
+      label: Facility Safety
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Strict''}'
+      - '{''id'': 2, ''label'': ''Moderate''}'
+      - '{''id'': 3, ''label'': ''Low''}'
+      required: false
+    - id: 6
+      name: facility_location_rating
+      label: Facility Location Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: facility_comments
+      label: Facility Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: facility_images
+      label: Facility Images
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: facility_videos
+      label: Facility Videos
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: facility_documents
+      label: Facility Documents
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: facility_location_rating_date
+      label: Facility Location Rating Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: facility_inspector
+      label: Facility Inspector
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Jimmy''}'
+      - '{''id'': 2, ''label'': ''Sarah''}'
+      - '{''id'': 3, ''label'': ''Alex''}'
+      required: false
+    - id: 13
+      name: prophets
+      label: Prophets
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Prophet 1''}'
+      - '{''id'': 2, ''label'': ''Prophet 2''}'
+      - '{''id'': 3, ''label'': ''Prophet 3''}'
+      required: false
+    - id: 14
+      name: facility_safety_rating
+      label: Facility Safety Rating
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Strict''}'
+      - '{''id'': 2, ''label'': ''Moderate''}'
+      - '{''id'': 3, ''label'': ''Low''}'
+      required: false
+    - id: 15
+      name: facility_safety_rating_date
+      label: Facility Safety Rating Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: facility_safety_rating_inspector
+      label: Facility Safety Rating Inspector
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Jimmy''}'
+      - '{''id'': 2, ''label'': ''Sarah''}'
+      - '{''id'': 3, ''label'': ''Alex''}'
+      required: false
+    - id: 17
+      name: facility_inspector_comments
+      label: Facility Inspector Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: facility_inspector_name
+      label: Facility Inspector Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: facility_inspectors
+      label: Facility Inspectors
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Jimmy''}'
+      - '{''id'': 2, ''label'': ''Sarah''}'
+      - '{''id'': 3, ''label'': ''Alex''}'
+      required: false
+    - id: 20
+      name: facility_safety_rating_comments
+      label: Facility Safety Rating Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: facility_safety_rating_date
+      label: Facility Safety Rating Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: facility_safety_rating_inspector
+      label: Facility Safety Rating Inspector
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Jimmy''}'
+      - '{''id'': 2, ''label'': ''Sarah''}'
+      - '{''id'': 3, ''label'': ''Alex''}'
+      required: false
+    - id: 23
+      name: facility_safety_rating_inspectors
+      label: Facility Safety Rating Inspectors
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Jimmy''}'
+      - '{''id'': 2, ''label'': ''Sarah''}'
+      - '{''id'': 3, ''label'': ''Alex''}'
+      required: false
+    - id: 24
+      name: facility_location_rating_date
+      label: Facility Location Rating Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: facility_safety_rating_comments
+      label: Facility Safety Rating Comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,307 @@
+inputSchema:
+  type: object
+  properties:
+    title: Annual Hook Inspection Report
+    pages:
+    - id: 1
+      name: inspector_name
+      label: Inspector Full Name
+      hint: Person conducting inspection
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: company_name
+      label: Company Name
+      hint: Inspection company or department
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: inspection_date
+      label: Inspection Date
+      hint: Date of inspection
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: inspection_year
+      label: Inspection Year
+      hint: Which year is this for?
+      type: select_one
+      options:
+      - 2026
+      - 2025
+      - 2024
+      - 2023
+      required: true
+    - id: 7
+      name: hook_id
+      label: Hook ID Number
+      hint: Identification number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: hook_type
+      label: Hook Type
+      hint: Type of hook being inspected
+      type: select_one
+      options:
+      - Overhead Crane Hook
+      - Hoist Hook
+      - Sling Hook
+      - Grab Hook
+      - Sorting Hook
+      - Eye Hook
+      - Other
+      required: true
+    - id: 9
+      name: hook_location
+      label: Hook Location
+      hint: Where is the hook located?
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: manufacturer
+      label: Manufacturer
+      hint: Hook manufacturer
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: model_number
+      label: Model Number
+      hint: Hook model
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: serial_number
+      label: Serial Number
+      hint: Serial number if available
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: installation_date
+      label: Installation Date
+      hint: When was it installed?
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: rated_capacity
+      label: Rated Capacity
+      hint: Maximum load capacity
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: throat_opening
+      label: Throat Opening Measurement
+      hint: Current measurement in inches
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: throat_original
+      label: Original Throat Opening
+      hint: Original measurement
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: twist_check
+      label: Twist Check
+      hint: Is there any twist?
+      type: select_one
+      options:
+      - No Twist
+      - Less than 10 degrees
+      - 10-15 degrees
+      - Over 15 degrees
+      required: true
+    - id: 18
+      name: wear_check
+      label: Wear Check
+      hint: Amount of wear observed
+      type: select_one
+      options:
+      - No Wear
+      - Minimal Wear
+      - Moderate Wear
+      - Excessive Wear
+      required: true
+    - id: 19
+      name: crack_inspection
+      label: Crack Inspection
+      hint: Any cracks found?
+      type: select_one
+      options:
+      - No Cracks
+      - Hairline Cracks
+      - Visible Cracks
+      - Severe Cracking
+      required: true
+    - id: 20
+      name: deformation_check
+      label: Deformation Check
+      hint: Any deformation observed?
+      type: select_one
+      options:
+      - No Deformation
+      - Minor Deformation
+      - Moderate Deformation
+      - Severe Deformation
+      required: true
+    - id: 21
+      name: latch_condition
+      label: Latch Condition
+      hint: Condition of safety latch
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      - Missing
+      - Not Applicable
+      required: true
+    - id: 22
+      name: latch_operation
+      label: Latch Operation
+      hint: Does latch function properly?
+      type: select_one
+      options:
+      - Functions Properly
+      - Stiff Operation
+      - Loose Operation
+      - Not Functional
+      - Not Applicable
+      required: true
+    - id: 23
+      name: corrosion_check
+      label: Corrosion Check
+      hint: Any corrosion observed?
+      type: select_one
+      options:
+      - No Corrosion
+      - Surface Corrosion
+      - Moderate Corrosion
+      - Severe Corrosion
+      required: true
+    - id: 24
+      name: heat_damage
+      label: Heat Damage
+      hint: Any heat damage observed?
+      type: select_one
+      options:
+      - false
+      - Yes, Minor
+      - Yes, Significant
+      required: true
+    - id: 25
+      name: overall_condition
+      label: Overall Condition
+      hint: Rate overall condition
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Failed
+      required: true
+    - id: 26
+      name: inspection_result
+      label: Inspection Result
+      hint: Pass or fail?
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      - Conditional Pass
+      required: true
+    - id: 27
+      name: deficiencies_found
+      label: Deficiencies Found
+      hint: Describe any issues
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: corrective_action
+      label: Corrective Action Required
+      hint: What needs to be done?
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: action_deadline
+      label: Action Deadline
+      hint: When must action be taken?
+      type: date
+      options: []
+      required: false
+    - id: 30
+      name: next_inspection_date
+      label: Next Inspection Date
+      hint: When is next inspection due?
+      type: date
+      options: []
+      required: true
+    - id: 31
+      name: photos_attached
+      label: Photos Attached
+      hint: Are photos included?
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 32
+      name: photo_details
+      label: Photo Details
+      hint: Describe photos
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: inspector_signature
+      label: Inspector Signature
+      hint: Type name to sign
+      type: text
+      options: []
+      required: true
+    - id: 34
+      name: supervisor_review
+      label: Supervisor Review
+      hint: Has supervisor reviewed?
+      type: select_one
+      options:
+      - Pending
+      - Reviewed
+      - Approved
+      required: false
+    - id: 35
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

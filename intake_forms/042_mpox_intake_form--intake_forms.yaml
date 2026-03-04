@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mpox Intake Form
+    pages:
+    - id: 1
+      name: exposed_areas
+      label: Exposed Areas
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: symptoms_prophets
+      label: Symptoms and Prophets
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: travel_history
+      label: Travel History
+      hint: Countries and cities you visited in last two weeks
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_traces
+      label: Contact Traces
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: exposure_date
+      label: Exposure Date
+      hint: Date of exposure
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: healthcare_provider
+      label: Healthcare Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: prophetic_symptoms
+      label: Prophetic Symptoms
+      hint: null
+      type: select_one
+      options:
+      - Fever
+      - Rash
+      - Swelling
+      - Muscle Ache
+      - Joint Pain
+      - Fatigue
+      - Headache
+      - Dizziness
+      - Nausea
+      - Vomiting
+      - Diarrhea
+      - Abdominal Pain
+      - Abnormal Taste
+      - Bloating
+      - Chest Pain
+      - Cough
+      - Coughing Up Blood
+      - Sore Throat
+      - Shortness of Breath
+      - Confusion
+      - Memory Loss
+      - Mood Changes
+      - Sleep Disturbances
+      - Sleepiness
+      required: false
+    - id: 10
+      name: medical_facility
+      label: Medical Facility
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''None'', ''name'': ''None''}'
+      - '{''value'': ''Local Emergency Room'', ''name'': ''Local Emergency Room'',
+        ''hint'': None}'
+      - '{''value'': ''Primary Care Center'', ''name'': ''Primary Care Center'', ''hint'':
+        None}'
+      - '{''value'': ''Urgent Care'', ''name'': ''Urgent Care'', ''hint'': None}'
+      - '{''value'': ''Other'', ''name'': ''Other'', ''hint'': ''Specify''}'
+      required: false
+    - id: 11
+      name: submitted_by
+      label: Submitted By
+      hint: Name of patient submitted form by
+      type: select_one
+      options:
+      - '{''value'': ''Patient'', ''name'': ''Patient'', ''hint'': None}'
+      - '{''value'': ''Physician'', ''name'': ''Physician'', ''hint'': None}'
+      - '{''value'': ''Other'', ''name'': ''Other'', ''hint'': ''Specify''}'
+      required: false
+    - id: 12
+      name: submitted_time
+      label: Submitted Time
+      hint: null
+      type: time
+      options: []
+      required: false

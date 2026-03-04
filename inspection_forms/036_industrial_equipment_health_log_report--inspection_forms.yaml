@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Industrial Equipment Health Log Report
+    pages:
+    - id: 1
+      name: equipment_details
+      label: Equipment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: inspection_dates
+      label: Inspection Dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: issue_log
+      label: Issue Log
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: maintenance_history
+      label: Maintenance History
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: photos
+      label: Photos
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: completed_by
+      label: Completed By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

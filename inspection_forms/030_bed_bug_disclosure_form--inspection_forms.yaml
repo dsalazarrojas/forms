@@ -1,0 +1,131 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bed Bug Disclosure Form
+    pages:
+    - id: 1
+      name: section_property_details
+      label: -- Property and Disclosure Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: dwelling_unit_number
+      label: Unit Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: section_infestation_history
+      label: -- Infestation History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: history_check
+      label: To the best of your knowledge, has the unit had bed bug activity in the
+        past year?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 6
+      name: last_infestation_date
+      label: Date of last known infestation or treatment
+      hint: Leave blank if none
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: treatment_confirmation
+      label: If yes, was the unit professionally treated and cleared?
+      hint: null
+      type: select_one
+      options:
+      - Yes, by a licensed professional
+      - Treated but not professionally cleared
+      - false
+      - N/A
+      required: false
+    - id: 8
+      name: section_inspection_details
+      label: -- Recent Inspection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: recent_inspection_date
+      label: Date of most recent bed bug inspection
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: inspection_results
+      label: Results of most recent inspection
+      hint: null
+      type: select_one
+      options:
+      - No Evidence of Bed Bugs
+      - Evidence Found - Remediation Required
+      - Evidence Found - Remediation Completed
+      required: true
+    - id: 11
+      name: inspector_name
+      label: Name of Inspector or Company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: section_signatures
+      label: -- Disclosure Acknowledgment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: landlord_disclosure_statement
+      label: Landlord - I certify the accuracy of this disclosure
+      hint: null
+      type: select_one
+      options:
+      - I Certify
+      - Other
+      required: true
+    - id: 14
+      name: tenant_acknowledgment_statement
+      label: Tenant - I acknowledge receipt of this bed bug history disclosure
+      hint: null
+      type: select_one
+      options:
+      - I Acknowledge
+      - Other
+      required: true
+    - id: 15
+      name: disclosure_date
+      label: Date of Disclosure
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: witness_name
+      label: Witness Name (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false

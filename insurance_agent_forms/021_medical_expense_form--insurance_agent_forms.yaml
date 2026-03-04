@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Expense Form
+    pages:
+    - id: 1
+      name: medical_expense_form
+      label: Medical Expense Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_id
+      label: employee_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: expense_date
+      label: Expense Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: medical_expense
+      label: Medical Expense
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: medical_provider
+      label: Medical Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: medical_benefits
+      label: Medical Benefits
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      required: false
+    - id: 7
+      name: medical_expense_amount
+      label: Medical Expense Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: medical_receipt
+      label: Medical Receipt
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: medical_expense_details
+      label: Medical Expense Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: employee_signature
+      label: Employee Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: medical_expense_submitted_by
+      label: Medical Expense Submitter
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: true
+    - id: 12
+      name: date_submitted
+      label: Date Submitted
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      required: true
+    - id: 14
+      name: submitted
+      label: Submitted
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      required: true
+    - id: 15
+      name: submitted_date
+      label: Submitted Date
+      hint: null
+      type: time
+      options: []
+      required: false

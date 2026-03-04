@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pro Bono Legal Assistance Intake Form
+    pages:
+    - id: 1
+      name: user_information
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: legal_problem
+      label: Legal Problem
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Home
+      - Office
+      - Mobile
+      required: false
+    - id: 4
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: date_of_birthday
+      label: Date of Birthday
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: date_of_intake
+      label: Date of Intake
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_of_intake
+      label: Time of Intake
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: legal_issue_description
+      label: Legal Issue Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: user_notes
+      label: User Notes
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: road_condition_inspection_form
+    pages:
+    - id: 1
+      name: road_condition_inspection_form_start
+      label: road_condition_inspection_form_start
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: road_condition_inspection_form_road_type
+      label: road_condition_inspection_form_road_type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 3
+      name: road_condition_inspection_form_condition
+      label: road_condition_inspection_form_condition
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 4
+      name: road_condition_inspection_form_damage
+      label: road_condition_inspection_form_damage
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: road_condition_inspection_form_maintenance
+      label: road_condition_inspection_form_maintenance
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 6
+      name: road_condition_inspection_form_notes
+      label: road_condition_inspection_form_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: road_condition_inspection_form_comments
+      label: road_condition_inspection_form_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: road_condition_inspection_form_date
+      label: road_condition_inspection_form_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: road_condition_inspection_form_time
+      label: road_condition_inspection_form_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: road_condition_inspection_form_road_condition_inspection_form_road_condition_inspection_form_id
+      label: road_condition_inspection_form_road_condition_inspection_form_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: road_condition_inspection_form_road_condition_inspection_form_assigned_to
+      label: road_condition_inspection_form_road_condition_inspection_form_assigned_to
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: road_condition_inspection_form_road_condition_inspection_form_status
+      label: road_condition_inspection_form_road_condition_inspection_form_status
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true

@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Surgery Informed Consent Form
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: informed_consent
+      label: Informed Consent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: signature
+      label: Signature
+      hint: Please sign below
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_surgery
+      label: Date of Surgery
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: surgeon
+      label: Surgeon
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: procedure
+      label: Procedure
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: anesthesia
+      label: Anesthesia
+      hint: null
+      type: select_one
+      options:
+      - '{''options'': [''General'', ''Spinal'', ''Epidural'']}'
+      - Other
+      required: false
+    - id: 9
+      name: post_op_recovery_room
+      label: Post-op Recovery Room
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: discharge_instructions
+      label: Discharge Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: patient_contact
+      label: Patient Contact
+      hint: null
+      type: text
+      options: []
+      required: false

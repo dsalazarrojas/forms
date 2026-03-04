@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Veterinary Inspections Form
+    pages:
+    - id: 1
+      name: animal_name
+      label: Animal Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: animal_type
+      label: Animal Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: owner_contact_info
+      label: Owner Contact Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: veterinarian_name
+      label: Veterinarian Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: inspection_location
+      label: Inspection Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: examination_results
+      label: Examination Results
+      hint: null
+      type: text
+      options: []
+      required: false

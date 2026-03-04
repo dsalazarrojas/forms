@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Guest Access Restriction Request Form
+    pages:
+    - id: 1
+      name: guest_access_restriction_request_form
+      label: guest_access_restriction_request_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: restriction_type
+      label: restriction_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 10, ''name'': ''type1'', ''label'': ''type1''}'
+      - '{''id'': 11, ''name'': ''type2'', ''label'': ''type2''}'
+      - '{''id'': 12, ''name'': ''type3'', ''label'': ''type3''}'
+      required: false
+    - id: 4
+      name: start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: end_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: reason
+      label: reason
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: approver_id
+      label: approver_id
+      hint: null
+      type: number
+      options: []
+      required: false

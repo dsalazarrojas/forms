@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: Responsive Life Insurance Quote Form
+    pages:
+    - id: 1
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: age
+      label: age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: coverage_start_date
+      label: coverage_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: coverage_end_date
+      label: coverage_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: life_insurance
+      label: life_insurance
+      hint: null
+      type: select_multiple
+      options:
+      - Life Insurance Company
+      - General Insurance Company
+      - Medical Life Insurance Company
+      required: false
+    - id: 10
+      name: coverage_type
+      label: coverage_type
+      hint: null
+      type: select_one
+      options:
+      - Whole Life
+      - Term Life
+      - Universal Life
+      required: false
+    - id: 11
+      name: policy_holder
+      label: policy_holder
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: policy_holder_relationship
+      label: policy_holder_relationship
+      hint: null
+      type: select_multiple
+      options:
+      - Parent
+      - Child
+      - Spouse
+      required: false
+    - id: 13
+      name: policy_holder_age
+      label: policy_holder_age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: premium
+      label: premium
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: quote
+      label: quote
+      hint: null
+      type: number
+      options: []
+      required: false

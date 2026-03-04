@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Director Information Intake Form
+    pages:
+    - id: 1
+      name: director_information
+      label: Director Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - Department of Accounting
+      - Department of Engineering
+      - Department of Human Resources
+      - Department of IT
+      - Department of Management
+      - Department of Research and Development
+      - Department of Sales
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: job_description
+      label: Job Description
+      hint: null
+      type: note
+      options: []
+      required: false

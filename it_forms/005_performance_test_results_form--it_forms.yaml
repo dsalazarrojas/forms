@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Performance Test Results Form
+    pages:
+    - id: 1
+      name: performance_test_results_form
+      label: form_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: performance_test_id
+      label: test_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: test_run_date
+      label: run_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: test_run_time
+      label: run_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: test_results
+      label: test_results
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: test_outcome
+      label: test_outcome
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 7
+      name: test_notes
+      label: test_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: test_comments
+      label: test_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: test_results_file_upload
+      label: test_results_file_upload
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: test_run_duration
+      label: run_duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: tester_id
+      label: tester
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 12
+      name: test_run_frequency
+      label: run_frequency
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 13
+      name: tester_name
+      label: tester_name
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: test_environment
+      label: test_environment
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: test_status
+      label: test_status
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 16
+      name: test_priority
+      label: test_priority
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 17
+      name: test_category
+      label: test_category
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: test_tags
+      label: test_tags
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: test_notes
+      label: tester_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: tester_comments
+      label: tester_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: test_results_url
+      label: test_results_url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: test_run_url
+      label: run_url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: test_version
+      label: test_version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: test_date
+      label: test_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: test_time
+      label: test_time
+      hint: null
+      type: time
+      options: []
+      required: false

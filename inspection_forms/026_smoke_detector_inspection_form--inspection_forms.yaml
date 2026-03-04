@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Smoke Detector Inspection Form
+    pages:
+    - id: 1
+      name: smoke_detector_inspection_form
+      label: Smoke Detector Inspection Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: building_id
+      label: building_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: floor_level
+      label: Floor Level
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''ground_floor''}'
+      - '{''value'': ''first_floor''}'
+      - '{''value'': ''second_floor''}'
+      required: false
+    - id: 4
+      name: fire_alarm_system
+      label: Fire Alarm System
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''installed''}'
+      - '{''value'': ''not_installed''}'
+      - '{''value'': ''not_applicable''}'
+      required: false
+    - id: 5
+      name: smoke_detector_location
+      label: Smoke Detector Location
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''near_stairwell''}'
+      - '{''value'': ''near_window''}'
+      - '{''value'': ''near_door''}'
+      required: false
+    - id: 6
+      name: smoke_detector_status
+      label: Smoke Detector Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''functional''}'
+      - '{''value'': ''non_functional''}'
+      required: false
+    - id: 7
+      name: fire_extinguisher_type
+      label: Fire Extinguisher Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''water_chemical''}'
+      - '{''value'': ''dry_chemical''}'
+      - '{''value'': ''clean_agent''}'
+      required: false
+    - id: 8
+      name: fire_extinguisher_location
+      label: Fire Extinguisher Location
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''near_entrance''}'
+      - '{''value'': ''near_fire_alarm_panel''}'
+      - '{''value'': ''near_stairwell''}'
+      required: false
+    - id: 9
+      name: fire_extinguisher_status
+      label: Fire Extinguisher Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''functional''}'
+      - '{''value'': ''non_functional''}'
+      required: false
+    - id: 10
+      name: fire_alarm_panel
+      label: fire_alarm_panel
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''present''}'
+      - '{''value'': ''absent''}'
+      - '{''value'': ''non_applicable''}'
+      required: false
+    - id: 11
+      name: fire_extinguisher_tag
+      label: Fire Extinguisher Tag
+      hint: null
+      type: text
+      options: []
+      required: false

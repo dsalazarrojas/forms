@@ -1,0 +1,141 @@
+inputSchema:
+  type: object
+  properties:
+    title: life_insurance_application_form
+    pages:
+    - id: 1
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: date of birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: occupation
+      label: occupation
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Doctor''}'
+      - '{''value'': ''Teacher''}'
+      - '{''value'': ''Pilot''}'
+      required: false
+    - id: 5
+      name: select_one_occupation
+      label: occupation
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Doctor''}'
+      - '{''value'': ''Teacher''}'
+      - '{''value'': ''Pilot''}'
+      required: false
+    - id: 6
+      name: select_multiple_occupation
+      label: occupation
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Doctor''}'
+      - '{''value'': ''Teacher''}'
+      - '{''value'': ''Pilot''}'
+      required: false
+    - id: 7
+      name: insurance_type
+      label: insurance type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Term Life Insurance''}'
+      - '{''value'': ''Whole Life Insurance''}'
+      - '{''value'': ''Universal Life Insurance''}'
+      required: false
+    - id: 8
+      name: coverage_type
+      label: coverage type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Single''}'
+      - '{''value'': ''Joint''}'
+      - '{''value'': ''Joint with Beneficiary''}'
+      required: false
+    - id: 9
+      name: coverage_amount
+      label: coverage amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: date_issued
+      label: date issued
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: policy_type
+      label: policy type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Single Life Insurance''}'
+      - '{''value'': ''Joint Life Insurance''}'
+      - '{''value'': ''Universal Life Insurance''}'
+      required: false
+    - id: 12
+      name: premium_amount
+      label: premium amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: term_life_years
+      label: term of life
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''1 year''}'
+      - '{''value'': ''5 years''}'
+      - '{''value'': ''10 years''}'
+      required: false
+    - id: 14
+      name: policy_issued_by
+      label: policy issued by
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Insurance Company''}'
+      - '{''value'': ''Insurance Agent''}'
+      - '{''value'': ''Both''}'
+      required: false
+    - id: 15
+      name: agent_name
+      label: agent name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: agent_email
+      label: agent email
+      hint: null
+      type: email
+      options: []
+      required: false

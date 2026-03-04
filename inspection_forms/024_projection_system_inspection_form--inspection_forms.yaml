@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: projection_system_inspection_form
+    pages:
+    - id: 1
+      name: system_id
+      label: system_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: system_type
+      label: system_type
+      hint: null
+      type: select_one
+      options:
+      - Projection System
+      - Other
+      required: false
+    - id: 3
+      name: system_location
+      label: system_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: system_status
+      label: system_status
+      hint: null
+      type: select_multiple
+      options:
+      - Functional
+      - Non-Functional
+      - Inactive
+      required: false
+    - id: 5
+      name: system_notes
+      label: system_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: user_name
+      label: user_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: user_id
+      label: user_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: date_inspected
+      label: date_inspected
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time_inspected
+      label: time_inspected
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: technician_name
+      label: technician_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: inspector_signature
+      label: inspector_signature
+      hint: null
+      type: text
+      options: []
+      required: false

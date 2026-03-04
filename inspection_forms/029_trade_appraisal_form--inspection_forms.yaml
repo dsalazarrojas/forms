@@ -1,0 +1,36 @@
+inputSchema:
+  type: object
+  properties:
+    title: Trade Appraisal Form
+    pages:
+    - id: 1
+      name: vehicle_details
+      label: Vehicle Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vehicle_condition
+      label: Vehicle Condition
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''excellent''}'
+      - '{''value'': ''fair''}'
+      - '{''value'': ''poor''}'
+      required: false
+    - id: 3
+      name: trade_in_reason
+      label: Trade In Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: vehicle_value
+      label: Vehicle Value
+      hint: null
+      type: number
+      options: []
+      required: false

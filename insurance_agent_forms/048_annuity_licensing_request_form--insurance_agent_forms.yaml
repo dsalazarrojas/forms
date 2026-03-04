@@ -1,0 +1,340 @@
+inputSchema:
+  type: object
+  properties:
+    title: Annuity Licensing Request Form
+    pages:
+    - id: 1
+      name: applicant_name
+      label: Full Name
+      hint: Applicant full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: mailing_address
+      label: Mailing Address
+      hint: Full address
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM-DD-YYYY
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: social_security
+      label: Social Security Number
+      hint: SSN
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: license_type
+      label: License Type
+      hint: What license?
+      type: select_one
+      options:
+      - Annuity Producer
+      - Life and Annuity
+      - Variable Annuity
+      - Fixed Annuity Only
+      - Renewal
+      - Reinstatement
+      required: true
+    - id: 8
+      name: state_of_residence
+      label: State of Residence
+      hint: Where do you live?
+      type: select_one
+      options:
+      - Alabama
+      - Alaska
+      - Arizona
+      - Arkansas
+      - California
+      - Colorado
+      - Connecticut
+      - Delaware
+      - Florida
+      - Georgia
+      - Other
+      required: true
+    - id: 9
+      name: license_state
+      label: Licensing State
+      hint: Which state?
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: naic_number
+      label: NAIC Number
+      hint: If you have one
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: npn_number
+      label: NPN Number
+      hint: Producer ID
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: current_licenses
+      label: Current Licenses
+      hint: List existing licenses
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: license_expiration
+      label: Current License Expiration
+      hint: If applicable
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: education_completed
+      label: Pre-Licensing Education
+      hint: Have you completed it?
+      type: select_one
+      options:
+      - Yes, Completed
+      - In Progress
+      - Not Started
+      - Not Required
+      required: true
+    - id: 15
+      name: education_provider
+      label: Education Provider
+      hint: School name
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: education_hours
+      label: Education Hours
+      hint: Number of hours
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: education_completion_date
+      label: Education Completion Date
+      hint: When completed?
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: exam_required
+      label: Exam Required
+      hint: Is exam needed?
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Sure
+      required: true
+    - id: 19
+      name: exam_status
+      label: Exam Status
+      hint: Have you passed?
+      type: select_one
+      options:
+      - Passed
+      - Scheduled
+      - Not Scheduled
+      - Not Required
+      required: false
+    - id: 20
+      name: exam_date
+      label: Exam Date
+      hint: When taken or scheduled?
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: exam_score
+      label: Exam Score
+      hint: If passed
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: background_check
+      label: Background Check
+      hint: Have you completed it?
+      type: select_one
+      options:
+      - Yes, Completed
+      - In Progress
+      - Not Started
+      required: true
+    - id: 23
+      name: fingerprints_submitted
+      label: Fingerprints Submitted
+      hint: Have you submitted?
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Required
+      required: false
+    - id: 24
+      name: criminal_history
+      label: Criminal History
+      hint: Any convictions?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 25
+      name: criminal_details
+      label: Criminal Details
+      hint: Explain if yes
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: regulatory_actions
+      label: Regulatory Actions
+      hint: Any against you?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 27
+      name: regulatory_details
+      label: Regulatory Details
+      hint: Explain if yes
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: employment_history
+      label: Employment History
+      hint: Last 5 years
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: sponsoring_insurer
+      label: Sponsoring Insurer
+      hint: Insurance company
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: business_entity
+      label: Business Entity
+      hint: Are you an entity?
+      type: select_one
+      options:
+      - Individual
+      - Corporation
+      - LLC
+      - Partnership
+      - Other
+      required: true
+    - id: 31
+      name: entity_name
+      label: Entity Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: entity_fein
+      label: Entity FEIN
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: application_fee
+      label: Application Fee
+      hint: Amount due
+      type: number
+      options: []
+      required: true
+    - id: 34
+      name: payment_method
+      label: Payment Method
+      hint: How to pay?
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Check
+      - Money Order
+      - Electronic Transfer
+      required: true
+    - id: 35
+      name: continuing_education
+      label: Continuing Education
+      hint: Required for renewal?
+      type: select_one
+      options:
+      - Yes, Completed
+      - Not Required
+      - Not Applicable
+      required: false
+    - id: 36
+      name: ce_hours
+      label: CE Hours
+      hint: Number of hours
+      type: number
+      options: []
+      required: false
+    - id: 37
+      name: submission_method
+      label: Submission Method
+      hint: How to submit?
+      type: select_one
+      options:
+      - Online
+      - Mail
+      - In Person
+      - Fax
+      required: true
+    - id: 38
+      name: applicant_signature
+      label: Applicant Signature
+      hint: Type name to sign
+      type: text
+      options: []
+      required: true
+    - id: 39
+      name: signature_date
+      label: Signature Date
+      hint: Date of signing
+      type: date
+      options: []
+      required: true
+    - id: 40
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

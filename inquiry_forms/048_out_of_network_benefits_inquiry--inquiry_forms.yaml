@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Out Of Network Benefits Inquiry
+    pages:
+    - id: 1
+      name: form_first_page
+      label: First Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: out_of_network_benefits
+      label: Out of Network Benefits
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: medical_necessity
+      label: Medical Necessity
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: medical_necessity_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: medical_necessity_other_other
+      label: Other 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: provider_contact_name
+      label: Provider Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: medical_group
+      label: Medical Group
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: medical_group_other
+      label: Other 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: medical_group_other_other
+      label: Other 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: medical_necessity_description
+      label: Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: medical_necessity_description_other
+      label: Other 3
+      hint: null
+      type: note
+      options: []
+      required: false

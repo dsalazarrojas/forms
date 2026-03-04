@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: LIFE Needs Analysis
+    pages:
+    - id: 1
+      name: needs_analysis
+      label: Needs Analysis
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: life_needs
+      label: Life Needs
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: family_info
+      label: Family Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: life_needs_determination
+      label: Life Needs Determination
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: insurance_status
+      label: Insurance Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 7
+      name: life_needs_determination
+      label: Life Needs Determination
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: insurance_provider
+      label: Insurance Provider
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: coverage_details
+      label: Coverage Details
+      hint: null
+      type: text
+      options: []
+      required: false

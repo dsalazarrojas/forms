@@ -1,0 +1,211 @@
+inputSchema:
+  type: object
+  properties:
+    title: Church Asbestos Survey Request Form
+    pages:
+    - id: 1
+      name: section_header_requestor_info
+      label: -- Requestor Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requestor_name
+      label: Name of Requestor
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requestor_title
+      label: Title or Position
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: requestor_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: requestor_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_header_property_info
+      label: -- Property Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: property_name
+      label: Church Property Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: property_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: property_state
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: property_zip
+      label: ZIP or Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: section_header_survey_details
+      label: -- Survey Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: survey_type
+      label: Type of Asbestos Survey Needed
+      hint: null
+      type: select_one
+      options:
+      - Management survey
+      - Refurbishment survey
+      - Demolition survey
+      - Suspected contamination
+      - Routine inspection
+      - Other
+      required: true
+    - id: 14
+      name: areas_of_concern
+      label: Specific Areas of Concern
+      hint: Which areas or materials need assessment
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: urgency_level
+      label: Urgency Level
+      hint: null
+      type: select_one
+      options:
+      - Routine
+      - Within 30 days
+      - Within 2 weeks
+      - Urgent
+      - Emergency
+      required: true
+    - id: 16
+      name: building_year_built
+      label: Building Year Built (if known)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: building_square_footage
+      label: Building Square Footage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: section_header_survey_scheduling
+      label: -- Survey Scheduling --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: preferred_survey_date
+      label: Preferred Survey Date (or date range)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: occupancy_restrictions
+      label: Are there occupancy restrictions needed during survey
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Uncertain
+      required: false
+    - id: 21
+      name: section_header_access_contact
+      label: -- Access and Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: on_site_contact
+      label: On-Site Contact Person
+      hint: Who should the surveyor contact on-site
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: on_site_phone
+      label: On-Site Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: site_access_info
+      label: Site Access Information
+      hint: Any special instructions for accessing the property
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: section_header_comments
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: previous_surveys
+      label: Have Previous Asbestos Surveys Been Conducted
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unknown
+      required: false
+    - id: 27
+      name: survey_history_details
+      label: Details About Previous Surveys
+      hint: When, what was found, actions taken
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: post-renovation-inspection-form
+    pages:
+    - id: 1
+      name: general_questions
+      label: General Questions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: photos
+      label: Photos
+      hint: Upload photos of the work
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: safety_checklist
+      label: Safety Checklist
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: safety_checklist_item_1
+      label: Is the work area clean and free from debris?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: safety_checklist_item_2
+      label: Are all electrical and gas connections safely secured?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: safety_checklist_item_3
+      label: Are all exit doors and emergency exits clear?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: safety_checklist_item_4
+      label: Are all fire alarms and fire suppression systems tested?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: safety_checklist_item_5
+      label: Are all windows and doors secure?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: safety_checklist_item_6
+      label: Is the work area well ventilated?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: safety_checklist_item_7
+      label: Are all electrical and gas systems tested and approved?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

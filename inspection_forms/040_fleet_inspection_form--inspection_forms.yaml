@@ -1,0 +1,143 @@
+inputSchema:
+  type: object
+  properties:
+    title: fleet_inspection_form
+    pages:
+    - id: 1
+      name: vehicle_id
+      label: vehicle id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: vehicle_year
+      label: vehicle year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: vehicle_milage
+      label: vehicle milage
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: owner
+      label: prophets owner
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: inspection_date
+      label: inspection date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: inspection_time
+      label: inspection time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: vehicle_condition
+      label: vehicle condition
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 11
+      name: vehicle_status
+      label: vehicle status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Unknown
+      required: false
+    - id: 12
+      name: vehicle_location
+      label: vehicle location
+      hint: null
+      type: select_multiple
+      options:
+      - Inside
+      - Outside
+      - Unknown
+      required: false
+    - id: 13
+      name: assigned_inspector
+      label: assigned inspector
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: vehicle_make
+      label: vehicle make
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: vehicle_model
+      label: vehicle model
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: vehicle_year_manufactured
+      label: vehicle year manufactured
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: vin
+      label: vin
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: vin_status
+      label: vin status
+      hint: null
+      type: select_multiple
+      options:
+      - Clean
+      - Dirty
+      - Unknown
+      required: false

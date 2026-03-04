@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Covid 19 Indoor Playground Risk Assessment And Liability Waiver Form
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: risk_assessment
+      label: riskassessment
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: waiver_agreement
+      label: waiveragreement
+      hint: null
+      type: select_one
+      options:
+      - Assumption of Risk
+      - Waiver
+      required: false
+    - id: 4
+      name: medical_condition
+      label: medicalcondition
+      hint: null
+      type: select_multiple
+      options:
+      - Heart condition
+      - High blood pressure
+      - Diabetes
+      - Other (Please specify)
+      required: false
+    - id: 5
+      name: health_insurance
+      label: healthinsurance
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: emergency_contact
+      label: emergencycontact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: medical_procedure
+      label: medicalprocedure
+      hint: null
+      type: select_multiple
+      options:
+      - Blood test
+      - Urine test
+      - Other (Please specify)
+      required: false
+    - id: 8
+      name: contact_information
+      label: contactinformation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: signature
+      label: signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: acknowledgement
+      label: acknowledgement
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: review_form
+      label: reviewform
+      hint: null
+      type: note
+      options: []
+      required: false

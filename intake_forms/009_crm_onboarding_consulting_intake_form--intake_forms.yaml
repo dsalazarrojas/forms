@@ -1,0 +1,137 @@
+inputSchema:
+  type: object
+  properties:
+    title: CRM Onboarding Consulting Intake Form
+    pages:
+    - id: 1
+      name: client_profile_header
+      label: -- Client Profile --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_full_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: organization_name
+      label: Organization Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: office_phone
+      label: Office Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: onboarding_header
+      label: -- Onboarding Scope --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: crm_platform
+      label: Selected CRM Platform
+      hint: which platform are we onboarding to
+      type: select_one
+      options:
+      - Salesforce
+      - HubSpot
+      - Zoho
+      - Microsoft Dynamics
+      - Pipedrive
+      - Custom Solution
+      required: true
+    - id: 7
+      name: migration_required
+      label: Is Data Migration Required
+      hint: moving data from a legacy system
+      type: select_one
+      options:
+      - Yes - from another CRM
+      - Yes - from spreadsheets
+      - No - new setup
+      required: true
+    - id: 8
+      name: existing_records_estimate
+      label: Estimated Number of Records to Migrate
+      hint: total of leads, contacts, and accounts
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: technical_complexity
+      label: Technical Complexity Assessment
+      hint: rate the expected difficulty of integrations
+      type: select_one
+      options:
+      - Standard - No custom code
+      - Moderate - Basic API use
+      - High - Extensive Customization
+      required: true
+    - id: 10
+      name: team_structure_header
+      label: -- Team and Resources --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: internal_project_lead
+      label: Internal Project Lead Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: total_trainees
+      label: Number of Staff Requiring Training
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: training_preferred_method
+      label: Preferred Training Method
+      hint: null
+      type: select_one
+      options:
+      - Live Remote Workshops
+      - On-site training
+      - Pre-recorded videos
+      - One-on-one coaching
+      required: true
+    - id: 14
+      name: project_start_date
+      label: Target Project Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: success_criteria
+      label: Success Criteria
+      hint: What does a successful onboarding look like for you
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: priority_level
+      label: Project Priority Level
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      - Critical
+      required: true

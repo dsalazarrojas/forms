@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Smart Meter Reading Request Form
+    pages:
+    - id: 1
+      name: customer_info
+      label: Customer info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: meter_id
+      label: Meter ID
+      hint: null
+      type: select_one
+      options:
+      - '123456'
+      - '654321'
+      - '987654'
+      required: false
+    - id: 3
+      name: preferred_date
+      label: Preferred date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: instructions
+      label: Instructions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: customer_name
+      label: Customer name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: customer_email
+      label: Customer email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: customer_phone
+      label: Customer phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: meter_reading_date
+      label: Meter reading date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: schedule_reading
+      label: Schedule reading
+      hint: null
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      required: false
+    - id: 10
+      name: start_time
+      label: Start time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: end_time
+      label: End time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

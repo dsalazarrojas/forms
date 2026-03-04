@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Invoice Automation Setup Registration Form
+    pages:
+    - id: 1
+      name: form_data
+      label: form_data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: company_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_person
+      label: contact_person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: business_type
+      label: business_type
+      hint: null
+      type: select_one
+      options:
+      - Company
+      - Individual
+      required: false
+    - id: 7
+      name: company_size
+      label: company_size
+      hint: null
+      type: select_multiple
+      options:
+      - Small
+      - Medium
+      - Large
+      required: false
+    - id: 8
+      name: industry
+      label: industry
+      hint: null
+      type: select_multiple
+      options:
+      - Financial
+      - Healthcare
+      - IT
+      required: false
+    - id: 9
+      name: country
+      label: country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: city
+      label: city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: state
+      label: state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: zip_code
+      label: zip_code
+      hint: null
+      type: number
+      options: []
+      required: false

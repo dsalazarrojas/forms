@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vial Vault Registration Form
+    pages:
+    - id: 1
+      name: vial_type_form
+      label: Vial Type
+      hint: null
+      type: select_one
+      options:
+      - Vial 1
+      - Vial 2
+      - Vial 3
+      required: false
+    - id: 2
+      name: storage_start_date
+      label: Storage Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: storage_location
+      label: Storage Location
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      required: false
+    - id: 5
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_message
+      label: Contact Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: storage_start_date_time
+      label: Storage Start Date/Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: storage_end_date
+      label: Storage End Date
+      hint: null
+      type: date
+      options: []
+      required: false

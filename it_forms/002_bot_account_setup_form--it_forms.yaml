@@ -1,0 +1,178 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Bot Account Setup Form
+    pages:
+      - id: 1
+        name: requester_name
+        label: Requester Name
+        hint: Full name of the person requesting the bot account
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: requester_email
+        label: Requester Email
+        hint: Corporate email address
+        type: email
+        options: []
+        required: true
+      - id: 3
+        name: department
+        label: Department
+        hint: Your department or team
+        type: select_one
+        options:
+          - IT Operations
+          - DevOps
+          - Customer Support
+          - Development
+          - QA Testing
+          - Security
+          - Other
+        required: true
+      - id: 4
+        name: bot_name
+        label: Bot Name
+        hint: Proposed name for the bot account
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: bot_type
+        label: Bot Type
+        hint: Select the primary function of the bot
+        type: select_one
+        options:
+          - Chatbot
+          - Automation Script
+          - Monitoring Bot
+          - Integration Bot
+          - Testing Bot
+          - Data Processing Bot
+          - Other
+        required: true
+      - id: 6
+        name: bot_description
+        label: Bot Description
+        hint: Describe the bot's purpose and functionality
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: required_permissions
+        label: Required Permissions
+        hint: Select all permissions the bot will need
+        type: select_multiple
+        options:
+          - Read-only access
+          - Write access
+          - API access
+          - Database access
+          - File system access
+          - Network access
+          - Admin privileges
+          - Email sending
+          - Notification capabilities
+        required: true
+      - id: 8
+        name: target_systems
+        label: Target Systems
+        hint: Which systems will the bot interact with
+        type: select_multiple
+        options:
+          - Production Environment
+          - Staging Environment
+          - Development Environment
+          - Testing Environment
+          - Customer Portal
+          - Internal Tools
+          - Third-party Services
+        required: true
+      - id: 9
+        name: expected_usage_volume
+        label: Expected Usage Volume
+        hint: Estimated number of daily operations
+        type: select_one
+        options:
+          - Low (1-100 operations/day)
+          - Medium (100-1000 operations/day)
+          - High (1000-10000 operations/day)
+          - Very High (10000+ operations/day)
+        required: true
+      - id: 10
+        name: technical_contact
+        label: Technical Contact Person
+        hint: Name of the technical lead responsible for this bot
+        type: text
+        options: []
+        required: true
+      - id: 11
+        name: technical_contact_email
+        label: Technical Contact Email
+        hint: Email of the technical contact
+        type: email
+        options: []
+        required: true
+      - id: 12
+        name: deployment_timeline
+        label: Expected Deployment Date
+        hint: When do you need this bot account ready
+        type: date
+        options: []
+        required: true
+      - id: 13
+        name: security_review_required
+        label: Security Review Required
+        hint: Does this bot require a security review
+        type: select_one
+        options:
+          - Yes
+          - No
+          - Unsure
+        required: true
+      - id: 14
+        name: compliance_requirements
+        label: Compliance Requirements
+        hint: Select any compliance standards that apply
+        type: select_multiple
+        options:
+          - GDPR
+          - HIPAA
+          - SOC 2
+          - PCI DSS
+          - ISO 27001
+          - None
+        required: false
+      - id: 15
+        name: additional_notes
+        label: Additional Notes
+        hint: Any other relevant information for the IT team
+        type: text
+        options: []
+        required: false
+      - id: 16
+        name: manager_approval
+        label: Manager Name for Approval
+        hint: Name of the manager approving this request
+        type: text
+        options: []
+        required: true
+      - id: 17
+        name: request_date
+        label: Request Date
+        hint: Date of submission
+        type: date
+        options: []
+        required: true

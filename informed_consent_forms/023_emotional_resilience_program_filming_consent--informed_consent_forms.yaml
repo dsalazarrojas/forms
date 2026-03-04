@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: emotional_resilience_program_filming_consent
+    pages:
+    - id: 1
+      name: filming_consent
+      label: filming_consent
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: filming_instruments
+      label: filming_instruments
+      hint: null
+      type: select_one
+      options:
+      - camera
+      - microphone
+      - video_recorder
+      required: false
+    - id: 3
+      name: filming_location
+      label: filming_location
+      hint: null
+      type: select_multiple
+      options:
+      - home
+      - school
+      - wellness_program
+      - outdoors
+      required: false
+    - id: 4
+      name: filming_schedule
+      label: filming_schedule
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: informed_consent
+      label: informed_consent
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: contact_info
+      label: contact_info
+      hint: Enter participant email for contact
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: recording_consent
+      label: recording_consent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: filming_consent_signature
+      label: filming_consent_signature
+      hint: Signature of the participant or guardian
+      type: note
+      options: []
+      required: false

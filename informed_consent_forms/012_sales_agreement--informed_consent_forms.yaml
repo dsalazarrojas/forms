@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sales Agreement
+    pages:
+    - id: 1
+      name: sales_agreement_first_page
+      label: first_page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: sales_agreement_parties
+      label: sales_agreement_parties
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: sales_agreement_promise
+      label: what_the_seller_agrees_to
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: sales_agreement_promise_description
+      label: describe_the_seller_s_agreement
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: sales_agreement_parties
+      label: what_the_buyer_agrees_to
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: sales_agreement_buyer_agreement_description
+      label: describe_the_buyer_s_agreement
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: sales_agreement_signature_date
+      label: signature_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: sales_agreement_signature_seller
+      label: signature_seller
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: sales_agreement_signature_buyer
+      label: signature_buyer
+      hint: null
+      type: text
+      options: []
+      required: true

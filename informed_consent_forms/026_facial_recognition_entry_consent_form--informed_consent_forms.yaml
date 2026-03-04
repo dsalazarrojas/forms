@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: Facial Recognition Entry Consent Form
+    pages:
+    - id: 1
+      name: consent_given
+      label: I give consent
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: facial_recognition_access
+      label: Facial Recognition Access
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: access_types
+      label: Access Types
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: consent_date
+      label: Consent Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: consent_time
+      label: Consent Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: witness_name_1
+      label: Witness Name 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: witness_name_2
+      label: Witness Name 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: witness_name_3
+      label: Witness Name 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: witness_name_4
+      label: Witness Name 4
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: witness_name_5
+      label: Witness Name 5
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: witness_organization
+      label: Witness Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: witness_title
+      label: Witness Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: witness_signature
+      label: Witness Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: witness_signature_date
+      label: Witness Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: witness_signature_time
+      label: Witness Signature Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: witness_signature_note
+      label: Witness Signature Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: witness_signature_2
+      label: Witness Signature 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: witness_signature_2_date
+      label: Witness Signature 2 Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: witness_signature_2_time
+      label: Witness Signature 2 Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: witness_signature_2_note
+      label: Witness Signature 2 Note
+      hint: null
+      type: text
+      options: []
+      required: false

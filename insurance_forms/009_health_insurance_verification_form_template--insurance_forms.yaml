@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: health_insurance_verification_form_template
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: birthdate
+      label: Birthdate
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: policyholder_name
+      label: Policyholder Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: policyholder_relationship
+      label: Policyholder Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: provider
+      label: Provider
+      hint: null
+      type: select_one
+      options:
+      - Blue Cross
+      - Blue Shield
+      - Blue Plus
+      - Cigna
+      - Humana
+      - Medicare
+      - Tricare
+      - UnitedHealth
+      required: true
+    - id: 6
+      name: policy_number
+      label: Policy Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,50 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daycare Allergy Form
+    pages:
+    - id: 1
+      name: child_name
+      label: Child Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: child_age
+      label: Child Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: allergy_type
+      label: Allergy Type
+      hint: null
+      type: select_multiple
+      options:
+      - Allergy 1
+      - Allergy 2
+      - Allergy 3
+      required: false
+    - id: 4
+      name: medication
+      label: Medication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: dosage
+      label: Dosage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: reaction_description
+      label: Reaction Description
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: Form 843 Tax Abatement Form
+    pages:
+    - id: 1
+      name: form_843_title
+      label: form_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: claimant_name
+      label: claimant
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: claimant_phone
+      label: claimant_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: claimant_email
+      label: claimant_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: claimant_address
+      label: claimant_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: claimant_city
+      label: claimant_city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: claimant_state
+      label: claimant_state
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: claimant_zip
+      label: claimant_zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: claimant_amount
+      label: claimant_amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: claimant_date
+      label: claimant_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: claimant_reason
+      label: claimant_reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: claimant_notes
+      label: claimant_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: taxpayer_name
+      label: taxpayer
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: taxpayer_phone
+      label: taxpayer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: taxpayer_email
+      label: taxpayer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: taxpayer_address
+      label: taxpayer_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: taxpayer_city
+      label: taxpayer_city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: taxpayer_state
+      label: taxpayer_state
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: taxpayer_zip
+      label: taxpayer_zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: taxpayer_amount
+      label: taxpayer_amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: taxpayer_date
+      label: taxpayer_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: taxpayer_reason
+      label: taxpayer_reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: taxpayer_notes
+      label: taxpayer_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: tax_type
+      label: tax_type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: true

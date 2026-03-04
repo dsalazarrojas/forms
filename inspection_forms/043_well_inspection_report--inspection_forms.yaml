@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Well Inspection Report
+    pages:
+    - id: 1
+      name: well_id
+      label: well_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: inspector_name
+      label: Inspector Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_inspected
+      label: Date Inspected
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: inspector_comments
+      label: Inspector Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: photo_1
+      label: Photo 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: photo_2
+      label: Photo 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: recommendation_1
+      label: Recommendation 1
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: recommendation_2
+      label: Recommendation 2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: photo_3
+      label: Photo 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: inspector_signature
+      label: Inspector Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: date_signed
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: assigned_to
+      label: Assigned to
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: assigned_date
+      label: Assigned Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: well_comments
+      label: Well Comments
+      hint: null
+      type: note
+      options: []
+      required: false

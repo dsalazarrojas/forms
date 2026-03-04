@@ -1,0 +1,98 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Medical Record Audit Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_visit
+      label: date_of_visit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: medical_specialty
+      label: medical_specialty
+      hint: null
+      type: select_multiple
+      options:
+      - Cardiologist
+      - Endocrinologist
+      - Gastroenterologist
+      - Neurologist
+      - Pulmonologist
+      - Urologist
+      required: true
+    - id: 4
+      name: medical_record_reviewed
+      label: medical_record_reviewed
+      hint: null
+      type: select_one
+      options:
+      - Complete
+      - Incomplete
+      - Partially
+      required: true
+    - id: 5
+      name: medical_record_reviewed_date
+      label: medical_record_reviewed_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: medical_record_reviewed_by
+      label: medical_record_reviewed_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: medical_record_reviewed_time
+      label: medical_record_reviewed_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: medical_record_reviewed_by_signature
+      label: medical_record_reviewed_by_signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: audit_result
+      label: audit_result
+      hint: null
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      - Warning
+      required: true
+    - id: 10
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,350 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Bicycle Inspection Form
+    pages:
+      - id: 1
+        name: section_header_bike
+        label: -- Bicycle Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: owner_name
+        label: Owner Name
+        hint: Bicycle owner
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: owner_contact
+        label: Contact Information
+        hint: Phone or email
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: bike_brand
+        label: Bicycle Brand
+        hint: Manufacturer name
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: bike_model
+        label: Bicycle Model
+        hint: Model number or name
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: bike_type
+        label: Bicycle Type
+        hint: What type of bike?
+        type: select_one
+        options:
+          - Road bike
+          - Mountain bike
+          - Hybrid bike
+          - BMX bike
+          - Cruiser
+          - Fixed gear
+          - Other
+        required: true
+      - id: 7
+        name: inspection_date
+        label: Inspection Date
+        hint: When was this inspected?
+        type: date
+        options: []
+        required: true
+      - id: 8
+        name: inspector_name
+        label: Inspector Name
+        hint: Person performing inspection
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: section_header_frame
+        label: -- Frame and Components --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 10
+        name: frame_condition
+        label: Frame Condition
+        hint: Overall frame state
+        type: select_one
+        options:
+          - Excellent - no issues
+          - Good - minor wear
+          - Acceptable - some wear
+          - Poor - significant damage
+          - Critical - unsafe
+        required: true
+      - id: 11
+        name: frame_cracks
+        label: Frame Cracks or Damage
+        hint: Any cracks or major damage?
+        type: select_one
+        options:
+          - No cracks or damage
+          - Minor cracks
+          - Significant cracks
+          - Major structural damage
+        required: true
+      - id: 12
+        name: paint_condition
+        label: Paint or Finish Condition
+        hint: Cosmetic condition
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Fair - some scratches
+          - Poor - significant wear
+          - Critical - severe damage
+        required: false
+      - id: 13
+        name: section_header_wheels
+        label: -- Wheels and Tires --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 14
+        name: front_tire_condition
+        label: Front Tire Condition
+        hint: Tread and wear
+        type: select_one
+        options:
+          - Excellent - good tread
+          - Good - adequate tread
+          - Fair - some wear
+          - Poor - minimal tread
+          - Critical - bald or dangerous
+        required: true
+      - id: 15
+        name: rear_tire_condition
+        label: Rear Tire Condition
+        hint: Tread and wear
+        type: select_one
+        options:
+          - Excellent - good tread
+          - Good - adequate tread
+          - Fair - some wear
+          - Poor - minimal tread
+          - Critical - bald or dangerous
+        required: true
+      - id: 16
+        name: tire_pressure
+        label: Tire Pressure Check
+        hint: Are tires properly inflated?
+        type: select_one
+        options:
+          - Properly inflated
+          - Slightly under
+          - Significantly under
+          - Over inflated
+          - Severely under - flat
+        required: true
+      - id: 17
+        name: wheel_alignment
+        label: Wheel Alignment
+        hint: Are wheels true and straight?
+        type: select_one
+        options:
+          - Perfectly aligned
+          - Minor wobble
+          - Noticeable wobble
+          - Significant bend
+          - Severely bent
+        required: true
+      - id: 18
+        name: section_header_brakes
+        label: -- Brakes --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 19
+        name: brake_type
+        label: Brake Type
+        hint: What type of brakes?
+        type: select_one
+        options:
+          - Rim brakes
+          - Disc brakes
+          - Coaster brakes
+          - Mixed brakes
+          - Other
+        required: true
+      - id: 20
+        name: brake_condition
+        label: Brake Condition
+        hint: Overall brake functionality
+        type: select_one
+        options:
+          - Excellent - responsive
+          - Good - mostly responsive
+          - Fair - adequate stopping
+          - Poor - weak stopping
+          - Critical - unsafe
+        required: true
+      - id: 21
+        name: pad_wear
+        label: Brake Pad Wear
+        hint: How much pad remaining?
+        type: select_one
+        options:
+          - Like new
+          - Good condition
+          - Fair - some wear
+          - Minimal pad remaining
+          - Pads need immediate replacement
+        required: true
+      - id: 22
+        name: brake_noise
+        label: Brake Noise or Squealing
+        hint: Any unusual sounds?
+        type: select_one
+        options:
+          - Quiet and smooth
+          - Minor noise
+          - Noticeable noise
+          - Significant squealing
+          - Severe grinding
+        required: false
+      - id: 23
+        name: section_header_drivetrain
+        label: -- Drivetrain and Chain --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 24
+        name: chain_condition
+        label: Chain Condition
+        hint: Chain wear and rust
+        type: select_one
+        options:
+          - Excellent - clean and well-lubricated
+          - Good - minor wear
+          - Fair - visible wear
+          - Poor - significant rust or wear
+          - Critical - severely corroded
+        required: true
+      - id: 25
+        name: chain_tension
+        label: Chain Tension
+        hint: Is chain properly tensioned?
+        type: select_one
+        options:
+          - Perfect tension
+          - Slightly loose
+          - Properly adjusted
+          - Slightly tight
+          - Too loose or too tight
+        required: true
+      - id: 26
+        name: gears_shift
+        label: Gear Shifting
+        hint: Do gears shift smoothly?
+        type: select_one
+        options:
+          - Perfect shifting
+          - Minor friction
+          - Some shifting difficulty
+          - Skipping or slipping
+          - Severely misaligned
+        required: false
+      - id: 27
+        name: section_header_handlebars
+        label: -- Handlebars and Seat --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 28
+        name: handlebar_condition
+        label: Handlebar Condition
+        hint: Grip and alignment
+        type: select_one
+        options:
+          - Excellent condition
+          - Good condition
+          - Fair condition
+          - Poor condition
+          - Damaged or unsafe
+        required: true
+      - id: 29
+        name: grip_condition
+        label: Grip or Bar Tape Condition
+        hint: Worn or damaged?
+        type: select_one
+        options:
+          - Like new
+          - Good condition
+          - Minor wear
+          - Significant wear
+          - Deteriorating or unsafe
+        required: false
+      - id: 30
+        name: seat_condition
+        label: Seat Condition
+        hint: Saddle condition
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Fair
+          - Poor - cracked or broken
+          - Critical - unsafe
+        required: true
+      - id: 31
+        name: section_header_overall
+        label: -- Overall Safety Assessment --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 32
+        name: safety_rating
+        label: Overall Safety Rating
+        hint: Is the bike safe to ride?
+        type: select_one
+        options:
+          - Safe - no issues
+          - Safe - minor maintenance recommended
+          - Conditionally safe - some repairs needed
+          - Unsafe - significant repairs required
+          - Dangerous - do not ride
+        required: true
+      - id: 33
+        name: recommended_service
+        label: Recommended Service or Repairs
+        hint: What needs to be done?
+        type: text
+        options: []
+        required: true
+      - id: 34
+        name: additional_notes
+        label: Additional Notes or Observations
+        hint: Any other findings?
+        type: text
+        options: []
+        required: false

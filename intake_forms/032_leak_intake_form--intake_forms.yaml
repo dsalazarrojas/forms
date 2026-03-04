@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Leak Intake Form
+    pages:
+    - id: 1
+      name: leak_report
+      label: Leak Report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: leak_type
+      label: Leakt Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Leaking from a pipe''}'
+      - '{''label'': ''Leaking from a pipe and line''}'
+      - '{''label'': ''Leaking from a drain''}'
+      - '{''label'': ''Leaking from a drain and line''}'
+      required: false
+    - id: 3
+      name: pipe_size
+      label: pipe_size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: pipe_location
+      label: pipe_location
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Front''}'
+      - '{''label'': ''Back''}'
+      - '{''label'': ''Both''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 5
+      name: photo
+      label: Photo
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: assigned_team
+      label: Assigned Team
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: follow_up
+      label: Follow-up
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: follow_up_time
+      label: Follow-up Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: submitted_at
+      label: Submitted At
+      hint: null
+      type: date
+      options: []
+      required: false

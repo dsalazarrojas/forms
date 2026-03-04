@@ -1,0 +1,261 @@
+inputSchema:
+  type: object
+  properties:
+    title: Compassion Fatigue Research Recording Consent Form
+    pages:
+    - id: 1
+      name: study_title
+      label: Study Title
+      hint: Name of the research study
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: principal_investigator
+      label: Principal Investigator
+      hint: Name of lead researcher
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: institution
+      label: Institution or Organization
+      hint: Where the research is being conducted
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: participant_name
+      label: Participant Full Name
+      hint: Legal name of research participant
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: participant_id
+      label: Participant ID Number
+      hint: Assigned participant identification number
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: participant_email
+      label: Participant Email
+      hint: Contact email address
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: participant_phone
+      label: Participant Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: study_purpose
+      label: I understand the purpose of this study
+      hint: Study purpose has been explained to me
+      type: select_one
+      options:
+      - Yes I understand
+      - No I need more information
+      required: true
+    - id: 9
+      name: recording_type_audio
+      label: Consent to Audio Recording
+      hint: I allow researchers to record my voice
+      type: select_one
+      options:
+      - Yes I consent
+      - No I do not consent
+      - Conditional - see notes
+      required: true
+    - id: 10
+      name: recording_type_video
+      label: Consent to Video Recording
+      hint: I allow researchers to record video of me
+      type: select_one
+      options:
+      - Yes I consent
+      - No I do not consent
+      - Conditional - see notes
+      required: true
+    - id: 11
+      name: recording_type_photos
+      label: Consent to Photographs
+      hint: I allow researchers to take photographs
+      type: select_one
+      options:
+      - Yes I consent
+      - No I do not consent
+      - Conditional - see notes
+      required: true
+    - id: 12
+      name: recording_purpose
+      label: Purpose of Recordings
+      hint: How will recordings be used
+      type: select_one
+      options:
+      - Research analysis only
+      - Research and presentations
+      - Research and publications
+      - Research and training materials
+      - All of the above
+      required: true
+    - id: 13
+      name: data_storage
+      label: I understand how data will be stored
+      hint: Data security and storage explained
+      type: select_one
+      options:
+      - Yes I understand
+      - No I need more information
+      required: true
+    - id: 14
+      name: data_retention
+      label: Data Retention Period
+      hint: How long will recordings be kept
+      type: select_one
+      options:
+      - Until study completion
+      - 1 year after study
+      - 5 years after study
+      - 10 years after study
+      - Indefinitely for research
+      required: true
+    - id: 15
+      name: anonymity_option
+      label: Anonymity Preference
+      hint: How should you be identified in recordings
+      type: select_one
+      options:
+      - Use my real name
+      - Use pseudonym
+      - Use participant number only
+      - Completely anonymous
+      required: true
+    - id: 16
+      name: access_restrictions
+      label: Who can access recordings
+      hint: Access level you are comfortable with
+      type: select_one
+      options:
+      - Research team only
+      - Research team and supervisors
+      - Conference presentations
+      - Published materials
+      - Public access
+      required: true
+    - id: 17
+      name: withdrawal_rights
+      label: I understand I can withdraw consent
+      hint: Right to withdraw at any time
+      type: select_one
+      options:
+      - Yes I understand
+      - No I need more information
+      required: true
+    - id: 18
+      name: withdrawal_deadline
+      label: Withdrawal Deadline Understanding
+      hint: When can you request withdrawal
+      type: select_one
+      options:
+      - Any time during study
+      - Until data analysis begins
+      - Until publication
+      - Never after signing
+      required: true
+    - id: 19
+      name: risks_understood
+      label: I understand potential risks
+      hint: Risks have been explained
+      type: select_one
+      options:
+      - Yes I understand
+      - No I need more information
+      required: true
+    - id: 20
+      name: benefits_understood
+      label: I understand potential benefits
+      hint: Benefits have been explained
+      type: select_one
+      options:
+      - Yes I understand
+      - No I need more information
+      required: true
+    - id: 21
+      name: questions_answered
+      label: Have all your questions been answered
+      hint: Do you have any remaining questions
+      type: select_one
+      options:
+      - Yes - all answered
+      - Mostly - few remaining
+      - No - many unanswered
+      required: true
+    - id: 22
+      name: voluntary_participation
+      label: Voluntary Participation Statement
+      hint: I understand participation is voluntary
+      type: select_one
+      options:
+      - Yes I understand
+      - No I feel pressured
+      required: true
+    - id: 23
+      name: compensation_info
+      label: Compensation Information
+      hint: Will you receive compensation
+      type: select_one
+      options:
+      - Yes - amount disclosed
+      - No compensation
+      - Course credit
+      - Other
+      required: true
+    - id: 24
+      name: contact_info_provided
+      label: Researcher Contact Provided
+      hint: You have contact info for questions
+      type: select_one
+      options:
+      - Yes I have it
+      - No I need it
+      required: true
+    - id: 25
+      name: participant_signature
+      label: Participant Signature
+      hint: Type your full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: signature_date
+      label: Date of Signature
+      hint: Date signing this form
+      type: date
+      options: []
+      required: true
+    - id: 27
+      name: witness_name
+      label: Witness Name
+      hint: Name of witness to consent
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: witness_signature
+      label: Witness Signature
+      hint: Witness types their name
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: additional_conditions
+      label: Additional Conditions or Restrictions
+      hint: Any special conditions for recording
+      type: text
+      options: []
+      required: false

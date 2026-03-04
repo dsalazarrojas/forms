@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vendor Clerk Interview Questionnaire
+    pages:
+    - id: 1
+      name: candidate_name
+      label: Candidate Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: availability
+      label: Availability
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: work_experience
+      label: Work Experience
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: skills
+      label: Skills
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: qualifications
+      label: Qualifications
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: expected_hire_date
+      label: Expected Hire Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: availability_start
+      label: Availability Start
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: availability_end
+      label: Availability End
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: work_status
+      label: Work Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 12
+      name: work_type
+      label: Work Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: work_type_description
+      label: Work Type Description
+      hint: null
+      type: text
+      options: []
+      required: false

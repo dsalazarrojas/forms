@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Solar Roof Implementation Application Form
+    pages:
+    - id: 1
+      name: project_details
+      label: Project Details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: project_address
+      label: project_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: project_status
+      label: project status
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 4
+      name: roof_condition
+      label: Roof Condition
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 5
+      name: roof_type
+      label: roof_type
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 6
+      name: building_type
+      label: building_type
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 7
+      name: roof_area
+      label: roof_area
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: installed_systems
+      label: installed_systems
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 9
+      name: solar_capacity_watts
+      label: solar_capacity_watts
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: expected_revenue
+      label: expected_revenue
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false

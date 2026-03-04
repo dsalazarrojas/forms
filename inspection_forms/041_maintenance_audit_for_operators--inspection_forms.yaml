@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Maintenance Audit For Operators
+    pages:
+    - id: 1
+      name: maintenance_audit_for_operators_page_1
+      label: Maintenance Audit For Operators
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: maintenance_audit_for_operators_operators_name
+      label: Operators Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: maintenance_audit_for_operatores_equipment_id
+      label: Equipment Id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: maintenance_audit_for_operatores_equipment_model
+      label: Equipment Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: maintenance_audit_for_operatores_manufacturers_name
+      label: Manufacturers Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: maintenance_audit_for_operatores_year_of_manufacture
+      label: Year Of Manufacture
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: maintenance_audit_for_operatores_last_inspection_date
+      label: Last Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: maintenance_audit_for_operatores_next_inspection_date
+      label: Next Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: maintenance_audit_for_operatores_inspection_period
+      label: Inspection Period
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Every 3 months''}'
+      - '{''id'': 2, ''label'': ''Every 6 months''}'
+      - '{''id'': 3, ''label'': ''Every 12 months''}'
+      required: false
+    - id: 10
+      name: maintenance_audit_for_operatores_inspection_status
+      label: Inspection Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Not Started''}'
+      - '{''id'': 2, ''label'': ''In Progress''}'
+      - '{''id'': 3, ''label'': ''Done''}'
+      required: false
+    - id: 11
+      name: maintenance_audit_for_operatores_comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

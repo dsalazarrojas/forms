@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hernia Mesh Inquiry Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: surgeon_name
+      label: Surgeon Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_surgery
+      label: Date of Surgery
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: follow_up_question
+      label: Follow Up Question
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: patient_email
+      label: Patient Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: patient_phone
+      label: Patient Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: surgeon_email
+      label: Surgeon Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: surgeon_phone
+      label: Surgeon Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: medical_office
+      label: Medical Office
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: support_team
+      label: Support Team
+      hint: null
+      type: select_multiple
+      options:
+      - Medical Director
+      - Office Manager
+      - Clinical Coordinator
+      required: false
+    - id: 11
+      name: follow_up_method
+      label: Follow Up Method
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - Mail
+      - Other
+      required: false
+    - id: 12
+      name: follow_up_date
+      label: Follow Up Date
+      hint: null
+      type: date
+      options: []
+      required: false

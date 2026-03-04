@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Device Enrollment Troubleshooting Checklist
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: device_model
+      label: Device Model
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: issue_description
+      label: Issue Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: device_condition
+      label: Device Condition
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 10, ''label'': ''Good'', ''value'': ''Good''}'
+      - '{''id'': 11, ''label'': ''Fair'', ''value'': ''Fair''}'
+      - '{''id'': 12, ''label'': ''Poor'', ''value'': ''Poor''}'
+      required: false
+    - id: 5
+      name: troubleshooting_steps
+      label: Troubleshooting Steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: issue_cause
+      label: Issue Cause
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: resolution
+      label: Resolution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: follow_up
+      label: Follow-Up
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: Auto Insurance Quote Form
+    pages:
+    - id: 1
+      name: section_header_personal
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: Where we will send your quote
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_header_driver
+      label: -- Driver Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: marital_status
+      label: Marital Status
+      hint: null
+      type: select_one
+      options:
+      - Single
+      - Married
+      - Divorced
+      - Widowed
+      required: true
+    - id: 10
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: false
+    - id: 11
+      name: years_licensed
+      label: Years Licensed
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: section_header_vehicle_info
+      label: -- Vehicle Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: year
+      label: Vehicle Year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: make
+      label: Vehicle Make
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: model
+      label: Vehicle Model
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: body_style
+      label: Body Style
+      hint: null
+      type: select_one
+      options:
+      - Sedan
+      - SUV
+      - Truck
+      - Coupe
+      - Van
+      - Wagon
+      required: true
+    - id: 17
+      name: annual_mileage
+      label: Annual Mileage
+      hint: Estimated
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: commute_miles
+      label: One-way Commute Distance (miles)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: section_header_violations
+      label: -- Driving Record --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: accidents_3_years
+      label: Accidents in last 3 years
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: violations_3_years
+      label: Violations in last 3 years
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: dui_history
+      label: Ever had a DUI or DWI
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 23
+      name: quote_delivery_method
+      label: How should we deliver your quote
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Text Message
+      required: true

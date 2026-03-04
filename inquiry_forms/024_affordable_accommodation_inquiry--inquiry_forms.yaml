@@ -1,0 +1,281 @@
+inputSchema:
+  type: object
+  properties:
+    title: Affordable Accommodation Inquiry
+    pages:
+    - id: 1
+      name: applicant_information_section
+      label: Applicant Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Enter your complete legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: Email for accommodation updates and communication
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Phone number for contact
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: Your date of birth
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: current_address
+      label: Current Address
+      hint: Your current residential address
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: accommodation_preferences_section
+      label: Accommodation Preferences
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: preferred_move_in_date
+      label: Preferred Move-In Date
+      hint: When would you like to move in?
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: accommodation_type
+      label: Type of Accommodation
+      hint: What type of accommodation are you looking for?
+      type: select_one
+      options:
+      - Studio Apartment
+      - One Bedroom
+      - Two Bedrooms
+      - Three Bedrooms
+      - Shared Room
+      - Student Housing
+      - Senior Housing
+      - Family Unit
+      - Other
+      required: true
+    - id: 10
+      name: occupancy_count
+      label: Occupancy Count
+      hint: How many people will be living in the accommodation?
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: accessibility_needs
+      label: Accessibility Needs
+      hint: Do you have any accessibility requirements?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 12
+      name: accessibility_details
+      label: Accessibility Details
+      hint: If yes, please specify your accessibility requirements
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: budget_financial_section
+      label: Budget and Financial Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: monthly_rent_budget
+      label: Monthly Rent Budget
+      hint: What is your maximum monthly rent budget?
+      type: select_one
+      options:
+      - Under $300
+      - $300-$500
+      - $500-$700
+      - $700-$900
+      - $900-$1,200
+      - $1,200-$1,500
+      - Over $1,500
+      required: true
+    - id: 15
+      name: income_source
+      label: Income Source
+      hint: What is your primary source of income?
+      type: select_one
+      options:
+      - Employment
+      - Government Assistance
+      - Student Financial Aid
+      - Disability Benefits
+      - Retirement/Pension
+      - Other
+      required: true
+    - id: 16
+      name: income_verification
+      label: Income Verification
+      hint: Are you able to provide income verification?
+      type: select_one
+      options:
+      - true
+      - false
+      - In Progress
+      required: true
+    - id: 17
+      name: housing_assistance_eligibility
+      label: Housing Assistance Eligibility
+      hint: Are you eligible for any housing assistance programs?
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: false
+    - id: 18
+      name: location_preferences_section
+      label: Location Preferences
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: preferred_location
+      label: Preferred Location
+      hint: What area or neighborhood are you interested in?
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: proximity_requirements
+      label: Proximity Requirements
+      hint: What locations do you need to be close to?
+      type: select_multiple
+      options:
+      - Workplace
+      - School/University
+      - Public Transportation
+      - Shopping Centers
+      - Healthcare Facilities
+      - Family/Friends
+      - Parks/Recreation
+      - Religious Institution
+      required: true
+    - id: 21
+      name: transportation_access
+      label: Transportation Access
+      hint: Do you have access to reliable transportation?
+      type: select_one
+      options:
+      - true
+      - false
+      - Limited
+      required: true
+    - id: 22
+      name: accommodation_features_section
+      label: Accommodation Features
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: required_amenities
+      label: Required Amenities
+      hint: Which amenities are essential for you?
+      type: select_multiple
+      options:
+      - Kitchen
+      - Laundry
+      - Parking
+      - Internet
+      - Air Conditioning
+      - Heating
+      - Balcony/Patio
+      - Pet-Friendly
+      - On-Site Security
+      - Elevator
+      required: true
+    - id: 24
+      name: pet_information
+      label: Pet Information
+      hint: Do you have pets or plan to have pets?
+      type: select_one
+      options:
+      - true
+      - false
+      - Planning to get pets
+      required: true
+    - id: 25
+      name: pet_details
+      label: Pet Details
+      hint: If yes, please provide details about your pets
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: special_requirements
+      label: Special Requirements
+      hint: Do you have any special requirements or preferences?
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: application_status_section
+      label: Application Status
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: application_priority
+      label: Application Priority
+      hint: How urgent is your need for housing?
+      type: select_one
+      options:
+      - Immediate (within 2 weeks)
+      - Short-term (within 1 month)
+      - Medium-term (within 2-3 months)
+      - Long-term (within 6 months)
+      - No rush
+      required: true
+    - id: 29
+      name: previous_housing_history
+      label: Previous Housing History
+      hint: Briefly describe your previous housing situation
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: additional_information
+      label: Additional Information
+      hint: Any other information that might help with your housing search
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: signature
+      label: Electronic Signature
+      hint: Sign to confirm your inquiry
+      type: text
+      options: []
+      required: true

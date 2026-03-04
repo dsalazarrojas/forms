@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: rehabilitation_initial_documentation
+    pages:
+    - id: 1
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_details
+      label: Patient Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: medication_list
+      label: Medications List
+      hint: List all medications including dosages and frequencies
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: medical_history_allergies
+      label: Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: medical_history_conditions
+      label: Medical Conditions
+      hint: List any medical conditions including diabetes, heart disease, etc.
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: rehab_goals
+      label: Rehab Goals
+      hint: null
+      type: select_multiple
+      options:
+      - Pain Management
+      - Other
+      required: false
+    - id: 7
+      name: consent_to_treatment
+      label: Consent To Treatment
+      hint: Please indicate consent for treatment
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: emergency_contact
+      label: Emergency Contact
+      hint: Name and contact information for emergency contact
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: insurance_info
+      label: Insurance Information
+      hint: Insurance provider name, policy number, and claim date
+      type: text
+      options: []
+      required: false

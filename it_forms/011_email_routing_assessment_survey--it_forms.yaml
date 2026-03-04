@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Email Routing Assessment Survey
+    pages:
+    - id: 1
+      name: user_email
+      label: User Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 2
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''IT''}'
+      - '{''id'': 2, ''label'': ''Operations''}'
+      - '{''id'': 3, ''label'': ''Support''}'
+      - '{''id'': 4, ''label'': ''Finance''}'
+      required: true
+    - id: 3
+      name: email_routing_process
+      label: Email Routing Process
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: frequency
+      label: Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Rarely''}'
+      - '{''id'': 2, ''label'': ''Occasionally''}'
+      - '{''id'': 3, ''label'': ''Often''}'
+      - '{''id'': 4, ''label'': ''Very Often''}'
+      required: false
+    - id: 5
+      name: satisfaction
+      label: Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: pain_points
+      label: Pain Points
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Too slow''}'
+      - '{''id'': 2, ''label'': ''Too fast''}'
+      - '{''id'': 3, ''label'': ''Confusion''}'
+      - '{''id'': 4, ''label'': ''Lack of information''}'
+      required: false
+    - id: 8
+      name: recommendations
+      label: Recommendations
+      hint: null
+      type: note
+      options: []
+      required: true

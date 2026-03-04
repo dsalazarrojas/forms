@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: Health Data Research Sharing Consent Form
+    pages:
+    - id: 1
+      name: research_team_info
+      label: Research Team Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_info
+      label: Participant Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: study_details
+      label: Study Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: data_sharing
+      label: Data Sharing
+      hint: null
+      type: select_multiple
+      options:
+      - Research
+      - Non-Personal Data
+      - Anonymized Data
+      - De-Identified Data
+      required: false
+    - id: 5
+      name: data_use
+      label: Data Use
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: storage_location
+      label: Storage Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: access_control
+      label: Access Control
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 8
+      name: data_retention
+      label: Data Retention
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: data_retention_period
+      label: Data Retention Period
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: data_retention_reason
+      label: Data Retention Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: consent
+      label: Consent
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 12
+      name: consent_date
+      label: Consent Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: consent_time
+      label: Consent Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: participant_signature
+      label: Participant Signature
+      hint: null
+      type: note
+      options: []
+      required: false

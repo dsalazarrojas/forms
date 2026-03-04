@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Treatment Consent Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: patient name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: treatment_type
+      label: treatment type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: treatment_date
+      label: treatment date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: healthcare_provider
+      label: healthcare provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: patient_signature
+      label: patient signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: provider_signature
+      label: provider signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: consent_date
+      label: consent date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: consent_time
+      label: consent time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: patient_contact
+      label: patient contact info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: provider_contact
+      label: provider contact info
+      hint: null
+      type: text
+      options: []
+      required: false

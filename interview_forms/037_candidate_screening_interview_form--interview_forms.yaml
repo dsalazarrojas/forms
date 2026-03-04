@@ -1,0 +1,175 @@
+inputSchema:
+  type: object
+  properties:
+    title: Candidate Screening Interview Form
+    pages:
+    - id: 1
+      name: screening_overview_section
+      label: -- Interview Overview --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: screened_candidate_name
+      label: Candidate Name
+      hint: Full name as on the application
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: screening_position_title
+      label: Position Applied For
+      hint: What role is this screening for
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: screening_interviewer_name
+      label: Interviewer Name
+      hint: Your name as the screener
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: screening_interview_date
+      label: Date of Screening
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: initial_assessment_section
+      label: -- Initial Assessment --
+      hint: Basic criteria check
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: basic_qualifications_check
+      label: Basic Qualifications Met
+      hint: Does the candidate meet the mandatory requirements
+      type: select_one
+      options:
+      - true
+      - false
+      - Partially
+      required: true
+    - id: 8
+      name: background_relevance_rating
+      label: Relevant Background
+      hint: How well does their previous work match the role
+      type: select_one
+      options:
+      - Strong
+      - Moderate
+      - Weak
+      - None
+      required: true
+    - id: 9
+      name: screening_salary_expectations
+      label: Salary Expectations
+      hint: What amount did the candidate specify during the call
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: screening_start_date_pref
+      label: Expected Start Date
+      hint: When is the candidate available to begin
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: schedule_willingness_check
+      label: Willingness to work the required schedule
+      hint: e.g. Shift work, weekends, specific hours
+      type: select_one
+      options:
+      - true
+      - false
+      - Negotiable
+      required: true
+    - id: 12
+      name: screening_current_employment
+      label: Current Employment Status
+      hint: Are they currently working or looking for work
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: search_reason_text
+      label: Reason for seeking a new role
+      hint: Why are they interested in moving now
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: competency_check_section
+      label: -- Competency Check --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: screening_communication_rating
+      label: Communication Proficiency
+      hint: Tone, clarity, and professionalism during the call
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 16
+      name: screening_technical_proficiency
+      label: Technical Proficiency Level
+      hint: If applicable for a technical role
+      type: select_one
+      options:
+      - Advanced
+      - Intermediate
+      - Beginner
+      - N/A
+      required: true
+    - id: 17
+      name: screening_cultural_alignment
+      label: Cultural Alignment Potential
+      hint: General feel for the candidate's fit with the team
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 18
+      name: screening_recommendation_section
+      label: -- Recommendation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: move_to_next_round_check
+      label: Move to next round
+      hint: Final decision on the screening stage
+      type: select_one
+      options:
+      - true
+      - false
+      - Hold for later
+      required: true
+    - id: 20
+      name: screening_notes_field
+      label: Screening Notes
+      hint: Additional details for the hiring manager
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: screening_submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true

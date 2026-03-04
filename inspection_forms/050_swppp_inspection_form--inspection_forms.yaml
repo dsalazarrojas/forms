@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: SWPPP Inspection Form
+    pages:
+    - id: 1
+      name: swppp_inspection_form
+      label: Section A - Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: site_name
+      label: Site Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: site_address
+      label: Site Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: site_city
+      label: Site City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: site_state
+      label: Site State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: site_zip
+      label: Site Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: site_country
+      label: Site Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: swppp_date_of_last_inspection
+      label: Date of Last Inspection
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: swppp_frequency_of_inspection
+      label: Frequency of Inspection
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: swppp_last_inspection_date
+      label: Last Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: swppp_last_inspection_result
+      label: Last Inspection Result
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: swppp_last_inspection_result_notes
+      label: Last Inspection Result Notes
+      hint: null
+      type: text
+      options: []
+      required: false

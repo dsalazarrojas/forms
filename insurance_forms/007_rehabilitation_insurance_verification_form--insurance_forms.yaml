@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Rehabilitation Insurance Verification Form
+    pages:
+    - id: 1
+      name: insurance_info
+      label: Client Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rehabilitation_insurance_info
+      label: Rehabilitation Insurance Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: policy_number
+      label: Policy Number
+      hint: Enter policy number
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: provider_information
+      label: Provider Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: service_provider
+      label: Service Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: rehabilitation_insurance_status
+      label: Rehab Insurance Status
+      hint: Check the insurance status
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Unknown
+      required: false
+    - id: 7
+      name: date_of_service
+      label: Date of Service
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: service_hours
+      label: Service Hours
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: submit
+      label: Submit
+      hint: null
+      type: select_multiple
+      options:
+      - Submit
+      - Cancel
+      required: false
+    - id: 11
+      name: client_email
+      label: Client Email
+      hint: Enter client email address
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: Client Phone
+      hint: Enter client phone number
+      type: text
+      options: []
+      required: false

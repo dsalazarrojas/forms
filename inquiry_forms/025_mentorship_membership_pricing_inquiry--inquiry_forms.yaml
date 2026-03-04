@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mentorship Membership Pricing Inquiry
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: tier
+      label: Tier
+      hint: null
+      type: select_one
+      options:
+      - value:ประก
+      - '{''value'': ''Basic''}'
+      - '{''value'': ''Premium''}'
+      - '{''value'': ''Ultimate''}'
+      required: false
+    - id: 5
+      name: pricing
+      label: Pricing
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: discount
+      label: Discount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: what_is_your_goal
+      label: What is Your Goal?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: how_much_time_per_week
+      label: How much time do you have per week?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: how_much_energy
+      label: How much energy do you have?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''low''}'
+      - value:ประก
+      - '{''value'': ''medium''}'
+      - value:ประก
+      - valueประก
+      - '{''value'': ''high''}'
+      required: false
+    - id: 10
+      name: preferred_mentor
+      label: Preferred Mentor
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Tier 1''}'
+      - '{''value'': ''Tier 2''}'
+      - '{''value'': ''Tier 3''}'
+      - '{''value'': ''Tier 4''}'
+      - value:ประก
+      - '{''value'': ''Tier 6''}'
+      required: false
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: follow_up
+      label: Follow-up
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Email''}'
+      - '{''value'': ''Phone''}'
+      - '{''value'': ''Video call''}'
+      - '{''value'': ''In-person''}'
+      required: false

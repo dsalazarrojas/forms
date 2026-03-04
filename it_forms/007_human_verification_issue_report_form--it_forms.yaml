@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: Human Verification Issue Report Form
+    pages:
+    - id: 1
+      name: issue_description
+      label: Issue Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: issue_type
+      label: Issue Type
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 3
+      name: issue_date
+      label: Issue Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: issue_prophets
+      label: Issue Prophets
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: issue_severity
+      label: Issue Severity
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 6
+      name: issue_status
+      label: Issue Status
+      hint: null
+      type: select_one
+      options:
+      - New
+      - In Progress
+      - Resolved
+      required: false
+    - id: 7
+      name: issue_context
+      label: Issue Context
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: issue_steps
+      label: Issue Steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: issue_screenshot
+      label: Issue Screenshot
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: issue_attachment
+      label: Issue Attachment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: issue_note
+      label: Issue Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: issue_solution
+      label: Issue Solution
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: issue_comment
+      label: Issue Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: issue_tags
+      label: Issue Tags
+      hint: null
+      type: select_multiple
+      options:
+      - tag1
+      - tag2
+      - tag3
+      required: false

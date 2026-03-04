@@ -1,0 +1,161 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cloud System Knowledge Assessment
+    pages:
+    - id: 1
+      name: candidate_name
+      label: Candidate or Employee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: candidate_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: assessment_date
+      label: Assessment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: experience_level
+      label: Cloud Experience Level
+      hint: Select your experience
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Expert
+      required: true
+    - id: 5
+      name: primary_cloud_platform
+      label: Primary Cloud Platform Experience
+      hint: Select your main platform
+      type: select_one
+      options:
+      - AWS
+      - Microsoft Azure
+      - Google Cloud
+      - Multiple Platforms
+      - None
+      required: true
+    - id: 6
+      name: years_experience
+      label: Years of Cloud Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: certifications
+      label: Cloud Certifications Held
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - AWS Solutions Architect
+      - Azure Administrator
+      - Google Cloud Architect
+      - Kubernetes
+      - Cloud Security
+      - None
+      required: false
+    - id: 8
+      name: iaas_knowledge
+      label: IaaS Architecture Knowledge
+      hint: Rate your knowledge
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Expert
+      required: true
+    - id: 9
+      name: paas_knowledge
+      label: PaaS and Containerization Knowledge
+      hint: Rate your knowledge
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Expert
+      required: true
+    - id: 10
+      name: saas_knowledge
+      label: SaaS Integration Knowledge
+      hint: Rate your knowledge
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Expert
+      required: true
+    - id: 11
+      name: networking_knowledge
+      label: Cloud Networking Knowledge
+      hint: Rate your knowledge
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Expert
+      required: true
+    - id: 12
+      name: security_knowledge
+      label: Cloud Security and Compliance
+      hint: Rate your knowledge
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Expert
+      required: true
+    - id: 13
+      name: automation_tools
+      label: Automation Tools Proficiency
+      hint: Select tools you know
+      type: select_multiple
+      options:
+      - Terraform
+      - CloudFormation
+      - Ansible
+      - Chef
+      - Puppet
+      - None
+      required: false
+    - id: 14
+      name: api_experience
+      label: API Development and Integration
+      hint: Rate your experience
+      type: select_one
+      options:
+      - No Experience
+      - Basic
+      - Intermediate
+      - Advanced
+      - Expert
+      required: false
+    - id: 15
+      name: problem_solving
+      label: Cloud Problem-Solving Example
+      hint: Describe a complex cloud problem you solved
+      type: text
+      options: []
+      required: false

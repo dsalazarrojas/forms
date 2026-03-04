@@ -1,0 +1,149 @@
+inputSchema:
+  type: object
+  properties:
+    title: Investment Balance Confirmation Form
+    pages:
+    - id: 1
+      name: investment_balance_confirmation_form
+      label: Investment Balance Confirmation Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: balance_date
+      label: Balance Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: total_investment
+      label: Total Investment
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: cash_balance
+      label: Cash Balance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: security_positions
+      label: Security Positions
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Stock''}'
+      - '{''value'': ''Bond''}'
+      - '{''value'': ''ETF''}'
+      - '{''value'': ''Mutual Fund''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 7
+      name: security_position_details
+      label: Security Position Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: audit_date
+      label: Audit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: auditor_signature
+      label: Auditor Signature
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Advisor''}'
+      - '{''value'': ''Accountant''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 11
+      name: auditor_name
+      label: Auditor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: auditor_company
+      label: Auditor Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: auditor_title
+      label: Auditor Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: review_result
+      label: Review Result
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Pass''}'
+      - '{''value'': ''Fail''}'
+      - '{''value'': ''Pending''}'
+      required: false
+    - id: 15
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: review_by
+      label: Reviewed By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: auditor_notes
+      label: Auditor Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: client_signature
+      label: Client Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

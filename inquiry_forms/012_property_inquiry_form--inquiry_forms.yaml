@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property Inquiry Form
+    pages:
+    - id: 1
+      name: property_inquiry_form
+      label: What kind of property are you looking for
+      hint: null
+      type: select_multiple
+      options:
+      - Residential
+      - Commercial
+      - Rental
+      - Land
+      required: false
+    - id: 2
+      name: contact_name
+      label: Contact Name
+      hint: Enter your name as it appears on your identification
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - Residential
+      - Commercial
+      - Rental
+      required: false
+    - id: 4
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: inquiry_date
+      label: Inquiry Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: inquiry_time
+      label: Inquiry Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: property_location
+      label: Property Location
+      hint: Enter the address or region of the property
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: description
+      label: Description
+      hint: Provide any additional details about the property
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_message
+      label: Message
+      hint: Please provide a brief message about the inquiry
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: assigned_tool
+      label: Assigned Tool
+      hint: The tool assigned for this inquiry
+      type: text
+      options: []
+      required: true

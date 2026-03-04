@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Family Gaming Subscription Pricing Inquiry
+    pages:
+    - id: 1
+      name: family_members_count
+      label: How many family members will be using the service
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: family_age_range
+      label: Age of family members
+      hint: null
+      type: select_multiple
+      options:
+      - 0-2
+      - 3-5
+      - 6-10
+      required: false
+    - id: 3
+      name: family_income_range
+      label: What is your family's annual income
+      hint: null
+      type: select_one
+      options:
+      - Less than $25k
+      - $25k-$50k
+      - $50k-$75k
+      - $75k-$100k
+      - More than $100k
+      required: true
+    - id: 4
+      name: device_type
+      label: What type of gaming device do you have?
+      hint: null
+      type: select_multiple
+      options:
+      - Console
+      - PC
+      - Smartphone
+      - Tablet
+      - Other
+      required: false
+    - id: 5
+      name: budget_per_member
+      label: What is your budget per family member per month?
+      hint: null
+      type: select_one
+      options:
+      - Less than $10
+      - $10-$20
+      - $20-$30
+      - More than $30
+      required: true
+    - id: 6
+      name: budget_per_service
+      label: What is your budget for the service per month?
+      hint: null
+      type: select_one
+      options:
+      - Less than $50
+      - $50-$100
+      - $100-$150
+      - More than $150
+      required: true
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: note
+      label: Any additional comments or questions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: family_gaming_pricing_inquiry_submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Cancel
+      required: true

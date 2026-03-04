@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Source Configuration Survey
+    pages:
+    - id: 1
+      name: source_configuration_survey_first_page
+      label: what_is_your_role
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: source_configurations_listed
+      label: source_configurations_used_today
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: source_configurations_survey
+      label: source_configurations_surveyed_today
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: source_configurations_frequency
+      label: how_often_surveyed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: source_configurations_priority
+      label: priority
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: source_configurations_comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: source_configurations_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: source_configurations_phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: source_configurations_date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: source_configurations_time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: source_configurations_surveyed_by
+      label: surveyed_by
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: source_configurations_surveyed_at
+      label: surveyed_at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: source_configurations_surveyed_by_at
+      label: surveyed_by_at
+      hint: null
+      type: time
+      options: []
+      required: false

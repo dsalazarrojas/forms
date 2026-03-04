@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: haccp_record Keeping Form
+    pages:
+    - id: 1
+      name: ccp_monitoring
+      label: Ccp Monitoring
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: corrective_actions
+      label: Corrective Actions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: equipment_maintenance
+      label: Equipment Maintenance
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: sanitation_and_cleaning
+      label: Sanitation and Cleaning
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: ccp_01
+      label: CCP 01
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: ccp_02
+      label: CCP 02
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: ccp_03
+      label: CCP 03
+      hint: null
+      type: text
+      options: []
+      required: false

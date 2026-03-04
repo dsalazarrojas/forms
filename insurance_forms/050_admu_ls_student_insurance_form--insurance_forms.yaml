@@ -1,0 +1,237 @@
+inputSchema:
+  type: object
+  properties:
+    title: Admu Ls Student Insurance Form
+    pages:
+    - id: 1
+      name: insurance_claim_header
+      label: -- Student Insurance Claim Form --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_full_name
+      label: Full Name
+      hint: Enter your legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_id
+      label: Student ID
+      hint: Your student identification number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: student_email
+      label: Email Address
+      hint: Valid email for communication
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: student_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: student_address
+      label: Address
+      hint: Current residential address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: student_city
+      label: City
+      hint: City of residence
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: student_state
+      label: State/Province
+      hint: State or province of residence
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: student_zip
+      label: ZIP/Postal Code
+      hint: Postal code of residence
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: student_country
+      label: Country
+      hint: Country of residence
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: date_of_birth
+      label: Date of Birth
+      hint: Your birth date
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: insurance_policy_number
+      label: Insurance Policy Number
+      hint: Your student insurance policy number
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: claim_date
+      label: Date of Claim
+      hint: Date when the claim is being submitted
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: incident_date
+      label: Date of Incident
+      hint: Date when the incident occurred
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: incident_location
+      label: Location of Incident
+      hint: Where did the incident occur?
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: incident_description
+      label: Description of Incident
+      hint: Detailed description of what happened
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: type_of_claim
+      label: Type of Claim
+      hint: What type of claim are you filing?
+      type: select_one
+      options:
+      - Medical Expense
+      - Dental Expense
+      - Vision Care
+      - Accident
+      - Prescription Medication
+      - Mental Health
+      - Other
+      required: true
+    - id: 18
+      name: medical_provider
+      label: Medical Provider
+      hint: Name of the medical provider or hospital
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: treatment_date
+      label: Date of Treatment
+      hint: When did you receive treatment?
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: diagnosis
+      label: Diagnosis
+      hint: Medical diagnosis code or description
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: treatment_description
+      label: Description of Treatment
+      hint: What treatment was received?
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: total_charges
+      label: Total Charges ($)
+      hint: Total amount charged for treatment
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: amount_paid
+      label: Amount Paid ($)
+      hint: Amount you have already paid
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: insurance_claim_amount
+      label: Amount Claiming ($)
+      hint: Amount you are claiming from insurance
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: previous_claims
+      label: Previous Claims
+      hint: Have you filed similar claims before?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 26
+      name: additional_information
+      label: Additional Information
+      hint: Any additional information about the claim
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: supporting_documents
+      label: Supporting Documents
+      hint: List any supporting documents being submitted
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: claim_status
+      label: Claim Status
+      hint: Current status of the claim (to be filled by administrator)
+      type: select_one
+      options:
+      - Submitted
+      - Under Review
+      - Approved
+      - Denied
+      - Additional Info Required
+      - Closed
+      required: false
+    - id: 29
+      name: assigned_reviewer
+      label: Assigned Reviewer
+      hint: Name of the person reviewing the claim (to be filled by administrator)
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: claim_date_submitted
+      label: Date Submitted
+      hint: Date when the claim was submitted
+      type: date
+      options: []
+      required: true
+    - id: 31
+      name: student_signature
+      label: Student Signature
+      hint: Electronic signature to confirm claim submission
+      type: text
+      options: []
+      required: true

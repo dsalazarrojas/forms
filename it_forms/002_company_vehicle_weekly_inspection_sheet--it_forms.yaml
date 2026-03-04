@@ -1,0 +1,256 @@
+inputSchema:
+  type: object
+  properties:
+    title: Company Vehicle Weekly Inspection Sheet
+    pages:
+    - id: 1
+      name: inspection_date
+      label: Inspection Date
+      hint: Date of weekly vehicle inspection
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: inspector_name
+      label: Inspector Name
+      hint: Name of person conducting inspection
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: inspector_employee_id
+      label: Inspector Employee ID
+      hint: Employee identification number
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: vehicle_id
+      label: Vehicle ID Number
+      hint: Company vehicle identification number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: vehicle_make_model
+      label: Vehicle Make and Model
+      hint: Year make and model of vehicle
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: license_plate
+      label: License Plate Number
+      hint: Vehicle license plate number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: current_mileage
+      label: Current Mileage
+      hint: Odometer reading at time of inspection
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: exterior_condition
+      label: Exterior Condition
+      hint: Overall condition of vehicle exterior
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Needs Repair
+      required: true
+    - id: 9
+      name: exterior_damage_notes
+      label: Exterior Damage Notes
+      hint: Describe any dents scratches or damage
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: tire_condition
+      label: Tire Condition
+      hint: Check all tires including spare
+      type: select_one
+      options:
+      - Good - adequate tread
+      - Fair - some wear
+      - Poor - needs replacement soon
+      - Critical - immediate replacement needed
+      required: true
+    - id: 11
+      name: tire_pressure_check
+      label: Tire Pressure Checked
+      hint: All tires properly inflated
+      type: select_one
+      options:
+      - Yes - all correct
+      - No - adjustment needed
+      - Not checked
+      required: true
+    - id: 12
+      name: lights_functional
+      label: All Lights Functional
+      hint: Headlights brake lights turn signals
+      type: select_one
+      options:
+      - Yes - all working
+      - No - some not working
+      - Not checked
+      required: true
+    - id: 13
+      name: lights_issues
+      label: Light Issues Description
+      hint: Describe any non-functional lights
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: fluid_levels
+      label: Fluid Levels Status
+      hint: Engine oil coolant brake fluid etc
+      type: select_one
+      options:
+      - All levels adequate
+      - Some levels low
+      - Needs immediate attention
+      - Not checked
+      required: true
+    - id: 15
+      name: fluid_notes
+      label: Fluid Notes
+      hint: Specify which fluids need attention
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: interior_cleanliness
+      label: Interior Cleanliness
+      hint: Condition of vehicle interior
+      type: select_one
+      options:
+      - Clean
+      - Acceptable
+      - Needs cleaning
+      - Very dirty
+      required: true
+    - id: 17
+      name: brakes_condition
+      label: Brakes Condition
+      hint: Brake pedal feel and performance
+      type: select_one
+      options:
+      - Good - responsive
+      - Fair - some concern
+      - Poor - needs inspection
+      - Not tested
+      required: true
+    - id: 18
+      name: steering_condition
+      label: Steering Condition
+      hint: Steering wheel response and alignment
+      type: select_one
+      options:
+      - Good - normal operation
+      - Fair - slight issues
+      - Poor - needs attention
+      - Not tested
+      required: true
+    - id: 19
+      name: warning_lights
+      label: Dashboard Warning Lights
+      hint: Any warning indicators on dashboard
+      type: select_one
+      options:
+      - None
+      - Check engine
+      - Oil pressure
+      - Battery
+      - Other
+      required: true
+    - id: 20
+      name: warning_details
+      label: Warning Light Details
+      hint: Describe any warning lights observed
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: windshield_condition
+      label: Windshield and Wipers
+      hint: Glass condition and wiper function
+      type: select_one
+      options:
+      - Good - no issues
+      - Fair - minor chips
+      - Poor - cracks or damage
+      - Wipers need replacement
+      required: true
+    - id: 22
+      name: fuel_level
+      label: Fuel Level
+      hint: Current fuel gauge reading
+      type: select_one
+      options:
+      - Full
+      - 3/4
+      - 1/2
+      - 1/4
+      - Empty - needs fuel
+      required: true
+    - id: 23
+      name: safety_equipment
+      label: Safety Equipment Present
+      hint: First aid kit fire extinguisher etc
+      type: select_one
+      options:
+      - All present and accessible
+      - Some missing
+      - None present
+      - Not checked
+      required: true
+    - id: 24
+      name: maintenance_needed
+      label: Maintenance Required
+      hint: Is any maintenance or repair needed
+      type: select_one
+      options:
+      - No - vehicle is ready
+      - Yes - routine maintenance
+      - Yes - urgent repair needed
+      required: true
+    - id: 25
+      name: maintenance_details
+      label: Maintenance Details
+      hint: Describe required maintenance or repairs
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: vehicle_ready_for_use
+      label: Vehicle Ready for Use
+      hint: Can vehicle be safely operated
+      type: select_one
+      options:
+      - Yes - approved for use
+      - No - do not use
+      - Conditional - see notes
+      required: true
+    - id: 27
+      name: inspector_signature
+      label: Inspector Signature
+      hint: Type your full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other observations or concerns
+      type: text
+      options: []
+      required: false

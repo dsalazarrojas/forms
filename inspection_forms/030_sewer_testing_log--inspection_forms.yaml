@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sewer Testing Log
+    pages:
+    - id: 1
+      name: inspect_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: inspector_name
+      label: Inspector Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: sewer_id
+      label: Sewer ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: test_type
+      label: Test Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Flow Test''}'
+      - '{''id'': 2, ''label'': ''Visual Test''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: false
+    - id: 5
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: result
+      label: Test Result
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Passing''}'
+      - '{''id'': 2, ''label'': ''Failing''}'
+      required: false
+    - id: 7
+      name: remarks
+      label: Remarks
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false

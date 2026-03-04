@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: haccp_cleaning_submission_form
+    pages:
+    - id: 1
+      name: haccp_cleaning_submission_form
+      label: haccp_cleaning_submission_form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: haccp_cleaning_submission_form_schedule
+      label: haccp_cleaning_submission_form_schedule
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: haccp_cleaning_submission_form_verification
+      label: haccp_cleaning_submission_form_verification
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: haccp_cleaning_submission_form_responsible_person
+      label: haccp_cleaning_submission_form_responsible_person
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Person A''}'
+      - '{''value'': ''Person B''}'
+      - '{''value'': ''Person C''}'
+      required: false
+    - id: 5
+      name: haccp_cleaning_submission_form_verification_date
+      label: haccp_cleaning_submission_form_verification_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: haccp_cleaning_submission_form_time
+      label: haccp_cleaning_submission_form_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: haccp_cleaning_submission_form_note
+      label: haccp_cleaning_submission_form_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: haccp_cleaning_submission_form_uploads
+      label: haccp_cleaning_submission_form_uploads
+      hint: null
+      type: text
+      options: []
+      required: false

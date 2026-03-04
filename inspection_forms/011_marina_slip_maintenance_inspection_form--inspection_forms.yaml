@@ -1,0 +1,43 @@
+inputSchema:
+  type: object
+  properties:
+    title: Marina Slip Maintenance Inspection Form
+    pages:
+    - id: 1
+      name: maintenance_status
+      label: Maintenance Status
+      hint: null
+      type: select_one
+      options:
+      - Needs Maintenance
+      - No Action Required
+      - Completed
+      required: true
+    - id: 2
+      name: marina_address
+      label: marina address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: inspection_date
+      label: inspection date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: inspector_name
+      label: inspector name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: inspector_phone
+      label: inspector phone
+      hint: null
+      type: text
+      options: []
+      required: false

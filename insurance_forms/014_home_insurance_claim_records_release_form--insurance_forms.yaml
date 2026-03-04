@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Home Insurance Claim Records Release Form
+    pages:
+    - id: 1
+      name: policyholder_name
+      label: Policyholder Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: claim_date
+      label: Claim Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: authorized_to_release
+      label: Authorized To Release
+      hint: null
+      type: select_one
+      options:
+      - 'No'
+      - 'Yes'
+      required: true
+    - id: 4
+      name: release_to
+      label: Release To
+      hint: null
+      type: select_multiple
+      options:
+      - Insurance Company
+      - Third Party
+      required: false
+    - id: 5
+      name: reason_for_release
+      label: Reason For Release
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: authorized_person
+      label: Authorized Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: release_date
+      label: Release Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: reason_for_release
+      label: Reason
+      hint: null
+      type: text
+      options: []
+      required: false

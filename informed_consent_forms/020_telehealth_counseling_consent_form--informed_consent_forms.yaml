@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Telehealth Counseling Consent Form
+    pages:
+    - id: 1
+      name: patient_info
+      label: patient_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: provider_info
+      label: provider_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_service
+      label: date_of_service
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time_of_service
+      label: time_of_service
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: services_provided
+      label: services_provided
+      hint: null
+      type: select_multiple
+      options:
+      - Telehealth Counseling Session
+      - Medication Management
+      - Other Services
+      required: false
+    - id: 6
+      name: patient_phone
+      label: patient_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: provider_phone
+      label: provider_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: patient_email
+      label: patient_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: provider_email
+      label: provider_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: signature_date
+      label: signature_date
+      hint: null
+      type: date
+      options: []
+      required: false

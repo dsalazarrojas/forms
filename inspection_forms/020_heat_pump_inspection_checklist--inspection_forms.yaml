@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Heat Pump Inspection Checklist
+    pages:
+    - id: 1
+      name: general_info
+      label: General Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: system_settings
+      label: System Settings
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: system_performance
+      label: System Performance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: inspection_areas
+      label: Inspection Areas
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: pump_type
+      label: Pump Type
+      hint: null
+      type: select_one
+      options:
+      - Heat Pump System
+      - Water Source Heat Pump System
+      required: false
+    - id: 6
+      name: installed_year
+      label: Installed Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: installed_capacity
+      label: Installed Capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: installed_location
+      label: Installed Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: inspector_name
+      label: Inspector Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: inspector_contact
+      label: Inspector Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: property_owner_name
+      label: Property Owner Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: property_owner_contact
+      label: Property Owner Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: system_status
+      label: System Status
+      hint: null
+      type: select_multiple
+      options:
+      - Working
+      - Partially Working
+      - Not Working
+      - Not Applicable
+      required: false
+    - id: 17
+      name: system_performance_rating
+      label: System Performance Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: general_condition
+      label: General Condition
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 19
+      name: installed_by
+      label: Installed By
+      hint: null
+      type: select_one
+      options:
+      - HVAC Team
+      - Service Company
+      - Property Manager
+      required: false
+    - id: 20
+      name: inspected_by
+      label: Inspected By
+      hint: null
+      type: select_one
+      options:
+      - HVAC Team
+      - Service Company
+      - Property Manager
+      required: false
+    - id: 21
+      name: last_maintenance
+      label: Last Maintenance
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: next_maintenance
+      label: Next Maintenance
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: maintenance_frequency
+      label: Maintenance Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: system_manufacturer
+      label: System Manufacturer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: model_number
+      label: Model Number
+      hint: null
+      type: text
+      options: []
+      required: false

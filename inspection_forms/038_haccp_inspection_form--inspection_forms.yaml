@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: HACCP Inspection Form
+    pages:
+    - id: 1
+      name: production_date
+      label: Production Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: plant_id
+      label: Plant Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: production_area_id
+      label: Production Area
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Production Line''}'
+      - '{''id'': 2, ''label'': ''Warehouse''}'
+      required: false
+    - id: 4
+      name: inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: inspector_id
+      label: Inspector
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: inspection_status
+      label: Inspection Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Complete''}'
+      - '{''id'': 2, ''label'': ''Incomplete''}'
+      - '{''id'': 3, ''label'': ''Re-Inspection Required''}'
+      required: false
+    - id: 7
+      name: critical_control_points
+      label: Critical Control Points
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: corrective_action
+      label: Corrective Action
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: preventive_action
+      label: Preventive Action
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: observations
+      label: Observations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: corrective_actions_taken
+      label: Corrective Actions Taken
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: preventive_actions_taken
+      label: Preventive Actions Taken
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false

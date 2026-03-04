@@ -1,0 +1,185 @@
+inputSchema:
+  type: object
+  properties:
+    title: Life Insurance Declaration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: occupation
+      label: Occupation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: health_details
+      label: Health Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: policy_type
+      label: Policy Type
+      hint: null
+      type: select_multiple
+      options:
+      - Life Insurance
+      - Other
+      required: true
+    - id: 10
+      name: policy_start_date
+      label: Policy Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: policy_end_date
+      label: Policy End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: premium_amount
+      label: Premium Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: medical_report
+      label: Medical Report
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: policy_documents
+      label: Policy Documents
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 16
+      name: medical_insurer
+      label: Medical Insurer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: health_insurer
+      label: Health Insurer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: policy_provider
+      label: Policy Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: policy_number
+      label: Policy Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: policy_date
+      label: Policy Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: policy_start_date_2
+      label: Policy Start Date 2
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: policy_end_date_2
+      label: Policy End Date 2
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: policy_status
+      label: Policy Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: policy_type_2
+      label: Policy Type 2
+      hint: null
+      type: select_one
+      options:
+      - Term
+      - Whole
+      - Annual
+      required: false
+    - id: 25
+      name: medical_insurance_company
+      label: Medical Insurance Company
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pharmacy Payment Processing Inquiry Form
+    pages:
+    - id: 1
+      name: payment_issue_details
+      label: payment_issue_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: pharmacy_info
+      label: Pharmacy Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: issue_description
+      label: Issue Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: expected_resolution_time
+      label: Expected Resolution Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: resolution_status
+      label: Resolution Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: assigned_team
+      label: Assigned Team
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Visa
+      - Mastercard
+      - Amex
+      - Discover
+      - Cash
+      - Other
+      required: false
+    - id: 9
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: issue_type
+      label: Issue Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 13
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

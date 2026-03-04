@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: PC Quote Form
+    pages:
+    - id: 1
+      name: quote_form_1
+      label: Quote form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_info
+      label: Customer Information
+      hint: Please enter customer information
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: customer_note
+      label: customer_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: quote_price
+      label: quote_price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: quote_items
+      label: Quote Items
+      hint: Select all items
+      type: select_multiple
+      options:
+      - Item 1
+      - Item 2
+      - Item 3
+      required: false
+    - id: 9
+      name: quote_status
+      label: Quote Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Completed
+      - In Progress
+      - Cancelled
+      required: false
+    - id: 10
+      name: created_by
+      label: Created by
+      hint: null
+      type: select_one
+      options:
+      - Jim
+      - Jane
+      - Other
+      required: false
+    - id: 11
+      name: created_by_other
+      label: created_by_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: customer_address
+      label: Customer Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: customer_city
+      label: customer_city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: customer_state
+      label: customer_state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: customer_zip
+      label: customer_zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: customer_country
+      label: customer_country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: quote_date
+      label: quote_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: quote_time
+      label: quote_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: quote_note
+      label: quote_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - Submit Quote Form
+      - Save for later
+      required: false
+    - id: 21
+      name: created_time
+      label: Created time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: created_date
+      label: Created date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: last_updated
+      label: Last updated
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: last_updated_date
+      label: Last updated date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: quote_number
+      label: Quote Number
+      hint: null
+      type: text
+      options: []
+      required: false

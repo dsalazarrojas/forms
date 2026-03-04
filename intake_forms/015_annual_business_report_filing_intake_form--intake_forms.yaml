@@ -1,0 +1,235 @@
+inputSchema:
+  type: object
+  properties:
+    title: Annual Business Report Filing Intake Form
+    pages:
+    - id: 1
+      name: company_name
+      label: Company Name
+      hint: Legal name of the company
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_name
+      label: Contact Person Name
+      hint: Person responsible for filing
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company_address
+      label: Company Address
+      hint: Registered business address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: business_entity_type
+      label: Business Entity Type
+      hint: Legal structure of the business
+      type: select_one
+      options:
+      - Corporation
+      - S Corporation
+      - LLC
+      - Partnership
+      - Sole Proprietorship
+      - Nonprofit
+      - Other
+      required: true
+    - id: 7
+      name: state_of_incorporation
+      label: State of Incorporation
+      hint: Where is the business incorporated?
+      type: select_one
+      options:
+      - Delaware
+      - California
+      - New York
+      - Texas
+      - Florida
+      - Nevada
+      - Wyoming
+      - Other
+      required: true
+    - id: 8
+      name: ein_number
+      label: EIN Number
+      hint: Employer Identification Number
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: state_id_number
+      label: State ID Number
+      hint: State business ID if applicable
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: filing_year
+      label: Filing Year
+      hint: Which year is this report for?
+      type: select_one
+      options:
+      - 2026
+      - 2025
+      - 2024
+      - 2023
+      required: true
+    - id: 11
+      name: fiscal_year_end
+      label: Fiscal Year End Date
+      hint: When does your fiscal year end?
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: report_type
+      label: Report Type
+      hint: What type of report is this?
+      type: select_one
+      options:
+      - Annual Report
+      - Statement of Information
+      - Franchise Tax Report
+      - Combined Report
+      - Amendment
+      - Other
+      required: true
+    - id: 13
+      name: officers_directors
+      label: Officers and Directors
+      hint: List current officers and directors
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: registered_agent
+      label: Registered Agent
+      hint: Name of registered agent
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: registered_agent_address
+      label: Registered Agent Address
+      hint: Address of registered agent
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: authorized_shares
+      label: Authorized Shares
+      hint: Number of authorized shares
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: outstanding_shares
+      label: Outstanding Shares
+      hint: Number of outstanding shares
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: principal_business_activity
+      label: Principal Business Activity
+      hint: Main business activity
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: naics_code
+      label: NAICS Code
+      hint: Industry classification code
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: gross_receipts
+      label: Gross Receipts
+      hint: Total gross receipts for the year
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: total_assets
+      label: Total Assets
+      hint: Total company assets
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: filing_method
+      label: Filing Method
+      hint: How should this be filed?
+      type: select_one
+      options:
+      - Electronic Filing
+      - Paper Filing
+      - Expedited Filing
+      - Standard Processing
+      required: true
+    - id: 23
+      name: filing_fee_payment
+      label: Filing Fee Payment
+      hint: How will fees be paid?
+      type: select_one
+      options:
+      - Credit Card
+      - Bank Transfer
+      - Check
+      - Invoice
+      - Prepaid Account
+      required: true
+    - id: 24
+      name: supporting_documents
+      label: Supporting Documents
+      hint: List attached documentation
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: signature_name
+      label: Signature Name
+      hint: Name of person signing
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: signature_title
+      label: Signature Title
+      hint: Title of signing person
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: signature_date
+      label: Signature Date
+      hint: Date of signing
+      type: date
+      options: []
+      required: true
+    - id: 28
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false

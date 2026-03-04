@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: semi_truck_inspection_form
+    pages:
+    - id: 1
+      name: truck_id
+      label: Truck Id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: date_of_inspection
+      label: Date Of Inspection
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: truck_type
+      label: Truck Type
+      hint: null
+      type: select_one
+      options:
+      - Single Axle
+      - Double Axle
+      - Semi Tractor
+      required: false
+    - id: 5
+      name: truck_number
+      label: Truck Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: trailer_count
+      label: Trailer Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: trailer_type
+      label: Trailer Type
+      hint: null
+      type: select_multiple
+      options:
+      - Single Axle
+      - Double Axle
+      - No Trailer
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

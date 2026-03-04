@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Claim Processing Efficiency Audit Form
+    pages:
+    - id: 1
+      name: auditor_name
+      label: Auditor name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: audit_period_start
+      label: Audit period start
+      hint: Start date of audit range
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: audit_period_end
+      label: Audit period end
+      hint: End date of audit range
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: total_claims_reviewed
+      label: Total claims reviewed
+      hint: Number of claims sampled
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: average_turnaround_days
+      label: Average turnaround days
+      hint: Mean processing time in days
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: common_bottlenecks
+      label: Common bottlenecks identified
+      hint: Describe recurring issues
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: compliance_issues
+      label: Compliance issues found
+      hint: Note any policy deviations
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: recommendations
+      label: Recommendations for improvement
+      hint: Actionable steps and priorities
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: risk_level
+      label: Risk level for current process
+      hint: Low medium high
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 10
+      name: audit_date
+      label: Audit completion date
+      hint: Date of audit finalization
+      type: date
+      options: []
+      required: true

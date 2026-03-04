@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nanny Background Check Form
+    pages:
+    - id: 1
+      name: background_check_form
+      label: Information Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name_input
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email_input
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_input
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address_input
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: background_check_conducting
+      label: Who Is Conducting The Background Check
+      hint: null
+      type: select_one
+      options:
+      - '{''option_1'': ''Family Member''}'
+      - '{''option_2'': ''Friend''}'
+      - '{''option_3'': ''Other''}'
+      required: false
+    - id: 7
+      name: background_check_type
+      label: What Type Of Background Check
+      hint: null
+      type: select_one
+      options:
+      - '{''option_1'': ''Basic''}'
+      - '{''option_2'': ''Advanced''}'
+      - '{''option_3'': ''Full''}'
+      required: false
+    - id: 8
+      name: background_check_frequency
+      label: How Often Do You Conduct A Background Check
+      hint: null
+      type: select_one
+      options:
+      - '{''option_1'': ''One Time''}'
+      - '{''option_2'': ''Regularly''}'
+      - '{''option_3'': ''As Needed''}'
+      required: false
+    - id: 9
+      name: background_check_reason
+      label: Reason For Background Check
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: background_check_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

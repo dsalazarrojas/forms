@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Product Display Checklist
+    pages:
+    - id: 1
+      name: product_display_checklist
+      label: Product Display Checklist
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: merchandiser_location
+      label: Merchandiser Location
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Location 1'', ''value'': ''Location 1''}'
+      - '{''id'': 2, ''label'': ''Location 2'', ''value'': ''Location 2''}'
+      required: false
+    - id: 3
+      name: product_condition
+      label: Product Condition
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Good'', ''value'': ''Good''}'
+      - '{''id'': 2, ''label'': ''Bad'', ''value'': ''Bad''}'
+      - '{''id'': 3, ''label'': ''Missing'', ''value'': ''Missing''}'
+      required: false
+    - id: 4
+      name: follow_up
+      label: Follow Up
+      hint: Follow up required if issues are detected
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''1 day'', ''value'': 1}'
+      - '{''id'': 2, ''label'': ''2 days'', ''value'': 2}'
+      - '{''id'': 3, ''label'': ''3 days'', ''value'': 3}'
+      required: false
+    - id: 5
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: date_completed
+      label: Date Completed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_completed
+      label: Time Completed
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: location_name
+      label: Location Name
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hospital Hygiene Standards Assessment Form
+    pages:
+    - id: 1
+      name: patient_identification
+      label: Patient Identification
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_visit
+      label: Date Of Visit
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: inspector_info
+      label: Inspector Info
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: patient_condition
+      label: Patient Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: hospital_department
+      label: Hospital Department
+      hint: null
+      type: select_multiple
+      options:
+      - cardiovascular
+      - emergency_department
+      - labor_delivery
+      required: true
+    - id: 6
+      name: assessment_type
+      label: Assessment Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: facility_rating
+      label: Facility Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: patient_rating
+      label: Patient Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: follow_up_recommendations
+      label: Follow-up Recommendations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: facility_score
+      label: Facility Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: score_explanation
+      label: Score Explanation
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Kink Lifestyle Submission Form
+    pages:
+    - id: 1
+      name: member_details
+      label: member_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: kink_interests
+      label: kink_interests
+      hint: null
+      type: select_one
+      options:
+      - BDSM
+      - Bondage
+      - Discipline
+      - Dominance
+      - Masochism
+      - Submission
+      - Sadism
+      - Sadomasochism
+      required: false
+    - id: 3
+      name: boundaries
+      label: boundaries
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: consent
+      label: consent
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Maybe
+      required: false
+    - id: 5
+      name: member_interests
+      label: member_interests
+      hint: null
+      type: select_multiple
+      options:
+      - Kink
+      - Lifestyle
+      - Community
+      - Event
+      - Host
+      - Moderator
+      - Kinkster
+      - Member
+      required: false
+    - id: 6
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: name_confirmation
+      label: name_confirmation
+      hint: null
+      type: note
+      options: []
+      required: false

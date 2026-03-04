@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: High-Frequency Skin Treatment Consent Form
+    pages:
+    - id: 1
+      name: client_details
+      label: Client Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: skin_type
+      label: Skin Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Normal Skin''}'
+      - '{''id'': 2, ''label'': ''Sensitive Skin''}'
+      - '{''id'': 3, ''label'': ''Rosacea Skin''}'
+      required: true
+    - id: 3
+      name: health_details
+      label: Health Details
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 4
+      name: treatment_frequency
+      label: Treatment Frequency
+      hint: How often would you like to have skin treatments?
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Once a month''}'
+      - '{''id'': 2, ''label'': ''Twice a month''}'
+      - '{''id'': 3, ''label'': ''Weekly''}'
+      - '{''id'': 4, ''label'': ''Daily''}'
+      required: true
+    - id: 5
+      name: treatment_consent
+      label: Consent
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: medication
+      label: Medication
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: allergies
+      label: Allergies
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: consent_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: consent_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: consent_signature
+      label: Signature
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Initial Consultation''}'
+      - '{''id'': 2, ''label'': ''Initial and Future Treatments''}'
+      required: true
+    - id: 14
+      name: consent_note
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

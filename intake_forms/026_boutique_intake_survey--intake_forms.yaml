@@ -1,0 +1,277 @@
+inputSchema:
+  type: object
+  properties:
+    title: Boutique Intake Survey
+    pages:
+    - id: 1
+      name: customer_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_email
+      label: Email Address
+      hint: For communications and updates
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: customer_phone
+      label: Phone Number
+      hint: Primary contact number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: customer_age_range
+      label: Age Range
+      hint: Select your age range
+      type: select_one
+      options:
+      - Under 18
+      - 18-24
+      - 25-34
+      - 35-44
+      - 45-54
+      - 55-64
+      - 65 or older
+      required: true
+    - id: 6
+      name: customer_gender
+      label: Gender
+      hint: Select your gender
+      type: select_one
+      options:
+      - Female
+      - Male
+      - Non-binary
+      - Prefer not to say
+      - Other
+      required: false
+    - id: 7
+      name: shopping_frequency
+      label: Shopping Frequency
+      hint: How often do you shop at boutiques
+      type: select_one
+      options:
+      - Weekly
+      - Monthly
+      - Quarterly
+      - A few times a year
+      - Rarely
+      required: true
+    - id: 8
+      name: style_preferences
+      label: Style Preferences
+      hint: Select your preferred styles
+      type: select_multiple
+      options:
+      - Casual
+      - Business casual
+      - Professional
+      - Bohemian
+      - Classic
+      - Trendy
+      - Vintage
+      - Minimalist
+      - Athletic
+      - Formal
+      required: true
+    - id: 9
+      name: color_preferences
+      label: Color Preferences
+      hint: What colors do you prefer
+      type: select_multiple
+      options:
+      - Neutrals
+      - Black
+      - White
+      - Pastels
+      - Bright colors
+      - Earth tones
+      - Jewel tones
+      - Prints and patterns
+      required: true
+    - id: 10
+      name: size_range
+      label: Size Range
+      hint: What size range do you typically wear
+      type: select_one
+      options:
+      - XS
+      - S
+      - M
+      - L
+      - XL
+      - Plus size
+      - Petite
+      - Tall
+      required: false
+    - id: 11
+      name: budget_range
+      label: Typical Budget Range
+      hint: How much do you typically spend per item
+      type: select_one
+      options:
+      - Under $50
+      - $50-$100
+      - $100-$200
+      - $200-$500
+      - Over $500
+      required: true
+    - id: 12
+      name: product_interests
+      label: Product Interests
+      hint: What types of products interest you
+      type: select_multiple
+      options:
+      - Tops
+      - Dresses
+      - Bottoms
+      - Outerwear
+      - Activewear
+      - Accessories
+      - Jewelry
+      - Shoes
+      - Bags
+      - Scarves
+      required: true
+    - id: 13
+      name: brand_preferences
+      label: Brand Preferences
+      hint: Any favorite brands
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: shopping_motivation
+      label: What Brings You In Today
+      hint: What motivates your shopping
+      type: select_one
+      options:
+      - Everyday wardrobe refresh
+      - Special occasion
+      - Work wardrobe
+      - Seasonal update
+      - Gift shopping
+      - Just browsing
+      - Following trends
+      required: true
+    - id: 15
+      name: fit_challenges
+      label: Fit Challenges
+      hint: Do you have any fit challenges
+      type: select_multiple
+      options:
+      - None
+      - Finding right size
+      - Length issues
+      - Sleeve length
+      - Waist fit
+      - Hip fit
+      - Bust fit
+      - Petite proportions
+      - Tall proportions
+      required: false
+    - id: 16
+      name: fabric_preferences
+      label: Fabric Preferences
+      hint: Preferred fabric types
+      type: select_multiple
+      options:
+      - Cotton
+      - Linen
+      - Silk
+      - Wool
+      - Synthetic blends
+      - Sustainable fabrics
+      - No preference
+      required: false
+    - id: 17
+      name: sustainability_importance
+      label: Sustainability Importance
+      hint: How important is sustainable fashion to you
+      type: select_one
+      options:
+      - Very important
+      - Somewhat important
+      - Neutral
+      - Not important
+      required: true
+    - id: 18
+      name: communication_preference
+      label: Communication Preference
+      hint: How would you like to hear from us
+      type: select_multiple
+      options:
+      - Email newsletter
+      - Text messages
+      - Social media
+      - Phone calls
+      - Mail
+      - No communications
+      required: true
+    - id: 19
+      name: referral_source
+      label: How Did You Hear About Us
+      hint: What brought you to our boutique
+      type: select_one
+      options:
+      - Social media
+      - Friend referral
+      - Walking by
+      - Website
+      - Advertisement
+      - Event
+      - Other
+      required: true
+    - id: 20
+      name: personal_shopper_interest
+      label: Personal Shopper Interest
+      hint: Would you be interested in personal shopping services
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: true
+    - id: 21
+      name: styling_session_interest
+      label: Styling Session Interest
+      hint: Would you be interested in styling sessions
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: false
+    - id: 22
+      name: special_occasions
+      label: Upcoming Special Occasions
+      hint: Any upcoming events you need outfits for
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: wishlist_items
+      label: Wishlist Items
+      hint: Any specific items you are looking for
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: feedback_suggestions
+      label: Feedback or Suggestions
+      hint: How can we serve you better
+      type: text
+      options: []
+      required: false

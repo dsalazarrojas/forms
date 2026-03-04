@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Softgel Capsule Quality Inspection Checklist
+    pages:
+    - id: 1
+      name: batch_number
+      label: Batch Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: shift
+      label: Shift
+      hint: null
+      type: select_multiple
+      options:
+      - Batch 1
+      - Batch 2
+      - Batch 3
+      required: false
+    - id: 3
+      name: color
+      label: Color
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: weight
+      label: Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: size
+      label: Size
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: shape
+      label: Shape
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: color_consistent
+      label: Consistent Color
+      hint: null
+      type: select_one
+      options:
+      - 'False'
+      - 'True'
+      required: false
+    - id: 8
+      name: weight_consistent
+      label: Consistent Weight
+      hint: null
+      type: select_one
+      options:
+      - 'False'
+      - 'True'
+      required: false
+    - id: 9
+      name: size_consistent
+      label: Consistent Size
+      hint: null
+      type: select_one
+      options:
+      - 'False'
+      - 'True'
+      required: false
+    - id: 10
+      name: shape_consistent
+      label: Consistent Shape
+      hint: null
+      type: select_one
+      options:
+      - 'False'
+      - 'True'
+      required: false
+    - id: 11
+      name: color_uneven
+      label: Uneven Color
+      hint: null
+      type: select_multiple
+      options:
+      - 'False'
+      - 'True'
+      required: false
+    - id: 12
+      name: weight_uneven
+      label: Uneven Weight
+      hint: null
+      type: select_multiple
+      options:
+      - 'False'
+      - 'True'
+      required: false
+    - id: 13
+      name: size_uneven
+      label: Uneven Size
+      hint: null
+      type: select_multiple
+      options:
+      - 'False'
+      - 'True'
+      required: false
+    - id: 14
+      name: shape_uneven
+      label: Uneven Shape
+      hint: null
+      type: select_multiple
+      options:
+      - 'False'
+      - 'True'
+      required: false
+    - id: 15
+      name: color_missing
+      label: Color Missing
+      hint: null
+      type: select_multiple
+      options:
+      - 'False'
+      - 'True'
+      required: false
+    - id: 16
+      name: weight_missing
+      label: Weight Missing
+      hint: null
+      type: select_multiple
+      options:
+      - 'False'
+      - 'True'
+      required: false
+    - id: 17
+      name: size_missing
+      label: Size Missing
+      hint: null
+      type: select_multiple
+      options:
+      - 'False'
+      - 'True'
+      required: false
+    - id: 18
+      name: shape_missing
+      label: Shape Missing
+      hint: null
+      type: select_multiple
+      options:
+      - 'False'
+      - 'True'
+      required: false
+    - id: 19
+      name: color_outside
+      label: Color Outside
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: weight_outside
+      label: Weight Outside
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: size_outside
+      label: Size Outside
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: shape_outside
+      label: Shape Outside
+      hint: null
+      type: text
+      options: []
+      required: false

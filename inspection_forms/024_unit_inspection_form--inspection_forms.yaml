@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: Unit Inspection Form
+    pages:
+    - id: 1
+      name: unit_inspection_form
+      label: unit inspection
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: move_in_date
+      label: move_in_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: move_out_date
+      label: move_out_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: move_in_condition
+      label: move_in_condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: move_out_condition
+      label: move_out_condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: move_in_notes
+      label: move_in_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: move_out_notes
+      label: move_out_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: damages
+      label: damages
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: move_in_photos
+      label: move_in_photos
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: move_out_photos
+      label: move_out_photos
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: renter_name
+      label: renter_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: property_address
+      label: property_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: landlord_phone
+      label: landlord_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: landlord_email
+      label: landlord_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: move_in_status
+      label: move_in_status
+      hint: null
+      type: select_multiple
+      options:
+      - Moved In
+      - No Move-In
+      - Unknown
+      required: false
+    - id: 16
+      name: move_out_status
+      label: move_out_status
+      hint: null
+      type: select_multiple
+      options:
+      - Moved Out
+      - No Move-Out
+      - Unknown
+      required: false

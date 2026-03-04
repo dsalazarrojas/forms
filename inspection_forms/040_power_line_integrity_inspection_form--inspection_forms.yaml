@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: power_line_integrity_inspection_form
+    pages:
+    - id: 1
+      name: power_line_integrity_inspection
+      label: Power Line Integrity Inspection Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: power_line_integrity_inspection_form_help
+      label: Power Line Integrity Inspection Form Help
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: date_of_inspection
+      label: Date of Inspection
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: power_line_location
+      label: Power Line Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: power_line_location_coordinates
+      label: Power Line Location Coordinates
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: inspector_name
+      label: Inspector Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: inspector_id
+      label: Inspector ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: inspection_type
+      label: Inspection Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: power_line_type
+      label: Power Line Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: power_line_status
+      label: Power Line Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 13
+      name: hazard_found
+      label: Hazard FoundchartInstance
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: remarks
+      label: Remarks
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: power_line_integrity_form_notes
+      label: Power Line Integrity Form Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: power_line_integrity_form_attachments
+      label: Power Line Integrity Form Attachments
+      hint: null
+      type: text
+      options: []
+      required: false

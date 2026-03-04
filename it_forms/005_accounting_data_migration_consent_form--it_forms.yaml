@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Accounting Data Migration Consent Form
+    pages:
+    - id: 1
+      name: consent_header
+      label: -- Consent details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client name
+      hint: Legal or trading name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_person
+      label: Contact person
+      hint: Primary contact for the migration
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Contact email
+      hint: Email for migration coordination
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: current_system
+      label: Current accounting system
+      hint: System data will be migrated from
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: target_system
+      label: Target accounting system
+      hint: System data will be migrated to
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: data_scope
+      label: Data scope to be migrated
+      hint: e.g., transactions, charts of accounts, payroll records
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: migration_start_date
+      label: Migration start date
+      hint: Preferred start date for migration activities
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: expected_downtime
+      label: Expected downtime
+      hint: Estimated system unavailability length if any
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: backup_confirmed
+      label: Backup confirmed
+      hint: Confirm that a full backup has been taken
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 11
+      name: data_privacy_requirements
+      label: Data privacy requirements
+      hint: Any specific privacy or confidentiality requirements
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: approval_signature
+      label: Approval signature
+      hint: Type full name as authorization
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: approval_date
+      label: Approval date
+      hint: Date client approved the migration
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: contact_phone
+      label: Contact phone
+      hint: Phone for rapid coordination
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: additional_instructions
+      label: Additional instructions
+      hint: Any special instructions for the migration team
+      type: text
+      options: []
+      required: false

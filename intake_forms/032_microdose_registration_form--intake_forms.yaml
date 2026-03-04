@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Microdose Registration Form
+    pages:
+    - id: 1
+      name: participant_details
+      label: Participant Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: health_info
+      label: Health Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: intentions
+      label: Intention
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: consent
+      label: Consent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: microdose_registrations
+      label: Microdose Registations
+      hint: null
+      type: text
+      options: []
+      required: false

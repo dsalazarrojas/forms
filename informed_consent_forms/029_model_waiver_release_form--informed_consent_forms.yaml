@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Model Waiver & Release Form
+    pages:
+    - id: 1
+      name: model_info
+      label: model_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: photographer_info
+      label: photographer_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: release
+      label: release
+      hint: null
+      type: select_multiple
+      options:
+      - Full release
+      - Limited release
+      - No release
+      required: true
+    - id: 4
+      name: photo_usage
+      label: photo_usage
+      hint: null
+      type: select_multiple
+      options:
+      - Editorial purposes
+      - Commercial purposes
+      - Other
+      required: true
+    - id: 5
+      name: signature_date
+      label: signature_date
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: signature_time
+      label: signature_time
+      hint: "HH:MM AM/PM"
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: model_name
+      label: model_name
+      hint: Enter model's name
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: photographer_name
+      label: photographer_name
+      hint: Enter photographer's name
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: location
+      label: location
+      hint: Enter location
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: contact_method
+      label: contact_method
+      hint: null
+      type: select_multiple
+      options:
+      - Phone
+      - Email
+      - Mail
+      required: true
+    - id: 11
+      name: contact_info
+      label: contact_info
+      hint: Enter contact information
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: photo_credit
+      label: photo_credit
+      hint: Enter photo credit name
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: photo_credit_url
+      label: photo_credit_url
+      hint: Enter photo credit URL
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: waiver_date
+      label: waiver_date
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: waiver_time
+      label: waiver_time
+      hint: "HH:MM AM/PM"
+      type: time
+      options: []
+      required: true
+    - id: 16
+      name: photo_count
+      label: photo_count
+      hint: Enter number of photos
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: photo_usage_other
+      label: photo_usage_other
+      hint: Other photo usage description
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: photo_count_other
+      label: photo_count_other
+      hint: Other photo count description
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: model_address
+      label: model_address
+      hint: Enter model's address
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: photographer_address
+      label: photographer_address
+      hint: Enter photographer's address
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: photo_expiration_date
+      label: photo_expiration_date
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: photo_expiration_time
+      label: photo_expiration_time
+      hint: "HH:MM AM/PM"
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: photo_expiration_note
+      label: photo_expiration_note
+      hint: Enter photo expiration note
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: photographer_notes
+      label: photographer_notes
+      hint: Enter photographer's notes
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: submit_info
+      label: submit_info
+      hint: Enter submission information
+      type: text
+      options: []
+      required: false

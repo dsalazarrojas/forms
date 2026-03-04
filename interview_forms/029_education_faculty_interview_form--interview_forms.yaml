@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Education Faculty Interview Form
+    pages:
+    - id: 1
+      name: interview_form
+      label: faculty_interview_form
+      hint: null
+      type: select_multiple
+      options:
+      - Select all that apply
+      - 'Yes'
+      - 'No'
+      - Undecided
+      required: false
+    - id: 2
+      name: faculty_name
+      label: faculty_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: evaluation_date
+      label: evaluation_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: evaluation_time
+      label: evaluation_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: candidate_score
+      label: candidate_score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: candidate_rank
+      label: candidate_rank
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 7
+      name: interview_notes
+      label: interview_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: faculty_comments
+      label: faculty_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: department_name
+      label: department_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: department_location
+      label: department_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submitted_by
+      label: submitted_by
+      hint: null
+      type: select_one
+      options:
+      - Faculty 1
+      - Faculty 2
+      - Faculty 3
+      required: false
+    - id: 12
+      name: submitted_at
+      label: submitted_at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: submitted_time
+      label: submitted_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: submitted_comments
+      label: submitted_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: department_comments
+      label: department_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: review_status
+      label: review_status
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - In Progress
+      - Pending
+      required: false
+    - id: 17
+      name: review_notes
+      label: review_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: review_date
+      label: review_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: review_time
+      label: review_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: review_by
+      label: review_by
+      hint: null
+      type: select_one
+      options:
+      - Faculty 1
+      - Faculty 2
+      - Faculty 3
+      required: false
+    - id: 21
+      name: review_comments
+      label: review_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: submitted_to
+      label: submitted_to
+      hint: null
+      type: select_one
+      options:
+      - Faculty 1
+      - Faculty 2
+      - Faculty 3
+      required: false
+    - id: 23
+      name: submitted_to_comments
+      label: submitted_to_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: review_to
+      label: review_to
+      hint: null
+      type: select_one
+      options:
+      - Faculty 1
+      - Faculty 2
+      - Faculty 3
+      required: false
+    - id: 25
+      name: review_to_comments
+      label: review_to_comments
+      hint: null
+      type: text
+      options: []
+      required: false

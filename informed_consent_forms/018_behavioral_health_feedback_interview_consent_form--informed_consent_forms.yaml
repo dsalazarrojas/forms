@@ -1,0 +1,183 @@
+inputSchema:
+  type: object
+  properties:
+    title: Behavioral Health Feedback Interview Consent Form
+    pages:
+    - id: 1
+      name: section_participant
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: section_interview
+      label: -- Interview Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: interview_purpose
+      label: Purpose of the Interview
+      hint: null
+      type: select_one
+      options:
+      - Feedback on Services Received
+      - Program Evaluation
+      - Research Participation
+      - Treatment Outcome Assessment
+      - Other
+      required: true
+    - id: 8
+      name: interview_format
+      label: Interview Format
+      hint: null
+      type: select_one
+      options:
+      - In-Person
+      - Telephone
+      - Video Conference
+      - Written Survey
+      required: true
+    - id: 9
+      name: estimated_duration
+      label: Estimated Interview Duration
+      hint: null
+      type: select_one
+      options:
+      - 15-30 minutes
+      - 30-45 minutes
+      - 45-60 minutes
+      - More than 1 hour
+      required: false
+    - id: 10
+      name: interviewer_name
+      label: Interviewer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: section_consent
+      label: -- Consent Statements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: consent_purpose_understand
+      label: I understand the purpose of this interview
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 13
+      name: consent_voluntary
+      label: I understand my participation is voluntary
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 14
+      name: consent_withdrawal
+      label: I may withdraw from the interview at any time
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 15
+      name: consent_confidentiality
+      label: My responses will be kept confidential
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 16
+      name: consent_recording
+      label: The interview may be recorded for accuracy
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: false
+    - id: 17
+      name: consent_anonymity
+      label: My personal information will be anonymized
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: false
+    - id: 18
+      name: consent_usage
+      label: Data may be used for research and improvement
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 19
+      name: questions_addressed
+      label: All My Questions Have Been Addressed
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 20
+      name: final_consent
+      label: I Consent to Participate in This Interview
+      hint: Required to proceed
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 21
+      name: consent_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true

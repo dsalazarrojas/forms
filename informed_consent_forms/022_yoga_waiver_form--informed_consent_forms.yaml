@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: yoga_waiver_form
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: emergency_contact
+      label: emergency contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: emergency_contact_name
+      label: emergency contact name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: emergency_contact_phone
+      label: emergency contact phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: emergency_contact_email
+      label: emergency contact email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: emergency_contact_relationship
+      label: emergency contact relationship
+      hint: null
+      type: select_one
+      options:
+      - Client
+      - Family Member
+      - Spouse
+      - Partner
+      - Friend
+      - Other
+      required: false
+    - id: 7
+      name: emergency_report_injury
+      label: report injury
+      hint: null
+      type: select_multiple
+      options:
+      - minor injury
+      - major injury
+      - sprain/strain
+      - other
+      required: false
+    - id: 8
+      name: emergency_contact_agree
+      label: emergency contact agree
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 9
+      name: signature
+      label: signature
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: RF Shielding Product Inquiry Form
+    pages:
+    - id: 1
+      name: engineering_request
+      label: Engineering Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rfs_spec
+      label: RF Shielding Specification
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: shielding_materials
+      label: Shielding Materials
+      hint: null
+      type: select_one
+      options:
+      - Aluminum
+      - Copper
+      - Silver
+      - Mu Metal
+      - PEEK
+      required: false
+    - id: 4
+      name: rfs_thickness
+      label: RF Shielding Thickness
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: shielding_area
+      label: Shielding Area
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: engineering_department
+      label: Engineering Department
+      hint: null
+      type: select_one
+      options:
+      - Electrical Engineering
+      - Mechanical Engineering
+      - Software Engineering
+      - Civil Engineering
+      required: false
+    - id: 7
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: team_assignment
+      label: Team Assignment
+      hint: null
+      type: select_multiple
+      options:
+      - Electrical Team
+      - Mechanical Team
+      - Software Team
+      - Civil Team
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: follow_up_date
+      label: Follow-up Date
+      hint: MM/DD/YY or YYYY-MM-DD
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: follow_up_time
+      label: Follow-up Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: follow_up_location
+      label: Follow-up Location
+      hint: null
+      type: select_multiple
+      options:
+      - Site 1
+      - Site 2
+      - Site 3
+      required: false

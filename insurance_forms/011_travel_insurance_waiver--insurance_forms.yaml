@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: travel Insurance Waiver
+    pages:
+    - id: 1
+      name: traveler_name
+      label: Traveler's Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: policy_number
+      label: Policy Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: effective_date
+      label: Effective Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: expiration_date
+      label: Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: policy_type
+      label: Policy Type
+      hint: null
+      type: select_one
+      options:
+      - Travel Insurance
+      - Other
+      required: false
+    - id: 7
+      name: coverage_area
+      label: Coverage Area
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: insurance_provider
+      label: Insurance Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: policy_status
+      label: Policy Status
+      hint: null
+      type: text
+      options: []
+      required: false

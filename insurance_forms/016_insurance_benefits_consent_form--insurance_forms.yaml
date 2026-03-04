@@ -1,0 +1,157 @@
+inputSchema:
+  type: object
+  properties:
+    title: Insurance Benefits Consent Form
+    pages:
+    - id: 1
+      name: insurance_benefits_consent_form
+      label: insurance_benefits_consent_form_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: patient_dob
+      label: patient_dob
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: insurance_provider
+      label: insurance_provider
+      hint: null
+      type: select_one
+      options:
+      - Blue Cross
+      - Blue Shield
+      - Blue Care
+      required: false
+    - id: 5
+      name: policy_number
+      label: policy_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: policy_effective_date
+      label: policy_effective_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: policy_expiration_date
+      label: policy_expiration_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: policy_cancellation_date
+      label: policy_cancellation_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: policy_status
+      label: policy_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Cancelled
+      required: false
+    - id: 10
+      name: patient_signature
+      label: patient_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: insurance_provider_signature
+      label: insurance_provider_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: insurance_administration_fee
+      label: insurance_administration_fee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: policy_administration_fee
+      label: policy_administration_fee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Credit Card
+      - Check
+      required: false
+    - id: 15
+      name: payment_date
+      label: payment_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: payment_status
+      label: payment_status
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Unpaid
+      - Partial
+      required: false
+    - id: 17
+      name: policy_notes
+      label: policy_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: patient_address
+      label: patient_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: policy_address
+      label: policy_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: policy_contact_number
+      label: policy_contact_number
+      hint: null
+      type: text
+      options: []
+      required: false

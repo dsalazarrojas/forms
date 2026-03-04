@@ -1,0 +1,102 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Railway Track Safety Inspection Form
+    pages:
+    - id: 1
+      name: inspection_form_data
+      label: Inspection Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: section_1_inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: section_1_inspection_frequency
+      label: Inspection Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: true
+    - id: 4
+      name: section_1_inspector_name
+      label: Inspector Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: section_1_location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_1_equipment_status
+      label: Equipment Status
+      hint: null
+      type: select_multiple
+      options:
+      - Working
+      - Not Working
+      - Needs Maintenance
+      required: false
+    - id: 7
+      name: section_2_inspection_result
+      label: Inspection Result
+      hint: null
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      - Deferred
+      required: true
+    - id: 8
+      name: section_2_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: section_3_additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: section_3_photos
+      label: Photos
+      hint: Attach photos of defects or issues
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: section_4_inspection_notes
+      label: Inspection Notes
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,213 @@
+inputSchema:
+  type: object
+  properties:
+    title: Security System Recalibration Request Form
+    pages:
+    - id: 1
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: access_info
+      label: Access Info
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: access_info_options
+      label: Select Access Info
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 5
+      name: schedule
+      label: Preferred Schedule
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: preferred_schedule_time
+      label: Schedule Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - John Doe
+      - Jane Doe
+      required: true
+    - id: 11
+      name: assigned_to_hint
+      label: Select Assigned To
+      hint: null
+      type: select_multiple
+      options:
+      - chatjimmy
+      - John Doe
+      - Jane Doe
+      required: false
+    - id: 12
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: security_clearance_level
+      label: Security Clearance Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: true
+    - id: 14
+      name: access_level
+      label: Access Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 15
+      name: access_level_options
+      label: Select Access Level
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: false
+    - id: 16
+      name: access_level_options2
+      label: Select Access Level 2
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: false
+    - id: 17
+      name: security_clearance_level2
+      label: Security Clearance Level 2
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 18
+      name: access_level2
+      label: Access Level 2
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 19
+      name: security_clearance_level3
+      label: Security Clearance Level 3
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 20
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: comments2
+      label: Comments 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: security_clearance_level4
+      label: Security Clearance Level 4
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 23
+      name: security_clearance_level5
+      label: Security Clearance Level 5
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 24
+      name: access_level3
+      label: Access Level 3
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 25
+      name: access_level4
+      label: Access Level 4
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false

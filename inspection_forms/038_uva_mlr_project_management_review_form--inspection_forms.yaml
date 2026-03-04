@@ -1,0 +1,135 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: UVA MLR Project Management Review Form
+    pages:
+    - id: 1
+      name: project_name
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_description
+      label: project description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: current_status
+      label: Current Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Active'', ''value'': ''active''}'
+      - '{''id'': 2, ''label'': ''On Hold'', ''value'': ''on_hold''}'
+      - '{''id'': 3, ''label'': ''Completed'', ''value'': ''completed''}'
+      required: false
+    - id: 4
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Continue project as is'', ''value'': ''continue_project_as_is''}'
+      - '{''id'': 2, ''label'': ''Change project scope'', ''value'': ''change_project_scope''}'
+      - '{''id'': 3, ''label'': ''Put on hold'', ''value'': ''put_on_hold''}'
+      - '{''id'': 4, ''label'': ''Terminate project'', ''value'': ''terminate_project''}'
+      required: false
+    - id: 5
+      name: issues
+      label: Issues
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: plans
+      label: Plans
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: follow_up
+      label: Follow-up
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: follow_up_by
+      label: Follow-up By
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: follow_up_location
+      label: Follow-up Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: follow_up_notes
+      label: Follow-up Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: project_manager
+      label: Project Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: project_lead
+      label: Project Lead
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: team_members
+      label: Team Members
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''John'', ''value'': ''john''}'
+      - '{''id'': 2, ''label'': ''Jane'', ''value'': ''jane''}'
+      - '{''id'': 3, ''label'': ''Joe'', ''value'': ''joe''}'
+      required: false
+    - id: 14
+      name: team_members_roles
+      label: Team Members Roles
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Project Manager'', ''value'': ''project_manager''}'
+      - '{''id'': 2, ''label'': ''Team Lead'', ''value'': ''team_lead''}'
+      - '{''id'': 3, ''label'': ''Team Member'', ''value'': ''team_member''}'
+      - '{''id'': 4, ''label'': ''Other'', ''value'': ''other''}'
+      required: false
+    - id: 15
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gym Cleaning Checklist
+    pages:
+    - id: 1
+      name: general_cleaning
+      label: General Cleaning
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: bathroom_cleaning
+      label: Bathroom Cleaning
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: locker_room_cleaning
+      label: Locker Room Cleaning
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: equipment_cleaning
+      label: Equipment Cleaning
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: safety_procedures
+      label: Safety Procedures
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: first_aid_kit
+      label: First Aid Kit
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: review
+      label: Review
+      hint: null
+      type: note
+      options: []
+      required: false

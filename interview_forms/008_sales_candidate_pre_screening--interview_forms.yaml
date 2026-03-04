@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sales Candidate Pre Screening
+    pages:
+    - id: 1
+      name: sales_candidate_pre_screening_form
+      label: Sales Candidate Pre Screening Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_information
+      label: Contact Information
+      hint: Enter applicant contact information
+      type: select_multiple
+      options:
+      - '{''name'': ''Phone'', ''label'': ''Phone''}'
+      - '{''name'': ''Email'', ''label'': ''Email''}'
+      - '{''name'': ''Address'', ''label'': ''Address''}'
+      required: true
+    - id: 3
+      name: sales_experience
+      label: Sales Experience
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': 1, ''label'': 0}'
+      - '{''name'': 2, ''label'': ''1-5 years''}'
+      - '{''name'': 3, ''label'': ''5-10 years''}'
+      - '{''name'': 4, ''label'': ''More than 10 years''}'
+      required: true
+    - id: 4
+      name: schedule_interview
+      label: Schedule Interview
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: additional_comments
+      label: Additional Comments
+      hint: Enter anything else you'd like to know
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone_number
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: linkedin_profile
+      label: LinkedIn Profile
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: sales_candidate_pre_screening_form_1
+      label: What is this form for
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': 1, ''label'': ''Sales Candidate Pre Screening''}'
+      - '{''name'': 2, ''label'': ''Sales Lead Form''}'
+      - '{''name'': 3, ''label'': ''Other Form''}'
+      required: true
+    - id: 10
+      name: sales_candidate_pre_screening_form_2
+      label: Sales Candidate Pre Screening Form 2
+      hint: null
+      type: text
+      options: []
+      required: false

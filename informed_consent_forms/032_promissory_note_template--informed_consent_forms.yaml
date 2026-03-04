@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: promissory_note_template
+    pages:
+    - id: 1
+      name: deadline
+      label: deadline
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: due_date
+      label: due_date
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: amount
+      label: amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: reason
+      label: reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: contact
+      label: contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: signature
+      label: signature
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: date_signed
+      label: date_signed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: date_given
+      label: date_given
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: date_due
+      label: date_due
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: date_returned
+      label: date_returned
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: signature_type
+      label: signature_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: date_signature
+      label: date_signature
+      hint: null
+      type: date
+      options: []
+      required: true

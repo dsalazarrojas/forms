@@ -1,0 +1,214 @@
+inputSchema:
+  type: object
+  properties:
+    title: Army Risk Assessment Form
+    pages:
+    - id: 1
+      name: section_soldier_info
+      label: -- Soldier Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: soldier_name
+      label: Soldier Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: rank
+      label: Rank
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: service_number
+      label: Service Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: unit
+      label: Unit or Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: assessment_date
+      label: Date of Assessment
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: assessing_officer
+      label: Assessing Officer Name and Rank
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: section_behavior
+      label: -- Behavioral Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: discipline_record
+      label: Discipline and Conduct Record
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 10
+      name: incidents_reported
+      label: Number of incidents in past 12 months
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: types_of_incidents
+      label: Types of incidents or violations
+      hint: null
+      type: select_multiple
+      options:
+      - Unauthorized absence
+      - Insubordination
+      - Alcohol-related
+      - Drug-related
+      - Violence or aggression
+      - Theft or theft-related
+      - Other
+      required: false
+    - id: 12
+      name: behavioral_concerns
+      label: Current behavioral concerns or red flags
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: section_mental_health
+      label: -- Mental Health and Wellness --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: mental_health_screening
+      label: Recent mental health screening results
+      hint: null
+      type: select_one
+      options:
+      - Normal
+      - Minor concerns
+      - Significant concerns
+      - Requires immediate attention
+      required: true
+    - id: 15
+      name: stress_level
+      label: Observable stress or emotional level
+      hint: null
+      type: select_one
+      options:
+      - Calm and composed
+      - Mildly stressed
+      - Moderately stressed
+      - Highly stressed
+      required: true
+    - id: 16
+      name: substance_abuse_risk
+      label: Risk of substance abuse
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Moderate
+      - High
+      required: true
+    - id: 17
+      name: section_performance
+      label: -- Job Performance and Fitness --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: job_performance
+      label: Job Performance Rating
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below average
+      required: true
+    - id: 19
+      name: fitness_for_duty
+      label: Physical Fitness for Duty
+      hint: null
+      type: select_one
+      options:
+      - Fit
+      - Questionable fitness
+      - Not fit
+      required: true
+    - id: 20
+      name: reliability
+      label: Reliability and Dependability
+      hint: null
+      type: select_one
+      options:
+      - Highly reliable
+      - Generally reliable
+      - Questionable reliability
+      - Unreliable
+      required: true
+    - id: 21
+      name: section_risk
+      label: -- Risk Assessment Summary --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: overall_risk_rating
+      label: Overall Risk Rating
+      hint: null
+      type: select_one
+      options:
+      - Low risk
+      - Moderate risk
+      - High risk
+      - Critical risk
+      required: true
+    - id: 23
+      name: recommended_actions
+      label: Recommended Actions or Interventions
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: monitoring_required
+      label: Monitoring or Follow-up Required
+      hint: null
+      type: select_one
+      options:
+      - false
+      - Periodic monitoring
+      - Regular monitoring
+      - Intensive monitoring
+      required: true

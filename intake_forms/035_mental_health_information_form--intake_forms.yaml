@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: mental health information form
+    pages:
+    - id: 1
+      name: intake_form
+      label: intake form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: mental_health_support
+      label: mental health support
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: mental_health_support_needed
+      label: mental health support needed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: mental_health_history
+      label: mental health history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: mental_health_goals
+      label: mental health goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: mental_health_concerns
+      label: mental health concerns
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: mental_health_goals_assistance
+      label: mental health goals assistance
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: mental_health_support_services
+      label: mental health support services
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: mental_health_crisis_services
+      label: mental health crisis services
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

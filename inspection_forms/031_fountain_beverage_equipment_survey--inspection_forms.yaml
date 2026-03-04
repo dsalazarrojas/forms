@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fountain Beverage Equipment Survey
+    pages:
+    - id: 1
+      name: form_1
+      label: What is the type of equipment being inspected
+      hint: null
+      type: select_one
+      options:
+      - Equipment ID
+      - Pump
+      - Cooler
+      - Water Treatment System
+      - Other
+      required: false
+    - id: 2
+      name: form_2
+      label: Equipment ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: form_3
+      label: Location of the equipment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: form_4
+      label: Condition of the equipment
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Fair
+      - Poor
+      required: false
+    - id: 5
+      name: form_5
+      label: Maintenance Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: form_6
+      label: Date of Last Inspection
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: form_7
+      label: Last Inspected by
+      hint: null
+      type: select_multiple
+      options:
+      - John Doe
+      - Jane Doe
+      - Other
+      required: false
+    - id: 8
+      name: form_8
+      label: Last Inspected Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: form_9
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: form_10
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: form_11
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

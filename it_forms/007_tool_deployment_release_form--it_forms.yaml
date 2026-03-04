@@ -1,0 +1,177 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tool Deployment Release Form
+    pages:
+    - id: 1
+      name: tool_deployment_request
+      label: Deployed Tool
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: risk_notes
+      label: Risk Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: environment
+      label: Environment
+      hint: null
+      type: select_one
+      options:
+      - Environment A
+      - Environment B
+      - Environment C
+      required: false
+    - id: 4
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: approver
+      label: Approver
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: approver_email
+      label: Approver Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: approver_phone
+      label: Approver Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: approver_name
+      label: Approver
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: team_lead
+      label: Team Lead
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: team_lead_email
+      label: Team Lead
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: team_lead_phone
+      label: Team Lead
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: tool_status
+      label: Tool Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Pending
+      required: false
+    - id: 15
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: approver_name_comment
+      label: Approver
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: comments_count
+      label: Comments
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: approver_phone_comment
+      label: Approver Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: comments_date
+      label: Comments Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: deployer
+      label: Deployer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: deployer_email
+      label: Deployer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: deployer_phone
+      label: Deployer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: comments_status
+      label: Comments Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Rejected
+      - Pending
+      required: false

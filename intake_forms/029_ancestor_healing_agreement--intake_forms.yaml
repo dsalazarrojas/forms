@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ancestor Healing Agreement
+    pages:
+    - id: 1
+      name: section_agreement_header
+      label: -- Ancestor Healing Session Agreement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_full_name
+      label: Client Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_email
+      label: Client Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: client_phone
+      label: Client Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: section_session_intentions
+      label: -- Session Intentions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: primary_focus_for_healing
+      label: What is your primary focus or intention for this healing session?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: specific_ancestral_lineages_to_address
+      label: Specific ancestral lineages you wish to address (if known).
+      hint: e.g. Maternal grandmother's line
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: session_goals
+      label: What are your goals for this session?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Clearing Trauma
+      - Reclaiming Gifts
+      - Forgiveness
+      - Understanding Patterns
+      - General Peace
+      required: true
+    - id: 9
+      name: section_consent_terms
+      label: -- Consent and Terms --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: consent_to_spiritual_work
+      label: I consent to participate in spiritual/energetic ancestor healing work.
+      hint: null
+      type: select_one
+      options:
+      - I Consent
+      - I Do Not Consent
+      required: true
+    - id: 11
+      name: understanding_of_non_medical_nature
+      label: I understand this work is spiritual in nature and not a substitute for
+        medical/psychological care.
+      hint: null
+      type: select_one
+      options:
+      - I Understand
+      - I have questions
+      required: true
+    - id: 12
+      name: session_format
+      label: Preferred Session Format
+      hint: null
+      type: select_one
+      options:
+      - In-Person
+      - Virtual
+      - Remote / Distance
+      required: true
+    - id: 13
+      name: session_date
+      label: Requested Session Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: digital_signature_confirmation
+      label: Digital Signature Confirmation
+      hint: Type your full name to agree to the terms
+      type: text
+      options: []
+      required: true

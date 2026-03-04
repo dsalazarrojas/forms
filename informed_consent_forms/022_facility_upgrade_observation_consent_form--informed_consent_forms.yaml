@@ -1,0 +1,39 @@
+inputSchema:
+  type: object
+  properties:
+    title: Facility Upgade Observation Consent Form
+    pages:
+    - id: 1
+      name: facility_upgrade_observation_consent_form_page_1
+      label: Facility Upgrade Observation Consent Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: facility_upgrade_observation_consent_form_page_2
+      label: Facility Upgrades
+      hint: null
+      type: select_one
+      options:
+      - '[{''text'': ''Option 1''}, {''text'': ''Option 2''}, {''text'': ''Option
+        3''}]'
+      - Other
+      required: true
+    - id: 3
+      name: facility_upgrade_observation_consent_form_page_3
+      label: Facility Upgrades
+      hint: null
+      type: select_multiple
+      options:
+      - '[{''text'': ''Option 1''}, {''text'': ''Option 2''}, {''text'': ''Option
+        3''}]'
+      - Other
+      required: true
+    - id: 4
+      name: facility_upgrade_observation_consent_form_page_4
+      label: Facility Upgrades
+      hint: null
+      type: text
+      options: []
+      required: true

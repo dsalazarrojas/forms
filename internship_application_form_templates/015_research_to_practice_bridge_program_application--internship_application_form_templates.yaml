@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Research To Practice Bridge Program Application
+    pages:
+    - id: 1
+      name: research_to_practice_bridge_program_application_first_page
+      label: first_page
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: researcher_info
+      label: researcher_info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: researcher_qualifications
+      label: qualifications
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: practitioner_info
+      label: practitioner_info
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: application_form
+      label: application_form
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: submit_application
+      label: submit_application
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: research_area_of_interests
+      label: research_area_of_interests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: research_areas_of_interests_other
+      label: other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false

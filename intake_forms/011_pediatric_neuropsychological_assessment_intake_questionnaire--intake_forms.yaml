@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pediatric Neuropsychological Assessment Intake Questionnaire
+    pages:
+    - id: 1
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: family_history
+      label: Family History
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: behavioral_info
+      label: Behavioral Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''ADHD'', ''value'': ''ADH''}'
+      - '{''id'': 2, ''label'': ''Autism Spectrum Disorder'', ''value'': ''AUT''}'
+      - '{''id'': 3, ''label'': ''Other'', ''value'': ''OT''}'
+      required: true
+    - id: 8
+      name: medication
+      label: Medications
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': True, ''value'': ''Y''}'
+      - '{''id'': 2, ''label'': False, ''value'': ''N''}'
+      required: true
+    - id: 9
+      name: allergies
+      label: Allergies
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: other_medical_conditions
+      label: Other Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: mental_health_info
+      label: Mental Health Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: notes
+      label: Additional Notes
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: terms_and_conditions_form
+    pages:
+    - id: 1
+      name: terms_and_conditions_document
+      label: terms and conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: agreement_between_business_and_customer
+      label: agreement between business and customer
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''option 1'', ''value'': ''option 1''}'
+      - '{''label'': ''option 2'', ''value'': ''option 2''}'
+      - '{''label'': ''option 3'', ''value'': ''option 3''}'
+      required: false
+    - id: 3
+      name: legally_binding_agreement
+      label: legally binding
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''option 1'', ''value'': ''option 1''}'
+      - '{''label'': ''option 2'', ''value'': ''option 2''}'
+      - '{''label'': ''option 3'', ''value'': ''option 3''}'
+      required: false
+    - id: 4
+      name: template_description
+      label: template description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: form_version
+      label: form version
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: agreement_date
+      label: agreement date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: last_updated
+      label: last updated
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: terms_version_number
+      label: terms version number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: agreement_status
+      label: agreement status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''option 1'', ''value'': ''option 1''}'
+      - '{''label'': ''option 2'', ''value'': ''option 2''}'
+      - '{''label'': ''option 3'', ''value'': ''option 3''}'
+      required: false
+    - id: 10
+      name: agreement_number
+      label: agreement number
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: Auto Quote Form
+    pages:
+    - id: 1
+      name: primary_applicant_header
+      label: -- Primary Applicant --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Enter your complete legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: For eligibility and age-based rating
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: occupation
+      label: Occupation
+      hint: Your current profession
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: zip_code
+      label: Zip Code
+      hint: To determine regional insurance rates
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: vehicle_insure_header
+      label: -- Vehicle to Insure --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: year
+      label: Vehicle Year
+      hint: Year of manufacture
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: make
+      label: Make
+      hint: e.g. Honda
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: model
+      label: Model
+      hint: e.g. CR-V
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: vin
+      label: VIN
+      hint: 17-digit Vehicle Identification Number
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: coverage_options_header
+      label: -- Coverage Options --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: desired_coverage
+      label: Desired Coverage Level
+      hint: Select the amount of protection you need
+      type: select_one
+      options:
+      - Basic Liability
+      - Mid-level Coverage
+      - Full Protection
+      required: true
+    - id: 13
+      name: deductible_amount
+      label: Deductible Amount
+      hint: Your out-of-pocket cost per claim
+      type: select_one
+      options:
+      - 250
+      - 500
+      - 1000
+      required: true
+    - id: 14
+      name: currently_insured
+      label: Are you currently insured?
+      hint: Select yes if you have an active policy
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: additional_comments
+      label: Additional Comments
+      hint: Note any special requirements or history
+      type: text
+      options: []
+      required: false

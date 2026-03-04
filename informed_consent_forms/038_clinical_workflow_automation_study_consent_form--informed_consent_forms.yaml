@@ -1,0 +1,330 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Clinical Workflow Automation Study Consent Form
+    pages:
+      - id: 1
+        name: consent_header
+        label: Clinical Workflow Automation Study Consent Form
+        hint: This form obtains consent for participation in a study on clinical workflow automation
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: study_title
+        label: Study Title
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: study_id
+        label: Study ID
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: principal_investigator
+        label: Principal Investigator
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: institution
+        label: Institution
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: participant_name
+        label: Participant Full Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: participant_role
+        label: Your Role
+        hint: null
+        type: select_one
+        options:
+          - Physician
+          - Nurse
+          - Nurse Practitioner
+          - Physician Assistant
+          - Pharmacist
+          - Technician
+          - Therapist
+          - Administrator
+          - Support Staff
+          - Other
+        required: true
+      - id: 8
+        name: department
+        label: Department or Unit
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: years_experience
+        label: Years of Clinical Experience
+        hint: null
+        type: select_one
+        options:
+          - Less than 1 year
+          - 1-3 years
+          - 3-5 years
+          - 5-10 years
+          - 10+ years
+        required: false
+      - id: 10
+        name: study_purpose
+        label: I Understand the Purpose of This Study
+        hint: To evaluate workflow automation tools
+        type: select_one
+        options:
+          - Yes I Understand
+          - No I Need More Information
+        required: true
+      - id: 11
+        name: study_procedures
+        label: I Understand the Study Procedures
+        hint: null
+        type: select_one
+        options:
+          - Yes I Understand
+          - No I Need More Information
+        required: true
+      - id: 12
+        name: procedures_description
+        label: Study Procedures Include
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Workflow Observation
+          - System Usage Tracking
+          - Time Motion Studies
+          - Surveys and Questionnaires
+          - Interviews
+          - Focus Groups
+          - System Testing
+          - Training Sessions
+          - Other
+        required: true
+      - id: 13
+        name: study_duration
+        label: I Understand the Expected Study Duration
+        hint: null
+        type: select_one
+        options:
+          - Yes I Understand
+          - No I Need More Information
+        required: true
+      - id: 14
+        name: time_commitment
+        label: I Understand My Time Commitment
+        hint: null
+        type: select_one
+        options:
+          - Yes I Understand
+          - No I Need More Information
+        required: true
+      - id: 15
+        name: risks_understood
+        label: I Understand the Potential Risks
+        hint: Privacy time burden etc.
+        type: select_one
+        options:
+          - Yes I Understand
+          - No I Need More Information
+        required: true
+      - id: 16
+        name: benefits_understood
+        label: I Understand the Potential Benefits
+        hint: null
+        type: select_one
+        options:
+          - Yes I Understand
+          - No I Need More Information
+        required: true
+      - id: 17
+        name: data_collection
+        label: I Understand What Data Will Be Collected
+        hint: null
+        type: select_one
+        options:
+          - Yes I Understand
+          - No I Need More Information
+        required: true
+      - id: 18
+        name: data_types
+        label: Data Types to Be Collected
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Workflow Timestamps
+          - System Login Data
+          - Task Completion Times
+          - Error Rates
+          - User Feedback
+          - Video Recordings
+          - Screen Captures
+          - Survey Responses
+          - Interview Transcripts
+          - Other
+        required: true
+      - id: 19
+        name: confidentiality
+        label: I Understand How My Data Will Be Protected
+        hint: null
+        type: select_one
+        options:
+          - Yes I Understand
+          - No I Need More Information
+        required: true
+      - id: 20
+        name: data_anonymization
+        label: I Understand Data Will Be Anonymized
+        hint: For analysis and reporting
+        type: select_one
+        options:
+          - Yes I Understand
+          - No I Need More Information
+        required: true
+      - id: 21
+        name: voluntary_participation
+        label: I Understand Participation Is Voluntary
+        hint: null
+        type: select_one
+        options:
+          - Yes I Understand
+          - No I Need More Information
+        required: true
+      - id: 22
+        name: right_to_withdraw
+        label: I Understand I Can Withdraw at Any Time
+        hint: Without penalty
+        type: select_one
+        options:
+          - Yes I Understand
+          - No I Need More Information
+        required: true
+      - id: 23
+        name: employment_not_affected
+        label: I Understand My Employment Will Not Be Affected
+        hint: By participation or non-participation
+        type: select_one
+        options:
+          - Yes I Understand
+          - No I Need More Information
+        required: true
+      - id: 24
+        name: contact_information
+        label: I Have Contact Information for Questions
+        hint: null
+        type: select_one
+        options:
+          - Yes I Have It
+          - No I Need It
+        required: true
+      - id: 25
+        name: questions_answered
+        label: Have All Your Questions Been Answered
+        hint: null
+        type: select_one
+        options:
+          - Yes All Questions Answered
+          - Most Questions Answered
+          - I Still Have Questions
+        required: true
+      - id: 26
+        name: remaining_questions
+        label: Please List Remaining Questions
+        hint: If any
+        type: text
+        options: []
+        required: false
+      - id: 27
+        name: copy_of_form
+        label: Have You Received a Copy of This Form
+        hint: null
+        type: select_one
+        options:
+          - Yes
+          - No
+          - Will Receive Later
+        required: true
+      - id: 28
+        name: participant_decision
+        label: Your Decision
+        hint: null
+        type: select_one
+        options:
+          - I Agree to Participate
+          - I Do Not Agree to Participate
+          - I Need More Time to Decide
+        required: true
+      - id: 29
+        name: participant_signature
+        label: Participant Signature
+        hint: Type full name
+        type: text
+        options: []
+        required: true
+      - id: 30
+        name: signature_date
+        label: Date of Signature
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 31
+        name: witness_name
+        label: Witness Name
+        hint: If applicable
+        type: text
+        options: []
+        required: false
+      - id: 32
+        name: witness_signature
+        label: Witness Signature
+        hint: Type full name
+        type: text
+        options: []
+        required: false
+      - id: 33
+        name: investigator_name
+        label: Investigator Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 34
+        name: investigator_signature
+        label: Investigator Signature
+        hint: Type full name
+        type: text
+        options: []
+        required: true
+      - id: 35
+        name: investigator_signature_date
+        label: Date
+        hint: null
+        type: date
+        options: []
+        required: true

@@ -1,0 +1,218 @@
+inputSchema:
+  type: object
+  properties:
+    title: Homeowners Insurance Form Template
+    pages:
+    - id: 1
+      name: address_label
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: street
+      label: Street
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: state_label
+      label: State
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''California''}'
+      - '{''label'': ''New York''}'
+      - '{''label'': ''Florida''}'
+      required: false
+    - id: 5
+      name: postal_code
+      label: Postal Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_of_birth
+      label: Date Of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: social_security_number
+      label: Social Security Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email_label
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: home_type
+      label: Type Of Home
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Single''}'
+      - '{''label'': ''Duplex''}'
+      - '{''label'': ''Triplex''}'
+      - '{''label'': ''Fourplex''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 11
+      name: sqft_label
+      label: Square Footage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: years_lived
+      label: Years Lived
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: insurance_type
+      label: Type of Insurance
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Liability''}'
+      - '{''label'': ''Comprehensive''}'
+      - '{''label'': ''Collision''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 14
+      name: coverage_type
+      label: Coverage Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Primary''}'
+      - '{''label'': ''Secondary''}'
+      - '{''label'': ''Tertiary''}'
+      required: false
+    - id: 15
+      name: coverage_level
+      label: Coverage Level
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''50/100''}'
+      - '{''label'': ''75/150''}'
+      - '{''label'': ''125/250''}'
+      required: false
+    - id: 16
+      name: coverage_deductible
+      label: Coverage Deductible
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': 0}'
+      - '{''label'': 50}'
+      - '{''label'': 100}'
+      required: false
+    - id: 17
+      name: coverage_limit
+      label: Coverage Limit
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': 10000}'
+      - '{''label'': 50000}'
+      - '{''label'': 100000}'
+      required: false
+    - id: 18
+      name: payment_type
+      label: Payment Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Monthly''}'
+      - '{''label'': ''Bi-Monthly''}'
+      - '{''label'': ''Quarterly''}'
+      - '{''label'': ''Annually''}'
+      required: false
+    - id: 19
+      name: premium_amount
+      label: Premium Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: notes_label
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: home_value
+      label: Home Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: mortgage_balance
+      label: Mortgage Balance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: home_year_built
+      label: Year Built
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': 1950}'
+      - '{''label'': 1960}'
+      - '{''label'': 1970}'
+      - '{''label'': 1980}'
+      - '{''label'': 1990}'
+      - '{''label'': 2000}'
+      - '{''label'': 2010}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 25
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,153 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Bus Cleaning Checklist Form
+    pages:
+    - id: 1
+      name: school_bus_cleaning_checklist_form_fields
+      label: School Bus Cleaning Checklist
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: trip_type
+      label: Trip Type
+      hint: null
+      type: select_one
+      options:
+      - School
+      - Field
+      - Extracurricular
+      required: true
+    - id: 3
+      name: date_of_trip
+      label: Date Of Trip
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: bus_license_number
+      label: Bus License Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: bus_license_state
+      label: Bus License State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: odometer_reading
+      label: Odometer Reading
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: fuel_level
+      label: Fuel Level
+      hint: null
+      type: select_one
+      options:
+      - Empty
+      - Full
+      - Half
+      required: true
+    - id: 8
+      name: interior_cleaning
+      label: Interior Cleaning
+      hint: null
+      type: select_multiple
+      options:
+      - Floor Seats
+      - Handrails
+      - Arm Rests
+      - Seatbelts
+      - Headrests
+      - Other (Specify Below)
+      required: true
+    - id: 9
+      name: exterior_cleaning
+      label: Exterior Cleaning
+      hint: null
+      type: select_multiple
+      options:
+      - Front Side
+      - Rear Side
+      - Roof
+      - Other (Specify Below)
+      required: true
+    - id: 10
+      name: interior_and_exterior_cleaning
+      label: Interior and Exterior Cleaning
+      hint: null
+      type: select_multiple
+      options:
+      - Both
+      - Interior
+      - Exterior
+      - Other (Specify Below)
+      required: false
+    - id: 11
+      name: other_cleaning
+      label: Other Cleaning
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: other_cleaning_specify
+      label: Other Cleaning Specify
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: completed_by
+      label: Completed By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: completed_date
+      label: Completed Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: completed_time
+      label: Completed Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: review_and_approve
+      label: Review and Approve
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Not Approved
+      required: true
+    - id: 18
+      name: reviewed_by
+      label: Reviewed By
+      hint: null
+      type: text
+      options: []
+      required: false

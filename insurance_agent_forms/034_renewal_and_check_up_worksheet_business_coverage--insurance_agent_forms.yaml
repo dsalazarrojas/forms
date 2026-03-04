@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Renewal And Check Up Worksheet Business Coverage
+    pages:
+    - id: 1
+      name: business_coverage
+      label: Business Coverage
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: risk_rating
+      label: Risk Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: coverage_type
+      label: Coverage Type
+      hint: null
+      type: select_one
+      options:
+      - Business Auto
+      - Business Liability
+      - Workers Compensation
+      required: true
+    - id: 4
+      name: coverage_limit
+      label: Coverage Limit
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: premium
+      label: Premium
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: effective_date
+      label: Effective Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: broker_name
+      label: Broker Name
+      hint: null
+      type: text
+      options: []
+      required: false

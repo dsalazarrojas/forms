@@ -1,0 +1,211 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chronic Disease Management Intake Form
+    pages:
+    - id: 1
+      name: patient_info
+      label: -- Patient Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      - Prefer not to say
+      required: false
+    - id: 6
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: medical_history
+      label: -- Medical History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: primary_conditions
+      label: Primary Chronic Conditions
+      hint: List all chronic conditions
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: condition_duration
+      label: How long have you had these conditions?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: previous_treatments
+      label: Previous Treatments or Medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: current_medications
+      label: Current Medications
+      hint: List all current medications
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: allergies
+      label: Medication Allergies or Adverse Reactions
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: family_history
+      label: -- Family Medical History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: family_conditions
+      label: Family History of Chronic Diseases
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: lifestyle_factors
+      label: -- Lifestyle Factors --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: smoking_status
+      label: Smoking Status
+      hint: null
+      type: select_one
+      options:
+      - Never smoked
+      - Former smoker
+      - Current smoker
+      required: true
+    - id: 18
+      name: alcohol_use
+      label: Alcohol Consumption
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Occasional
+      - Moderate
+      - Heavy
+      required: false
+    - id: 19
+      name: exercise_frequency
+      label: Exercise Frequency Per Week
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: diet_type
+      label: Dietary Pattern
+      hint: null
+      type: select_one
+      options:
+      - Regular diet
+      - Vegetarian
+      - Vegan
+      - Low-sodium
+      - Diabetic diet
+      - Other
+      required: false
+    - id: 21
+      name: symptoms_assessment
+      label: -- Symptoms & Functional Status --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: current_symptoms
+      label: Current Symptoms
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: symptom_severity
+      label: Symptom Severity (1-10)
+      hint: 1 = mild, 10 = severe
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: daily_activities
+      label: How do symptoms affect daily activities?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: healthcare_goals
+      label: -- Healthcare Goals --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: management_goals
+      label: What are your disease management goals?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: barriers_to_care
+      label: Any Barriers to Managing Your Condition?
+      hint: null
+      type: text
+      options: []
+      required: false

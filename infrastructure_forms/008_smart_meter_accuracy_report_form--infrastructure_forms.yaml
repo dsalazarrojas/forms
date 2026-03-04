@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Smart Meter Accuracy Report Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Smart Meter Accuracy Report Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: report_date
+      label: Report Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: meter_id
+      label: Meter ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: meter_readings
+      label: Meter Readings
+      hint: null
+      type: select_multiple
+      options:
+      - Meter Reading 1
+      - Meter Reading 2
+      - Meter Reading 3
+      required: false
+    - id: 5
+      name: test_results
+      label: Test Results
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: evidence_attachments
+      label: Evidence Attachments
+      hint: null
+      type: select_multiple
+      options:
+      - File 1
+      - File 2
+      - File 3
+      required: false
+    - id: 7
+      name: utility_contact_details
+      label: Utility Contact Details
+      hint: null
+      type: select_one
+      options:
+      - Utility A
+      - Utility B
+      - Utility C
+      required: false
+    - id: 8
+      name: energy_contact_details
+      label: Energy Contact Details
+      hint: null
+      type: select_one
+      options:
+      - Energy A
+      - Energy B
+      - Energy C
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: report_type
+      label: Report Type
+      hint: null
+      type: select_one
+      options:
+      - Report Type 1
+      - Report Type 2
+      - Report Type 3
+      required: false
+    - id: 11
+      name: submit_button
+      label: Submit Report
+      hint: null
+      type: select_one
+      options:
+      - Submit Report 1
+      - Submit Report 2
+      - Submit Report 3
+      required: false
+    - id: 12
+      name: email_to
+      label: Email to
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: form_title_notes
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: report_date_notes
+      label: Report Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: notes_section
+      label: Additional Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: submit_date
+      label: Submit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: submit_time
+      label: Submit Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: report_status
+      label: Report Status
+      hint: null
+      type: select_one
+      options:
+      - Report Status 1
+      - Report Status 2
+      - Report Status 3
+      required: false
+    - id: 20
+      name: user_id
+      label: User ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: user_email
+      label: User Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 23
+      name: user_phone
+      label: User Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submitter
+      label: Submitter
+      hint: null
+      type: text
+      options: []
+      required: false

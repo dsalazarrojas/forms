@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Eviction Diversion Program Registration
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: street
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: apartment
+      label: Apartment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: employment_status
+      label: Employment Status
+      hint: null
+      type: select_one
+      options:
+      - Unemployed
+      - Working
+      - Self-Employed
+      required: false
+    - id: 12
+      name: income
+      label: Annual Income
+      hint: null
+      type: select_multiple
+      options:
+      - 0-15,000
+      - 15,000-25,000
+      - 25,000-35,000
+      - 35,000-50,000
+      - 50,000-75,000
+      - 75,000+
+      required: false

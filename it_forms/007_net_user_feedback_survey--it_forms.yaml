@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Net User Feedback Survey
+    pages:
+    - id: 1
+      name: survey_intro
+      label: Welcome to the Net User Feedback Survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: rating_satisfaction
+      label: How satisfied are you with the service?
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 3
+      name: rating_issues
+      label: Have you experienced any issues while using our service?
+      hint: null
+      type: select_multiple
+      options:
+      - option4
+      - option5
+      - option6
+      required: true
+    - id: 4
+      name: comments
+      label: Do you have any comments or suggestions?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: What's your email address?
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: What's your phone number?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: name
+      label: What's your name?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: contact_email
+      label: Can we contact you at this email address?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 9
+      name: contact_phone
+      label: Can we contact you at this phone number?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 10
+      name: follow_up
+      label: Would you like us to follow up with you?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 11
+      name: contact_preference
+      label: How do you prefer to be contacted?
+      hint: null
+      type: select_multiple
+      options:
+      - email
+      - phone
+      required: true
+    - id: 12
+      name: email_confirmation
+      label: Is your email address up to date?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 13
+      name: phone_confirmation
+      label: Is your phone number up to date?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 14
+      name: next_steps
+      label: What are your next steps for our service?
+      hint: null
+      type: select_multiple
+      options:
+      - option7
+      - option8
+      required: true
+    - id: 15
+      name: rating_likelihood
+      label: How likely are you to recommend our service to a friend or colleague?
+      hint: null
+      type: select_one
+      options:
+      - option9
+      - option10
+      - option11
+      required: true
+    - id: 16
+      name: rating_satisfaction_likely
+      label: How likely is it that the service will meet your needs in future?
+      hint: null
+      type: select_one
+      options:
+      - option12
+      - option13
+      required: true
+    - id: 17
+      name: rating_likelihood_likely
+      label: How likely are you to choose our service again in future?
+      hint: null
+      type: select_one
+      options:
+      - option14
+      - option15
+      required: true
+    - id: 18
+      name: rating_satisfaction_likely_again
+      label: How likely is it that you will continue to use our service again?
+      hint: null
+      type: select_one
+      options:
+      - option16
+      - option17
+      required: false
+    - id: 19
+      name: comments_likely
+      label: Do you have any comments or suggestions that you'd like to share with
+        us?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: rating_likely_again
+      label: How likely is it that you will refer our service to a friend or colleague?
+      hint: null
+      type: select_one
+      options:
+      - option18
+      - option19
+      required: false
+    - id: 21
+      name: rating_satisfaction
+      label: How satisfied are you with our service overall?
+      hint: null
+      type: select_one
+      options:
+      - option20
+      - option21
+      - option22
+      required: true
+    - id: 22
+      name: rating_likely_again_again
+      label: How likely is it that the service will meet your needs again?
+      hint: null
+      type: select_one
+      options:
+      - option23
+      - option24
+      required: true
+    - id: 23
+      name: comments_again
+      label: Do you have any additional comments or suggestions?
+      hint: null
+      type: note
+      options: []
+      required: false

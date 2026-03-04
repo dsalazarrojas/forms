@@ -1,0 +1,219 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Volunteer Consent Form For Summer Camp
+    pages:
+    - id: 1
+      name: camp_volunteer_header
+      label: -- Volunteer Information --
+      hint: Please provide your information
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: camp_volunteer_name
+      label: Full Name
+      hint: Your complete legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: camp_volunteer_dob
+      Label: Date of Birth
+      hint: MM-DD-YYYY
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: camp_volunteer_email
+      label: Email Address
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: camp_volunteer_phone
+      Label: Phone Number
+      hint: Your phone number
+      type: phone
+      options: []
+      required: true
+    - id: 6
+      name: camp_volunteer_address
+      label: Current Address
+      hint: Your street address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: camp_camp_assignment_header
+      Label: -- Camp Assignment --
+      hint: Your camp role and details
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: camp_camp_name
+      label: Summer Camp Name
+      hint: Name of the camp you are volunteering at
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: camp_camp_dates
+      Label: Camp Dates
+      hint: When the camp runs
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: camp_volunteer_role
+      label: Volunteer Role
+      hint: Your position at the camp
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: camp_children_interaction
+      Label: Will You Have Direct Contact with Children
+      hint: Do your duties involve working with campers
+      type: select_one
+      options:
+        - Yes, direct contact
+        - No direct contact
+        - Minimal contact
+      required: true
+    - id: 12
+      name: camp_covid_understanding_header
+      label: -- COVID-19 Understanding --
+      hint: Your understanding of COVID-19 risks
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: camp_understand_risks
+      Label: I Understand the COVID-19 Transmission Risks
+      hint: You understand transmission methods
+      type: select_one
+      options:
+        - Yes, I understand
+        - I have questions
+        - No
+      required: true
+    - id: 14
+      name: camp_understand_precautions
+      label: I Understand COVID-19 Safety Precautions
+      hint: You understand camp safety measures
+      type: select_one
+      options:
+        - Yes, I understand
+        - I have questions
+        - No
+      required: true
+    - id: 15
+      name: camp_symptoms_acknowledgment_header
+      Label: -- Symptom and Health Acknowledgment --
+      hint: Your current health status
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: camp_no_current_symptoms
+      label: I Have No COVID-19 Symptoms Currently
+      hint: You have no fever, cough, etc.
+      type: select_one
+      options:
+        - No symptoms
+        - Have symptoms
+        - Unsure
+      required: true
+    - id: 17
+      name: camp_no_covid_exposure
+      Label: I Have Not Been Exposed to COVID-19 Recently
+      hint: No recent exposure to positive cases
+      type: select_one
+      options:
+        - No recent exposure
+        - Yes, exposed
+        - Unsure
+      required: true
+    - id: 18
+      name: camp_vaccination_status_camp
+      label: COVID-19 Vaccination Status
+      hint: Your vaccination status
+      type: select_one
+      options:
+        - Fully vaccinated and boosted
+        - Fully vaccinated, not boosted
+        - Partially vaccinated
+        - Not vaccinated
+        - Prefer not to disclose
+      required: true
+    - id: 19
+      name: camp_health_conditions_camp
+      Label: Any Health Conditions Affecting Safety
+      hint: Conditions that may impact your safety
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: camp_quarantine_commitment_header
+      label: -- Commitment to Safety Measures --
+      hint: Your commitment to camp protocols
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: camp_follow_safety_protocols
+      Label: I Commit to Following All Camp COVID-19 Safety Protocols
+      hint: Agreement to follow camp rules
+      type: select_one
+      options:
+        - I commit
+        - I cannot commit
+      required: true
+    - id: 22
+      name: camp_report_symptoms
+      label: I Will Report Any Symptoms Immediately
+      hint: Agreement to report symptoms
+      type: select_one
+      options:
+        - I agree
+        - I do not agree
+      required: true
+    - id: 23
+      name: camp_quarantine_if_exposed
+      Label: I Will Quarantine if Exposed or Positive
+      hint: Agreement to quarantine as needed
+      type: select_one
+      options:
+        - I agree
+        - I do not agree
+      required: true
+    - id: 24
+      name: camp_consent_acknowledgment
+      label: I Have Read and Understand This Consent Form
+      hint: Full understanding and agreement
+      type: select_one
+      options:
+        - I have read and understand
+        - I do not fully understand
+      required: true
+    - id: 25
+      name: camp_consent_date
+      Label: Date of Consent
+      hint: Date you are signing this form
+      type: date
+      options: []
+      required: true

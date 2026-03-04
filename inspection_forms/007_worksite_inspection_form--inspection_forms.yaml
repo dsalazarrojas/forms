@@ -1,0 +1,40 @@
+inputSchema:
+  type: object
+  properties:
+    title: worksite_inspection_form
+    pages:
+    - id: 1
+      name: site_address
+      label: Site Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: site_id
+      label: Site ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: site_manager
+      label: Site Manager
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: manager_phone
+      label: Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

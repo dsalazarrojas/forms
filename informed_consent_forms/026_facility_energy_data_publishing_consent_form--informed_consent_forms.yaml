@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Facility Energy Data Publishing Consent Form
+    pages:
+    - id: 1
+      name: facility_name
+      label: Facility Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: facility_energy_data
+      label: Facility Energy Data
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Facility Energy Data'', ''label'': ''Publish''}'
+      - '{''id'': 2, ''name'': ''Facility Energy Data'', ''label'': ''Do Not Publish''}'
+      required: false
+    - id: 3
+      name: research_benchmarking
+      label: Research and Benchmarking
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Research'', ''label'': ''Research''}'
+      - '{''id'': 2, ''name'': ''Benchmarking'', ''label'': ''Benchmarking''}'
+      - '{''id'': 3, ''name'': ''Both'', ''label'': ''Both''}'
+      required: false
+    - id: 4
+      name: publishing_method
+      label: Publishing Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Reporting'', ''label'': ''Reporting''}'
+      - '{''id'': 2, ''name'': ''Benchmarking'', ''label'': ''Benchmarking''}'
+      - '{''id'': 3, ''name'': ''Research'', ''label'': ''Research''}'
+      required: false
+    - id: 5
+      name: reporting_frequency
+      label: Reporting Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Daily'', ''label'': ''Daily''}'
+      - '{''id'': 2, ''name'': ''Weekly'', ''label'': ''Weekly''}'
+      - '{''id'': 3, ''name'': ''Monthly'', ''label'': ''Monthly''}'
+      - '{''id'': 4, ''name'': ''Quarterly'', ''label'': ''Quarterly''}'
+      - '{''id'': 5, ''name'': ''Annually'', ''label'': ''Annually''}'
+      required: false
+    - id: 6
+      name: data_ending
+      label: Data Ending
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: consent_date
+      label: Consent Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: facility_contact
+      label: Facility Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: facility_email
+      label: Facility Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: facility_phone
+      label: Facility Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: facility_address
+      label: Facility Address
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: facility_representative
+      label: Facility Representative
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: facility_representative_phone
+      label: Facility Representative Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: facility_representative_email
+      label: Facility Representative Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: facility_representative_address
+      label: Facility Representative Address
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: facility_representative_job_title
+      label: Facility Representative Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: facility_representative_relationship
+      label: Facility Representative Relationship
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Authorized Person'', ''label'': ''Authorized Person''}'
+      - '{''id'': 2, ''name'': ''Facility Manager'', ''label'': ''Facility Manager''}'
+      - '{''id'': 3, ''name'': ''Data Analyst'', ''label'': ''Data Analyst''}'
+      required: false
+    - id: 18
+      name: facility_representative_additional_notes
+      label: Facility Representative Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: organization_address
+      label: Organization Address
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: organization_contact
+      label: Organization Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: organization_email
+      label: Organization Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 23
+      name: organization_phone
+      label: Organization Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: organization_representative
+      label: Organization Representative
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: organization_representative_email
+      label: Organization Representative Email
+      hint: null
+      type: email
+      options: []
+      required: false

@@ -1,0 +1,367 @@
+inputSchema:
+  type: object
+  properties:
+    title: Building Occupancy Audit Registration
+    pages:
+    - id: 1
+      name: audit_header
+      label: -- Building Occupancy Audit Registration --
+      hint: Register your building for an occupancy audit
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: facility_manager
+      label: Facility manager or contact name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: manager_email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: manager_phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: organization
+      label: Organization name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: building_info
+      label: -- Building Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: building_name
+      label: Building name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: building_address
+      label: Building address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: city_state_zip
+      label: City, state, and ZIP code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: building_type
+      label: Building type
+      hint: null
+      type: select_one
+      options:
+      - Office building
+      - Residential
+      - Educational
+      - Healthcare
+      - Retail
+      - Industrial
+      - Government
+      - Mixed-use
+      - Other
+      required: true
+    - id: 11
+      name: square_footage
+      label: Total square footage
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: number_floors
+      label: Number of floors
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: current_occupancy
+      label: Current occupancy (persons)
+      hint: Daily average
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: occupancy_type
+      label: Occupancy type
+      hint: null
+      type: select_multiple
+      options:
+      - Owner-occupied
+      - Leased spaces
+      - Mixed tenancy
+      - Single tenant
+      - Multi-tenant
+      required: true
+    - id: 15
+      name: audit_scope
+      label: -- Audit Scope --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: audit_type
+      label: Type of occupancy audit requested
+      hint: null
+      type: select_one
+      options:
+      - Comprehensive occupancy audit
+      - Density and space utilization
+      - Compliance audit
+      - Safety and accessibility
+      - Code compliance
+      - Insurance audit
+      - Pre-lease audit
+      - Other
+      required: true
+    - id: 17
+      name: focus_areas
+      label: Focus areas for audit
+      hint: null
+      type: select_multiple
+      options:
+      - Space utilization
+      - Occupancy counts
+      - Fire egress
+      - Accessibility compliance
+      - Life safety
+      - Zoning compliance
+      - Occupancy permits
+      - Insurance requirements
+      - Emergency procedures
+      - Facility conditions
+      required: true
+    - id: 18
+      name: specific_concerns
+      label: Specific concerns or issues
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: prior_audits
+      label: Prior occupancy audits completed
+      hint: null
+      type: select_one
+      options:
+      - Yes, within last year
+      - Yes, 1-3 years ago
+      - Yes, over 3 years ago
+      - No, first audit
+      required: false
+    - id: 20
+      name: audit_history
+      label: Prior audit findings or issues
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: scheduling
+      label: -- Scheduling --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: preferred_dates
+      label: Preferred audit dates
+      hint: Date range or specific dates
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: timing_flexibility
+      label: Flexibility with scheduling
+      hint: null
+      type: select_one
+      options:
+      - Fixed date required
+      - Flexible - within 2 weeks
+      - Flexible - within month
+      - Very flexible
+      required: false
+    - id: 24
+      name: audit_duration
+      label: Expected audit duration
+      hint: null
+      type: select_one
+      options:
+      - Half day - 4 hours
+      - Full day - 8 hours
+      - Multiple days
+      - Uncertain
+      required: true
+    - id: 25
+      name: access_arrangement
+      label: Building access during audit
+      hint: null
+      type: select_one
+      options:
+      - Full access available
+      - Some restricted areas
+      - Guided tour only
+      - After-hours access
+      - Needs arrangement
+      required: true
+    - id: 26
+      name: occupant_coordination
+      label: Occupant and staff coordination
+      hint: null
+      type: select_one
+      options:
+      - Will arrange staff presence
+      - Staff available to assist
+      - Minimal interaction preferred
+      - After-hours preferred
+      required: false
+    - id: 27
+      name: audit_details
+      label: -- Audit Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: audit_purpose
+      label: Primary purpose of audit
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 29
+      name: occupancy_data
+      label: Current occupancy data available
+      hint: null
+      type: select_one
+      options:
+      - Yes, current records
+      - Partial records
+      - Limited information
+      - No records
+      required: false
+    - id: 30
+      name: permits_documentation
+      label: Occupancy permits and documentation
+      hint: null
+      type: select_one
+      options:
+      - Complete documentation
+      - Partial documentation
+      - Limited documentation
+      - No documentation
+      required: false
+    - id: 31
+      name: regulations_standards
+      label: -- Regulations and Standards --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 32
+      name: compliance_standards
+      label: Compliance standards to be assessed
+      hint: null
+      type: select_multiple
+      options:
+      - Local building codes
+      - Fire codes
+      - Life safety codes
+      - ADA accessibility
+      - OSHA requirements
+      - Environmental regulations
+      - Zoning regulations
+      - Other
+      required: true
+    - id: 33
+      name: regulatory_authority
+      label: Regulatory authority requiring audit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: deliverables
+      label: -- Deliverables and Follow-up --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 35
+      name: report_format
+      label: Preferred report format
+      hint: null
+      type: select_one
+      options:
+      - Detailed written report
+      - Summary report
+      - Executive summary
+      - Presentation
+      - Digital dashboard
+      - Other
+      required: false
+    - id: 36
+      name: report_distribution
+      label: Report distribution
+      hint: null
+      type: select_multiple
+      options:
+      - Facility manager
+      - Building owner
+      - Legal/compliance
+      - Insurance provider
+      - Regulatory agency
+      - Other stakeholders
+      required: false
+    - id: 37
+      name: follow_up_meeting
+      label: Follow-up meeting or presentation needed
+      hint: null
+      type: select_one
+      options:
+      - Yes, required
+      - Yes, preferred
+      - Optional
+      - Not needed
+      required: false
+    - id: 38
+      name: remediation_support
+      label: Support for remediation planning
+      hint: null
+      type: select_one
+      options:
+      - Yes, guidance needed
+      - Yes, with timeline
+      - No, self-remediate
+      - Unsure
+      required: false
+    - id: 39
+      name: additional_info
+      label: Additional information or special requests
+      hint: null
+      type: text
+      options: []
+      required: false

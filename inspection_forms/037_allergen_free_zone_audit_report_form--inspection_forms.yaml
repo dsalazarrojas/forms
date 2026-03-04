@@ -1,0 +1,314 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Allergen Free Zone Audit Report Form
+    pages:
+    - id: 1
+      name: audit_id
+      label: Audit ID
+      hint: Unique audit identifier
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: audit_date
+      label: Audit Date
+      hint: Date of audit
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: audit_time_start
+      label: Audit Start Time
+      hint: Start time
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: audit_time_end
+      label: Audit End Time
+      hint: End time
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: auditor_name
+      label: Auditor Name
+      hint: Who conducted audit?
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: auditor_title
+      label: Auditor Title
+      hint: Position/role
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: facility_name
+      label: Facility Name
+      hint: Name of facility
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: facility_address
+      label: Facility Address
+      hint: Full address
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: zone_audited
+      label: Zone Audited
+      hint: Specific area
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: zone_type
+      label: Zone Type
+      hint: Type of area
+      type: select_one
+      options:
+      - Kitchen
+      - Food prep area
+      - Storage area
+      - Dining area
+      - Classroom
+      - Healthcare unit
+      - Retail space
+      - Other
+      required: true
+    - id: 11
+      name: allergens_covered
+      label: Allergens Covered
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Peanuts
+      - Tree nuts
+      - Milk
+      - Eggs
+      - Wheat
+      - Soy
+      - Fish
+      - Shellfish
+      - Sesame
+      - Mustard
+      - Sulfites
+      required: true
+    - id: 12
+      name: signage_present
+      label: Allergen-Free Signage Present
+      hint: Are signs posted?
+      type: select_one
+      options:
+      - Yes, adequate
+      - Yes, but inadequate
+      - No signage
+      required: true
+    - id: 13
+      name: signage_condition
+      label: Signage Condition
+      hint: State of signs
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Not applicable
+      required: false
+    - id: 14
+      name: physical_barriers
+      label: Physical Barriers in Place
+      hint: Separation measures
+      type: select_one
+      options:
+      - Yes, adequate
+      - Yes, but inadequate
+      - No barriers
+      required: true
+    - id: 15
+      name: dedicated_equipment
+      label: Dedicated Equipment
+      hint: Separate utensils/equipment?
+      type: select_one
+      options:
+      - Yes, all dedicated
+      - Some dedicated
+      - No dedicated equipment
+      required: true
+    - id: 16
+      name: equipment_labeling
+      label: Equipment Labeling
+      hint: Is equipment labeled?
+      type: select_one
+      options:
+      - Yes, clearly labeled
+      - Yes, but unclear
+      - No labeling
+      required: true
+    - id: 17
+      name: cleaning_procedures
+      label: Cleaning Procedures
+      hint: Are procedures followed?
+      type: select_one
+      options:
+      - Yes, documented and followed
+      - Yes, but not documented
+      - No consistent procedures
+      required: true
+    - id: 18
+      name: cleaning_supplies
+      label: Cleaning Supplies
+      hint: Dedicated supplies?
+      type: select_one
+      options:
+      - Yes, dedicated supplies
+      - Shared supplies
+      - Inadequate supplies
+      required: true
+    - id: 19
+      name: staff_training
+      label: Staff Training Status
+      hint: Are staff trained?
+      type: select_one
+      options:
+      - All staff trained
+      - Most staff trained
+      - Some staff trained
+      - No training
+      required: true
+    - id: 20
+      name: training_documentation
+      label: Training Documentation
+      hint: Is training documented?
+      type: select_one
+      options:
+      - Yes, up to date
+      - Yes, but outdated
+      - No documentation
+      required: true
+    - id: 21
+      name: cross_contamination_risk
+      label: Cross-Contamination Risk
+      hint: Risk level observed
+      type: select_one
+      options:
+      - No risk observed
+      - Low risk
+      - Moderate risk
+      - High risk
+      - Critical risk
+      required: true
+    - id: 22
+      name: storage_practices
+      label: Storage Practices
+      hint: How are allergen-free items stored?
+      type: select_one
+      options:
+      - Properly segregated
+      - Somewhat segregated
+      - Not segregated
+      required: true
+    - id: 23
+      name: ingredient_verification
+      label: Ingredient Verification
+      hint: Are ingredients verified?
+      type: select_one
+      options:
+      - Yes, all verified
+      - Some verified
+      - No verification
+      required: true
+    - id: 24
+      name: violations_found
+      label: Violations Found
+      hint: Any violations?
+      type: select_one
+      options:
+      - None
+      - Minor violations
+      - Major violations
+      - Critical violations
+      required: true
+    - id: 25
+      name: violation_details
+      label: Violation Details
+      hint: Describe violations
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: corrective_actions_needed
+      label: Corrective Actions Needed
+      hint: List required actions
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: corrective_action_deadline
+      label: Corrective Action Deadline
+      hint: Due date for fixes
+      type: date
+      options: []
+      required: false
+    - id: 28
+      name: follow_up_required
+      label: Follow-Up Audit Required
+      hint: Is re-audit needed?
+      type: select_one
+      options:
+      - Yes, within 1 week
+      - Yes, within 1 month
+      - Yes, within 3 months
+      - No follow-up needed
+      required: true
+    - id: 29
+      name: overall_compliance
+      label: Overall Compliance Rating
+      hint: Rate compliance
+      type: select_one
+      options:
+      - Fully compliant
+      - Mostly compliant
+      - Partially compliant
+      - Non-compliant
+      required: true
+    - id: 30
+      name: auditor_signature
+      label: Auditor Signature
+      hint: Auditor confirmation
+      type: select_one
+      options:
+      - I certify this audit is accurate
+      - I do not certify
+      required: true
+    - id: 31
+      name: manager_acknowledgment
+      label: Manager Acknowledgment
+      hint: Manager review
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other observations
+      type: text
+      options: []
+      required: false

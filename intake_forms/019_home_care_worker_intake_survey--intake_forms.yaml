@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Home Care Worker Intake Survey
+    pages:
+    - id: 1
+      name: home_care_worker_intake_survey_page_1
+      label: What Is This Survey For
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: home_care_worker_id
+      label: Home Care Worker Id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: home_care_worker_name
+      label: Home Care Worker Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: home_care_worker_address
+      label: Home Care Worker Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: home_care_worker_contact_number
+      label: Home Care Worker Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: home_care_worker_email
+      label: Home Care Worker Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: home_care_worker_dob
+      label: Home Care Worker Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: home_care_worker_employment_date
+      label: Home Care Worker Employment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: home_care_worker_hours_per_week
+      label: How many hours do you work per week?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: home_care_worker_hours_per_visit
+      label: Home Care Worker Hours per Visit
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: home_care_worker_rate_per_hour
+      label: What is the current rate per hour?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: home_care_worker_payment_method
+      label: What is your payment method?
+      hint: null
+      type: select_one
+      options:
+      - Bank Transfer
+      - Check
+      - Cash
+      required: true
+    - id: 13
+      name: home_care_worker_additional_info
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

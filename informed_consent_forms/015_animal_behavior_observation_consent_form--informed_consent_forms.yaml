@@ -1,0 +1,270 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animal Behavior Observation Consent Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Full Name
+      hint: Legal name of participant or guardian
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: participant_phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: participant_address
+      label: Address
+      hint: Street address, city, state, zip
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: consent_intro
+      label: Animal Behavior Observation Consent Form
+      hint: This form grants permission for researchers to observe animal behavior.
+        Please read carefully and complete all sections.
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: study_title
+      label: Study or Project Title
+      hint: Name of the research study
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: principal_investigator
+      label: Principal Investigator Name
+      hint: Lead researcher name
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: institution
+      label: Institution or Organization
+      hint: Research institution
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: animal_owner_name
+      label: Animal Owner Name
+      hint: If different from participant
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: animal_owner_contact
+      label: Animal Owner Contact Information
+      hint: Phone and email
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: animal_information
+      label: Animal Information
+      hint: Details about the animal being observed
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: animal_name
+      label: Animal's Name
+      hint: Name or identifier
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: animal_species
+      label: Species
+      hint: Type of animal
+      type: select_one
+      options:
+      - Dog
+      - Cat
+      - Horse
+      - Bird
+      - Rabbit
+      - Rodent
+      - Reptile
+      - Other
+      required: true
+    - id: 14
+      name: animal_breed
+      label: Breed
+      hint: Breed or mix
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: animal_age
+      label: Age
+      hint: Years and months
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: animal_sex
+      label: Sex
+      hint: Male or female
+      type: select_one
+      options:
+      - Male
+      - Female
+      required: true
+    - id: 17
+      name: observation_details
+      label: Observation Details
+      hint: Information about the observation process
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: observation_location
+      label: Where will observations take place
+      hint: Location
+      type: select_one
+      options:
+      - Owner's home
+      - Veterinary clinic
+      - Research facility
+      - Public space
+      - Other
+      required: true
+    - id: 19
+      name: observation_duration
+      label: Expected duration of observation period
+      hint: Time frame
+      type: select_one
+      options:
+      - Single session - less than 1 hour
+      - Single session - 1-3 hours
+      - Multiple sessions over 1 week
+      - Multiple sessions over 1 month
+      - Long-term - more than 1 month
+      required: true
+    - id: 20
+      name: observation_methods
+      label: What observation methods will be used
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Direct visual observation
+      - Video recording
+      - Audio recording
+      - Behavioral coding
+      - Physiological measurements
+      - Other
+      required: true
+    - id: 21
+      name: data_usage
+      label: How will the collected data be used
+      hint: Data usage
+      type: select_multiple
+      options:
+      - Research publication
+      - Academic presentation
+      - Educational purposes
+      - Internal analysis
+      - Thesis or dissertation
+      required: true
+    - id: 22
+      name: confidentiality
+      label: Confidentiality Agreement
+      hint: All data will be kept confidential
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: risks_acknowledged
+      label: I understand that there are minimal risks associated with behavioral
+        observation
+      hint: Risk acknowledgment
+      type: select_one
+      options:
+      - Yes - I understand
+      - No - I have concerns
+      required: true
+    - id: 24
+      name: benefits_understood
+      label: I understand the potential benefits of this research
+      hint: Benefits understanding
+      type: select_one
+      options:
+      - Yes - benefits explained
+      - Somewhat
+      - No - need more information
+      required: true
+    - id: 25
+      name: voluntary_participation
+      label: I understand that participation is voluntary and I may withdraw at any
+        time
+      hint: Voluntary participation
+      type: select_one
+      options:
+      - Yes - I understand
+      - false
+      required: true
+    - id: 26
+      name: photo_video_consent
+      label: Do you consent to photo or video recording of the animal
+      hint: Media consent
+      type: select_one
+      options:
+      - Yes - for research purposes only
+      - Yes - may be used in publications
+      - No - observation only
+      required: true
+    - id: 27
+      name: contact_permission
+      label: May researchers contact you for follow-up questions
+      hint: Follow-up permission
+      type: select_one
+      options:
+      - Yes - anytime
+      - Yes - during business hours only
+      - Email only
+      - false
+      required: true
+    - id: 28
+      name: participant_signature
+      label: Participant Signature
+      hint: Type full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 29
+      name: signature_date
+      label: Date of Signature
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 30
+      name: witness_name
+      label: Witness Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: researcher_signature
+      label: Researcher Signature
+      hint: Principal investigator or designee
+      type: text
+      options: []
+      required: true

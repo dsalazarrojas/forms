@@ -1,0 +1,128 @@
+inputSchema:
+  type: object
+  properties:
+    title: Water Drainage Maintenance Request Form
+    pages:
+    - id: 1
+      name: request_info
+      label: request_info
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: location
+      label: request_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: photos
+      label: request_photos
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: priority
+      label: maintenance_priority
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 5
+      name: description
+      label: issue_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: assignee
+      label: assignee
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: status
+      label: status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 8
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: created_by
+      label: created_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: updated_by
+      label: updated_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: created_at
+      label: created_at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: updated_at
+      label: updated_at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: created_by_id
+      label: created_by_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: updated_by_id
+      label: updated_by_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - Infrastructure
+      - Other
+      required: false
+    - id: 16
+      name: form_id
+      label: form_id
+      hint: null
+      type: text
+      options: []
+      required: false

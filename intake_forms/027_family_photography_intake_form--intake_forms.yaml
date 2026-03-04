@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: Family Photography Intake Form
+    pages:
+    - id: 1
+      name: family_photography_session_details
+      label: Family Photography Session Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: family_name
+      label: Family Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: photographer_name
+      label: Photographer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: session_date
+      label: Session Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: session_time
+      label: Session Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: session_location
+      label: Session Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: session_length
+      label: Session Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: number_of_family_members
+      label: Number of Family Members
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: number_of_children
+      label: Number of Children
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: child_ages
+      label: Child Ages
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: session_type
+      label: Session Type
+      hint: null
+      type: select_one
+      options:
+      - Family Portrait
+      - Family Fun
+      - Family Adventure
+      required: false
+    - id: 14
+      name: photo_locations
+      label: Photo Locations
+      hint: null
+      type: select_multiple
+      options:
+      - Home
+      - Outdoor
+      - Studio
+      required: false
+    - id: 15
+      name: photo_styles
+      label: Photo Styles
+      hint: null
+      type: select_multiple
+      options:
+      - Natural Light
+      - Artificial Light
+      - Mixed Light
+      required: false

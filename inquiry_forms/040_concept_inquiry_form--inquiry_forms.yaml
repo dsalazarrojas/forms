@@ -1,0 +1,232 @@
+inputSchema:
+  type: object
+  properties:
+    title: Concept Inquiry Form
+    pages:
+    - id: 1
+      name: inquiry_id
+      label: Inquiry ID
+      hint: Unique inquiry identifier
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: submission_date
+      label: Submission Date
+      hint: Date of submission
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: submitter_name
+      label: Submitter Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: department
+      label: Department
+      hint: Select your department
+      type: select_one
+      options:
+      - Research and Development
+      - Product
+      - Engineering
+      - Marketing
+      - Sales
+      - Operations
+      - Human Resources
+      - Finance
+      - Executive
+      - Other
+      required: true
+    - id: 7
+      name: job_title
+      label: Job Title
+      hint: Your job title
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: concept_title
+      label: Concept Title
+      hint: Title of your concept
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: concept_category
+      label: Concept Category
+      hint: Select category
+      type: select_one
+      options:
+      - New Product
+      - New Service
+      - Feature Addition
+      - Process Improvement
+      - Technology Innovation
+      - Business Model Change
+      - Marketing Initiative
+      - Cost Reduction
+      - Quality Improvement
+      - Other
+      required: true
+    - id: 10
+      name: concept_summary
+      label: Concept Summary
+      hint: Brief summary of your concept
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: problem_statement
+      label: Problem Statement
+      hint: What problem does this solve
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: proposed_solution
+      label: Proposed Solution
+      hint: How does your concept solve the problem
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: target_audience
+      label: Target Audience
+      hint: Who will benefit from this
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: market_size
+      label: Market Size
+      hint: Estimated market size or impact
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: competitive_landscape
+      label: Competitive Landscape
+      hint: Are there similar solutions
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: unique_value_proposition
+      label: Unique Value Proposition
+      hint: What makes this unique
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: implementation_requirements
+      label: Implementation Requirements
+      hint: What is needed to implement
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: estimated_timeline
+      label: Estimated Timeline
+      hint: How long to implement
+      type: select_one
+      options:
+      - Less than 1 Month
+      - 1 to 3 Months
+      - 3 to 6 Months
+      - 6 to 12 Months
+      - More than 1 Year
+      required: true
+    - id: 19
+      name: estimated_cost
+      label: Estimated Cost
+      hint: Estimated implementation cost
+      type: select_one
+      options:
+      - Less than $10,000
+      - $10,000 to $50,000
+      - $50,000 to $100,000
+      - $100,000 to $500,000
+      - More than $500,000
+      required: true
+    - id: 20
+      name: resources_needed
+      label: Resources Needed
+      hint: What resources are required
+      type: select_multiple
+      options:
+      - Development Team
+      - Design Team
+      - Marketing Support
+      - Budget Allocation
+      - Executive Approval
+      - External Partners
+      - New Technology
+      - Training
+      - Other
+      required: true
+    - id: 21
+      name: risks_identified
+      label: Risks Identified
+      hint: What are the potential risks
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: success_metrics
+      label: Success Metrics
+      hint: How will success be measured
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: supporting_documents
+      label: Supporting Documents
+      hint: Will you attach documents
+      type: select_one
+      options:
+      - Yes, Attached
+      - Yes, To Follow
+      - No Documents
+      required: false
+    - id: 24
+      name: priority_recommendation
+      label: Priority Recommendation
+      hint: What priority do you recommend
+      type: select_one
+      options:
+      - Critical
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 25
+      name: inquiry_status
+      label: Inquiry Status
+      hint: Current status
+      type: select_one
+      options:
+      - Submitted
+      - Under Review
+      - Approved for Development
+      - Requires More Information
+      - Rejected
+      - On Hold
+      required: true

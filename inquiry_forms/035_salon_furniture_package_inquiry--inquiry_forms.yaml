@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: salon_furniture_package_inquiry
+    pages:
+    - id: 1
+      name: package_inquiries
+      label: salon_furniture_package_inquiry
+      hint: null
+      type: select_one
+      options:
+      - Furniture
+      - Accessories
+      - Decor
+      - Furniture
+      - Accessories
+      - Decor
+      required: false
+    - id: 2
+      name: name
+      label: client_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: installation_date
+      label: installation_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 8
+      name: supplier_details
+      label: supplier_details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: supplier_contact_number
+      label: supplier_contact_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: supplier_email
+      label: supplier_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: supplier_address
+      label: supplier_address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: design_team
+      label: design_team
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: installation_method
+      label: installation_method
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: delivery_method
+      label: delivery_method
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: delivery_date
+      label: delivery_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: delivery_time
+      label: delivery_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 17
+      name: installation_status
+      label: installation_status
+      hint: null
+      type: select_one
+      options:
+      - In Progress
+      - Completed
+      - On Hold
+      - Cancelled
+      required: true
+    - id: 18
+      name: package_id
+      label: package_id
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: package_version
+      label: package_version
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: package_type
+      label: package_type
+      hint: null
+      type: select_multiple
+      options:
+      - Salon
+      - Home
+      - Office
+      required: true
+    - id: 21
+      name: design_style
+      label: design_style
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: design_materials
+      label: design_materials
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: design_details
+      label: design_details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: package_description
+      label: package_description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: supplier_notes
+      label: supplier_notes
+      hint: null
+      type: text
+      options: []
+      required: true

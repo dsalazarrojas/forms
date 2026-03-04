@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Agent Agreement And Compensation Form
+    pages:
+    - id: 1
+      name: agent_full_name
+      label: Agent Full Name
+      hint: Enter the full legal name of the insurance agent
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: agent_license_number
+      label: Agent License Number
+      hint: Enter the agent's insurance license number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: agent_email
+      label: Agent Email
+      hint: Enter the agent's email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: agent_phone
+      label: Agent Phone
+      hint: Enter the agent's phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: agent_address
+      label: Agent Address
+      hint: Enter the agent's business address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: agency_name
+      label: Agency Name
+      hint: Enter the name of the insurance agency
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: agreement_terms_header
+      label: -- Agreement Terms --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: agreement_start_date
+      label: Agreement Start Date
+      hint: Enter the start date of the agreement
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: agreement_end_date
+      label: Agreement End Date
+      hint: Enter the end date of the agreement (if applicable)
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: agent_role_description
+      label: Agent Role Description
+      hint: Describe the agent's role and responsibilities
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: insurance_lines_authorized
+      label: Insurance Lines Authorized
+      hint: Specify which insurance lines the agent is authorized to sell
+      type: select_multiple
+      options:
+      - Life Insurance
+      - Health Insurance
+      - Auto Insurance
+      - Homeowners Insurance
+      - Commercial Insurance
+      - Disability Insurance
+      - Long-Term Care
+      - Annuities
+      required: true
+    - id: 12
+      name: compensation_structure_header
+      label: -- Compensation Structure --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: commission_structure
+      label: Commission Structure
+      hint: Describe the commission structure for different insurance products
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: base_salary_amount
+      label: Base Salary Amount
+      hint: Enter the base salary amount (if applicable)
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: bonus_eligibility
+      label: Bonus Eligibility
+      hint: Is the agent eligible for bonuses? If so, describe the criteria
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: compensation_payment_schedule
+      label: Compensation Payment Schedule
+      hint: When will commissions and other compensation be paid?
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Semi-annually
+      - Annually
+      - Upon Policy Completion
+      required: true
+    - id: 17
+      name: termination_clause
+      label: Termination Clause
+      hint: Under what conditions can the agreement be terminated?
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: non_compete_agreement
+      label: Non-compete Agreement
+      hint: Does the agent agree not to compete with the agency during and after the
+        agreement?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: confidentiality_agreement
+      label: Confidentiality Agreement
+      hint: Does the agent agree to maintain confidentiality of client information?
+      type: select_one
+      options:
+      - 'Yes'
+      - I Agree
+      - 'No'
+      - I Do Not Agree
+      required: true
+    - id: 20
+      name: additional_terms_conditions
+      label: Additional Terms and Conditions
+      hint: Any additional terms and conditions for the agreement
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: agent_signature
+      label: Agent Signature
+      hint: Digital signature of the agent
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: agency_representative_signature
+      label: Agency Representative Signature
+      hint: Digital signature of the agency representative
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: agreement_date_signed
+      label: Agreement Date Signed
+      hint: Enter the date when the agreement was signed
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: issue_claim_form_template
+    pages:
+    - id: 1
+      name: insurance_agent
+      label: Insurance Agent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: issue_description
+      label: Issue Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: claim_date
+      label: Claim Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: claim_amount
+      label: Claim Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: issue_location
+      label: Issue Location
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 11, ''name'': ''Office''}'
+      - '{''id'': 12, ''name'': ''Home''}'
+      - '{''id'': 13, ''name'': ''Outside''}'
+      required: true
+    - id: 6
+      name: insurance_provider
+      label: Insurance Provider
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 21, ''name'': ''Provider 1''}'
+      - '{''id'': 22, ''name'': ''Provider 2''}'
+      - '{''id'': 23, ''name'': ''Provider 3''}'
+      required: true
+    - id: 7
+      name: issue_details
+      label: Issue Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: insurance_policy_number
+      label: Insurance Policy Number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false

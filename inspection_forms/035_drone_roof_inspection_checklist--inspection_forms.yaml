@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Drone Roof Inspection Checklist
+    pages:
+    - id: 1
+      name: roof_inspection_date
+      label: Roof Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: inspector_name
+      label: inspector_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: roof_type
+      label: roof_type
+      hint: null
+      type: select_one
+      options:
+      - Asphalt Shingle
+      - Clay Tile
+      - Cedar Shake
+      required: false
+    - id: 4
+      name: inspector_contact_info
+      label: inspector_contact_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: inspector_company
+      label: inspector_company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: roof_area
+      label: roof_area
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: number_of_roof_layers
+      label: number_of_roof_layers
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: roof_condition
+      label: roof_condition
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Fair
+      - Poor
+      - Good
+      required: false
+    - id: 9
+      name: repair_recommendations
+      label: repair_recommendations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: drone_pictures
+      label: drone_pictures
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: roof_measurement
+      label: roof_measurement
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false

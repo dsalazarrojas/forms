@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Food Photo Nutrition Analysis Submission
+    pages:
+    - id: 1
+      name: user_input
+      label: Food Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: photo_url
+      label: Upload Photo
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_intake
+      label: Date of Intake
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: serving_size
+      label: Serving Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: food_name
+      label: Food Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: nutrition_review
+      label: Nutrition Review
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: photo_upload_url
+      label: Photo Upload URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: serving_weight
+      label: Serving Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: food_category
+      label: Food Category
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Fruits''}'
+      - '{''label'': ''Vegetables''}'
+      - '{''label'': ''Grains''}'
+      - '{''label'': ''Dairy''}'
+      - '{''label'': ''Protein''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 11
+      name: serving_portion
+      label: Serving Portion
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

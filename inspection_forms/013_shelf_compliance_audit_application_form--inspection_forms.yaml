@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: shelf_compliance_audit_application_form
+    pages:
+    - id: 1
+      name: store_conditions
+      label: store_conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: shelf_standards
+      label: shelf_standards
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: checklist_items
+      label: checklist_items
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: photos
+      label: photos
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: follow_up_actions
+      label: follow_up_actions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: store_id
+      label: store_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: auditor_name
+      label: auditor_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: auditor_email
+      label: auditor_email
+      hint: null
+      type: email
+      options: []
+      required: false

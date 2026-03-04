@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Vaccine Consent Form
+    pages:
+    - id: 1
+      name: participant_header
+      label: -- Participant Information --
+      hint: Please provide your information
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Full Name
+      hint: Your complete legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_dob
+      label: Date of Birth
+      hint: MM-DD-YYYY
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: participant_email
+      label: Email Address
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: participant_phone
+      label: Phone Number
+      hint: Your contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: participant_address
+      label: Current Address
+      hint: Your street address
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: consent_header
+      label: -- Informed Consent Information --
+      hint: Please read and acknowledge the following information
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: vaccine_info_acknowledgment
+      label: I Have Received and Read the Vaccine Information Sheet
+      hint: Acknowledgment of receiving vaccine information
+      type: select_one
+      options:
+      - I have read the information
+      - I have not read it
+      - I have questions
+      required: true
+    - id: 9
+      name: vaccine_benefits_understanding
+      label: I Understand the Benefits of COVID-19 Vaccination
+      hint: Acknowledged understanding of benefits
+      type: select_one
+      options:
+      - Yes, I understand
+      - No, I do not understand
+      - I have questions
+      required: true
+    - id: 10
+      name: vaccine_risks_understanding
+      label: I Understand the Possible Risks of COVID-19 Vaccination
+      hint: Acknowledged understanding of risks
+      type: select_one
+      options:
+      - Yes, I understand
+      - No, I do not understand
+      - I have questions
+      required: true
+    - id: 11
+      name: vaccination_authorization
+      label: I Authorize Vaccination to Proceed
+      hint: You authorize administration of COVID-19 vaccine
+      type: select_one
+      options:
+      - I authorize vaccination
+      - I do not authorize vaccination
+      required: true
+    - id: 12
+      name: alternative_options
+      label: I Understand I Can Decline the Vaccine
+      hint: You understand declining is an option
+      type: select_one
+      options:
+      - Yes, I understand
+      - No, I do not understand
+      required: true
+    - id: 13
+      name: medical_history_header
+      label: -- Medical History --
+      hint: Important health information
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: allergies
+      label: Severe Allergies to Vaccine Components
+      hint: Any allergies to vaccine ingredients
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: chronic_conditions
+      label: Chronic Medical Conditions
+      hint: Any ongoing health conditions
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: immunocompromised_status
+      label: Are You Immunocompromised
+      hint: Do you have a weakened immune system
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 17
+      name: current_medications
+      label: Current Medications
+      hint: List any medications you are taking
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: pregnancy_breastfeeding
+      label: Are You Pregnant or Breastfeeding
+      hint: Current pregnancy or nursing status
+      type: select_one
+      options:
+      - Pregnant
+      - Breastfeeding
+      - Neither
+      - Prefer Not to Say
+      required: false
+    - id: 19
+      name: previous_covid_header
+      label: -- Previous COVID-19 Status --
+      hint: Your previous COVID-19 history
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: previous_covid_infection
+      label: Have You Had COVID-19 Before
+      hint: Any previous COVID-19 infection
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 21
+      name: previous_covid_date
+      label: Date of Previous COVID-19 Infection
+      hint: When you had COVID-19 before
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: consent_agreement
+      label: I Agree to the Terms of This Informed Consent
+      hint: I agree to all terms and conditions
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 23
+      name: consent_signature_date
+      label: Date of Consent
+      hint: Date you are signing this form
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: parent_guardian_note
+      label: -- Parent or Guardian Information if Applicable --
+      hint: If participant is a minor, provide guardian information
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: guardian_name
+      label: Parent or Guardian Name
+      hint: Name of parent or legal guardian
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Makeup Intake Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_phone
+      label: client_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: makeup_date
+      label: Makeup Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: service_name
+      label: Service Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: makeup_details
+      label: Makeup Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: client_email
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: special_instructions
+      label: Special Instructions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: makeup_intake_form_id
+      label: Makeup Intake Form ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: assigned_artist
+      label: Assigned Artist
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''chatjimmy'', ''label'': ''chatjimmy''}'
+      - Other
+      required: true

@@ -1,0 +1,211 @@
+inputSchema:
+  type: object
+  properties:
+    title: Consultancy Service Information Collection Form
+    pages:
+    - id: 1
+      name: client_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_email
+      label: Email Address
+      hint: Primary email for communication
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: client_phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company_name
+      label: Company Name
+      hint: Name of your organization
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: company_size
+      label: Company Size
+      hint: Number of employees
+      type: select_one
+      options:
+      - 1-10
+      - 11-50
+      - 51-200
+      - 201-500
+      - 501-1000
+      - 1000+
+      required: false
+    - id: 7
+      name: industry
+      label: Industry
+      hint: Your industry sector
+      type: select_one
+      options:
+      - Technology
+      - Healthcare
+      - Finance
+      - Manufacturing
+      - Retail
+      - Education
+      - Government
+      - Nonprofit
+      - Energy
+      - Other
+      required: true
+    - id: 8
+      name: service_type
+      label: Service Type Needed
+      hint: Select the consulting service you need
+      type: select_one
+      options:
+      - Strategic Planning
+      - Business Analysis
+      - Process Improvement
+      - Change Management
+      - Technology Consulting
+      - Financial Consulting
+      - HR Consulting
+      - Marketing Consulting
+      - Risk Management
+      - Other
+      required: true
+    - id: 9
+      name: project_scope
+      label: Project Scope
+      hint: Size of the project
+      type: select_one
+      options:
+      - Small - Single Department
+      - Medium - Multiple Departments
+      - Large - Organization Wide
+      - Enterprise - Multiple Locations
+      required: true
+    - id: 10
+      name: project_objectives
+      label: Project Objectives
+      hint: What do you hope to achieve
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: current_challenges
+      label: Current Challenges
+      hint: Describe the challenges you are facing
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: project_timeline
+      label: Desired Timeline
+      hint: When do you need this completed
+      type: select_one
+      options:
+      - Urgent - Within 2 Weeks
+      - 1 Month
+      - 2-3 Months
+      - 3-6 Months
+      - 6+ Months
+      - Flexible
+      required: true
+    - id: 13
+      name: budget_range
+      label: Budget Range
+      hint: Estimated budget for this project
+      type: select_one
+      options:
+      - Under $10,000
+      - $10,000 - $25,000
+      - $25,000 - $50,000
+      - $50,000 - $100,000
+      - $100,000 - $250,000
+      - Over $250,000
+      - To Be Determined
+      required: false
+    - id: 14
+      name: decision_makers
+      label: Decision Makers Involved
+      hint: Who will be involved in the decision
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: previous_consulting
+      label: Have You Used Consultants Before
+      hint: Select if you have prior consulting experience
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 16
+      name: previous_experience
+      label: Previous Consulting Experience
+      hint: Describe your past experience with consultants
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: stakeholders
+      label: Key Stakeholders
+      hint: List key people who should be involved
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: success_criteria
+      label: Success Criteria
+      hint: How will you measure success
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: preferred_start_date
+      label: Preferred Start Date
+      hint: When would you like to begin
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: additional_requirements
+      label: Additional Requirements
+      hint: Any special requirements or considerations
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: how_did_you_hear
+      label: How Did You Hear About Us
+      hint: Source of referral
+      type: select_one
+      options:
+      - Website
+      - Social Media
+      - Referral
+      - Conference
+      - Advertisement
+      - Search Engine
+      - Other
+      required: false
+    - id: 22
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information to share
+      type: text
+      options: []
+      required: false

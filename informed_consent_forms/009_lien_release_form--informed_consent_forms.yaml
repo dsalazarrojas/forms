@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lien Release Form
+    pages:
+    - id: 1
+      name: title
+      label: Lien Release Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: lien_holder
+      label: Lien Holder
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Borrower''}'
+      - '{''value'': ''Other''}'
+      - '{''value'': ''Lien Holder''}'
+      required: false
+    - id: 3
+      name: borrower
+      label: Borrower
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: lien_date
+      label: Lien Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: amount_paid
+      label: Amount Paid
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: release_date
+      label: Release Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: reason_for_removal
+      label: Reason For Removal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: acknowledgement
+      label: Acknowledgement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: signature_lie_n_holder
+      label: Signature - Lien Holder
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: signature_borrower
+      label: Signature - Borrower
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: signature_date_lie_n_holder
+      label: Signature Date - Lien Holder
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: signature_date_borrower
+      label: Signature Date - Borrower
+      hint: null
+      type: date
+      options: []
+      required: false

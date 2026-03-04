@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Parent Handbook Acknowledgment Form
+    pages:
+    - id: 1
+      name: student_name
+      label: student_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: parent_name
+      label: parent_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: signature_date
+      label: signature_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: handbook_attached
+      label: handbook_attached
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: school_year
+      label: school_year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: student_id
+      label: student_id
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: parent_phone
+      label: parent_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: school_email
+      label: school_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: school_address
+      label: school_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: student_parent_signature
+      label: signature
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: date_signed
+      label: date_signed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: acknowledgement
+      label: acknowledgement
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: school_name
+      label: school_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: school_address_line_2
+      label: school_address_line_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: school_city
+      label: school_city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: school_state
+      label: school_state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: school_zip
+      label: school_zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: school_country
+      label: school_country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: form_version
+      label: form_version
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: acknowledgement_date
+      label: date_signed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: acknowledgement_time
+      label: time_signed
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: acknowledgement_user
+      label: signature_by
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 23
+      name: school_email
+      label: school_email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: parent_signature
+      label: parent_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: form_id
+      label: form_id
+      hint: null
+      type: text
+      options: []
+      required: true

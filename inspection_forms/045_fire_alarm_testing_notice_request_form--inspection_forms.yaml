@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fire Alarm Testing Notice Request Form
+    pages:
+    - id: 1
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact
+      label: Contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: fire_alarm_system
+      label: Fire Alarm System
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: testing_date
+      label: Testing Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: testing_time
+      label: Testing Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: duration
+      label: Duration
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: confirm
+      label: Confirm
+      hint: null
+      type: select_one
+      options:
+      - Confirm testing date
+      - Confirm testing time
+      - Confirm duration
+      required: true
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

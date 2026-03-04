@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Payment Declaration Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Payment Declaration Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: investor_name
+      label: Investor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: declaration_date
+      label: Declaration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: amount
+      label: Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: transaction_type
+      label: Transaction Type
+      hint: null
+      type: select_one
+      options:
+      - Bank Transfer
+      - Credit Card Transfer
+      - Other
+      required: false
+    - id: 7
+      name: other_transaction_type
+      label: Other Transaction Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - Cash
+      - Wire Transfer
+      - Cheque
+      required: false
+    - id: 9
+      name: declaration_status
+      label: Declaration Status
+      hint: null
+      type: select_one
+      options:
+      - Not Declared
+      - Declared
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

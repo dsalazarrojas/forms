@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Banking Pricing And Billing Inquiry Form
+    pages:
+    - id: 1
+      name: customer_full_name
+      label: Customer Full Name
+      hint: Your name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: customer_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: customer_address
+      label: Mailing Address
+      hint: Street, city, state, ZIP
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: account_number
+      label: Account Number
+      hint: Your account
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: account_type
+      label: Account Type
+      hint: Type of account
+      type: select_one
+      options:
+      - Checking
+      - Savings
+      - Business
+      - Investment
+      - Loan
+      - Credit Card
+      - Not a Customer
+      required: true
+    - id: 7
+      name: inquiry_type
+      label: Inquiry Type
+      hint: What is your question about
+      type: select_one
+      options:
+      - Account Fees
+      - Service Charges
+      - Interest Rates
+      - Transaction Fees
+      - Penalty Fees
+      - Billing Error
+      - Fee Waiver Request
+      - General Pricing
+      required: true
+    - id: 8
+      name: fee_category
+      label: Fee Category
+      hint: Which fee
+      type: select_one
+      options:
+      - Monthly Maintenance
+      - Overdraft
+      - ATM
+      - Wire Transfer
+      - Foreign Transaction
+      - Insufficient Funds
+      - Paper Statement
+      - Stop Payment
+      - Other
+      required: true
+    - id: 9
+      name: transaction_date
+      label: Transaction Date
+      hint: When did this occur
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: amount_in_question
+      label: Amount in Question
+      hint: Dollar amount
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: transaction_description
+      label: Transaction Description
+      hint: As it appears on statement
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: inquiry_details
+      label: Inquiry Details
+      hint: Describe your question
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: statement_period
+      label: Statement Period
+      hint: Which statement
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: previous_inquiry
+      label: Previous Inquiry
+      hint: Have you asked before
+      type: select_one
+      options:
+      - Yes, this is a follow-up
+      - No, first inquiry
+      required: true
+    - id: 15
+      name: previous_reference_number
+      label: Previous Reference Number
+      hint: If you have one
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: urgency
+      label: Urgency
+      hint: How urgent
+      type: select_one
+      options:
+      - Standard
+      - Urgent
+      - Critical
+      required: true
+    - id: 17
+      name: preferred_response_method
+      label: Preferred Response Method
+      hint: How should we respond
+      type: select_one
+      options:
+      - Email
+      - Phone Call
+      - Text Message
+      - Mail
+      - Secure Message
+      required: true
+    - id: 18
+      name: best_time_to_contact
+      label: Best Time to Contact
+      hint: When are you available
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      - Anytime
+      required: false
+    - id: 19
+      name: supporting_documents
+      label: Supporting Documents
+      hint: Do you have documentation
+      type: select_one
+      options:
+      - Yes, will attach
+      - Yes, will provide
+      - false
+      required: false
+    - id: 20
+      name: expected_resolution
+      label: Expected Resolution
+      hint: What outcome do you want
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: submission_date
+      label: Submission Date
+      hint: Date of inquiry
+      type: date
+      options: []
+      required: true

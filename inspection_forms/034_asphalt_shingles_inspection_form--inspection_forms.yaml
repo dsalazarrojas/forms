@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Asphalt Shingles Inspection Form
+    pages:
+    - id: 1
+      name: inspector_name_shingle
+      label: Inspector or Roofer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: inspection_date_shingle
+      label: Date of Inspection
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: client_address_shingle
+      label: Client Property Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: shingle_brand_model
+      label: Shingle Brand and Model
+      hint: e.g. GAF Timberline HDZ
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: shingle_color_shingle
+      label: Shingle Color
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: bundles_quantity_shingle
+      label: Quantity of Bundles Installed
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: roof_slope_shingle
+      label: Roof Slope or Pitch
+      hint: e.g. 6/12
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: underlayment_condition_shingle
+      label: Condition of Underlayment
+      hint: null
+      type: select_one
+      options:
+      - Excellent - New and dry
+      - Good - Intact
+      - Fair - Some wear
+      - Poor - Replacement needed
+      required: true
+    - id: 9
+      name: nailing_pattern_shingle
+      label: Nailing Pattern Accuracy
+      hint: Check all that apply
+      type: select_multiple
+      options:
+      - Consistent Nailing Line
+      - Proper Number of Nails per Shingle
+      - Nails Driven Flush
+      - No Over-driven Nails
+      required: true
+    - id: 10
+      name: flashing_quality_shingle
+      label: Flashing Installation Quality
+      hint: 1 - poor, 5 - excellent
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: visible_defects_shingle
+      label: Visible Defects or Damage Found
+      hint: Describe any issues found during inspection
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: total_area_shingle
+      label: Total Roof Area Covered
+      hint: In square feet
+      type: number
+      options: []
+      required: true

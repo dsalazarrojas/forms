@@ -1,0 +1,246 @@
+inputSchema:
+  type: object
+  properties:
+    title: Building Access Cage Inspection Checklist
+    pages:
+    - id: 1
+      name: inspector_name
+      label: Inspector Name
+      hint: Full name of inspector
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: inspector_id
+      label: Inspector ID
+      hint: Employee or contractor ID
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: inspection_date
+      label: Inspection Date
+      hint: Date of inspection
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: inspection_time
+      label: Inspection Time
+      hint: Time of inspection
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: building_name
+      label: Building Name
+      hint: Name of building
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: building_location
+      label: Building Location
+      hint: Address or location
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: cage_identifier
+      label: Cage Identifier
+      hint: Cage number or ID
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: cage_location
+      label: Cage Location
+      hint: Specific location within building
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: inspection_type
+      label: Inspection Type
+      hint: Type of inspection
+      type: select_one
+      options:
+      - Routine Inspection
+      - Scheduled Maintenance
+      - Incident Response
+      - Compliance Audit
+      - Pre-Occupancy
+      - Post-Repair
+      required: true
+    - id: 12
+      name: structural_integrity
+      label: Structural Integrity Check
+      hint: Is structure sound
+      type: select_one
+      options:
+      - Pass - No Issues
+      - Minor Issues Noted
+      - Major Issues Found
+      - Critical - Immediate Action
+      required: true
+    - id: 13
+      name: locking_mechanism
+      label: Locking Mechanism
+      hint: Condition of locks
+      type: select_one
+      options:
+      - Functional
+      - Needs Adjustment
+      - Needs Repair
+      - Needs Replacement
+      required: true
+    - id: 14
+      name: access_control
+      label: Access Control System
+      hint: System functionality
+      type: select_one
+      options:
+      - Fully Operational
+      - Minor Issues
+      - Malfunctioning
+      - Not Applicable
+      required: true
+    - id: 15
+      name: surveillance_cameras
+      label: Surveillance Cameras
+      hint: Camera status
+      type: select_one
+      options:
+      - All Functional
+      - Some Issues
+      - Not Functional
+      - Not Installed
+      required: true
+    - id: 16
+      name: lighting_condition
+      label: Lighting Condition
+      hint: Area lighting status
+      type: select_one
+      options:
+      - Adequate
+      - Needs Improvement
+      - Insufficient
+      - Not Functional
+      required: true
+    - id: 17
+      name: cleanliness
+      label: Cleanliness Status
+      hint: General cleanliness
+      type: select_one
+      options:
+      - Clean
+      - Acceptable
+      - Needs Cleaning
+      - Unsatisfactory
+      required: true
+    - id: 18
+      name: safety_hazards
+      label: Safety Hazards Present
+      hint: Any hazards found
+      type: select_multiple
+      options:
+      - None
+      - Exposed Wiring
+      - Sharp Edges
+      - Slippery Surfaces
+      - Obstructed Exit
+      - Fire Hazards
+      - Structural Damage
+      - Other
+      required: true
+    - id: 19
+      name: damage_noted
+      label: Damage Noted
+      hint: Describe any damage
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: maintenance_needed
+      label: Maintenance Needed
+      hint: Describe maintenance requirements
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: corrective_actions
+      label: Corrective Actions Required
+      hint: List required actions
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: priority_level
+      label: Priority Level
+      hint: Urgency of issues
+      type: select_one
+      options:
+      - Low - Schedule Routine
+      - Medium - Address Within Week
+      - High - Address Within 24 Hours
+      - Critical - Immediate Action
+      required: true
+    - id: 23
+      name: follow_up_required
+      label: Follow-up Required
+      hint: Is follow-up needed
+      type: select_one
+      options:
+      - Yes - Schedule Follow-up
+      - No - All Issues Resolved
+      required: true
+    - id: 24
+      name: follow_up_date
+      label: Follow-up Date
+      hint: When to re-inspect
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: photos_attached
+      label: Photos Attached
+      hint: Documentation photos
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 26
+      name: overall_status
+      label: Overall Inspection Status
+      hint: Final assessment
+      type: select_one
+      options:
+      - Pass - No Action Needed
+      - Pass with Minor Issues
+      - Fail - Action Required
+      - Fail - Critical Issues
+      required: true
+    - id: 27
+      name: inspector_signature
+      label: Inspector Acknowledgment
+      hint: I certify this inspection is accurate
+      type: select_one
+      options:
+      - Yes - I Certify
+      - false
+      required: true

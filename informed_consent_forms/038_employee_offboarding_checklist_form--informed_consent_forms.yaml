@@ -1,0 +1,157 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Offboarding Checklist Form
+    pages:
+    - id: 1
+      name: confirm_termination
+      label: Confirm Termination
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: update_employee_status
+      label: Update Employee Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 3
+      name: notify_superior
+      label: Notify Superior
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: notify_it
+      label: Notify IT
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: notify_hr
+      label: Notify HR
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: notify_admin
+      label: Notify Admin
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: update_access
+      label: Update Access
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: update_network_access
+      label: Update Network Access
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: update_email_forwarding
+      label: Update Email Forwarding
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: update_phone_forwarding
+      label: Update Phone Forwarding
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: notify_benefits
+      label: Notify Benefits
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: collect_secrets
+      label: Collect Secrets
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: update_credentials
+      label: Update Credentials
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: return_equipment
+      label: Return Equipment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: document_destruction
+      label: Document Destruction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: update_passwords
+      label: Update Passwords
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: notify_accounting
+      label: Notify Accounting
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: update_credit_cards
+      label: Update Credit Cards
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: send_outgoing
+      label: Send Outgoing
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: update_incoming
+      label: Update Incoming
+      hint: null
+      type: note
+      options: []
+      required: false

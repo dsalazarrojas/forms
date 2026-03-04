@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Flooring Inspection Checklist
+    pages:
+    - id: 1
+      name: inspection_form_header
+      label: Form Header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: property_type
+      label: property_type
+      hint: null
+      type: select_one
+      options:
+      - Carpet
+      - Hardwood
+      - Tile
+      - Laminate
+      - Vinyl
+      - Other
+      required: false
+    - id: 3
+      name: square_footage
+      label: square_footage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: room_count
+      label: room_count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: room_type
+      label: room_type
+      hint: null
+      type: select_one
+      options:
+      - living_room
+      - kitchen
+      - bedroom
+      - bathroom
+      - other
+      required: true
+    - id: 6
+      name: flooring_type
+      label: flooring_type
+      hint: null
+      type: select_one
+      options:
+      - hardwood
+      - tile
+      - laminate
+      - vinyl
+      - carpet
+      - other
+      required: true
+    - id: 7
+      name: condition
+      label: condition
+      hint: null
+      type: select_one
+      options:
+      - excellent
+      - good
+      - fair
+      - poor
+      required: true
+    - id: 8
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: additional_notes
+      label: additional_notes
+      hint: null
+      type: note
+      options: []
+      required: false

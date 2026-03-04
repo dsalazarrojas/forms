@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: VOC Control Assessment Form
+    pages:
+    - id: 1
+      name: voc_control_form_data
+      label: voc_control_form_data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: voc_type
+      label: voc_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Type 1''}'
+      - '{''id'': 2, ''name'': ''Type 2''}'
+      required: false
+    - id: 3
+      name: sources
+      label: sources
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Source 1''}'
+      - '{''id'': 2, ''name'': ''Source 2''}'
+      required: false
+    - id: 4
+      name: controls
+      label: controls
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Control 1''}'
+      - '{''id'': 2, ''name'': ''Control 2''}'
+      required: false
+    - id: 5
+      name: voc_control_status
+      label: voc_control_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Control 1''}'
+      - '{''id'': 2, ''name'': ''Control 2''}'
+      required: false
+    - id: 6
+      name: compliance_status
+      label: compliance_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Compliance 1''}'
+      - '{''id'': 2, ''name'': ''Compliance 2''}'
+      required: false
+    - id: 7
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

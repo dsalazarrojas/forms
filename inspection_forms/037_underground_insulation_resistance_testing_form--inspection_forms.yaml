@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Underground Insulation Resistance Testing Form
+    pages:
+    - id: 1
+      name: underground_insulation_resistance_testing_form
+      label: Test Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: test_conducted_by
+      label: Test Conducted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: test_location
+      label: Test Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: temperature
+      label: Temperature
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: resistance_reading_1
+      label: Resistance Reading 1
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: resistance_reading_2
+      label: Resistance Reading 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: insulation_type
+      label: Insulation Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Fiberglass''}'
+      - '{''id'': 2, ''label'': ''XPS''}'
+      - '{''id'': 3, ''label'': ''EPS''}'
+      - '{''id'': 4, ''label'': ''Other''}'
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: submission_notes
+      label: Submission Notes
+      hint: null
+      type: text
+      options: []
+      required: false

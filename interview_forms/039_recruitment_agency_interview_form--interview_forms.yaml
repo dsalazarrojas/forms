@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: Recruitment Agency Interview Form
+    pages:
+    - id: 1
+      name: candidate_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: resume
+      label: Resume
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: date_available
+      label: Date Available
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: interview_time
+      label: Interview Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: interview_duration
+      label: Interview Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: interview_notes
+      label: Interview Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: candidate_status
+      label: Candidate Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Qualified''}'
+      - '{''label'': ''Not Qualified''}'
+      required: true
+    - id: 11
+      name: reason_not_qualified
+      label: Reason Not Qualified
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: interviewers
+      label: Interviewers
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: location
+      label: Location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: job_title
+      label: Job Title
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: job_title_other
+      label: Other Job Title
+      hint: null
+      type: text
+      options: []
+      required: false

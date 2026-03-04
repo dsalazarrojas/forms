@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: vehicle-insurance-extension-form
+    pages:
+    - id: 1
+      name: insurance_type
+      label: Insurance Type
+      hint: null
+      type: select_one
+      options:
+      - Auto
+      - Homeowner
+      required: false
+    - id: 2
+      name: vehicle_make
+      label: vehicle-make
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: vehicle_model
+      label: vehicle-model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: vehicle_year
+      label: vehicle-year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: insurance_start_date
+      label: insurance-start-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: insurance_end_date
+      label: insurance-end-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: driver_name
+      label: driver-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: driver_phone
+      label: driver-phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: driver_email
+      label: driver-email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: vehicle_plate
+      label: vehicle-plate
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: vehicle_plate_state
+      label: vehicle-plate-state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: vehicle_plate_country
+      label: vehicle-plate-country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: vehicle_plate_expiration_date
+      label: vehicle-plate-expiration-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: insurance_agent_name
+      label: insurance-agent-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: insurance_agent_phone
+      label: insurance-agent-phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: insurance_agent_email
+      label: insurance-agent-email
+      hint: null
+      type: email
+      options: []
+      required: false

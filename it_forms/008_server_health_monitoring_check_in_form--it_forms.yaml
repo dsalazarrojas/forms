@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: server_health_monitoring_check_in_form
+    pages:
+    - id: 1
+      name: general_info
+      label: Server Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: health_status
+      label: Health Status
+      hint: null
+      type: select_one
+      options:
+      - up
+      - down
+      - running
+      required: false
+    - id: 3
+      name: maintenance_status
+      label: Maintenance Status
+      hint: null
+      type: select_multiple
+      options:
+      - active
+      - inactive
+      required: false
+    - id: 4
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: server_admin
+      label: Server Admin
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false

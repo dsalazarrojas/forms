@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: electrical_equipment_inspection_form
+    pages:
+    - id: 1
+      name: electrical_equipment_inspection_form_page
+      label: electrical_equipment_inspection
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: electrical_equipment_model
+      label: electrical_equipment_model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: electrical_equipment_location
+      label: electrical_equipment_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: electrical_equipment_status
+      label: electrical_equipment_status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 5
+      name: electrical_equipment_notes
+      label: electrical_equipment_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: electrical_equipment_inspection_date
+      label: electrical_equipment_inspection_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: electrical_equipment_inspection_time
+      label: electrical_equipment_inspection_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: electrical_equipment_inspection_user
+      label: electrical_equipment_inspection_user
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: electrical_equipment_inspection_form_submitted_by
+      label: electrical_equipment_inspection_form_submitted_by
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

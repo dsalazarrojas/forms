@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dental HIPAA Form
+    pages:
+    - id: 1
+      name: patient_information
+      label: Patient Information
+      hint: Please provide the following information.
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Patient Information''}'
+      - '{''id'': 2, ''name'': ''Name''}'
+      - '{''id'': 3, ''name'': ''Phone Number''}'
+      - '{''id'': 4, ''name'': ''Address''}'
+      required: true
+    - id: 2
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: treatment_plans
+      label: Treatment Plans
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Anesthesia''}'
+      - '{''id'': 2, ''name'': ''Biopsy''}'
+      - '{''id'': 3, ''name'': ''Cast''}'
+      - '{''id'': 4, ''name'': ''Cleaning''}'
+      - '{''id'': 5, ''name'': ''Consultation''}'
+      - '{''id'': 6, ''name'': ''Diagnostic Imaging''}'
+      - '{''id'': 7, ''name'': ''Extraction''}'
+      - '{''id'': 8, ''name'': ''Fluoride''}'
+      - '{''id'': 9, ''name'': ''General Anesthesia''}'
+      - '{''id'': 10, ''name'': ''Oral Surgery''}'
+      - '{''id'': 11, ''name'': ''Restorative''}'
+      required: false
+    - id: 4
+      name: medical_history_details
+      label: Medical History Details
+      hint: Please provide any relevant medical history.
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: medical_condition
+      label: Medical Condition
+      hint: Please select all that apply.
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''None''}'
+      - '{''id'': 2, ''name'': ''Allergies''}'
+      - '{''id'': 3, ''name'': ''Chronic Disease''}'
+      - '{''id'': 4, ''name'': ''Medical Condition 1''}'
+      - '{''id'': 5, ''name'': ''Medical Condition 2''}'
+      - '{''id'': 6, ''name'': ''Other''}'
+      required: true
+    - id: 6
+      name: emergency_contact
+      label: Emergency Contact
+      hint: Please provide an emergency contact number.
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Please provide the name of the emergency contact.
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: emergency_contact_relationship
+      label: Relationship
+      hint: Please select the relationship of the emergency contact.
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Parent''}'
+      - '{''id'': 2, ''name'': ''Spouse''}'
+      - '{''id'': 3, ''name'': ''Other''}'
+      required: true

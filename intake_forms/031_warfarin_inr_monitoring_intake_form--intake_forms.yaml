@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Warfarin INR Monitoring Intake Form
+    pages:
+    - id: 1
+      name: form_title
+      label: warfarin_inr_monitoring_intake_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: medical_record_number
+      label: medical_record_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: medical_history
+      label: medical_history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: medications
+      label: medications
+      hint: null
+      type: select_multiple
+      options:
+      - Warfarin
+      - Coumadin
+      - Jantoven
+      - Xarelto
+      - Eliquis
+      required: true
+    - id: 7
+      name: inr_value_last_test
+      label: inr_value_last_test
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: last_test_date
+      label: last_test_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: target_inr_range
+      label: target_inr_range
+      hint: null
+      type: select_one
+      options:
+      - 1.5-2
+      - 2.0-2.5
+      - 2.5-3.0
+      required: true
+    - id: 10
+      name: doctor_phone_number
+      label: doctor_phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: doctor_email
+      label: doctor_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: patient_consent
+      label: patient_consent
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: clinic_phone_number
+      label: clinic_phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: clinic_email
+      label: clinic_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: next_test_date
+      label: next_test_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: follow_up_days
+      label: follow_up_days
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: doctor_name
+      label: doctor_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: clinic_name
+      label: clinic_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: doctor_address
+      label: doctor_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: patient_address
+      label: patient_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: patient_phone_number
+      label: patient_phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: patient_relationship
+      label: patient_relationship
+      hint: null
+      type: select_one
+      options:
+      - Married
+      - Partnered
+      - Single
+      - Other
+      required: true
+    - id: 23
+      name: patient_gender
+      label: patient_gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: true
+    - id: 24
+      name: patient_race
+      label: patient_race
+      hint: null
+      type: select_one
+      options:
+      - White
+      - Black or African American
+      - Asian or Asian American
+      - Native American or Indigenous
+      - Other
+      required: true
+    - id: 25
+      name: warfarin_dose
+      label: warfarin_dose
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,218 @@
+inputSchema:
+  type: object
+  properties:
+    title: Balloon Rider Form
+    pages:
+    - id: 1
+      name: policyholder_full_name
+      label: Policyholder Full Name
+      hint: Name of the insured person
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: policy_number
+      label: Policy Number
+      hint: Your insurance policy number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: policyholder_email
+      label: Email Address
+      hint: For policy communications
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: policyholder_phone
+      label: Phone Number
+      hint: Primary contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: policyholder_address
+      label: Mailing Address
+      hint: Street, city, state, ZIP
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: rider_type
+      label: Type of Rider
+      hint: What coverage are you adding
+      type: select_one
+      options:
+      - Hot Air Balloon Coverage
+      - High-Value Item Rider
+      - Special Event Coverage
+      - Liability Extension
+      - Property Endorsement
+      - Personal Articles Rider
+      required: true
+    - id: 7
+      name: item_description
+      label: Item or Activity Description
+      hint: Describe what needs coverage
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: item_value
+      label: Declared Value
+      hint: Appraised or estimated value in dollars
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: appraisal_attached
+      label: Appraisal Documentation
+      hint: Do you have a professional appraisal
+      type: select_one
+      options:
+      - Yes, attached
+      - Will provide within 30 days
+      - Not required for this item
+      required: false
+    - id: 10
+      name: coverage_amount
+      label: Requested Coverage Amount
+      hint: How much coverage do you need
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: coverage_start_date
+      label: Coverage Start Date
+      hint: When should coverage begin
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: coverage_end_date
+      label: Coverage End Date
+      hint: For temporary riders
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: location_of_item
+      label: Primary Location
+      hint: Where is the item kept or activity takes place
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: security_measures
+      label: Security Measures
+      hint: Protection in place for the item
+      type: select_multiple
+      options:
+      - Home Security System
+      - Safe or Vault
+      - Surveillance Cameras
+      - Alarm System
+      - Gated Community
+      - On-Site Security
+      - None
+      required: false
+    - id: 15
+      name: previous_claims
+      label: Previous Claims
+      hint: Have you filed claims for similar items
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 16
+      name: claims_details
+      label: Claims Details
+      hint: Describe previous claims if any
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: additional_insureds
+      label: Additional Insured Parties
+      hint: Others who should be covered
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: usage_frequency
+      label: Usage Frequency
+      hint: How often is the item used or activity undertaken
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Seasonally
+      - Rarely
+      - One-Time Event
+      required: false
+    - id: 19
+      name: professional_use
+      label: Professional or Commercial Use
+      hint: Is this item used for business
+      type: select_one
+      options:
+      - Yes, primary business use
+      - Yes, occasional business use
+      - No, personal use only
+      required: true
+    - id: 20
+      name: deductible_preference
+      label: Deductible Preference
+      hint: Choose your deductible amount
+      type: select_one
+      options:
+      - $250
+      - $500
+      - $1000
+      - $2500
+      - $5000
+      required: true
+    - id: 21
+      name: premium_payment
+      label: Premium Payment Frequency
+      hint: How will you pay the additional premium
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Semi-Annually
+      - Annually
+      required: true
+    - id: 22
+      name: agent_name
+      label: Insurance Agent Name
+      hint: Your agent's name
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: special_conditions
+      label: Special Conditions or Exclusions
+      hint: Any specific requirements
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: terms_acceptance
+      label: Terms and Conditions Acceptance
+      hint: Do you agree to the policy terms
+      type: select_one
+      options:
+      - Yes, I accept
+      - No, I have questions
+      required: true
+    - id: 25
+      name: signature_date
+      label: Signature Date
+      hint: Date of this application
+      type: date
+      options: []
+      required: true

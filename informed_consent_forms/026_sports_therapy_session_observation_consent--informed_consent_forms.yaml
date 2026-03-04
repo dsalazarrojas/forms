@@ -1,0 +1,142 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sports Therapy Session Observation Consent
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_email
+      label: Participant Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: purpose_of_observation
+      label: Purpose of Observation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: participant_phone
+      label: Participant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: observation_purpose
+      label: Observation Purpose
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: signature_participant
+      label: Signature Participant
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: signature_therapist
+      label: Signature Therapist
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date_of_observation
+      label: Date of Observation
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time_of_observation
+      label: Time of Observation
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: observation_location
+      label: Observation Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: participant_notes
+      label: Participant Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: observation_notes
+      label: Observation Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: participant_agreement
+      label: Participant Agreement
+      hint: null
+      type: select_multiple
+      options:
+      - I understand that I will be observed
+      - I will not share the observation data with anyone
+      - I will not use the observation data for any purpose other than for my own
+        use
+      required: false
+    - id: 14
+      name: agreement_signed_by
+      label: Agreement Signed By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: date_signed
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: time_signed
+      label: Time Signed
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: participant_signature
+      label: Participant Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: therapist_signature
+      label: Therapist Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: participant_signature_image
+      label: Participant Signature Image
+      hint: null
+      type: text
+      options: []
+      required: false

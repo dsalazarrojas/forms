@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Kitchen Operations Checklist
+    pages:
+    - id: 1
+      name: kitchen_operations_checklist
+      label: Kitchen Operations Checklist
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: kitchen_staff
+      label: Kitchen Staff
+      hint: null
+      type: select_multiple
+      options:
+      - Head Chef
+      - Kitchen Manager
+      - Line Cook
+      required: false
+    - id: 3
+      name: all_tools_available
+      label: All Tools Available
+      hint: null
+      type: select_multiple
+      options:
+      - All tools are available
+      - Some tools are not available
+      - Tools not known
+      required: true
+    - id: 4
+      name: equipment_cleaned
+      label: Equipment Cleaned
+      hint: null
+      type: select_one
+      options:
+      - Cleaned
+      - Not Cleaned
+      - Unknown
+      required: true
+    - id: 5
+      name: kitchen_closed
+      label: Kitchen Closed
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: kitchen_opened
+      label: Kitchen Opened
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: kitchen_closed_time
+      label: Kitchen Closed Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: kitchen_opened_time
+      label: Kitchen Opened Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: tools_damaged
+      label: Tools Damaged
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: tools_malfunctioning
+      label: Tools Malfunctioning
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

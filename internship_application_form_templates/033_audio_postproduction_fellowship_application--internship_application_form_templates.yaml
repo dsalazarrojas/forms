@@ -1,0 +1,142 @@
+inputSchema:
+  type: object
+  properties:
+    title: Audio Postproduction Fellowship Application
+    pages:
+    - id: 1
+      name: section_personal
+      label: -- Applicant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: educational_background
+      label: University or Academic Affiliation
+      hint: Current or most recent institution
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: graduation_year
+      label: Year of Graduation
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: contact_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: contact_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_technical
+      label: -- Technical Proficiency --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: software_skills
+      label: Primary Software Proficiency
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Pro Tools (Standard)
+      - Pro Tools (Ultimate/HD)
+      - Izotope RX
+      - DaVinci Resolve (Fairlight)
+      - Adobe Audition
+      - Ableton Live
+      - Nuendo/Cubase
+      required: true
+    - id: 9
+      name: plugins_experience
+      label: Familiarity with Plugin Suites
+      hint: e.g., Waves, FabFilter, Soundtoys
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: sound_design_exp
+      label: Experience with Sound Design and Foley
+      hint: null
+      type: select_one
+      options:
+      - Advanced - Published work
+      - Intermediate - Student projects
+      - Beginner - Theoretical knowledge
+      - No experience
+      required: true
+    - id: 11
+      name: section_portfolio
+      label: -- Portfolio and Motivation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: portfolio_link
+      label: Link to Portfolio or Showreel
+      hint: URL to website, Vimeo, or LinkedIn
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: motivation_letter
+      label: Why do you want this fellowship?
+      hint: Briefly describe your goals and interest in audio post-production
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: internship_availability
+      label: Weekly Availability
+      hint: null
+      type: select_one
+      options:
+      - Full-time (40 hours/week)
+      - Part-time (20 hours/week)
+      - Weekend/Evening only
+      required: true
+    - id: 15
+      name: specialization_preference
+      label: Preferred Area of Specialization
+      hint: null
+      type: select_one
+      options:
+      - Dialogue and ADR Editing
+      - Sound Effects and Sound Design
+      - Mixing and Mastering
+      - Technical/Machine Room Operations
+      required: true
+    - id: 16
+      name: reference_name
+      label: Academic or Professional Reference Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: reference_contact
+      label: Reference Contact Information (Email/Phone)
+      hint: null
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Department Condition Assessment
+    pages:
+    - id: 1
+      name: department_location
+      label: department_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: condition_assessment
+      label: condition_assessment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: facilities_equipment
+      label: facilities_equipment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: operations
+      label: operations
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: department_leads
+      label: department_leads
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: date_of_inspection
+      label: date_of_inspection
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: time_of_inspection
+      label: time_of_inspection
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: comments_and_notes
+      label: comments_and_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submission_comments
+      label: submission_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submitter
+      label: submitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: reviewer
+      label: reviewer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: date_reviewed
+      label: date_reviewed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: time_reviewed
+      label: time_reviewed
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: comments_reviewed
+      label: comments_reviewed
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: reviewer_comments
+      label: reviewer_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: review_status
+      label: review_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 19
+      name: submitter_comments
+      label: submitter_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: submission_status
+      label: submission_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 21
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: reviewer_id
+      label: reviewer_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: reviewer_name
+      label: reviewer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: department
+      label: department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false

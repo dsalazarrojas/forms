@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tech Installation Liability Waiver
+    pages:
+    - id: 1
+      name: customer_consent
+      label: Customer Consent
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: installation_details
+      label: Installation Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 4
+      name: installation_date
+      label: Installation Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: technician_name
+      label: Technician Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: technician_signature
+      label: Technician Signature
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: customer_signature
+      label: Customer Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: technician_phone
+      label: Technician Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: customer_address
+      label: Customer Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: technician_address
+      label: Technician Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: technician_license
+      label: Technician License
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: technician_experience
+      label: Technician Experience
+      hint: null
+      type: select_one
+      options:
+      - Less than 6 months
+      - 6-12 months
+      - 1-2 years
+      - 2-5 years
+      - More than 5 years
+      required: true
+    - id: 16
+      name: installation_location
+      label: Installation Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: technician_agree_terms
+      label: Agree to Terms
+      hint: null
+      type: select_one
+      options:
+      - I have read and agree to the terms of this waiver.
+      - I have read the waiver but do not agree to the terms.
+      required: true
+    - id: 19
+      name: customer_agree_terms
+      label: Customer Agree to Terms
+      hint: null
+      type: select_one
+      options:
+      - I have read and agree to the terms of this waiver.
+      - I have read the waiver but do not agree to the terms.
+      required: true
+    - id: 20
+      name: customer_experience
+      label: Customer Experience
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: signature_date
+      label: Signature Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: technician_experience_date
+      label: Technician Experience Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: technician_agreement
+      label: Technician Agreement
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 24
+      name: customer_signature_2
+      label: Customer Signature 2
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 25
+      name: agreement
+      label: Agreement
+      hint: null
+      type: text
+      options: []
+      required: false

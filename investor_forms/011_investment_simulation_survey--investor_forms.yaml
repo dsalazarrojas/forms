@@ -1,0 +1,242 @@
+inputSchema:
+  type: object
+  properties:
+    title: Investment Simulation Survey
+    pages:
+    - id: 1
+      name: participant_name
+      label: First Name
+      hint: Your first name please
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: participant_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: age
+      label: Age
+      hint: Please enter your age
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: investment_experience
+      label: Investment Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: risk_tolerance
+      label: Investment risk tolerance
+      hint: On a scale from 1-10 how much risk are you willing to take?
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: investment_goals
+      label: Investment goals
+      hint: What are your investment goals?
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: participant_gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Female
+      - Male
+      - Non-binary
+      - Other
+      required: false
+    - id: 9
+      name: participant_occupation
+      label: Occupation
+      hint: null
+      type: select_one
+      options:
+      - Student
+      - Teacher
+      - Manager
+      - Engineer
+      - Other
+      required: false
+    - id: 10
+      name: participant_investments
+      label: Investments
+      hint: null
+      type: select_multiple
+      options:
+      - Stocks
+      - Bonds
+      - Mutual Funds
+      - Real Estate
+      - Cryptocurrency
+      required: false
+    - id: 11
+      name: participant_assets
+      label: Assets under management
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: participant_net_worth
+      label: Net Worth
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: participant_education
+      label: Highest Education
+      hint: null
+      type: select_one
+      options:
+      - High school or equivalent
+      - Some college
+      - Bachelor's degree
+      - Master's degree
+      - Doctorate or higher
+      required: false
+    - id: 14
+      name: participant_income
+      label: Annual Income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: participant_marital_status
+      label: Marital Status
+      hint: Single / Married / Widowed / Divorced
+      type: select_one
+      options:
+      - Single
+      - Married
+      - Widowed
+      - Divorced
+      required: false
+    - id: 16
+      name: participant_country_of_residence
+      label: Country of residence
+      hint: Where do you live?
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: participant_language
+      label: Native Language
+      hint: What is your native language?
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - French
+      - Mandarin
+      - Other
+      required: false
+    - id: 18
+      name: participant_how_long_investing
+      label: How long have you been investing?
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-5 years
+      - 5-10 years
+      - 10-20 years
+      - More than 20 years
+      required: false
+    - id: 19
+      name: participant_investing_frequency
+      label: How often do you invest?
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Rarely
+      - Occasionally
+      - Regularly
+      - Daily
+      required: false
+    - id: 20
+      name: participant_investing_influenced_by
+      label: What influences your investment decisions?
+      hint: null
+      type: select_multiple
+      options:
+      - Family
+      - Friends
+      - News
+      - Online
+      - Financial advisors
+      required: false
+    - id: 21
+      name: participant_reasons_for_investing
+      label: What are your reasons for investing?
+      hint: null
+      type: select_multiple
+      options:
+      - Goals
+      - Return
+      - Growth
+      - Inflation
+      - Other
+      required: false
+    - id: 22
+      name: participant_expectations
+      label: What do you expect from your investments?
+      hint: null
+      type: select_multiple
+      options:
+      - Return
+      - Growth
+      - Income
+      - Liquidity
+      - Other
+      required: false
+    - id: 23
+      name: participant_investment_preferences
+      label: What are your investment preferences?
+      hint: null
+      type: select_multiple
+      options:
+      - High risk
+      - Low risk
+      - Medium risk
+      - Conservative
+      - Aggressive
+      required: false
+    - id: 24
+      name: participant_investment_experience
+      label: How would you rate your investment experience?
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Expert
+      required: false
+    - id: 25
+      name: participant_comments
+      label: Any comments?
+      hint: null
+      type: note
+      options: []
+      required: false

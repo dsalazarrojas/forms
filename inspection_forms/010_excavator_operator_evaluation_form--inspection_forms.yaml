@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Excavator Operator Evaluation Form
+    pages:
+    - id: 1
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: supervisor_name
+      label: Supervisor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: supervisor_email
+      label: Supervisor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: supervisor_phone
+      label: Supervisor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: excavator_model
+      label: Excavator Model
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: operating_hours
+      label: Operating Hours
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: operating_hours_unit
+      label: Operating Hours Unit
+      hint: null
+      type: select_one
+      options:
+      - hours
+      - days
+      - weeks
+      required: true
+    - id: 9
+      name: operating_hours_total
+      label: Operating Hours Total
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: inspection_time
+      label: Inspection Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: observations
+      label: Observations
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: action_items
+      label: Action Items
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: completed
+      label: Completed
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

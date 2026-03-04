@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: resource_navigation_guide
+    pages:
+    - id: 1
+      name: resource_navigation_guide_page_1
+      label: form_title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: program_name
+      label: program_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_details
+      label: contact_details
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: service_needed
+      label: service_needed
+      hint: null
+      type: select_one
+      options:
+      - Service 1
+      - Service 2
+      - Service 3
+      - Service 4
+      - Service 5
+      - Service 6
+      required: true
+    - id: 5
+      name: date_prophets_date
+      label: date_prophets_date
+      hint: mm/dd/yyyy
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: service_needed_other
+      label: service_needed_other
+      hint: other service needed
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: prophets_date_2
+      label: prophets_date_2
+      hint: mm/dd/yyyy
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: contact_phone_2
+      label: contact_phone_2
+      hint: null
+      type: text
+      options: []
+      required: false

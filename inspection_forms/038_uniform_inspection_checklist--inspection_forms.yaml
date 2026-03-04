@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Uniform Inspection Checklist
+    pages:
+    - id: 1
+      name: wear_uniform
+      label: Is the uniform in good condition
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: proper_fit
+      label: Proper fit
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: wear_insignia
+      label: Is insignia properly in order?
+      hint: null
+      type: select_multiple
+      options:
+      - Army
+      - Marine Corps
+      - Air Force
+      required: true
+    - id: 4
+      name: wear_ribbon
+      label: Is the ribbon properly in order?
+      hint: null
+      type: select_multiple
+      options:
+      - Center
+      - Left
+      - Right
+      required: true
+    - id: 5
+      name: inspection_area
+      label: Inspection area
+      hint: null
+      type: select_one
+      options:
+      - Front
+      - Back
+      - Sleeve
+      - Collar
+      - Insignia
+      required: true
+    - id: 6
+      name: wear_patch
+      label: Is the patch properly in order?
+      hint: null
+      type: select_multiple
+      options:
+      - Front
+      - Center
+      - Rear
+      required: true
+    - id: 7
+      name: wear_belt
+      label: Is the belt properly in order?
+      hint: null
+      type: select_multiple
+      options:
+      - Front
+      - Center
+      - Back
+      required: true
+    - id: 8
+      name: inspection_score
+      label: Inspection score
+      hint: 1-5
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: inspector_name
+      label: Inspector Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: inspector_rank
+      label: Inspector Rank
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: inspector_id
+      label: Inspector ID
+      hint: null
+      type: text
+      options: []
+      required: false

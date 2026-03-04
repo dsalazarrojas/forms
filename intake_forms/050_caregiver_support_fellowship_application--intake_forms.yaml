@@ -1,0 +1,264 @@
+inputSchema:
+  type: object
+  properties:
+    title: Caregiver Support Fellowship Application
+    pages:
+    - id: 1
+      name: applicant_name
+      label: Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Include area code
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: state_province
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: postal_code
+      label: Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: fellowship_type
+      label: Fellowship Program Type
+      hint: Which program are you applying for?
+      type: select_one
+      options:
+      - Caregiver Support and Training
+      - Mental Health and Wellness
+      - Leadership Development
+      - Community Advocacy
+      - Professional Development
+      - Specialized Care Training
+      required: true
+    - id: 10
+      name: application_date
+      label: Application Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: caregiving_experience
+      label: Years of Caregiving Experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: care_recipient_relationship
+      label: Relationship to Care Recipient
+      hint: Who are you caring for?
+      type: select_one
+      options:
+      - Spouse or partner
+      - Adult child
+      - Parent
+      - Sibling
+      - Grandparent
+      - Grandchild
+      - Other family
+      - Professional caregiver
+      - Multiple relationships
+      required: true
+    - id: 13
+      name: caregiving_type
+      label: Type of Care Provided
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Personal hygiene and grooming
+      - Mobility and transfer assistance
+      - Medication management
+      - Medical care or nursing
+      - Meal preparation
+      - Financial management
+      - Emotional or psychological support
+      - Dementia or cognitive care
+      - Palliative or end-of-life care
+      - Multiple types of care
+      required: true
+    - id: 14
+      name: caregiving_intensity
+      label: Caregiving Intensity or Hours Per Week
+      hint: How many hours per week?
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: current_challenges
+      label: Current Challenges or Struggles
+      hint: What are you struggling with?
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: fellowship_motivation
+      label: Why Are You Applying for Fellowship?
+      hint: What do you hope to gain?
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: learning_goals
+      label: Learning Goals and Objectives
+      hint: What do you want to learn?
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: support_need
+      label: Type of Support You Need Most
+      hint: Select your top 3 priorities
+      type: select_multiple
+      options:
+      - Mental health or emotional support
+      - Stress management and wellness
+      - Caregiving skills training
+      - Financial planning or assistance
+      - Legal and estate planning
+      - Healthcare navigation
+      - Respite care options
+      - Peer support and community
+      - Professional development
+      - Leadership training
+      required: true
+    - id: 19
+      name: education_background
+      label: Highest Level of Education
+      hint: null
+      type: select_one
+      options:
+      - High school or equivalent
+      - Some college
+      - Associate degree
+      - Bachelor's degree
+      - Master's degree
+      - Professional degree
+      - Other training
+      required: true
+    - id: 20
+      name: professional_background
+      label: Professional or Work Background
+      hint: Relevant career or work experience
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: community_involvement
+      label: Community or Volunteer Involvement
+      hint: Experience in community service
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: leadership_experience
+      label: Leadership or Advocacy Experience
+      hint: Any leadership roles or advocacy work?
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: commitment_level
+      label: Commitment to Fellowship Program
+      hint: How committed are you?
+      type: select_one
+      options:
+      - Fully committed - will prioritize
+      - Very committed - high priority
+      - Committed - medium priority
+      - Interested - flexible commitment
+      - Exploring - may change plans
+      required: true
+    - id: 24
+      name: time_availability
+      label: Time Available for Fellowship Activities
+      hint: Hours per week for program participation
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: references
+      label: Professional or Personal References
+      hint: Names and contact info of 2 references
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: additional_qualifications
+      label: Additional Qualifications or Skills
+      hint: Relevant certifications or special skills
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: personal_statement
+      label: Personal Statement
+      hint: Tell us about yourself and your vision
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: success_definition
+      label: How Will You Define Success?
+      hint: What would make fellowship valuable?
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: terms_agreement
+      label: I Agree to Fellowship Terms and Conditions
+      hint: Required to submit application
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, I do not agree
+      required: true
+    - id: 30
+      name: additional_information
+      label: Additional Information or Comments
+      hint: Anything else we should know?
+      type: text
+      options: []
+      required: false

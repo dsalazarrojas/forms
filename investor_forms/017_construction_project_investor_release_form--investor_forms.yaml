@@ -1,0 +1,54 @@
+inputSchema:
+  type: object
+  properties:
+    title: Construction Project Investor Release Form
+    pages:
+    - id: 1
+      name: section_investor_information
+      label: -- Investor Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: investor_name
+      label: Investor name
+      hint: Individual or entity name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: investment_reference
+      label: Investment reference or project
+      hint: Project identifier or name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: release_date
+      label: Release date
+      hint: Date of this release or approval
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: release_terms
+      label: Release terms summary
+      hint: Brief summary of release conditions
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: amount_released
+      label: Amount released
+      hint: Monetary amount being released
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: approval_signature
+      label: Approver signature name
+      hint: Typed name serves as signature
+      type: text
+      options: []
+      required: true

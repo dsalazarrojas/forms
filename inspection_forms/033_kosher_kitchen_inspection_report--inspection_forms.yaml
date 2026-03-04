@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Kosher Kitchen Inspection Report
+    pages:
+    - id: 1
+      name: kitchen_location
+      label: Kitchen Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: inspector_name
+      label: Inspector Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: kitchen_id
+      label: Kitchen ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: kosher_observation
+      label: Kosher Observations
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Observed Issue'', ''value'': ''Observed Issue''}'
+      - '{''label'': ''Corrective Action'', ''value'': ''Corrective Action''}'
+      - '{''label'': ''Pass'', ''value'': ''Pass''}'
+      required: false
+    - id: 6
+      name: non_kosher_items
+      label: Non-Kosher Items
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: cleanliness_outcome
+      label: Cleanliness Outcome
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Pass'', ''value'': ''Pass''}'
+      - '{''label'': ''Fail'', ''value'': ''Fail''}'
+      - '{''label'': ''Not Applicable'', ''value'': ''Not Applicable''}'
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: kosher_standards
+      label: Kosher Standards
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: kosher_equipment
+      label: Kosher Equipment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: kosher_labeling
+      label: Kosher Labeling
+      hint: null
+      type: text
+      options: []
+      required: false

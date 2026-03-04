@@ -1,0 +1,171 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stem Cell Inquiry Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Enter your phone number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: inquiry_type
+      label: Inquiry Type
+      hint: null
+      type: select_multiple
+      options:
+      - Public Inquiry
+      - Patient Inquiry
+      - Staff Inquiry
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date Of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: stem_cell_type
+      label: Stem Cell Type
+      hint: null
+      type: select_one
+      options:
+      - Cord Blood
+      - Peripheral Blood
+      - Adipose Tissue
+      - Placenta
+      - UMB
+      required: true
+    - id: 7
+      name: stem_cell_therapist_name
+      label: Stem Cell Therapist Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: stem_cell_therapist_phone_number
+      label: Stem Cell Therapist Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: patient_id
+      label: Patient Id
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: public_inquiry
+      label: Public Inquiry
+      hint: null
+      type: select_multiple
+      options:
+      - Public Inquiry
+      - Staff Inquiry
+      - Patient Inquiry
+      required: true
+    - id: 12
+      name: stem_cell_institute_name
+      label: Stem Cell Institute Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: stem_cell_inquiry_form_submitted_by
+      label: Stem Cell Inquiry Form Submitter
+      hint: null
+      type: select_one
+      options:
+      - Patient
+      - Public
+      - Staff
+      required: false
+    - id: 16
+      name: stem_cell_inquiry_form_submitted_on
+      label: Stem Cell Inquiry Form Submitter On
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: stem_cell_inquiry_form_submitted_by_email
+      label: Stem Cell Inquiry Form Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: stem_cell_inquiry_form_submitted_by_phone
+      label: Stem Cell Inquiry Form Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: stem_cell_inquiry_form_submitted_by_department
+      label: Stem Cell Inquiry Form Submitter Department
+      hint: null
+      type: select_multiple
+      options:
+      - Public Inquiry
+      - Patient Services
+      - Research
+      - Marketing
+      - Administration
+      required: false
+    - id: 20
+      name: stem_cell_inquiry_form_submitted_by_job_title
+      label: Stem Cell Inquiry Form Submitter Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: stem_cell_inquiry_form_submitted_by_id
+      label: Stem Cell Inquiry Form Submitter Id
+      hint: null
+      type: text
+      options: []
+      required: false

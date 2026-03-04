@@ -1,0 +1,347 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Cleaning Checklist Form
+    pages:
+      - id: 1
+        name: property_name
+        label: Property Name or Address
+        hint: Location where cleaning is taking place
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: property_type
+        label: Property Type
+        hint: Type of property being cleaned
+        type: select_one
+        options:
+          - Residential Home
+          - Apartment or Condo
+          - Office Building
+          - Retail Store
+          - Restaurant
+          - Medical Facility
+          - School or Educational Facility
+          - Warehouse
+          - Other Commercial
+        required: true
+      - id: 3
+        name: cleaning_date
+        label: Cleaning Date
+        hint: Date of cleaning service
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: cleaner_name
+        label: Cleaner Name
+        hint: Name of the cleaner or team member
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: cleaning_type
+        label: Cleaning Type
+        hint: Type of cleaning service
+        type: select_one
+        options:
+          - Regular Cleaning
+          - Deep Cleaning
+          - Move-In or Move-Out
+          - Post-Construction
+          - Spring Cleaning
+          - Emergency Cleaning
+          - Other
+        required: true
+      - id: 6
+        name: section_header_living_areas
+        label: -- Living Areas --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: living_room_dusted
+        label: Living Room - Dust All Surfaces
+        hint: Check when completed
+        type: select_one
+        options:
+          - Completed
+          - Not Applicable
+          - Needs Attention
+        required: true
+      - id: 8
+        name: living_room_vacuumed
+        label: Living Room - Vacuum or Sweep Floors
+        hint: Check when completed
+        type: select_one
+        options:
+          - Completed
+          - Not Applicable
+          - Needs Attention
+        required: true
+      - id: 9
+        name: bedrooms_dusted
+        label: Bedrooms - Dust All Surfaces
+        hint: Check when completed
+        type: select_one
+        options:
+          - Completed
+          - Not Applicable
+          - Needs Attention
+        required: true
+      - id: 10
+        name: bedrooms_vacuumed
+        label: Bedrooms - Vacuum or Sweep Floors
+        hint: Check when completed
+        type: select_one
+        options:
+          - Completed
+          - Not Applicable
+          - Needs Attention
+        required: true
+      - id: 11
+        name: bedrooms_beds_made
+        label: Bedrooms - Make Beds
+        hint: Check when completed
+        type: select_one
+        options:
+          - Completed
+          - Not Applicable
+          - Needs Attention
+        required: true
+      - id: 12
+        name: section_header_kitchen
+        label: -- Kitchen --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 13
+        name: kitchen_counters_cleaned
+        label: Kitchen - Clean and Disinfect Counters
+        hint: Check when completed
+        type: select_one
+        options:
+          - Completed
+          - Not Applicable
+          - Needs Attention
+        required: true
+      - id: 14
+        name: kitchen_appliances_cleaned
+        label: Kitchen - Clean Appliances (Exterior)
+        hint: Check when completed
+        type: select_one
+        options:
+          - Completed
+          - Not Applicable
+          - Needs Attention
+        required: true
+      - id: 15
+        name: kitchen_sink_cleaned
+        label: Kitchen - Clean and Sanitize Sink
+        hint: Check when completed
+        type: select_one
+        options:
+          - Completed
+          - Not Applicable
+          - Needs Attention
+        required: true
+      - id: 16
+        name: kitchen_floors_cleaned
+        label: Kitchen - Sweep and Mop Floors
+        hint: Check when completed
+        type: select_one
+        options:
+          - Completed
+          - Not Applicable
+          - Needs Attention
+        required: true
+      - id: 17
+        name: kitchen_cabinets_wiped
+        label: Kitchen - Wipe Cabinet Fronts
+        hint: Check when completed
+        type: select_one
+        options:
+          - Completed
+          - Not Applicable
+          - Needs Attention
+        required: true
+      - id: 18
+        name: section_header_bathrooms
+        label: -- Bathrooms --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 19
+        name: bathroom_toilet_cleaned
+        label: Bathroom - Clean and Disinfect Toilet
+        hint: Check when completed
+        type: select_one
+        options:
+          - Completed
+          - Not Applicable
+          - Needs Attention
+        required: true
+      - id: 20
+        name: bathroom_shower_cleaned
+        label: Bathroom - Clean Shower or Tub
+        hint: Check when completed
+        type: select_one
+        options:
+          - Completed
+          - Not Applicable
+          - Needs Attention
+        required: true
+      - id: 21
+        name: bathroom_sink_cleaned
+        label: Bathroom - Clean and Polish Sink
+        hint: Check when completed
+        type: select_one
+        options:
+          - Completed
+          - Not Applicable
+          - Needs Attention
+        required: true
+      - id: 22
+        name: bathroom_mirror_cleaned
+        label: Bathroom - Clean Mirrors
+        hint: Check when completed
+        type: select_one
+        options:
+          - Completed
+          - Not Applicable
+          - Needs Attention
+        required: true
+      - id: 23
+        name: bathroom_floors_cleaned
+        label: Bathroom - Sweep and Mop Floors
+        hint: Check when completed
+        type: select_one
+        options:
+          - Completed
+          - Not Applicable
+          - Needs Attention
+        required: true
+      - id: 24
+        name: section_header_general
+        label: -- General Tasks --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 25
+        name: windows_cleaned
+        label: Windows - Clean Interior Glass
+        hint: Check when completed
+        type: select_one
+        options:
+          - Completed
+          - Not Applicable
+          - Needs Attention
+        required: true
+      - id: 26
+        name: baseboards_cleaned
+        label: Baseboards - Dust and Wipe
+        hint: Check when completed
+        type: select_one
+        options:
+          - Completed
+          - Not Applicable
+          - Needs Attention
+        required: true
+      - id: 27
+        name: light_switches_cleaned
+        label: Light Switches and Door Handles - Disinfect
+        hint: Check when completed
+        type: select_one
+        options:
+          - Completed
+          - Not Applicable
+          - Needs Attention
+        required: true
+      - id: 28
+        name: trash_removed
+        label: Trash - Empty All Bins and Replace Liners
+        hint: Check when completed
+        type: select_one
+        options:
+          - Completed
+          - Not Applicable
+          - Needs Attention
+        required: true
+      - id: 29
+        name: floors_vacuumed
+        label: All Floors - Vacuum Carpets
+        hint: Check when completed
+        type: select_one
+        options:
+          - Completed
+          - Not Applicable
+          - Needs Attention
+        required: true
+      - id: 30
+        name: floors_mopped
+        label: All Hard Floors - Sweep and Mop
+        hint: Check when completed
+        type: select_one
+        options:
+          - Completed
+          - Not Applicable
+          - Needs Attention
+        required: true
+      - id: 31
+        name: additional_tasks
+        label: Additional Tasks Completed
+        hint: List any extra tasks performed
+        type: text
+        options: []
+        required: false
+      - id: 32
+        name: issues_noted
+        label: Issues or Damage Noted
+        hint: Report any pre-existing damage or concerns
+        type: text
+        options: []
+        required: false
+      - id: 33
+        name: supplies_needed
+        label: Supplies Running Low or Needed
+        hint: List any supplies that need restocking
+        type: text
+        options: []
+        required: false
+      - id: 34
+        name: cleaning_start_time
+        label: Cleaning Start Time
+        hint: Time cleaning began
+        type: time
+        options: []
+        required: true
+      - id: 35
+        name: cleaning_end_time
+        label: Cleaning End Time
+        hint: Time cleaning completed
+        type: time
+        options: []
+        required: true
+      - id: 36
+        name: supervisor_signature
+        label: Supervisor Signature (Type Full Name)
+        hint: Supervisor approval
+        type: text
+        options: []
+        required: false

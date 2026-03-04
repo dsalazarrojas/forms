@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Project Management Interview Schedule
+    pages:
+    - id: 1
+      name: interview_date
+      label: Interview Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: interview_time
+      label: Interview Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: project_leader
+      label: Project Leader
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: team_members
+      label: Team Members
+      hint: List the project team members that will be attending
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: candidate_details
+      label: Candidate Details
+      hint: Candidate's name and contact information
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: interview_duration
+      label: Interview Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: interview_location
+      label: Interview Location
+      hint: Provide the exact location for the interview
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: interviewers
+      label: Interviewers
+      hint: List the names of the interviewers
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: scheduling_preferences
+      label: Scheduling Preferences
+      hint: null
+      type: select_one
+      options:
+      - In-person
+      - Virtual
+      - Phone
+      required: false
+    - id: 10
+      name: confirmed
+      label: Confirmed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: notes
+      label: Notes
+      hint: Additional comments for the interviewer
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: confirmation_date
+      label: Confirmation Date
+      hint: Date the confirmation was sent
+      type: date
+      options: []
+      required: false

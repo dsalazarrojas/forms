@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: Critical Illness Claim Form
+    pages:
+    - id: 1
+      name: critical_illness_claim_form
+      label: Critical Illness Claim Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: provider
+      label: Provider
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: condition_description
+      label: Condition Description
+      hint: Provide a clear and detailed description of your condition.
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: policy_holder
+      label: Policy Holder
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: illness_date
+      label: Illness Date
+      hint: Date of illness onset
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: insurance_provider
+      label: Insurance Provider
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Insurance Company A''}'
+      - '{''name'': ''Insurance Company B''}'
+      - '{''name'': ''Insurance Company C''}'
+      required: true
+    - id: 8
+      name: supporting_documents
+      label: Supporting Documents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: insurance_agreement
+      label: Insurance Agreement
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': True}'
+      - '{''name'': False}'
+      required: true
+    - id: 11
+      name: policy_agreement
+      label: Policy Agreement
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': True}'
+      - '{''name'': False}'
+      required: true
+    - id: 12
+      name: other_providers
+      label: Other Providers
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: other_providers_list
+      label: Other Providers List
+      hint: List the other providers you have seen
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: claimant_contact_info
+      label: Claimant Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: claimant_contact_info_number
+      label: Claimant Contact Info Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: claimant_email
+      label: Claimant Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: claimant_address
+      label: Claimant Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: claimant_city
+      label: Claimant City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: claimant_state
+      label: Claimant State
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''California''}'
+      - '{''name'': ''New York''}'
+      - '{''name'': ''Texas''}'
+      required: true
+    - id: 20
+      name: claimant_postal_code
+      label: Claimant Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: claimant_country
+      label: Claimant Country
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''United States''}'
+      - '{''name'': ''Canada''}'
+      - '{''name'': ''Mexico''}'
+      required: true
+    - id: 22
+      name: policyholder_signature
+      label: Policyholder Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 23
+      name: claimant_signature
+      label: Claimant Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 24
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false

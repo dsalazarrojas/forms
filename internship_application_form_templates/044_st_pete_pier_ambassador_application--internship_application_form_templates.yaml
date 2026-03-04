@@ -1,0 +1,217 @@
+inputSchema:
+  type: object
+  properties:
+    title: st_pete_pier_ambassador_application
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: email_confirmation
+      label: Confirm Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: phone_confirmation
+      label: Confirm Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: date_of_birth_confirmation
+      label: Confirm Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: age_confirmation
+      label: Confirm Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: zip
+      label: Zip
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: zip_confirmation
+      label: Confirm Zip
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: select_purpose
+      label: What is your purpose for visiting the pier?
+      hint: null
+      type: select_one
+      options:
+      - I want to learn about the pier and city history
+      - I am a local and I love the pier
+      - Other (Please specify)
+      required: true
+    - id: 14
+      name: select_purpose_other
+      label: Other (Please specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: select_interests
+      label: What are you most interested in while visiting the pier?
+      hint: null
+      type: select_multiple
+      options:
+      - Art and Culture
+      - Food and Drink
+      - History and Architecture
+      - Nature and Outdoors
+      - Other (Please specify)
+      - Sports and Recreation
+      - STEM and Learning
+      - Theatre and Live Music
+      required: true
+    - id: 16
+      name: select_interests_other
+      label: Other (Please specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: upload_documents
+      label: Have you uploaded your documents?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 18
+      name: upload_documents_other
+      label: Other (Please specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: note
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: email_verification
+      label: Verify Email
+      hint: null
+      type: select_one
+      options:
+      - Verify
+      - Not verify
+      required: false
+    - id: 21
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 23
+      name: select_day
+      label: Day
+      hint: null
+      type: select_one
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      - Other (Please specify)
+      required: true
+    - id: 24
+      name: select_day_other
+      label: Other (Please specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: select_week
+      label: Week
+      hint: null
+      type: select_multiple
+      options:
+      - 8:00-10:00 AM
+      - 10:00-12:00 PM
+      - 12:00-2:00 PM
+      - 2:00-4:00 PM
+      - 4:00-6:00 PM
+      - 6:00-8:00 PM
+      - Other (Please specify)
+      required: true
+    - id: 26
+      name: select_week_other
+      label: Other (Please specify)
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: post-session survey
+    pages:
+    - id: 1
+      name: survey_questions
+      label: What do you like about this seminar?
+      hint: Tell us about it.
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: survey_questions
+      label: What do you dislike about this seminar?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: survey_answers
+      label: How likely are you to recommend this seminar?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: survey_answers
+      label: How likely are you to take another seminar from this speaker?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: session_length
+      label: Session length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: session_prophets
+      label: What were the most memorable moments from this seminar?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: session_prophets
+      label: What were the most memorable moments from this seminar?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: session_prophets
+      label: What were the most memorable moments from this seminar?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: session_prophets
+      label: What were the most memorable moments from this seminar?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: session_prophets
+      label: Do you have any other comments or feedback about this seminar?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: session_prophets
+      label: How likely are you to recommend this seminar?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: session_prophets
+      label: Do you have any other comments or feedback about this seminar?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: session_prophets
+      label: Do you have any other feedback about this seminar?
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Phone Plan Inquiry Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: preferred_plan
+      label: preferred_plan
+      hint: null
+      type: select_one
+      options:
+      - Verizon
+      - AT&T
+      - T-Mobile
+      - Sprint
+      - Cricket
+      required: true
+    - id: 4
+      name: email_address
+      label: email_address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_plan_details
+      label: phone_plan_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: preferred_language
+      label: preferred_language
+      hint: null
+      type: select_one
+      options:
+      - English
+      - Español
+      - Français
+      required: false
+    - id: 8
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

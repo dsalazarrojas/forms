@@ -1,0 +1,79 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Expansion Joints Inspection Checklist
+    pages:
+    - id: 1
+      name: joint_location
+      label: joint_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: joint_description
+      label: joint_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: joint_condition
+      label: joint_condition
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''good'', ''label'': ''Good''}'
+      - '{''value'': ''fair'', ''label'': ''Fair''}'
+      - '{''value'': ''bad'', ''label'': ''Bad''}'
+      required: false
+    - id: 4
+      name: photo_taken
+      label: photo_taken
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': True, ''label'': True}'
+      - '{''value'': False, ''label'': False}'
+      required: false
+    - id: 5
+      name: photo_description
+      label: photo_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: recommended_action
+      label: recommended_action
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: action_taken
+      label: action_taken
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True, ''label'': True}'
+      - '{''value'': False, ''label'': False}'
+      required: false
+    - id: 8
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false

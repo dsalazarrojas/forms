@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Experiment Consent Form
+    pages:
+    - id: 1
+      name: subject_information
+      label: Subject Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: experimental_design
+      label: Experimental Design
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: study_informant
+      label: Study Informant
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: select_one
+      options:
+      - Mr
+      - Mrs
+      - Ms
+      - Dr
+      required: false
+    - id: 5
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: consent_date
+      label: Consent Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: contact_address
+      label: Contact Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false

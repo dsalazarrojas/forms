@@ -1,0 +1,347 @@
+inputSchema:
+  type: object
+  properties:
+    title: Car Seat Donation Intake Form
+    pages:
+    - id: 1
+      name: donor_information
+      label: Donor Information
+      hint: Your contact details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: For donation communications
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: address
+      label: Street Address
+      hint: Your address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city
+      label: City
+      hint: Your city
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: state
+      label: State
+      hint: Your state
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: zip_code
+      label: ZIP Code
+      hint: Your ZIP code
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: donation_details
+      label: Donation Details
+      hint: Information about the car seat
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: donation_date
+      label: Donation Date
+      hint: When are you donating?
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: number_of_seats
+      label: Number of Car Seats
+      hint: How many seats?
+      type: select_one
+      options:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5 or more
+      required: true
+    - id: 13
+      name: seat_type
+      label: Seat Type
+      hint: Type of car seat
+      type: select_one
+      options:
+      - Infant seat (rear-facing)
+      - Convertible seat
+      - Toddler seat (forward-facing)
+      - Booster seat
+      - All-in-one seat
+      - Mixed types
+      required: true
+    - id: 14
+      name: seat_brand
+      label: Seat Brand
+      hint: Manufacturer
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: seat_model
+      label: Seat Model
+      hint: Model name/number
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: seat_condition
+      label: Seat Condition
+      hint: Overall condition
+      type: select_one
+      options:
+      - Excellent - like new
+      - Very good
+      - Good - normal wear
+      - Fair - some wear
+      - Poor - significant wear
+      required: true
+    - id: 17
+      name: manufacturing_date
+      label: Manufacturing Date
+      hint: If known
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: expiration_date
+      label: Expiration Date
+      hint: Usually 6-10 years from manufacture
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: seat_history
+      label: Seat History
+      hint: Important safety information
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: accident_history
+      label: Accident History
+      hint: Was the seat in an accident?
+      type: select_one
+      options:
+      - No - never in accident
+      - Yes - minor accident
+      - Yes - moderate accident
+      - Yes - severe accident
+      - Unknown
+      required: true
+    - id: 21
+      name: recall_status
+      label: Recall Status
+      hint: Any recalls?
+      type: select_one
+      options:
+      - No recalls
+      - Recalls addressed
+      - Recalls not addressed
+      - Unknown
+      required: true
+    - id: 22
+      name: reason_for_donation
+      label: Reason for Donation
+      hint: Why are you donating?
+      type: select_one
+      options:
+      - Child outgrew it
+      - No longer needed
+      - Upgrading to new seat
+      - Moving
+      - Supporting the cause
+      - Other
+      required: true
+    - id: 23
+      name: accessories_included
+      label: Accessories Included
+      hint: What comes with the seat?
+      type: select_multiple
+      options:
+      - None
+      - Original box
+      - Instruction manual
+      - Base (for infant seats)
+      - Cup holders
+      - Inserts/padding
+      - Harness covers
+      - Storage bag
+      required: false
+    - id: 24
+      name: cleanliness
+      label: Cleanliness
+      hint: Has it been cleaned?
+      type: select_one
+      options:
+      - Yes - professionally cleaned
+      - Yes - washed at home
+      - Wiped down
+      - No - needs cleaning
+      required: true
+    - id: 25
+      name: visible_damage
+      label: Visible Damage
+      hint: Any damage?
+      type: select_one
+      options:
+      - No damage
+      - Minor scratches
+      - Cracks in plastic
+      - Broken parts
+      - Missing parts
+      - Fabric tears
+      required: true
+    - id: 26
+      name: damage_description
+      label: Damage Description
+      hint: Describe any damage
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: missing_parts
+      label: Missing Parts
+      hint: List any missing parts
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: drop_off_pickup
+      label: Drop-Off or Pickup
+      hint: How will you donate?
+      type: select_one
+      options:
+      - I will drop off
+      - Need pickup service
+      required: true
+    - id: 29
+      name: drop_off_location
+      label: Drop-Off Location
+      hint: Preferred location
+      type: select_one
+      options:
+      - Main office
+      - Community center
+      - Fire station
+      - Police station
+      - Other
+      required: false
+    - id: 30
+      name: pickup_address
+      label: Pickup Address
+      hint: If pickup needed
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: preferred_pickup_date
+      label: Preferred Pickup Date
+      hint: When for pickup?
+      type: date
+      options: []
+      required: false
+    - id: 32
+      name: preferred_pickup_time
+      label: Preferred Pickup Time
+      hint: What time?
+      type: time
+      options: []
+      required: false
+    - id: 33
+      name: donation_receipt
+      label: Donation Receipt
+      hint: Do you need a receipt?
+      type: select_one
+      options:
+      - Yes - for tax deduction
+      - No - not needed
+      required: true
+    - id: 34
+      name: estimated_value
+      label: Estimated Value
+      hint: For tax purposes
+      type: number
+      options: []
+      required: false
+    - id: 35
+      name: volunteer_interest
+      label: Volunteer Interest
+      hint: Would you like to volunteer?
+      type: select_one
+      options:
+      - Yes - interested
+      - Maybe - tell me more
+      - No - just donating
+      required: false
+    - id: 36
+      name: how_heard_about_us
+      label: How Did You Hear About Us
+      hint: Your referral source
+      type: select_one
+      options:
+      - Website
+      - Social media
+      - Friend/Family
+      - Community event
+      - Advertisement
+      - Other
+      required: false
+    - id: 37
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false
+    - id: 38
+      name: terms_agreement
+      label: Terms Agreement
+      hint: Confirm donation terms
+      type: select_one
+      options:
+      - I confirm this donation meets all requirements
+      - I do not confirm
+      required: true
+    - id: 39
+      name: submission_date
+      label: Submission Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true

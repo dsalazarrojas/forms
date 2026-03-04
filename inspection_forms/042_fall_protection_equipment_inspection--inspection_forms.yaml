@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fall Protection Equipment Inspection
+    pages:
+    - id: 1
+      name: equipment_used
+      label: Equipment Used
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: date_inspected
+      label: Date Inspected
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: safety_equipment_inspections
+      label: Safety Equipment Inspections
+      hint: List all safety equipment that was inspected
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: safety_equipment_inspections_details
+      label: Safety Equipment Inspections Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: personal_protection_equipment_inspections
+      label: Personal Protection Equipment Inspections
+      hint: List all personal protection equipment that was inspected
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: personal_protection_equipment_inspections_details
+      label: Personal Protection Equipment Inspections Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: inspection_completed
+      label: Inspection Completed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: inspector_comments
+      label: Inspector Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: inspector_comments_additional
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: inspector_signature
+      label: Inspector Signature
+      hint: null
+      type: text
+      options: []
+      required: false

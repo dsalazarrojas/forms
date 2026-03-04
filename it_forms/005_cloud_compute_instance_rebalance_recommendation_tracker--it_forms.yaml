@@ -1,0 +1,151 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cloud Compute Instance Rebalance Recommendation Tracker
+    pages:
+    - id: 1
+      name: recommendation_id
+      label: Recommendation ID
+      hint: Unique identifier for tracking
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: submission_date
+      label: Submission Date
+      hint: Date recommendation was generated
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: instance_name
+      label: Instance Name or Identifier
+      hint: Name of the compute instance
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: current_instance_type
+      label: Current Instance Type
+      hint: Current configuration and size
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: recommended_instance_type
+      label: Recommended Instance Type
+      hint: Suggested new configuration
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: current_monthly_cost
+      label: Current Monthly Cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: estimated_monthly_savings
+      label: Estimated Monthly Savings
+      hint: Projected cost reduction
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: utilization_reason
+      label: Reason for Rebalance
+      hint: Why this recommendation was made
+      type: select_one
+      options:
+      - CPU Underutilization
+      - Memory Underutilization
+      - Network Optimization
+      - Cost Optimization
+      - Performance Improvement
+      - Right-Sizing
+      required: true
+    - id: 9
+      name: workload_type
+      label: Workload Type
+      hint: Type of application running
+      type: select_one
+      options:
+      - Web Server
+      - Database
+      - Application Server
+      - Cache Layer
+      - Batch Processing
+      - Other
+      required: true
+    - id: 10
+      name: owner_name
+      label: Instance Owner or Team Lead
+      hint: Name of responsible person
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: owner_email
+      label: Owner Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: decision_status
+      label: Decision Status
+      hint: Current status of the recommendation
+      type: select_one
+      options:
+      - Pending Review
+      - Approved
+      - In Progress
+      - Implemented
+      - Rejected
+      - On Hold
+      required: true
+    - id: 13
+      name: decision_date
+      label: Decision Date
+      hint: When decision was made
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: implementation_planned
+      label: Planned Implementation Date
+      hint: Target date for change
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: risk_assessment
+      label: Risk Assessment
+      hint: Potential risks of rebalancing
+      type: select_one
+      options:
+      - Low Risk
+      - Medium Risk
+      - High Risk
+      - Unknown
+      required: false
+    - id: 16
+      name: downtime_required
+      label: Downtime Required for Implementation
+      hint: null
+      type: select_one
+      options:
+      - No Downtime
+      - Minutes
+      - Hours
+      - Full Day
+      - TBD
+      required: false
+    - id: 17
+      name: additional_notes
+      label: Additional Notes or Concerns
+      hint: Any relevant information
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Receiving Checklist
+    pages:
+    - id: 1
+      name: job_number
+      label: Job Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: delivery_company
+      label: delivery_company
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: vehicle_type
+      label: vehicle_type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: vehicle_date
+      label: Vehicle Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: vehicle_side_lights
+      label: Side Lights
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: vehicle_fog_lights
+      label: Fog Lights
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: vehicle_main_beam
+      label: Main Beam
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: vehicle_check
+      label: Vehicle Check
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: delivery_company
+      label: Delivery Company
+      hint: null
+      type: text
+      options: []
+      required: false

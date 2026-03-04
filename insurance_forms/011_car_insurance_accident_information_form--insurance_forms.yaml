@@ -1,0 +1,289 @@
+inputSchema:
+  type: object
+  properties:
+    title: Car Insurance Accident Information Form
+    pages:
+    - id: 1
+      name: policyholder_information
+      label: Policyholder Information
+      hint: Please provide your policy details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: policy_number
+      label: Policy Number
+      hint: Your insurance policy number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: policyholder_name
+      label: Policyholder Name
+      hint: Full name as on policy
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Contact Phone
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_email
+      label: Email Address
+      hint: For claim communications
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: accident_details
+      label: Accident Details
+      hint: Information about the accident
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: accident_date
+      label: Date of Accident
+      hint: When did the accident occur?
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: accident_time
+      label: Time of Accident
+      hint: What time did it happen?
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: accident_location
+      label: Location of Accident
+      hint: Street address or intersection
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: accident_city
+      label: City
+      hint: City where accident occurred
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: accident_state
+      label: State
+      hint: State where accident occurred
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: accident_zip
+      label: ZIP Code
+      hint: ZIP code of accident location
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: weather_conditions
+      label: Weather Conditions
+      hint: What was the weather like?
+      type: select_one
+      options:
+      - Clear/Sunny
+      - Cloudy
+      - Rainy
+      - Snowy/Icy
+      - Foggy
+      - Windy
+      - Other
+      required: true
+    - id: 14
+      name: road_conditions
+      label: Road Conditions
+      hint: What were the road conditions?
+      type: select_one
+      options:
+      - Dry
+      - Wet
+      - Icy/Snowy
+      - Under Construction
+      - Poor Condition
+      - Good Condition
+      required: true
+    - id: 15
+      name: vehicle_information
+      label: Vehicle Information
+      hint: Details about your vehicle
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: vehicle_year
+      label: Vehicle Year
+      hint: Year of your vehicle
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: vehicle_make
+      label: Vehicle Make
+      hint: Manufacturer
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: vehicle_model
+      label: Vehicle Model
+      hint: Model name
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: vehicle_vin
+      label: VIN
+      hint: Vehicle Identification Number
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: vehicle_license_plate
+      label: License Plate Number
+      hint: Your license plate
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: vehicle_damage
+      label: Vehicle Damage Description
+      hint: Describe the damage to your vehicle
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: other_party_information
+      label: Other Party Information
+      hint: Details about other involved parties
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: other_driver_name
+      label: Other Driver Name
+      hint: Full name of other driver
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: other_driver_phone
+      label: Other Driver Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: other_driver_insurance
+      label: Other Driver Insurance
+      hint: Insurance company name
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: other_driver_policy
+      label: Other Driver Policy Number
+      hint: Policy number
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: other_vehicle_info
+      label: Other Vehicle Information
+      hint: Year, make, model, plate
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: witnesses
+      label: Witness Information
+      hint: Were there any witnesses?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 29
+      name: witness_details
+      label: Witness Details
+      hint: Names and contact information
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: police_report
+      label: Police Report
+      hint: Was a police report filed?
+      type: select_one
+      options:
+      - true
+      - false
+      - Pending
+      required: true
+    - id: 31
+      name: police_report_number
+      label: Police Report Number
+      hint: Report number if available
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: police_department
+      label: Police Department
+      hint: Which department responded?
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: injuries
+      label: Injuries
+      hint: Were there any injuries?
+      type: select_one
+      options:
+      - No injuries
+      - Minor injuries
+      - Serious injuries
+      - Fatalities
+      required: true
+    - id: 34
+      name: injury_description
+      label: Injury Description
+      hint: Describe any injuries
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: accident_description
+      label: Accident Description
+      hint: Please describe how the accident occurred
+      type: text
+      options: []
+      required: true
+    - id: 36
+      name: photos_available
+      label: Photos Available
+      hint: Do you have photos of the accident?
+      type: select_one
+      options:
+      - Yes - will submit
+      - Yes - submitted separately
+      - false
+      required: true
+    - id: 37
+      name: form_date
+      label: Form Submission Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true

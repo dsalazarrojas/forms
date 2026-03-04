@@ -1,0 +1,278 @@
+inputSchema:
+  type: object
+  properties:
+    title: Auto Insurance Information Collection
+    pages:
+    - id: 1
+      name: driver_info
+      label: Driver Information
+      hint: Please provide driver details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your legal first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your legal last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM-DD-YYYY
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email Address
+      hint: Primary email address
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: license_number
+      label: Driver License Number
+      hint: Your driver license number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: license_state
+      label: License State
+      hint: State that issued your license
+      type: select_one
+      options:
+      - Alabama
+      - Alaska
+      - Arizona
+      - Arkansas
+      - California
+      - Colorado
+      - Connecticut
+      - Delaware
+      - Florida
+      - Georgia
+      - Other
+      required: true
+    - id: 9
+      name: license_expiry
+      label: License Expiration Date
+      hint: When does your license expire
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: marital_status
+      label: Marital Status
+      hint: Your current marital status
+      type: select_one
+      options:
+      - Single
+      - Married
+      - Divorced
+      - Widowed
+      - Separated
+      required: true
+    - id: 11
+      name: education_level
+      label: Education Level
+      hint: Highest level of education completed
+      type: select_one
+      options:
+      - High School or Less
+      - Some College
+      - College Graduate
+      - Graduate Degree
+      required: false
+    - id: 12
+      name: occupation
+      label: Occupation
+      hint: Your current job title
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: vehicle_info
+      label: Vehicle Information
+      hint: Details about your vehicle
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: vehicle_year
+      label: Vehicle Year
+      hint: Year of manufacture
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: vehicle_make
+      label: Vehicle Make
+      hint: Manufacturer name
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: vehicle_model
+      label: Vehicle Model
+      hint: Model name
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: vehicle_trim
+      label: Vehicle Trim
+      hint: Trim level or package
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: vin
+      label: VIN
+      hint: Vehicle Identification Number
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: mileage
+      label: Current Mileage
+      hint: Odometer reading
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: vehicle_use
+      label: Primary Use of Vehicle
+      hint: How do you use your vehicle
+      type: select_one
+      options:
+      - Personal Commuting
+      - Business Use
+      - Commercial
+      - Ride Sharing
+      - Delivery Service
+      - Pleasure
+      required: true
+    - id: 21
+      name: annual_mileage
+      label: Estimated Annual Mileage
+      hint: Miles driven per year
+      type: select_one
+      options:
+      - Under 5000
+      - 5000-10000
+      - 10000-15000
+      - 15000-20000
+      - Over 20000
+      required: true
+    - id: 22
+      name: parking_location
+      label: Where is Vehicle Parked
+      hint: Where is the vehicle kept overnight
+      type: select_one
+      options:
+      - Private Garage
+      - Driveway
+      - Street Parking
+      - Parking Garage
+      - Other
+      required: true
+    - id: 23
+      name: driving_history
+      label: Driving History
+      hint: Information about your driving record
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: accidents_last_3_years
+      label: Accidents in Last 3 Years
+      hint: How many accidents have you had
+      type: select_one
+      options:
+      - None
+      - 1
+      - 2
+      - 3 or more
+      required: true
+    - id: 25
+      name: violations_last_3_years
+      label: Violations in Last 3 Years
+      hint: Traffic tickets or violations
+      type: select_one
+      options:
+      - None
+      - 1
+      - 2
+      - 3 or more
+      required: true
+    - id: 26
+      name: dui_history
+      label: DUI History
+      hint: Any DUI convictions
+      type: select_one
+      options:
+      - false
+      - Yes within 3 years
+      - Yes over 3 years ago
+      required: true
+    - id: 27
+      name: current_insurance
+      label: Current Insurance Status
+      hint: Do you currently have insurance
+      type: select_one
+      options:
+      - Yes active policy
+      - Expired
+      - Never insured
+      required: true
+    - id: 28
+      name: coverage_preferences
+      label: Desired Coverage Type
+      hint: What coverage are you seeking
+      type: select_one
+      options:
+      - Liability Only
+      - Full Coverage
+      - Comprehensive
+      - Collision
+      - Unsure need advice
+      required: true
+    - id: 29
+      name: additional_drivers
+      label: Additional Drivers
+      hint: Will others drive this vehicle
+      type: select_one
+      options:
+      - false
+      - Yes spouse
+      - Yes children
+      - Yes other
+      required: true
+    - id: 30
+      name: preferred_contact
+      label: Preferred Contact Method
+      hint: How should we contact you
+      type: select_one
+      options:
+      - Email
+      - Phone Call
+      - Text Message
+      - Mail
+      required: true

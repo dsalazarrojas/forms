@@ -1,0 +1,135 @@
+inputSchema:
+  type: object
+  properties:
+    title: Health Insurance Claim Records Release Form
+    pages:
+    - id: 1
+      name: provider_information
+      label: Provider Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_consent
+      label: Patient Consent
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: claim_details
+      label: Claim Details
+      hint: null
+      type: select_one
+      options:
+      - Claim 1
+      - Claim 2
+      - Claim 3
+      required: false
+    - id: 5
+      name: claim_status
+      label: Claim Status
+      hint: null
+      type: select_multiple
+      options:
+      - Paid
+      - Denied
+      - Pending
+      required: false
+    - id: 6
+      name: date_claim_received
+      label: Date Claim Received
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: date_claim_paid
+      label: Date Claim Paid
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: claim_amount
+      label: Claim Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: patient_address
+      label: Patient Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: medical_record_release
+      label: Medical Record Release
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: authorization_date
+      label: Authorization Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: claim_number
+      label: Claim Number
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: claim_type
+      label: Claim Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: claim_reason
+      label: Claim Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: medical_record_information
+      label: Medical Record Information
+      hint: null
+      type: select_multiple
+      options:
+      - Medical Record 1
+      - Medical Record 2
+      - Medical Record 3
+      required: false
+    - id: 16
+      name: medical_record_type
+      label: Medical Record Type
+      hint: null
+      type: select_multiple
+      options:
+      - Type 1
+      - Type 2
+      - Type 3
+      required: false

@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Data Porting Intake Form
+    pages:
+    - id: 1
+      name: data_porting_intake_form_1
+      label: What is the issue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: issue_description
+      label: Issue description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: data_type
+      label: Data type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: file_upload
+      label: Attach file
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_requested
+      label: Date requested
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_requested
+      label: Time requested
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: requestor
+      label: Requestor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_method
+      label: Contact method
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 8.1, ''text'': ''Email''}'
+      - '{''id'': 8.2, ''text'': ''Phone''}'
+      - '{''id'': 8.3, ''text'': ''Chat''}'
+      required: true

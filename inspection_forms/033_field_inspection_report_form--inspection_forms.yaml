@@ -1,0 +1,137 @@
+inputSchema:
+  type: object
+  properties:
+    title: Field Inspection Report Form
+    pages:
+    - id: 1
+      name: inspection_report_form
+      label: inspection_report_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_inspection
+      label: date_of_inspection
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: inspector_name
+      label: inspector_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: inspection_location
+      label: inspection_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: inspection_notes
+      label: inspection_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: inspection_status
+      label: inspection_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Complete'', ''value'': ''complete''}'
+      - '{''id'': 2, ''name'': ''Incomplete'', ''value'': ''incomplete''}'
+      - '{''id'': 3, ''name'': ''Not Started'', ''value'': ''not_started''}'
+      required: false
+    - id: 7
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: inspection_date
+      label: inspection_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: inspector_phone
+      label: inspector_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: inspector_email
+      label: inspector_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: assigned_inspector
+      label: assigned_inspector
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: assigned_inspector_phone
+      label: assigned_inspector_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: assigned_inspector_email
+      label: assigned_inspector_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: assigned_inspector_comments
+      label: assigned_inspector_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: site_visit_id
+      label: site_visit_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: client
+      label: client
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: inspector_comments
+      label: inspector_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: site_visit_type
+      label: site_visit_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Site Visit'', ''value'': ''site_visit''}'
+      - '{''id'': 2, ''name'': ''Field Visit'', ''value'': ''field_visit''}'
+      - '{''id'': 3, ''name'': ''Other'', ''value'': ''other''}'
+      required: false

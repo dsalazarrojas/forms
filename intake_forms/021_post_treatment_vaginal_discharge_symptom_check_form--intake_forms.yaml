@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: Post Treatment Vaginal Discharge Symptom Check Form
+    pages:
+    - id: 1
+      name: symptom_date
+      label: symptom_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: symptom_duration
+      label: symptom_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: discharge_color
+      label: discharge_color
+      hint: null
+      type: select_multiple
+      options:
+      - red
+      - white
+      - pink
+      - clear
+      required: false
+    - id: 4
+      name: discharge_texture
+      label: discharge_texture
+      hint: null
+      type: select_multiple
+      options:
+      - smooth
+      - rough
+      - sticky
+      - none
+      required: false
+    - id: 5
+      name: symptom_frequency
+      label: symptom_frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Less than once a week
+      - Several times a week
+      - Never
+      required: false
+    - id: 6
+      name: symptoms
+      label: symptoms
+      hint: null
+      type: select_multiple
+      options:
+      - Abnormal vaginal bleeding
+      - Vaginal itching
+      - Vaginal pain
+      - Vaginal redness
+      - Other
+      required: false
+    - id: 7
+      name: treatment_outcome
+      label: treatment_outcome
+      hint: null
+      type: select_one
+      options:
+      - Resolved
+      - Improved
+      - No change
+      - Not yet known
+      required: false
+    - id: 8
+      name: follow_up_scheduled
+      label: follow_up_scheduled
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 9
+      name: follow_up_next
+      label: follow_up_next
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: follow_up_reminders
+      label: follow_up_reminders
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: follow_up_last
+      label: follow_up_last
+      hint: null
+      type: date
+      options: []
+      required: false

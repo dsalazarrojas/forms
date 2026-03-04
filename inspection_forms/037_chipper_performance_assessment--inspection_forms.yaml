@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chipper Performance Assessment
+    pages:
+    - id: 1
+      name: assessor_name
+      label: Assessor Name
+      hint: Person conducting performance assessment
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: assessment_date
+      label: Assessment Date
+      hint: Date of performance test
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: throughput_rate
+      label: Throughput Rate
+      hint: Measured material processed per hour
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: fuel_efficiency
+      label: Fuel Efficiency
+      hint: Fuel consumption per hour
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: noise_level
+      label: Noise Level
+      hint: Measured decibel level at operator position
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: vibration_levels
+      label: Vibration Levels
+      hint: Observed vibration during operation
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: maintenance_impact
+      label: Impact of Maintenance on Performance
+      hint: Note if recent maintenance affected performance
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: overall_rating
+      label: Overall Performance Rating
+      hint: Summary rating for performance
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true

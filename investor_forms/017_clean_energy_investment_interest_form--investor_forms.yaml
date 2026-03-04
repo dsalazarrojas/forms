@@ -1,0 +1,245 @@
+inputSchema:
+  type: object
+  properties:
+    title: Clean Energy Investment Interest Form
+    pages:
+    - id: 1
+      name: investor_name
+      label: Investor Name
+      hint: Full name or organization name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: investor_type
+      label: Investor Type
+      hint: What type of investor are you
+      type: select_one
+      options:
+      - Individual Investor
+      - Family Office
+      - Institutional Investor
+      - Pension Fund
+      - Endowment or Foundation
+      - Corporate Investor
+      - Investment Fund
+      - Government Entity
+      - Other
+      required: true
+    - id: 3
+      name: organization_name
+      label: Organization Name
+      hint: Name of your organization if applicable
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_person
+      label: Contact Person
+      hint: Primary contact person name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: Contact email address
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: country
+      label: Country
+      hint: Country of residence or incorporation
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: investment_experience
+      label: Investment Experience
+      hint: What is your experience with clean energy investments
+      type: select_one
+      options:
+      - Extensive - Multiple clean energy investments
+      - Moderate - Some clean energy investments
+      - Limited - New to clean energy investing
+      - None - First time investor
+      required: true
+    - id: 9
+      name: investment_interest
+      label: Areas of Investment Interest
+      hint: Select all clean energy sectors of interest
+      type: select_multiple
+      options:
+      - Solar Energy
+      - Wind Energy
+      - Hydroelectric Power
+      - Geothermal Energy
+      - Biomass and Biofuels
+      - Energy Storage
+      - Electric Vehicles
+      - Green Hydrogen
+      - Energy Efficiency
+      - Smart Grid Technology
+      required: true
+    - id: 10
+      name: investment_size_preference
+      label: Preferred Investment Size
+      hint: What is your typical investment range
+      type: select_one
+      options:
+      - Under $100,000
+      - $100,000 - $500,000
+      - $500,001 - $1,000,000
+      - $1,000,001 - $5,000,000
+      - $5,000,001 - $10,000,000
+      - Over $10,000,000
+      required: true
+    - id: 11
+      name: investment_horizon
+      label: Investment Horizon
+      hint: What is your preferred investment timeframe
+      type: select_one
+      options:
+      - Short-term - 1 to 3 years
+      - Medium-term - 3 to 7 years
+      - Long-term - 7 to 15 years
+      - Very Long-term - 15+ years
+      required: true
+    - id: 12
+      name: risk_tolerance
+      label: Risk Tolerance
+      hint: How would you describe your risk tolerance
+      type: select_one
+      options:
+      - Conservative - Prefer low-risk investments
+      - Moderate - Balanced risk and return
+      - Aggressive - Willing to accept higher risk for higher returns
+      required: true
+    - id: 13
+      name: investment_structure_preference
+      label: Preferred Investment Structure
+      hint: What investment structures interest you
+      type: select_multiple
+      options:
+      - Equity Investment
+      - Debt Investment
+      - Convertible Notes
+      - Revenue Sharing
+      - Project Finance
+      - Fund Investment
+      - Direct Project Investment
+      - Green Bonds
+      required: false
+    - id: 14
+      name: geographic_preference
+      label: Geographic Preference
+      hint: Which regions are you interested in
+      type: select_multiple
+      options:
+      - North America
+      - Europe
+      - Asia Pacific
+      - Latin America
+      - Middle East
+      - Africa
+      - Global - No specific preference
+      required: true
+    - id: 15
+      name: esg_requirements
+      label: ESG Requirements
+      hint: Do you have specific ESG criteria
+      type: select_one
+      options:
+      - Yes - Strict ESG criteria required
+      - Yes - General ESG considerations
+      - No - Focused primarily on financial returns
+      required: true
+    - id: 16
+      name: accreditation_status
+      label: Accredited Investor Status
+      hint: Are you an accredited or qualified investor
+      type: select_one
+      options:
+      - Yes - Accredited Investor
+      - Yes - Qualified Purchaser
+      - No - Retail Investor
+      - Unsure
+      required: true
+    - id: 17
+      name: how_did_you_hear
+      label: How Did You Hear About Us
+      hint: How did you learn about this investment opportunity
+      type: select_one
+      options:
+      - Website
+      - Referral from Existing Investor
+      - Industry Conference or Event
+      - Financial Advisor
+      - Media Publication
+      - Social Media
+      - Direct Outreach
+      - Other
+      required: false
+    - id: 18
+      name: additional_information_needed
+      label: Additional Information Needed
+      hint: What information do you need before proceeding
+      type: select_multiple
+      options:
+      - Detailed Investment Prospectus
+      - Financial Projections
+      - Track Record and Case Studies
+      - Risk Assessment Documentation
+      - Legal and Regulatory Information
+      - Environmental Impact Reports
+      - Management Team Information
+      - Fee Structure Details
+      required: true
+    - id: 19
+      name: timeline_for_decision
+      label: Timeline for Investment Decision
+      hint: When do you expect to make a decision
+      type: select_one
+      options:
+      - Immediate - Ready to invest now
+      - Within 1 month
+      - Within 3 months
+      - Within 6 months
+      - Still evaluating opportunities
+      required: true
+    - id: 20
+      name: questions_or_comments
+      label: Questions or Comments
+      hint: Any questions or additional information you would like to share
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: follow_up_preference
+      label: Preferred Follow-Up Method
+      hint: How would you prefer to be contacted
+      type: select_one
+      options:
+      - Email
+      - Phone Call
+      - Video Conference
+      - In-Person Meeting
+      - No follow-up needed at this time
+      required: true
+    - id: 22
+      name: consent_to_contact
+      label: Consent to Contact
+      hint: Do you consent to being contacted about this opportunity
+      type: select_one
+      options:
+      - Yes - I consent to be contacted
+      - No - Do not contact me
+      required: true

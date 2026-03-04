@@ -1,0 +1,217 @@
+inputSchema:
+  type: object
+  properties:
+    title: IT Autonomy Assessment
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: manager_email
+      label: Manager Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - IT
+      - Finance
+      - Operations
+      - Other
+      required: false
+    - id: 6
+      name: job_function
+      label: Job Function
+      hint: null
+      type: select_multiple
+      options:
+      - IT
+      - Finance
+      - Operations
+      - Other
+      required: false
+    - id: 7
+      name: support_needs
+      label: Support Needs
+      hint: null
+      type: select_multiple
+      options:
+      - Technical Support
+      - Training
+      - Guidance
+      - Other
+      required: false
+    - id: 8
+      name: current_level
+      label: Current Level
+      hint: null
+      type: select_one
+      options:
+      - Novice
+      - Intermediate
+      - Advanced
+      - Expert
+      required: true
+    - id: 9
+      name: training_needs
+      label: Training Needs
+      hint: null
+      type: select_multiple
+      options:
+      - Basic
+      - Advanced
+      - Expert
+      - Specialized
+      required: true
+    - id: 10
+      name: assessment_completed
+      label: Assessment Completed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: assessment_comments
+      label: Assessment Comments
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 12
+      name: support_plan
+      label: Support Plan
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: follow_up_plan
+      label: Follow-up Plan
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: manager_signoff
+      label: Manager Signoff
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 16
+      name: manager_comments
+      label: Manager Comments
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 17
+      name: employee_signoff
+      label: Employee Signoff
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 18
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: reviewer_name
+      label: Reviewer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: reviewer_title
+      label: Reviewer Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: reviewer_department
+      label: Reviewer Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: reviewer_email
+      label: Reviewer Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 23
+      name: reviewer_signoff
+      label: Reviewer Signoff
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 24
+      name: review_due_date
+      label: Review Due Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: review_frequency
+      label: Review Frequency
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Semi-annually
+      - Annually
+      required: true
+    - id: 26
+      name: review_comments
+      label: Review Comments
+      hint: null
+      type: note
+      options: []
+      required: true

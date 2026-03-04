@@ -1,0 +1,73 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Personalized Search Request
+    pages:
+    - id: 1
+      name: search_term
+      label: search_term
+      hint: Enter search term
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: search_type
+      label: search_type
+      hint: null
+      type: select_multiple
+      options:
+      - Keyword
+      - Category
+      - Author
+      - Date
+      - File
+      required: false
+    - id: 3
+      name: priority
+      label: priority
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 4
+      name: search_date
+      label: search_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: search_location
+      label: search_location
+      hint: Enter search location
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: search_time
+      label: search_time
+      hint: Enter search time
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: additional_info
+      label: additional_info
+      hint: Any additional information?
+      type: text
+      options: []
+      required: true

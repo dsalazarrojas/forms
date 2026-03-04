@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Permanent Makeup Release Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: photo_release
+      label: Photo Release
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: photo_release_description
+      label: Describe The Photos
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: photo_release_start_date
+      label: Photo Release Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: photo_release_end_date
+      label: Photo Release End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: photo_release_location
+      label: Photo Release Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: permanent_makeup_service_description
+      label: Permanent Makeup Service Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: permanent_makeup_service_type
+      label: Permanent Makeup Service Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: photo_release_notes
+      label: Photo Release Notes
+      hint: null
+      type: text
+      options: []
+      required: false

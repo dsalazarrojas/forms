@@ -1,0 +1,223 @@
+inputSchema:
+  type: object
+  properties:
+    title: shopify_website_intake_form
+    pages:
+    - id: 1
+      name: website_domain
+      label: Website Domain
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: website_name
+      label: Website Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: website_category
+      label: Website Category
+      hint: null
+      type: select_one
+      options:
+      - eCommerce
+      - Marketplace
+      - Online Store
+      - Blog
+      - Portfolio
+      required: true
+    - id: 4
+      name: store_description
+      label: Store Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: store_address
+      label: Store Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: store_phone
+      label: Store Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: store_email
+      label: Store Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: store_image_url
+      label: Store Image URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: store_image_caption
+      label: Store Image Caption
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: website_url
+      label: Website URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: store_tags
+      label: Store Tags
+      hint: null
+      type: select_multiple
+      options:
+      - fashion
+      - home
+      - beauty
+      - sport
+      - food
+      - art
+      - music
+      - travel
+      required: true
+    - id: 12
+      name: store_facebook
+      label: Store Facebook
+      hint: null
+      type: select_multiple
+      options:
+      - 'False'
+      - 'True'
+      required: true
+    - id: 13
+      name: store_instagram
+      label: Store Instagram
+      hint: null
+      type: select_multiple
+      options:
+      - 'False'
+      - 'True'
+      required: true
+    - id: 14
+      name: store_twitter
+      label: Store Twitter
+      hint: null
+      type: select_multiple
+      options:
+      - 'False'
+      - 'True'
+      required: true
+    - id: 15
+      name: store_youtube
+      label: Store Youtube
+      hint: null
+      type: select_multiple
+      options:
+      - 'False'
+      - 'True'
+      required: true
+    - id: 16
+      name: store_pinterest
+      label: Store Pinterest
+      hint: null
+      type: select_multiple
+      options:
+      - 'False'
+      - 'True'
+      required: true
+    - id: 17
+      name: store_tiktok
+      label: Store Tiktok
+      hint: null
+      type: select_multiple
+      options:
+      - 'False'
+      - 'True'
+      required: false
+    - id: 18
+      name: store_other_social
+      label: Other Social
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: store_other_social_urls
+      label: Other Social URLs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: shopify_product_types
+      label: Shopify Product Types
+      hint: null
+      type: select_multiple
+      options:
+      - dropshipping
+      - print-on-demand
+      - physical
+      - digital
+      - service
+      required: true
+    - id: 21
+      name: shopify_payment_gateway
+      label: Shopify Payment Gateway
+      hint: null
+      type: select_multiple
+      options:
+      - PayPal
+      - Stripe
+      - Square
+      required: true
+    - id: 22
+      name: shopify_currency
+      label: Shopify Currency
+      hint: null
+      type: select_multiple
+      options:
+      - USD
+      - EUR
+      - JPY
+      - CNY
+      required: true
+    - id: 23
+      name: shopify_currency_symbol
+      label: Currency Symbol
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: shopify_currency_symbol_position
+      label: Currency Symbol Position
+      hint: null
+      type: select_multiple
+      options:
+      - left
+      - right
+      - none
+      required: true
+    - id: 25
+      name: shopify_website_type
+      label: Shopify Website Type
+      hint: null
+      type: select_multiple
+      options:
+      - standard
+      - advanced
+      - custom
+      required: true

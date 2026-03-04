@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fitness Informed Consent Form
+    pages:
+    - id: 1
+      name: client_name
+      label: client_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: program_details
+      label: program_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: fitness_goals
+      label: fitness_goals
+      hint: null
+      type: select_multiple
+      options:
+      - Goal 1
+      - Goal 2
+      - Goal 3
+      required: false
+    - id: 4
+      name: client_info
+      label: client_info
+      hint: null
+      type: select_one
+      options:
+      - Information 1
+      - Information 2
+      - Information 3
+      required: false
+    - id: 5
+      name: program_duration
+      label: program_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: program_frequency
+      label: program_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Frequency 1
+      - Frequency 2
+      - Frequency 3
+      required: false
+    - id: 7
+      name: client_sign_date
+      label: client_sign_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: client_sign_time
+      label: client_sign_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: fitness_professional_info
+      label: fitness_professional_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: client_consent
+      label: client_consent
+      hint: null
+      type: note
+      options: []
+      required: false

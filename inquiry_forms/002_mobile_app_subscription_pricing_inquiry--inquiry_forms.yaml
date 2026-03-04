@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mobile App Subscription Pricing Inquiry
+    pages:
+    - id: 1
+      name: pricing_feedback
+      label: How do you feel about the current pricing of the app?
+      hint: null
+      type: select_multiple
+      options:
+      - Free
+      - Paid with a free trial
+      - Paid subscription
+      - Other (please specify)
+      required: false
+    - id: 2
+      name: billing_preferences
+      label: What are your billing preferences?
+      hint: Do you prefer monthly, quarterly, or annually?
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Annually
+      required: false
+    - id: 3
+      name: value_perceptions
+      label: How important is value to you when choosing a subscription?
+      hint: null
+      type: select_multiple
+      options:
+      - Cost
+      - Functionality
+      - Support
+      - User experience
+      required: false
+    - id: 4
+      name: billing_cycle
+      label: Billing cycle
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Annually
+      required: false
+    - id: 5
+      name: price_point
+      label: What price point would you be willing to pay for a subscription?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: payment_methods
+      label: Which payment methods do you prefer?
+      hint: null
+      type: select_multiple
+      options:
+      - Credit card
+      - PayPal
+      - Bank transfer
+      required: false
+    - id: 7
+      name: contact_info
+      label: Contact Info?
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: billing_address
+      label: Billing Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: billing_method
+      label: Billing Method
+      hint: null
+      type: select_one
+      options:
+      - One-time payment
+      - Subscription
+      required: false
+    - id: 10
+      name: billing_frequency
+      label: Billing Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Monthly
+      - Quarterly
+      - Annually
+      required: false
+    - id: 11
+      name: billing_status
+      label: Billing Status
+      hint: null
+      type: select_one
+      options:
+      - Trial
+      - Active
+      - Inactive
+      required: false

@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: Smart Building Alert Setup Request Form
+    pages:
+    - id: 1
+      name: setup_request
+      label: Smart Building Alert Setup Request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: trigger_type
+      label: Trigger Type
+      hint: null
+      type: select_one
+      options:
+      - Alert
+      - Notification
+      - Both
+      - None
+      required: true
+    - id: 3
+      name: notification_preferences
+      label: Notification Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - SMS
+      - Push
+      - Both
+      required: true
+    - id: 4
+      name: alert_triggers
+      label: Alert Triggers
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: building_name
+      label: Building Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: building_address
+      label: Building Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: priority
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      - Urgent
+      required: false
+    - id: 13
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - Closed
+      - Pending
+      required: false
+    - id: 14
+      name: assigned_to
+      label: Assigned To
+      hint: This field is optional
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: comment
+      label: Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: date_created
+      label: Date Created
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: time_created
+      label: Time Created
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: submitted_date
+      label: Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: submitted_time
+      label: Submitted Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: updated_date
+      label: Updated Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: updated_time
+      label: Updated Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: submitted_to
+      label: Submitted To
+      hint: null
+      type: select_one
+      options:
+      - Facilities
+      - Operations
+      - IT
+      - Both
+      required: false
+    - id: 25
+      name: submitted_to_department
+      label: Submitted To Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: submitted_to_email
+      label: Submitted To Email
+      hint: null
+      type: text
+      options: []
+      required: false

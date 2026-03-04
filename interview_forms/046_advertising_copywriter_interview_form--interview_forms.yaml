@@ -1,0 +1,169 @@
+inputSchema:
+  type: object
+  properties:
+    title: Advertising Copywriter Interview Form
+    pages:
+    - id: 1
+      name: candidate_information_section
+      label: -- Candidate Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Candidate's legal full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: Valid email for communication
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: portfolio_link
+      label: Portfolio Link
+      hint: Link to your writing portfolio
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: experience_summary_section
+      label: -- Experience Summary --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: years_copywriting_experience
+      label: Years Copywriting Experience
+      hint: How many years of copywriting experience do you have
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: previous_employers
+      label: Previous Employers
+      hint: Name of previous employers or clients
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: industries_worked
+      label: Industries Worked
+      hint: Which industries have you written copy for
+      type: select_multiple
+      options:
+      - Technology
+      - Healthcare
+      - Finance
+      - Retail
+      - Food & Beverage
+      - Automotive
+      - Travel
+      - Other
+      required: true
+    - id: 10
+      name: writing_skills_assessment_section
+      label: -- Writing Skills Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: writing_styles_familiar_with
+      label: Writing Styles Familiar With
+      hint: Which writing styles are you experienced in
+      type: select_multiple
+      options:
+      - Brand storytelling
+      - Direct response
+      - Content marketing
+      - Social media
+      - Email marketing
+      - SEO copywriting
+      - Technical writing
+      - Other
+      required: true
+    - id: 12
+      name: brand_voice_adaptation
+      label: Brand Voice Adaptation
+      hint: How well can you adapt to different brand voices
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Developing
+      required: true
+    - id: 13
+      name: creative_brief_interpretation
+      label: Creative Brief Interpretation
+      hint: Rate your ability to interpret creative briefs
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Developing
+      required: true
+    - id: 14
+      name: sample_assignment_section
+      label: -- Sample Assignment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: product_to_write_about
+      label: Product to Write About
+      hint: Write a compelling headline for a new eco-friendly cleaning product
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: call_to_action_sample
+      label: Call to Action Sample
+      hint: Write a persuasive call-to-action for a free trial
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: seo_keywords_integration
+      label: SEO Keywords Integration
+      hint: How do you incorporate keywords into copy naturally
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: interview_logistics_section
+      label: -- Interview Logistics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: availability_for_interview
+      label: Availability for Interview
+      hint: When are you available for an interview
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: questions_for_the_team
+      label: Questions for the Team
+      hint: What questions do you have for us
+      type: text
+      options: []
+      required: false

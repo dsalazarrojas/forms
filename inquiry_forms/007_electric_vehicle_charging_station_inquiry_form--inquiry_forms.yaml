@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: electric_vehicle_charging_station_inquiry_form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: electric_vehicle_type
+      label: Electric Vehicle Type
+      hint: null
+      type: select_multiple
+      options:
+      - '1: Petrol'
+      - '2: Diesel'
+      - '3: Hybrid'
+      - '4: Electric'
+      - '5: Other (please specify)'
+      required: false
+    - id: 3
+      name: preferred_payment_method
+      label: Preferred Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '1: Cash'
+      - '2: Card'
+      - '3: Other (please specify)'
+      required: false
+    - id: 4
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_multiple
+      options:
+      - '1: Email'
+      - '2: Phone'
+      - '3: In-app Message'
+      required: false
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false

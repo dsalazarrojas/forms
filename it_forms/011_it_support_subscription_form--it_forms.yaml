@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: it_support_subscription_form
+    pages:
+    - id: 1
+      name: user_details
+      label: User Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: request_details
+      label: Support Request
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: it_needs
+      label: IT Needs
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: contact_details
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: preferred_contact
+      label: Preferred Contact Method
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''email''}'
+      - '{''value'': ''phone''}'
+      - '{''value'': ''chat''}'
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: chat_url
+      label: Support Chat URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: support_agent
+      label: Support Agent
+      hint: null
+      type: text
+      options: []
+      required: false

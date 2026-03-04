@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gear And Insurance Evaluation Form
+    pages:
+    - id: 1
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: equipment_type
+      label: Equipment Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Option 1''}'
+      - '{''id'': 2, ''label'': ''Option 2''}'
+      - '{''id'': 3, ''label'': ''Option 3''}'
+      required: true
+    - id: 3
+      name: equipment_condition
+      label: Equipment Condition
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Option 1''}'
+      - '{''id'': 2, ''label'': ''Option 2''}'
+      - '{''id'': 3, ''label'': ''Option 3''}'
+      required: true
+    - id: 4
+      name: insurance_provider
+      label: Insurance Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: coverage_start_date
+      label: Coverage Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: coverage_end_date
+      label: Coverage End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: premium
+      label: Premium
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: policy_number
+      label: Policy Number
+      hint: null
+      type: text
+      options: []
+      required: false

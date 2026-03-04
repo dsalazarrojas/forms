@@ -1,0 +1,225 @@
+inputSchema:
+  type: object
+  properties:
+    title: Child Education Case Research Consent Form
+    pages:
+    - id: 1
+      name: consent_date
+      label: Consent Date
+      hint: Date of consent form submission
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: parent_guardian_first_name
+      label: Parent or Guardian First Name
+      hint: Legal first name of parent or guardian
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: parent_guardian_last_name
+      label: Parent or Guardian Last Name
+      hint: Legal last name of parent or guardian
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: parent_guardian_email
+      label: Parent or Guardian Email
+      hint: Primary email address for contact
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: parent_guardian_phone
+      label: Parent or Guardian Phone
+      hint: Primary phone number for contact
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: child_first_name
+      label: Child First Name
+      hint: Legal first name of the child
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: child_last_name
+      label: Child Last Name
+      hint: Legal last name of the child
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: child_date_of_birth
+      label: Child Date of Birth
+      hint: Please provide the child's birth date
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: child_grade_level
+      label: Child Grade Level
+      hint: Current grade level of the child
+      type: select_one
+      options:
+      - Kindergarten
+      - 1st Grade
+      - 2nd Grade
+      - 3rd Grade
+      - 4th Grade
+      - 5th Grade
+      - 6th Grade
+      - 7th Grade
+      - 8th Grade
+      - 9th Grade
+      - 10th Grade
+      - 11th Grade
+      - 12th Grade
+      required: true
+    - id: 10
+      name: research_study_title
+      label: Research Study Title
+      hint: Title or name of the research study
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: principal_investigator
+      label: Principal Investigator Name
+      hint: Name of the lead researcher
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: institution_name
+      label: Institution Name
+      hint: Name of the research institution
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: study_purpose
+      label: Study Purpose Understanding
+      hint: Do you understand the purpose of this research study?
+      type: select_one
+      options:
+      - Yes, completely
+      - Mostly
+      - Somewhat
+      - No, I need more information
+      required: true
+    - id: 14
+      name: study_procedures
+      label: Study Procedures Understanding
+      hint: Do you understand the procedures involved in this study?
+      type: select_one
+      options:
+      - Yes, completely
+      - Mostly
+      - Somewhat
+      - No, I need more information
+      required: true
+    - id: 15
+      name: potential_risks
+      label: Potential Risks Understanding
+      hint: Do you understand the potential risks of participation?
+      type: select_one
+      options:
+      - Yes, completely
+      - Mostly
+      - Somewhat
+      - No, I need more information
+      required: true
+    - id: 16
+      name: potential_benefits
+      label: Potential Benefits Understanding
+      hint: Do you understand the potential benefits of participation?
+      type: select_one
+      options:
+      - Yes, completely
+      - Mostly
+      - Somewhat
+      - No, I need more information
+      required: true
+    - id: 17
+      name: confidentiality_understanding
+      label: Confidentiality Understanding
+      hint: Do you understand how your child's data will be kept confidential?
+      type: select_one
+      options:
+      - Yes, completely
+      - Mostly
+      - Somewhat
+      - No, I need more information
+      required: true
+    - id: 18
+      name: voluntary_participation
+      label: Voluntary Participation Understanding
+      hint: Do you understand that participation is voluntary and you can withdraw
+        at any time?
+      type: select_one
+      options:
+      - Yes, I understand
+      - No, I need clarification
+      required: true
+    - id: 19
+      name: consent_to_participate
+      label: Consent to Participate
+      hint: Do you consent to your child's participation in this research study?
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      required: true
+    - id: 20
+      name: consent_for_data_collection
+      label: Consent for Data Collection
+      hint: Do you consent to the collection of your child's educational data?
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      - Only anonymized data
+      required: true
+    - id: 21
+      name: consent_for_audio_recording
+      label: Consent for Audio Recording
+      hint: Do you consent to audio recording of your child during the study?
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      required: true
+    - id: 22
+      name: consent_for_video_recording
+      label: Consent for Video Recording
+      hint: Do you consent to video recording of your child during the study?
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      required: true
+    - id: 23
+      name: additional_permissions
+      label: Additional Permissions or Restrictions
+      hint: Any additional permissions or restrictions you would like to note
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: parent_guardian_signature
+      label: Parent or Guardian Signature
+      hint: Type your full name as your electronic signature
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: signature_date
+      label: Signature Date
+      hint: Date of electronic signature
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,135 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Access Escalation Request Form
+    pages:
+    - id: 1
+      name: requester_name
+      label: Requester Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_id
+      label: Employee ID
+      hint: Your employee identification number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: department
+      label: Department
+      hint: Your department
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: manager_name
+      label: Manager Name
+      hint: Your direct manager's name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: manager_email
+      label: Manager Email
+      hint: Your direct manager's email for approval
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: current_access_level
+      label: Current Access Level
+      hint: What access level do you currently have?
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: requested_access_level
+      label: Requested Access Level
+      hint: What elevated access level are you requesting?
+      type: select_one
+      options: ["Read Only", "Standard User", "Power User", "Administrator", "Super User", "Root Access"]
+      required: true
+    - id: 8
+      name: systems_affected
+      label: Systems Affected
+      hint: Which systems require elevated access?
+      type: select_multiple
+      options: ["Database Server", "Application Server", "Network Infrastructure", "Cloud Services", "File Server", "Email System", "Security Systems", "Other"]
+      required: true
+    - id: 9
+      name: business_justification
+      label: Business Justification
+      hint: Why do you need elevated access?
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: duration_requested
+      label: Duration Requested
+      hint: How long do you need this elevated access?
+      type: select_one
+      options: ["One Time", "Temporary - 24 Hours", "Temporary - 1 Week", "Temporary - 1 Month", "Permanent"]
+      required: true
+    - id: 11
+      name: requested_start_date
+      label: Requested Start Date
+      hint: When do you need the elevated access to begin?
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: requested_end_date
+      label: Requested End Date
+      hint: When should the elevated access end?
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: approval_authority
+      label: Approval Authority
+      hint: Who has authority to approve this request?
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: risk_assessment
+      label: Risk Assessment
+      hint: What risks are associated with this access escalation?
+      type: select_one
+      options: ["Low", "Medium", "High", "Critical"]
+      required: true
+    - id: 15
+      name: compliance_requirements
+      label: Compliance Requirements
+      hint: Are there any compliance requirements for this access?
+      type: select_multiple
+      options: ["SOX", "HIPAA", "PCI DSS", "GDPR", "FERPA", "Sarbanes-Oxley", "None"]
+      required: false
+    - id: 16
+      name: audit_trail_required
+      label: Audit Trail Required
+      hint: Does this access require enhanced logging?
+      type: select_one
+      options: ["Yes", "No", "As Determined by Security Team"]
+      required: true
+    - id: 17
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information about this request
+      type: text
+      options: []
+      required: false

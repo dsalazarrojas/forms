@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tax Debt Bankruptcy Discharge Eligibility Intake Form
+    pages:
+    - id: 1
+      name: tax_debt_details
+      label: Tax Debt Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: tax_year
+      label: Tax Year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: bankruptcy_details
+      label: Bankruptcy Details
+      hint: null
+      type: select_one
+      options:
+      - Chapter 7
+      - Chapter 11
+      - Chapter 13
+      required: true
+    - id: 4
+      name: financial_institutions_involved
+      label: Financial Institutions Involved
+      hint: null
+      type: select_multiple
+      options:
+      - Bank A
+      - Bank B
+      - Bank C
+      required: true
+    - id: 5
+      name: debt_amount
+      label: Debt Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: tax_debt_status
+      label: Tax Debt Status
+      hint: null
+      type: select_one
+      options:
+      - active
+      - inactive
+      - pending
+      required: true
+    - id: 7
+      name: bankruptcy_filing_date
+      label: Bankruptcy Filing Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: discharge_date
+      label: Discharge Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 10
+      name: reported
+      label: Reported
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: reported_by
+      label: Reported By
+      hint: null
+      type: select_one
+      options:
+      - John Doe
+      - Jane Doe
+      - Jim Doe
+      required: true
+    - id: 14
+      name: intake_form
+      label: Intake Form
+      hint: null
+      type: select_one
+      options:
+      - Tax Debt Bankruptcy Discharge Eligibility Form
+      - Tax Form 1
+      - Tax Form 2
+      required: true
+    - id: 15
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - John Doe
+      - Jane Doe
+      - Jim Doe
+      required: true
+    - id: 16
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 18
+      name: signature_date
+      label: Signature Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: signature_by
+      label: Signed By
+      hint: null
+      type: select_one
+      options:
+      - John Doe
+      - Jane Doe
+      - Jim Doe
+      required: true
+    - id: 20
+      name: verified_by
+      label: Verified By
+      hint: null
+      type: select_one
+      options:
+      - John Doe
+      - Jane Doe
+      - Jim Doe
+      required: true
+    - id: 21
+      name: verified_date
+      label: Verified Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: reported
+      label: Reported
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true

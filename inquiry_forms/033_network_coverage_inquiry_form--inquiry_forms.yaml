@@ -1,0 +1,43 @@
+inputSchema:
+  type: object
+  properties:
+    title: Network Coverage Inquiry Form
+    pages:
+    - id: 1
+      name: form_1
+      label: first_page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_2
+      label: select
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''option_1''}'
+      - '{''id'': 2, ''name'': ''option_2''}'
+      - '{''id'': 3, ''name'': ''option_3''}'
+      required: false
+    - id: 3
+      name: form_3
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: form_4
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: form_5
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

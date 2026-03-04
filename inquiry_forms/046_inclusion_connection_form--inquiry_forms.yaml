@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: inclusion_connection_form
+    pages:
+    - id: 1
+      name: program_name
+      label: Program Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: service_provider
+      label: Service Provider
+      hint: null
+      type: select_multiple
+      options:
+      - Value 1
+      - Value 2
+      required: true
+    - id: 6
+      name: support_request
+      label: Support Request
+      hint: null
+      type: text
+      options: []
+      required: false

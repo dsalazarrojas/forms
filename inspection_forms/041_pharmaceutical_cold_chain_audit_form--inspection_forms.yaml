@@ -1,0 +1,140 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pharmaceutical Cold Chain Audit Form
+    pages:
+    - id: 1
+      name: storage_conditions
+      label: Storage Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: storage_area
+      label: Storage Area
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: storage_temperature
+      label: Storage Temperature
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: storage_minimalist_assistant
+      label: Storage Humidity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: storage_area_conditioned
+      label: Storage Area Conditioned
+      hint: null
+      type: select_one
+      options:
+      - Label 1
+      - Label 2
+      - Label 3
+      required: false
+    - id: 6
+      name: storage_location
+      label: Storage Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: deviation_date
+      label: Deviation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: deviation_time
+      label: Deviation Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: deviation_description
+      label: Deviation Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: deviation_cause
+      label: Deviation Cause
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 11
+      name: deviation_resolution
+      label: Deviation Resolution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: storage_personnel
+      label: Storage Personnel
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 13
+      name: storage_equipment
+      label: Storage Equipment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: storage_materials
+      label: Storage Materials
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: storage_area_size
+      label: Storage Area Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: storage_area_conditioned_size
+      label: Storage Area Conditioned Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: storage_location_size
+      label: Storage Location Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: storage_location_depth
+      label: Storage Location Depth
+      hint: null
+      type: number
+      options: []
+      required: false

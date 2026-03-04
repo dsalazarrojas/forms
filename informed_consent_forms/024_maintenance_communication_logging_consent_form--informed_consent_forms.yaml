@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: maintenance_communication_logging_consent_form
+    pages:
+    - id: 1
+      name: maintenance_communication_logging_consent_form_title
+      label: Maintenance Communication Logging Consent Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: maintenance_communication_logging_consent_form_category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Informed Consent Forms
+      - Other
+      required: false
+    - id: 3
+      name: maintenance_communication_logging_consent_form_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: maintenance_communication_logging_consent_form_category_description
+      label: Category Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: maintenance_communication_logging_consent_form_category_description
+      label: Category Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: maintenance_communication_logging_consent_form_submitter_name
+      label: Submitter Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: maintenance_communication_logging_consent_form_submitter_email
+      label: Submitter Email
+      hint: Required for record-keeping and service quality
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: maintenance_communication_logging_consent_form_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: maintenance_communication_logging_consent_form_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: maintenance_communication_logging_consent_form_note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 11
+      name: maintenance_communication_logging_consent_form_submit
+      label: Submit
+      hint: Click to submit the form
+      type: select_one
+      options:
+      - Click to submit the form
+      - Other
+      required: false

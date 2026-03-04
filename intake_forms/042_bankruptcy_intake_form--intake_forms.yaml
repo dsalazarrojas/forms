@@ -1,0 +1,238 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bankruptcy Intake Form
+    pages:
+    - id: 1
+      name: debtor_full_name
+      label: Debtor Full Name
+      hint: Legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: debtor_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: debtor_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: debtor_address
+      label: Mailing Address
+      hint: Street, city, state, ZIP
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: social_security_number
+      label: Social Security Number
+      hint: Full SSN
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: drivers_license_number
+      label: Drivers License Number
+      hint: State and number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: marital_status
+      label: Marital Status
+      hint: Current status
+      type: select_one
+      options:
+      - Single
+      - Married
+      - Divorced
+      - Widowed
+      - Separated
+      required: true
+    - id: 9
+      name: spouse_name
+      label: Spouse Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: spouse_ssn
+      label: Spouse Social Security Number
+      hint: If filing jointly
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: dependents_count
+      label: Number of Dependents
+      hint: Children or others
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: bankruptcy_chapter
+      label: Bankruptcy Chapter
+      hint: Type of filing
+      type: select_one
+      options:
+      - Chapter 7
+      - Chapter 13
+      - Chapter 11
+      - Not Sure
+      required: true
+    - id: 13
+      name: employment_status
+      label: Employment Status
+      hint: Current employment
+      type: select_one
+      options:
+      - Employed
+      - Self-Employed
+      - Unemployed
+      - Retired
+      - Disabled
+      required: true
+    - id: 14
+      name: employer_name
+      label: Employer Name
+      hint: Company name
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: employer_address
+      label: Employer Address
+      hint: Work address
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: gross_monthly_income
+      label: Gross Monthly Income
+      hint: Before taxes
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: net_monthly_income
+      label: Net Monthly Income
+      hint: After taxes
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: monthly_expenses_total
+      label: Total Monthly Expenses
+      hint: All living expenses
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: creditors_list
+      label: List of Creditors
+      hint: Names and amounts
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: total_debt_amount
+      label: Total Debt Amount
+      hint: Sum of all debts
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: assets_list
+      label: List of Assets
+      hint: All property owned
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: real_estate_owned
+      label: Real Estate Owned
+      hint: Property details
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: vehicles_owned
+      label: Vehicles Owned
+      hint: Car, truck, etc
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: bank_accounts
+      label: Bank Accounts
+      hint: Institutions and balances
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: prior_bankruptcy
+      label: Prior Bankruptcy Filing
+      hint: Previous filings
+      type: select_one
+      options:
+      - Yes, within 8 years
+      - Yes, over 8 years ago
+      - false
+      required: true
+    - id: 26
+      name: legal_actions_pending
+      label: Pending Legal Actions
+      hint: Lawsuits, garnishments
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: financial_courses_completed
+      label: Financial Courses Completed
+      hint: Credit counseling
+      type: select_one
+      options:
+      - true
+      - false
+      - In Progress
+      required: false
+    - id: 28
+      name: attorney_representation
+      label: Attorney Representation
+      hint: Do you have counsel
+      type: select_one
+      options:
+      - Yes, have attorney
+      - No, need attorney
+      - Filing Pro Se
+      required: true
+    - id: 29
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: signature_date
+      label: Signature Date
+      hint: Date of form
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: quit_claim_deed_form
+    pages:
+    - id: 1
+      name: deed_grantee
+      label: Deed Grantee
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: deed_grantor
+      label: Deed Grantor
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: legal_description
+      label: Legal Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: tract_number
+      label: Tract Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_deed
+      label: Date of Deed
+      hint: Date of deed
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: deed_recording_district
+      label: Deed Recording District
+      hint: null
+      type: select_one
+      options:
+      - County Clerk
+      - County Recorder
+      - County Assessor
+      required: true
+    - id: 7
+      name: deed_recording_fee
+      label: Deed Recording Fee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: tract_size
+      label: Tract Size
+      hint: Size of the tract
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: deed_recording_date
+      label: Deed Recording Date
+      hint: Date of recording
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: mailing_address
+      label: Mailing Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: deed_recording_office
+      label: Deed Recording Office
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: recording_officer
+      label: Recording Officer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: tract_number_book
+      label: Tract Number Book
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: county_clerk
+      label: County Clerk
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: deed_type
+      label: Deed Type
+      hint: null
+      type: select_multiple
+      options:
+      - Quit Claim Deed
+      - General Warranty Deed
+      - Special Deed
+      - Trust Deed
+      - Leasehold
+      required: true
+    - id: 16
+      name: title_number
+      label: Title Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: deed_date
+      label: Date Deed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: grantor_address
+      label: Grantor Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: mailing_address_2
+      label: Mailing Address 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: grantor_phone
+      label: Grantor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: mailing_address_3
+      label: Mailing Address 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: grantor_email
+      label: Grantor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 23
+      name: grantor_date_of_birth
+      label: Grantor Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: grantor_social_security
+      label: Grantor Social Security
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: grantor_dob
+      label: Grantor Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false

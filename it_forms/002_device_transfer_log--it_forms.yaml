@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Device Transfer Log
+    pages:
+    - id: 1
+      name: device_transfer_log_form
+      label: Device Transfer Log Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: date_of_transfer
+      label: Date of Transfer
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: asset_name
+      label: Asset Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: from_organisation
+      label: From Organisation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: to_organisation
+      label: To Organisation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: asset_condition
+      label: Asset Condition
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: asset_status
+      label: Asset Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 8
+      name: device_type
+      label: Device Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: transfer_responsibility
+      label: Transfer Responsibility
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: transfer_reason
+      label: Transfer Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: transfer_date
+      label: Transfer Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: asset_serial_number
+      label: Asset Serial Number
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tenant Welfare Inspection Form
+    pages:
+    - id: 1
+      name: tenant_welfare_inspection_form_page_1
+      label: rental_unit_conditions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: welfare_visits
+      label: tenant_welfare_visits
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: date_of_last_inspection
+      label: date_of_last_inspection
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: findings
+      label: findings
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: action_planned
+      label: action_planned
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: next_inspection_date
+      label: next_inspection_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: completed
+      label: completed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: comments2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: follow_up_actions
+      label: follow_up_actions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: follow_up_date
+      label: follow_up_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: follow_up_status
+      label: follow_up_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 13
+      name: next_follow_up_date
+      label: next_follow_up_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: next_follow_up_status
+      label: next_follow_up_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 15
+      name: follow_up_comments
+      label: follow_up_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: follow_up_completed
+      label: follow_up_completed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: follow_up_comments
+      label: follow_up_comments2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: follow_up_status_comments
+      label: follow_up_status_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: tenant_id
+      label: tenant_id
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: property_id
+      label: property_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: completed_by
+      label: completed_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: date_completed
+      label: date_completed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: comments
+      label: comments3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: next_visit_status
+      label: next_visit_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 25
+      name: next_visit_comments
+      label: next_visit_comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Boutique Hotel Inquiry Form
+    pages:
+    - id: 1
+      name: inquirer_name
+      label: Inquirer name
+      hint: Full name of person making inquiry
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_email
+      label: Contact email
+      hint: Best email for follow up
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone number
+      hint: Optional phone for calls
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: inquiry_type
+      label: Inquiry type
+      hint: Nature of the inquiry
+      type: select_one
+      options:
+      - Reservation
+      - Event booking
+      - General question
+      - Group rates
+      required: true
+    - id: 5
+      name: preferred_dates
+      label: Preferred dates
+      hint: Dates relevant to the inquiry
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: message
+      label: Message
+      hint: Additional details about the inquiry
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: subscribe_updates
+      label: Subscribe to updates
+      hint: Receive promotional emails and offers
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 8
+      name: follow_up_preference
+      label: Follow up preference
+      hint: How would you like us to contact you
+      type: select_one
+      options:
+      - Email
+      - Phone
+      required: false

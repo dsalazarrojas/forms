@@ -1,0 +1,226 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: 10 Year Strategy Plan Questionnaire
+    pages:
+    - id: 1
+      name: section_header_personal_info
+      label: '--- Personal Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: Enter your legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email address
+      hint: We will send a confirmation to this address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone number
+      hint: Include country code
+      type: phone
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of birth
+      hint: YYYY-MM-DD
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: questionnaire_date
+      label: Date of questionnaire
+      hint: The date you are completing this form
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: section_header_financial_snapshot
+      label: '--- Financial Snapshot ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: annual_income
+      label: Annual gross income
+      hint: In local currency
+      type: decimal
+      options: []
+      required: true
+    - id: 9
+      name: current_investment_value
+      label: Current investment portfolio value
+      hint: Total market value in local currency
+      type: decimal
+      options: []
+      required: true
+    - id: 10
+      name: debt_total
+      label: Total debt outstanding
+      hint: Include mortgages, loans, credit cards
+      type: decimal
+      options: []
+      required: true
+    - id: 11
+      name: section_header_goals_objectives
+      label: '--- Goals & Objectives ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: primary_goal
+      label: Primary financial goal
+      hint: Choose the main focus for your 10‑year plan
+      type: select_one
+      options:
+      - Retirement
+      - Education
+      - Wealth Accumulation
+      - Debt Reduction
+      - Other
+      required: true
+    - id: 13
+      name: other_goal_description
+      label: If 'Other', describe your goal
+      hint: Provide a brief description
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: time_horizon_years
+      label: Desired time horizon (years)
+      hint: How many years you plan to invest
+      type: integer
+      options: []
+      required: true
+    - id: 15
+      name: risk_tolerance
+      label: Risk tolerance level
+      hint: Select the level you are comfortable with
+      type: select_one
+      options:
+      - Low
+      - Moderate
+      - High
+      required: true
+    - id: 16
+      name: investment_preferences
+      label: Preferred investment categories
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Stocks
+      - Bonds
+      - Real Estate
+      - Mutual Funds
+      - ETFs
+      - Cash
+      - Alternative
+      required: true
+    - id: 17
+      name: section_header_current_strategy
+      label: '--- Current Strategy Overview ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: satisfied_with_current_strategy
+      label: Satisfaction with current investment strategy
+      hint: Rate your overall satisfaction
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 19
+      name: current_strategy_rating
+      label: Current strategy rating (1‑10)
+      hint: 1 = worst, 10 = best
+      type: integer
+      options: []
+      required: true
+    - id: 20
+      name: section_header_feedback
+      label: '--- Questionnaire Feedback ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: satisfaction
+      label: How satisfied are you with this questionnaire?
+      hint: Choose one
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 22
+      name: overall_rating
+      label: Overall rating (1‑10)
+      hint: 1 = worst, 10 = best
+      type: integer
+      options: []
+      required: true
+    - id: 23
+      name: experience_aspects
+      label: Which aspects applied to your experience? (select all)
+      hint: Leave blank if none
+      type: select_multiple
+      options:
+      - Easy to use
+      - Fast
+      - Reliable
+      - Missing feature
+      - Confusing
+      - Well designed
+      required: false
+    - id: 24
+      name: open_feedback
+      label: Additional feedback or suggestions
+      hint: Share any thoughts you have
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_comments
+      label: Additional comments
+      hint: Use this space for anything else you’d like us to know
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Disclaimer
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: service_date
+      label: Service Date
+      hint: Date of your appointment
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: service_type
+      label: Service Type
+      hint: Hair, nails, spa, other
+      type: select_one
+      options:
+      - Hair Service
+      - Nail Service
+      - Spa Service
+      - Makeup Service
+      - Multiple Services
+      - Other
+      required: true
+    - id: 6
+      name: covid_risk_acknowledgment
+      label: COVID-19 Transmission Risk Acknowledgment
+      hint: I understand COVID-19 is a serious illness
+      type: select_one
+      options:
+      - I acknowledge
+      - I do not acknowledge
+      required: true
+    - id: 7
+      name: transmission_understanding
+      label: I understand COVID-19 spreads through close contact
+      hint: null
+      type: select_one
+      options:
+      - Yes, I understand
+      - No, I do not understand
+      required: true
+    - id: 8
+      name: exposure_risk
+      label: I acknowledge the risk of exposure during my service
+      hint: Despite precautions by the salon
+      type: select_one
+      options:
+      - I acknowledge
+      - I do not acknowledge
+      - Have questions
+      required: true
+    - id: 9
+      name: precautions_understood
+      label: I understand the salon's COVID-19 precautions
+      hint: Masking, sanitizing, distancing, etc.
+      type: select_one
+      options:
+      - Yes, I understand
+      - No, I do not understand
+      - Have questions
+      required: true
+    - id: 10
+      name: symptom_attestation
+      label: I do not have COVID-19 symptoms today
+      hint: Fever, cough, shortness of breath, loss of taste/smell
+      type: select_one
+      options:
+      - I attest
+      - I have symptoms
+      - Not sure
+      required: true
+    - id: 11
+      name: exposure_declaration
+      label: I have not been exposed to COVID-19 in the past 14 days
+      hint: null
+      type: select_one
+      options:
+      - I declare
+      - I may have been exposed
+      - Not sure
+      required: true
+    - id: 12
+      name: quarantine_declaration
+      label: I am not currently under quarantine or isolation
+      hint: null
+      type: select_one
+      options:
+      - I declare
+      - I am under quarantine
+      - Not sure
+      required: true
+    - id: 13
+      name: test_positive_recent
+      label: I have not tested positive for COVID-19 in the past 10 days
+      hint: null
+      type: select_one
+      options:
+      - I declare
+      - I tested positive
+      - Prefer not to answer
+      required: true
+    - id: 14
+      name: vaccination_status
+      label: Vaccination Status
+      hint: null
+      type: select_one
+      options:
+      - Fully vaccinated
+      - Partially vaccinated
+      - Not vaccinated
+      - Prefer not to disclose
+      required: false
+    - id: 15
+      name: liability_waiver
+      label: I release the salon from liability related to COVID-19
+      hint: To the extent permitted by law
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      - Have questions
+      required: true
+    - id: 16
+      name: assumption_of_risk
+      label: I assume the risk of COVID-19 exposure
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      - Have questions
+      required: true
+    - id: 17
+      name: salon_compliance
+      label: I agree to follow all salon safety guidelines
+      hint: Masking, distance, hand sanitizing, etc.
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      - Have questions
+      required: true
+    - id: 18
+      name: information_accuracy
+      label: I certify the information provided is accurate
+      hint: null
+      type: select_one
+      options:
+      - I certify
+      - Information is not accurate
+      - Uncertain
+      required: true
+    - id: 19
+      name: acknowledgment_read
+      label: I have read and understand this disclaimer
+      hint: null
+      type: select_one
+      options:
+      - Yes, I have read it
+      - 'No'
+      - Need help understanding
+      required: true
+    - id: 20
+      name: consent_date
+      label: Consent Date
+      hint: Date you are signing this disclaimer
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: final_consent
+      label: I consent to receive services with COVID-19 risk acknowledgment
+      hint: By confirming, you accept all terms
+      type: select_one
+      options:
+      - I fully consent
+      - I do not consent
+      - Need more information
+      required: true

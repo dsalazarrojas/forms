@@ -1,0 +1,55 @@
+inputSchema:
+  type: object
+  properties:
+    title: Urban Land Management Application
+    pages:
+    - id: 1
+      name: application_submission
+      label: Submit Application
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: uploaded_files
+      label: Upload Files
+      hint: Upload relevant documents and images
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: organized_data
+      label: Organized Application Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: landowner_details
+      label: Landowner Details
+      hint: Enter landowner details
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: municipal_details
+      label: Municipal Details
+      hint: Enter municipal details
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: review_status
+      label: Review Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

@@ -1,0 +1,168 @@
+inputSchema:
+  type: object
+  properties:
+    title: dental_website_development_intake_form
+    pages:
+    - id: 1
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: project_scope
+      label: Project Scope
+      hint: Please describe your project scope in as much detail as possible
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: project_budget
+      label: Project Budget
+      hint: Enter a value with decimal places (e.g., 5000.99)
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: expected_start_date
+      label: Expected Start Date
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: null
+      type: select_multiple
+      options:
+      - Phone
+      - Email
+      - Mail
+      required: false
+    - id: 6
+      name: dental_type
+      label: Type of Practice
+      hint: null
+      type: select_one
+      options:
+      - General Dentist
+      - Specialist
+      - Orthodontist
+      - Pediatric
+      - Periodontal
+      - Other
+      required: true
+    - id: 7
+      name: practice_size
+      label: Practice Size
+      hint: Number of employees
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: technology_stack
+      label: Technology Stack
+      hint: List your technology stack (e.g., WordPress, React, etc.)
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: target_audience
+      label: Target Audience
+      hint: Who is your target audience?
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: website_features
+      label: Website Features
+      hint: What features would you like on your website?
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: website_launch_date
+      label: Website Launch Date
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: contact_person
+      label: Contact Person
+      hint: Who is the contact person for your practice?
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: address
+      label: Address
+      hint: What is your practice address?
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: website
+      label: Website
+      hint: What is your current website URL?
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: current_technology_stack
+      label: Current Technology Stack
+      hint: What is your current technology stack?
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: current_platform
+      label: Current Platform
+      hint: What is your current platform?
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: current_content_management_system
+      label: Current Content Management System
+      hint: What is your current Content Management System?
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: current_website_url
+      label: Current Website URL
+      hint: What is your current website URL?
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: website_development_preferences
+      label: Website Development Preferences
+      hint: What are your website development preferences?
+      type: text
+      options: []
+      required: false

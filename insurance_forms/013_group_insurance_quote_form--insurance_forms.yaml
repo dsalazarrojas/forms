@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: Group Insurance Quote Form
+    pages:
+    - id: 1
+      name: group_insurance_quote_form_group_info
+      label: Group info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: group_insurance_quote_form_quote_request
+      label: Quote request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: group_insurance_quote_form_quote_terms
+      label: Quote terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: group_insurance_quote_form_insurance_products
+      label: Insurance products
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 41, ''name'': ''group_insurance_quote_form_insurance_product_option_1'',
+        ''label'': ''Option 1''}'
+      - '{''id'': 42, ''name'': ''group_insurance_quote_form_insurance_product_option_2'',
+        ''label'': ''Option 2''}'
+      - '{''id'': 43, ''name'': ''group_insurance_quote_form_insurance_product_option_3'',
+        ''label'': ''Option 3''}'
+      required: false
+    - id: 5
+      name: group_insurance_quote_form_quote_frequency
+      label: Quote frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 51, ''name'': ''group_insurance_quote_form_quote_frequency_option_1'',
+        ''label'': ''Option 1''}'
+      - '{''id'': 52, ''name'': ''group_insurance_quote_form_quote_frequency_option_2'',
+        ''label'': ''Option 2''}'
+      - '{''id'': 53, ''name'': ''group_insurance_quote_form_quote_frequency_option_3'',
+        ''label'': ''Option 3''}'
+      required: false
+    - id: 6
+      name: group_insurance_quote_form_quote_amount
+      label: Quote amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: group_insurance_quote_form_insurance_coverage
+      label: Insurance coverage
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: group_insurance_quote_form_additional_info
+      label: Additional info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: group_insurance_quote_form_phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: group_insurance_quote_form_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: group_insurance_quote_form_insurer
+      label: Insurer
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 111, ''name'': ''group_insurance_quote_form_insurer_option_1'',
+        ''label'': ''Option 1''}'
+      - '{''id'': 112, ''name'': ''group_insurance_quote_form_insurer_option_2'',
+        ''label'': ''Option 2''}'
+      required: false
+    - id: 12
+      name: group_insurance_quote_form_note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

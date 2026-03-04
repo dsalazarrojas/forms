@@ -1,0 +1,165 @@
+inputSchema:
+  type: object
+  properties:
+    title: Telecommunications Service Incident Report Form
+    pages:
+    - id: 1
+      name: report_date
+      label: Report Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: service_issue
+      label: Service Issue
+      hint: Please describe what happened
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: affected_equipment
+      label: Affected Equipment
+      hint: Specify model number or equipment ID
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: affected_location
+      label: Affected Location
+      hint: Address or location affected by the issue
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: incident_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: reportee
+      label: Reportee
+      hint: null
+      type: select_one
+      options:
+      - Customer
+      - Staff
+      - Other
+      required: false
+    - id: 9
+      name: customer_name_reportee
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: staff_name_reportee
+      label: Staff Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submitter
+      label: Submitter
+      hint: null
+      type: select_one
+      options:
+      - Customer
+      - Staff
+      required: false
+    - id: 12
+      name: submitter_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: submitter_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: submitter_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: incident_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - In Progress
+      - Resolved
+      - Closed
+      required: false
+    - id: 16
+      name: incident_category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Network
+      - Service
+      - Hardware
+      - Software
+      - Other
+      required: false
+    - id: 17
+      name: incident_priority
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 18
+      name: incident_type
+      label: Type
+      hint: null
+      type: select_one
+      options:
+      - Outage
+      - Faulty
+      - Other
+      required: false
+    - id: 19
+      name: incident_impact
+      label: Impact
+      hint: Describe the impact of the incident
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: incident_resolution
+      label: Resolution
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,222 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animal Shelter Daily Intake Log
+    pages:
+    - id: 1
+      name: log_date
+      label: Intake Date
+      hint: Date of animal intake
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: staff_name
+      label: Staff Member Name
+      hint: Person completing intake
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: staff_id
+      label: Staff ID Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: intake_number
+      label: Daily Intake Number
+      hint: Sequence number for the day
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: animal_id
+      label: Animal ID or Tag Number
+      hint: Shelter-assigned identifier
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: animal_name
+      label: Animal Name
+      hint: If known
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: species
+      label: Species
+      hint: null
+      type: select_one
+      options:
+      - Dog
+      - Cat
+      - Rabbit
+      - Bird
+      - Small Mammal
+      - Reptile
+      - Livestock
+      - Wildlife
+      - Other
+      required: true
+    - id: 8
+      name: breed
+      label: Breed
+      hint: If known or apparent
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: color_markings
+      label: Color and Markings
+      hint: Physical description
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: sex
+      label: Sex
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Unknown
+      required: true
+    - id: 11
+      name: estimated_age
+      label: Estimated Age
+      hint: In years or months
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: weight
+      label: Weight
+      hint: In pounds
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: intake_type
+      label: Intake Type
+      hint: How did the animal arrive
+      type: select_one
+      options:
+      - Owner Surrender
+      - Stray
+      - Transfer from Another Shelter
+      - Seizure or Confiscation
+      - Found Animal
+      - Return to Shelter
+      - Wildlife Rescue
+      - Other
+      required: true
+    - id: 14
+      name: intake_source
+      label: Intake Source
+      hint: Who brought the animal
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: source_contact
+      label: Source Contact Information
+      hint: Name and phone if available
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: intake_reason
+      label: Reason for Intake
+      hint: Why is the animal here
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: intake_location
+      label: Intake Location
+      hint: Where was animal found or from
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: microchip_status
+      label: Microchip Status
+      hint: null
+      type: select_one
+      options:
+      - Microchipped - Number Scanned
+      - Not Microchipped
+      - Unknown - Will Scan
+      required: true
+    - id: 19
+      name: microchip_number
+      label: Microchip Number
+      hint: If found
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: health_status
+      label: Initial Health Assessment
+      hint: null
+      type: select_one
+      options:
+      - Healthy
+      - Minor Issues
+      - Needs Medical Attention
+      - Critical Condition
+      - Deceased on Arrival
+      - Unknown
+      required: true
+    - id: 21
+      name: health_notes
+      label: Health Observations
+      hint: Injuries symptoms or concerns
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: behavior_notes
+      label: Initial Behavior Assessment
+      hint: Temperament observations
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: quarantine_required
+      label: Is Quarantine Required
+      hint: null
+      type: select_one
+      options:
+      - Yes - Medical
+      - Yes - Behavioral
+      - Yes - Standard Protocol
+      - false
+      required: true
+    - id: 24
+      name: housing_assignment
+      label: Housing Assignment
+      hint: Where will animal be housed
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: photos_taken
+      label: Were Intake Photos Taken
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 26
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false

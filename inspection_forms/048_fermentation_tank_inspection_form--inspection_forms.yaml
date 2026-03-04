@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fermentation Tank Inspection Form
+    pages:
+    - id: 1
+      name: tank_number
+      label: Tank Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: tank_type
+      label: Tank Type
+      hint: null
+      type: select_one
+      options:
+      - '0'
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 3
+      name: tank_condition
+      label: Tank Condition
+      hint: null
+      type: select_multiple
+      options:
+      - Clean
+      - Stained
+      - Dirty
+      - Leaking
+      required: false
+    - id: 4
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: temperature
+      label: Temperature
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: level
+      label: Level
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 8
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - '0'
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 9
+      name: assigned_at
+      label: Assigned At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: Contact email
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: signature
+      label: Signature
+      hint: null
+      type: select_one
+      options:
+      - '0'
+      - '1'
+      - '2'
+      - '3'
+      required: false

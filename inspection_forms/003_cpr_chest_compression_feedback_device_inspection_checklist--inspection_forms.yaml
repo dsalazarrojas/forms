@@ -1,0 +1,139 @@
+inputSchema:
+  type: object
+  properties:
+    title: CPR Chest Compression Feedback Device Inspection Checklist
+    pages:
+    - id: 1
+      name: inspection_header
+      label: -- Inspection Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: inspector_name
+      label: Inspector Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: inspection_date
+      label: Date of Inspection
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: device_serial_number
+      label: Device Serial Number
+      hint: Locate on the back or bottom of the unit
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: model_type
+      label: Device Model
+      hint: null
+      type: select_one
+      options:
+      - Model A - Basic
+      - Model B - Pro
+      - Model C - Wireless
+      - Advanced Feedback System
+      required: true
+    - id: 6
+      name: physical_checks_header
+      label: -- Physical Condition Checks --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: casing_integrity
+      label: Casing Integrity - no cracks or damage
+      hint: null
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      - N/A
+      required: true
+    - id: 8
+      name: battery_compartment
+      label: Battery Compartment Status
+      hint: Check for corrosion or loose contacts
+      type: select_one
+      options:
+      - Clean
+      - Needs Attention
+      - Critical Error
+      required: true
+    - id: 9
+      name: battery_level
+      label: Battery Charge Level
+      hint: Replace if below 25 percent
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: functional_tests_header
+      label: -- Functional Tests --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: power_on_self_test
+      label: Power-On Self-Test Successful
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 12
+      name: display_clarity
+      label: Display Visibility and Clarity
+      hint: ensure all LEDs or screen elements are functional
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Poor - Needs Replacement
+      required: true
+    - id: 13
+      name: compression_depth_accuracy
+      label: Compression Depth Accuracy Test
+      hint: Use calibration manikin for verification
+      type: select_one
+      options:
+      - Within Tolerance
+      - Out of Tolerance
+      required: true
+    - id: 14
+      name: rate_feedback_accuracy
+      label: Rate Feedback Accuracy Test
+      hint: null
+      type: select_one
+      options:
+      - Within Tolerance
+      - Out of Tolerance
+      required: true
+    - id: 15
+      name: maintenance_notes
+      label: Maintenance or Repair Notes
+      hint: Describe any issues found during inspection
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: final_status
+      label: Overall Inspection Result
+      hint: null
+      type: select_one
+      options:
+      - Certified for Use
+      - Quarantine - Needs Repair
+      - Decommissioned
+      required: true

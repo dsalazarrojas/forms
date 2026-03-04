@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: urban_fire_hydrant_inspection_form
+    pages:
+    - id: 1
+      name: urban_fire_hydrant_inspection
+      label: Urban Fire Hydrant Inspection
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: firehydrant_location
+      label: Fire Hydrant Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: firehydrant_condition
+      label: Fire Hydrant Condition
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: firehydrant_inspection_frequency
+      label: Fire Hydrant Inspection Frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: firehydrant_inspection_date
+      label: Fire Hydrant Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: firehydrant_inspection_time
+      label: Fire Hydrant Inspection Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: firehydrant_status
+      label: Fire Hydrant Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 8
+      name: firehydrant_notes
+      label: Fire Hydrant Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: firehydrant_inspector
+      label: Fire Hydrant Inspector
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: firehydrant_department
+      label: Fire Hydrant Department
+      hint: null
+      type: text
+      options: []
+      required: false

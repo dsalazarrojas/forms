@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Internship Experience Evaluation Form
+    pages:
+    - id: 1
+      name: internship_form
+      label: Internship Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: program_location
+      label: Program Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: program_start_date
+      label: Program Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: program_end_date
+      label: Program End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: internship_experience
+      label: Internship Experience
+      hint: Describe your experiences during the internship
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: program_satisfaction
+      label: Program Satisfaction
+      hint: Rate your satisfaction with the program
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: rating_scale
+      label: Rating Scale
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Satisfactory
+      - Fair
+      - Poor
+      required: false
+    - id: 10
+      name: rating
+      label: Rating
+      hint: Please rate your satisfaction with the program
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

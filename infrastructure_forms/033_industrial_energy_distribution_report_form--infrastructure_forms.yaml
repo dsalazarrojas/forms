@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Industrial Energy Distribution Report Form
+    pages:
+    - id: 1
+      name: energy_sources
+      label: Energy Sources
+      hint: null
+      type: select_multiple
+      options:
+      - Utility
+      - Generator
+      - Other
+      required: false
+    - id: 2
+      name: total_energy_distributed
+      label: Total Energy Distributed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: operational_issues
+      label: Operational Issues
+      hint: Describe any issues with operational equipment
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: total_energy_capacity
+      label: Total Energy Capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: peak_demand
+      label: Peak Demand
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: average_demand
+      label: Average Demand
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: energy_distribution_channels
+      label: Energy Distribution Channels
+      hint: null
+      type: select_one
+      options:
+      - Pipe
+      - Wire
+      - Other
+      required: false
+    - id: 8
+      name: energy_transmission_capacity
+      label: Energy Transmission Capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: energy_consumption_factors
+      label: Energy Consumption Factors
+      hint: null
+      type: select_multiple
+      options:
+      - Temperature
+      - Humidity
+      - Other
+      required: false
+    - id: 10
+      name: operational_status
+      label: Operational Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Offline
+      required: false
+    - id: 11
+      name: maintenance_schedules
+      label: Maintenance Schedules
+      hint: null
+      type: select_multiple
+      options:
+      - Planned
+      - Unscheduled
+      required: false
+    - id: 12
+      name: operational_capacity
+      label: Operational Capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: total_energy_returned
+      label: Total Energy Returned
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: energy_returned_rate
+      label: Energy Returned Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: energy_consumption_rate
+      label: Energy Consumption Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: operational_performance
+      label: Operational Performance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: maintenance_cost
+      label: Maintenance Cost
+      hint: Describe any maintenance cost associated with operational equipment
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: maintenance_schedules
+      label: Maintenance Schedules
+      hint: null
+      type: select_multiple
+      options:
+      - Planned
+      - Unscheduled
+      required: false
+    - id: 19
+      name: operational_issues
+      label: Operational Issues
+      hint: Describe any operational issues with equipment or process
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: created_by
+      label: Created By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: created_date
+      label: Created Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: updated_date
+      label: Updated Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: total_energy_used
+      label: Total Energy Used
+      hint: null
+      type: number
+      options: []
+      required: false

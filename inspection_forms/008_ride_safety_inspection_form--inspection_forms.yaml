@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ride Safety Inspection Form
+    pages:
+    - id: 1
+      name: ride_safety_inspection_form_1
+      label: Ride Inspection
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: ride_safety_inspection_form_2
+      label: Ride ID
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: ride_safety_inspection_form_3
+      label: Date of Inspection
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: ride_safety_inspection_form_4
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: ride_safety_inspection_form_5
+      label: Inspector Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: ride_safety_inspection_form_6
+      label: Ride Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: ride_safety_inspection_form_7
+      label: Safety Device Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 8
+      name: ride_safety_inspection_form_8
+      label: Safety Device Serial Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: ride_safety_inspection_form_9
+      label: Inspection Frequency
+      hint: null
+      type: select_one
+      options:
+      - daily
+      - weekly
+      - monthly
+      - quarterly
+      required: false

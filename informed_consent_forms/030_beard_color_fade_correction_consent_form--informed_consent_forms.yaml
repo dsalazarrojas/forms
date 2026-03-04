@@ -1,0 +1,162 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beard Color Fade Correction Consent Form
+    pages:
+    - id: 1
+      name: client_first_name
+      label: First Name
+      hint: Client first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_last_name
+      label: Last Name
+      hint: Client last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: Client DOB
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: appointment_date
+      label: Appointment Date
+      hint: Scheduled date
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: barber_stylist_name
+      label: Barber or Stylist Name
+      hint: Service provider
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: current_beard_color
+      label: Current Beard Color
+      hint: Natural or dyed
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: desired_color
+      label: Desired Color Result
+      hint: What color wanted
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: previous_color_treatments
+      label: Previous Color Treatments
+      hint: When was last colored
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: hair_dye_allergies
+      label: Hair Dye Allergies
+      hint: Any allergies
+      type: select_one
+      options:
+      - Yes - PPD Allergy
+      - Yes - Other Allergy
+      - No Known Allergies
+      - Not Sure
+      required: true
+    - id: 12
+      name: patch_test_required
+      label: Patch Test Required
+      hint: Has patch test been done
+      type: select_one
+      options:
+      - Yes - Completed
+      - Yes - Scheduled
+      - No - Not Done
+      required: true
+    - id: 13
+      name: scalp_conditions
+      label: Scalp or Skin Conditions
+      hint: Any conditions
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: treatment_risks_understood
+      label: I Understand Treatment Risks
+      hint: Do you understand risks
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: possible_reactions
+      label: Possible Reactions Explained
+      hint: Were reactions explained
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 16
+      name: aftercare_instructions
+      label: Aftercare Instructions Understood
+      hint: Do you understand aftercare
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 17
+      name: color_guarantee
+      label: I Understand Color Results May Vary
+      hint: No guarantee
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 18
+      name: consent_to_proceed
+      label: I Consent to Proceed
+      hint: Do you consent
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 19
+      name: client_signature
+      label: Client Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: signature_date
+      label: Signature Date
+      hint: Date signed
+      type: date
+      options: []
+      required: true

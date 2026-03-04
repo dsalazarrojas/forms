@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Car Insurance Claim Form
+    pages:
+    - id: 1
+      name: claimant_information
+      label: -- CLAIMANT INFORMATION --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: policy_information
+      label: -- POLICY INFORMATION --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: policy_number
+      label: Policy number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: policy_start_date
+      label: Policy effective date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: claim_type
+      label: Claim type
+      hint: null
+      type: select_one
+      options:
+      - Collision
+      - Comprehensive
+      - Liability
+      - Uninsured Motorist
+      - Medical Payments
+      - Property Damage
+      required: true
+    - id: 10
+      name: accident_information
+      label: -- ACCIDENT INFORMATION --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: accident_date
+      label: Date of accident
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: accident_time
+      label: Time of accident
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 13
+      name: accident_location
+      label: Location of accident
+      hint: Street address, city, state
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: accident_description
+      label: Description of what happened
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: weather_conditions
+      label: Weather conditions at time of accident
+      hint: null
+      type: select_one
+      options:
+      - Clear
+      - Rainy
+      - Snowy
+      - Foggy
+      - Icy
+      - Windy
+      - Other
+      required: false
+    - id: 16
+      name: road_conditions
+      label: Road conditions
+      hint: null
+      type: select_one
+      options:
+      - Dry
+      - Wet
+      - Icy
+      - Snowy
+      - Slippery
+      - Gravel
+      - Other
+      required: false
+    - id: 17
+      name: vehicle_information
+      label: -- VEHICLE INFORMATION --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: vehicle_year
+      label: Vehicle year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: vehicle_make
+      label: Vehicle make
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: vehicle_model
+      label: Vehicle model
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: vehicle_vin
+      label: Vehicle Identification Number (VIN)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: license_plate
+      label: License plate number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: vehicle_damage
+      label: Description of vehicle damage
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: estimated_repair_cost
+      label: Estimated repair cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: other_party_involved
+      label: Was another party involved?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Sure
+      required: true

@@ -1,0 +1,55 @@
+inputSchema:
+  type: object
+  properties:
+    title: Security Shift Checklist
+    pages:
+    - id: 1
+      name: security_shift_checklist
+      label: security_shift_checklist
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: security_team_members
+      label: security_team_members
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: security_standards
+      label: security_standards
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: potential_lapses
+      label: potential_lapses
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: comments
+      label: comments
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: security_standards_adopted
+      label: security_standards_adopted
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

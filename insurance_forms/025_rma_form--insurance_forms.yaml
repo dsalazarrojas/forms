@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: rma_form
+    pages:
+    - id: 1
+      name: product_return_reason
+      label: Product Return Reason
+      hint: null
+      type: select_multiple
+      options:
+      - Return
+      - Replace
+      - Repair
+      - Other
+      required: false
+    - id: 2
+      name: reason_description
+      label: Reason For Return
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: customer_address
+      label: Customer Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: order_number
+      label: Order Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: reason_description_return
+      label: Reason For Return
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: product_serial_number
+      label: Product Serial Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: customer_note
+      label: Customer Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: customer_signature
+      label: Customer Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: customer_agreement
+      label: Customer Agreement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: customer_agreement_checkbox
+      label: Customer Agreement Checkbox
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: false
+    - id: 14
+      name: rma_form_completion_status
+      label: RMA Form Completion Status
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - Not Completed
+      - Partially Completed
+      required: true
+    - id: 15
+      name: order_status
+      label: Order Status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - Closed
+      - On Hold
+      required: true
+    - id: 16
+      name: reason_returned_item_id
+      label: Reason Returned Item ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: reason_returned_item_serial_number
+      label: Reason Returned Item Serial Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: reason_returned_item_description
+      label: Reason Returned Item Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: reason_returned_item_reason_description
+      label: Reason Returned Item Reason Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: reason_returned_item_serial_number
+      label: Reason Returned Item Serial Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: customer_signature_date
+      label: Customer Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: reason_returned_item_returned_status
+      label: Reason Returned Item Returned Status
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: reason_returned_item_returned_date
+      label: Reason Returned Item Returned Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: reason_returned_item_returned_by
+      label: Reason Returned Item Returned By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: reason_returned_item_returned_comments
+      label: Reason Returned Item Returned Comments
+      hint: null
+      type: text
+      options: []
+      required: false

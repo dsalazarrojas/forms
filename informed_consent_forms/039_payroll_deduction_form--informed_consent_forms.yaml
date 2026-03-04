@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Payroll Deduction Form
+    pages:
+    - id: 1
+      name: payroll_deduction_form_1
+      label: payroll_deduction_form_1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: paycheque_id
+      label: paycheque_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: paycheque_amount
+      label: paycheque_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: deduction_1_id
+      label: deduction_1_id
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 5
+      name: deduction_1_amount
+      label: deduction_1_amount
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: deduction_2_id
+      label: deduction_2_id
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 7
+      name: deduction_2_amount
+      label: deduction_2_amount
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submit_button
+      label: submit_button
+      hint: null
+      type: note
+      options: []
+      required: false

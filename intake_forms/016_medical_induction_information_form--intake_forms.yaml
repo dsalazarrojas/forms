@@ -1,0 +1,135 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Induction Information Form
+    pages:
+    - id: 1
+      name: name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: Date Of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: visit_date
+      label: Visit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: visit_time
+      label: Visit Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: duration
+      label: Duration
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: appointment_type
+      label: Appointment Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''New Patient'', ''label'': ''New Patient''}'
+      - '{''id'': 2, ''name'': ''Follow-up'', ''label'': ''Follow-up''}'
+      required: false
+    - id: 13
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Email'', ''label'': ''Email''}'
+      - '{''id'': 2, ''name'': ''Phone'', ''label'': ''Phone''}'
+      - '{''id'': 3, ''name'': ''SMS'', ''label'': ''SMS''}'
+      required: false
+    - id: 14
+      name: contact_frequency
+      label: Contact Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Daily'', ''label'': ''Daily''}'
+      - '{''id'': 2, ''name'': ''Weekly'', ''label'': ''Weekly''}'
+      - '{''id'': 3, ''name'': ''Monthly'', ''label'': ''Monthly''}'
+      required: false
+    - id: 15
+      name: emergency_name
+      label: Emergency Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: emergency_number
+      label: Emergency Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: emergency_relationship
+      label: Emergency Relationship
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Parent'', ''label'': ''Parent''}'
+      - '{''id'': 2, ''name'': ''Spouse'', ''label'': ''Spouse''}'
+      - '{''id'': 3, ''name'': ''Child'', ''label'': ''Child''}'
+      required: false

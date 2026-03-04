@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Eco Certification Support Contact Form
+    pages:
+    - id: 1
+      name: form_first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: form_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: form_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: form_message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: form_inquiry_type
+      label: Inquiry type
+      hint: null
+      type: select_one
+      options:
+      - Eco-Certification
+      - General
+      - Other
+      required: false
+    - id: 7
+      name: form_agree
+      label: Agree to terms of use
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: form_terms
+      label: Terms of use
+      hint: null
+      type: text
+      options: []
+      required: false

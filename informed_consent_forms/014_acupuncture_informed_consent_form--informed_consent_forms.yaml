@@ -1,0 +1,130 @@
+inputSchema:
+  type: object
+  properties:
+    title: Acupuncture Informed Consent Form
+    pages:
+    - id: 1
+      name: consent_intro
+      label: -- Informed Consent for Acupuncture Treatment --
+      hint: Please read the following information carefully regarding your treatment
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: treatment_description
+      label: -- Nature of Treatment --
+      hint: I understand that treatment may involve the insertion of sterile, disposable
+        needles through the skin at specific points. Other techniques may include
+        cupping, moxibustion, or Tui Na massage.
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: risk_disclosure
+      label: -- Risks and Side Effects --
+      hint: Potential risks include minor bruising, bleeding, temporary soreness,
+        or lightheadedness. Very rare risks include infection or pneumothorax.
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: risk_acknowledgment
+      label: I have been informed of and understand the potential risks and side effects
+      hint: null
+      type: select_one
+      options:
+      - I Understand and Acknowledge
+      - Other
+      required: true
+    - id: 6
+      name: health_declaration_header
+      label: -- Health Declaration --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: blood_clotting_disorders
+      label: Do you have a bleeding disorder or take blood thinners?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - Yes (Please specify below)
+      required: true
+    - id: 8
+      name: blood_thinners_detail
+      label: Details of Bleeding Disorders / Medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: pacemaker_check
+      label: Do you have a pacemaker or electronic medical implant?
+      hint: Important if electrical stimulation is used
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 10
+      name: pregnancy_check
+      label: Is there any possibility that you are pregnant?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      - Not Applicable
+      required: true
+    - id: 11
+      name: consent_agreement_header
+      label: -- Consent Agreement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: right_to_withdraw
+      label: I understand that I have the right to refuse or discontinue treatment
+        at any time
+      hint: null
+      type: select_one
+      options:
+      - I Understand
+      - Other
+      required: true
+    - id: 13
+      name: medical_consultation
+      label: I understand that acupuncture is not a substitute for conventional medical
+        diagnosis
+      hint: null
+      type: select_one
+      options:
+      - I Understand
+      - Other
+      required: true
+    - id: 14
+      name: final_consent_signature
+      label: I hereby authorize the performance of acupuncture and related procedures
+      hint: null
+      type: select_one
+      options:
+      - I Give My Consent
+      - Other
+      required: true
+    - id: 15
+      name: date_of_consent
+      label: Date of Signature
+      hint: null
+      type: date
+      options: []
+      required: true

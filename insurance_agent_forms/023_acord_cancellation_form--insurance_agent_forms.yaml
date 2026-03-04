@@ -1,0 +1,127 @@
+inputSchema:
+  type: object
+  properties:
+    title: Acord Cancellation Form
+    pages:
+    - id: 1
+      name: policyholder_name
+      label: Policyholder Name
+      hint: Full name of the policyholder requesting cancellation
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: policy_number
+      label: Policy Number
+      hint: The unique identifier for the insurance policy
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: insurance_company
+      label: Insurance Company
+      hint: Name of the insurance company that issued the policy
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: agent_name
+      label: Agent Name
+      hint: Name of the insurance agent handling this cancellation
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: agent_license_number
+      label: Agent License Number
+      hint: State license number of the insurance agent
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: cancellation_date
+      label: Requested Cancellation Date
+      hint: Date when the policy cancellation should take effect
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: cancellation_reason
+      label: Reason for Cancellation
+      hint: Select the primary reason for cancelling the policy
+      type: select_one
+      options:
+      - Policy expired
+      - Premium not paid
+      - Duplicate policy
+      - Moved out of coverage area
+      - Found better rates
+      - No longer needed
+      - Claim dispute
+      - Other
+      required: true
+    - id: 8
+      name: premium_paid_through_date
+      label: Premium Paid Through Date
+      hint: Date through which premiums have been paid
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: refund_amount
+      label: Refund Amount (if applicable)
+      hint: Amount to be refunded to the policyholder if any
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: prorate_calculation
+      label: Proration Calculation
+      hint: How was the refund amount calculated
+      type: select_one
+      options:
+      - Short-rate basis
+      - Pro-rata basis
+      - No refund
+      - Other calculation method
+      required: false
+    - id: 11
+      name: notice_provided
+      label: Notice Provided to Insured
+      hint: Was proper notice provided to the insured before cancellation
+      type: select_one
+      options:
+      - Yes, notice provided
+      - No, emergency cancellation
+      - Waived by insured
+      - Not required
+      required: true
+    - id: 12
+      name: effective_date
+      label: Policy Effective Date
+      hint: Original date when the policy became effective
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: policy_type
+      label: Type of Insurance Policy
+      hint: Category of insurance being cancelled
+      type: select_one
+      options:
+      - Auto
+      - Homeowners
+      - Renters
+      - Life
+      - Health
+      - Commercial
+      - Umbrella
+      - Other
+      required: true
+    - id: 14
+      name: additional_notes
+      label: Additional Notes or Comments
+      hint: Any additional information regarding the cancellation
+      type: text
+      options: []
+      required: false

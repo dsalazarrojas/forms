@@ -1,0 +1,156 @@
+inputSchema:
+  type: object
+  properties:
+    title: Church Internship Application Form
+    pages:
+    - id: 1
+      name: header_intern_personal
+      label: -- Applicant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_name_intern
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: applicant_email_intern
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: applicant_phone_intern
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: header_education
+      label: -- Education and Training --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: current_school_institution
+      label: Current School or Institution
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: degree_focus_area
+      label: Major or Area of Study
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: year_in_program
+      label: Current Year in Program
+      hint: null
+      type: select_one
+      options:
+      - Freshman
+      - Sophomore
+      - Junior
+      - Senior
+      - Graduate Student
+      - Other
+      required: true
+    - id: 9
+      name: header_internship_pref
+      label: -- Internship Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: internship_track_interest
+      label: Preferred Internship Track
+      hint: Choose your primary interest area
+      type: select_one
+      options:
+      - Youth Ministry
+      - Worship and Music
+      - Community Outreach
+      - Church Administration
+      - Digital Media/Comms
+      - Pastoral Care
+      required: true
+    - id: 11
+      name: term_of_internship
+      label: Intended Term
+      hint: null
+      type: select_one
+      options:
+      - Summer (June-Aug)
+      - Fall Semester (Sept-Dec)
+      - Spring Semester (Jan-May)
+      - Full Year
+      required: true
+    - id: 12
+      name: weekly_hours_availability
+      label: Weekly Hours Commitment
+      hint: e.g., 10, 20, 40 hours
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: header_experience_intern
+      label: -- Experience and Calling --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: faith_journey_brief_intern
+      label: Briefly describe your faith journey and call to ministry
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: previous_ministry_experience_intern
+      label: List previous ministry or volunteer experience
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: intern_learning_goals
+      label: What are your top 3 goals for this internship?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: personal_references_intern
+      label: Name and Contact for 2 References
+      hint: One must be a pastor or professor
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: background_check_auth_intern
+      label: I authorize a background check as part of the application process
+      hint: null
+      type: select_one
+      options:
+      - I Authorize
+      - Other
+      required: true
+    - id: 19
+      name: application_date_intern
+      label: Date of Application
+      hint: null
+      type: date
+      options: []
+      required: true

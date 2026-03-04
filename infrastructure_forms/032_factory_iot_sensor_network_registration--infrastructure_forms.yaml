@@ -1,0 +1,43 @@
+inputSchema:
+  type: object
+  properties:
+    title: Factory IoT Sensor Network Registration
+    pages:
+    - id: 1
+      name: network_identifier
+      label: Network Identifier
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: sensor_type
+      label: sensor_type
+      hint: null
+      type: select_one
+      options:
+      - temperature sensor
+      - humidity sensor
+      - pressure sensor
+      required: false
+    - id: 3
+      name: installation_date
+      label: Installation Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: sensor_type_id
+      label: Sensor Type ID
+      hint: null
+      type: number
+      options: []
+      required: false

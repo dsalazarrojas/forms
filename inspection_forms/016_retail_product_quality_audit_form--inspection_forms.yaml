@@ -1,0 +1,183 @@
+inputSchema:
+  type: object
+  properties:
+    title: Retail Product Quality Audit Form
+    pages:
+    - id: 1
+      name: audit_form_data
+      label: Audit Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: audit_questions
+      label: Questions
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: question_type
+      label: Type
+      hint: null
+      type: select_one
+      options:
+      - Physical
+      - Visual
+      - Documentation
+      required: true
+    - id: 4
+      name: observation_notes
+      label: Observation Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: product_name
+      label: Product Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: product_id
+      label: Product ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: audit_date
+      label: Audit Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: inspector_id
+      label: Inspector ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: audit_time
+      label: Audit Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: location_id
+      label: Location ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: location_name
+      label: Location Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: location_address
+      label: Location Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: latitude
+      label: Latitude
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: longitude
+      label: Longitude
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: image_url
+      label: Image URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: video_url
+      label: Video URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: audio_url
+      label: Audio URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: attachment_url
+      label: Attachment URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: document_url
+      label: Document URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: additional_data
+      label: Additional Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: image
+      label: Image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: video
+      label: Video
+      hint: null
+      type: text
+      options: []
+      required: false

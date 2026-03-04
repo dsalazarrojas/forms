@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: hotel_reopening_on_duty_form
+    pages:
+    - id: 1
+      name: hotel_name
+      label: hotel_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: manager_name
+      label: manager_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: reopening_date
+      label: reopening_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: social_distancing_measures
+      label: social_distancing_measures
+      hint: null
+      type: select_multiple
+      options:
+      - No social distancing measures
+      - Reduced occupancy limits
+      - Regular cleaning
+      - Hand sanitizer
+      - Temperature check
+      - Mask mandate
+      - Physical distancing
+      required: false
+    - id: 5
+      name: safety_precautions
+      label: safety_precautions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: employee_testing
+      label: employee_testing
+      hint: null
+      type: select_one
+      options:
+      - Not required
+      - Optional
+      - Required for all
+      required: true
+    - id: 7
+      name: contact_tracing
+      label: contact_tracing
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Basic (manual tracing)
+      - Advanced (QR code)
+      required: true
+    - id: 8
+      name: training_program
+      label: training_program
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Basic
+      - Advanced
+      required: true
+    - id: 9
+      name: emergency_procedure
+      label: emergency_procedure
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: zip
+      label: zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: city
+      label: city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: state
+      label: state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: country
+      label: country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: assigned_by
+      label: assigned_by
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: form_version
+      label: form_version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: date_created
+      label: date_created
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: date_completed
+      label: date_completed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: completed_by
+      label: completed_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false

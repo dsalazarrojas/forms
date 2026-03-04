@@ -1,0 +1,129 @@
+inputSchema:
+  type: object
+  properties:
+    title: walkthrough_inspection_form
+    pages:
+    - id: 1
+      name: tank_id
+      label: tank_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: tank_name
+      label: tank_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: tank_status
+      label: tank_status
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Bad
+      - Critical
+      required: false
+    - id: 4
+      name: inspection_date
+      label: inspection_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: tank_condition
+      label: tank_condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: tank_capacity
+      label: tank_capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: tank_height
+      label: tank_height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: tank_width
+      label: tank_width
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: tank_depth
+      label: tank_depth
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: tank_length
+      label: tank_length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: tank_comments
+      label: tank_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: tank_image
+      label: tank_image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: tank_video
+      label: tank_video
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: tank_audio
+      label: tank_audio
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: tank_file
+      label: tank_file
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: tank_status_critical
+      label: tank_status_critical
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Critical
+      required: false

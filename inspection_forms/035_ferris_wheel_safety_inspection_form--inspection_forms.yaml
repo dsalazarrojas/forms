@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ferris Wheel Safety Inspection Form
+    pages:
+    - id: 1
+      name: inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: inspector_name
+      label: inspector_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: ride_operator_id
+      label: ride_operator
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: ride_operator_contact_info
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: ride_operator_address
+      label: ride_operator_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: ride_operator_phone
+      label: ride_operator_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: ride_name
+      label: ride_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: ride_id_number
+      label: ride_id_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: ride_type
+      label: ride_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: ride_capacity
+      label: ride_capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: ride_location
+      label: ride_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: ride_status
+      label: ride_status
+      hint: null
+      type: text
+      options: []
+      required: false

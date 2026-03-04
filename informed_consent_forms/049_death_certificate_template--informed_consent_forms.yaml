@@ -1,0 +1,90 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Death Certificate Template
+    pages:
+    - id: 1
+      name: certificate_details
+      label: Certificate Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: certifying_officer_info
+      label: Certifying Officer Info
+      hint: Enter information about certifying officer
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: informant_details
+      label: Informant Details
+      hint: Enter information about informant
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: decedents_details
+      label: Deceased Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: cause_of_death
+      label: Cause of Death
+      hint: null
+      type: select_one
+      options:
+      - Death from natural causes
+      - Death from unnatural causes
+      - Undetermined
+      required: true
+    - id: 6
+      name: place_of_death
+      label: Place of Death
+      hint: null
+      type: select_multiple
+      options:
+      - Hospital
+      - Home
+      - Hospital or home
+      - Hospice
+      - Nursing home
+      - Skilled nursing
+      - Assisted living
+      - Assisted living
+      required: true
+    - id: 7
+      name: time_of_death
+      label: Time of Death
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: certifying_officer_signature
+      label: Certifying Officer Signature
+      hint: Enter signature of certifying officer
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: informant_signature
+      label: Informant Signature
+      hint: Enter signature of informant
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,335 @@
+inputSchema:
+  type: object
+  properties:
+    title: Building Inspection Entry Consent Form
+    pages:
+    - id: 1
+      name: consent_header
+      label: -- Building Inspection Entry Consent --
+      hint: Authorization for building inspection access
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: property_owner_name
+      label: Property owner or landlord name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: property_address
+      label: Property address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: property_unit
+      label: Unit number or apartment (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: owner_email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: owner_phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: tenant_info
+      label: -- Tenant Information (if applicable) --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: tenant_name
+      label: Tenant name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: tenant_contact
+      label: Tenant contact information
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: tenant_phone
+      label: Tenant phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: inspection_details
+      label: -- Inspection Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: inspection_type
+      label: Type of inspection
+      hint: null
+      type: select_one
+      options:
+      - Routine maintenance inspection
+      - Annual inspection
+      - Pre-lease inspection
+      - Move-out inspection
+      - Safety inspection
+      - Pest control inspection
+      - Damage assessment
+      - Insurance required
+      - Code compliance
+      - Other
+      required: true
+    - id: 13
+      name: inspection_purpose
+      label: Purpose of inspection
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: inspector_info
+      label: -- Inspector Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: inspector_name
+      label: Inspector or inspection company name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: inspector_email
+      label: Inspector email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 17
+      name: inspector_phone
+      label: Inspector phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: inspection_company
+      label: Inspection company (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: inspector_credentials
+      label: Inspector license or credentials
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: scheduling
+      label: -- Inspection Scheduling --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: requested_date
+      label: Requested inspection date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: requested_time
+      label: Requested inspection time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 23
+      name: time_window
+      label: Preferred time window
+      hint: null
+      type: select_one
+      options:
+      - Early morning (6am-9am)
+      - Late morning (9am-12pm)
+      - Afternoon (12pm-5pm)
+      - Evening (5pm-8pm)
+      - Flexible
+      required: false
+    - id: 24
+      name: estimated_duration
+      label: Estimated inspection duration
+      hint: null
+      type: select_one
+      options:
+      - Under 30 minutes
+      - 30 minutes - 1 hour
+      - 1-2 hours
+      - 2-3 hours
+      - Over 3 hours
+      - Unknown
+      required: false
+    - id: 25
+      name: access_arrangements
+      label: -- Access Arrangements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: key_access
+      label: How will inspector access the property?
+      hint: null
+      type: select_one
+      options:
+      - Key provided
+      - Property owner will be present
+      - Lockbox code
+      - Electronic lock access
+      - Other arrangement
+      required: true
+    - id: 27
+      name: required_presence
+      label: Property owner/tenant presence required
+      hint: null
+      type: select_one
+      options:
+      - Yes, owner/tenant must be present
+      - Not required
+      - Preferred but not required
+      - Tenants must not be present
+      required: true
+    - id: 28
+      name: access_restrictions
+      label: Restricted areas or access limitations
+      hint: Off-limits areas, locked rooms, etc.
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: pet_information
+      label: Pets present on property
+      hint: null
+      type: select_one
+      options:
+      - Yes - Pets present
+      - Yes - Pets will be secured
+      - No pets
+      required: false
+    - id: 30
+      name: security_info
+      label: -- Security and Safety --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 31
+      name: security_system
+      label: Security system present
+      hint: null
+      type: select_one
+      options:
+      - Yes - Code will be provided
+      - Yes - Owner will disarm
+      - No security system
+      required: false
+    - id: 32
+      name: hazardous_materials
+      label: Hazardous materials or special hazards
+      hint: Mold, asbestos, etc.
+      type: select_one
+      options:
+      - None known
+      - Possible mold
+      - Known mold
+      - Asbestos suspected
+      - Other hazards
+      - Unknown
+      required: false
+    - id: 33
+      name: liability_coverage
+      label: Inspector liability insurance
+      hint: null
+      type: select_one
+      options:
+      - Yes, proof provided
+      - Yes, on file
+      - false
+      - Unknown
+      required: false
+    - id: 34
+      name: consent_authorization
+      label: -- Consent and Authorization --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 35
+      name: inspection_authorization
+      label: I authorize the inspection to proceed
+      hint: null
+      type: select_one
+      options:
+      - Yes, authorized
+      - Yes, with conditions
+      - No, not authorized
+      required: true
+    - id: 36
+      name: photography_consent
+      label: Photo/video documentation authorization
+      hint: null
+      type: select_one
+      options:
+      - Yes, authorized
+      - No, photography prohibited
+      - Yes, specific areas only
+      required: true
+    - id: 37
+      name: report_distribution
+      label: Report distribution consent
+      hint: null
+      type: select_one
+      options:
+      - Authorized to share with stated parties
+      - Report for owner/landlord only
+      - Report for multiple parties
+      required: false
+    - id: 38
+      name: liability_acknowledgment
+      label: I acknowledge property access and assume responsibility
+      hint: null
+      type: select_one
+      options:
+      - Yes, acknowledged
+      - false
+      required: true
+    - id: 39
+      name: additional_info
+      label: Additional information or special requests
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Exhibit Storage Inspection Form
+    pages:
+    - id: 1
+      name: exhibit_storage_inspection
+      label: Storage Inspection
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: exhibit_name
+      label: Exhibit Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: storage_location
+      label: Storage Location
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: storage_condition
+      label: Storage Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: storage_inspection_date
+      label: Storage Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: storage_inspection_time
+      label: Storage Inspection Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: storage_inspection_frequency
+      label: Storage Inspection Frequency
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: next_storage_inspection_date
+      label: Next Storage Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: next_storage_inspection_time
+      label: Next Storage Inspection Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: storage_inspection_frequency_frequency
+      label: Storage Inspection Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: storage_inspection_status
+      label: Storage Inspection Status
+      hint: null
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      - Review
+      required: true
+    - id: 13
+      name: storage_inspection_comments
+      label: Storage Inspection Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: storage_inspection_recommendations
+      label: Storage Inspection Recommendations
+      hint: null
+      type: text
+      options: []
+      required: false

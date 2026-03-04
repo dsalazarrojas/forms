@@ -1,0 +1,128 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Content Services Inquiry Form
+    pages:
+      - id: 1
+        name: business_info_header
+        label: -- Business Information --
+        hint: Tell us about your company
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: business_name
+        label: Business Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: website_url
+        label: Company Website
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: industry_category
+        label: Industry
+        hint: null
+        type: select_one
+        options:
+          - Technology/SaaS
+          - Healthcare/Medical
+          - Finance/Legal
+          - E-commerce/Retail
+          - Education/Non-profit
+          - Other (specify below)
+        required: true
+      - id: 5
+        name: contact_details_header
+        label: -- Contact Details --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: contact_full_name
+        label: Your Full Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: contact_email
+        label: Business Email
+        hint: null
+        type: email
+        options: []
+        required: true
+      - id: 8
+        name: project_details_header
+        label: -- Project Details --
+        hint: Tell us about your content needs
+        type: note
+        options: []
+        required: false
+      - id: 9
+        name: services_requested
+        label: Services Interested In
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Monthly Blog Management
+          - SEO Content Audit
+          - Social Media Strategy
+          - Email Marketing Campaigns
+          - E-book/Whitepaper Production
+          - Website Copywriting
+        required: true
+      - id: 10
+        name: estimated_monthly_budget
+        label: Estimated Monthly Budget (USD)
+        hint: Helps us suggest the right package
+        type: select_one
+        options:
+          - 1,000 - 2,500
+          - 2,500 - 5,000
+          - 5,000 - 10,000
+          - 10,000 plus
+        required: true
+      - id: 11
+        name: desired_start_date
+        label: Target Start Date
+        hint: When would you like to begin work
+        type: date
+        options: []
+        required: true
+      - id: 12
+        name: current_biggest_challenge
+        label: What is your biggest content challenge right now
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 13
+        name: how_did_you_find_us
+        label: How did you hear about our agency
+        hint: null
+        type: select_one
+        options:
+          - Google Search
+          - LinkedIn
+          - Referral/Word of mouth
+          - Podcast/Webinar
+          - Industry Event
+        required: false

@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Acord Cancellation Form
+    pages:
+    - id: 1
+      name: policy_information
+      label: -- Policy information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: policy_holder_name
+      label: Policy holder name
+      hint: Name of insured individual or organization
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: policy_number
+      label: Policy number
+      hint: Insurance policy identifier
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: insurer_name
+      label: Insurer name
+      hint: Name of the insurance company
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: cancellation_effective_date
+      label: Cancellation effective date
+      hint: Date when policy cancellation should take effect
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: reason_for_cancellation
+      label: Reason for cancellation
+      hint: Brief reason for cancelling the policy
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: returned_premiums
+      label: Returned premiums expected
+      hint: Indicate if any premium refund is expected
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 8
+      name: broker_or_agent
+      label: Broker or agent
+      hint: Broker handling the cancellation if applicable
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_phone
+      label: Contact phone
+      hint: Phone number for confirmation
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_email
+      label: Contact email
+      hint: Email for cancellation notice
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: signature
+      label: Signature
+      hint: Authorized signature or typed name
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: date_signed
+      label: Date signed
+      hint: Date of signature
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: additional_instructions
+      label: Additional instructions
+      hint: Any special processing instructions
+      type: text
+      options: []
+      required: false

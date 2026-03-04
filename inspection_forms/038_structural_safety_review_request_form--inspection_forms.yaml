@@ -1,0 +1,215 @@
+inputSchema:
+  type: object
+  properties:
+    title: Structural Safety Review Request Form
+    pages:
+    - id: 1
+      name: inspection_request
+      label: Inspection Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: building_info
+      label: building_info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: inspection_concerns
+      label: Inspection Concerns
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: uploaded_documents
+      label: Uploaded Documents
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: manager_info
+      label: Manager Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - Residential
+      - Commercial
+      - Industrial
+      - Other
+      required: true
+    - id: 10
+      name: structural_status
+      label: Structural Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Passive
+      - Active-Passive
+      - Other
+      required: false
+    - id: 11
+      name: uploaded_documents_2
+      label: Uploaded Documents 2
+      hint: null
+      type: select_multiple
+      options:
+      - Document 1
+      - Document 2
+      - Document 3
+      required: false
+    - id: 12
+      name: inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: inspection_time
+      label: Inspection Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: assigned_inspector
+      label: Assigned Inspector
+      hint: null
+      type: select_one
+      options:
+      - Inspector 1
+      - Inspector 2
+      - Inspector 3
+      required: false
+    - id: 15
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - Submitter 1
+      - Submitter 2
+      - Submitter 3
+      required: false
+    - id: 17
+      name: inspection_status
+      label: Inspection Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - In Progress
+      - Completed
+      required: true
+    - id: 18
+      name: inspection_comments
+      label: Inspection Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: uploaded_documents_3
+      label: Uploaded Documents 3
+      hint: null
+      type: select_multiple
+      options:
+      - Document 4
+      - Document 5
+      - Document 6
+      required: false
+    - id: 20
+      name: submitted_date
+      label: Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: submitted_by_2
+      label: Submitted By 2
+      hint: null
+      type: select_one
+      options:
+      - Submitter 4
+      - Submitter 5
+      - Submitter 6
+      required: false
+    - id: 22
+      name: manager_status
+      label: Manager Status
+      hint: null
+      type: select_one
+      options:
+      - Notified
+      - Unnotified
+      - In Progress
+      required: false
+    - id: 23
+      name: submitted_time
+      label: Submitted Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: uploaded_documents_4
+      label: Uploaded Documents 4
+      hint: null
+      type: select_multiple
+      options:
+      - Document 7
+      - Document 8
+      - Document 9
+      required: false
+    - id: 25
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - Tool 1
+      - Tool 2
+      - Tool 3
+      required: true

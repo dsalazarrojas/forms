@@ -1,0 +1,61 @@
+inputSchema:
+  type: object
+  properties:
+    title: Snow Plow Inspection Checklist
+    pages:
+    - id: 1
+      name: machine_name
+      label: Machine Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: machine_model
+      label: Machine Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_last_used
+      label: Date Last Used
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: mileage_last_inspection
+      label: Mileage Last Inspection
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: maintenance_last_30_days
+      label: Maintenance Last 30 Days
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: maintenance_since_last_inspection
+      label: Maintenance Since Last Inspection
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: last_maintenance_dollar_value
+      label: Last Maintenance Dollar Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: total_maintenance_cost
+      label: Total Maintenance Cost
+      hint: null
+      type: number
+      options: []
+      required: false

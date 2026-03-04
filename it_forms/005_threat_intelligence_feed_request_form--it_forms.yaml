@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Threat Intelligence Feed Request Form
+    pages:
+    - id: 1
+      name: form_name
+      label: Form Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: threat_type
+      label: Threat Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: threat_description
+      label: Threat Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: threat_severity
+      label: Threat Severity
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 5
+      name: threat_status
+      label: Threat Status
+      hint: null
+      type: select_one
+      options:
+      - New
+      - Updated
+      - Duplicate
+      required: false
+    - id: 6
+      name: threat_url
+      label: Threat URL
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: threat_date
+      label: Threat Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: threat_time
+      label: Threat Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: requestor_name
+      label: Requestor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: requestor_email
+      label: Requestor Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: requestor_phone
+      label: Requestor Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: requestor_notes
+      label: Requestor Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: requestor_organization
+      label: Requestor Organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: requestor_department
+      label: Requestor Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: requestor_job_title
+      label: Requestor Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: requestor_job_title_abbreviation
+      label: Requestor Job Title Abbreviation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: requestor_job_function
+      label: Requestor Job Function
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: requestor_job_location
+      label: Requestor Job Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: requestor_phone_extension
+      label: Requestor Phone Extension
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: requestor_fax_number
+      label: Requestor Fax Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: requestor_reported_date
+      label: Requestor Reported Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: requestor_reported_time
+      label: Requestor Reported Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 23
+      name: requestor_reported_status
+      label: Requestor Reported Status
+      hint: null
+      type: select_one
+      options:
+      - New
+      - Updated
+      - Duplicate
+      required: false
+    - id: 24
+      name: requestor_reported_url
+      label: Requestor Reported URL
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: requestor_reported_comments
+      label: Requestor Reported Comments
+      hint: null
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,232 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cloud Commerce Infrastructure Application Form
+    pages:
+    - id: 1
+      name: organization_name
+      label: Organization Name
+      hint: Company or business name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: applicant_name
+      label: Applicant Name
+      hint: Full name of person applying
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: applicant_title
+      label: Job Title
+      hint: Your position or role
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: applicant_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: applicant_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_business
+      label: -- Business Information --
+      hint: Details about your business
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: business_type
+      label: Type of Business
+      hint: null
+      type: select_one
+      options:
+      - E-commerce retailer
+      - Marketplace
+      - B2B commerce
+      - Digital services
+      - Subscription service
+      - Other
+      required: true
+    - id: 8
+      name: annual_revenue
+      label: Annual Revenue
+      hint: null
+      type: select_one
+      options:
+      - Under 1 million
+      - 1-10 million
+      - 10-50 million
+      - 50-100 million
+      - Over 100 million
+      - Not applicable
+      required: false
+    - id: 9
+      name: transaction_volume
+      label: Monthly Transaction Volume
+      hint: Average number of transactions
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: section_current
+      label: -- Current Infrastructure --
+      hint: Your existing setup
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: current_platform
+      label: Current Commerce Platform
+      hint: Shopify, Magento, custom, etc.
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: infrastructure_type
+      label: Current Infrastructure Type
+      hint: null
+      type: select_one
+      options:
+      - On-premises only
+      - Cloud-based
+      - Hybrid
+      - Managed hosting
+      - Other
+      required: true
+    - id: 13
+      name: monthly_traffic
+      label: Estimated Monthly Unique Visitors
+      hint: Average monthly traffic
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: peak_traffic_multiple
+      label: Peak Traffic Multiplier
+      hint: Peak traffic is X times average
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: section_migration
+      label: -- Migration and Requirements --
+      hint: Your infrastructure needs
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: migration_type
+      label: Type of Cloud Commerce Infrastructure Needed
+      hint: null
+      type: select_one
+      options:
+      - New cloud deployment
+      - Migration from on-premises
+      - Migration between cloud providers
+      - Infrastructure redesign
+      - Scaling existing infrastructure
+      required: true
+    - id: 17
+      name: target_cloud_platform
+      label: Target Cloud Platform
+      hint: null
+      type: select_one
+      options:
+      - Amazon Web Services (AWS)
+      - Microsoft Azure
+      - Google Cloud Platform
+      - Multi-cloud
+      - No preference yet
+      required: true
+    - id: 18
+      name: section_technical
+      label: -- Technical Requirements --
+      hint: Specific technical needs
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: required_components
+      label: Required Infrastructure Components
+      hint: null
+      type: select_multiple
+      options:
+      - Web servers
+      - Database servers
+      - Content delivery network (CDN)
+      - Load balancing
+      - Auto-scaling capability
+      - Database replication
+      - Backup and disaster recovery
+      - DDoS protection
+      required: true
+    - id: 20
+      name: uptime_requirement
+      label: Required Uptime SLA
+      hint: null
+      type: select_one
+      options:
+      - 99.5 percent
+      - 99.9 percent
+      - 99.95 percent
+      - 99.99 percent
+      - Not specified
+      required: true
+    - id: 21
+      name: compliance_needs
+      label: Compliance Requirements
+      hint: null
+      type: select_multiple
+      options:
+      - PCI DSS
+      - GDPR
+      - HIPAA
+      - SOC 2
+      - ISO 27001
+      - Industry-specific
+      - None
+      required: false
+    - id: 22
+      name: section_timeline
+      label: -- Implementation Timeline --
+      hint: Your project schedule
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: implementation_timeline
+      label: Desired Implementation Timeline
+      hint: null
+      type: select_one
+      options:
+      - Immediate - within 1 month
+      - Short term - 1-3 months
+      - Medium term - 3-6 months
+      - Long term - 6-12 months
+      - Flexible
+      required: true
+    - id: 24
+      name: business_impact
+      label: Expected Business Impact
+      hint: Goals for migration or upgrade
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_requirements
+      label: Any Additional Requirements or Constraints
+      hint: Budget, team size, etc.
+      type: text
+      options: []
+      required: false

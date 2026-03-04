@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: Health Insurance Inquiry Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: Your first name
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: Your last name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: Date of birth
+      hint: mm/dd/yyyy
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: contact_number
+      label: Contact Number
+      hint: Your contact number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: insurance_type
+      label: Insurance type
+      hint: null
+      type: select_one
+      options:
+      - Health
+      - Dental
+      - Life
+      - Disability
+      required: false
+    - id: 6
+      name: policy_holder_details
+      label: Policy holder details
+      hint: null
+      type: note
+      options: []
+      required: false

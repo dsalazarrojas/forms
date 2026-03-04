@@ -1,0 +1,124 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gas Safety Checklist
+    pages:
+    - id: 1
+      name: gas_safety_checklist
+      label: gas_safety_checklist
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: gas_appliance_type
+      label: gas_appliance_type
+      hint: null
+      type: select_multiple
+      options:
+      - Gas Fire
+      - Water Heater
+      required: false
+    - id: 3
+      name: secure_installation
+      label: secure_installation
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: gas_line_type
+      label: gas_line_type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: gas_leak_test
+      label: gas_leak_test
+      hint: null
+      type: select_one
+      options:
+      - Gas
+      - Water
+      - Electricity
+      required: false
+    - id: 6
+      name: gas_valve_type
+      label: gas_valve_type
+      hint: null
+      type: select_one
+      options:
+      - Gate Valve
+      - Ball Valve
+      required: false
+    - id: 7
+      name: shut_off_valve
+      label: shut_off_valve
+      hint: null
+      type: select_one
+      options:
+      - Closed
+      - Open
+      required: false
+    - id: 8
+      name: gas_line_size
+      label: gas_line_size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: gas_appliance_connection
+      label: gas_appliance_connection
+      hint: null
+      type: select_multiple
+      options:
+      - Gas
+      - Water
+      - Electricity
+      required: false
+    - id: 10
+      name: check_valve
+      label: check_valve
+      hint: null
+      type: select_one
+      options:
+      - Check
+      - Ball
+      required: false
+    - id: 11
+      name: relief_valve
+      label: relief_valve
+      hint: null
+      type: select_one
+      options:
+      - Check
+      - None
+      required: false
+    - id: 12
+      name: gas_leak_test_value
+      label: gas_leak_test_value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: gas_leak_test_result
+      label: gas_leak_test_result
+      hint: null
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      required: false
+    - id: 14
+      name: gas_valve_position
+      label: gas_valve_position
+      hint: null
+      type: select_one
+      options:
+      - Top
+      - Bottom
+      - Side
+      required: false

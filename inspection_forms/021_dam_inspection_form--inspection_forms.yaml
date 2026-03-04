@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dam Inspection Form
+    pages:
+    - id: 1
+      name: dam_inspection_form_page_1
+      label: Dam Inspection
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: dam_type
+      label: Dam Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Dam 1''}'
+      - '{''id'': 2, ''label'': ''Dam 2''}'
+      required: false
+    - id: 3
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: inspection_time
+      label: Inspection Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: dam_height
+      label: Dam Height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: water_level
+      label: Water Level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: dam_condition
+      label: Dam Condition
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Dam 1''}'
+      - '{''id'': 2, ''label'': ''Dam 2''}'
+      required: false
+    - id: 12
+      name: inspection_frequency
+      label: Inspection Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

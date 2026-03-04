@@ -1,0 +1,272 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Barcode Scanner Feedback Form
+    pages:
+      - id: 1
+        name: respondent_name
+        label: Your Name
+        hint: Optional identification
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: department
+        label: Department
+        hint: Which department do you work in
+        type: select_one
+        options:
+          - IT
+          - Warehouse
+          - Retail
+          - Logistics
+          - Operations
+          - Management
+          - Other
+        required: true
+      - id: 3
+        name: scanner_model
+        label: Scanner Model Used
+        hint: Which barcode scanner are you using
+        type: select_one
+        options:
+          - Zebra DS2208
+          - Honeywell Xenon 1900
+          - Symbol LS2208
+          - Datalogic QuickScan
+          - Other Zebra model
+          - Other Honeywell model
+          - Other brand
+          - Mobile app scanner
+        required: true
+      - id: 4
+        name: usage_duration
+        label: How Long Have You Used This Scanner
+        hint: Duration of use
+        type: select_one
+        options:
+          - Less than 1 month
+          - 1 to 3 months
+          - 4 to 6 months
+          - 7 to 12 months
+          - More than 1 year
+        required: true
+      - id: 5
+        name: usage_frequency
+        label: How Often Do You Use the Scanner
+        hint: Daily usage pattern
+        type: select_one
+        options:
+          - Constantly throughout the day
+          - Several times per hour
+          - Several times per day
+          - Occasionally
+          - Rarely
+        required: true
+      - id: 6
+        name: ease_of_use
+        label: Ease of Use
+        hint: Rate how easy the scanner is to operate
+        type: select_one
+        options:
+          - Very easy
+          - Easy
+          - Neutral
+          - Difficult
+          - Very difficult
+        required: true
+      - id: 7
+        name: scanning_speed
+        label: Scanning Speed
+        hint: Rate the speed of barcode recognition
+        type: select_one
+        options:
+          - Very fast
+          - Fast
+          - Acceptable
+          - Slow
+          - Very slow
+        required: true
+      - id: 8
+        name: accuracy
+        label: Scanning Accuracy
+        hint: How often does it scan correctly on first try
+        type: select_one
+        options:
+          - Always accurate
+          - Mostly accurate
+          - Sometimes inaccurate
+          - Often inaccurate
+          - Rarely accurate
+        required: true
+      - id: 9
+        name: durability
+        label: Durability
+        hint: Rate the build quality and durability
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Acceptable
+          - Poor
+          - Very poor
+        required: true
+      - id: 10
+        name: battery_life
+        label: Battery Life
+        hint: Rate the battery performance
+        type: select_one
+        options:
+          - Excellent - lasts all day
+          - Good - most of the day
+          - Acceptable - needs mid day charge
+          - Poor - frequent charging needed
+          - Very poor - constant charging
+        required: true
+      - id: 11
+        name: connectivity
+        label: Connectivity Reliability
+        hint: Rate Bluetooth or wired connection stability
+        type: select_one
+        options:
+          - Very reliable
+          - Mostly reliable
+          - Occasionally drops
+          - Frequently disconnects
+          - Very unreliable
+        required: true
+      - id: 12
+        name: ergonomics
+        label: Ergonomics and Comfort
+        hint: How comfortable is it to hold and use
+        type: select_one
+        options:
+          - Very comfortable
+          - Comfortable
+          - Neutral
+          - Uncomfortable
+          - Very uncomfortable
+        required: true
+      - id: 13
+        name: barcode_types
+        label: Types of Barcodes Scanned
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - UPC
+          - EAN
+          - Code 128
+          - Code 39
+          - QR codes
+          - Data Matrix
+          - PDF417
+        required: true
+      - id: 14
+        name: common_issues
+        label: Common Issues Encountered
+        hint: Select all problems you experience
+        type: select_multiple
+        options:
+          - Slow scanning
+          - Misreads barcodes
+          - Connection drops
+          - Battery dies quickly
+          - Physical damage
+          - Software glitches
+          - No major issues
+        required: true
+      - id: 15
+        name: lighting_conditions
+        label: Typical Lighting Conditions
+        hint: Where do you primarily use the scanner
+        type: select_one
+        options:
+          - Well lit indoor
+          - Dim indoor
+          - Outdoor daylight
+          - Mixed conditions
+        required: true
+      - id: 16
+        name: performance_in_conditions
+        label: Performance in Your Conditions
+        hint: How well does it work in your environment
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Acceptable
+          - Poor
+          - Very poor
+        required: true
+      - id: 17
+        name: software_integration
+        label: Software Integration
+        hint: How well does it integrate with your systems
+        type: select_one
+        options:
+          - Seamless integration
+          - Works well
+          - Some issues
+          - Major problems
+          - Not integrated
+        required: true
+      - id: 18
+        name: overall_satisfaction
+        label: Overall Satisfaction
+        hint: Rate your overall satisfaction with the scanner
+        type: select_one
+        options:
+          - Very satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very dissatisfied
+        required: true
+      - id: 19
+        name: recommend_to_others
+        label: Would You Recommend to Others
+        hint: Would you recommend this scanner
+        type: select_one
+        options:
+          - Definitely yes
+          - Probably yes
+          - Not sure
+          - Probably no
+          - Definitely no
+        required: true
+      - id: 20
+        name: replacement_priority
+        label: Priority for Replacement
+        hint: How urgently should this be replaced
+        type: select_one
+        options:
+          - Urgent - replace immediately
+          - Soon - within 3 months
+          - Eventually - within a year
+          - No replacement needed
+        required: true
+      - id: 21
+        name: additional_features
+        label: Desired Additional Features
+        hint: What features would you like added
+        type: text
+        options: []
+        required: false
+      - id: 22
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other feedback about the scanner
+        type: text
+        options: []
+        required: false

@@ -1,0 +1,272 @@
+inputSchema:
+  type: object
+  properties:
+    title: Educational Guardianship Form
+    pages:
+    - id: 1
+      name: guardianship_arrangements
+      label: Guardianship Arrangements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Parent Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Parent Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Parent Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: consent_type
+      label: Consent Type
+      hint: null
+      type: select_one
+      options:
+      - Guardian
+      - Authorized Representative
+      - Both
+      required: false
+    - id: 7
+      name: guardian_signature
+      label: Guardian Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: parent_signature
+      label: Parent Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: relationship
+      label: Relationship
+      hint: null
+      type: select_multiple
+      options:
+      - Mother
+      - Father
+      - Brother
+      - Sister
+      - Spouse
+      - Other
+      required: false
+    - id: 10
+      name: other_relationship
+      label: Other Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: state
+      label: State
+      hint: null
+      type: select_one
+      options:
+      - Alabama
+      - Alaska
+      - Arizona
+      - Arkansas
+      - California
+      - Colorado
+      - Connecticut
+      - Delaware
+      - Florida
+      - Georgia
+      - Hawaii
+      - Idaho
+      - Illinois
+      - Indiana
+      - Iowa
+      - Kansas
+      - Kentucky
+      - Louisiana
+      - Maine
+      - Maryland
+      - Massachusetts
+      - Michigan
+      - Minnesota
+      - Mississippi
+      - Missouri
+      - Montana
+      - Nebraska
+      - Nevada
+      - New Hampshire
+      - New Jersey
+      - New Mexico
+      - New York
+      - North Carolina
+      - North Dakota
+      - Ohio
+      - Oklahoma
+      - Oregon
+      - Pennsylvania
+      - Rhode Island
+      - South Carolina
+      - South Dakota
+      - Tennessee
+      - Texas
+      - Utah
+      - Vermont
+      - Virginia
+      - Washington
+      - West Virginia
+      - Washington D.C.
+      - Wisconsin
+      - Wyoming
+      required: false
+    - id: 13
+      name: zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: consent_to_share
+      label: Consent to Share
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - No Response
+      required: false
+    - id: 15
+      name: consent_to_share_details
+      label: Consent to Share Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: consent_to_share_with_who
+      label: Consent to Share with Who
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: time_zone
+      label: Time Zone
+      hint: null
+      type: select_one
+      options:
+      - Eastern
+      - Central
+      - Mountain
+      - Pacific
+      required: false
+    - id: 21
+      name: timezone
+      label: Time Zone
+      hint: null
+      type: select_one
+      options:
+      - EST
+      - CDT
+      - MST
+      - PST
+      required: false
+    - id: 22
+      name: timezone_offset
+      label: Time Zone Offset
+      hint: null
+      type: select_one
+      options:
+      - UTC-5
+      - UTC-6
+      - UTC-7
+      - UTC-8
+      - UTC-9
+      - UTC-10
+      - UTC-11
+      - UTC-12
+      - UTC+1
+      - UTC+2
+      - UTC+3
+      - UTC+4
+      - UTC+5
+      - UTC+6
+      - UTC+7
+      - UTC+8
+      - UTC+9
+      - UTC+10
+      - UTC+11
+      - UTC+12
+      - UTC+13
+      required: false
+    - id: 23
+      name: timezone_offset_display
+      label: Time Zone Offset Display
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: time_zone_display
+      label: Time Zone Display
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: time_zone_offset_hours
+      label: Time Zone Offset Hours
+      hint: null
+      type: text
+      options: []
+      required: false

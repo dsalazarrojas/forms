@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: it_equipment_upgrade_request_form
+    pages:
+    - id: 1
+      name: user_info
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: it_equipment_requested
+      label: IT Equipment Requested
+      hint: null
+      type: select_one
+      options:
+      - Dell
+      - HP
+      - Lenovo
+      - Others
+      required: false
+    - id: 3
+      name: reason_upgrade
+      label: Reason for Upgrade
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: priority
+      label: Priority
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: budget
+      label: Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - IT
+      - Operations
+      - Finance
+      - Others
+      required: false
+    - id: 7
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submit
+      label: Submit
+      hint: null
+      type: note
+      options: []
+      required: false

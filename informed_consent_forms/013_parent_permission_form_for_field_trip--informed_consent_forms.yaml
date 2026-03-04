@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Parent Permission Form For Field Trip
+    pages:
+    - id: 1
+      name: school_name
+      label: school_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_trip
+      label: date_of_trip
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: departure_time
+      label: departure_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: trip_details
+      label: trip_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: teacher_chaperone
+      label: teacher_chaperone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: emergency_contact
+      label: emergency_contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: permission
+      label: permission
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: signature
+      label: signature
+      hint: null
+      type: note
+      options: []
+      required: true

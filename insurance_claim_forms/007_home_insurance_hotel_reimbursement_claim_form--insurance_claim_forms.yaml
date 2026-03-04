@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Home Insurance Hotel Reimbursement Claim Form
+    pages:
+    - id: 1
+      name: guest_details
+      label: Guest Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: incident_details
+      label: Incident Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: lodging_details
+      label: Lodging Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: claim_amount
+      label: Claim Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: claim_reason
+      label: Claim Reason
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: claim_documents
+      label: Claim Documents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: insurer_comments
+      label: Insurer Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: claim_status
+      label: Claim Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Denied
+      - In Progress
+      required: true

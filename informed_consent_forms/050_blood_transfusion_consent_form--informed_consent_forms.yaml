@@ -1,0 +1,260 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Blood Transfusion Consent Form
+    pages:
+      - id: 1
+        name: consent_header
+        label: Blood Transfusion Consent Form
+        hint: Informed consent for blood transfusion procedure
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: patient_name
+        label: Patient Name
+        hint: Full legal name
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: date_of_birth
+        label: Date of Birth
+        hint: Birth date
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: medical_record_number
+        label: Medical Record Number
+        hint: Hospital ID
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: consent_date
+        label: Date of Consent
+        hint: Today date
+        type: date
+        options: []
+        required: true
+      - id: 6
+        name: blood_type
+        label: Blood Type
+        hint: If known
+        type: select_one
+        options:
+          - A Positive
+          - A Negative
+          - B Positive
+          - B Negative
+          - AB Positive
+          - AB Negative
+          - O Positive
+          - O Negative
+          - Unknown
+        required: false
+      - id: 7
+        name: transfusion_reason
+        label: Reason for Transfusion
+        hint: Medical indication
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: blood_products
+        label: Blood Products
+        hint: What may be transfused
+        type: select_multiple
+        options:
+          - Packed Red Blood Cells
+          - Fresh Frozen Plasma
+          - Platelets
+          - Cryoprecipitate
+          - Whole Blood
+        required: true
+      - id: 9
+        name: procedure_explained
+        label: Procedure Explained
+        hint: Has procedure been explained
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 10
+        name: benefits_understood
+        label: Benefits Understood
+        hint: Do you understand benefits
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 11
+        name: benefits_description
+        label: Benefits
+        hint: Improved oxygen delivery etc
+        type: note
+        options: []
+        required: false
+      - id: 12
+        name: risks_understood
+        label: Risks Understood
+        hint: Do you understand risks
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 13
+        name: risk_details
+        label: Potential Risks
+        hint: Allergic reactions fever infection etc
+        type: note
+        options: []
+        required: false
+      - id: 14
+        name: alternatives_discussed
+        label: Alternatives Discussed
+        hint: Have alternatives been discussed
+        type: select_one
+        options:
+          - Yes
+          - No
+          - Not Applicable
+        required: true
+      - id: 15
+        name: alternative_options
+        label: Alternative Options
+        hint: Iron therapy volume expanders etc
+        type: text
+        options: []
+        required: false
+      - id: 16
+        name: questions_answered
+        label: Questions Answered
+        hint: Have all questions been answered
+        type: select_one
+        options:
+          - Yes All Answered
+          - I Have No Questions
+          - I Still Have Questions
+        required: true
+      - id: 17
+        name: voluntary_consent
+        label: Voluntary Consent
+        hint: Is this decision voluntary
+        type: select_one
+        options:
+          - Yes Voluntary
+          - No
+        required: true
+      - id: 18
+        name: right_to_refuse
+        label: Right to Refuse
+        hint: Do you understand you can refuse
+        type: select_one
+        options:
+          - Yes I Understand
+          - No
+        required: true
+      - id: 19
+        name: religious_beliefs
+        label: Religious Beliefs
+        hint: Any religious considerations
+        type: select_one
+        options:
+          - None
+          - Jehovah Witness
+          - Other Religious Concerns
+        required: true
+      - id: 20
+        name: previous_transfusions
+        label: Previous Transfusions
+        hint: Have you had transfusions before
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 21
+        name: previous_reactions
+        label: Previous Reactions
+        hint: Any adverse reactions
+        type: select_one
+        options:
+          - Yes
+          - No
+          - Not Applicable
+        required: true
+      - id: 22
+        name: reaction_details
+        label: Reaction Details
+        hint: Describe if yes
+        type: text
+        options: []
+        required: false
+      - id: 23
+        name: pregnancy_status
+        label: Pregnancy Status
+        hint: If applicable
+        type: select_one
+        options:
+          - Pregnant
+          - Not Pregnant
+          - Not Applicable
+        required: false
+      - id: 24
+        name: patient_signature
+        label: Patient Signature
+        hint: Type name as signature
+        type: text
+        options: []
+        required: true
+      - id: 25
+        name: patient_signature_date
+        label: Signature Date
+        hint: Date signed
+        type: date
+        options: []
+        required: true
+      - id: 26
+        name: physician_name
+        label: Physician Name
+        hint: Explaining physician
+        type: text
+        options: []
+        required: true
+      - id: 27
+        name: physician_signature
+        label: Physician Signature
+        hint: Provider signature
+        type: text
+        options: []
+        required: true
+      - id: 28
+        name: witness_name
+        label: Witness Name
+        hint: Witness to consent
+        type: text
+        options: []
+        required: false
+      - id: 29
+        name: additional_notes
+        label: Additional Notes
+        hint: Any other comments
+        type: text
+        options: []
+        required: false

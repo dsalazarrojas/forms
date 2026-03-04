@@ -1,0 +1,45 @@
+inputSchema:
+  type: object
+  properties:
+    title: Manhole Inspection Form
+    pages:
+    - id: 1
+      name: manhole_id
+      label: Manhole ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: manhole_date_inspected
+      label: Manhole Date Inspected
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: condition
+      label: Condition
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 4
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: manhole_photo1
+      label: Manhole Photo 1
+      hint: null
+      type: text
+      options: []
+      required: false

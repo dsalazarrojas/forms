@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Injection Therapy Intake Form
+    pages:
+    - id: 1
+      name: first_name
+      label: first name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: date of birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: contact_number
+      label: contact number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: insurance_provider
+      label: insurance provider
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: insurance_policy_number
+      label: insurance policy number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: medical_history
+      label: medical history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: medical_history_date
+      label: medical history date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: medication_list
+      label: medication list
+      hint: null
+      type: select_multiple
+      options:
+      - No medications
+      - Aspirin
+      - Ibuprofen
+      - Corticosteroid
+      required: true
+    - id: 11
+      name: allergies
+      label: allergies
+      hint: null
+      type: select_multiple
+      options:
+      - No allergies
+      - Peanut
+      - Shellfish
+      - Dairy
+      required: false
+    - id: 12
+      name: consent
+      label: consent
+      hint: null
+      type: select_one
+      options:
+      - I have read and agreed to the terms
+      - I have not agreed to the terms
+      required: true
+    - id: 13
+      name: emergency_contact
+      label: emergency contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: emergency_contact_number
+      label: emergency contact number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: emergency_contact_relation
+      label: emergency contact relation
+      hint: null
+      type: select_one
+      options:
+      - Mother
+      - Father
+      - Brother
+      required: false
+    - id: 16
+      name: emergency_contact_address
+      label: emergency contact address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: emergency_contact_city
+      label: emergency contact city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: emergency_contact_state
+      label: emergency contact state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: emergency_contact_country
+      label: emergency contact country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: emergency_contact_relationship
+      label: emergency contact relation
+      hint: null
+      type: select_one
+      options:
+      - Brother
+      - Mother
+      - Friend
+      required: false
+    - id: 21
+      name: therapist_name
+      label: therapist name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: therapist_number
+      label: therapist number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: therapist_address
+      label: therapist address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: therapist_notes
+      label: therapist notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: therapist_notes_additional
+      label: therapist notes additional
+      hint: null
+      type: text
+      options: []
+      required: false

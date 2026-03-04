@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: IT Hardware And Software Needs Assessment Form
+    pages:
+    - id: 1
+      name: general_info
+      label: General Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: it_equipment
+      label: IT Equipment
+      hint: null
+      type: select_multiple
+      options:
+      - Laptop
+      - Desktop Computer
+      - Printer
+      - Scanner
+      - Other
+      required: false
+    - id: 3
+      name: software_used
+      label: Software Used
+      hint: null
+      type: select_multiple
+      options:
+      - Google Chrome
+      - Microsoft Office
+      - Adobe Acrobat
+      - Other
+      required: false
+    - id: 4
+      name: software_requests
+      label: Software Requests
+      hint: null
+      type: select_multiple
+      options:
+      - Cloud Storage
+      - Antivirus
+      - Microsoft Office
+      - Other
+      required: false
+    - id: 5
+      name: location
+      label: Location
+      hint: null
+      type: select_one
+      options:
+      - Office
+      - Remote
+      - Home
+      required: false
+    - id: 6
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - IT
+      - Marketing
+      - Sales
+      - Other
+      required: false
+    - id: 7
+      name: employees
+      label: Employees
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: budget
+      label: Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: form_completed_by
+      label: Form Completed By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: department_requests
+      label: Department Requests
+      hint: null
+      type: select_multiple
+      options:
+      - Hardware
+      - Software
+      - IT Services
+      required: false

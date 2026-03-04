@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Car Insurance Accident Information Form
+    pages:
+    - id: 1
+      name: policy_number
+      label: Policy number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: claim_date
+      label: Date of accident
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: accident_time
+      label: Time of accident
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: accident_location
+      label: Location of accident
+      hint: Street address, intersection, or landmark
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: accident_city_state
+      label: City and state
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: accident_description
+      label: Detailed description of the accident
+      hint: What happened, direction of vehicles, impact area
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: insured_name
+      label: Insured's name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: insured_phone
+      label: Insured's phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: insured_email
+      label: Insured's email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: vehicle_make_model_year
+      label: Vehicle year, make, model
+      hint: e.g., 2021 Honda Accord
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: vehicle_vin
+      label: Vehicle Identification Number (VIN)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: vehicle_license_plate
+      label: License plate number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: other_vehicle_involved
+      label: Was another vehicle involved?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Multiple Vehicles
+      required: true
+    - id: 14
+      name: other_driver_name
+      label: Other driver's name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: other_driver_phone
+      label: Other driver's phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: other_driver_insurance
+      label: Other driver's insurance company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: other_driver_policy
+      label: Other driver's policy number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: other_vehicle_info
+      label: Other vehicle year, make, model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: police_report_filed
+      label: Was a police report filed?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - In Progress
+      required: true
+    - id: 20
+      name: police_report_number
+      label: Police report number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: witnesses_present
+      label: Were there witnesses?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 22
+      name: witness_information
+      label: Witness names and contact information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: injuries_sustained
+      label: Were any injuries sustained?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Sure
+      required: true
+    - id: 24
+      name: injury_details
+      label: Details of injuries
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: vehicle_damage_description
+      label: Description of vehicle damage
+      hint: null
+      type: text
+      options: []
+      required: true

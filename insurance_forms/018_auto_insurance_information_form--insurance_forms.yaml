@@ -1,0 +1,126 @@
+inputSchema:
+  type: object
+  properties:
+    title: Auto Insurance Information Form
+    pages:
+    - id: 1
+      name: client_info_header
+      label: -- Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: Best contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: address
+      label: Address
+      hint: Street, City, State, Zip
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: vehicle_info_header
+      label: -- Vehicle Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: make_and_model
+      label: Make and Model
+      hint: e.g. Subaru Outback
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: vehicle_year
+      label: Vehicle Year
+      hint: e.g. 2019
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: vin
+      label: VIN
+      hint: 17-digit Vehicle ID
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: garage_location
+      label: Garage Location
+      hint: Where is the vehicle parked overnight?
+      type: select_one
+      options:
+      - Attached Garage
+      - Detached Garage
+      - Carport
+      - Street
+      - Driveway
+      required: true
+    - id: 11
+      name: coverage_needs_header
+      label: -- Coverage Needs --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: desired_coverages
+      label: Desired Coverages
+      hint: Select the types of protection you want
+      type: select_multiple
+      options:
+      - Liability
+      - Collision
+      - Comprehensive
+      - Uninsured Motorist
+      - Medical Payments
+      required: true
+    - id: 13
+      name: preferred_deductible
+      label: Preferred Deductible
+      hint: Your out-of-pocket cost in case of a claim
+      type: select_one
+      options:
+      - 250
+      - 500
+      - 1000
+      - 2000
+      required: true
+    - id: 14
+      name: existing_policyholder
+      label: Are you an existing policyholder?
+      hint: Select yes if you have coverage elsewhere
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: previous_carrier_name
+      label: Previous Carrier Name
+      hint: Only if applicable
+      type: text
+      options: []
+      required: false

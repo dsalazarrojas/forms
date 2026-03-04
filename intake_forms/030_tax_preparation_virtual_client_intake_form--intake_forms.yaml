@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tax Preparation Virtual Client Intake Form
+    pages:
+    - id: 1
+      name: client_info
+      label: Client Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: tax_year
+      label: Tax Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: tax_return_type
+      label: Tax Return Type
+      hint: null
+      type: select_one
+      options:
+      - Item 1
+      - Item 2
+      - Item 3
+      required: false
+    - id: 4
+      name: income_info
+      label: Income Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: expenses_info
+      label: Expenses Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: tax_return_status
+      label: Tax Return Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Pending
+      - Completed
+      - Canceled
+      required: false
+    - id: 7
+      name: tax_return_note
+      label: Tax Return Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: client_email
+      label: Client E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: client_phone
+      label: Client Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - other
+      required: false
+    - id: 11
+      name: other_assigned_tool
+      label: Other Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: tax_return_deadline
+      label: Tax Return Deadline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: tax_return_time
+      label: Tax Return Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: tax_return_date
+      label: Tax Return Date
+      hint: null
+      type: date
+      options: []
+      required: false

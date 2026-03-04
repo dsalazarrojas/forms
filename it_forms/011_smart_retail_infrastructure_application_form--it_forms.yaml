@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Smart Retail Infrastructure Application Form
+    pages:
+    - id: 1
+      name: form_id
+      label: form id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: category_id
+      label: category id
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: retailer_details
+      label: retailer details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: project_requirements
+      label: project requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: project_status
+      label: project status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 6
+      name: store_details
+      label: store details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: store_location
+      label: store location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: project_manager_details
+      label: project manager details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: project_manager_phone
+      label: project manager phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: project_manager_email
+      label: project manager email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: technology_vendor_details
+      label: technology vendor details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: technology_vendor
+      label: technology vendor
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: project_manager_title
+      label: project manager title
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: store_manager_details
+      label: store manager details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: store_manager_phone
+      label: store manager phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: store_manager_email
+      label: store manager email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: smart_store_initiatives
+      label: smart store initiatives
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: centralised_data_collection
+      label: centralised data collection
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: smart_store_initiatives_details
+      label: smart store initiatives details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: centralised_data_collection_method
+      label: centralised data collection method
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: data_submission_date
+      label: data submission date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: data_submission_time
+      label: data submission time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: submission_status
+      label: submission status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 24
+      name: submission_status_details
+      label: submission status details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submission_notes
+      label: submission notes
+      hint: null
+      type: text
+      options: []
+      required: false

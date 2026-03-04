@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: patient_portal_consent_form
+    pages:
+    - id: 1
+      name: patient_portal_consent_form_1
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_portal_consent_form_2
+      label: Patient Rights
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: patient_portal_consent_form_3
+      label: Patient Portal Access
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Select 1''}'
+      - '{''id'': 2, ''label'': ''Select 2''}'
+      - '{''id'': 3, ''label'': ''Select 3''}'
+      required: false
+    - id: 4
+      name: patient_portal_consent_form_4
+      label: Patient Data
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Select 1''}'
+      - '{''id'': 2, ''label'': ''Select 2''}'
+      - '{''id'': 3, ''label'': ''Select 3''}'
+      - '{''id'': 4, ''label'': ''Select 4''}'
+      required: false
+    - id: 5
+      name: patient_portal_consent_form_5
+      label: Access Rights
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Select 1''}'
+      - '{''id'': 2, ''label'': ''Select 2''}'
+      - '{''id'': 3, ''label'': ''Select 3''}'
+      required: false
+    - id: 6
+      name: patient_portal_consent_form_6
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: patient_portal_consent_form_7
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: patient_portal_consent_form_8
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time_of_birth
+      label: Time of Birth
+      hint: null
+      type: time
+      options: []
+      required: false

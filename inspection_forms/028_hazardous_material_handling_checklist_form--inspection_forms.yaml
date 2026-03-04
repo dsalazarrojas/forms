@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hazardous Material Handling Checklist Form
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_information
+      label: employee information
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: employee_name
+      label: employee name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: employee_phone
+      label: employee phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: employee_email
+      label: employee email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: business_address
+      label: business address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: hazardous_location
+      label: hazardous location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: material_type
+      label: material type
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Material Type 1''}'
+      - '{''option2'': ''Material Type 2''}'
+      - '{''option3'': ''Material Type 3''}'
+      required: false
+    - id: 9
+      name: material_presentation
+      label: material presentation
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': ''Option 1''}'
+      - '{''option2'': ''Option 2''}'
+      - '{''option3'': ''Option 3''}'
+      required: false
+    - id: 10
+      name: storage_conditions
+      label: storage conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: employee_signature
+      label: employee signature
+      hint: null
+      type: text
+      options: []
+      required: false

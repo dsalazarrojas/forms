@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pet Insurance Claim Form
+    pages:
+    - id: 1
+      name: claim_type
+      label: Claim Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: name
+      label: Pet Name
+      hint: Required
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: pet_breed
+      label: Pet Breed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: pet_age
+      label: Pet Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: insurance_provider
+      label: Insurance Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: claim_date
+      label: Claim Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: claim_amount
+      label: Claim Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: claim_description
+      label: Claim Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: claim_expenses
+      label: Claim Expenses
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: claim_status
+      label: Claim Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

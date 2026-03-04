@@ -1,0 +1,145 @@
+inputSchema:
+  type: object
+  properties:
+    title: Access Control System Issue Request Form
+    pages:
+    - id: 1
+      name: reporter_name
+      label: Reporter Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_id
+      label: Employee ID
+      hint: Your employee identification number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: department
+      label: Department
+      hint: Your department
+      type: select_one
+      options:
+      - IT
+      - Security
+      - Facilities
+      - Operations
+      - HR
+      - Finance
+      - Marketing
+      - Sales
+      - Other
+      required: true
+    - id: 4
+      name: contact_email
+      label: Contact Email
+      hint: Your email address for updates
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Contact Phone
+      hint: Your phone number for urgent issues
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: issue_type
+      label: Issue Type
+      hint: What type of issue are you experiencing?
+      type: select_one
+      options:
+      - Badge Problem
+      - Door Access Issue
+      - Access Point Malfunction
+      - System Error
+      - Installation Request
+      - Other
+      required: true
+    - id: 7
+      name: affected_location
+      label: Affected Location
+      hint: Building, floor, or room where the issue occurs
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: access_point_id
+      label: Access Point ID
+      hint: If known, enter the ID of the access control device
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: issue_description
+      label: Issue Description
+      hint: Describe the problem in detail
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: severity_level
+      label: Severity Level
+      hint: How urgent is this issue?
+      type: select_one
+      options:
+      - Critical
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 11
+      name: impact_on_operations
+      label: Impact on Operations
+      hint: How is this issue affecting business operations?
+      type: select_one
+      options:
+      - Severe - Cannot Access
+      - Significant - Delayed Access
+      - Minor - Occasional Issues
+      - No Impact - Informational
+      required: true
+    - id: 12
+      name: date_occurred
+      label: Date Issue Started
+      hint: When did the issue first occur?
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: time_occurred
+      label: Time Issue Started
+      hint: Approximate time when the issue began
+      type: time
+      options: []
+      required: true
+    - id: 14
+      name: attempted_solutions
+      label: Solutions Already Attempted
+      hint: What have you tried to resolve the issue?
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: priority_assignment
+      label: Priority Assignment Request
+      hint: What priority level do you recommend for this issue?
+      type: select_one
+      options:
+      - Immediate Response
+      - Within 2 Hours
+      - Within 24 Hours
+      - Within 72 Hours
+      - Next Maintenance Window
+      required: false
+    - id: 16
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other information that might help resolve the issue
+      type: text
+      options: []
+      required: false

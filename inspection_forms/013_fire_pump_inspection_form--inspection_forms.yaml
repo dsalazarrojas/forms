@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: fire_pump_inspection_form
+    pages:
+    - id: 1
+      name: pump_condition
+      label: Pump Condition
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: pump_location
+      label: Pump Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: pump_type
+      label: Pump Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: pump_maintenance
+      label: Pump Maintenance
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: last_inspection
+      label: Last Inspection
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: fire_station_id
+      label: Fire Station ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

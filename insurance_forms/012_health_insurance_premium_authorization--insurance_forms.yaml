@@ -1,0 +1,167 @@
+inputSchema:
+  type: object
+  properties:
+    title: health_insurance_premium_authorization
+    pages:
+    - id: 1
+      name: applicant_information
+      label: Applicant Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: policy_details
+      label: Policy Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: premium_payment
+      label: Premium Payment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: premium_amount
+      label: Premium Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: premium_frequency
+      label: Premium Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Monthly
+      - Bi-Monthly
+      - Quarterly
+      required: true
+    - id: 6
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Bank Draft
+      - Cheque
+      - Direct Deposit
+      required: true
+    - id: 7
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: policy_status
+      label: Policy Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 9
+      name: insurance_company
+      label: Insurance Company
+      hint: null
+      type: select_one
+      options:
+      - XYZ Insurance Co.
+      - ABC Insurance Co.
+      required: true
+    - id: 10
+      name: premium_start_date
+      label: Premium Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: premium_end_date
+      label: Premium End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: payment_method_frequency
+      label: Payment Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: true
+    - id: 13
+      name: premium_type
+      label: Premium Type
+      hint: null
+      type: select_one
+      options:
+      - Individual
+      - Group
+      required: true
+    - id: 14
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Unpaid
+      required: true
+    - id: 15
+      name: payment_notes
+      label: Payment Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: premium_notes
+      label: Premium Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: policy_notes
+      label: Policy Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: insurance_admin_notes
+      label: Insurance Admin Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: premium_payment_terms
+      label: Premium Payment Terms
+      hint: null
+      type: select_one
+      options:
+      - One-Time Payment
+      - Ongoing Payment
+      required: true
+    - id: 20
+      name: premium_payment_schedule
+      label: Premium Payment Schedule
+      hint: null
+      type: select_one
+      options:
+      - Immediate
+      - On Demand
+      - On Due Date
+      required: true

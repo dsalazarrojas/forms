@@ -1,0 +1,141 @@
+inputSchema:
+  type: object
+  properties:
+    title: Short Term Medical Coverage Election
+    pages:
+    - id: 1
+      name: medical_coverage_election
+      label: Medical Coverage Election
+      hint: null
+      type: select_one
+      options:
+      - Group Plan
+      - Individual Plan
+      - Cobra
+      required: false
+    - id: 2
+      name: coverage_start_date
+      label: Coverage Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: coverage_end_date
+      label: Coverage End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: coverage_type
+      label: Coverage Type
+      hint: null
+      type: select_one
+      options:
+      - Full-Time
+      - Part-Time
+      - Student
+      required: false
+    - id: 5
+      name: group_name
+      label: Group Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: group_id
+      label: Group ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: enrollment_date
+      label: Enrollment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: department
+      label: Department
+      hint: null
+      type: select_multiple
+      options:
+      - HR
+      - Finance
+      - Engineering
+      required: false
+    - id: 10
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: manager
+      label: Manager
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: team
+      label: Team
+      hint: null
+      type: select_multiple
+      options:
+      - Sales
+      - Marketing
+      - Support
+      required: false
+    - id: 13
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: coverage_type_description
+      label: Coverage Type Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: coverage_start_date_description
+      label: Coverage Start Date Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: coverage_end_date_description
+      label: Coverage End Date Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: enrollment_status
+      label: Enrollment Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Pending
+      required: false

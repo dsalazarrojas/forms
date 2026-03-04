@@ -1,0 +1,230 @@
+inputSchema:
+  type: object
+  properties:
+    title: Consumer Consent Form
+    pages:
+    - id: 1
+      name: consumer_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: consumer_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: consumer_email
+      label: Email Address
+      hint: Primary email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: consumer_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: consumer_address
+      label: Street Address
+      hint: Your mailing address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: consumer_city
+      label: City
+      hint: City of residence
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: consumer_state
+      label: State or Province
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: consumer_zip
+      label: ZIP or Postal Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: date_of_birth
+      label: Date of Birth
+      hint: Your date of birth
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: organization_name
+      label: Organization Name
+      hint: Name of organization requesting consent
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: consent_type
+      label: Type of Consent
+      hint: What are you consenting to
+      type: select_one
+      options:
+      - Data Collection
+      - Service Participation
+      - Marketing Communications
+      - Research Study
+      - Medical Procedure
+      - Financial Transaction
+      - Background Check
+      - Other
+      required: true
+    - id: 12
+      name: consent_description
+      label: Consent Description
+      hint: Detailed description of what you consent to
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: purpose_of_consent
+      label: Purpose of Consent
+      hint: Why is this consent needed
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: data_collected
+      label: Data to Be Collected
+      hint: What information will be gathered
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: data_usage
+      label: How Data Will Be Used
+      hint: Description of data usage
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: data_sharing
+      label: Will Data Be Shared
+      hint: Select if data will be shared
+      type: select_one
+      options:
+      - Yes, With Partners
+      - Yes, Anonymized Only
+      - No, Internal Use Only
+      - Not Sure
+      required: true
+    - id: 17
+      name: data_retention
+      label: Data Retention Period
+      hint: How long will data be kept
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: risks_involved
+      label: Potential Risks
+      hint: Any risks involved
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: benefits_of_consent
+      label: Benefits of Participation
+      hint: What benefits will you receive
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: voluntary_nature
+      label: Voluntary Participation
+      hint: Your participation is voluntary
+      type: select_one
+      options:
+      - I Understand
+      - Other
+      required: true
+    - id: 21
+      name: right_to_withdraw
+      label: Right to Withdraw
+      hint: You may withdraw consent at any time
+      type: select_one
+      options:
+      - I Understand
+      - Other
+      required: true
+    - id: 22
+      name: confidentiality_assurance
+      label: Confidentiality Assurance
+      hint: Your information will be kept confidential
+      type: select_one
+      options:
+      - I Understand
+      - Other
+      required: true
+    - id: 23
+      name: contact_information
+      label: Contact for Questions
+      hint: Who to contact for questions
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: marketing_consent
+      label: Marketing Communications Consent
+      hint: Agree to receive marketing messages
+      type: select_one
+      options:
+      - I Consent
+      - I Do Not Consent
+      required: false
+    - id: 25
+      name: third_party_consent
+      label: Third Party Sharing Consent
+      hint: Agree to share with third parties
+      type: select_one
+      options:
+      - I Consent
+      - I Do Not Consent
+      required: false
+    - id: 26
+      name: consumer_signature
+      label: Consumer Signature
+      hint: Type your full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: signature_date
+      label: Signature Date
+      hint: Date of signing
+      type: date
+      options: []
+      required: true
+    - id: 28
+      name: witness_name
+      label: Witness Name
+      hint: Name of witness if required
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: witness_signature
+      label: Witness Signature
+      hint: Witness signature if required
+      type: text
+      options: []
+      required: false

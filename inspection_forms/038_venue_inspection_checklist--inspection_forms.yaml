@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Venue Inspection Checklist
+    pages:
+    - id: 1
+      name: event_organizer_details
+      label: Event Organizer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: venue_details
+      label: Venue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: event_dates
+      label: Event Dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false

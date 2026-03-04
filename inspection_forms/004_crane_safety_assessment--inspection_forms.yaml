@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: crane_safety_assessment
+    pages:
+    - id: 1
+      name: crane_type
+      label: Crane type
+      hint: null
+      type: select_one
+      options:
+      - Tower crane
+      - Hooklift crane
+      - Other
+      required: true
+    - id: 2
+      name: crane_location
+      label: Crane location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_inspection
+      label: Date of inspection
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: hazards_encountered
+      label: Hazards encountered
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Loose chains
+      - Broken parts
+      - Loose bolts
+      - Other
+      required: true
+    - id: 5
+      name: corrective_actions
+      label: Corrective actions taken
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Partially completed
+      required: true
+    - id: 6
+      name: next_due_date
+      label: Next due date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: next_inspection_interval
+      label: Next inspection interval
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: observations
+      label: Observations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: assigned_user
+      label: Assigned user
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: equipment_id
+      label: Equipment ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: equipment_name
+      label: Equipment name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: equipment_type
+      label: Equipment type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: equipment_model
+      label: Equipment model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: equipment_description
+      label: Equipment description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: equipment_condition
+      label: Equipment condition
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 21
+      name: equipment_manufacturer
+      label: Equipment manufacturer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: equipment_purchase_date
+      label: Equipment purchase date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: equipment_last_inspection
+      label: Last inspection date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: equipment_location
+      label: Equipment location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: equipment_serial_number
+      label: Equipment serial number
+      hint: null
+      type: text
+      options: []
+      required: false

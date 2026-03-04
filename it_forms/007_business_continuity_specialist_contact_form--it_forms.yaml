@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Continuity Specialist Contact Form
+    pages:
+    - id: 1
+      name: inquiry_section
+      label: -- Inquiry Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: inquiry_type
+      label: Type of Inquiry
+      hint: What type of support do you need?
+      type: select_one
+      options:
+      - Continuity Planning
+      - Disaster Recovery
+      - Risk Assessment
+      - Staff Training
+      - Plan Testing
+      - Other
+      required: true
+    - id: 3
+      name: urgency_level
+      label: Urgency Level
+      hint: How soon do you need support?
+      type: select_one
+      options:
+      - Critical (within 48 hours)
+      - High (within 1 week)
+      - Medium (within 2 weeks)
+      - Low (flexible timeline)
+      required: true
+    - id: 4
+      name: contact_info_section
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: full_name
+      label: Full Name
+      hint: Your name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: title_position
+      label: Title/Position
+      hint: Your role in the organization
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: email_address
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: phone_number
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: company_info_section
+      label: -- Company Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: company_size
+      label: Company Size
+      hint: Number of employees
+      type: select_one
+      options:
+      - 1-50
+      - 51-200
+      - 201-500
+      - 501-1000
+      - 1000+
+      required: true
+    - id: 12
+      name: industry_sector
+      label: Industry Sector
+      hint: Select your industry
+      type: select_one
+      options:
+      - Technology
+      - Finance
+      - Healthcare
+      - Manufacturing
+      - Retail
+      - Telecommunications
+      - Energy
+      - Other
+      required: true
+    - id: 13
+      name: headquarters_location
+      label: Headquarters Location
+      hint: City and country
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: request_details_section
+      label: -- Request Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: current_status
+      label: Current continuity planning status
+      hint: What is your current situation?
+      type: select_one
+      options:
+      - No plan in place
+      - Basic plan exists
+      - Plan in development
+      - Plan in place, needs update
+      - Plan in place, seeking optimization
+      required: true
+    - id: 16
+      name: specific_needs
+      label: Specific needs or challenges
+      hint: Describe what you need help with
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: risk_areas
+      label: Areas of concern
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Data loss and backup
+      - System downtime
+      - Natural disasters
+      - Cyber threats
+      - Key person loss
+      - Supply chain
+      - Other
+      required: false
+    - id: 18
+      name: budget_section
+      label: -- Budget and Timeline --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: budget_range
+      label: Budget Range
+      hint: What is your budget for this project?
+      type: select_one
+      options:
+      - Less than $10,000
+      - $10,000 - $50,000
+      - $50,000 - $100,000
+      - $100,000 - $500,000
+      - More than $500,000
+      required: false
+    - id: 20
+      name: project_timeline
+      label: Preferred project timeline
+      hint: When do you want to start?
+      type: select_one
+      options:
+      - Immediately
+      - Within 1 month
+      - Within 3 months
+      - Within 6 months
+      - Flexible
+      required: false
+    - id: 21
+      name: additional_info
+      label: Additional information
+      hint: Any other details we should know?
+      type: text
+      options: []
+      required: false

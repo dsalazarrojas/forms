@@ -1,0 +1,245 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Athletic Field Inspection Form
+    pages:
+      - id: 1
+        name: inspection_overview_header
+        label: -- Inspection Overview --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: field_identification
+        label: Field Name or Number
+        hint: e.g. North Field 2, Main Stadium
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: facility_location
+        label: Facility Location
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: inspector_name
+        label: Inspector Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: inspection_date
+        label: Date of Inspection
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 6
+        name: inspection_time
+        label: Time of Inspection
+        hint: null
+        type: time
+        options: []
+        required: true
+      - id: 7
+        name: weather_conditions
+        label: Current Weather Conditions
+        hint: null
+        type: select_one
+        options:
+          - Sunny / Clear
+          - Overcast
+          - Raining
+          - Snow or Ice Present
+          - High Winds
+        required: true
+      - id: 8
+        name: playing_surface_header
+        label: -- Playing Surface Condition --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 9
+        name: surface_type
+        label: Playing Surface Type
+        hint: null
+        type: select_one
+        options:
+          - Natural Grass
+          - Synthetic Turf
+          - Clay or Dirt
+          - Hard Court Surface
+        required: true
+      - id: 10
+        name: surface_evenness_rating
+        label: Surface Evenness and Leveling
+        hint: 1 is Poor / Uneven, 5 is Perfectly Level
+        type: select_one
+        options:
+          - 1 - Poor
+          - 2
+          - 3
+          - 4
+          - 5 - Excellent
+        required: true
+      - id: 11
+        name: holes_divots_present
+        label: Presence of Holes, Divots, or Tripping Hazards?
+        hint: null
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 12
+        name: turf_quality_rating
+        label: Grass Height or Turf Fiber Quality
+        hint: null
+        type: select_one
+        options:
+          - Excellent
+          - Satisfactory
+          - Needs Mowing or Brushing
+          - Significant Repair Needed
+        required: true
+      - id: 13
+        name: drainage_issues_noted
+        label: Drainage Issues or Standing Water Noted?
+        hint: Describe location and severity
+        type: text
+        options: []
+        required: false
+      - id: 14
+        name: equipment_amenities_header
+        label: -- Equipment and Field Amenities --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 15
+        name: goal_post_status
+        label: Goal Posts, Nets, and Fixings Condition
+        hint: null
+        type: select_one
+        options:
+          - Secure and Safe
+          - Minor Repair Needed
+          - Damaged / Unsafe
+        required: true
+      - id: 16
+        name: fencing_status
+        label: Perimeter Fencing and Gates Condition
+        hint: null
+        type: select_one
+        options:
+          - Secure and Safe
+          - Minor Repair Needed
+          - Damaged / Unsafe
+        required: true
+      - id: 17
+        name: benches_dugouts_rating
+        label: Condition of Player Benches and Dugouts
+        hint: 1 is Poor, 5 is Excellent
+        type: select_one
+        options:
+          - 1 - Poor
+          - 2
+          - 3
+          - 4
+          - 5 - Excellent
+        required: true
+      - id: 18
+        name: lighting_functionality
+        label: Lighting System Functionality
+        hint: null
+        type: select_one
+        options:
+          - All Lights Working
+          - Partial Failure
+          - Non-Functional
+          - Not Applicable
+        required: true
+      - id: 19
+        name: safety_hazards_header
+        label: -- Safety and Hazards --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 20
+        name: debris_present
+        label: Debris or Trash Present on the Field?
+        hint: null
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 21
+        name: safety_zone_obstructions
+        label: Obstructions in the Designated Safety Zones?
+        hint: null
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 22
+        name: signage_visibility_rating
+        label: Visibility of Safety and Rule Signage
+        hint: 1 is Poor, 5 is Excellent
+        type: select_one
+        options:
+          - 1 - Poor
+          - 2
+          - 3
+          - 4
+          - 5 - Excellent
+        required: true
+      - id: 23
+        name: determination_header
+        label: -- Final Determination and Maintenance --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 24
+        name: field_play_status
+        label: Overall Field Status for Immediate Play
+        hint: null
+        type: select_one
+        options:
+          - Open - Safe for Play
+          - Conditional - Minor Repairs Needed
+          - Closed - Unsafe for Play
+        required: true
+      - id: 25
+        name: maintenance_actions_required
+        label: Required Maintenance Actions
+        hint: Detail all repairs needed to reach safe status
+        type: text
+        options: []
+        required: true
+      - id: 26
+        name: inspector_electronic_signature
+        label: Inspector Electronic Signature
+        hint: Type your full name
+        type: text
+        options: []
+        required: true

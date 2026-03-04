@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Cannabis Patient Intake Form
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: consent
+      label: Consent
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: submission
+      label: Submission
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: medical_history_context
+      label: Medical History Context
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: doctor_info
+      label: Doctor Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: patient_signature
+      label: Patient Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 8
+      name: doctor_signature
+      label: Doctor Signature
+      hint: null
+      type: note
+      options: []
+      required: true

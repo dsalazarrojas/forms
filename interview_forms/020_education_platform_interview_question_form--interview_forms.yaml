@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: Education Platform Interview Question Form
+    pages:
+    - id: 1
+      name: education_platform_interview_question_form
+      label: education_platform_interview_question_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: role
+      label: role
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Teacher'', ''value'': ''teacher''}'
+      - '{''id'': 2, ''label'': ''Instructor'', ''value'': ''instructor''}'
+      - '{''id'': 3, ''label'': ''Administrator'', ''value'': ''administrator''}'
+      required: false
+    - id: 3
+      name: years_of_experience
+      label: years_of_experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: highest_education_level
+      label: highest_education_level
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''High School'', ''value'': ''high_school''}'
+      - '{''id'': 2, ''label'': "Bachelor''s", ''value'': ''bachelors''}'
+      - '{''id'': 3, ''label'': "Master''s", ''value'': ''masters''}'
+      - '{''id'': 4, ''label'': ''Ph.D.'', ''value'': ''phd''}'
+      required: false
+    - id: 5
+      name: available_dates
+      label: available_dates
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: availability
+      label: availability
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Morning'', ''value'': ''morning''}'
+      - '{''id'': 2, ''label'': ''Afternoon'', ''value'': ''afternoon''}'
+      - '{''id'': 3, ''label'': ''Evening'', ''value'': ''evening''}'
+      required: false
+    - id: 7
+      name: availability_ending
+      label: availability_ending
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: preferred_contact_time
+      label: preferred_contact_time
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''morning'', ''value'': ''morning''}'
+      - '{''id'': 2, ''label'': ''afternoon'', ''value'': ''afternoon''}'
+      - '{''id'': 3, ''label'': ''evening'', ''value'': ''evening''}'
+      required: false
+    - id: 9
+      name: preferred_contact_days
+      label: preferred_contact_days
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Monday'', ''value'': ''monday''}'
+      - '{''id'': 2, ''label'': ''Tuesday'', ''value'': ''tuesday''}'
+      - '{''id'': 3, ''label'': ''Wednesday'', ''value'': ''wednesday''}'
+      - '{''id'': 4, ''label'': ''Thursday'', ''value'': ''thursday''}'
+      - '{''id'': 5, ''label'': ''Friday'', ''value'': ''friday''}'
+      - '{''id'': 6, ''label'': ''Saturday'', ''value'': ''saturday''}'
+      - '{''id'': 7, ''label'': ''Sunday'', ''value'': ''sunday''}'
+      required: false
+    - id: 10
+      name: preferred_time_zone
+      label: time_zone
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Pacific'', ''value'': ''pacific''}'
+      - '{''id'': 2, ''label'': ''Eastern'', ''value'': ''eastern''}'
+      - '{''id'': 3, ''label'': ''Central'', ''value'': ''central''}'
+      - '{''id'': 4, ''label'': ''Mountain'', ''value'': ''mountain''}'
+      - '{''id'': 5, ''label'': ''GMT-05'', ''value'': ''gmt_05''}'
+      - '{''id'': 6, ''label'': ''GMT-08'', ''value'': ''gmt_08''}'
+      - '{''id'': 7, ''label'': ''GMT-11'', ''value'': ''gmt_11''}'
+      - '{''id'': 8, ''label'': ''GMT-14'', ''value'': ''gmt_14''}'
+      - '{''id'': 9, ''label'': ''GMT-16'', ''value'': ''gmt_16''}'
+      - '{''id'': 10, ''label'': ''GMT-18'', ''value'': ''gmt_18''}'
+      required: false

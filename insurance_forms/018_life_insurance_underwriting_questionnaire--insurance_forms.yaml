@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: life_insurance_underwriting_questionnaire
+    pages:
+    - id: 1
+      name: policyholder_info
+      label: Policyholder Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: policy_amount
+      label: Policy Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: payment_frequency
+      label: Payment Frequency
+      hint: null
+      type: select_one
+      options:
+      - One Time
+      - Recurring
+      - Quarterly
+      - Monthly
+      required: false
+    - id: 5
+      name: policy_type
+      label: Policy Type
+      hint: null
+      type: select_multiple
+      options:
+      - Term
+      - Whole
+      - Variable
+      required: false
+    - id: 6
+      name: policy_status
+      label: Policy Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Pending
+      - Denied
+      required: false
+    - id: 7
+      name: policy_start_date
+      label: Policy Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: policy_end_date
+      label: Policy End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: payment_frequency_2
+      label: Payment Frequency 2
+      hint: null
+      type: select_one
+      options:
+      - One Time
+      - Recurring
+      - Quarterly
+      - Monthly
+      required: false
+    - id: 10
+      name: payment_term
+      label: Payment Term
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: premium_payment_type
+      label: Premium Payment Type
+      hint: null
+      type: select_multiple
+      options:
+      - One Time
+      - Recurring
+      required: false
+    - id: 12
+      name: payment_frequency_3
+      label: Payment Frequency 3
+      hint: null
+      type: select_one
+      options:
+      - One Time
+      - Recurring
+      - Quarterly
+      - Monthly
+      required: false
+    - id: 13
+      name: payment_term_2
+      label: Payment Term 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: premium_payment_term
+      label: Premium Payment Term
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - Bank Transfer
+      - Cash
+      - Credit Card
+      required: false
+    - id: 16
+      name: payee
+      label: Payee
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: premium_date
+      label: Premium Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: premium_amount
+      label: Premium Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: premium_frequency
+      label: Premium Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Bi-Weekly
+      - Monthly
+      required: false
+    - id: 20
+      name: premium_term
+      label: Premium Term
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: payee_address
+      label: Payee Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: payee_phone
+      label: Payee Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: payee_email
+      label: Payee Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 24
+      name: premium_status
+      label: Premium Status
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Pending
+      - Unpaid
+      required: false
+    - id: 25
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

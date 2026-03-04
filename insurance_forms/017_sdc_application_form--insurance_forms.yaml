@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: sdc_application_form
+    pages:
+    - id: 1
+      name: applicant_name
+      label: applicant_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: application_date
+      label: application_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: application_type
+      label: application_type
+      hint: Select one
+      type: select_one
+      options:
+      - '{''label'': ''Type 1'', ''value'': 1}'
+      - '{''label'': ''Type 2'', ''value'': 2}'
+      required: false
+    - id: 5
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,306 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Cleaning Inspection Form
+    pages:
+      - id: 1
+        name: client_name
+        label: Client Name
+        hint: Name of the client or property owner
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: property_address
+        label: Property Address
+        hint: Full address of the property
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: inspection_date
+        label: Inspection Date
+        hint: Date of inspection
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: inspector_name
+        label: Inspector Name
+        hint: Name of the person conducting inspection
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: property_type
+        label: Property Type
+        hint: Type of property being inspected
+        type: select_one
+        options:
+          - Residential - Single Family
+          - Residential - Multi-Family
+          - Residential - Apartment
+          - Commercial - Office
+          - Commercial - Retail
+          - Commercial - Restaurant
+          - Commercial - Medical
+          - Industrial
+          - Other
+        required: true
+      - id: 6
+        name: square_footage
+        label: Approximate Square Footage
+        hint: Size of the property
+        type: select_one
+        options:
+          - Under 1,000 sq ft
+          - 1,000 - 2,500 sq ft
+          - 2,501 - 5,000 sq ft
+          - 5,001 - 10,000 sq ft
+          - Over 10,000 sq ft
+        required: true
+      - id: 7
+        name: section_header_condition
+        label: -- Current Condition Assessment --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 8
+        name: overall_cleanliness
+        label: Overall Cleanliness Level
+        hint: Rate the current cleanliness
+        type: select_one
+        options:
+          - Excellent - Very clean
+          - Good - Generally clean
+          - Fair - Moderately dirty
+          - Poor - Very dirty
+          - Extremely Poor - Hazardous conditions
+        required: true
+      - id: 9
+        name: floor_condition
+        label: Floor Condition
+        hint: Rate floor condition
+        type: select_one
+        options:
+          - Excellent - Clean and well-maintained
+          - Good - Clean with minor wear
+          - Fair - Needs cleaning or repair
+          - Poor - Dirty or damaged
+        required: true
+      - id: 10
+        name: wall_condition
+        label: Wall and Ceiling Condition
+        hint: Rate walls and ceilings
+        type: select_one
+        options:
+          - Excellent - Clean, no marks
+          - Good - Minor marks or dust
+          - Fair - Visible dirt or marks
+          - Poor - Dirty or damaged
+        required: true
+      - id: 11
+        name: window_condition
+        label: Window and Glass Condition
+        hint: Rate windows and glass surfaces
+        type: select_one
+        options:
+          - Excellent - Clean and clear
+          - Good - Mostly clean
+          - Fair - Dirty or streaked
+          - Poor - Very dirty or damaged
+        required: true
+      - id: 12
+        name: bathroom_condition
+        label: Bathroom Condition
+        hint: Rate bathroom cleanliness
+        type: select_one
+        options:
+          - Excellent - Sanitary and clean
+          - Good - Clean with minor issues
+          - Fair - Needs thorough cleaning
+          - Poor - Unsanitary conditions
+        required: true
+      - id: 13
+        name: kitchen_condition
+        label: Kitchen Condition
+        hint: Rate kitchen cleanliness
+        type: select_one
+        options:
+          - Excellent - Clean and sanitized
+          - Good - Generally clean
+          - Fair - Grease or grime present
+          - Poor - Very dirty or unsanitary
+        required: true
+      - id: 14
+        name: section_header_issues
+        label: -- Identified Issues --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 15
+        name: odor_present
+        label: Unpleasant Odors Present
+        hint: Are there any noticeable odors
+        type: select_one
+        options:
+          - No Odors
+          - Mild Odors
+          - Moderate Odors
+          - Strong Odors
+          - Severe Odors
+        required: true
+      - id: 16
+        name: pest_evidence
+        label: Evidence of Pests
+        hint: Any signs of pest activity
+        type: select_one
+        options:
+          - None Observed
+          - Possible Signs
+          - Clear Evidence
+          - Active Infestation
+        required: true
+      - id: 17
+        name: mold_mildew
+        label: Mold or Mildew Presence
+        hint: Any visible mold or mildew
+        type: select_one
+        options:
+          - None Observed
+          - Minor Spots
+          - Moderate Growth
+          - Extensive Growth
+        required: true
+      - id: 18
+        name: damage_observed
+        label: Property Damage Observed
+        hint: Any damage to the property
+        type: text
+        options: []
+        required: false
+      - id: 19
+        name: safety_hazards
+        label: Safety Hazards Identified
+        hint: List any safety concerns
+        type: text
+        options: []
+        required: false
+      - id: 20
+        name: section_header_requirements
+        label: -- Cleaning Requirements --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 21
+        name: cleaning_priority
+        label: Cleaning Priority Level
+        hint: How urgently is cleaning needed
+        type: select_one
+        options:
+          - Routine - Standard scheduling
+          - Elevated - Schedule within one week
+          - High - Schedule within 48 hours
+          - Urgent - Immediate service needed
+        required: true
+      - id: 22
+        name: special_attention_areas
+        label: Areas Requiring Special Attention
+        hint: List areas needing extra focus
+        type: text
+        options: []
+        required: true
+      - id: 23
+        name: recommended_services
+        label: Recommended Cleaning Services
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - General Cleaning
+          - Deep Cleaning
+          - Carpet Cleaning
+          - Floor Stripping and Waxing
+          - Window Cleaning
+          - Pressure Washing
+          - Sanitization or Disinfection
+          - Odor Removal
+          - Mold Remediation
+          - Pest Cleanup
+          - Biohazard Cleanup
+          - Post-Construction Cleaning
+        required: true
+      - id: 24
+        name: equipment_needed
+        label: Special Equipment Needed
+        hint: List any special equipment required
+        type: text
+        options: []
+        required: false
+      - id: 25
+        name: access_restrictions
+        label: Access Restrictions or Notes
+        hint: Any limitations or special instructions
+        type: text
+        options: []
+        required: false
+      - id: 26
+        name: estimated_cleaning_time
+        label: Estimated Cleaning Time Required
+        hint: How long will cleaning take
+        type: select_one
+        options:
+          - 1-2 hours
+          - 2-4 hours
+          - 4-6 hours
+          - 6-8 hours
+          - Full day or more
+        required: true
+      - id: 27
+        name: crew_size_recommended
+        label: Recommended Crew Size
+        hint: How many cleaners are needed
+        type: select_one
+        options:
+          - 1 Cleaner
+          - 2 Cleaners
+          - 3-4 Cleaners
+          - 5 or more Cleaners
+        required: true
+      - id: 28
+        name: inspector_recommendations
+        label: Inspector Recommendations
+        hint: Any additional recommendations
+        type: text
+        options: []
+        required: false
+      - id: 29
+        name: follow_up_needed
+        label: Follow-Up Inspection Needed
+        hint: Is a follow-up required
+        type: select_one
+        options:
+          - Yes - After initial cleaning
+          - Yes - Periodic inspections
+          - No - One-time service only
+        required: true
+      - id: 30
+        name: inspector_signature
+        label: Inspector Signature (Type Full Name)
+        hint: Inspector electronic signature
+        type: text
+        options: []
+        required: true

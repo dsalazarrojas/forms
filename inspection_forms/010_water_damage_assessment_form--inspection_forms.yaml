@@ -1,0 +1,104 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Water Damage Assessment Form
+    pages:
+    - id: 1
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: incident_time
+      label: Incident Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: incident_location
+      label: Incident Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: cause_of_incident
+      label: Cause of Incident
+      hint: null
+      type: select_one
+      options:
+      - '{1: ''Water''}'
+      - '{2: ''Lightning''}'
+      - '{3: ''Fire''}'
+      - '{4: ''Other''}'
+      - '{5: ''Unknown''}'
+      required: false
+    - id: 5
+      name: damage_description
+      label: Damage Description
+      hint: null
+      type: select_multiple
+      options:
+      - '{1: ''Roof''}'
+      - '{2: ''Walls''}'
+      - '{3: ''Electrical System''}'
+      - '{4: ''Plumbing System''}'
+      - '{5: ''Other''}'
+      required: false
+    - id: 6
+      name: damage_severity
+      label: Damage Severity
+      hint: null
+      type: select_one
+      options:
+      - '{1: ''Minor''}'
+      - '{2: ''Major''}'
+      - '{3: ''Catastrophic''}'
+      required: false
+    - id: 7
+      name: incident_reporter
+      label: Incident Reporter
+      hint: null
+      type: select_one
+      options:
+      - '{1: ''Employee''}'
+      - '{2: ''Customer''}'
+      - '{3: ''Contractor''}'
+      required: false
+    - id: 8
+      name: incident_status
+      label: Incident Status
+      hint: null
+      type: select_one
+      options:
+      - '{1: ''Active''}'
+      - '{2: ''Resolved''}'
+      required: false
+    - id: 9
+      name: incident_status_update
+      label: Incident Status Update
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: incident_image
+      label: Incident Image
+      hint: null
+      type: text
+      options: []
+      required: false

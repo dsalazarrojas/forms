@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: home_insurance_quote
+    pages:
+    - id: 1
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: select_multiple
+      options:
+      - Home
+      - Business
+      - Other
+      required: true
+    - id: 2
+      name: home_type
+      label: Home Type
+      hint: null
+      type: select_one
+      options:
+      - Single Family Home
+      - Condo
+      - Townhouse
+      - Duplex
+      - Apartment
+      - Other
+      required: true
+    - id: 3
+      name: street_address
+      label: Street Address_goals
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: zip
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: home_square_footage
+      label: Square Footage (sqft)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: purchase_year
+      label: Purchase Year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: value_of_property
+      label: Value of Property
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: home_type_other
+      label: Other Home Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: home_location
+      label: Home Location
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: insurance_coverage
+      label: Insurance Coverage
+      hint: null
+      type: select_one
+      options:
+      - Liability
+      - Collision
+      - Comprehensive
+      - Other
+      required: true
+    - id: 12
+      name: insurance_provider
+      label: prophets Insurance
+      hint: null
+      type: select_one
+      options:
+      - A
+      - B
+      - C
+      required: true
+    - id: 13
+      name: insurance_limit
+      label: Insurance Limit
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: date_of_purchase
+      label: Date of Purchase
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: time_of_purchase
+      label: Time of Purchase
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 16
+      name: agent_info
+      label: Agent Info
+      hint: Enter any additional notes or comments
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 19
+      name: confirm_phone
+      label: Confirm Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: confirm_email
+      label: Confirm Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 21
+      name: confirm_phone_number
+      label: Confirm Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: confirm_email_address
+      label: Confirm Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 23
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: cancel
+      label: Cancel
+      hint: null
+      type: text
+      options: []
+      required: true

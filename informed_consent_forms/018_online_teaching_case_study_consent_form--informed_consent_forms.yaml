@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Teaching Case Study Consent Form
+    pages:
+    - id: 1
+      name: participant_details
+      label: Participant Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_roles
+      label: Roles
+      hint: null
+      type: select_one
+      options:
+      - id:ประก
+      - '{''id'': ''Instructor''}'
+      - '{''id'': ''Tutor''}'
+      - '{''id'': ''Other''}'
+      required: true
+    - id: 3
+      name: participant_signatures
+      label: Signatures
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: participant_agreements
+      label: Agreements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: participant_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: participant_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: participant_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: participant_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: participant_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: participant_other
+      label: Other
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': ''Other 1''}'
+      - '{''id'': ''Other 2''}'
+      - '{''id'': ''Other 3''}'
+      - '{''id'': ''Other 4''}'
+      required: false
+    - id: 11
+      name: participant_other_other
+      label: Other
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': ''Other 5''}'
+      - '{''id'': ''Other 6''}'
+      - '{''id'': ''Other 7''}'
+      required: false
+    - id: 12
+      name: participant_signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: participant_agreement
+      label: Agreement
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Furniture Inspection Form
+    pages:
+    - id: 1
+      name: furniture
+      label: furniture
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: condition
+      label: condition
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: damage
+      label: damage
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: date_inspected
+      label: date inspected
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: inspected_by
+      label: inspected by
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: status
+      label: status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 8
+      name: status_label
+      label: status label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: contact_details
+      label: contact details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_name
+      label: contact name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_email
+      label: contact email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: assigned
+      label: assigned
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: assigned_tool
+      label: assigned tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: created_by
+      label: created by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: updated_by
+      label: updated by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: created_at
+      label: created at
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: updated_at
+      label: updated at
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: created_on
+      label: created on
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: updated_on
+      label: updated on
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: submitted_by
+      label: submitted by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: submitted_at
+      label: submitted at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: created_by
+      label: created by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: updated_by
+      label: updated by
+      hint: null
+      type: text
+      options: []
+      required: false

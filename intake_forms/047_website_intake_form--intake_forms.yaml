@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: website_intake_form
+    pages:
+    - id: 1
+      name: website_details
+      label: Website Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: website_design
+      label: Website Design
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: website_development
+      label: Website Development
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: development_stack
+      label: Development Stack
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: website_launch
+      label: Website Launch
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: website_launch_date
+      label: Website Launch Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: website_launch_time
+      label: Website Launch Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: website_url
+      label: Website URL
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: website_description
+      label: Website Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: website_tags
+      label: Website Tags
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: website_keywords
+      label: Website Keywords
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: website_owner
+      label: Website Owner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: website_email
+      label: Website Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: website_phone
+      label: Website Phone
+      hint: null
+      type: text
+      options: []
+      required: false

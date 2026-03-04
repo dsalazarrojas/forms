@@ -1,0 +1,288 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Cannabis Dispensary Inspection Checklist
+    pages:
+      - id: 1
+        name: inspection_header
+        label: -- Dispensary Inspection Checklist --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: inspection_date
+        label: Inspection Date
+        hint: Date of inspection
+        type: date
+        options: []
+        required: true
+      - id: 3
+        name: inspector_name
+        label: Inspector Name
+        hint: Your name
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: dispensary_info_header
+        label: -- Dispensary Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 5
+        name: dispensary_name
+        label: Dispensary Name
+        hint: Business name
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: license_number
+        label: License Number
+        hint: State/local license
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: address
+        label: Address
+        hint: Dispensary address
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: manager_name
+        label: Manager On Duty
+        hint: Name of manager present
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: cleanliness_header
+        label: -- Cleanliness and Sanitation --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 10
+        name: floor_cleanliness
+        label: Floor Cleanliness
+        hint: Rate condition
+        type: select_one
+        options:
+          - Pass - Clean and well maintained
+          - Pass with conditions
+          - Fail - Dirty or hazardous
+        required: true
+      - id: 11
+        name: counter_cleanliness
+        label: Counter and Display Cleanliness
+        hint: Rate condition
+        type: select_one
+        options:
+          - Pass - Clean and organized
+          - Pass with conditions
+          - Fail - Dirty or disorganized
+        required: true
+      - id: 12
+        name: restroom_cleanliness
+        label: Restroom Cleanliness
+        hint: Rate condition
+        type: select_one
+        options:
+          - Pass - Clean and stocked
+          - Pass with conditions
+          - Fail - Dirty or poorly maintained
+        required: true
+      - id: 13
+        name: trash_management
+        label: Trash and Waste Management
+        hint: Rate condition
+        type: select_one
+        options:
+          - Pass - Properly managed
+          - Pass with conditions
+          - Fail - Overflowing or hazardous
+        required: true
+      - id: 14
+        name: storage_header
+        label: -- Product Storage and Handling --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 15
+        name: product_storage
+        label: Product Storage Compliance
+        hint: Rate compliance
+        type: select_one
+        options:
+          - Pass - Secure and properly stored
+          - Pass with conditions
+          - Fail - Improper storage
+        required: true
+      - id: 16
+        name: temperature_control
+        label: Temperature and Humidity Control
+        hint: Rate condition
+        type: select_one
+        options:
+          - Pass - Appropriate levels maintained
+          - Pass with conditions
+          - Fail - Out of range
+        required: true
+      - id: 17
+        name: inventory_tracking
+        label: Inventory Tracking System
+        hint: Rate system
+        type: select_one
+        options:
+          - Pass - System in place and accurate
+          - Pass with conditions
+          - Fail - Missing or inaccurate
+        required: true
+      - id: 18
+        name: expiration_dates
+        label: Expiration Date Compliance
+        hint: Rate compliance
+        type: select_one
+        options:
+          - Pass - All products within expiration
+          - Pass with conditions
+          - Fail - Expired products found
+        required: true
+      - id: 19
+        name: security_header
+        label: -- Security and Access Control --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 20
+        name: surveillance_system
+        label: Security Surveillance System
+        hint: Rate system
+        type: select_one
+        options:
+          - Pass - Functional and recording
+          - Pass with conditions
+          - Fail - Non-functional or missing
+        required: true
+      - id: 21
+        name: entry_control
+        label: Entry Control and Alarms
+        hint: Rate system
+        type: select_one
+        options:
+          - Pass - Secure and functioning
+          - Pass with conditions
+          - Fail - Inadequate security
+        required: true
+      - id: 22
+        name: employee_id
+        label: Employee ID and Access Logs
+        hint: Rate system
+        type: select_one
+        options:
+          - Pass - System in place
+          - Pass with conditions
+          - Fail - Missing or incomplete
+        required: true
+      - id: 23
+        name: safe_security
+        label: Safe and Vault Security
+        hint: Rate security
+        type: select_one
+        options:
+          - Pass - Secure and functional
+          - Pass with conditions
+          - Fail - Inadequate security
+        required: true
+      - id: 24
+        name: staffing_header
+        label: -- Staffing and Training --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 25
+        name: staff_credentials
+        label: Staff Licenses and Credentials
+        hint: Rate compliance
+        type: select_one
+        options:
+          - Pass - All staff properly credentialed
+          - Pass with conditions
+          - Fail - Missing credentials
+        required: true
+      - id: 26
+        name: training_records
+        label: Training Records on File
+        hint: Rate compliance
+        type: select_one
+        options:
+          - Pass - Complete records available
+          - Pass with conditions
+          - Fail - Missing or incomplete
+        required: true
+      - id: 27
+        name: compliance_header
+        label: -- Regulatory Compliance --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 28
+        name: license_display
+        label: License Display
+        hint: Rate compliance
+        type: select_one
+        options:
+          - Pass - License visible and current
+          - Pass with conditions
+          - Fail - Not displayed or expired
+        required: true
+      - id: 29
+        name: age_verification
+        label: Age Verification System
+        hint: Rate system
+        type: select_one
+        options:
+          - Pass - System in place and functional
+          - Pass with conditions
+          - Fail - Missing or not functioning
+        required: true
+      - id: 30
+        name: additional_notes
+        label: Additional Notes or Observations
+        hint: Optional observations
+        type: text
+        options: []
+        required: false
+      - id: 31
+        name: violations_found
+        label: Violations Found
+        hint: List any violations
+        type: text
+        options: []
+        required: false
+      - id: 32
+        name: corrective_actions
+        label: Corrective Actions Required
+        hint: Actions needed
+        type: text
+        options: []
+        required: false

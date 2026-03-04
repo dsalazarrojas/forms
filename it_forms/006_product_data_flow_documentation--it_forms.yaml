@@ -1,0 +1,39 @@
+inputSchema:
+  type: object
+  properties:
+    title: Product Data Flow Documentation
+    pages:
+    - id: 1
+      name: product_data_source
+      label: Product data source
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: product_data_destination
+      label: Product data destination
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: data_transfer_process
+      label: Data transfer process
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: data_owner
+      label: Data owner
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

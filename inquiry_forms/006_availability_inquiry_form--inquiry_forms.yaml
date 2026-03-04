@@ -1,0 +1,141 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pet Service Availability Inquiry Form
+    pages:
+    - id: 1
+      name: section_owner_info
+      label: -- Owner Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: owner_name
+      label: Owner Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: owner_email
+      label: Owner Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: owner_phone
+      label: Owner Phone Number
+      hint: For service updates
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: emergency_contact
+      label: Emergency Contact Number
+      hint: Alternate phone number
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_pet_info
+      label: -- Pet Details --
+      hint: Tell us about your furry friend
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: pet_name
+      label: Pet's Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: pet_species
+      label: Pet's Species
+      hint: Select one
+      type: select_one
+      options:
+      - Dog
+      - Cat
+      - Bird
+      - Reptile
+      - Small Mammal
+      - Other
+      required: true
+    - id: 9
+      name: pet_breed
+      label: Pet's Breed
+      hint: If mixed, please specify
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: pet_age
+      label: Pet's Age
+      hint: In years
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: pet_weight
+      label: Pet's Weight
+      hint: In pounds
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: section_service_inquiry
+      label: -- Service Inquiry --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: service_type
+      label: Requested Service
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Full Grooming
+      - Dog Walking
+      - Overnight Boarding
+      - Behavioral Training
+      - Bath and Brush
+      required: true
+    - id: 14
+      name: service_date
+      label: Preferred Service Date
+      hint: Select the earliest date you would like
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: preferred_time
+      label: Preferred Time Slot
+      hint: null
+      type: select_multiple
+      options:
+      - Morning (8am - 12pm)
+      - Afternoon (12pm - 4pm)
+      - Evening (4pm - 8pm)
+      required: true
+    - id: 16
+      name: special_notes
+      label: Special Instructions or Behavioral Notes
+      hint: Does your pet have any special needs?
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: vaccination_status
+      label: Vaccinations Up to Date?
+      hint: Required for boarding and grooming
+      type: select_one
+      options:
+      - Yes, all current
+      - No, need to update
+      - Not sure
+      required: true

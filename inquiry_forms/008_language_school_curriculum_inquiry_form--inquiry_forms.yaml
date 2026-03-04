@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Language School Curriculum Inquiry Form
+    pages:
+    - id: 1
+      name: language_school_curriculum_inquiry_form
+      label: What would you like to learn?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: language_school_curriculum_language
+      label: What language would you like to learn?
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 3
+      name: language_school_curriculum_level
+      label: What level of language do you want to learn?
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 4
+      name: language_school_curriculum_scheduling_preferences
+      label: Are you available on weekdays or weekends?
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 5
+      name: language_school_curriculum_start_date
+      label: What date would you like to start learning?
+      hint: Please provide a date in MM/DD format.
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: language_school_curriculum_duration
+      label: How long would you like to learn?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: language_school_curriculum_frequency
+      label: Would you like to learn on a regular schedule?
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 8
+      name: language_school_curriculum_contact_method
+      label: How would you like to contact us?
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 9
+      name: language_school_curriculum_additional_info
+      label: Do you have any additional information?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: language_school_curriculum_agree_terms
+      label: Do you agree with our terms?
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: true

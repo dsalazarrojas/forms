@@ -1,0 +1,151 @@
+inputSchema:
+  type: object
+  properties:
+    title: energy_simulation_input_form
+    pages:
+    - id: 1
+      name: project_data
+      label: Project Data
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: building_type
+      label: Building Type
+      hint: null
+      type: select_one
+      options:
+      - Small Commercial
+      - Large Commercial
+      - High-rise Building
+      - Residential
+      - Industrial
+      - Large Residential
+      required: false
+    - id: 3
+      name: building_size
+      label: Building Size
+      hint: null
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      required: false
+    - id: 4
+      name: climate_zone
+      label: Climate Zone
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      required: false
+    - id: 5
+      name: project_location
+      label: Project Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: building_address
+      label: Building Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: building_use
+      label: Building Use
+      hint: null
+      type: select_multiple
+      options:
+      - Commercial
+      - Residential
+      - Industrial
+      - Agricultural
+      required: false
+    - id: 8
+      name: building_design_year
+      label: Building Design Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: project_team_name
+      label: Project Team Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: project_lead_name
+      label: Project Lead Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: project_contact_info
+      label: Project Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 13
+      name: building_age
+      label: Building Age
+      hint: null
+      type: select_multiple
+      options:
+      - 0-20
+      - 21-40
+      - 41-60
+      required: false
+    - id: 14
+      name: climate_type
+      label: Climate Type
+      hint: null
+      type: select_one
+      options:
+      - Tropical
+      - Desert
+      - Temperate
+      - Continental
+      required: false
+    - id: 15
+      name: energy_simulation_method
+      label: Energy Simulation Method
+      hint: null
+      type: select_multiple
+      options:
+      - ASHRAE
+      - DOE
+      - eQUEST
+      required: false
+    - id: 16
+      name: energy_simulation_scope
+      label: Energy Simulation Scope
+      hint: null
+      type: select_multiple
+      options:
+      - Building
+      - Site
+      - Component
+      required: false

@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: Digital Twin Simulation Report Request Form
+    pages:
+    - id: 1
+      name: simulation_objectives
+      label: Simulation Objectives
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: parameters
+      label: Parameters
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: deadline
+      label: Deadline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: analysis_requests
+      label: Analysis Requests
+      hint: null
+      type: select_multiple
+      options:
+      - Analysis for Simulation
+      - Analysis for Validation
+      - Analysis for Optimization
+      required: false
+    - id: 5
+      name: engineering_deadline
+      label: Engineering Deadline
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: operations_deadline
+      label: Operations Deadline
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: simulation_deadline
+      label: Simulation Deadline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - Operations
+      - Engineering
+      required: false
+    - id: 9
+      name: simulation_description
+      label: Simulation Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: contact_note
+      label: Contact Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: simulation_parameters
+      label: Simulation Parameters
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: simulation_objectives
+      label: Simulation Objectives
+      hint: null
+      type: text
+      options: []
+      required: false

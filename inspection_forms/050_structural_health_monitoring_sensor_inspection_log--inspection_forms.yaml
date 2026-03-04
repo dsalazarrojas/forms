@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: Structural Health Monitoring Sensor Inspection Log
+    pages:
+    - id: 1
+      name: structural_health_monitoring_sensor_inspection_log
+      label: structural_health_monitoring_sensor_inspection_log
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: sensor_id
+      label: sensor_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: sensor_type_id
+      label: sensor_type_id
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: sensor_location
+      label: sensor_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: inspection_date
+      label: inspection_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: sensor_reading_value
+      label: sensor_reading_value
+      hint: null
+      type: number
+      options: []
+      required: false

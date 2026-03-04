@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Insurance Account Review Form
+    pages:
+    - id: 1
+      name: header
+      label: -- Account Review --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client name
+      hint: Business or owner name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: policy_number
+      label: Policy number
+      hint: Current policy identifier
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: coverage_types
+      label: Coverage types
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Liability
+      - Property
+      - Business interruption
+      - Workers compensation
+      required: true
+    - id: 5
+      name: premium_amount
+      label: Premium amount
+      hint: Current annual premium
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: last_claim_date
+      label: Last claim date
+      hint: Date of most recent claim if any
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: risk_changes
+      label: Changes to risk profile
+      hint: Has anything changed materially since last review
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 8
+      name: suggested_adjustments
+      label: Suggested adjustments
+      hint: Recommended changes to coverage or limits
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: follow_up_required
+      label: Follow up required
+      hint: Should an agent reach out for next steps
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 10
+      name: agent_notes
+      label: Agent notes
+      hint: Internal notes for the account manager
+      type: text
+      options: []
+      required: false

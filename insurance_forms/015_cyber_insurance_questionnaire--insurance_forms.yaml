@@ -1,0 +1,219 @@
+inputSchema:
+  type: object
+  properties:
+    title: cyber_insurance_questionnaire
+    pages:
+    - id: 1
+      name: insurance_company
+      label: Insurance Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: risk_level
+      label: Risk level
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 3
+      name: annual_revenue
+      label: Annual Revenue
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: employees
+      label: Employees
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: assets
+      label: Assets
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: insurance_policy
+      label: Insurance Policy
+      hint: null
+      type: select_multiple
+      options:
+      - Liability
+      - Property
+      - Business
+      required: false
+    - id: 7
+      name: business_hours
+      label: Business Hours
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: security_controls
+      label: Security Controls
+      hint: null
+      type: select_multiple
+      options:
+      - Implemented
+      - Partial
+      - Not Implemented
+      required: false
+    - id: 9
+      name: cyber_insurance_coverage
+      label: Cyber Insurance Coverage
+      hint: null
+      type: select_one
+      options:
+      - Comprehensive
+      - Limited
+      - Basic
+      required: false
+    - id: 10
+      name: coverage_type
+      label: Coverage Type
+      hint: null
+      type: select_multiple
+      options:
+      - Cyber Liability
+      - Data and System
+      - Media Liability
+      required: false
+    - id: 11
+      name: coverage_amount
+      label: Coverage Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: premium
+      label: Premium
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: payment_frequency
+      label: Payment Frequency
+      hint: null
+      type: select_one
+      options:
+      - Annual
+      - Semi-Annual
+      - Quarterly
+      required: false
+    - id: 14
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - Online
+      - Offline
+      - Bank Transfer
+      required: false
+    - id: 15
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: payment_time
+      label: Payment Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Pending
+      - Unpaid
+      required: false
+    - id: 19
+      name: payment_method_description
+      label: Payment Method Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: payment_frequency_description
+      label: Payment Frequency Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: policy_holder
+      label: Policy Holder
+      hint: null
+      type: select_multiple
+      options:
+      - Individual
+      - Company
+      required: false
+    - id: 22
+      name: policy_type
+      label: Policy Type
+      hint: null
+      type: select_one
+      options:
+      - Comprehensive
+      - Limited
+      - Basic
+      required: false
+    - id: 23
+      name: policy_start_date
+      label: Policy Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: policy_end_date
+      label: Policy End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: policy_status
+      label: Policy Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Canceled
+      required: false
+    - id: 26
+      name: policy_description
+      label: Policy Description
+      hint: null
+      type: note
+      options: []
+      required: false

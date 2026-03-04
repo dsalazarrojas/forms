@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Support Satisfaction Survey
+    pages:
+    - id: 1
+      name: customer_support_rating
+      label: Customer Support Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: satisfaction_with_agent
+      label: Satisfaction With Agent
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: resolution_time
+      label: Resolution Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: resolution_method
+      label: Resolution Method
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: overall_experience
+      label: Overall Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: feedback
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: support_satisfaction_survey_form_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: support_satisfaction_survey_form_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: support_satisfaction_survey_form_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: support_satisfaction_survey_form_additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

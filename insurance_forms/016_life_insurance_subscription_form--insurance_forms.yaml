@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: life_insurance_subscription_form
+    pages:
+    - id: 1
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: insurance_details
+      label: Insurance Details
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Individual'', ''value'': ''individual''}'
+      - '{''label'': ''Group'', ''value'': ''group''}'
+      required: false
+    - id: 3
+      name: policy_type
+      label: Policy Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Term'', ''value'': ''term''}'
+      - '{''label'': ''Whole'', ''value'': ''whole''}'
+      required: false
+    - id: 4
+      name: policy_duration
+      label: Policy Duration
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: policy_start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''John'', ''value'': ''john''}'
+      - '{''label'': ''Jane'', ''value'': ''jane''}'
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: 123-123-1234
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: user@example.com
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

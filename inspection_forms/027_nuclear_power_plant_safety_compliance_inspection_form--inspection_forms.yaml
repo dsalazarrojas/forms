@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nuclear Power Plant Safety Compliance Inspection Form
+    pages:
+    - id: 1
+      name: general_info
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: inspection_team
+      label: Inspection Team
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: plant_operator
+      label: Plant Operator
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: safety_manager
+      label: Safety Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: findings_and_recommendations
+      label: Findings and Recommendations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: findings
+      label: Findings
+      hint: List the items found during the inspection
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: follow_ups
+      label: Follow-Ups
+      hint: List the follow-ups for the items found during the inspection
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: safety_compliance_rating
+      label: Safety Compliance Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: follow_up_status
+      label: Follow-Up Status
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - Pending
+      - Not Started
+      required: false
+    - id: 11
+      name: due_date
+      label: Due Date
+      hint: null
+      type: date
+      options: []
+      required: false

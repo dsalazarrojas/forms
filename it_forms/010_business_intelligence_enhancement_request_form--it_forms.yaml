@@ -1,0 +1,209 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Intelligence Enhancement Request Form
+    pages:
+    - id: 1
+      name: requestor_name
+      label: Requestor Name
+      hint: Full name of person requesting enhancement
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: requestor_email
+      label: Requestor Email
+      hint: Email address for follow-up
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: requestor_department
+      label: Requestor Department
+      hint: Your department or team
+      type: select_one
+      options:
+      - Executive
+      - Finance
+      - Sales
+      - Marketing
+      - Operations
+      - IT
+      - Human Resources
+      - Customer Service
+      - Analytics
+      - Other
+      required: true
+    - id: 4
+      name: request_date
+      label: Request Date
+      hint: Date of enhancement request
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: enhancement_type
+      label: Enhancement Type
+      hint: Type of BI enhancement needed
+      type: select_one
+      options:
+      - New report
+      - Dashboard modification
+      - Data source integration
+      - Metric calculation change
+      - Visualization update
+      - Performance optimization
+      - Access or permissions
+      - Other
+      required: true
+    - id: 6
+      name: enhancement_title
+      label: Enhancement Title
+      hint: Brief title for this request
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: enhancement_description
+      label: Enhancement Description
+      hint: Detailed description of requested enhancement
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: business_justification
+      label: Business Justification
+      hint: Why is this enhancement needed
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: priority_level
+      label: Priority Level
+      hint: How urgent is this request
+      type: select_one
+      options:
+      - Critical - business impact
+      - High - important need
+      - Medium - nice to have
+      - Low - future consideration
+      required: true
+    - id: 10
+      name: affected_systems
+      label: Affected BI Systems
+      hint: Select all systems affected
+      type: select_multiple
+      options:
+      - Tableau
+      - Power BI
+      - Qlik
+      - Looker
+      - SAP BusinessObjects
+      - IBM Cognos
+      - Custom dashboards
+      - Data warehouse
+      - Other
+      required: true
+    - id: 11
+      name: data_sources
+      label: Data Sources Involved
+      hint: Select all relevant data sources
+      type: select_multiple
+      options:
+      - SQL database
+      - Cloud storage
+      - CRM system
+      - ERP system
+      - Excel files
+      - API feeds
+      - Third-party data
+      - Other
+      required: true
+    - id: 12
+      name: current_limitations
+      label: Current Limitations
+      hint: What limitations exist with current setup
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: expected_outcome
+      label: Expected Outcome
+      hint: What results do you expect from this enhancement
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: target_users
+      label: Target Users
+      hint: Who will use this enhancement
+      type: select_multiple
+      options:
+      - Executive team
+      - Managers
+      - Analysts
+      - Operations staff
+      - Sales team
+      - Marketing team
+      - External stakeholders
+      - All employees
+      required: true
+    - id: 15
+      name: user_count
+      label: Estimated User Count
+      hint: Approximate number of users
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: deadline
+      label: Required By Date
+      hint: When is this needed by
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: dependencies
+      label: Dependencies
+      hint: Are there any dependencies for this request
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: reporting_requirements
+      label: Reporting Requirements
+      hint: Select all reporting needs
+      type: select_multiple
+      options:
+      - Daily reports
+      - Weekly reports
+      - Monthly reports
+      - Quarterly reports
+      - Real-time dashboards
+      - Ad-hoc analysis
+      - Automated alerts
+      required: false
+    - id: 19
+      name: kpi_metrics
+      label: KPI Metrics to Track
+      hint: List key metrics to be included
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: approval_status
+      label: Management Approval Status
+      hint: Has management approved this request
+      type: select_one
+      options:
+      - Approved
+      - Pending approval
+      - Not yet requested
+      required: true
+    - id: 21
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false

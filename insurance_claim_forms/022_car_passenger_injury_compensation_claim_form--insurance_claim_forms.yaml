@@ -1,0 +1,499 @@
+inputSchema:
+  type: object
+  properties:
+    title: Car Passenger Injury Compensation Claim Form
+    pages:
+    - id: 1
+      name: claimant_information
+      label: Claimant Information
+      hint: Your personal details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: Your date of birth
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email Address
+      hint: For claim communications
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: address
+      label: Street Address
+      hint: Your address
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: city
+      label: City
+      hint: Your city
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: state
+      label: State
+      hint: Your state
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: zip_code
+      label: ZIP Code
+      hint: Your ZIP code
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: accident_information
+      label: Accident Information
+      hint: Details about the accident
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: accident_date
+      label: Date of Accident
+      hint: When did it occur?
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: accident_time
+      label: Time of Accident
+      hint: What time?
+      type: time
+      options: []
+      required: true
+    - id: 14
+      name: accident_location
+      label: Location of Accident
+      hint: Full address or description
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: accident_type
+      label: Type of Accident
+      hint: What type was it?
+      type: select_one
+      options:
+      - Rear-end collision
+      - Side-impact collision
+      - Head-on collision
+      - Rollover
+      - Single vehicle
+      - Hit and run
+      - Other
+      required: true
+    - id: 16
+      name: accident_description
+      label: Accident Description
+      hint: Describe what happened
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: vehicle_information
+      label: Vehicle Information
+      hint: Vehicle you were in
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: vehicle_year
+      label: Vehicle Year
+      hint: Year
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: vehicle_make
+      label: Vehicle Make
+      hint: Manufacturer
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: vehicle_model
+      label: Vehicle Model
+      hint: Model
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: vehicle_vin
+      label: VIN
+      hint: Vehicle Identification Number
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: license_plate
+      label: License Plate
+      hint: Plate number
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: seating_position
+      label: Your Seating Position
+      hint: Where were you seated?
+      type: select_one
+      options:
+      - Front passenger seat
+      - Rear seat - left
+      - Rear seat - center
+      - Rear seat - right
+      - Other
+      required: true
+    - id: 24
+      name: seatbelt_worn
+      label: Were You Wearing a Seatbelt?
+      hint: Yes or no
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 25
+      name: airbag_deployed
+      label: Did Airbags Deploy?
+      hint: Yes or no
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 26
+      name: driver_information
+      label: Driver Information
+      hint: Details about the driver
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: driver_name
+      label: Driver Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: driver_relationship
+      label: Driver Relationship to You
+      hint: How do you know them?
+      type: select_one
+      options:
+      - Family member
+      - Friend
+      - Co-worker
+      - Rideshare driver
+      - Bus/taxi driver
+      - Stranger
+      - Other
+      required: true
+    - id: 29
+      name: driver_insurance
+      label: Driver Insurance Company
+      hint: Insurance carrier
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: driver_policy_number
+      label: Driver Policy Number
+      hint: Policy number
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: other_party_information
+      label: Other Party Information
+      hint: If another vehicle was involved
+      type: note
+      options: []
+      required: false
+    - id: 32
+      name: other_vehicle_involved
+      label: Was Another Vehicle Involved?
+      hint: Yes or no
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 33
+      name: other_driver_name
+      label: Other Driver Name
+      hint: Full name
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: other_driver_insurance
+      label: Other Driver Insurance
+      hint: Insurance company
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: other_driver_policy
+      label: Other Driver Policy Number
+      hint: Policy number
+      type: text
+      options: []
+      required: false
+    - id: 36
+      name: injury_information
+      label: Injury Information
+      hint: Details about your injuries
+      type: note
+      options: []
+      required: false
+    - id: 37
+      name: injuries_sustained
+      label: Injuries Sustained
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Whiplash
+      - Head injury
+      - Neck injury
+      - Back injury
+      - Chest injury
+      - Arm injury
+      - Leg injury
+      - Knee injury
+      - Facial injury
+      - Internal injuries
+      - Psychological trauma
+      - Other
+      required: true
+    - id: 38
+      name: injury_description
+      label: Injury Description
+      hint: Describe your injuries in detail
+      type: text
+      options: []
+      required: true
+    - id: 39
+      name: medical_treatment
+      label: Medical Treatment Received
+      hint: Did you receive treatment?
+      type: select_one
+      options:
+      - Yes - emergency room
+      - Yes - hospital admission
+      - Yes - doctor visit
+      - Yes - urgent care
+      - No - declined treatment
+      - No - not needed
+      required: true
+    - id: 40
+      name: treating_facility
+      label: Treating Facility Name
+      hint: Hospital or clinic name
+      type: text
+      options: []
+      required: false
+    - id: 41
+      name: treating_physician
+      label: Treating Physician
+      hint: Doctor's name
+      type: text
+      options: []
+      required: false
+    - id: 42
+      name: treatment_date
+      label: First Treatment Date
+      hint: When did you receive treatment?
+      type: date
+      options: []
+      required: false
+    - id: 43
+      name: ongoing_treatment
+      label: Ongoing Treatment
+      hint: Are you still receiving treatment?
+      type: select_one
+      options:
+      - Yes - ongoing care
+      - Yes - physical therapy
+      - No - treatment complete
+      - No - not needed
+      required: true
+    - id: 44
+      name: medical_expenses
+      label: Medical Expenses
+      hint: Total medical costs to date
+      type: number
+      options: []
+      required: false
+    - id: 45
+      name: lost_wages
+      label: Lost Wages
+      hint: Income lost due to injury
+      type: number
+      options: []
+      required: false
+    - id: 46
+      name: pain_and_suffering
+      label: Pain and Suffering
+      hint: Rate your pain level
+      type: select_one
+      options:
+      - Mild
+      - Moderate
+      - Severe
+      - Debilitating
+      required: true
+    - id: 47
+      name: daily_life_impact
+      label: Impact on Daily Life
+      hint: How has this affected you?
+      type: text
+      options: []
+      required: true
+    - id: 48
+      name: police_report
+      label: Police Report
+      hint: Was a report filed?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 49
+      name: police_report_number
+      label: Police Report Number
+      hint: Report number
+      type: text
+      options: []
+      required: false
+    - id: 50
+      name: witnesses
+      label: Witnesses
+      hint: Were there witnesses?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 51
+      name: witness_details
+      label: Witness Details
+      hint: Names and contact info
+      type: text
+      options: []
+      required: false
+    - id: 52
+      name: photos_evidence
+      label: Photos and Evidence
+      hint: Do you have evidence?
+      type: select_one
+      options:
+      - Yes - photos
+      - Yes - videos
+      - Yes - both
+      - false
+      required: false
+    - id: 53
+      name: legal_representation
+      label: Legal Representation
+      hint: Do you have an attorney?
+      type: select_one
+      options:
+      - true
+      - false
+      - Considering
+      required: true
+    - id: 54
+      name: attorney_name
+      label: Attorney Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 55
+      name: attorney_contact
+      label: Attorney Contact
+      hint: Phone or email
+      type: text
+      options: []
+      required: false
+    - id: 56
+      name: compensation_sought
+      label: Compensation Sought
+      hint: Types of compensation
+      type: select_multiple
+      options:
+      - Medical expenses
+      - Lost wages
+      - Pain and suffering
+      - Emotional distress
+      - Loss of enjoyment
+      - Future medical care
+      - Rehabilitation costs
+      - Other damages
+      required: true
+    - id: 57
+      name: claim_amount
+      label: Estimated Claim Amount
+      hint: Total amount sought
+      type: number
+      options: []
+      required: false
+    - id: 58
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false
+    - id: 59
+      name: signature_confirmation
+      label: Signature Confirmation
+      hint: Confirm information is accurate
+      type: select_one
+      options:
+      - I certify this information is true and accurate
+      - I cannot certify
+      required: true
+    - id: 60
+      name: claim_date
+      label: Claim Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true

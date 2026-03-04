@@ -1,0 +1,132 @@
+inputSchema:
+  type: object
+  properties:
+    title: Auto Insurance Registration Form
+    pages:
+    - id: 1
+      name: policyholder_info_header
+      label: -- Policyholder Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: policyholder_name
+      label: Policyholder Name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: Used for eligibility verification
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: drivers_license_id
+      label: Driver's License ID
+      hint: Your state license number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email Address
+      hint: Primary communication email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone Number
+      hint: Primary contact number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: vehicle_registration_header
+      label: -- Vehicle to Register --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: vin
+      label: VIN
+      hint: 17-digit Vehicle Identification Number
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: make
+      label: Make
+      hint: e.g. Ford
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: model
+      label: Model
+      hint: e.g. Explorer
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: year
+      label: Year
+      hint: e.g. 2023
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: plate_number
+      label: License Plate Number
+      hint: If already issued
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: policy_setup_header
+      label: -- Policy Setup --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: desired_effective_date
+      label: Desired Effective Date
+      hint: When should coverage begin?
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: payment_frequency
+      label: Payment Frequency
+      hint: Select your billing preference
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Annually
+      required: true
+    - id: 16
+      name: communication_preference
+      label: Communication Preference
+      hint: How should we send your documents?
+      type: select_one
+      options:
+      - Email
+      - Mail
+      - SMS
+      required: true
+    - id: 17
+      name: agree_to_terms
+      label: Agree to Policy Terms
+      hint: I confirm all information is correct and agree to terms
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

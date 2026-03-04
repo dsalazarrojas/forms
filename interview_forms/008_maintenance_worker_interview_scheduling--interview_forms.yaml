@@ -1,0 +1,130 @@
+inputSchema:
+  type: object
+  properties:
+    title: Maintenance Worker Interview Scheduling
+    pages:
+    - id: 1
+      name: schedule_interview
+      label: Schedule Interview
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: candidate_info
+      label: Candidate Information
+      hint: Please provide candidate information
+      type: select_multiple
+      options:
+      - Candidate 1
+      - Candidate 2
+      - Candidate 3
+      - Candidate 4
+      required: true
+    - id: 3
+      name: interview_details
+      label: Interview Details
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: work_order_number
+      label: Work Order Number
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 5
+      name: interview_time
+      label: Interview Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: facility_location
+      label: Facility Location
+      hint: null
+      type: select_multiple
+      options:
+      - HQ
+      - Location 1
+      - Location 2
+      - Location 3
+      - Location 4
+      required: false
+    - id: 7
+      name: interview_date
+      label: Interview Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: interview_time
+      label: Interview Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: candidate_status
+      label: Candidate Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 10
+      name: candidate_rating
+      label: Candidate Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: interview_type
+      label: Interview Type
+      hint: null
+      type: select_one
+      options:
+      - On-site
+      - Off-site
+      required: false
+    - id: 13
+      name: schedule_interview
+      label: Schedule Interview
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: candidate_contact_info
+      label: Candidate Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: interview_status
+      label: Interview Status
+      hint: null
+      type: select_one
+      options:
+      - Complete
+      - Incomplete
+      required: false

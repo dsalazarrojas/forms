@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Angel Investment Refund Form
+    pages:
+    - id: 1
+      name: section_investor_information
+      label: -- Investor Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: investor_name
+      label: Investor name
+      hint: Full name as on record
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: investment_amount
+      label: Investment amount
+      hint: Amount originally invested
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: refund_reason
+      label: Reason for refund request
+      hint: Provide explanation
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: preferred_refund_method
+      label: Preferred refund method
+      hint: Choose refund delivery
+      type: select_one
+      options:
+      - Bank transfer
+      - Check
+      - Credit back
+      required: true
+    - id: 6
+      name: account_details
+      label: Account details for refund
+      hint: Provide bank or payment details
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: contact_email
+      label: Contact email
+      hint: For refund communication
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: signature
+      label: Signature printed name
+      hint: Typing your name constitutes signature
+      type: text
+      options: []
+      required: true

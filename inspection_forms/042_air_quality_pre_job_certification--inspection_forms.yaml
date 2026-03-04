@@ -1,0 +1,156 @@
+inputSchema:
+  type: object
+  properties:
+    title: Air Quality Pre Job Certification
+    pages:
+    - id: 1
+      name: job_info_header
+      label: -- Job Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: project_name
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: job_id
+      label: Job ID / Permit
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: supervisor
+      label: Site Supervisor
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date
+      label: Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: hazard_assessment_header
+      label: -- Hazard Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: work_area
+      label: Work Area Description
+      hint: Confined space? Open area?
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: hazards
+      label: Potential Air Hazards
+      hint: Check all that apply
+      type: select_multiple
+      options:
+      - Dust / Particulates
+      - Welding Fumes
+      - Chemical Vapors
+      - Mold Spores
+      - Asbestos
+      - Silica
+      - Oxygen Deficiency
+      required: true
+    - id: 9
+      name: ventilation_plan
+      label: Ventilation Plan
+      hint: How will air be managed?
+      type: select_one
+      options:
+      - Natural Ventilation
+      - Mechanical Ventilation (Fans)
+      - Local Exhaust / Extraction
+      - None Required
+      required: true
+    - id: 10
+      name: ppe_reqs
+      label: PPE Requirements
+      hint: Respiratory protection
+      type: select_one
+      options:
+      - N95 Mask
+      - Half-Face Respirator
+      - Full-Face Respirator
+      - SCBA
+      - None
+      required: true
+    - id: 11
+      name: gas_test_header
+      label: -- Initial Gas Test Results --
+      hint: Required for confined spaces
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: o2_level
+      label: Oxygen (O2) %
+      hint: Target 19.5 - 23.5%
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: lel_level
+      label: LEL %
+      hint: Lower Explosive Limit
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: h2s_level
+      label: H2S ppm
+      hint: Hydrogen Sulfide
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: co_level
+      label: CO ppm
+      hint: Carbon Monoxide
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: certification_header
+      label: -- Certification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: tester_name
+      label: Tester Name
+      hint: Who performed the test?
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: cert_statement
+      label: Certification Statement
+      hint: I certify that the air quality is safe for work
+      type: select_one
+      options:
+      - I Certify
+      - Other
+      required: true
+    - id: 19
+      name: signature
+      label: Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: true

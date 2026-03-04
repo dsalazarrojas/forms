@@ -1,0 +1,146 @@
+inputSchema:
+  type: object
+  properties:
+    title: Back End Developer Interview Form
+    pages:
+    - id: 1
+      name: candidate_header
+      label: -- Back-End Developer Application and Assessment --
+      hint: Let's see your technical chops
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: candidate_full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: candidate_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: candidate_linkedin
+      label: LinkedIn Profile URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: candidate_github
+      label: GitHub Profile URL
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: skills_header
+      label: -- Technical Skills Profile --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: primary_backend_language
+      label: Primary Back-End Language
+      hint: null
+      type: select_one
+      options:
+      - Node.js (JavaScript/TypeScript)
+      - Python
+      - Java
+      - Go
+      - C#/.NET
+      - Ruby
+      - PHP
+      required: true
+    - id: 8
+      name: database_experience
+      label: Experience with Databases
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - PostgreSQL
+      - MySQL
+      - MongoDB
+      - Redis
+      - Elasticsearch
+      - Cassandra
+      - DynamoDB
+      required: true
+    - id: 9
+      name: cloud_platforms
+      label: Cloud Platforms Experience
+      hint: null
+      type: select_multiple
+      options:
+      - AWS
+      - Google Cloud (GCP)
+      - Microsoft Azure
+      - Heroku
+      - DigitalOcean
+      required: false
+    - id: 10
+      name: years_backend_experience
+      label: Total Years of Professional Back-End Experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: architecture_patterns
+      label: Familiarity with Architecture Patterns
+      hint: null
+      type: select_multiple
+      options:
+      - RESTful APIs
+      - GraphQL
+      - Microservices
+      - Serverless
+      - Event-Driven Architecture
+      - Monolithic
+      required: true
+    - id: 12
+      name: unit_testing_preference
+      label: Do you write unit tests for your code?
+      hint: null
+      type: select_one
+      options:
+      - Always (TDD approach)
+      - Frequently
+      - Sometimes
+      - Rarely
+      required: true
+    - id: 13
+      name: technical_assessment_url
+      label: Link to Technical Assessment or Portfolio Project
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: describe_complex_challenge
+      label: Describe a complex technical challenge you solved recently
+      hint: Explain the problem, your solution, and the outcome
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: why_our_company
+      label: Why are you interested in joining our engineering team?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: interview_availability
+      label: General Interview Availability
+      hint: Days and times next week
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pediatric Medical Daycare Inspection Form
+    pages:
+    - id: 1
+      name: daycare_center_details
+      label: Daycare Center Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: staff_training
+      label: Staff Training
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: staff_to_staff_ratio
+      label: Staff To Staff Ratio
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: emergency_contact_info
+      label: Emergency Contact Info
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 6
+      name: first_aid_kit_availability
+      label: First Aid Kit Availability
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Available''}'
+      - '{''label'': ''Not Available''}'
+      required: false
+    - id: 7
+      name: medical_records
+      label: Medical Records
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: medical_supplies
+      label: Medical Supplies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: inspection_result
+      label: Inspection Result
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Pass''}'
+      - '{''label'': ''Fail''}'
+      required: false
+    - id: 10
+      name: action_plan
+      label: Action Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: follow_up_plan
+      label: Follow Up Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: submitted_on
+      label: Submitted On
+      hint: null
+      type: date
+      options: []
+      required: false

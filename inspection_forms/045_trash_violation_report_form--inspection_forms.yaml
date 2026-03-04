@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: trash_violation_report_form
+    pages:
+    - id: 1
+      name: resident_name
+      label: Resident Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: photo_proof
+      label: Photo Proof
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_of_violation
+      label: Date of Violation
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: witness_name
+      label: Witness Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: witness_phone_number
+      label: Witness Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: true
+    - id: 10
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - resident
+      - witness
+      required: true
+    - id: 11
+      name: submitted_on
+      label: Submitted On
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: submitted_for
+      label: Submitted For
+      hint: null
+      type: select_one
+      options:
+      - trash_violation_report
+      - Other
+      required: true
+    - id: 14
+      name: location_details
+      label: Location Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: witness_signature
+      label: Witness Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: witness_signature_date
+      label: Witness Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: resident_signature
+      label: Resident Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: resident_signature_date
+      label: Resident Signature Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: submitted_for_date
+      label: Submitted For Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: photos
+      label: Photos
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: witness_photos
+      label: Witness Photos
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: resident_photos
+      label: Resident Photos
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submitted
+      label: Submitted
+      hint: null
+      type: text
+      options: []
+      required: true

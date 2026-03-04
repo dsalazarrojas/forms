@@ -1,0 +1,229 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Building Inspection Checklist
+    pages:
+    - id: 1
+      name: inspection_date
+      label: Inspection Date
+      hint: Date of building inspection
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: property_address
+      label: Property Address
+      hint: Complete building address
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: property_type
+      label: Property Type
+      hint: What type of building
+      type: select_one
+      options:
+        - Residential
+        - Commercial
+        - Industrial
+        - Mixed Use
+        - Other
+      required: true
+    - id: 4
+      name: inspector_name
+      label: Inspector Name
+      hint: Full name of inspector
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: inspector_license
+      label: Inspector License Number
+      hint: Professional credentials
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: property_owner
+      label: Property Owner Name
+      hint: Owner of the building
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: owner_contact
+      label: Owner Contact Number
+      hint: Phone or email
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: exterior_condition
+      label: Exterior Condition
+      hint: Overall exterior assessment
+      type: select_one
+      options:
+        - Excellent
+        - Good
+        - Fair
+        - Poor
+        - Critical
+      required: true
+    - id: 9
+      name: roof_inspection
+      label: Roof Inspection
+      hint: Roof condition check
+      type: select_multiple
+      options:
+        - No Issues
+        - Missing Shingles
+        - Leaks Visible
+        - Sagging
+        - Moss or Algae
+        - Needs Replacement
+      required: true
+    - id: 10
+      name: foundation_check
+      label: Foundation Check
+      hint: Foundation condition
+      type: select_one
+      options:
+        - Excellent
+        - Good
+        - Fair
+        - Poor
+        - Requires Repair
+      required: true
+    - id: 11
+      name: foundation_issues
+      label: Foundation Issues Found
+      hint: Any cracks or settling
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: windows_doors
+      label: Windows and Doors
+      hint: Assessment of windows and doors
+      type: select_one
+      options:
+        - Excellent
+        - Good
+        - Fair
+        - Poor
+      required: true
+    - id: 13
+      name: electrical_panel
+      label: Electrical Panel Inspection
+      hint: Main electrical panel
+      type: select_one
+      options:
+        - Excellent
+        - Good
+        - Fair
+        - Poor
+        - Requires Update
+      required: true
+    - id: 14
+      name: plumbing_check
+      label: Plumbing System Check
+      hint: Overall plumbing condition
+      type: select_one
+      options:
+        - Excellent
+        - Good
+        - Fair
+        - Poor
+        - Requires Repair
+      required: true
+    - id: 15
+      name: hvac_system
+      label: HVAC System Condition
+      hint: Heating and cooling systems
+      type: select_one
+      options:
+        - Excellent
+        - Good
+        - Fair
+        - Poor
+        - Needs Replacement
+      required: true
+    - id: 16
+      name: moisture_presence
+      label: Moisture or Water Damage
+      hint: Signs of water damage
+      type: select_one
+      options:
+        - None Visible
+        - Minor
+        - Moderate
+        - Extensive
+      required: true
+    - id: 17
+      name: pest_evidence
+      label: Evidence of Pests
+      hint: Insects, rodents, etc
+      type: select_one
+      options:
+        - None
+        - Minor
+        - Moderate
+        - Severe
+      required: true
+    - id: 18
+      name: mold_presence
+      label: Signs of Mold
+      hint: Mold or mildew
+      type: select_one
+      options:
+        - None
+        - Minimal
+        - Moderate
+        - Extensive
+      required: true
+    - id: 19
+      name: deficiencies
+      label: List Major Deficiencies
+      hint: Items needing repair
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: repairs_needed
+      label: Repairs Needed
+      hint: Recommended repairs and priority
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: overall_assessment
+      label: Overall Assessment
+      hint: General condition of property
+      type: select_one
+      options:
+        - Excellent Condition
+        - Good Condition
+        - Fair Condition
+        - Poor Condition
+        - Significant Issues
+      required: true
+    - id: 22
+      name: photos_attached
+      label: Photos or Documentation Attached
+      hint: Evidence of findings
+      type: select_one
+      options:
+        - Yes
+        - No
+      required: false

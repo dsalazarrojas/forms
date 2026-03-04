@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: digital_interaction_logging_consent_form
+    pages:
+    - id: 1
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''HR''}'
+      - '{''id'': 2, ''name'': ''IT''}'
+      - '{''id'': 3, ''name'': ''Security''}'
+      required: false
+    - id: 4
+      name: reason_for_interaction
+      label: Reason for Interaction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: method_of_interaction
+      label: Method of Interaction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: monitor_prophets
+      label: Monitor Prophets
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: approval_status
+      label: Approval Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Not Yet Approved''}'
+      - '{''id'': 2, ''name'': ''Approved''}'
+      required: false
+    - id: 8
+      name: approved_by
+      label: Approved By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: employee_signed
+      label: Employee Signed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: approver_signed
+      label: Approver Signed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: reason_signed
+      label: Reason Signed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: signed_at
+      label: Signed At
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: form_completed
+      label: Form Completed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: form_completed_at
+      label: Form Completed At
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: form_completed_by
+      label: Form Completed By
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: ip_address
+      label: IP Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: user_agent
+      label: User Agent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: user_ip
+      label: User IP
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: user_browser
+      label: User Browser
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: operating_system
+      label: Operating System
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: user_language
+      label: User Language
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: browser_type
+      label: Browser Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Safari''}'
+      - '{''id'': 2, ''name'': ''Chrome''}'
+      - '{''id'': 3, ''name'': ''Firefox''}'
+      - '{''id'': 4, ''name'': ''Edge''}'
+      - '{''id'': 5, ''name'': ''Opera''}'
+      required: false
+    - id: 25
+      name: user_os
+      label: User OS
+      hint: null
+      type: text
+      options: []
+      required: false

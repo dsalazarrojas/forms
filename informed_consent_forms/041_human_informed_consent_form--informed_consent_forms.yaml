@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Human Informed Consent Form
+    pages:
+    - id: 1
+      name: user_name
+      label: user Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_information
+      label: contact Information
+      hint: Provide your contact information
+      type: select_multiple
+      options:
+      - home address
+      - email
+      - phone number
+      - social media
+      required: false
+    - id: 3
+      name: consent_date
+      label: consent Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: consent_time
+      label: consent Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: patient_name
+      label: patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: patient_dob
+      label: patient DOB
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: patient_contact_number
+      label: patient contact number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_person
+      label: contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: date_of_consent
+      label: Date of Consent
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: time_of_consent
+      label: Time of Consent
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: consent_form_version
+      label: Consent Form Version
+      hint: null
+      type: text
+      options: []
+      required: false

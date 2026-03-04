@@ -1,0 +1,147 @@
+inputSchema:
+  type: object
+  properties:
+    title: Alarm Systems Customer Lead Generation
+    pages:
+    - id: 1
+      name: section_contact
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: preferred_contact_time
+      label: Best Time to Contact
+      hint: null
+      type: select_one
+      options:
+      - Morning (8am - 12pm)
+      - Afternoon (12pm - 5pm)
+      - Evening (5pm - 8pm)
+      - Anytime
+      required: true
+    - id: 6
+      name: section_property
+      label: -- Property Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - Single Family Home
+      - Apartment/Condo
+      - Small Business/Retail
+      - Large Commercial Facility
+      - Industrial/Warehouse
+      required: true
+    - id: 8
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: city_location
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: section_security_needs
+      label: -- Security Interests --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: features_of_interest
+      label: Security Features of Interest
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Burglar Alarm System
+      - Security Cameras (CCTV)
+      - Smart Home Integration
+      - Video Doorbell
+      - 24/7 Professional Monitoring
+      - Fire and Smoke Detection
+      - Access Control (Keyless Entry)
+      required: true
+    - id: 12
+      name: current_security_system
+      label: Do you have an existing security system?
+      hint: null
+      type: select_one
+      options:
+      - No system
+      - Yes (Active)
+      - Yes (Inactive/Expired)
+      required: true
+    - id: 13
+      name: project_urgency
+      label: When would you like to have a system installed?
+      hint: null
+      type: select_one
+      options:
+      - As soon as possible
+      - Within 30 days
+      - Within 3 months
+      - Just researching
+      required: true
+    - id: 14
+      name: additional_notes
+      label: Any specific concerns or requirements?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: lead_source
+      label: How did you hear about us?
+      hint: null
+      type: select_one
+      options:
+      - Google Search
+      - Social Media
+      - Referral from friend
+      - Yard Sign/Neighbor
+      - Radio/TV Ad
+      required: false
+    - id: 16
+      name: marketing_consent
+      label: I consent to receiving a quote and security information from your team
+      hint: null
+      type: select_one
+      options:
+      - I consent
+      - Other
+      required: true

@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: hose_inspection_checklist
+    pages:
+    - id: 1
+      name: routine_hose_checks
+      label: Routine Hose Checks
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: hose_checklist_items
+      label: Checklist Items
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: maintenance_equipment
+      label: Maintenance Equipment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: safety_equipment
+      label: Safety Equipment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: photo_documentation
+      label: Photo Documentation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: submission_records
+      label: Submission Records
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: assigned_team
+      label: Assigned Team
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,226 @@
+inputSchema:
+  type: object
+  properties:
+    title: HPC Cluster Setup Survey
+    pages:
+    - id: 1
+      name: hpc_cluster_setup_survey_1
+      label: HPC Cluster Setup Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: user_department
+      label: user department
+      hint: null
+      type: select_one
+      options:
+      - Engineering
+      - IT
+      - Research
+      required: false
+    - id: 3
+      name: expected_cluster_size
+      label: Expected cluster size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: expected_cluster_size_range
+      label: Range of expected cluster size
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: cluster_name
+      label: Cluster name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: cluster_type
+      label: Cluster type
+      hint: null
+      type: select_one
+      options:
+      - General-Purpose
+      - Research
+      - Development
+      - Other
+      required: false
+    - id: 7
+      name: operating_system
+      label: Operating System
+      hint: null
+      type: select_one
+      options:
+      - CentOS
+      - SUSE
+      - Other
+      required: false
+    - id: 8
+      name: storage_capacity
+      label: Storage capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: storage_capacity_range
+      label: Range of storage capacity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: network_connectivity
+      label: Network connectivity
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Other
+      required: false
+    - id: 11
+      name: support_level
+      label: Support level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      - Other
+      required: false
+    - id: 12
+      name: support_team
+      label: Support team
+      hint: null
+      type: select_one
+      options:
+      - IT
+      - Research
+      - Engineering
+      - Other
+      required: false
+    - id: 13
+      name: support_contact
+      label: Support contact
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Other
+      required: false
+    - id: 14
+      name: support_language
+      label: Support language
+      hint: null
+      type: select_one
+      options:
+      - English
+      - French
+      - Other
+      required: false
+    - id: 15
+      name: support_frequency
+      label: Support frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Other
+      required: false
+    - id: 16
+      name: support_time
+      label: Support time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: support_time_range
+      label: Range of support time
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: support_level_2
+      label: Support level 2
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      - Other
+      required: false
+    - id: 19
+      name: support_level_3
+      label: Support level 3
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      - Other
+      required: false
+    - id: 20
+      name: support_level_4
+      label: Support level 4
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      - Other
+      required: false
+    - id: 21
+      name: hpc_cluster_setup_survey_2
+      label: HPC Cluster Setup Survey 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: cluster_environment
+      label: Cluster environment
+      hint: null
+      type: select_one
+      options:
+      - On-premises
+      - Public cloud
+      - Other
+      required: false
+    - id: 23
+      name: cluster_environment_range
+      label: Range of cluster environment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: cluster_setup_deadline
+      label: Cluster setup deadline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: cluster_setup_deadline_range
+      label: Range of cluster setup deadline
+      hint: null
+      type: text
+      options: []
+      required: false

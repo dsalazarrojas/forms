@@ -1,0 +1,139 @@
+inputSchema:
+  type: object
+  properties:
+    title: Deck Pricing Inquiry
+    pages:
+    - id: 1
+      name: homeowner_details
+      label: Homeowner Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_size
+      label: Project Size
+      hint: null
+      type: select_one
+      options:
+      - small
+      - medium
+      - large
+      required: false
+    - id: 3
+      name: deck_type
+      label: Deck Type
+      hint: null
+      type: select_one
+      options:
+      - deck
+      - porch
+      - patio
+      required: false
+    - id: 4
+      name: project_start_date
+      label: Project Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: project_end_date
+      label: Project End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: project_budget
+      label: Project Budget
+      hint: null
+      type: select_multiple
+      options:
+      - low
+      - medium
+      - high
+      required: false
+    - id: 7
+      name: deck_location
+      label: Deck Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: deck_size
+      label: Deck Size
+      hint: null
+      type: select_one
+      options:
+      - small
+      - medium
+      - large
+      required: false
+    - id: 9
+      name: contractor_name
+      label: Contractor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contractor_phone
+      label: Contractor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: deck_pricing_request
+      label: Deck Pricing Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_multiple
+      options:
+      - active
+      - inactive
+      required: false
+    - id: 13
+      name: project_priority
+      label: Project Priority
+      hint: null
+      type: select_one
+      options:
+      - high
+      - medium
+      - low
+      required: false
+    - id: 14
+      name: deck_pricing_request_type
+      label: Deck Pricing Request Type
+      hint: null
+      type: select_one
+      options:
+      - new
+      - existing
+      required: false
+    - id: 15
+      name: deck_pricing_request_description
+      label: Deck Pricing Request Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: deck_pricing_request_status
+      label: Deck Pricing Request Status
+      hint: null
+      type: select_one
+      options:
+      - pending
+      - approved
+      - completed
+      required: false

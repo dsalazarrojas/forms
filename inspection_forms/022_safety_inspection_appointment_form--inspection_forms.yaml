@@ -1,0 +1,117 @@
+inputSchema:
+  type: object
+  properties:
+    title: Safety Inspection Appointment Form
+    pages:
+    - id: 1
+      name: safety_inspection_appointment_form
+      label: appointment_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: inspector_name
+      label: inspector_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: inspector_email
+      label: inspector_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: safety_inspection_frequency
+      label: safety_inspection_frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      required: false
+    - id: 5
+      name: safety_inspection_frequency_type
+      label: safety_inspection_frequency_type
+      hint: null
+      type: select_one
+      options:
+      - Walk-Through
+      - Full
+      - Partial
+      required: false
+    - id: 6
+      name: safety_inspection_frequency_date
+      label: safety_inspection_frequency_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: safety_inspection_start_time
+      label: safety_inspection_start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: safety_inspection_end_time
+      label: safety_inspection_end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: safety_inspection_duration
+      label: safety_inspection_duration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: safety_inspection_location
+      label: safety_inspection_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: safety_inspection_comments
+      label: safety_inspection_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: assigned_inspector
+      label: assigned_inspector
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: assigned_inspector_email
+      label: assigned_inspector_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: assigned_inspector_phone
+      label: assigned_inspector_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: assigned_inspector_notes
+      label: assigned_inspector_notes
+      hint: null
+      type: note
+      options: []
+      required: false

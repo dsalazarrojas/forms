@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: Healthcare Gamification Study Recording Consent Form
+    pages:
+    - id: 1
+      name: user_info
+      label: user_info
+      hint: Goals to accomplish
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: recording_info
+      label: recording_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: consent
+      label: consent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: recording_permissions
+      label: recording_permissions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: data_collection
+      label: data_collection
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: tracking
+      label: tracking
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: submission_tracking
+      label: submission_tracking
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

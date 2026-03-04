@@ -1,0 +1,231 @@
+inputSchema:
+  type: object
+  properties:
+    title: IT Room Weekly Inspection Checklist
+    pages:
+    - id: 1
+      name: form_title
+      label: IT Room Weekly Inspection Checklist
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: inspector_details
+      label: Inspector Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_inspected
+      label: Date Inspected
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: date_created
+      label: Date Created
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: equipment_condition
+      label: Equipment Condition
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Good'', ''value'': ''Good''}'
+      - '{''id'': 2, ''label'': ''Fair'', ''value'': ''Fair''}'
+      - '{''id'': 3, ''label'': ''Poor'', ''value'': ''Poor''}'
+      required: false
+    - id: 6
+      name: cleanliness
+      label: Cleanliness
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Excellent'', ''value'': ''Excellent''}'
+      - '{''id'': 2, ''label'': ''Good'', ''value'': ''Good''}'
+      - '{''id'': 3, ''label'': ''Fair'', ''value'': ''Fair''}'
+      - '{''id'': 4, ''label'': ''Poor'', ''value'': ''Poor''}'
+      required: false
+    - id: 7
+      name: temperature
+      label: Temperature
+      hint: In degrees Celsius
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: security
+      label: Security
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Secure'', ''value'': ''Secure''}'
+      - '{''id'': 2, ''label'': ''Not Secure'', ''value'': ''Not Secure''}'
+      required: false
+    - id: 9
+      name: issues
+      label: Issues
+      hint: Briefly describe any issues found
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: Additional comments
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: signature
+      label: Signature
+      hint: Inspector signature
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: equipment_condition_2
+      label: Equipment Condition 2
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Good'', ''value'': ''Good''}'
+      - '{''id'': 2, ''label'': ''Fair'', ''value'': ''Fair''}'
+      - '{''id'': 3, ''label'': ''Poor'', ''value'': ''Poor''}'
+      required: false
+    - id: 13
+      name: equipment_condition_3
+      label: Equipment Condition 3
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Good'', ''value'': ''Good''}'
+      - '{''id'': 2, ''label'': ''Fair'', ''value'': ''Fair''}'
+      - '{''id'': 3, ''label'': ''Poor'', ''value'': ''Poor''}'
+      required: false
+    - id: 14
+      name: equipment_condition_4
+      label: Equipment Condition 4
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Good'', ''value'': ''Good''}'
+      - '{''id'': 2, ''label'': ''Fair'', ''value'': ''Fair''}'
+      - '{''id'': 3, ''label'': ''Poor'', ''value'': ''Poor''}'
+      required: false
+    - id: 15
+      name: equipment_condition_5
+      label: Equipment Condition 5
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Good'', ''value'': ''Good''}'
+      - '{''id'': 2, ''label'': ''Fair'', ''value'': ''Fair''}'
+      - '{''id'': 3, ''label'': ''Poor'', ''value'': ''Poor''}'
+      required: false
+    - id: 16
+      name: equipment_condition_6
+      label: Equipment Condition 6
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Good'', ''value'': ''Good''}'
+      - '{''id'': 2, ''label'': ''Fair'', ''value'': ''Fair''}'
+      - '{''id'': 3, ''label'': ''Poor'', ''value'': ''Poor''}'
+      required: false
+    - id: 17
+      name: equipment_condition_7
+      label: Equipment Condition 7
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Good'', ''value'': ''Good''}'
+      - '{''id'': 2, ''label'': ''Fair'', ''value'': ''Fair''}'
+      - '{''id'': 3, ''label'': ''Poor'', ''value'': ''Poor''}'
+      required: false
+    - id: 18
+      name: equipment_condition_8
+      label: Equipment Condition 8
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Good'', ''value'': ''Good''}'
+      - '{''id'': 2, ''label'': ''Fair'', ''value'': ''Fair''}'
+      - '{''id'': 3, ''label'': ''Poor'', ''value'': ''Poor''}'
+      required: false
+    - id: 19
+      name: equipment_condition_9
+      label: Equipment Condition 9
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Good'', ''value'': ''Good''}'
+      - '{''id'': 2, ''label'': ''Fair'', ''value'': ''Fair''}'
+      - '{''id'': 3, ''label'': ''Poor'', ''value'': ''Poor''}'
+      required: false
+    - id: 20
+      name: equipment_condition_10
+      label: Equipment Condition 10
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Good'', ''value'': ''Good''}'
+      - '{''id'': 2, ''label'': ''Fair'', ''value'': ''Fair''}'
+      - '{''id'': 3, ''label'': ''Poor'', ''value'': ''Poor''}'
+      required: false
+    - id: 21
+      name: equipment_condition_11
+      label: Equipment Condition 11
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Good'', ''value'': ''Good''}'
+      - '{''id'': 2, ''label'': ''Fair'', ''value'': ''Fair''}'
+      - '{''id'': 3, ''label'': ''Poor'', ''value'': ''Poor''}'
+      required: false
+    - id: 22
+      name: equipment_condition_12
+      label: Equipment Condition 12
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Good'', ''value'': ''Good''}'
+      - '{''id'': 2, ''label'': ''Fair'', ''value'': ''Fair''}'
+      - '{''id'': 3, ''label'': ''Poor'', ''value'': ''Poor''}'
+      required: false
+    - id: 23
+      name: equipment_condition_13
+      label: Equipment Condition 13
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Good'', ''value'': ''Good''}'
+      - '{''id'': 2, ''label'': ''Fair'', ''value'': ''Fair''}'
+      - '{''id'': 3, ''label'': ''Poor'', ''value'': ''Poor''}'
+      required: false
+    - id: 24
+      name: equipment_condition_14
+      label: Equipment Condition 14
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Good'', ''value'': ''Good''}'
+      - '{''id'': 2, ''label'': ''Fair'', ''value'': ''Fair''}'
+      - '{''id'': 3, ''label'': ''Poor'', ''value'': ''Poor''}'
+      required: false
+    - id: 25
+      name: equipment_condition_15
+      label: Equipment Condition 15
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Good'', ''value'': ''Good''}'
+      - '{''id'': 2, ''label'': ''Fair'', ''value'': ''Fair''}'
+      - '{''id'': 3, ''label'': ''Poor'', ''value'': ''Poor''}'
+      required: false

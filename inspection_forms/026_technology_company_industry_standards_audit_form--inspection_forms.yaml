@@ -1,0 +1,164 @@
+inputSchema:
+  type: object
+  properties:
+    title: technology_company_industry_standards_audit_form
+    pages:
+    - id: 1
+      name: technology_company
+      label: Technology Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: industry_standards
+      label: Industry Standards
+      hint: null
+      type: select_multiple
+      options:
+      - ISO 27001
+      - SOC 2
+      - NIST 800-30
+      - COBIT 5
+      - COBIT 5 Ready to Use
+      - ISO 27005
+      - ISO 27017
+      - HIPAA
+      - PCI-DSS
+      required: false
+    - id: 3
+      name: date_of_inspection
+      label: Date of Inspection
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time_of_inspection
+      label: Time of Inspection
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: vendor_name
+      label: Vendor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: auditor
+      label: Auditor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: technology_standards
+      label: Technology Standards
+      hint: null
+      type: select_one
+      options:
+      - ISO 27001
+      - NIST 800-30
+      - HIPAA
+      - PCI-DSS
+      required: false
+    - id: 8
+      name: compliance_status
+      label: Compliance Status
+      hint: null
+      type: select_multiple
+      options:
+      - Compliant
+      - Non-Compliant
+      - In Progress
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: technology_standards_used
+      label: Technology Standards Used
+      hint: null
+      type: select_multiple
+      options:
+      - ISO 27001
+      - NIST 800-30
+      - HIPAA
+      - PCI-DSS
+      required: false
+    - id: 13
+      name: compliance_level
+      label: Compliance Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 14
+      name: improvement_plans
+      label: Improvement Plans
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: technology_standards_audit_frequency
+      label: Technology Standards Audit Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Annually
+      - Semiannually
+      - Quarterly
+      required: false
+    - id: 16
+      name: last_audit_date
+      label: Last Audit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: next_audit_date
+      label: Next Audit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: auditor_comments
+      label: Auditor Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false

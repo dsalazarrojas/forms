@@ -1,0 +1,131 @@
+inputSchema:
+  type: object
+  properties:
+    title: Truck Inspection Checklist
+    pages:
+    - id: 1
+      name: truck_inspection_checklist_page_1
+      label: Vehicle Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: truck_inspection_checklist_page_2
+      label: Tires
+      hint: Enter the condition of the tires
+      type: select_multiple
+      options:
+      - Perfect
+      - Worn
+      - Damaged
+      - Missing
+      required: false
+    - id: 3
+      name: truck_inspection_checklist_page_3
+      label: Brakes
+      hint: Enter the condition of the brakes
+      type: select_one
+      options:
+      - Perfect
+      - Worn
+      - Damaged
+      - Missing
+      required: false
+    - id: 4
+      name: truck_inspection_checklist_page_4
+      label: Lights
+      hint: Enter the condition of the lights
+      type: select_multiple
+      options:
+      - Perfect
+      - Worn
+      - Damaged
+      - Missing
+      required: false
+    - id: 5
+      name: truck_inspection_checklist_page_5
+      label: Mirrors
+      hint: Enter the condition of the mirrors
+      type: select_one
+      options:
+      - Perfect
+      - Worn
+      - Damaged
+      - Missing
+      required: false
+    - id: 6
+      name: truck_inspection_checklist_page_6
+      label: Fluids
+      hint: Enter the condition of the fluids
+      type: select_multiple
+      options:
+      - Perfect
+      - Low
+      - High
+      - Missing
+      required: false
+    - id: 7
+      name: truck_inspection_checklist_page_7
+      label: Fuel
+      hint: Enter the condition of the fuel
+      type: select_one
+      options:
+      - Perfect
+      - Low
+      - High
+      - Missing
+      required: false
+    - id: 8
+      name: truck_inspection_checklist_page_8
+      label: Other Mechanical Components
+      hint: Enter the condition of other mechanical components
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: truck_inspection_checklist_page_9
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: truck_inspection_checklist_page_10
+      label: Date
+      hint: Enter the date of the inspection
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: truck_inspection_checklist_page_11
+      label: Time
+      hint: Enter the time of the inspection
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: truck_inspection_checklist_page_12
+      label: Email
+      hint: Enter the email of the contact person
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: truck_inspection_checklist_page_13
+      label: Phone
+      hint: Enter the phone number of the contact person
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: truck_inspection_checklist_page_14
+      label: Assignee
+      hint: null
+      type: select_one
+      options:
+      - Inspector
+      - Vehicle Expert
+      - Vehicle Repairmen
+      - Vehicle Seller
+      required: false

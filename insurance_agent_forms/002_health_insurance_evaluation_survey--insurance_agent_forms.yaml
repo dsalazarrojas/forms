@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Health Insurance Evaluation Survey
+    pages:
+    - id: 1
+      name: policyholder_info
+      label: Policyholder Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: insurance_plan
+      label: Insurance Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: evaluation
+      label: Evaluation
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: satisfaction
+      label: Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: recommendations
+      label: Recommendations
+      hint: null
+      type: select_one
+      options:
+      - Plan A
+      - Plan B
+      - Plan C
+      required: false
+    - id: 6
+      name: feedback
+      label: Feedback
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 7
+      name: contact
+      label: Contact
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: contact_time
+      label: Contact Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: policyholder_email
+      label: Policyholder's Email
+      hint: null
+      type: text
+      options: []
+      required: false

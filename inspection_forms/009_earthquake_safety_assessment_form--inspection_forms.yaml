@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Earthquake Safety Assessment Form
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: site_address
+      label: site_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: building_type
+      label: building_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Low-Rise Building''}'
+      - '{''id'': 2, ''name'': ''High-Rise Building''}'
+      - '{''id'': 3, ''name'': ''Other''}'
+      required: false
+    - id: 4
+      name: building_height
+      label: building_height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: structural_condition
+      label: structural_condition
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Good''}'
+      - '{''id'': 2, ''name'': ''Fair''}'
+      - '{''id'': 3, ''name'': ''Poor''}'
+      required: false
+    - id: 6
+      name: earthquake_resistance
+      label: earthquake_resistance
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': True}'
+      - '{''id'': 2, ''name'': False}'
+      - '{''id'': 3, ''name'': ''Not Applicable''}'
+      required: false
+    - id: 7
+      name: evacuation_plan
+      label: evacuation_plan
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': True}'
+      - '{''id'': 2, ''name'': False}'
+      - '{''id'': 3, ''name'': ''Not Applicable''}'
+      required: false
+    - id: 8
+      name: emergency_contact
+      label: emergency_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergency_contact_phone
+      label: emergency_contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: emergency_contact_email
+      label: emergency_contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: structural_intervention
+      label: structural_intervention
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: structural_intervention_cost
+      label: structural_intervention_cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: structural_intervention_status
+      label: structural_intervention_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Pending''}'
+      - '{''id'': 2, ''name'': ''In Progress''}'
+      - '{''id'': 3, ''name'': ''Complete''}'
+      required: false
+    - id: 14
+      name: structural_intervention_priority
+      label: structural_intervention_priority
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Low''}'
+      - '{''id'': 2, ''name'': ''Medium''}'
+      - '{''id'': 3, ''name'': ''High''}'
+      required: false
+    - id: 15
+      name: building_owner
+      label: building_owner
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Owner''}'
+      - '{''id'': 2, ''name'': ''Tenant''}'
+      - '{''id'': 3, ''name'': ''Other''}'
+      required: false
+    - id: 16
+      name: building_owner_contact
+      label: building_owner_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: building_location
+      label: building_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: site_description
+      label: site_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: structural_condition_rating
+      label: structural_condition_rating
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Good''}'
+      - '{''id'': 2, ''name'': ''Fair''}'
+      - '{''id'': 3, ''name'': ''Poor''}'
+      required: false
+    - id: 20
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: building_area
+      label: building_area
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: building_area_units
+      label: building_area_units
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: building_address
+      label: building_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: building_zip
+      label: building_zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: building_city
+      label: building_city
+      hint: null
+      type: text
+      options: []
+      required: false

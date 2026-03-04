@@ -1,0 +1,129 @@
+inputSchema:
+  type: object
+  properties:
+    title: Agriculture Insurance Form
+    pages:
+    - id: 1
+      name: applicant_info_header
+      label: -- Applicant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_name
+      label: Applicant Name
+      hint: Full legal name or Business name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: farm_address
+      label: Farm Address
+      hint: Physical location of insured property
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: coverage_details_header
+      label: -- Coverage Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: policy_type
+      label: Policy Type Requested
+      hint: Select primary coverage needs
+      type: select_multiple
+      options:
+      - Crop Insurance
+      - Livestock Insurance
+      - Farm Equipment
+      - General Liability
+      - Property / Buildings
+      required: true
+    - id: 8
+      name: coverage_amount
+      label: Desired Coverage Amount
+      hint: Total value to insure
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: deductible
+      label: Deductible Preference
+      hint: Higher deductible lowers premium
+      type: select_one
+      options:
+      - $500
+      - $1,000
+      - $2,500
+      - $5,000
+      - $10,000+
+      required: true
+    - id: 10
+      name: claims_history
+      label: Past Claims History
+      hint: Have you filed a claim in the last 5 years?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 11
+      name: operations_desc
+      label: Description of Operations
+      hint: Briefly describe farming activities
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: total_acreage
+      label: Total Acreage
+      hint: Owned and leased land
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: livestock_value
+      label: Total Livestock Value
+      hint: Leave 0 if not applicable
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: equipment_value
+      label: Total Equipment Value
+      hint: Leave 0 if not applicable
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: risk_mitigation
+      label: Risk Mitigation Measures
+      hint: Steps taken to prevent loss (fencing, irrigation, etc.)
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: effective_date
+      label: Desired Effective Date
+      hint: When should coverage start?
+      type: date
+      options: []
+      required: true

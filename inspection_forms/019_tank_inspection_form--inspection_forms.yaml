@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tank Inspection Form
+    pages:
+    - id: 1
+      name: form_title
+      label: tank_inspection_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: tank_type
+      label: tank_type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: inspection_date
+      label: inspection_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: inspector
+      label: inspector
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: tank_id
+      label: tank_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: tank_capacity
+      label: tank_capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: tank_vendor
+      label: tank_vendor
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: form_submitted
+      label: submitted
+      hint: null
+      type: time
+      options: []
+      required: false

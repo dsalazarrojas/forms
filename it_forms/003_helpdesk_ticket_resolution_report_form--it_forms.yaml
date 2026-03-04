@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: helpdesk_ticket_resolution_report_form
+    pages:
+    - id: 1
+      name: ticket_number
+      label: Ticket Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: resolution_status
+      label: Resolution Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Resolved
+      - Rejected
+      required: false
+    - id: 5
+      name: resolution_date
+      label: Resolution Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: closed_by
+      label: Closed By
+      hint: null
+      type: select_one
+      options:
+      - John Doe
+      - Jane Doe
+      - IT
+      required: false
+    - id: 7
+      name: closed_date
+      label: Closed Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - John Doe
+      - Jane Doe
+      - IT
+      required: false
+    - id: 9
+      name: ticket_type
+      label: Ticket Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: category
+      label: Category
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: priority
+      label: Priority
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: resolution_details
+      label: Resolution Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: resolution_notes
+      label: Resolution Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: attachment
+      label: Attachment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: resolution_time
+      label: Resolution Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: resolution_date_time
+      label: Resolution Date/Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: ticket_id
+      label: Ticket ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: submitted_date
+      label: Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: submitted_time
+      label: Submitted Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 22
+      name: resolved_by
+      label: Resolved By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: resolution
+      label: Resolution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: resolution_comment
+      label: Resolution Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: ticket_status
+      label: Ticket Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

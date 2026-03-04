@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bus Accident Incident Form
+    pages:
+    - id: 1
+      name: incident_overview
+      label: -- Incident Overview --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: incident_date
+      label: Incident Date
+      hint: Date and time of accident
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: incident_time
+      label: Incident Time
+      hint: Exact time of incident
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: location
+      label: Incident Location
+      hint: Street address or intersection where accident occurred
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: weather_conditions
+      label: Weather Conditions
+      hint: Weather at time of incident
+      type: select_one
+      options:
+      - Clear
+      - Cloudy
+      - Rainy
+      - Snowy
+      - Foggy
+      - Icy
+      - Other
+      required: true
+    - id: 6
+      name: bus_information
+      label: -- Bus Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: bus_number
+      label: Bus Number
+      hint: Fleet identification number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: bus_license_plate
+      label: License Plate
+      hint: Vehicle license plate number
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: bus_driver_name
+      label: Bus Driver Name
+      hint: Name of operator
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: driver_employee_id
+      label: Driver Employee ID
+      hint: Company employee identification
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: driver_contact
+      label: Driver Contact Number
+      hint: Phone number of bus driver
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: passengers_count
+      label: Number of Passengers Aboard
+      hint: Total passenger count at time of incident
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: accident_details
+      label: -- Accident Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: accident_type
+      label: Type of Accident
+      hint: Classify the incident
+      type: select_one
+      options:
+      - Collision with Vehicle
+      - Collision with Fixed Object
+      - Rollover
+      - Pedestrian Incident
+      - Passenger Injury Inside Bus
+      - Mechanical Failure
+      - Other
+      required: true
+    - id: 15
+      name: other_vehicle_involved
+      label: Other Vehicle Involved
+      hint: Were other vehicles involved
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 16
+      name: other_vehicle_details
+      label: Other Vehicle Details
+      hint: Description and details of other vehicle
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: accident_description
+      label: Detailed Description of Incident
+      hint: Complete narrative of what happened
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: injuries_reported
+      label: -- Injuries and Damages --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: passenger_injuries
+      label: Passenger Injuries Reported
+      hint: Number of injured passengers
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: driver_injury
+      label: Driver Injured
+      hint: Was driver injured
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 21
+      name: injury_severity
+      label: Injury Severity
+      hint: Severity level of injuries
+      type: select_one
+      options:
+      - Minor
+      - Moderate
+      - Severe
+      - Critical
+      required: true
+    - id: 22
+      name: ambulance_called
+      label: Ambulance Called
+      hint: Was emergency medical services called
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 23
+      name: police_report
+      label: Police Report Filed
+      hint: Was police report filed
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 24
+      name: police_report_number
+      label: Police Report Number
+      hint: If available
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: witness_information
+      label: Witness Names and Contacts
+      hint: Names and phone numbers of witnesses
+      type: text
+      options: []
+      required: false

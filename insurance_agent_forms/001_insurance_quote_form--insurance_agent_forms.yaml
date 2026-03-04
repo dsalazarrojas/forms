@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: Insurance Quote Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: insurance_type
+      label: Insurance Type
+      hint: null
+      type: select_multiple
+      options:
+      - Life
+      - Health
+      - Auto
+      - Home
+      required: false
+    - id: 3
+      name: coverage_start_date
+      label: Coverage Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: coverage_end_date
+      label: Coverage End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: annual_premium
+      label: Annual Premium
+      hint: null
+      type: number
+      options: []
+      required: false

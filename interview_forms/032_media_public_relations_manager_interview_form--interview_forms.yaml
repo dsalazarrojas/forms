@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Media Public Relations Manager Interview Form
+    pages:
+    - id: 1
+      name: pr_candidate_info
+      label: pr_candidate_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: candidate_name
+      label: candidate_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: written_interview
+      label: written_interview
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: pr_manager_skills
+      label: pr_manager_skills
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: pr_manager_experience
+      label: pr_manager_experience
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: pr_manager_achievements
+      label: pr_manager_achievements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: why_this_company
+      label: why_this_company
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: pr_manager_references
+      label: pr_manager_references
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

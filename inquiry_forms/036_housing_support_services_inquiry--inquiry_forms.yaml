@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Housing Support Services Inquiry
+    pages:
+    - id: 1
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: housing_needs
+      label: Housing Needs
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: urgency
+      label: Urgency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: household_size
+      label: Household Size
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Chat
+      - SMS
+      - Voice Call
+      required: true
+    - id: 6
+      name: organization_contact
+      label: Organization Contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: individual_contact
+      label: Individual Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: consent
+      label: Consent
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: contact_method_other
+      label: Contact Method Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: other_contact_method
+      label: Other Contact Method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: housing_type
+      label: Housing Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: housing_status
+      label: Housing Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 19
+      name: household_size_other
+      label: Household Size Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: urgency_other
+      label: Urgency Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: urgency_other_info
+      label: Urgency Other Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: housing_needs_other
+      label: Housing Needs Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: housing_needs_other_info
+      label: Housing Needs Other Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: contact_method_other_info
+      label: Contact Method Other Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: notes_other
+      label: Notes Other
+      hint: null
+      type: note
+      options: []
+      required: false

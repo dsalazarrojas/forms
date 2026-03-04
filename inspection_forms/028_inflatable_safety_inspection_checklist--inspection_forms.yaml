@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: inflatable_safety_inspection_checklist
+    pages:
+    - id: 1
+      name: inspect_inflatable
+      label: Inspect Inflatable
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: inspect_inflatable_structure
+      label: Inflatable Structure
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: inspect_inflatable_fastenings
+      label: Inflatable Fastenings
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: inspect_inflatable_inflated
+      label: Inflatable Inflated
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: inspect_inflatable_vent_valves
+      label: Inflatable Vent Valves
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: inspect_inflatable_deflating
+      label: Inflatable Deflating
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: inspect_inflatable_inflate_rate
+      label: Inflatable Inflate Rate
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: inspect_inflatable_inflate_time
+      label: Inflatable Inflate Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: inspect_inflatable_deflate_time
+      label: Inflatable Deflate Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: inspect_inflatable_notes
+      label: Inflatable Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: inspect_inflatable_inspector
+      label: Inflatable Inspector
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: inspect_inflatable_inspection_date
+      label: Inflatable Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: inspect_inflatable_inspection_time
+      label: Inflatable Inspection Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: inspect_inflatable_completed
+      label: Inflatable Completed
+      hint: null
+      type: text
+      options: []
+      required: false

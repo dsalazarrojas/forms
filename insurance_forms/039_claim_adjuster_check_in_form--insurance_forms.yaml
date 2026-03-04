@@ -1,0 +1,86 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Claim Adjuster Check In Form
+    pages:
+      - id: 1
+        name: adjuster_name
+        label: Adjuster name
+        hint: Full name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: claim_number
+        label: Claim number
+        hint: Internal claim identifier
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: visit_date
+        label: Visit date
+        hint: Date of site visit
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: client_name
+        label: Client name
+        hint: Policyholder name
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: visit_purpose
+        label: Purpose of visit
+        hint: Assessment inspection interview
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: observations_summary
+        label: Observations summary
+        hint: Brief findings and conditions
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: photos_attached_note
+        label: Photo attachment instructions
+        hint: Upload photos through portal
+        type: note
+        options: []
+        required: false
+      - id: 8
+        name: next_steps
+        label: Recommended next steps
+        hint: Further inspections estimates approvals
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: client_signature
+        label: Client acknowledgement signature
+        hint: Typed name accepted
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: submission_time
+        label: Submission time
+        hint: Use current date and time
+        type: time
+        options: []
+        required: true

@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Academic Honesty Form
+    pages:
+    - id: 1
+      name: honesty_header
+      label: -- Academic Honesty Declaration --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: Student name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_id
+      label: Student id
+      hint: Institutional identifier
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: statement_of_understanding
+      label: Statement of understanding
+      hint: Acknowledge the academic honesty policy
+      type: select_one
+      options:
+      - I understand and will comply
+      - Other
+      required: true
+    - id: 5
+      name: incident_description
+      label: Incident description
+      hint: Describe any related incident if applicable
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: corrective_action
+      label: Corrective actions agreed
+      hint: Outline any agreed corrective measures
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: reviewer_name
+      label: Reviewer or instructor name
+      hint: Person overseeing the case
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date
+      label: Date of declaration
+      hint: Date when form is submitted
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: signature
+      label: Electronic signature
+      hint: Type full name to sign
+      type: text
+      options: []
+      required: true

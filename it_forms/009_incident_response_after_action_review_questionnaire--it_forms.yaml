@@ -1,0 +1,94 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Incident Response After Action Review Questionnaire
+    pages:
+    - id: 1
+      name: incident_type
+      label: IncidentType
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''None'', ''label'': ''None''}'
+      - '{''value'': ''IT incident'', ''label'': ''IT incident''}'
+      - '{''value'': ''Network issue'', ''label'': ''Network issue''}'
+      - '{''value'': ''Other'', ''label'': ''Other''}'
+      - '{''value'': ''Security incident'', ''label'': ''Security incident''}'
+      required: false
+    - id: 2
+      name: incident_name
+      label: IncidentName
+      hint: Enter brief description of the incident
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: incident_date
+      label: IncidentDate
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: incident_time
+      label: IncidentTime
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: incident_details
+      label: IncidentDetails
+      hint: Provide detailed description of the incident
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: team_leader
+      label: TeamLeader
+      hint: Enter name of the team leader
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: team_members
+      label: TeamMembers
+      hint: Enter team members involved in the response effort
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: review_questions
+      label: ReviewQuestions
+      hint: Enter any questions or concerns you have about the response effort
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: incident_outcome
+      label: IncidentOutcome
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Success'', ''label'': ''Success''}'
+      - '{''value'': ''Partial success'', ''label'': ''Partial success''}'
+      - '{''value'': ''Failure'', ''label'': ''Failure''}'
+      required: true
+    - id: 10
+      name: lessons_learned
+      label: LessonsLearned
+      hint: Enter any lessons learned from the response effort
+      type: text
+      options: []
+      required: false

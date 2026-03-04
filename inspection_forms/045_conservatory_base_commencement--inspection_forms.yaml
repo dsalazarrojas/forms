@@ -1,0 +1,381 @@
+inputSchema:
+  type: object
+  properties:
+    title: Conservatory Base Commencement
+    pages:
+    - id: 1
+      name: inspection_date
+      label: Inspection Date
+      hint: Date of inspection
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: inspection_time
+      label: Inspection Time
+      hint: Time of inspection
+      type: time
+      options: []
+      required: true
+    - id: 3
+      name: inspector_name
+      label: Inspector Name
+      hint: Name of inspector
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: inspector_company
+      label: Inspection Company
+      hint: Company or organization
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: project_name
+      label: Project Name
+      hint: Name of construction project
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: project_number
+      label: Project Number
+      hint: Project identifier
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: site_address
+      label: Site Address
+      hint: Physical location
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: site_city
+      label: City
+      hint: City location
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: site_state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: building_type
+      label: Building Type
+      hint: Type of structure
+      type: select_one
+      options:
+      - Residential
+      - Commercial
+      - Industrial
+      - Institutional
+      - Mixed use
+      - Other
+      required: true
+    - id: 11
+      name: conservatory_type
+      label: Conservatory Type
+      hint: Type of conservatory structure
+      type: select_one
+      options:
+      - Glass house
+      - Greenhouse
+      - Botanical garden
+      - Atrium
+      - Solarium
+      - Other
+      required: true
+    - id: 12
+      name: foundation_type
+      label: Foundation Type
+      hint: Type of foundation
+      type: select_one
+      options:
+      - Slab on grade
+      - Crawl space
+      - Full basement
+      - Pier and beam
+      - Mat foundation
+      - Pile foundation
+      required: true
+    - id: 13
+      name: soil_type
+      label: Soil Type
+      hint: Soil classification
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: soil_report_date
+      label: Soil Report Date
+      hint: When was soil tested
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: excavation_complete
+      label: Excavation Complete
+      hint: Is excavation finished
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 16
+      name: excavation_depth
+      label: Excavation Depth
+      hint: Depth in feet or meters
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: excavation_dimensions
+      label: Excavation Dimensions
+      hint: Length and width
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: groundwater_observed
+      label: Groundwater Observed
+      hint: Was water encountered
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 19
+      name: groundwater_depth
+      label: Groundwater Depth
+      hint: Depth to water table
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: dewatering_required
+      label: Dewatering Required
+      hint: Is water removal needed
+      type: select_one
+      options:
+      - true
+      - false
+      - Not applicable
+      required: true
+    - id: 21
+      name: base_preparation
+      label: Base Preparation
+      hint: Condition of base preparation
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Not started
+      required: true
+    - id: 22
+      name: compaction_test
+      label: Compaction Test Completed
+      hint: Has soil been tested
+      type: select_one
+      options:
+      - Yes - Passed
+      - Yes - Failed
+      - false
+      required: true
+    - id: 23
+      name: compaction_percentage
+      label: Compaction Percentage
+      hint: Percent of maximum density
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: vapor_barrier
+      label: Vapor Barrier Installed
+      hint: Is barrier in place
+      type: select_one
+      options:
+      - true
+      - false
+      - Not required
+      required: true
+    - id: 25
+      name: reinforcement
+      label: Reinforcement Type
+      hint: Rebar or mesh type
+      type: select_one
+      options:
+      - Rebar grid
+      - Wire mesh
+      - Fiber reinforcement
+      - Post-tension
+      - None
+      required: true
+    - id: 26
+      name: rebar_size
+      label: Rebar Size
+      hint: Size and spacing
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: forms_inspection
+      label: Forms Inspection
+      hint: Condition of formwork
+      type: select_one
+      options:
+      - Approved
+      - Approved with notes
+      - Requires correction
+      - Not ready
+      required: true
+    - id: 28
+      name: forms_notes
+      label: Forms Notes
+      hint: Any issues with forms
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: utilities_location
+      label: Utilities Located
+      hint: Are utilities marked
+      type: select_one
+      options:
+      - Yes - All marked
+      - Yes - Partially marked
+      - false
+      required: true
+    - id: 30
+      name: utilities_types
+      label: Utility Types Present
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Water
+      - Sewer
+      - Electric
+      - Gas
+      - Communications
+      - Storm drain
+      - None
+      required: true
+    - id: 31
+      name: drainage_system
+      label: Drainage System
+      hint: Type of drainage
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: weather_conditions
+      label: Weather Conditions
+      hint: Current weather
+      type: text
+      options: []
+      required: true
+    - id: 33
+      name: temperature
+      label: Temperature
+      hint: Ambient temperature
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: site_access
+      label: Site Access
+      hint: Condition of access routes
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 35
+      name: safety_measures
+      label: Safety Measures in Place
+      hint: Are safety protocols followed
+      type: select_one
+      options:
+      - Yes - All measures
+      - Yes - Most measures
+      - No - Deficiencies found
+      required: true
+    - id: 36
+      name: safety_deficiencies
+      label: Safety Deficiencies
+      hint: List any issues
+      type: text
+      options: []
+      required: false
+    - id: 37
+      name: photographs_taken
+      label: Photographs Taken
+      hint: Number of photos
+      type: number
+      options: []
+      required: false
+    - id: 38
+      name: compliance_status
+      label: Compliance Status
+      hint: Overall compliance
+      type: select_one
+      options:
+      - Compliant
+      - Compliant with notes
+      - Non-compliant
+      required: true
+    - id: 39
+      name: deficiencies
+      label: Deficiencies Found
+      hint: List any issues
+      type: text
+      options: []
+      required: false
+    - id: 40
+      name: corrective_actions
+      label: Corrective Actions Required
+      hint: What needs to be fixed
+      type: text
+      options: []
+      required: false
+    - id: 41
+      name: approval_status
+      label: Approval Status
+      hint: Can work proceed
+      type: select_one
+      options:
+      - Approved - Proceed
+      - Approved with conditions
+      - Not approved - Corrections needed
+      - Hold - Further review
+      required: true
+    - id: 42
+      name: next_inspection
+      label: Next Inspection Required
+      hint: When is next inspection
+      type: text
+      options: []
+      required: false
+    - id: 43
+      name: inspector_signature
+      label: Inspector Signature
+      hint: Type name as signature
+      type: text
+      options: []
+      required: true
+    - id: 44
+      name: contractor_signature
+      label: Contractor Signature
+      hint: Contractor acknowledgement
+      type: text
+      options: []
+      required: false

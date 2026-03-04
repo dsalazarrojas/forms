@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: hazard_assessment_inspection_form
+    pages:
+    - id: 1
+      name: workplace_hazards
+      label: Workplace Hazards
+      hint: null
+      type: select_multiple
+      options:
+      - Fire
+      - Slip and Fall
+      - Chemical
+      - Physical
+      - Ergonomic
+      - Biological
+      - Electrical
+      - Mechanical
+      - Radiation
+      required: true
+    - id: 2
+      name: inspection_date
+      label: Inspection Date
+      hint: YYYY-MM-DD
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: hazard_risks
+      label: Hazard Risks
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 4
+      name: control_measures
+      label: Control Measures
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 5
+      name: risk_control_measures
+      label: Risk Control Measures
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 6
+      name: action_taken
+      label: Action Taken
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 8
+      name: assigned_personnel
+      label: Assigned Personnel
+      hint: 123-456-7890
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: reporting_personnel
+      label: Reporting Personnel
+      hint: 987-654-3210
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: supervisor_signature
+      label: Supervisor Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: safety_manager_signature
+      label: Safety Manager Signature
+      hint: null
+      type: text
+      options: []
+      required: true

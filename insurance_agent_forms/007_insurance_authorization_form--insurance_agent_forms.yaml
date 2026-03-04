@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Insurance Authorization Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: policy_number
+      label: Policy Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: effective_date
+      label: Effective Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: insurance_agent
+      label: Insurance Agent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: policy_type
+      label: Policy Type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      required: false
+    - id: 6
+      name: policy_holder_consent
+      label: Patient/Policyholder Consent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: policy_holder_signature
+      label: Policyholder Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: insurance_company
+      label: Insurance Company
+      hint: null
+      type: text
+      options: []
+      required: false

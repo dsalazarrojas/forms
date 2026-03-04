@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fleet Service Report Form
+    pages:
+    - id: 1
+      name: service_needed
+      label: Service Needed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: fleet_number
+      label: Fleet Number
+      hint: Please enter Fleet Number
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: vehicle_number
+      label: Vehicle Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: maintenance_description
+      label: Maintenance Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: mileage
+      label: Mileage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: date_of_last_inspection
+      label: Date Of Last Inspection
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: next_inspection_due_date
+      label: Next Inspection Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: location_of_last_inspection
+      label: Location Of Last Inspection
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: service_level
+      label: Service Level
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

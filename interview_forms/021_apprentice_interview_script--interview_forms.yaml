@@ -1,0 +1,129 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Apprentice Interview Script
+    pages:
+    - id: 1
+      name: candidate_info
+      label: Candidate Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: candidate_name
+      label: Candidate Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: interview_date
+      label: Interview Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: interviewer_name
+      label: Interviewer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: interview_section
+      label: Interview Questions and Responses
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: motivation_question
+      label: What motivates you to pursue this apprenticeship
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: experience_question
+      label: Describe your relevant experience or education
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: skill_question
+      label: What technical skills do you already possess
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: challenge_question
+      label: How do you handle challenging situations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: teamwork_question
+      label: Tell us about a time you worked effectively in a team
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: learning_question
+      label: How do you approach learning new skills
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: assessment_section
+      label: Interviewer Assessment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: overall_impression
+      label: Overall Impression
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 14
+      name: fit_assessment
+      label: Assessment of Fit
+      hint: null
+      type: select_one
+      options:
+      - Highly Recommended
+      - Recommended
+      - Undecided
+      - Not Recommended
+      required: true
+    - id: 15
+      name: next_steps
+      label: Notes and Next Steps
+      hint: null
+      type: text
+      options: []
+      required: false

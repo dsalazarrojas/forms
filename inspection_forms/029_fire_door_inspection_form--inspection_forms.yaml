@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: fire_door_inspection_form
+    pages:
+    - id: 1
+      name: fire_door_id
+      label: fire_door_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: fire_door_inspection
+      label: fire_door_inspection
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: fire_door_type
+      label: fire_door_type
+      hint: null
+      type: select_one
+      options:
+      - Fire Door
+      - Fire Exit
+      required: false
+    - id: 4
+      name: fire_door_condition
+      label: fire_door_condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: fire_door_last_inspection
+      label: fire_door_last_inspection
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: fire_door_next_inspection
+      label: fire_door_next_inspection
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: fire_door_defect
+      label: fire_door_defect
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: fire_exit_id
+      label: fire_exit_id
+      hint: null
+      type: number
+      options: []
+      required: false

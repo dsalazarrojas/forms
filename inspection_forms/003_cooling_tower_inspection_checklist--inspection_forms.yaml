@@ -1,0 +1,181 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cooling Tower Inspection Checklist
+    pages:
+    - id: 1
+      name: cooling_tower_inspection
+      label: cooling_tower_inspection
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 2
+      name: tower_id
+      label: tower_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: inspection_date
+      label: inspection_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: technician_name
+      label: technician_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: temperature_range
+      label: temperature_range
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: cooling_water_level
+      label: cooling_water_level
+      hint: null
+      type: select_multiple
+      options:
+      - 0-5 feet
+      - 5-10 feet
+      - 10-15 feet
+      - 15-20 feet
+      - 20-25 feet
+      required: false
+    - id: 8
+      name: motor_temperature
+      label: motor_temperature
+      hint: null
+      type: select_one
+      options:
+      - Less than 40C
+      - 40-50C
+      - Greater than 50C
+      required: true
+    - id: 9
+      name: bearing_temperature
+      label: bearing_temperature
+      hint: null
+      type: select_one
+      options:
+      - Less than 40C
+      - 40-50C
+      - Greater than 50C
+      required: false
+    - id: 10
+      name: motor_bearing_condition
+      label: motor_bearing_condition
+      hint: null
+      type: select_one
+      options:
+      - Good Condition
+      - Fair Condition
+      - Fair Condition - Warning
+      - Poor Condition
+      required: false
+    - id: 11
+      name: fan_bearing_condition
+      label: fan_bearing_condition
+      hint: null
+      type: select_one
+      options:
+      - Good Condition
+      - Fair Condition
+      - Fair Condition - Warning
+      - Poor Condition
+      required: false
+    - id: 12
+      name: motor_seal_condition
+      label: motor_seal_condition
+      hint: null
+      type: select_one
+      options:
+      - Good Condition
+      - Fair Condition
+      - Poor Condition
+      required: false
+    - id: 13
+      name: fan_seal_condition
+      label: fan_seal_condition
+      hint: null
+      type: select_one
+      options:
+      - Good Condition
+      - Fair Condition
+      - Poor Condition
+      required: false
+    - id: 14
+      name: sump_condition
+      label: sump_condition
+      hint: null
+      type: select_multiple
+      options:
+      - Good Condition
+      - Fair Condition
+      - Poor Condition
+      - Warning Condition
+      - Critical Condition
+      required: false
+    - id: 15
+      name: basin_condition
+      label: basin_condition
+      hint: null
+      type: select_one
+      options:
+      - Good Condition
+      - Fair Condition
+      - Poor Condition
+      - Warning Condition
+      - Critical Condition
+      required: false
+    - id: 16
+      name: sump_height
+      label: sump_height
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 inch
+      - 1-2 inches
+      - 2-4 inches
+      - 4-6 inches
+      - Greater than 6 inches
+      required: true
+    - id: 17
+      name: motor_drain_height
+      label: motor_drain_height
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 inch
+      - 1-2 inches
+      - 2-4 inches
+      - 4-6 inches
+      - Greater than 6 inches
+      required: true
+    - id: 18
+      name: sump_water_level
+      label: sump_water_level
+      hint: null
+      type: select_multiple
+      options:
+      - 0-1 foot
+      - 1-2 feet
+      - 2-4 feet
+      - 4-6 feet
+      - Greater than 6 feet
+      required: false

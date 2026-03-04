@@ -1,0 +1,95 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Therapy Services Eligibility Screening
+    pages:
+    - id: 1
+      name: client_info
+      label: Client Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: therapy_services
+      label: Therapy Services
+      hint: Which of the following services would you like to be screened for?
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Cognitive Therapy''}'
+      - '{''value'': 2, ''label'': ''Family Therapy''}'
+      - '{''value'': 3, ''label'': ''Individual Therapy''}'
+      - '{''value'': 4, ''label'': ''Support Groups''}'
+      required: false
+    - id: 4
+      name: dates_and_times
+      label: Available Dates and Times
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: preferred_time
+      label: Preferred Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: medical_condition
+      label: Do you have any medical conditions?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': True}'
+      - '{''value'': 2, ''label'': False}'
+      required: false
+    - id: 8
+      name: medications
+      label: Current Medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: medical_procedure
+      label: Have you had any major medical procedures?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''label'': ''Surgery''}'
+      - '{''value'': 2, ''label'': ''Chemotherapy''}'
+      - '{''value'': 3, ''label'': ''Radiotherapy''}'
+      required: false
+    - id: 10
+      name: emergency_contact
+      label: Emergency Contact
+      hint: If you have an emergency contact, list their name, phone number, and relationship
+      type: text
+      options: []
+      required: false

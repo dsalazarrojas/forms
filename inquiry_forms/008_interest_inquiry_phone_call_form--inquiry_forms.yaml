@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: Interest Inquiry Phone Call Form
+    pages:
+    - id: 1
+      name: form_input
+      label: Contact Information
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: inquiry_type
+      label: What is your inquiry about
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: follow_up_method
+      label: How do you prefer to be contacted
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - Text Message
+      required: false
+    - id: 7
+      name: follow_up_time
+      label: Best Time to Contact
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: follow_up_date
+      label: Best Date to Contact
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: follow_up_day
+      label: Best Day to Contact
+      hint: null
+      type: select_one
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: false
+    - id: 10
+      name: follow_up_hour
+      label: Best Hour to Contact
+      hint: null
+      type: select_one
+      options:
+      - '8'
+      - '9'
+      - '10'
+      - '11'
+      - '12'
+      - '13'
+      - '14'
+      - '15'
+      - '16'
+      - '17'
+      - '18'
+      - '19'
+      - '20'
+      required: false
+    - id: 11
+      name: follow_up_comment
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: follow_up_phone_type
+      label: Phone Type
+      hint: null
+      type: select_one
+      options:
+      - Home
+      - Work
+      - Cell
+      required: false

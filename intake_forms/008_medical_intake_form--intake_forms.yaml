@@ -1,0 +1,87 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Medical Intake Form
+    pages:
+    - id: 1
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_identification
+      label: Patient Identification
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Patient 1''}'
+      - '{''id'': 2, ''value'': ''Patient 2''}'
+      - '{''id'': 3, ''value'': ''Patient 3''}'
+      required: true
+    - id: 3
+      name: past_surgeries
+      label: Past Surgeries
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''Surgery 1''}'
+      - '{''id'': 2, ''value'': ''Surgery 2''}'
+      - '{''id'': 3, ''value'': ''Surgery 3''}'
+      required: true
+    - id: 4
+      name: medical_symptoms
+      label: Medical Symptoms
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''Symptom 1''}'
+      - '{''id'': 2, ''value'': ''Symptom 2''}'
+      - '{''id'': 3, ''value'': ''Symptom 3''}'
+      required: false
+    - id: 5
+      name: genetic_information
+      label: Genetic Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: allergies
+      label: Allergies
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''Allergy 1''}'
+      - '{''id'': 2, ''value'': ''Allergy 2''}'
+      - '{''id'': 3, ''value'': ''Allergy 3''}'
+      required: true
+    - id: 7
+      name: medications
+      label: Medications
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''Medication 1''}'
+      - '{''id'': 2, ''value'': ''Medication 2''}'
+      - '{''id'': 3, ''value'': ''Medication 3''}'
+      required: false
+    - id: 8
+      name: medical_notes
+      label: Medical Notes
+      hint: null
+      type: text
+      options: []
+      required: false

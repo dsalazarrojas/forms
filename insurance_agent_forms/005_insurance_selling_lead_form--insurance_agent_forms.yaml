@@ -1,0 +1,117 @@
+inputSchema:
+  type: object
+  properties:
+    title: insurance_selling_lead_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: lead_type
+      label: Lead Type
+      hint: Individual or Business
+      type: select_one
+      options:
+      - Individual
+      - Business
+      required: true
+    - id: 6
+      name: lead_category
+      label: Category
+      hint: null
+      type: select_multiple
+      options:
+      - Life Insurance
+      - Health Insurance
+      - Auto Insurance
+      - Homeowners Insurance
+      required: true
+    - id: 7
+      name: insurance_type
+      label: Insurance Type
+      hint: null
+      type: select_multiple
+      options:
+      - Life Insurance
+      - Health Insurance
+      - Auto Insurance
+      - Homeowners Insurance
+      required: true
+    - id: 8
+      name: insurance_provider
+      label: Insurance Provider
+      hint: null
+      type: select_multiple
+      options:
+      - Nationwide
+      - Progressive
+      - GEICO
+      - State Farm
+      required: true
+    - id: 9
+      name: lead_date
+      label: Lead Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: lead_time
+      label: Lead Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: insurance_agent
+      label: Insurance Agent
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

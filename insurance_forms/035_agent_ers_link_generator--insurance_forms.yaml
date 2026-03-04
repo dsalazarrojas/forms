@@ -1,0 +1,111 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Agent ERS Link Generator
+    pages:
+    - id: 1
+      name: header
+      label: -- ERS Link Generation Tool --
+      hint: generate secure links for insurance reviews and assessments
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: agent_name
+      label: Agent Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: agent_id
+      label: Agent ID Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: official_email
+      label: Agent Official Email
+      hint: the link will be delivered to this address
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: config_header
+      label: -- Link Configuration --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: form_number
+      label: Jotform Form Number to link
+      hint: enter your 15-digit jotform ID
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: distribution_region
+      label: Region for Link Distribution
+      hint: select the target market
+      type: select_one
+      options:
+      - North America
+      - Europe
+      - Asia Pacific
+      - Latin America
+      required: true
+    - id: 8
+      name: custom_suffix
+      label: Custom Suffix for Tracking - Optional
+      hint: e.g., Fall_Campaign_2026
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: generation_note
+      label: -- Generation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: delivery_notice
+      label: The generated link will be sent to the email provided above.
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: intended_platform
+      label: Intended Platform for the Link - Email, SMS, Social Media
+      hint: how will the link be shared
+      type: select_one
+      options:
+      - Email Campaign
+      - SMS Text Message
+      - Social Media Post
+      - QR Code Generation
+      required: true
+    - id: 12
+      name: activation_priority
+      label: Priority for Link Activation
+      hint: null
+      type: select_one
+      options:
+      - Standard (24 hours)
+      - Urgent (Immediate)
+      - Scheduled for later
+      required: true

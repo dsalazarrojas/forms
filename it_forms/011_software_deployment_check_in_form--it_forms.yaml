@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: Software Deployment Check In Form
+    pages:
+    - id: 1
+      name: software_deployment_status
+      label: Software Deployment Status
+      hint: null
+      type: select_multiple
+      options:
+      - Deployed
+      - Not Deployed
+      - Not Applicable
+      required: false
+    - id: 2
+      name: deployed_by
+      label: Deployed By
+      hint: null
+      type: select_one
+      options:
+      - IT Team
+      - Dev Team
+      - Other
+      required: false
+    - id: 3
+      name: deployed_date
+      label: Deployed Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: deployed_time
+      label: Deployed Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: deployed_notes
+      label: Deployed Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: software_name
+      label: Software Name
+      hint: Enter software name
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: software_version
+      label: Software Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: environment_name
+      label: Environment Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: environment_version
+      label: Environment Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: user_name
+      label: User Name
+      hint: Enter user name
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: user_email
+      label: User Email
+      hint: Enter user email address
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: user_phone
+      label: User Phone
+      hint: Enter user phone number
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: comments
+      label: Comments
+      hint: Enter any comments
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false

@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: NFT Marketplace Inquiry Form
+    pages:
+    - id: 1
+      name: nft_inquiry
+      label: NFT Inquiries
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact
+      label: Contact
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 4, ''label'': ''Email'', ''value'': ''email''}'
+      - '{''id'': 5, ''label'': ''Phone'', ''value'': ''phone''}'
+      required: true
+    - id: 4
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: nfts_inquired
+      label: NFTs Inquired
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 8, ''label'': ''NFT 1''}'
+      - '{''id'': 9, ''label'': ''NFT 2''}'
+      - '{''id'': 10, ''label'': ''NFT 3''}'
+      required: true
+    - id: 6
+      name: preferred_contact
+      label: Preferred Contact
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 12, ''label'': ''Email'', ''value'': ''email''}'
+      - '{''id'': 13, ''label'': ''Phone'', ''value'': ''phone''}'
+      required: true
+    - id: 7
+      name: nft_type
+      label: NFT Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 15, ''label'': ''Physical'', ''value'': ''physical''}'
+      - '{''id'': 16, ''label'': ''Digital'', ''value'': ''digital''}'
+      required: true
+    - id: 8
+      name: date_inquired
+      label: Date Inquired
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time_inquired
+      label: Time Inquired
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: nft_price
+      label: NFT Price
+      hint: null
+      type: number
+      options: []
+      required: false

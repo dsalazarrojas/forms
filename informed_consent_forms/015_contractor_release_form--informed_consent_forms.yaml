@@ -1,0 +1,277 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contractor Release Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Full Name
+      hint: Legal name of the client
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_email
+      label: Client Email
+      hint: Email address for communication
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: client_phone
+      label: Client Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: client_address
+      label: Client Address
+      hint: Full mailing address
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: section_contractor_info
+      label: -- Contractor Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: contractor_name
+      label: Contractor Name
+      hint: Name of contractor or company
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: contractor_address
+      label: Contractor Address
+      hint: Business address of contractor
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: section_service_details
+      label: -- Service Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: service_type
+      label: Type of Service
+      hint: What service was provided
+      type: select_one
+      options:
+      - Home Renovation
+      - Repair Work
+      - Installation
+      - Maintenance
+      - Consulting
+      - Design Services
+      - Construction
+      - Landscaping
+      - Other
+      required: true
+    - id: 10
+      name: service_description
+      label: Service Description
+      hint: Detailed description of services
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: service_location
+      label: Service Location
+      hint: Address where service was performed
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: contract_date
+      label: Original Contract Date
+      hint: Date when service agreement was made
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: service_start_date
+      label: Service Start Date
+      hint: When did work begin
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: service_end_date
+      label: Service End Date
+      hint: When was work completed or terminated
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: section_release_type
+      label: -- Release Type --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: release_type
+      label: Type of Release
+      hint: What type of release is this
+      type: select_one
+      options:
+      - Mutual Release
+      - Client Release of Contractor
+      - Contractor Release of Client
+      - Service Cancellation
+      - Contract Termination
+      required: true
+    - id: 17
+      name: release_reason
+      label: Reason for Release
+      hint: Why is this release being issued
+      type: select_one
+      options:
+      - Project Completed Satisfactorily
+      - Mutual Agreement
+      - Client Request
+      - Contractor Request
+      - Unforeseen Circumstances
+      - Budget Constraints
+      - Other
+      required: true
+    - id: 18
+      name: release_reason_details
+      label: Reason Details
+      hint: Please explain the reason in detail
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: section_financial
+      label: -- Financial Settlement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: total_contract_value
+      label: Total Contract Value
+      hint: Original value of contract
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: amount_paid
+      label: Amount Paid to Date
+      hint: Total amount already paid
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: outstanding_balance
+      label: Outstanding Balance
+      hint: Any remaining amount due
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: payment_settlement
+      label: Payment Settlement
+      hint: How will outstanding amounts be handled
+      type: select_one
+      options:
+      - Paid in Full
+      - Payment Plan Agreed
+      - Waived by Contractor
+      - Waived by Client
+      - Not Applicable
+      required: true
+    - id: 24
+      name: section_release_terms
+      label: -- Release Terms --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: release_claims
+      label: I release all known claims
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 26
+      name: understand_terms
+      label: I understand the terms of this release
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 27
+      name: voluntary_agreement
+      label: I am signing this voluntarily
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 28
+      name: no_coercion
+      label: I am not under coercion or duress
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 29
+      name: section_authorization
+      label: -- Authorization --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 30
+      name: authorized_signer
+      label: Authorized Signer Name
+      hint: Name of person signing
+      type: text
+      options: []
+      required: true
+    - id: 31
+      name: signer_title
+      label: Signer Title
+      hint: Title or relationship to parties
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: signature_date
+      label: Signature Date
+      hint: Date of signing
+      type: date
+      options: []
+      required: true
+    - id: 33
+      name: witness_name
+      label: Witness Name
+      hint: Name of witness if applicable
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: additional_terms
+      label: Additional Terms or Conditions
+      hint: Any special conditions or agreements
+      type: text
+      options: []
+      required: false

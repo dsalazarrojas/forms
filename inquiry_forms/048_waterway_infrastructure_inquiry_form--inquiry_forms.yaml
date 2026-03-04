@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Waterway Infrastructure Inquiry Form
+    pages:
+    - id: 1
+      name: inquiry_form_page_1
+      label: Report Issue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: report_type
+      label: Report Type
+      hint: null
+      type: select_one
+      options:
+      - Issue
+      - Inspection
+      - Improvement
+      required: false
+    - id: 3
+      name: description_field
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: report_location
+      label: Report Location
+      hint: null
+      type: select_multiple
+      options:
+      - Waterway
+      - Nearby Waterway
+      - Not Near A Waterway
+      required: false
+    - id: 5
+      name: report_date
+      label: Report Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: report_time
+      label: Report Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: attachment
+      label: Attachments
+      hint: null
+      type: note
+      options: []
+      required: false

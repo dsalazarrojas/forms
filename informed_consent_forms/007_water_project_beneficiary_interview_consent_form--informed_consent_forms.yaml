@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Water Project Beneficiary Interview Consent Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: signature_date
+      label: Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: project_name
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: participant_email
+      label: Participant Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: participant_contact_number
+      label: Participant Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: informed_consent
+      label: Informed Consent
+      hint: null
+      type: select_one
+      options:
+      - Informed Consent Given
+      - Informed Consent Not Given
+      required: true
+    - id: 7
+      name: agreement
+      label: Agreement
+      hint: null
+      type: select_multiple
+      options:
+      - I agree with the terms and conditions of the project
+      - I do not agree with the terms and conditions of the project
+      required: true
+    - id: 8
+      name: signature
+      label: Participant Signature
+      hint: null
+      type: note
+      options: []
+      required: false

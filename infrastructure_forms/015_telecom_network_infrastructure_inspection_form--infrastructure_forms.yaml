@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Telecom Network Infrastructure Inspection Form
+    pages:
+    - id: 1
+      name: base_page
+      label: Base Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: inspection_details
+      label: Inspection Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: inspection_time
+      label: Inspection Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: equipment_condition
+      label: Equipment Condition
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: inspection_area
+      label: Inspection Area
+      hint: null
+      type: select_multiple
+      options:
+      - Cell tower
+      - Distribution point
+      - Switch
+      required: false
+    - id: 8
+      name: maintenance_follow_up
+      label: Maintenance Follow-up
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: inspection_result
+      label: Inspection Result
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: inspection_status
+      label: Inspection Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 11
+      name: inspection_frequency
+      label: Inspection Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 12
+      name: inspection_type
+      label: Inspection Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: inspection_team
+      label: Inspection Team
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: inspection_area_description
+      label: Inspection Area Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: inspection_area_note
+      label: Inspection Area Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: telecom_operations_team
+      label: Telecom Operations Team
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: assigned_inspector
+      label: Assigned Inspector
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: telecom_equipment
+      label: Telecom Equipment
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: inspection_location
+      label: Inspection Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: remarks
+      label: Remarks
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: inspection_area_map
+      label: Inspection Area Map
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Inquiry Status Login
+    pages:
+    - id: 1
+      name: inquiry_status_login_form
+      label: customer_inquiry_status_login
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: inquiry_status
+      label: current_status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Open''}'
+      - '{''label'': ''In Progress''}'
+      - '{''label'': ''Closed''}'
+      required: false
+    - id: 3
+      name: customer_name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: customer_email
+      label: email_address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: customer_phone
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: customer_inquiry_id
+      label: inquiry_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: customer_note
+      label: additional_info
+      hint: null
+      type: note
+      options: []
+      required: false

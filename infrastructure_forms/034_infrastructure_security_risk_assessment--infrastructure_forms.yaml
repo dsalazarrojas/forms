@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: infrastructure_security_risk_assessment
+    pages:
+    - id: 1
+      name: site_evaluation
+      label: Site Evaluation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: evaluation_date
+      label: Evaluation Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: site_name
+      label: Site Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: risk_rating
+      label: Risk Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: risk_description
+      label: Risk Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: risk_impact
+      label: Risk Impact
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: risk_likelihood
+      label: Risk Likelihood
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: site_security_controls
+      label: Site Security Controls
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: remediation_status
+      label: Remediation Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 10
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: security_rating
+      label: Security Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: site_visit
+      label: Site Visit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: evaluation_status
+      label: Evaluation Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 15
+      name: security_rating_scale
+      label: Security Rating Scale
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: true
+    - id: 16
+      name: security_rating_comments
+      label: Security Rating Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: site_elevation
+      label: Site Elevation
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: site_comments
+      label: Site Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: security_controls_rating
+      label: Security Controls Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: remediation_plan
+      label: Remediation Plan
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: remediation_status
+      label: Remediation Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 22
+      name: risk_assessment_date
+      label: Risk Assessment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: site_visit_date
+      label: Site Visit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: remediation_actions
+      label: Remediation Actions
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: site_visit_notes
+      label: Site Visit Notes
+      hint: null
+      type: text
+      options: []
+      required: true

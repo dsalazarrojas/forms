@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: culture_fit_interview_questionnaire
+    pages:
+    - id: 1
+      name: intro
+      label: This is a test
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_details
+      label: Contact Information
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': True, ''value'': 1}'
+      - '{''id'': 2, ''label'': False, ''value'': 2}'
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: work_phone
+      label: Work Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: cell_phone
+      label: Cell Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: work_address
+      label: Work Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: work_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: work_state
+      label: State
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''CA'', ''value'': ''CA''}'
+      - '{''id'': 2, ''label'': ''NY'', ''value'': ''NY''}'
+      - '{''id'': 3, ''label'': ''Other'', ''value'': ''Other''}'
+      required: true
+    - id: 9
+      name: work_country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: work_zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: work_company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: job_description
+      label: Job Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: work_start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: work_start_date_month_year
+      label: Month/Year
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: work_end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: work_end_date_month_year
+      label: Month/Year
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: work_hours
+      label: Hours
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: work_salary
+      label: Salary
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: work_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Active'', ''value'': ''Active''}'
+      - '{''id'': 2, ''label'': ''On Leave'', ''value'': ''On Leave''}'
+      - '{''id'': 3, ''label'': ''Retired'', ''value'': ''Retired''}'
+      required: true
+    - id: 21
+      name: work_employment_status
+      label: Employment Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Full Time'', ''value'': 1}'
+      - '{''id'': 2, ''label'': ''Part Time'', ''value'': 2}'
+      - '{''id'': 3, ''label'': ''Other'', ''value'': 3}'
+      required: true
+    - id: 22
+      name: work_shift
+      label: Shift
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Morning'', ''value'': ''Morning''}'
+      - '{''id'': 2, ''label'': ''Afternoon'', ''value'': ''Afternoon''}'
+      - '{''id'': 3, ''label'': ''Night'', ''value'': ''Night''}'
+      required: true
+    - id: 23
+      name: work_employment_type
+      label: Employment Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Permanent'', ''value'': 1}'
+      - '{''id'': 2, ''label'': ''Contract'', ''value'': 2}'
+      - '{''id'': 3, ''label'': ''Freelance'', ''value'': 3}'
+      required: true
+    - id: 24
+      name: work_employment_contract_type
+      label: Contract Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Hourly'', ''value'': 1}'
+      - '{''id'': 2, ''label'': ''Monthly'', ''value'': 2}'
+      - '{''id'': 3, ''label'': ''Yearly'', ''value'': 3}'
+      required: true
+    - id: 25
+      name: work_english_level
+      label: English Level
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Native'', ''value'': 1}'
+      - '{''id'': 2, ''label'': ''Fluent'', ''value'': 2}'
+      - '{''id'': 3, ''label'': ''Beginner'', ''value'': 3}'
+      required: true

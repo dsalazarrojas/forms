@@ -1,0 +1,161 @@
+inputSchema:
+  type: object
+  properties:
+    title: Awesome Ink Studios Tattoo Informed Consent Form
+    pages:
+    - id: 1
+      name: section_client_info
+      label: -- Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_dob
+      label: Date of Birth
+      hint: Must be 18+ or have parent/guardian consent
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: client_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: client_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_tattoo_details
+      label: -- Tattoo and Artist Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: tattoo_description
+      label: Tattoo Description
+      hint: Briefly describe the design
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: tattoo_location_body
+      label: Tattoo Location on Body
+      hint: e.g. Left Forearm, Right Shoulder
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: artist_name_ink
+      label: Artist Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: section_medical_disclosure
+      label: -- Medical Disclosure --
+      hint: For your safety, please disclose all medical conditions
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: medical_conditions_ink
+      label: Relevant Medical History
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Hemophilia or Bleeding Disorders
+      - Diabetes
+      - Epilepsy or Seizures
+      - HIV or Hepatitis
+      - Skin Allergies (Ink/Metal)
+      - Latex Allergy
+      required: false
+    - id: 12
+      name: influence_check
+      label: Are you currently under the influence of drugs or alcohol?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 13
+      name: section_legal_consent
+      label: -- Legal Consent and Acknowledgment --
+      hint: Read carefully before signing
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: consent_to_tattoo
+      label: I consent to being tattooed by Awesome Ink Studios
+      hint: null
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      required: true
+    - id: 15
+      name: risk_acknowledgment
+      label: I acknowledge the inherent risks of tattooing
+      hint: Potential for infection, scarring, or allergic reaction
+      type: select_one
+      options:
+      - Yes, I acknowledge
+      - Other
+      required: true
+    - id: 16
+      name: aftercare_acknowledgment
+      label: I acknowledge that I have received aftercare instructions
+      hint: Proper healing is your responsibility
+      type: select_one
+      options:
+      - Yes, I acknowledge
+      - Other
+      required: true
+    - id: 17
+      name: photo_release_ink
+      label: Photo Release for Social Media and Portfolio
+      hint: Can we share photos of your new tattoo?
+      type: select_one
+      options:
+      - Yes, I give permission
+      - No, I do not give permission
+      required: true
+    - id: 18
+      name: client_signature_ink
+      label: Client Digital Signature
+      hint: Type full name to certify
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: date_of_signature
+      label: Date of Signature
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: emergency_contact_info
+      label: Emergency Contact Name and Phone
+      hint: null
+      type: text
+      options: []
+      required: true

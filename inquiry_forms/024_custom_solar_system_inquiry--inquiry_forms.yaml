@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: Custom Solar System Inquiry
+    pages:
+    - id: 1
+      name: property_details
+      label: Property Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: energy_usage
+      label: Energy Usage
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Low''}'
+      - '{''value'': ''Medium''}'
+      - '{''value'': ''High''}'
+      required: false
+    - id: 3
+      name: energy_preferences
+      label: Energy Preferences
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Low''}'
+      - '{''value'': ''Medium''}'
+      - '{''value'': ''High''}'
+      required: false
+    - id: 4
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: lead_source
+      label: Lead Source
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Social Media''}'
+      - '{''value'': ''Website''}'
+      - '{''value'': ''Referral''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 7
+      name: prospect_details
+      label: Prospect Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: energy_savings_estimation
+      label: Energy Savings Estimation
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: installation_details
+      label: Installation Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: preferred_installers
+      label: Preferred Installers
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: preferred_installers_other
+      label: Other Preferred Installers
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: preferred_installers_info
+      label: Preferred Installers Info
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: preferred_installers_address
+      label: Preferred Installers Address
+      hint: null
+      type: text
+      options: []
+      required: false

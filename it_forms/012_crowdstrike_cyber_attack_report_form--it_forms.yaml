@@ -1,0 +1,138 @@
+inputSchema:
+  type: object
+  properties:
+    title: crowdstrike_cyber_attack_report_form
+    pages:
+    - id: 1
+      name: impact
+      label: impact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: attack_vector
+      label: attack_vector
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: response
+      label: response
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: resolution
+      label: resolution
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: impact_date
+      label: impact_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: impact_time
+      label: impact_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: response_time
+      label: response_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: attacker_ip
+      label: attacker_ip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: response_method
+      label: response_method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: attacker_domain
+      label: attacker_domain
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: resolution_method
+      label: resolution_method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: impact_type
+      label: impact_type
+      hint: null
+      type: select_one
+      options:
+      - network
+      - system
+      - user
+      - application
+      required: true
+    - id: 13
+      name: response_type
+      label: response_type
+      hint: null
+      type: select_one
+      options:
+      - immediate
+      - delayed
+      - none
+      required: true
+    - id: 14
+      name: attacker_location
+      label: attacker_location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: resolution_status
+      label: resolution_status
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: attacker_email
+      label: attacker_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: attacker_phone
+      label: attacker_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false

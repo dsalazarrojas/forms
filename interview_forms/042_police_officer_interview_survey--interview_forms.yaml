@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: police_officer_interview_survey
+    pages:
+    - id: 1
+      name: candidate_details
+      label: candidate_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: interview_date
+      label: interview_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: job_posting
+      label: job_posting
+      hint: null
+      type: select_one
+      options:
+      - '60951'
+      - '60952'
+      - '60953'
+      required: false
+    - id: 4
+      name: interviewer_name
+      label: interviewer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: interview_questions
+      label: interview_questions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: candidate_comments
+      label: candidate_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: interviewer_feedback
+      label: interviewer_feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: rating_score
+      label: rating_score
+      hint: null
+      type: number
+      options: []
+      required: false

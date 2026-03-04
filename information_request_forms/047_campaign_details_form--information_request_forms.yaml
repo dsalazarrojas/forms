@@ -1,0 +1,124 @@
+inputSchema:
+  type: object
+  properties:
+    title: Campaign Details Form
+    pages:
+    - id: 1
+      name: campaign_org_info_header
+      label: -- Campaign Organization Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: charity_organization_name
+      label: Organization Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: campaign_title_full
+      label: Official Campaign Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: campaign_purpose_summary
+      label: Primary Purpose of Campaign
+      hint: What will the raised funds be used for?
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: campaign_financials_header
+      label: -- Financial Goals and Strategy --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: funding_goal_amount
+      label: Total Funding Goal (USD)
+      hint: Target amount to be raised
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: campaign_start_date_target
+      label: Target Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: campaign_end_date_target
+      label: Target End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: expected_donor_count_est
+      label: Expected Number of Donors
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: donor_info_req_type
+      label: Donor Information Required for Tracking
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Full Name
+      - Tax ID (For receipts)
+      - Mailing Address
+      - Corporate Match Eligibility
+      - In-kind Donation Details
+      required: true
+    - id: 11
+      name: financial_history_summary
+      label: Previous Fundraising History
+      hint: Summary of similar past campaigns
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: campaign_manager_contact
+      label: Campaign Manager Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: campaign_manager_email
+      label: Manager Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 14
+      name: compliance_reporting_need
+      label: Regulatory Compliance Reporting Needed?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: additional_campaign_context
+      label: Additional Context or Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: campaign_details_date_logged
+      label: Date of Information Submission
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,244 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Policy Document Upload Form
+    pages:
+    - id: 1
+      name: form_header
+      label: Insurance Policy Document Upload
+      hint: Upload your insurance policy documents for processing and review
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: address
+      label: Mailing Address
+      hint: Street address city state zip code
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: policy_number
+      label: Policy Number
+      hint: Found on your policy declaration page
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: insurance_company
+      label: Insurance Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: policy_type
+      label: Policy Type
+      hint: null
+      type: select_one
+      options:
+      - Auto Insurance
+      - Homeowners Insurance
+      - Renters Insurance
+      - Life Insurance
+      - Health Insurance
+      - Disability Insurance
+      - Business Insurance
+      - Umbrella Policy
+      - Other
+      required: true
+    - id: 11
+      name: policy_effective_date
+      label: Policy Effective Date
+      hint: When does your coverage start
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: policy_expiration_date
+      label: Policy Expiration Date
+      hint: When does your coverage end
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: coverage_amount
+      label: Coverage Amount
+      hint: null
+      type: select_one
+      options:
+      - Under $50000
+      - $50000-$100000
+      - $100000-$250000
+      - $250000-$500000
+      - $500000-$1000000
+      - Over $1000000
+      - Not Applicable
+      required: false
+    - id: 14
+      name: upload_policy_declaration
+      label: Upload Policy Declaration Page
+      hint: Main page showing coverage details
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: upload_policy_full_document
+      label: Upload Full Policy Document
+      hint: Complete policy terms and conditions
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: upload_id_document
+      label: Upload Government-Issued ID
+      hint: Driver license passport or state ID
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: upload_proof_of_address
+      label: Upload Proof of Address
+      hint: Utility bill bank statement or lease agreement
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: additional_documents
+      label: Upload Additional Documents
+      hint: Any other relevant documents
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: purpose_of_upload
+      label: Purpose of Document Upload
+      hint: Why are you submitting these documents
+      type: select_one
+      options:
+      - New Policy Application
+      - Policy Renewal
+      - Claim Submission
+      - Policy Review
+      - Quote Request
+      - Update Existing Policy
+      - Other
+      required: true
+    - id: 20
+      name: agent_name
+      label: Insurance Agent Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: agent_contact
+      label: Insurance Agent Contact
+      hint: Email or phone
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: current_claim_status
+      label: Do You Have Any Active Claims
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: false
+    - id: 23
+      name: claim_details
+      label: Claim Details
+      hint: If yes provide claim number and brief description
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: How should we contact you
+      type: select_one
+      options:
+      - Email
+      - Phone Call
+      - Text Message
+      - Mail
+      - No Preference
+      required: true
+    - id: 25
+      name: best_time_to_contact
+      label: Best Time to Contact
+      hint: null
+      type: select_one
+      options:
+      - Morning (8am-12pm)
+      - Afternoon (12pm-5pm)
+      - Evening (5pm-8pm)
+      - Any Time
+      required: false
+    - id: 26
+      name: how_did_you_hear
+      label: How Did You Hear About Us
+      hint: null
+      type: select_one
+      options:
+      - Referral
+      - Online Search
+      - Social Media
+      - Advertisement
+      - Insurance Comparison Site
+      - Other
+      required: false
+    - id: 27
+      name: additional_comments
+      label: Additional Comments or Questions
+      hint: Anything else we should know
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: consent_to_process
+      label: I Consent to Processing of My Documents
+      hint: I authorize review and processing of uploaded documents
+      type: select_one
+      options:
+      - Yes I consent
+      - No I do not consent
+      required: true

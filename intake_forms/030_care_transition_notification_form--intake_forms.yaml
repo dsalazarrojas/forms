@@ -1,0 +1,88 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Care Transition Notification Form
+    pages:
+      - id: 1
+        name: notification_header
+        label: -- Transition Notification --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: patient_name
+        label: Patient name
+        hint: Name of patient transitioning care
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: from_service
+        label: From service or unit
+        hint: Current care team or unit
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: to_service
+        label: To service or unit
+        hint: Receiving care team or unit
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: transition_date
+        label: Transition date
+        hint: Date change in care occurs
+        type: date
+        options: []
+        required: true
+      - id: 6
+        name: reason_for_transition
+        label: Reason for transition
+        hint: Clinical or administrative reason
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: important_notes
+        label: Important notes for receiving team
+        hint: Allergies limitations care preferences
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: responsible_provider
+        label: Responsible provider
+        hint: Name and contact of transferring provider
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: family_informed
+        label: Family informed of transition
+        hint: Confirm communication status
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 10
+        name: follow_up_actions
+        label: Follow up actions required
+        hint: Tasks for receiving team
+        type: text
+        options: []
+        required: false

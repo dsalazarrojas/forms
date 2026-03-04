@@ -1,0 +1,255 @@
+inputSchema:
+  type: object
+  properties:
+    title: Auto Insurance Claim Records Release Form
+    pages:
+    - id: 1
+      name: introduction
+      label: Authorization for Release of Claim Records
+      hint: Please complete this form to authorize release of your insurance claim
+        records
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: claimant_info
+      label: Claimant Information
+      hint: Provide your personal details
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: first_name
+      label: First Name
+      hint: Your legal first name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: middle_name
+      label: Middle Name
+      hint: Optional middle name
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: last_name
+      label: Last Name
+      hint: Your legal last name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM-DD-YYYY
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: ssn
+      label: Social Security Number
+      hint: XXX-XX-XXXX
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: email
+      label: Email Address
+      hint: Primary email address
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: address
+      label: Street Address
+      hint: Your current address
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: city
+      label: City
+      hint: City of residence
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: state
+      label: State
+      hint: State of residence
+      type: select_one
+      options:
+      - Alabama
+      - Alaska
+      - Arizona
+      - Arkansas
+      - California
+      - Colorado
+      - Connecticut
+      - Delaware
+      - Florida
+      - Georgia
+      - Other
+      required: true
+    - id: 13
+      name: zip_code
+      label: ZIP Code
+      hint: 5-digit ZIP code
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: policy_info
+      label: Policy Information
+      hint: Provide your insurance policy details
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: insurance_company
+      label: Insurance Company Name
+      hint: Name of your insurance provider
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: policy_number
+      label: Policy Number
+      hint: Your policy number
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: claim_number
+      label: Claim Number
+      hint: Associated claim number
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: accident_date
+      label: Date of Accident
+      hint: When did the incident occur
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: records_requested
+      label: Records to be Released
+      hint: Select which records to release
+      type: select_multiple
+      options:
+      - Complete Claim File
+      - Police Report
+      - Medical Records
+      - Repair Estimates
+      - Payment Records
+      - Correspondence
+      - Photos and Evidence
+      - Witness Statements
+      required: true
+    - id: 20
+      name: release_to
+      label: Release Records To
+      hint: Who should receive the records
+      type: select_one
+      options:
+      - Myself
+      - Attorney
+      - Medical Provider
+      - Repair Shop
+      - Another Insurance Company
+      - Government Agency
+      - Other
+      required: true
+    - id: 21
+      name: recipient_name
+      label: Recipient Name
+      hint: Name of person or organization
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: recipient_address
+      label: Recipient Address
+      hint: Where to send the records
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: release_purpose
+      label: Purpose of Release
+      hint: Why do you need these records
+      type: select_one
+      options:
+      - Personal Records
+      - Legal Proceedings
+      - Medical Treatment
+      - Insurance Claim
+      - Employment
+      - Other
+      required: true
+    - id: 24
+      name: release_period
+      label: Time Period for Records
+      hint: What time period should be included
+      type: select_one
+      options:
+      - Last 6 months
+      - Last 1 year
+      - Last 3 years
+      - Last 5 years
+      - Complete history
+      - Specific date range
+      required: true
+    - id: 25
+      name: expiration_date
+      label: Authorization Expiration
+      hint: When should this authorization expire
+      type: select_one
+      options:
+      - 30 days from signing
+      - 60 days from signing
+      - 90 days from signing
+      - 6 months from signing
+      - 1 year from signing
+      - No expiration
+      required: true
+    - id: 26
+      name: additional_authorizations
+      label: Additional Authorizations
+      hint: Any special instructions
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: signature_date
+      label: Date of Signature
+      hint: Today date
+      type: date
+      options: []
+      required: true
+    - id: 28
+      name: witness_name
+      label: Witness Name
+      hint: Optional witness name
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: authorization_agreement
+      label: Authorization Agreement
+      hint: I hereby authorize the release of my claim records
+      type: select_one
+      options:
+      - I Agree and Authorize
+      - I Do Not Agree
+      required: true

@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: Facial Consent For COVID 19
+    pages:
+    - id: 1
+      name: consent_date
+      label: Consent Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: treatment_provider
+      label: Treatment Provider
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': "Client''s Choice"}'
+      - '{''id'': 2, ''name'': "Salon''s Choice"}'
+      - '{''id'': 3, ''name'': "Spa''s Choice"}'
+      required: false
+    - id: 3
+      name: client_consent
+      label: Client Consent
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: client_signature_date
+      label: Client Signature Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: provider_signature_date
+      label: Provider Signature Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: treatment_consent_notes
+      label: Treatment Consent Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: client_address
+      label: Client Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: treatment_type
+      label: Treatment Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Facial''}'
+      - '{''id'': 2, ''name'': ''Haircut''}'
+      - '{''id'': 3, ''name'': ''Massage''}'
+      required: true
+    - id: 10
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Email''}'
+      - '{''id'': 2, ''name'': ''Phone''}'
+      required: true
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: client_notes
+      label: Client Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: provider_notes
+      label: Provider Notes
+      hint: null
+      type: note
+      options: []
+      required: false

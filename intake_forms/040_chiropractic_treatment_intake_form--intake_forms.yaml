@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chiropractic Treatment Intake Form
+    pages:
+    - id: 1
+      name: patient_demographics
+      label: -- Patient Demographics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      - Prefer not to say
+      required: false
+    - id: 6
+      name: contact_information
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: street_address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: chief_complaint
+      label: -- Chief Complaint and Symptoms --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: main_complaint
+      label: Main Complaint or Reason for Visit
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: pain_location
+      label: Location of Pain or Discomfort
+      hint: null
+      type: select_multiple
+      options:
+      - Neck
+      - Upper back
+      - Mid-back
+      - Lower back
+      - Shoulder
+      - Arm
+      - Wrist
+      - Hand
+      - Hip
+      - Knee
+      - Ankle
+      - Foot
+      required: true
+    - id: 16
+      name: pain_severity
+      label: Pain Severity
+      hint: Rate 1 (minimal) to 10 (severe)
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: pain_onset
+      label: When Did Pain Start
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 week
+      - 1-2 weeks
+      - 2-4 weeks
+      - 1-3 months
+      - 3-6 months
+      - 6+ months
+      required: true
+    - id: 18
+      name: cause_of_injury
+      label: What Caused the Pain
+      hint: Accident, activity, or unknown
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: medical_history
+      label: -- Medical History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: previous_chiropractic
+      label: Previous Chiropractic Treatment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unsure
+      required: true
+    - id: 21
+      name: previous_treatments
+      label: Previous Treatments for This Condition
+      hint: Physical therapy, medication, surgery
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: current_medications
+      label: -- Medications and Allergies --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: medications_list
+      label: Current Medications
+      hint: List all medications taken
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: allergies_list
+      label: Known Allergies
+      hint: Medications or materials
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: form_signature
+      label: I confirm this information is accurate
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

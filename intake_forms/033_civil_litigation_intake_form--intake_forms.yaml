@@ -1,0 +1,135 @@
+inputSchema:
+  type: object
+  properties:
+    title: Civil Litigation Intake Form
+    pages:
+    - id: 1
+      name: intake_intro
+      label: -- Prospective Client Intake --
+      hint: Information provided is for evaluation and is not yet an attorney-client
+        relationship
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: potential_client_name
+      label: Full Legal Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: client_phone
+      label: Primary Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: preferred_contact_method
+      label: Preferred Method of Contact
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone Call
+      - Text Message
+      - In-Person Meeting
+      required: true
+    - id: 6
+      name: legal_issue_header
+      label: -- Description of Legal Issue --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: legal_issue_description
+      label: Briefly describe your legal situation
+      hint: What happened and why are you seeking legal help?
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: incident_date
+      label: Date of Incident or Dispute
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: court_papers_served
+      label: Have you been served with any legal papers?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Sure
+      required: true
+    - id: 10
+      name: other_parties_involved
+      label: List names of other parties involved
+      hint: Individuals or companies
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: desired_outcome
+      label: What is your desired outcome from this litigation?
+      hint: e.g., Compensation, Injunction, Specific Performance
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: prior_representation
+      label: Have you previously consulted an attorney regarding this matter?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 13
+      name: urgency_deadlines
+      label: Are you aware of any upcoming deadlines or court dates?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: insurance_coverage
+      label: Do you have insurance that might cover this claim?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Sure
+      required: false
+    - id: 15
+      name: hear_about_firm
+      label: How did you hear about our law firm?
+      hint: null
+      type: select_one
+      options:
+      - Online Search
+      - Referral (Friend/Family)
+      - Bar Association
+      - Advertisement
+      - Other
+      required: false
+    - id: 16
+      name: intake_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true

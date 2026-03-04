@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fintech Role Aptitude Exam
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: question_1
+      label: What is your favorite programming language?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Java''}'
+      - '{''id'': 2, ''label'': ''Python''}'
+      - '{''id'': 3, ''label'': ''C++''}'
+      - '{''id'': 4, ''label'': ''JavaScript''}'
+      required: false
+    - id: 5
+      name: question_2
+      label: What is your favorite database system?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''MySQL''}'
+      - '{''id'': 2, ''label'': ''MongoDB''}'
+      - '{''id'': 3, ''label'': ''PostgreSQL''}'
+      - '{''id'': 4, ''label'': ''SQLite''}'
+      required: false
+    - id: 6
+      name: question_3
+      label: How many years of experience do you have with IT?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: question_4
+      label: What is your favorite operating system?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Windows''}'
+      - '{''id'': 2, ''label'': ''Linux''}'
+      - '{''id'': 3, ''label'': ''macOS''}'
+      - '{''id'': 4, ''label'': ''ChromeOS''}'
+      required: false
+    - id: 8
+      name: question_5
+      label: How many hours per week do you spend on IT?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: question_6
+      label: What is your favorite programming framework?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Spring''}'
+      - '{''id'': 2, ''label'': ''Django''}'
+      - '{''id'': 3, ''label'': ''React''}'
+      - '{''id'': 4, ''label'': ''Angular''}'
+      - '{''id'': 5, ''label'': ''Node.js''}'
+      required: false
+    - id: 10
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

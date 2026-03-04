@@ -1,0 +1,113 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Electrical Installation Check Status
+    pages:
+    - id: 1
+      name: electrical_installation_check_status
+      label: Electrical Installation Check Status
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: electrical_systems_checked
+      label: Electrical Systems Checked
+      hint: List all electrical systems checked during the inspection.
+      type: select_multiple
+      options:
+      - Panel 1
+      - Panel 2
+      - Panel 3
+      - Panel 4
+      - Panel 5
+      required: false
+    - id: 3
+      name: electrical_systems_condition
+      label: Electrical Systems Condition
+      hint: Check the condition of each electrical system (e.g. good, fair, poor).
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 4
+      name: electrical_systems_risk
+      label: Electrical Systems Risk
+      hint: Assess the risk level of each electrical system (e.g. low, medium, high).
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 5
+      name: electrical_connections
+      label: Electrical Connections
+      hint: Check the condition of all electrical connections.
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 6
+      name: electrical_components
+      label: Electrical Components
+      hint: List all electrical components (e.g. outlets, switches, etc.).
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: electrical_systems_inspected
+      label: Electrical Systems Inspected
+      hint: Check the systems that were inspected (e.g. HVAC, electrical, plumbing,
+        etc.).
+      type: select_multiple
+      options:
+      - HVAC
+      - Electrical
+      - Plumbing
+      required: false
+    - id: 8
+      name: electrical_inspection_date
+      label: Electrical Inspection Date
+      hint: Date of the electrical inspection.
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: electrical_inspection_time
+      label: Electrical Inspection Time
+      hint: Time of the electrical inspection.
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: electrical_inspection_notes
+      label: Electrical Inspection Notes
+      hint: Any additional notes from the electrical inspection.
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: electrical_inspection_result
+      label: Electrical Inspection Result
+      hint: Result of the electrical inspection.
+      type: select_one
+      options:
+      - Passed
+      - Failed
+      required: false

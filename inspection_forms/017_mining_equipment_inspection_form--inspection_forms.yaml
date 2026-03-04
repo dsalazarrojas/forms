@@ -1,0 +1,126 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mining Equipment Inspection Form
+    pages:
+    - id: 1
+      name: equipment_type
+      label: Mining Equipment Type
+      hint: null
+      type: select_one
+      options:
+      - Heavy Equipment
+      - Hand Tools
+      - Other
+      required: false
+    - id: 2
+      name: equipment_location
+      label: equipment_location
+      hint: null
+      type: select_multiple
+      options:
+      - Pit
+      - Surface
+      - Workshop
+      - Other
+      required: false
+    - id: 3
+      name: inspection_date
+      label: inspection_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: inspection_time
+      label: inspection_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: last_inspection_date
+      label: last_inspection_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: next_inspection_due
+      label: Next Inspection Due
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: findings
+      label: Findings
+      hint: Describe any problems or issues observed during the inspection
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: actions_taken
+      label: Actions Taken
+      hint: Describe any actions taken to address the issues mentioned above
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: equipment_status
+      label: Equipment Status
+      hint: null
+      type: select_one
+      options:
+      - Working
+      - Non-Working
+      - Offline
+      - Unknown
+      required: false
+    - id: 11
+      name: assigned_inspector
+      label: Assigned Inspector
+      hint: null
+      type: select_multiple
+      options:
+      - chatjimmy
+      - Other
+      required: false
+    - id: 12
+      name: inspection_frequency
+      label: Inspection Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Bi-Annually
+      - Annually
+      required: false
+    - id: 13
+      name: inspection_responsible_party
+      label: Inspection Responsible Party
+      hint: null
+      type: select_multiple
+      options:
+      - Maintenance
+      - Production
+      - Safety
+      - Other
+      required: false
+    - id: 14
+      name: notes
+      label: Notes
+      hint: Additional information prophets can be added here
+      type: note
+      options: []
+      required: false

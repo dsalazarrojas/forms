@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Private Inspections Disclosure Form
+    pages:
+    - id: 1
+      name: section_inspector_info
+      label: -- Inspector Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: inspector_name
+      label: Inspector Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: inspector_id
+      label: Inspector ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: inspection_agency
+      label: Inspection Agency
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: contact_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_property_info
+      label: -- Property Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: property_owner
+      label: Property Owner Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - Residential
+      - Commercial
+      - Industrial
+      - Mixed use
+      - Other
+      required: true
+    - id: 11
+      name: inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: section_covid_disclosure
+      label: -- COVID-19 Disclosure --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: covid_cases
+      label: Known COVID-19 cases at property?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 14
+      name: case_details
+      label: Details of COVID-19 cases
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: quarantine_status
+      label: Property or occupants currently in quarantine?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 16
+      name: section_safety_measures
+      label: -- Safety Measures --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: safety_measures
+      label: COVID-19 Safety Measures in Place
+      hint: null
+      type: select_multiple
+      options:
+      - Sanitization protocol
+      - Ventilation improvements
+      - Isolation areas
+      - PPE available
+      - Hand sanitizer stations
+      - Social distancing markers
+      - Deep cleaning schedule
+      - Mask requirements
+      - Other
+      required: true
+    - id: 18
+      name: section_findings
+      label: -- Inspection Findings --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: compliance_status
+      label: COVID-19 Safety Compliance Status
+      hint: null
+      type: select_one
+      options:
+      - Compliant
+      - Needs improvement
+      - Non-compliant
+      - Unable to determine
+      required: true
+    - id: 20
+      name: findings_details
+      label: Detailed Findings
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: recommendations
+      label: Recommendations for Improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: section_authorization
+      label: -- Authorization --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: inspector_signature
+      label: Inspector Signature Confirmation
+      hint: null
+      type: select_one
+      options:
+      - I confirm the accuracy of this report
+      - I do not confirm this report
+      required: true
+    - id: 24
+      name: report_date
+      label: Report Date
+      hint: null
+      type: date
+      options: []
+      required: true

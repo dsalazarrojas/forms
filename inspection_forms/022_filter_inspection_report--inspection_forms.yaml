@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: Filter Inspection Report
+    pages:
+    - id: 1
+      name: inspection_form
+      label: filter_inspection_form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: filter_condition
+      label: filter_condition
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: filter_result
+      label: filter_result
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: inspection_date
+      label: inspection_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: inspection_time
+      label: inspection_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: maintenance_plan
+      label: maintenance_plan
+      hint: null
+      type: note
+      options: []
+      required: false

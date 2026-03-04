@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: photography_payment_plan_form
+    pages:
+    - id: 1
+      name: photography_payment
+      label: Payment
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: date_of_shoot
+      label: Date of shoot
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: photographer
+      label: Photographer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: client
+      label: Client
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: services
+      label: Services
+      hint: null
+      type: select_multiple
+      options:
+      - Photography
+      - Editing
+      - Delivery
+      required: false
+    - id: 6
+      name: price
+      label: Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: payment_method
+      label: Payment method
+      hint: null
+      type: select_one
+      options:
+      - Bank transfer
+      - Cash
+      - Card
+      required: false
+    - id: 8
+      name: bank_transfer_details
+      label: Bank transfer details
+      hint: null
+      type: text
+      options: []
+      required: false

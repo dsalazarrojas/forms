@@ -1,0 +1,138 @@
+inputSchema:
+  type: object
+  properties:
+    title: nephrology_discharge_form
+    pages:
+    - id: 1
+      name: general_info
+      label: General Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_info
+      label: Patient Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: medications
+      label: Medications
+      hint: null
+      type: select_multiple
+      options:
+      - Furosemide
+      - Metformin
+      - Enalapril
+      - Prednisone
+      - Lisinopril
+      required: false
+    - id: 5
+      name: vital_signs
+      label: Vital Signs
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: laboratory_info
+      label: Laboratory Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: discharge_info
+      label: Discharge Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: follow_up_info
+      label: Follow-up Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: physician_comments
+      label: Physician Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: patient_comments
+      label: Patient Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: hospital_name
+      label: Hospital Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      required: true
+    - id: 13
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: date_of_discharge
+      label: Date of Discharge
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: time_of_discharge
+      label: Time of Discharge
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 17
+      name: discharge_diagnosis
+      label: Discharge Diagnosis
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: discharge_summary
+      label: Discharge Summary
+      hint: null
+      type: text
+      options: []
+      required: true

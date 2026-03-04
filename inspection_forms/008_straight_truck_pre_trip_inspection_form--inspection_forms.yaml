@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Straight Truck Pre Trip Inspection Form
+    pages:
+    - id: 1
+      name: driver_name
+      label: Driver Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vehicle_year
+      label: vehicle_year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: vehicle_make
+      label: vehicle_make
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: vehicle_model
+      label: vehicle_model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: vehicle_plate
+      label: Vehicle Plate
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: vehicle_weight
+      label: Vehicle Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: vehicle_length
+      label: Vehicle Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: vehicle_width
+      label: Vehicle Width
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: vehicle_height
+      label: Vehicle Height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: vehicle_type
+      label: Vehicle Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: vehicle_condition
+      label: Vehicle Condition
+      hint: null
+      type: select_one
+      options:
+      - New
+      - Used
+      - Both
+      required: false
+    - id: 12
+      name: engine_type
+      label: Engine Type
+      hint: null
+      type: select_multiple
+      options:
+      - Gasoline
+      - Diesel
+      - Dual
+      required: false
+    - id: 13
+      name: fuel_type
+      label: Fuel Type
+      hint: null
+      type: select_multiple
+      options:
+      - Gas
+      - Diesel
+      - Both
+      required: false
+    - id: 14
+      name: vehicle_speed
+      label: Vehicle Speed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: vehicle_location
+      label: Vehicle Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: driver_license
+      label: Driver License
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: vehicle_inspection
+      label: Vehicle Inspection
+      hint: null
+      type: select_one
+      options:
+      - Pre-Trip
+      - Post-Trip
+      - Both
+      required: false
+    - id: 18
+      name: vehicle_defect
+      label: Vehicle Defect
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: driver_comments
+      label: Driver Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: vehicle_comments
+      label: Vehicle Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: vehicle_condition_comments
+      label: Vehicle Condition Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: vehicle_defect_details
+      label: Vehicle Defect Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: driver_signature
+      label: Driver Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: vehicle_signature_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: vehicle_signature_hour
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false

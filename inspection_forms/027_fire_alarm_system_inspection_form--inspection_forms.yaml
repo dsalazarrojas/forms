@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: fire_alarm_system_inspection_form
+    pages:
+    - id: 1
+      name: fire_alarm_system_inspection
+      label: fire_alarm_system_inspection
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: inspection_location
+      label: inspection_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: fire_alarm_system_description
+      label: fire_alarm_system_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: fire_alarm_system_inspection_frequency
+      label: fire_alarm_system_inspection_frequency
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: last_test_date
+      label: last_test_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: last_test_result
+      label: last_test_result
+      hint: null
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      - Unknown
+      required: false
+    - id: 7
+      name: system_test_result_description
+      label: system_test_result_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: fire_alarm_system_inspection_comments
+      label: fire_alarm_system_inspection_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: fire_alarm_system_inspection_recommendations
+      label: fire_alarm_system_inspection_recommendations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: assigned_inspector_name
+      label: assigned_inspector_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: assigned_inspector_phone
+      label: assigned_inspector_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: assigned_inspector_email
+      label: assigned_inspector_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: inspection_signature
+      label: inspection_signature
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,183 @@
+inputSchema:
+  type: object
+  properties:
+    title: Personal Injury Intake Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_number
+      label: Contact Number
+      hint: Required
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: insurance_type
+      label: Insurance Type
+      hint: null
+      type: select_multiple
+      options:
+      - Automobile
+      - Workers Compensation
+      - Workers Comp
+      required: false
+    - id: 5
+      name: injury_date
+      label: Injury Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: injury_time
+      label: Injury Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: location_of_injury
+      label: Location of Injury
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: witness_statement
+      label: Witness Statement
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 9
+      name: client_statement
+      label: Client Statement
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 10
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: upload_documents
+      label: Upload Documents
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 12
+      name: insurance_documents
+      label: Insurance Documents
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 13
+      name: upload_pictures
+      label: Upload Pictures
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 14
+      name: upload_videos
+      label: Upload Videos
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 15
+      name: medical_info
+      label: Medical Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: medical_experts
+      label: Medical Experts
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: law_firm
+      label: Law Firm
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: law_firm_attorney
+      label: Law Firm Attorney
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: attorney
+      label: Attorney
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: attorney_name
+      label: Attorney Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: case_number
+      label: Case Number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: case_status
+      label: Case Status
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: case_notes
+      label: Case Notes
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: insurance_company
+      label: Insurance Company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: insurance_claim
+      label: Insurance Claim
+      hint: null
+      type: text
+      options: []
+      required: true

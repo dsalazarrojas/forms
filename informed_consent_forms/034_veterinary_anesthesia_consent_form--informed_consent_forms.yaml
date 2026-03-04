@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: veterinary_anesthesia_consent_form
+    pages:
+    - id: 1
+      name: owner_info
+      label: owner_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: pet_info
+      label: pet_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: procedure_info
+      label: procedure_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: anesthesia_type
+      label: anesthesia_type
+      hint: null
+      type: select_one
+      options:
+      - General Anesthesia
+      - Sedation
+      - Regional Anesthesia
+      - Other
+      required: false
+    - id: 5
+      name: anesthesia_dosage
+      label: anesthesia_dosage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: medical_history
+      label: medical_history
+      hint: null
+      type: select_multiple
+      options:
+      - Allergies
+      - Surgery History
+      - Medical Conditions
+      - Other
+      required: false
+    - id: 7
+      name: owner_signature
+      label: owner_signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: veterinarian_signature
+      label: veterinarian_signature
+      hint: null
+      type: note
+      options: []
+      required: false

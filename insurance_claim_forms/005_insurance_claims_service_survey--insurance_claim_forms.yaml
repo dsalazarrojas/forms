@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Insurance Claims Service Survey
+    pages:
+    - id: 1
+      name: claim_satisfaction
+      label: How satisfied are you with our claims service?
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 2
+      name: claim_speed
+      label: How quickly were your claims resolved?
+      hint: null
+      type: select_one
+      options:
+      - Fast
+      - Medium
+      - Slow
+      required: true
+    - id: 3
+      name: communication
+      label: How would you rate the communication with your claims adjuster?
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Poor
+      required: true
+    - id: 4
+      name: claim_process
+      label: How easy was the claims process?
+      hint: null
+      type: select_one
+      options:
+      - Easy
+      - Difficult
+      - Neutral
+      required: true
+    - id: 5
+      name: claim_outcome
+      label: How would you rate the outcome of your claim?
+      hint: null
+      type: select_one
+      options:
+      - Satisfactory
+      - Unsatisfactory
+      - Neutral
+      required: true
+    - id: 6
+      name: claim_comments
+      label: Comments about your claim experience?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_details
+      label: Your contact details
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: claim_date
+      label: What date did you file your claim?
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: claim_time
+      label: What time did you file your claim?
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: contact_phone
+      label: Your phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: contact_email
+      label: Your email
+      hint: null
+      type: email
+      options: []
+      required: true

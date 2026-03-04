@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: Funeral Program Questionnaire
+    pages:
+    - id: 1
+      name: personal_information
+      label: Personal Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: family_information
+      label: Family Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: funeral_date
+      label: Funeral Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time_of_funeral
+      label: Time of Funeral
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: burial_grounds
+      label: Burial Grounds
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: true
+    - id: 6
+      name: location_of_funeral
+      label: Location of Funeral
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: funeral_home
+      label: Funeral Home
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: clergy_name
+      label: Clergy Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: officiant_information
+      label: Officiant Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: obituary
+      label: Obituary
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: obituary_details
+      label: Obituary Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: burial_preferences
+      label: Burial Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: casket
+      label: Casket
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: casket_type
+      label: Casket Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: headstone
+      label: Headstone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: headstone_type
+      label: Headstone Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: urn
+      label: Urn
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: urn_type
+      label: Urn Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: cremation
+      label: Cremation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: body_donation
+      label: Body Donation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: organ_donation
+      label: Organ Donation
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: true
+    - id: 25
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

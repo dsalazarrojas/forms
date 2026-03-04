@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: Infrastructure Project Inquiry Form
+    pages:
+    - id: 1
+      name: project_name
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: project_description
+      label: Project Description
+      hint: Briefly describe the project
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: project_type
+      label: Project Type
+      hint: null
+      type: select_multiple
+      options:
+      - Construction
+      - Engineering
+      - Other
+      required: false
+    - id: 5
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: contact_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - Draft
+      - In Progress
+      - Completed
+      required: false
+    - id: 10
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - Administrator
+      - User
+      - Guest
+      required: false
+    - id: 11
+      name: priority_level
+      label: Priority Level
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 12
+      name: project_lead
+      label: Project Lead
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: project_manager
+      label: Project Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: project_supervisor
+      label: Project Supervisor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: project_coordinator
+      label: Project Coordinator
+      hint: null
+      type: text
+      options: []
+      required: false

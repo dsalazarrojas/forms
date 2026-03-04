@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: Plug Quality Assurance Sign Off
+    pages:
+    - id: 1
+      name: plug_quality_assurance_sign_off
+      label: plugQualityAssuranceSignOff
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: plugunitnumber
+      label: plugUnitNumber
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: plugqualityassurancesignoffnumber
+      label: plugQualityAssuranceSignOffNumber
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: signoffdate
+      label: signOffDate
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: inspectiondate
+      label: inspectionDate
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: inspectorname
+      label: inspectorName
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: inspectorid
+      label: inspectorId
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: signoffby
+      label: signOffBy
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: plugtype
+      label: plugType
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 10
+      name: qualityassuranceresults
+      label: qualityAssuranceResults
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      - Option 6
+      required: true
+    - id: 11
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: plugqualityassurancesignoffstatus
+      label: plugQualityAssuranceSignOffStatus
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      - Option 6
+      required: true
+    - id: 13
+      name: plugqualityassurancesignoffoutcome
+      label: plugQualityAssuranceSignOffOutcome
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      required: true
+    - id: 14
+      name: plugqualityassurancesignoffreason
+      label: plugQualityAssuranceSignOffReason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: plugqualityassurancesignoffoutcomereason
+      label: plugQualityAssuranceSignOffOutcomeReason
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      - Option 6
+      required: false
+    - id: 16
+      name: plugqualityassurancesignoffoutcomedate
+      label: plugQualityAssuranceSignOffOutcomeDate
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: plugqualityassurancesignoffoutcometime
+      label: plugQualityAssuranceSignOffOutcomeTime
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: plugqualityassurancesignoffoutcomecomments
+      label: plugQualityAssuranceSignOffOutcomeComments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: approvedby
+      label: approvedBy
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: signedoffby
+      label: signedOffBy
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: plugqualityassurancesignoffdate
+      label: plugQualityAssuranceSignOffDate
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: plugqualityassurancesignofftime
+      label: plugQualityAssuranceSignOffTime
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: plugqualityassurancesignoffnotes
+      label: plugQualityAssuranceSignOffNotes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: plugqualityassurancesignoffattachments
+      label: plugQualityAssuranceSignOffAttachments
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      required: false
+    - id: 25
+      name: plugqualityassurancesignoff
+      label: plugQualityAssuranceSignOff
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true

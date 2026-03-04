@@ -1,0 +1,151 @@
+inputSchema:
+  type: object
+  properties:
+    title: Claimant Driver Statement
+    pages:
+    - id: 1
+      name: section_claimant_info
+      label: -- Claimant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Enter your legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: driver_license_number
+      label: Driver's License Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: section_accident_details
+      label: -- Accident Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: date_of_accident
+      label: Date of Accident
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: time_of_accident
+      label: Time of Accident
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: location_of_accident
+      label: Location of Accident
+      hint: Provide street address or intersection
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: vehicle_speed
+      label: Estimated Speed at Time of Impact (MPH)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: weather_conditions
+      label: Weather Conditions
+      hint: null
+      type: select_one
+      options:
+      - Clear
+      - Raining
+      - Snowing
+      - Foggy
+      - Other
+      required: true
+    - id: 12
+      name: road_conditions
+      label: Road Conditions
+      hint: null
+      type: select_one
+      options:
+      - Dry
+      - Wet
+      - Icy
+      - Under Construction
+      required: true
+    - id: 13
+      name: section_narrative
+      label: -- Statement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: accident_description
+      label: Detailed Description of Accident
+      hint: Please describe the events leading up to and during the accident
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: injuries_sustained
+      label: Were there any injuries?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 16
+      name: injury_description
+      label: Describe Injuries (if any)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: damage_description
+      label: Describe Damage to Your Vehicle
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: police_at_scene
+      label: Did police attend the scene?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 19
+      name: police_report_number
+      label: Police Report Number
+      hint: null
+      type: text
+      options: []
+      required: false

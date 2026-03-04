@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Crane Inspection Checklist
+    pages:
+    - id: 1
+      name: crane_inspection_checklist_1
+      label: crane_inspection_checklist_1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: crane_inspection_checklist_2
+      label: checklist_items
+      hint: null
+      type: select_multiple
+      options:
+      - item_1
+      - item_2
+      - item_3
+      required: false
+    - id: 3
+      name: crane_inspection_checklist_3
+      label: inspection_frequency
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: crane_inspection_checklist_4
+      label: inspection_status
+      hint: null
+      type: select_one
+      options:
+      - passed
+      - failed
+      - pending
+      required: false
+    - id: 5
+      name: crane_inspection_checklist_5
+      label: inspection_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: crane_inspection_checklist_6
+      label: inspection_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: crane_inspection_checklist_7
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: crane_inspection_checklist_8
+      label: crane_model
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: crane_inspection_checklist_9
+      label: manufacturer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: crane_inspection_checklist_10
+      label: inspection_frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: crane_inspection_checklist_11
+      label: inspection_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: crane_inspection_checklist_12
+      label: inspection_by
+      hint: null
+      type: text
+      options: []
+      required: false

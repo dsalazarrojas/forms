@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: facility_virtual_inspection_consent_form
+    pages:
+    - id: 1
+      name: user_details
+      label: User Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: preferred_inspection_time
+      label: Preferred Inspection Time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: consent
+      label: Consent
+      hint: null
+      type: select_one
+      options:
+      - I consent
+      - I do not consent
+      required: false
+    - id: 4
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: facility_manager_email
+      label: Facility Manager Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: facility_manager_phone
+      label: Facility Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: facility_manager_name
+      label: Facility Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: facility_id
+      label: Facility ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: property_id
+      label: Property ID
+      hint: null
+      type: number
+      options: []
+      required: false

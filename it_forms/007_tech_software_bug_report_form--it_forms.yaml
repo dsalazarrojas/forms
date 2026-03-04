@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tech Software Bug Report Form
+    pages:
+    - id: 1
+      name: user_input_1
+      label: bug_reporter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: bug_description_1
+      label: bug_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: bug_steps_1
+      label: bug_steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: expected_browse
+      label: expected_browse
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: expected_view
+      label: expected_view
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: bug_category_1
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: report_date_1
+      label: report_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: reported_by_1
+      label: reported_by
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: product_versions_1
+      label: product_versions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: product_versions_2
+      label: product_version
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

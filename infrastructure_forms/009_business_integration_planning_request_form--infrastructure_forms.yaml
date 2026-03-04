@@ -1,0 +1,231 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Business Integration Planning Request Form
+    pages:
+      - id: 1
+        name: requestor_name
+        label: Requestor Name
+        hint: Your full name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: requestor_email
+        label: Requestor Email
+        hint: Your email address
+        type: email
+        options: []
+        required: true
+      - id: 3
+        name: requestor_department
+        label: Requestor Department
+        hint: Your department
+        type: select_one
+        options:
+          - IT
+          - Operations
+          - Finance
+          - Sales
+          - Marketing
+          - Human Resources
+          - Executive
+          - Other
+        required: true
+      - id: 4
+        name: request_date
+        label: Request Date
+        hint: Date of submission
+        type: date
+        options: []
+        required: true
+      - id: 5
+        name: project_name
+        label: Project Name
+        hint: Name of integration project
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: project_description
+        label: Project Description
+        hint: Brief description of integration needs
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: business_objectives
+        label: Business Objectives
+        hint: What business goals will this integration achieve
+        type: select_multiple
+        options:
+          - Process automation
+          - Data consolidation
+          - Improved reporting
+          - Cost reduction
+          - Enhanced customer experience
+          - Increased efficiency
+          - Better compliance
+          - Scalability
+        required: true
+      - id: 8
+        name: systems_to_integrate
+        label: Systems to Integrate
+        hint: Select all systems requiring integration
+        type: select_multiple
+        options:
+          - CRM system
+          - ERP system
+          - Accounting software
+          - HR management system
+          - E-commerce platform
+          - Marketing automation
+          - Inventory management
+          - Customer support
+          - Business intelligence
+          - Custom application
+          - Other
+        required: true
+      - id: 9
+        name: current_system_details
+        label: Current System Details
+        hint: List current systems and versions
+        type: text
+        options: []
+        required: true
+      - id: 10
+        name: integration_type
+        label: Integration Type
+        hint: Type of integration needed
+        type: select_one
+        options:
+          - Real-time sync
+          - Batch processing
+          - One-way data transfer
+          - Two-way sync
+          - API integration
+          - Database integration
+          - File-based integration
+        required: true
+      - id: 11
+        name: data_volume
+        label: Estimated Data Volume
+        hint: Approximate records or transactions per day
+        type: select_one
+        options:
+          - Under 1K
+          - 1K to 10K
+          - 10K to 100K
+          - 100K to 1M
+          - Over 1M
+        required: true
+      - id: 12
+        name: timeline_expectations
+        label: Expected Timeline
+        hint: When should integration be complete
+        type: select_one
+        options:
+          - Urgent - within 2 weeks
+          - Within 1 month
+          - Within 3 months
+          - Within 6 months
+          - Flexible
+        required: true
+      - id: 13
+        name: target_completion_date
+        label: Target Completion Date
+        hint: Desired completion date
+        type: date
+        options: []
+        required: false
+      - id: 14
+        name: budget_range
+        label: Budget Range
+        hint: Estimated budget for integration
+        type: select_one
+        options:
+          - Under $10K
+          - $10K to $25K
+          - $25K to $50K
+          - $50K to $100K
+          - $100K to $250K
+          - Over $250K
+        required: false
+      - id: 15
+        name: technical_resources
+        label: Available Technical Resources
+        hint: Internal technical support available
+        type: select_one
+        options:
+          - Dedicated IT team
+          - Part-time IT support
+          - External consultants
+          - No internal support
+        required: true
+      - id: 16
+        name: security_requirements
+        label: Security Requirements
+        hint: Select all applicable security needs
+        type: select_multiple
+        options:
+          - Data encryption
+          - Access controls
+          - Audit logging
+          - Compliance reporting
+          - Multi-factor authentication
+          - Data masking
+          - Secure file transfer
+        required: true
+      - id: 17
+        name: compliance_requirements
+        label: Compliance Requirements
+        hint: Regulatory compliance needs
+        type: select_multiple
+        options:
+          - GDPR
+          - HIPAA
+          - SOC 2
+          - PCI DSS
+          - SOX
+          - ISO 27001
+          - None
+        required: false
+      - id: 18
+        name: stakeholders
+        label: Key Stakeholders
+        hint: List all stakeholders involved
+        type: text
+        options: []
+        required: true
+      - id: 19
+        name: success_criteria
+        label: Success Criteria
+        hint: How will you measure integration success
+        type: text
+        options: []
+        required: true
+      - id: 20
+        name: potential_challenges
+        label: Potential Challenges
+        hint: Anticipated obstacles or concerns
+        type: text
+        options: []
+        required: false
+      - id: 21
+        name: additional_requirements
+        label: Additional Requirements
+        hint: Any other requirements or considerations
+        type: text
+        options: []
+        required: false

@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: credit_card_transaction_form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: billing_address
+      label: Billing Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: card_number
+      label: Card Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: expiration_date
+      label: Expiration Date
+      hint: mm/yy
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: cvv
+      label: CVV
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: card_type
+      label: Card Type
+      hint: null
+      type: select_one
+      options:
+      - Visa
+      - Mastercard
+      - American Express
+      - Discover
+      - Diners Club
+      required: true
+    - id: 9
+      name: cardholder_name
+      label: Cardholder Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: cardholder_address
+      label: Cardholder Address
+      hint: null
+      type: text
+      options: []
+      required: false

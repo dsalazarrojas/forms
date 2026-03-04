@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Legal Client Intake Form
+    pages:
+    - id: 1
+      name: legal_client_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: legal_client_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: legal_client_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: legal_client_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: legal_client_agreed
+      label: Agreed
+      hint: Please select one of the options below.
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: true
+    - id: 6
+      name: legal_client_agreed_other
+      label: Agreed Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: legal_client_date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: legal_client_time_of_birth
+      label: Time of Birth
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: legal_client_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: legal_client_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: legal_client_state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: legal_client_country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: legal_client_zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: legal_client_signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: legal_client_signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: false

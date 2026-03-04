@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Smart Sensor Network Upgrade Request Form
+    pages:
+    - id: 1
+      name: scope
+      label: Upgrade Scope
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: justification
+      label: What is the justification for this upgrade?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: impact
+      label: Impact
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: timelines
+      label: Preferred Timelines
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - IT
+      - Facilities
+      - Engineering
+      required: true
+    - id: 6
+      name: assigned_date
+      label: Assigned Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: requested_by
+      label: Requested By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: approved_by
+      label: Approved By
+      hint: null
+      type: select_one
+      options:
+      - IT
+      - Facilities
+      - Engineering
+      required: true
+    - id: 10
+      name: approved_date
+      label: Approved Date
+      hint: null
+      type: date
+      options: []
+      required: true

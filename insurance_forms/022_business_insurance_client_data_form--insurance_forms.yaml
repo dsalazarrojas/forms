@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Insurance Client Data Form
+    pages:
+    - id: 1
+      name: header
+      label: -- Client Data --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: business_name
+      label: Business name
+      hint: Legal or trading name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_name
+      label: Contact name
+      hint: Primary contact for insurance matters
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Contact email
+      hint: For policy communications
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Contact phone
+      hint: Business phone number
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: business_address
+      label: Business address
+      hint: Physical address of operations
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: industry
+      label: Industry
+      hint: Main industry sector
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: annual_revenue
+      label: Annual revenue
+      hint: Approximate yearly revenue
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: number_of_employees
+      label: Number of employees
+      hint: Total staff including part time
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: current_policies
+      label: Current policies
+      hint: List existing insurance policies
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Direct Primary Care Membership Enrollment
+    pages:
+    - id: 1
+      name: clinic_selection
+      label: Select a clinic
+      hint: null
+      type: select_one
+      options:
+      - Clinic A
+      - Clinic B
+      - Clinic C
+      required: false
+    - id: 2
+      name: membership_plan
+      label: Select a plan
+      hint: null
+      type: select_one
+      options:
+      - Basic Plan
+      - Premium Plan
+      - Deluxe Plan
+      required: false
+    - id: 3
+      name: member_details
+      label: Enter member details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: 'null'
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date
+      label: Date of Enrollement
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: Time of Enrollement
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: physician_details
+      label: Physician Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

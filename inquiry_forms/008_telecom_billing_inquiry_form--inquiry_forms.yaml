@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Telecom Billing Inquiry Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: issue_description
+      label: Issue Description
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 3
+      name: billing_date
+      label: Billing Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: telecom_provider
+      label: Telecom Provider
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: issue_details
+      label: Issue Details
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 6
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: assigned_agent
+      label: Assigned Agent
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: issue_status
+      label: Issue Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 10
+      name: follow_up_date
+      label: Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: customer_notes
+      label: Customer Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: agent_notes
+      label: Agent Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: telecom_billing_number
+      label: Telecom Billing Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: telecom_provider_name
+      label: Telecom Provider
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: customer_service_representative
+      label: Customer Service Representative
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: customer_service_representative_phone
+      label: Customer Service Representative Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: customer_service_representative_email
+      label: Customer Service Representative Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: customer_service_representative_name
+      label: Customer Service Representative
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: telecom_billing_number
+      label: Telecom Billing Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: telecom_billing_number
+      label: Telecom Billing Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: telecom_number
+      label: Telecom Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: telecom_number
+      label: Telecom Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: telecom_provider_number
+      label: Telecom Provider Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: telecom_provider_phone
+      label: Telecom Provider Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: telecom_provider_email
+      label: Telecom Provider Email
+      hint: null
+      type: email
+      options: []
+      required: false

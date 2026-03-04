@@ -1,0 +1,147 @@
+inputSchema:
+  type: object
+  properties:
+    title: Process Transformation Support Request Form
+    pages:
+    - id: 1
+      name: form_header
+      label: Form Header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: team_members
+      label: Team Members
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: team_lead
+      label: Team Lead
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: team_lead_email
+      label: Team Lead Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: problem_statement
+      label: Problem Statement
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: current_process
+      label: Current Process
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: ideal_process
+      label: Ideal Process
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: impact
+      label: Impact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: change_requestors
+      label: Change Requestors
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: support_requestor
+      label: Support Requestor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: support_requestor_email
+      label: Support Requestor Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: support_requestor_phone
+      label: Support Requestor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: support_requestor_message
+      label: Support Requestor Message
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: support_requestor_message_2
+      label: Support Requestor Message 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submitter
+      label: Submitter
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 17
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: submitter_message
+      label: Submitter Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: submitter_signature
+      label: Submitter Signature
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: submitter_time
+      label: Submitter Time
+      hint: null
+      type: time
+      options: []
+      required: false

@@ -1,0 +1,213 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tree Trimming Equipment Inspection Form
+    pages:
+    - id: 1
+      name: tree_trimming_equipment_id
+      label: Tree Trimming Equipment Id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: inspector_id
+      label: Inspector Id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: location_id
+      label: Location Id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: equipment_id
+      label: Equipment Id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: inspection_results
+      label: Inspection Results
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: is_equipment_safety_certified
+      label: Is Equipment Safety Certified
+      hint: null
+      type: select_multiple
+      options:
+      - Certified
+      - Not Certified
+      required: false
+    - id: 8
+      name: certified_by_inspector
+      label: Certified By
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Not Required
+      required: false
+    - id: 9
+      name: equipment_last_maintenance
+      label: Equipment Last Maintenance
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: equipment_next_maintenance_due_date
+      label: Equipment Next Maintenance Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: equipment_maintenance_frequency
+      label: Equipment Maintenance Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: has_operating_properly
+      label: Has Operating Properly
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 13
+      name: is_maintenance_required
+      label: Is Maintenance Required
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 14
+      name: has_safety_labels
+      label: Has Safety Labels
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 15
+      name: has_safety_harnesses
+      label: Has Safety Harnesses
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 16
+      name: has_safety_hats
+      label: Has Safety Hats
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 17
+      name: has_safety_gloves
+      label: Has Safety Gloves
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 18
+      name: has_safety_goggles
+      label: Has Safety Goggles
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 19
+      name: has_safety_kneepads
+      label: Has Safety Kneepads
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 20
+      name: has_safety_chaps
+      label: Has Safety Chaps
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 21
+      name: has_safety_vests
+      label: Has Safety Vests
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 22
+      name: has_safety_boots
+      label: Has Safety Boots
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 23
+      name: has_safety_gaiters
+      label: Has Safety Gaiters
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 24
+      name: has_safety_spectacles
+      label: Has Safety Spectacles
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 25
+      name: assigned_tool
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false

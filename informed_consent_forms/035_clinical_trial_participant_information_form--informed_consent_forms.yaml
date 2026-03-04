@@ -1,0 +1,370 @@
+inputSchema:
+  type: object
+  properties:
+    title: Clinical Trial Participant Information Form
+    pages:
+    - id: 1
+      name: form_header
+      label: Clinical Trial Participant Information Form
+      hint: This form collects essential information from clinical trial participants
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: study_id
+      label: Study ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: study_title
+      label: Study Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: site_id
+      label: Study Site ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: participant_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: participant_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      - Prefer not to say
+      required: true
+    - id: 10
+      name: race
+      label: Race
+      hint: null
+      type: select_one
+      options:
+      - American Indian or Alaska Native
+      - Asian
+      - Black or African American
+      - Native Hawaiian or Pacific Islander
+      - White
+      - Other
+      - Prefer not to say
+      required: false
+    - id: 11
+      name: ethnicity
+      label: Ethnicity
+      hint: null
+      type: select_one
+      options:
+      - Hispanic or Latino
+      - Not Hispanic or Latino
+      - Prefer not to say
+      required: false
+    - id: 12
+      name: address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: state
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: zip_code
+      label: Zip or Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 19
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: primary_care_physician
+      label: Primary Care Physician Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: pcp_phone
+      label: Primary Care Physician Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: insurance_provider
+      label: Health Insurance Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: insurance_policy_number
+      label: Insurance Policy Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: occupation
+      label: Current Occupation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: education_level
+      label: Education Level
+      hint: null
+      type: select_one
+      options:
+      - Less than High School
+      - High School Graduate
+      - Some College
+      - Associate Degree
+      - Bachelor Degree
+      - Graduate Degree
+      required: false
+    - id: 28
+      name: smoking_status
+      label: Smoking Status
+      hint: null
+      type: select_one
+      options:
+      - Never Smoked
+      - Former Smoker
+      - Current Smoker
+      required: false
+    - id: 29
+      name: alcohol_use
+      label: Alcohol Use
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Occasional
+      - Moderate
+      - Regular
+      - Former
+      required: false
+    - id: 30
+      name: primary_diagnosis
+      label: Primary Diagnosis or Condition
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 31
+      name: diagnosis_date
+      label: Date of Diagnosis
+      hint: Approximate
+      type: date
+      options: []
+      required: false
+    - id: 32
+      name: current_medications
+      label: Current Medications
+      hint: List all with dosages
+      type: text
+      options: []
+      required: true
+    - id: 33
+      name: medication_allergies
+      label: Medication Allergies
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 34
+      name: other_allergies
+      label: Other Allergies
+      hint: Food latex etc.
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: medical_history
+      label: Relevant Medical History
+      hint: Past surgeries conditions
+      type: text
+      options: []
+      required: true
+    - id: 36
+      name: family_medical_history
+      label: Family Medical History
+      hint: If relevant to study
+      type: text
+      options: []
+      required: false
+    - id: 37
+      name: previous_research_participation
+      label: Have You Participated in Research Before
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 38
+      name: consent_status
+      label: Informed Consent Status
+      hint: null
+      type: select_one
+      options:
+      - Signed
+      - Pending
+      - Declined
+      required: true
+    - id: 39
+      name: consent_date
+      label: Consent Date
+      hint: If signed
+      type: date
+      options: []
+      required: false
+    - id: 40
+      name: eligibility_status
+      label: Eligibility Status
+      hint: null
+      type: select_one
+      options:
+      - Eligible
+      - Screen Failed
+      - Pending Review
+      required: true
+    - id: 41
+      name: enrollment_date
+      label: Enrollment Date
+      hint: If eligible
+      type: date
+      options: []
+      required: false
+    - id: 42
+      name: how_did_you_hear
+      label: How Did You Hear About This Study
+      hint: null
+      type: select_one
+      options:
+      - Physician Referral
+      - Advertisement
+      - Website
+      - Social Media
+      - Friend or Family
+      - Patient Organization
+      - Other
+      required: false
+    - id: 43
+      name: transportation_needs
+      label: Do You Have Reliable Transportation
+      hint: For study visits
+      type: select_one
+      options:
+      - true
+      - false
+      - Sometimes
+      required: false
+    - id: 44
+      name: availability_for_visits
+      label: Availability for Study Visits
+      hint: null
+      type: select_one
+      options:
+      - Very Flexible
+      - Somewhat Flexible
+      - Limited Availability
+      - Very Limited
+      required: true
+    - id: 45
+      name: additional_comments
+      label: Additional Comments
+      hint: Anything else you would like to share
+      type: text
+      options: []
+      required: false

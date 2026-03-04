@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Homeowners Insurance Form Template
+    pages:
+    - id: 1
+      name: home_address
+      label: Home Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name_of_insured
+      label: Name Of Insured
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: Date Of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: home_type
+      label: Home Type
+      hint: null
+      type: select_multiple
+      options:
+      - House
+      - Apartment
+      - Condo
+      required: false
+    - id: 6
+      name: home_location
+      label: Home Location
+      hint: null
+      type: select_one
+      options:
+      - Urban
+      - Suburban
+      - Rural
+      required: false
+    - id: 7
+      name: home_year_built
+      label: Home Year Built
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: home_value
+      label: Home Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: home_insurance_status
+      label: Home Insurance Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Cancelled
+      - Expired
+      required: false
+    - id: 10
+      name: reason_for_cancel
+      label: Reason For Cancel
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,171 @@
+inputSchema:
+  type: object
+  properties:
+    title: FASTA File Analysis Submission
+    pages:
+    - id: 1
+      name: input_form
+      label: Input Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: input_fasta_file
+      label: Input Fasta File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: select_analysis_type
+      label: Select Analysis Type
+      hint: Select one of the following
+      type: select_one
+      options:
+      - '{''value'': ''Alignment''}'
+      - '{''value'': ''Gene prediction''}'
+      - '{''value'': ''Gene prediction and annotation''}'
+      required: false
+    - id: 4
+      name: input_file
+      label: Input File
+      hint: Select one file
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: select_sample_type
+      label: Sample Type
+      hint: Select one of the following
+      type: select_one
+      options:
+      - '{''value'': ''Genomic DNA''}'
+      - '{''value'': ''Genomic RNA''}'
+      - '{''value'': ''Metagenomic DNA''}'
+      - '{''value'': ''Metagenomic RNA''}'
+      required: false
+    - id: 6
+      name: select_project
+      label: Project
+      hint: Select one project
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: select_organism
+      label: Organism
+      hint: Select one of the following
+      type: select_one
+      options:
+      - '{''value'': ''Human''}'
+      - '{''value'': ''Mouse''}'
+      - '{''value'': ''Zebrafish''}'
+      required: false
+    - id: 8
+      name: select_organism_type
+      label: Organism Type
+      hint: Select one of the following
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: select_genome_size
+      label: Genome Size
+      hint: Select one of the following
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: select_genome_size_type
+      label: Genome Size Type
+      hint: Select one of the following
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: select_file_type
+      label: File Type
+      hint: Select one of the following
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: input_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: input_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: input_notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: upload_file
+      label: Upload File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: upload_additional_file
+      label: Upload Additional File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: select_additional_file_type
+      label: Additional File Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: select_additional_file_type_type
+      label: Additional File Type
+      hint: Select one of the following
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: select_sample_organism
+      label: Sample Organism
+      hint: Select one of the following
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: input_sample_notes
+      label: Sample Notes
+      hint: null
+      type: text
+      options: []
+      required: false

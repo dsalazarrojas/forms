@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Website Client Requirement Intake Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: project_type
+      label: Project Type
+      hint: null
+      type: select_one
+      options:
+      - Website Design
+      - IT Services
+      - Software Development
+      required: false
+    - id: 5
+      name: website_url
+      label: Website URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: requirements
+      label: Requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: deadline
+      label: Deadline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: assigned_developer
+      label: Assigned Developer
+      hint: null
+      type: select_one
+      options:
+      - John
+      - Jane
+      - Joe
+      required: false
+    - id: 10
+      name: assigned_designer
+      label: Assigned Designer
+      hint: null
+      type: select_one
+      options:
+      - John
+      - Jane
+      - Joe
+      required: false
+    - id: 11
+      name: status
+      label: Status
+      hint: null
+      type: select_multiple
+      options:
+      - In Progress
+      - Completed
+      - In Review
+      required: false
+    - id: 12
+      name: project_duration
+      label: Project Duration
+      hint: null
+      type: number
+      options: []
+      required: false

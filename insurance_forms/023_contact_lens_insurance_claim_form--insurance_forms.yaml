@@ -1,0 +1,211 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contact Lens Insurance Claim Form
+    pages:
+    - id: 1
+      name: claim_header
+      label: Contact Lens Insurance Claim Form
+      hint: Submit your claim for contact lens coverage
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_first_name
+      label: Patient First Name
+      hint: First name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_last_name
+      label: Patient Last Name
+      hint: Last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: patient_id
+      label: Patient ID Number
+      hint: Member ID
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: Patient DOB
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: policy_number
+      label: Insurance Policy Number
+      hint: Policy or group number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: group_number
+      label: Group Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: insurance_provider
+      label: Insurance Provider
+      hint: Company name
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: provider_name
+      label: Prescribing Doctor Name
+      hint: Eye care provider
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: provider_npi
+      label: Provider NPI Number
+      hint: National Provider Identifier
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: clinic_name
+      label: Clinic or Practice Name
+      hint: Facility name
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: service_date
+      label: Date of Service
+      hint: When lenses were prescribed
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: diagnosis_code
+      label: Diagnosis Code - ICD-10
+      hint: Primary diagnosis code
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: diagnosis_description
+      label: Diagnosis Description
+      hint: Condition being treated
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: lens_type
+      label: Type of Contact Lenses
+      hint: Lens category
+      type: select_one
+      options:
+      - Soft Spherical
+      - Soft Toric
+      - Soft Multifocal
+      - Rigid Gas Permeable
+      - Hybrid
+      - Scleral
+      - Prosthetic
+      required: true
+    - id: 16
+      name: medical_necessity
+      label: Medical Necessity Documentation
+      hint: Why lenses are medically necessary
+      type: select_one
+      options:
+      - Keratoconus
+      - Post-Surgical
+      - Severe Dry Eye
+      - High Refractive Error
+      - Corneal Scarring
+      - Cosmetic - Not Medically Necessary
+      required: true
+    - id: 17
+      name: lens_parameters
+      label: Lens Parameters
+      hint: Prescription details
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: quantity
+      label: Quantity of Lenses
+      hint: Number of lenses
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: unit_price
+      label: Price Per Lens
+      hint: Cost per lens
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: total_cost
+      label: Total Claim Amount
+      hint: Total cost
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: previous_claim
+      label: Have You Previously Claimed Contact Lenses
+      hint: Prior claims
+      type: select_one
+      options:
+      - Yes - Within 12 Months
+      - Yes - Over 12 Months Ago
+      - No - First Claim
+      required: true
+    - id: 22
+      name: supporting_documents
+      label: Supporting Documents Attached
+      hint: Upload receipts and prescription
+      type: select_one
+      options:
+      - Yes - All Documents Attached
+      - Partially - Some Documents
+      - Will Submit Separately
+      required: true
+    - id: 23
+      name: claimant_name
+      label: Claimant Name
+      hint: Person submitting claim
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: claimant_relationship
+      label: Relationship to Patient
+      hint: Self parent guardian etc
+      type: select_one
+      options:
+      - Self
+      - Parent
+      - Guardian
+      - Spouse
+      - Other
+      required: true
+    - id: 25
+      name: signature
+      label: Signature
+      hint: Digital signature
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: signature_date
+      label: Signature Date
+      hint: Date signed
+      type: date
+      options: []
+      required: true

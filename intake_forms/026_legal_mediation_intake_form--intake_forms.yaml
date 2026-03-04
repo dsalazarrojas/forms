@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Legal Mediation Intake Form
+    pages:
+    - id: 1
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: party_information
+      label: Party Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: legal_mediation_issues
+      label: Legal Mediation Issues
+      hint: Please list all issues that need to be addressed in mediation
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: party_participants
+      label: Party Participants
+      hint: List all individuals involved in the mediation
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: contact_preference
+      label: Contact Preference
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - Email and Phone
+      required: false
+    - id: 6
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: legal_background
+      label: Legal Background
+      hint: Please describe your legal background
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: mediation_goals
+      label: Mediation Goals
+      hint: What do you hope to achieve through mediation?
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: mediation_goals_1
+      label: Mediation Goals 1
+      hint: null
+      type: select_one
+      options:
+      - Mediate and Resolve
+      - Mediate and Arbitrate
+      - Mediate and Negotiate
+      required: false
+    - id: 10
+      name: mediation_goals_2
+      label: Mediation Goals 2
+      hint: null
+      type: select_one
+      options:
+      - Mediate and Resolve
+      - Mediate and Arbitrate
+      - Mediate and Negotiate
+      required: false

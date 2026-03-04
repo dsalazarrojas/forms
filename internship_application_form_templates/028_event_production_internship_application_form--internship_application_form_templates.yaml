@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event Production Internship Application Form
+    pages:
+    - id: 1
+      name: personal_details
+      label: Personal Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: education_details
+      label: Education Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: work_experience
+      label: Work Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: skills
+      label: Skills
+      hint: null
+      type: select_multiple
+      options:
+      - Data Analysis
+      - Data Visualization
+      - Data Mining
+      required: true
+    - id: 6
+      name: portfolio
+      label: Portfolio
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: referees
+      label: Referees
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: referees_email
+      label: Referees' Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: referees_phone
+      label: Referees' Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: referees_address
+      label: Referees' Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: referees_notes
+      label: Referees' Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: application_status
+      label: Application Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Declined
+      required: true
+    - id: 13
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: application_type
+      label: Application Type
+      hint: null
+      type: select_one
+      options:
+      - Internship
+      - Volunteer
+      - Full-time
+      required: true
+    - id: 15
+      name: application_form_id
+      label: Application Form ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: user_notes
+      label: User Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: created_by
+      label: Created by
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: updated_by
+      label: Updated by
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: created_date
+      label: Created Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: updated_date
+      label: Updated Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: form_version
+      label: Form Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: user_id
+      label: User ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: submission_status
+      label: Submission Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Declined
+      required: true
+    - id: 25
+      name: submission_date_time
+      label: Submission Date/Time
+      hint: null
+      type: date
+      options: []
+      required: false

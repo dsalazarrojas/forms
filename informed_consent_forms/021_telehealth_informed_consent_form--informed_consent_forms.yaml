@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: telehealth_informed_consent_form
+    pages:
+    - id: 1
+      name: user_info
+      label: user_info
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: telehealth_provider_name
+      label: telehealth_provider_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: patient_signature_date
+      label: patient_signature_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: provider_signature_date
+      label: provider_signature_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: patient_signature
+      label: patient_signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: provider_signature
+      label: provider_signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: patient_consent
+      label: patient_consent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: provider_consent
+      label: provider_consent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: date_of_last_contact
+      label: date_of_last_contact
+      hint: null
+      type: date
+      options: []
+      required: false

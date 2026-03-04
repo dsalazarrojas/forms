@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: Overcurrent Protection Checklist
+    pages:
+    - id: 1
+      name: inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: inspector_name
+      label: Inspector Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: device_address
+      label: Device Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: circuit_description
+      label: Circuit Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: equipment_description
+      label: Equipment Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: overcurrent_protection_devices
+      label: Overcurrent Protection Devices
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: inspection_result
+      label: Inspection Result
+      hint: null
+      type: select_one
+      options:
+      - Not Applicable
+      - Passed
+      - Failed
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: facility_manager_name
+      label: Facility Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: facility_manager_email
+      label: Facility Manager Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: assigned_inspector
+      label: Assigned Inspector
+      hint: null
+      type: select_one
+      options:
+      - Jimmy
+      - Jane
+      required: false
+    - id: 13
+      name: inspection_frequency
+      label: Inspection Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 14
+      name: inspection_status
+      label: Inspection Status
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - Scheduled
+      required: false

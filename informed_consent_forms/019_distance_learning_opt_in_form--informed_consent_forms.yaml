@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Distance Learning Opt In Form
+    pages:
+    - id: 1
+      name: distance_learning_opt_in_form
+      label: distance_learning_opt_in_form
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: school_plan_form
+      label: school_plan_form
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1''}'
+      - '{''label'': ''Option 2''}'
+      required: true
+    - id: 3
+      name: students_enrolled
+      label: students_enrolled
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: students_who_did_not_enroll
+      label: students_who_did_not_enroll
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: reasons_for_not_enrolling
+      label: reasons_for_not_enrolling
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: school_name
+      label: school_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: students_count
+      label: students_count
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: date_conducted
+      label: date_conducted
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: time_conducted
+      label: time_conducted
+      hint: null
+      type: time
+      options: []
+      required: true

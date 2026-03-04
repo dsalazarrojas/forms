@@ -1,0 +1,29 @@
+inputSchema:
+  type: object
+  properties:
+    title: IT Talent Cost Estimator
+    pages:
+    - id: 1
+      name: role_type
+      label: Role Type
+      hint: null
+      type: select_multiple
+      options:
+      - Software Engineer
+      - Data Scientist
+      - Product Manager
+      required: false
+    - id: 2
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: duration
+      label: Duration
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,139 @@
+inputSchema:
+  type: object
+  properties:
+    title: Faith Based Counseling Session Consent Form
+    pages:
+    - id: 1
+      name: faith_based_counseling_session_consent_form
+      label: Form Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_details
+      label: Client Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date_of_birth
+      label: Date Of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: social_security_number
+      label: Social Security Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: date_of_last_visit
+      label: Date Of Last Visit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: reason_for_counseling
+      label: Reason For Counseling
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: session_goals
+      label: Session Goals
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: session_duration
+      label: Session Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: session_frequency
+      label: Session Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Once'', ''value'': ''once''}'
+      - '{''label'': ''Weekly'', ''value'': ''weekly''}'
+      - '{''label'': ''Bi-Weekly'', ''value'': ''biweekly''}'
+      - '{''label'': ''Monthly'', ''value'': ''monthly''}'
+      required: false
+    - id: 15
+      name: session_start_time
+      label: Session Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: session_end_time
+      label: Session End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: session_length
+      label: Session Length (min.)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: session_frequency_flexible
+      label: Flexible Session Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

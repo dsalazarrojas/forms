@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fire Alarm Reinstallation Request Form
+    pages:
+    - id: 1
+      name: property_id
+      label: Property Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: property_name
+      label: property name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: fire_alarm_type
+      label: fire alarm type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''System''}'
+      - '{''value'': ''Panel''}'
+      - '{''value'': ''Combination''}'
+      required: false
+    - id: 4
+      name: system_description
+      label: system description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: visit_date
+      label: visit date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: visit_time
+      label: visit time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: visit_duration
+      label: visit duration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: schedule_visit
+      label: schedule visit
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 9
+      name: visit_comment
+      label: visit comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_name
+      label: contact name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_phone
+      label: contact phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_email
+      label: contact email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: assigned_tool
+      label: assigned tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: assigned_technician
+      label: assigned technician
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false

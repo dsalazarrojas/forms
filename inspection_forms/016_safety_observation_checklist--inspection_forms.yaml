@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Safety Observation Checklist
+    pages:
+    - id: 1
+      name: patient_handling
+      label: Patient Handling
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: physical_examinations
+      label: Physical Examinations
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: patient_transfers
+      label: Patient Transfers
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: patient_positioning
+      label: Patient Positioning
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: patient_handling_safety
+      label: Patient Handling Safety
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: patient_treatments
+      label: Patient Treatments
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: physical_exam_safety
+      label: Physical Exam Safety
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: patient_falls
+      label: Patient Falls
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: patient_confidentiality
+      label: Patient Confidentiality
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: physical_exam_tolerating
+      label: Physical Exam Tolerating
+      hint: null
+      type: text
+      options: []
+      required: false

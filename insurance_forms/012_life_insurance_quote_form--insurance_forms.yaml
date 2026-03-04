@@ -1,0 +1,218 @@
+inputSchema:
+  type: object
+  properties:
+    title: Life Insurance Quote Form
+    pages:
+    - id: 1
+      name: form_info
+      label: Form Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: dob
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: premium_amount
+      label: Premium Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: policy_term
+      label: Policy Term
+      hint: null
+      type: select_one
+      options:
+      - 10 years
+      - 20 years
+      - 30 years
+      required: false
+    - id: 9
+      name: policy_type
+      label: Policy Type
+      hint: null
+      type: select_one
+      options:
+      - Whole Life
+      - Term Life
+      - Universal Life
+      required: false
+    - id: 10
+      name: smoker
+      label: Smoker
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 11
+      name: beneficiary
+      label: Beneficiary
+      hint: null
+      type: select_multiple
+      options:
+      - Father
+      - Mother
+      - Spouse
+      - Friend
+      - Family Member
+      required: false
+    - id: 12
+      name: coverage
+      label: Coverage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: rider
+      label: Rider
+      hint: null
+      type: select_multiple
+      options:
+      - Rider 1
+      - Rider 2
+      - Rider 3
+      - Rider 4
+      - Rider 5
+      required: false
+    - id: 14
+      name: policy_cost
+      label: Policy Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: premium_frequency
+      label: Premium Frequency
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Annually
+      required: false
+    - id: 16
+      name: effective_date
+      label: Effective Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: payment_term
+      label: Payment Term
+      hint: null
+      type: select_one
+      options:
+      - 5 years
+      - 10 years
+      - 15 years
+      - 20 years
+      required: false
+    - id: 18
+      name: payment_plan
+      label: Payment Plan
+      hint: null
+      type: select_one
+      options:
+      - Single Payment
+      - Monthly Payment Plan
+      - Quarterly Payment Plan
+      required: false
+    - id: 19
+      name: tax_id
+      label: Tax ID
+      hint: null
+      type: select_multiple
+      options:
+      - SSN
+      - EIN
+      - ITIN
+      - Passport
+      required: false
+    - id: 20
+      name: driver_license
+      label: Driver License
+      hint: null
+      type: select_multiple
+      options:
+      - Driver License
+      - Non-Resident Alien
+      - Not a Citizen
+      required: false
+    - id: 21
+      name: policy_status
+      label: Policy Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      - Lapsed
+      required: false
+    - id: 22
+      name: policy_notes
+      label: Policy Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: policy_notes_2
+      label: Additional Policy Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: policy_notes_3
+      label: Policy Notes 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: policy_notes_4
+      label: Policy Notes 4
+      hint: null
+      type: text
+      options: []
+      required: false

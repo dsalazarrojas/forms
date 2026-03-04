@@ -1,0 +1,156 @@
+inputSchema:
+  type: object
+  properties:
+    title: Behavior Support Service Agreement
+    pages:
+    - id: 1
+      name: service_agreement_header
+      label: -- Service Agreement Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_full_name
+      label: Participant Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: agreement_execution_date
+      label: Date of Agreement
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: service_start_date
+      label: Agreement Start Date
+      hint: When services are scheduled to begin
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: service_end_date
+      label: Agreement End Date
+      hint: Scheduled review or termination date
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: service_type_header
+      label: -- Type of Service --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: primary_service_type
+      label: Primary Service Type
+      hint: Select the main category of support
+      type: select_one
+      options:
+      - Individual Behavior Support
+      - Group Support Sessions
+      - Crisis Intervention Services
+      - Comprehensive Assessment
+      - Training and Consultation
+      required: true
+    - id: 8
+      name: service_goals
+      label: Primary Goals and Objectives
+      hint: Outline the main outcomes expected from this service
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: service_frequency
+      label: Frequency of Service
+      hint: null
+      type: select_one
+      options:
+      - Multiple times per week
+      - Weekly
+      - Bi-weekly
+      - Monthly
+      - As needed/On-call
+      required: true
+    - id: 10
+      name: agreed_hourly_rate
+      label: Agreed Hourly Rate
+      hint: Enter amount in USD
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: terms_consent_header
+      label: -- Terms and Consent --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: cancellation_policy_ack
+      label: Cancellation Policy Acknowledgment
+      hint: Cancellation requires 24-hour notice to avoid fees
+      type: select_one
+      options:
+      - I agree to the cancellation terms
+      - I do not agree
+      required: true
+    - id: 13
+      name: confidentiality_agreement
+      label: Confidentiality Agreement
+      hint: null
+      type: select_one
+      options:
+      - I understand and agree to confidentiality terms
+      - Other
+      required: true
+    - id: 14
+      name: data_collection_consent
+      label: Consent for Data Collection and Storage
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Electronic Data Storage
+      - Performance Reporting
+      - Research Purposes (Anonymized)
+      - Third Party Provider Sharing
+      required: true
+    - id: 15
+      name: rep_name
+      label: Participant Representative Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: rep_relationship
+      label: Relationship to Participant
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: additional_notes
+      label: Additional Notes or Special Requirements
+      hint: null
+      type: text
+      options: []
+      required: false

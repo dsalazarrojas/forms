@@ -1,0 +1,266 @@
+inputSchema:
+  type: object
+  properties:
+    title: Comfort Care Product Rental Agreement
+    pages:
+    - id: 1
+      name: renter_name
+      label: Renter Full Name
+      hint: Legal name of the person renting
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: renter_email
+      label: Email Address
+      hint: For rental confirmation and updates
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: renter_phone
+      label: Phone Number
+      hint: Contact number for delivery coordination
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: renter_address
+      label: Delivery Address
+      hint: Complete address for product delivery
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: For age verification
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: section_header_rental_period
+      label: -- Rental Period --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: rental_start_date
+      label: Rental Start Date
+      hint: When do you need the products
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: rental_end_date
+      label: Rental End Date
+      hint: When will you return the products
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: rental_duration
+      label: Rental Duration
+      hint: Total rental period
+      type: select_one
+      options:
+      - 1-7 days
+      - 1-2 weeks
+      - 2-4 weeks
+      - 1-3 months
+      - 3-6 months
+      - 6+ months
+      required: true
+    - id: 10
+      name: section_header_product_selection
+      label: -- Product Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: product_category
+      label: Product Category
+      hint: What type of products do you need
+      type: select_one
+      options:
+      - Mobility Equipment
+      - Bathroom Safety
+      - Bedroom Equipment
+      - Respiratory Equipment
+      - Patient Care Items
+      - Comfort Accessories
+      required: true
+    - id: 12
+      name: wheelchair_type
+      label: Wheelchair Type
+      hint: Select if renting a wheelchair
+      type: select_one
+      options:
+      - Not Needed
+      - Manual Wheelchair
+      - Electric Wheelchair
+      - Transport Wheelchair
+      - Pediatric Wheelchair
+      required: false
+    - id: 13
+      name: walker_type
+      label: Walker Type
+      hint: Select if renting a walker
+      type: select_one
+      options:
+      - Not Needed
+      - Standard Walker
+      - Rolling Walker
+      - Folding Walker
+      - Bariatric Walker
+      required: false
+    - id: 14
+      name: hospital_bed
+      label: Hospital Bed
+      hint: Do you need a hospital bed
+      type: select_one
+      options:
+      - Not Needed
+      - Manual Hospital Bed
+      - Semi-Electric Bed
+      - Full Electric Bed
+      - Bariatric Hospital Bed
+      required: false
+    - id: 15
+      name: bathroom_equipment
+      label: Bathroom Equipment
+      hint: Select bathroom safety items
+      type: select_multiple
+      options:
+      - Shower Chair
+      - Commode
+      - Grab Bars
+      - Bathtub Bench
+      - Raised Toilet Seat
+      - None Needed
+      required: false
+    - id: 16
+      name: oxygen_equipment
+      label: Oxygen Equipment
+      hint: Do you need oxygen equipment
+      type: select_one
+      options:
+      - Not Needed
+      - Oxygen Concentrator
+      - Portable Oxygen
+      - Oxygen Tanks
+      - CPAP Machine
+      required: false
+    - id: 17
+      name: additional_products
+      label: Additional Products
+      hint: List any other products needed
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: section_header_pricing
+      label: -- Pricing and Payment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: weekly_rental_fee
+      label: Weekly Rental Fee
+      hint: Fee per week
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: security_deposit
+      label: Security Deposit
+      hint: Refundable deposit amount
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: delivery_fee
+      label: Delivery Fee
+      hint: Cost for delivery service
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: total_amount
+      label: Total Amount
+      hint: Total rental cost
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Cash
+      - Check
+      - Insurance
+      required: true
+    - id: 24
+      name: section_header_agreements
+      label: -- Rental Agreements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: damage_responsibility
+      label: Damage Responsibility
+      hint: I agree to be responsible for damages
+      type: select_one
+      options:
+      - Yes I Agree
+      - No I Do Not Agree
+      required: true
+    - id: 26
+      name: return_condition
+      label: Return Condition Agreement
+      hint: I agree to return items in good condition
+      type: select_one
+      options:
+      - Yes I Agree
+      - No I Do Not Agree
+      required: true
+    - id: 27
+      name: late_return_policy
+      label: Late Return Policy
+      hint: I understand late return fees
+      type: select_one
+      options:
+      - Yes I Understand
+      - No I Do Not Understand
+      required: true
+    - id: 28
+      name: medical_necessity
+      label: Medical Necessity
+      hint: Is this rental medically necessary
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 29
+      name: physician_name
+      label: Physician Name
+      hint: Attending physician if applicable
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: special_instructions
+      label: Special Instructions
+      hint: Any special delivery or setup needs
+      type: text
+      options: []
+      required: false

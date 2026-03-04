@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Investment Advisory Service Intake Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: investment_objectives
+      label: Investment Objectives
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: financial_history
+      label: Financial History
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: risk_tolerance
+      label: Risk Tolerance
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: investment_experience
+      label: Investment Experience
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: asset_allocation
+      label: Asset Allocation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: investment_experience_years
+      label: Investment Experience (Years)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: net_worth
+      label: Net Worth
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: investment_goals
+      label: Investment Goals
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: investment_frequency
+      label: Investment Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 14
+      name: asset_classes
+      label: Asset Classes
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      required: false
+    - id: 15
+      name: investment_approach
+      label: Investment Approach
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      required: true
+    - id: 16
+      name: financial_institution
+      label: Financial Institution
+      hint: null
+      type: select_one
+      options:
+      - Institution 1
+      - Institution 2
+      - Institution 3
+      required: false
+    - id: 17
+      name: account_holder
+      label: Account Holder
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      required: false
+    - id: 18
+      name: investment_type
+      label: Investment Type
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      required: false
+    - id: 19
+      name: investment_location
+      label: Investment Location
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      required: true
+    - id: 20
+      name: investment_status
+      label: Investment Status
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      required: true
+    - id: 21
+      name: risk_attitude
+      label: Risk Attitude
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      required: true
+    - id: 22
+      name: investment_return
+      label: Investment Return
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: time_period
+      label: Time Period
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 24
+      name: investment_amount
+      label: Investment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: review_comments
+      label: Review Comments
+      hint: null
+      type: text
+      options: []
+      required: false

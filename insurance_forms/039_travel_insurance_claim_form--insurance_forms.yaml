@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: travel_insurance_claim_form
+    pages:
+    - id: 1
+      name: travel_insurance_claim_form
+      label: travel_insurance_claim_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: reason_for_claim
+      label: reason_for_claim
+      hint: null
+      type: select_one
+      options:
+      - Trip was cancelled
+      - Trip was postponed
+      - Other
+      required: true
+    - id: 3
+      name: start_date
+      label: start_date
+      hint: Date you departed for trip
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: end_date
+      label: end_date
+      hint: Date you returned from trip
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: claim_date
+      label: claim_date
+      hint: Date you submitted claim
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: trip_type
+      label: trip_type
+      hint: Type of trip
+      type: select_one
+      options:
+      - Business
+      - Leisure
+      required: true
+    - id: 7
+      name: policy_num
+      label: policy_num
+      hint: Policy number
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: travel_company
+      label: travel_company
+      hint: Travel company name
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: agent_name
+      label: agent_name
+      hint: Claimant's name
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: email
+      hint: Claimant's email
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: phone
+      hint: Claimant's phone
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: policy_holder
+      label: policy_holder
+      hint: Name of policy holder
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: policy_holder_email
+      label: policy_holder_email
+      hint: Policy holder's email
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: policy_holder_phone
+      label: policy_holder_phone
+      hint: Policy holder's phone
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: claim_details
+      label: claim_details
+      hint: Additional claim details
+      type: text
+      options: []
+      required: false

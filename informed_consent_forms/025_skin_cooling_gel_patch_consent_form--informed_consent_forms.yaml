@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Skin Cooling Gel Patch Consent Form
+    pages:
+    - id: 1
+      name: user_input_1
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: skin_condition
+      label: Skin Condition
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Normal Skin''}'
+      - '{''id'': 2, ''label'': ''Acne''}'
+      - '{''id'': 3, ''label'': ''Psoriasis''}'
+      - '{''id'': 4, ''label'': ''Dermatitis''}'
+      - '{''id'': 5, ''label'': ''Other''}'
+      required: true
+    - id: 3
+      name: medical_condition
+      label: Medical Conditions
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Allergies''}'
+      - '{''id'': 2, ''label'': ''High Blood Pressure''}'
+      - '{''id'': 3, ''label'': ''Diabetes''}'
+      - '{''id'': 4, ''label'': ''Other''}'
+      required: true
+    - id: 4
+      name: medications
+      label: Medications
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Aspirin''}'
+      - '{''id'': 2, ''label'': ''Ibuprofen''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: true
+    - id: 5
+      name: application_method
+      label: Application Method
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Patches''}'
+      - '{''id'': 2, ''label'': ''Cream''}'
+      - '{''id'': 3, ''label'': ''Spray''}'
+      required: true
+    - id: 6
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: date_signed
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_signed
+      label: Time Signed
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: user_email
+      label: User Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: user_phone
+      label: User Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: provider_signature
+      label: Provider Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: provider_name
+      label: Provider Name
+      hint: null
+      type: text
+      options: []
+      required: false

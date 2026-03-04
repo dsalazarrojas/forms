@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hazardous Material Handling Declaration Form
+    pages:
+    - id: 1
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: material_used
+      label: Material Used
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: amount_used
+      label: Amount Used
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: declaration_date
+      label: Declaration Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: declaration_time
+      label: Declaration Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: certification
+      label: Certification
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

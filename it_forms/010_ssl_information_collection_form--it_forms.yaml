@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: SSL Information Collection Form
+    pages:
+    - id: 1
+      name: domain_input
+      label: Domain
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: ssl_type
+      label: SSL Type
+      hint: null
+      type: select_one
+      options:
+      - ssl_type_option1
+      - ssl_type_option2
+      - ssl_type_option3
+      required: false
+    - id: 3
+      name: type
+      label: S S L
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: expiration_date
+      label: Expiration
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: csr_data
+      label: CSR Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: csr_file
+      label: CSR File
+      hint: Upload a CSR file
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: domain
+      label: Domain
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: csr_type
+      label: CSR Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: csr
+      label: Certificate
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false

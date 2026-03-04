@@ -1,0 +1,232 @@
+inputSchema:
+  type: object
+  properties:
+    title: Artificial Turf Inspection Checklist
+    pages:
+    - id: 1
+      name: section_header_1
+      label: -- Inspection Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: inspection_date
+      label: Date of Inspection
+      hint: Date this inspection was conducted
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: inspector_name
+      label: Inspector Name
+      hint: Name of the person conducting the inspection
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: inspector_title
+      label: Inspector Title
+      hint: Position or role of inspector
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: facility_name
+      label: Facility Name
+      hint: Name of the sports field or facility
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_header_2
+      label: -- Surface Condition --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: overall_condition
+      label: Overall Turf Condition
+      hint: General assessment of the field
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Critical - Repair Needed
+      required: true
+    - id: 8
+      name: turf_pile_height
+      label: Turf Pile Height Measurement
+      hint: Average pile height in millimeters
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: pile_wear
+      label: Pile Wear Assessment
+      hint: Evidence of fiber loss or flattening
+      type: select_one
+      options:
+      - None
+      - Minimal (less than 10%)
+      - Moderate (10-25%)
+      - Significant (25-50%)
+      - Severe (over 50%)
+      required: true
+    - id: 10
+      name: color_fading
+      label: Color Fading or Discoloration
+      hint: UV damage or color loss
+      type: select_one
+      options:
+      - No fading visible
+      - Minor fading
+      - Moderate fading
+      - Significant fading
+      required: true
+    - id: 11
+      name: section_header_3
+      label: -- Seams and Joints --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: seam_integrity
+      label: Seam Integrity
+      hint: Are seams holding properly?
+      type: select_one
+      options:
+      - Good condition
+      - Minor separation
+      - Moderate separation
+      - Severe separation or lifting
+      required: true
+    - id: 13
+      name: seam_issues
+      label: Seam Issues Identified
+      hint: Describe any seam problems found
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: section_header_4
+      label: -- Drainage and Infill --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: drainage_status
+      label: Drainage System Status
+      hint: How well is water draining?
+      type: select_one
+      options:
+      - Excellent drainage
+      - Good drainage
+      - Fair drainage
+      - Poor drainage
+      - Clogged or not draining
+      required: true
+    - id: 16
+      name: infill_compaction
+      label: Infill Compaction Level
+      hint: Is infill settled or compacted?
+      type: select_one
+      options:
+      - Well distributed
+      - Slightly compacted
+      - Moderately compacted
+      - Severely compacted
+      - Needs top-dressing
+      required: true
+    - id: 17
+      name: infill_missing
+      label: Missing or Exposed Areas
+      hint: Any areas where infill or base is exposed?
+      type: select_one
+      options:
+      - None
+      - Minor areas
+      - Moderate areas
+      - Extensive areas
+      required: true
+    - id: 18
+      name: section_header_5
+      label: -- Damage and Hazards --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: tears_damage
+      label: Tears or Puncture Damage
+      hint: Any holes or rips in the surface?
+      type: select_one
+      options:
+      - No damage
+      - Minor tears (under 5 inches)
+      - Moderate damage (5-12 inches)
+      - Severe damage (over 12 inches)
+      required: true
+    - id: 20
+      name: hazard_debris
+      label: Debris or Hazard Removal Needed
+      hint: Foreign objects or safety hazards present?
+      type: select_one
+      options:
+      - None present
+      - Minor debris only
+      - Requires cleanup
+      - Safety hazard present
+      required: true
+    - id: 21
+      name: section_header_6
+      label: -- Maintenance Needs --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: maintenance_type
+      label: Maintenance Actions Required
+      hint: Select all applicable maintenance needs
+      type: select_multiple
+      options:
+      - Cleaning and brush
+      - Top-dressing of infill
+      - Seam repair or replacement
+      - Drainage system maintenance
+      - Tear repair or patching
+      - Full renovation needed
+      - No maintenance needed
+      required: true
+    - id: 23
+      name: maintenance_urgency
+      label: Urgency of Repairs
+      hint: When should maintenance be completed?
+      type: select_one
+      options:
+      - Routine (next scheduled maintenance)
+      - Soon (within 1 month)
+      - High Priority (within 2 weeks)
+      - Urgent (before next use)
+      - Immediate (field unusable)
+      required: true
+    - id: 24
+      name: additional_notes
+      label: Additional Notes or Observations
+      hint: Any other findings or recommendations
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: follow_up_date
+      label: Recommended Follow-up Inspection Date
+      hint: When should the next inspection occur?
+      type: date
+      options: []
+      required: false

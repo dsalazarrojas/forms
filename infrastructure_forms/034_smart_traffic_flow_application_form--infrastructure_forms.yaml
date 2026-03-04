@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Smart Traffic Flow Application Form
+    pages:
+    - id: 1
+      name: project_title
+      label: Project Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_location
+      label: Location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: project_start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: project_end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: project_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Pending
+      - Cancelled
+      required: false
+    - id: 6
+      name: project_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: project_supporting_documents
+      label: Supporting Documents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: project_timeline
+      label: Timelime
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: project_responsible
+      label: Responsible Person
+      hint: null
+      type: text
+      options: []
+      required: false

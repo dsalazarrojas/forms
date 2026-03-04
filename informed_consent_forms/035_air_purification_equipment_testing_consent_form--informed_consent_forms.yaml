@@ -1,0 +1,79 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Air Purification Equipment Testing Consent Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant name
+      hint: Full name for consent records
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_email
+      label: Contact email
+      hint: For test results and communications
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: test_description
+      label: Test description
+      hint: Brief explanation of the testing procedures
+      type: note
+      options: []
+      required: true
+    - id: 4
+      name: expected_duration
+      label: Expected duration of testing
+      hint: Time estimate for equipment testing
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: benefits_and_risks
+      label: Benefits and risks
+      hint: Summary of benefits and potential risks
+      type: note
+      options: []
+      required: true
+    - id: 6
+      name: consent
+      label: Consent for testing
+      hint: Participant agreement to testing terms
+      type: select_one
+      options: [Yes, No]
+      required: true
+    - id: 7
+      name: data_use
+      label: Data use and privacy
+      hint: How test data will be stored and used
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: signature_date
+      label: Date of consent
+      hint: Date consent was provided
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: questions
+      label: Questions or concerns
+      hint: Any questions participant wants addressed
+      type: text
+      options: []
+      required: false

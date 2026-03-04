@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Microsoft 365 Infrastructure Assessment
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: username
+      label: Username
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: password
+      label: Password
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: domain
+      label: Domain
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: review_status
+      label: Review Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - In Progress
+      - Complete
+      required: false
+    - id: 8
+      name: review_completed_at
+      label: Review Completed At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: review_completed_by
+      label: Reviewed By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: review_completed_by_user
+      label: Reviewed By User
+      hint: null
+      type: select_one
+      options:
+      - John
+      - Jane
+      - Jim
+      required: false
+    - id: 11
+      name: review_completed_by_user_id
+      label: Reviewed By User ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: infrastructure_type
+      label: Infrastructure Type
+      hint: null
+      type: select_one
+      options:
+      - On-premises
+      - Cloud
+      - Hybrid
+      - Mixed
+      required: false
+    - id: 13
+      name: infrastructure_type_other
+      label: Other (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: infrastructure_description
+      label: Infrastructure Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: network_location
+      label: Network Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: network_location_other
+      label: Other (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: network_ip_address
+      label: Network IP Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: network_subnet
+      label: Network Subnet
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: network_ip_address_other
+      label: Other (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: security_group
+      label: Security Group
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: security_group_other
+      label: Other (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: network_location
+      label: Network Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: domain
+      label: Domain
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: network_domain
+      label: Network Domain
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

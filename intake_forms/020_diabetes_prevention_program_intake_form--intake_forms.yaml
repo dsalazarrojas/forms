@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Diabetes Prevention Program Intake Form
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: medications
+      label: Medications
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: healthcare_providers
+      label: Healthcare Providers
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: health_insurance
+      label: Health Insurance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: diabetes_screening
+      label: Diabetes Screening
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: family_history
+      label: Family History
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: risk_factors
+      label: Risk Factors
+      hint: null
+      type: text
+      options: []
+      required: false

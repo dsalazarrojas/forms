@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Policy Cancellation Form
+    pages:
+    - id: 1
+      name: policy_cancellation_form
+      label: Policy Cancellation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: type_of_policy
+      label: type_of_policy
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: policy_details
+      label: policy_details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: cancellation_reason
+      label: cancellation_reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_details
+      label: contact_details
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date_of_cancellation
+      label: date_of_cancellation
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: confirmation_of_cancellation
+      label: confirmation_of_cancellation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

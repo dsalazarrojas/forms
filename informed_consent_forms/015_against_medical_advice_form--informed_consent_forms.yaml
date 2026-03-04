@@ -1,0 +1,149 @@
+inputSchema:
+  type: object
+  properties:
+    title: Against Medical Advice Form
+    pages:
+    - id: 1
+      name: patient_full_name
+      label: Patient Full Name
+      hint: Enter your full legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_date_of_birth
+      label: Date of Birth
+      hint: Enter your date of birth
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: patient_address
+      label: Address
+      hint: Enter your current address
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: patient_phone
+      label: Phone Number
+      hint: Enter your phone number for contact
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: patient_emergency_contact
+      label: Emergency Contact Name and Phone
+      hint: Enter the name and phone number of your emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: medical_advice_header
+      label: -- Medical Advice Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: treating_physician_name
+      label: Treating Physician Name
+      hint: Enter the name of your treating physician
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: medical_facility_name
+      label: Medical Facility Name
+      hint: Enter the name of the medical facility
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: medical_advice_date
+      label: Date of Medical Advice
+      hint: Enter the date when the medical advice was given
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: recommended_treatment
+      label: Recommended Treatment
+      hint: Describe the treatment or procedure that was recommended
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: risks_explained
+      label: Risks Explained
+      hint: Were the risks of refusing treatment explained to you?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: understood_alternatives
+      label: Understood Alternatives
+      hint: Do you understand the alternative treatments available?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: reason_for_refusal
+      label: Reason for Refusing Treatment
+      hint: Explain why you are choosing to refuse the recommended treatment
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: awareness_of_consequences
+      label: Awareness of Consequences
+      hint: Do you understand the potential consequences of refusing treatment?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: decision_to_leave
+      label: Decision to Leave Against Medical Advice
+      hint: Do you voluntarily choose to leave the facility against medical advice?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: consent_acknowledgment
+      label: Consent Acknowledgment
+      hint: Do you acknowledge that you are leaving against medical advice and releasing
+        the facility from liability?
+      type: select_one
+      options:
+      - I Acknowledge and Consent
+      - I Do Not Consent
+      required: true
+    - id: 17
+      name: patient_signature
+      label: Patient Signature
+      hint: Sign your name to confirm your decision
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: witness_signature
+      label: Witness Signature
+      hint: Signature of a witness to this decision
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: physician_signature
+      label: Physician Signature
+      hint: Signature of the attending physician
+      type: text
+      options: []
+      required: false

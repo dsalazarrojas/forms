@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: haccp_plan_form
+    pages:
+    - id: 1
+      name: form_section_1
+      label: haccp_plan_form_section_1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: hazard_analysis
+      label: hazard_analysis
+      hint: null
+      type: select_one
+      options:
+      - Hazard A
+      - Hazard B
+      - Hazard C
+      required: false
+    - id: 3
+      name: haccp_critical_control_point
+      label: haccp_critical_control_point
+      hint: null
+      type: select_multiple
+      options:
+      - HACCP Control Point 1
+      - HACCP Control Point 2
+      - HACCP Control Point 3
+      - HACCP Control Point 4
+      required: false
+    - id: 4
+      name: corrective_action
+      label: corrective_action
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: preventive_measures
+      label: preventive_measures
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_last_reviewed
+      label: date_last_reviewed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: assigned_inspector
+      label: assigned_inspector
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: assigned_inspector_email
+      label: assigned_inspector_email
+      hint: null
+      type: email
+      options: []
+      required: false

@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Document Watermark Check Form
+    pages:
+    - id: 1
+      name: document_watermark_check_form
+      label: Document Watermark Check
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: watermark_location
+      label: Watermark Location
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: watermark_message
+      label: Watermark Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: file_type
+      label: File Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: file_type_description
+      label: File Type Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: review_requester
+      label: Review Requester
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: document_type
+      label: Document Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: document_location
+      label: Document Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: file_size
+      label: File Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: file_size_unit
+      label: File Size Unit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: upload_file
+      label: Upload File
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,166 @@
+inputSchema:
+  type: object
+  properties:
+    title: Travel Intake Form
+    pages:
+    - id: 1
+      name: travel_details
+      label: travel_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: travel_dates
+      label: travel_dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: destinations
+      label: destinations
+      hint: null
+      type: select_one
+      options:
+      - Paris
+      - New York
+      - Tokyo
+      - Sydney
+      required: true
+    - id: 4
+      name: preferred_mode_of_transportation
+      label: preferred_mode_of_transportation
+      hint: null
+      type: select_multiple
+      options:
+      - Air
+      - Train
+      - Bus
+      - Car
+      - Motorcycle
+      required: true
+    - id: 5
+      name: preferred_language
+      label: preferred_language
+      hint: null
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - Mandarin
+      - French
+      - Japanese
+      required: true
+    - id: 6
+      name: travel_budget
+      label: travel_budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: travel_preferences
+      label: travel_preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: travel_comments
+      label: travel_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: client_preferences
+      label: client_preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: travel_agency
+      label: travel_agency
+      hint: null
+      type: select_multiple
+      options:
+      - Travel Agency
+      - Tour Operator
+      - Hotel
+      - Car Rental
+      required: true
+    - id: 11
+      name: client_type
+      label: client_type
+      hint: null
+      type: select_one
+      options:
+      - Adult
+      - Child
+      - Senior
+      required: true
+    - id: 12
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: travel_agent
+      label: travel_agent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: travel_agent_title
+      label: travel_agent_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: travel_agency_address
+      label: travel_agency_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: travel_agency_phone
+      label: travel_agency_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: travel_agency_email
+      label: travel_agency_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: travel_agency_website
+      label: travel_agency_website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: travel_agency_fax
+      label: travel_agency_fax
+      hint: null
+      type: text
+      options: []
+      required: false

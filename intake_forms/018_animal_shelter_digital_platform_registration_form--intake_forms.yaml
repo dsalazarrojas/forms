@@ -1,0 +1,230 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animal Shelter Digital Platform Registration Form
+    pages:
+    - id: 1
+      name: full_name
+      label: Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: Primary email for account
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: Must be 18 or older
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: state
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: zip_code
+      label: ZIP or Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: registration_type
+      label: Type of Registration
+      hint: Select your primary role
+      type: select_one
+      options:
+      - Adopter
+      - Foster Parent
+      - Volunteer
+      - Donor
+      - Service Provider
+      - Partner Organization
+      - Staff Member
+      required: true
+    - id: 10
+      name: username
+      label: Desired Username
+      hint: For platform login
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: password
+      label: Password
+      hint: Create a secure password
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: account_purpose
+      label: What Will You Use This Platform For
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Browse Available Animals
+      - Submit Adoption Application
+      - Track Application Status
+      - Schedule Appointments
+      - Volunteer Sign-up
+      - Make Donations
+      - Access Resources
+      - Communication with Shelter
+      - Other
+      required: true
+    - id: 13
+      name: notification_preferences
+      label: Notification Preferences
+      hint: How do you want to be contacted
+      type: select_multiple
+      options:
+      - Email Notifications
+      - SMS Notifications
+      - Platform Messages Only
+      - Weekly Newsletter
+      - Emergency Alerts Only
+      required: true
+    - id: 14
+      name: communication_consent
+      label: May We Contact You About Shelter Activities
+      hint: null
+      type: select_one
+      options:
+      - Yes Please Contact Me
+      - Contact Only About My Applications
+      - No Thank You
+      required: true
+    - id: 15
+      name: referral_source
+      label: How Did You Hear About Our Platform
+      hint: null
+      type: select_one
+      options:
+      - Shelter Website
+      - Social Media
+      - Email Campaign
+      - Friend or Family
+      - Search Engine
+      - Advertisement
+      - Other
+      required: false
+    - id: 16
+      name: previous_interaction
+      label: Have You Interacted with Our Shelter Before
+      hint: null
+      type: select_one
+      options:
+      - Yes - Adopted Before
+      - Yes - Volunteered Before
+      - Yes - Donated Before
+      - Yes - Other Interaction
+      - No - First Time
+      required: true
+    - id: 17
+      name: accessibility_needs
+      label: Do You Have Any Accessibility Requirements
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 18
+      name: accessibility_details
+      label: Accessibility Details
+      hint: If yes please specify
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: language_preference
+      label: Preferred Language
+      hint: null
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - French
+      - Chinese
+      - Vietnamese
+      - Other
+      required: true
+    - id: 20
+      name: terms_acceptance
+      label: I Accept the Terms of Service and Privacy Policy
+      hint: Required for registration
+      type: select_one
+      options:
+      - Yes I Accept
+      - No I Do Not Accept
+      required: true
+    - id: 21
+      name: data_sharing_consent
+      label: I Consent to My Data Being Used for Shelter Operations
+      hint: null
+      type: select_one
+      options:
+      - Yes I Consent
+      - No I Do Not Consent
+      required: true
+    - id: 22
+      name: marketing_consent
+      label: May We Send You Marketing Communications
+      hint: Optional
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 23
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Full name
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_information
+      label: Additional Information
+      hint: Anything else we should know
+      type: text
+      options: []
+      required: false

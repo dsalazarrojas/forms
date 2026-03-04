@@ -1,0 +1,132 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fraud Claim Adjudication Form
+    pages:
+    - id: 1
+      name: fraud_claim_adjudication_form
+      label: fraud claim adjudication form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: claimant_details
+      label: claimant details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: fraud_type
+      label: fraud type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: fraud_type_other
+      label: other (please specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: fraud_claim_date
+      label: fraud claim date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: fraud_claim_amount
+      label: fraud claim amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: fraud_claim_status
+      label: fraud claim status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 8
+      name: fraud_claim_status_other
+      label: other (please specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: fraud_claim_reason
+      label: fraud claim reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: fraud_claim_description
+      label: fraud claim description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: fraud_claim_evidence
+      label: fraud claim evidence
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: fraud_claim_adjudication
+      label: fraud claim adjudication
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: fraud_claim_adjudication_other
+      label: other (please specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: fraud_claim_decision
+      label: fraud claim decision
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: fraud_claim_decision_other
+      label: other (please specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: fraud_claim_outcome
+      label: fraud claim outcome
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: fraud_claim_comments
+      label: fraud claim comments
+      hint: null
+      type: text
+      options: []
+      required: false

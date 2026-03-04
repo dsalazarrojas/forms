@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Automated Spreadsheet Creation Request
+    pages:
+    - id: 1
+      name: section_header_requester
+      label: -- Requester Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requester_name
+      label: Your Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requester_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_header_spreadsheet
+      label: -- Spreadsheet Requirements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: spreadsheet_name
+      label: Spreadsheet Name
+      hint: What should this spreadsheet be called?
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: spreadsheet_purpose
+      label: Purpose of Spreadsheet
+      hint: What will this spreadsheet be used for?
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: primary_users
+      label: Primary Users
+      hint: Who will be using this spreadsheet?
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: data_source
+      label: Where will the data come from?
+      hint: null
+      type: select_one
+      options:
+      - Manual Entry
+      - Database
+      - API Integration
+      - Other Forms
+      - CSV Import
+      - Unknown
+      required: true
+    - id: 11
+      name: section_header_columns
+      label: -- Column and Data Specifications --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: column_count
+      label: Approximate Number of Columns
+      hint: null
+      type: select_one
+      options:
+      - Less than 5
+      - 5-10
+      - 10-20
+      - 20-50
+      - More than 50
+      required: true
+    - id: 13
+      name: column_list
+      label: List of Column Names
+      hint: Separate with commas, e.g. Name, Email, Date, Amount
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: column_types
+      label: Data Types for Columns
+      hint: Specify text, number, date, etc.
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: section_header_functionality
+      label: -- Functionality Requirements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: required_calculations
+      label: Any Calculations or Formulas Needed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: filtering_sorting
+      label: Need Filtering or Sorting Features
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not Sure
+      required: true
+    - id: 18
+      name: charts_graphs
+      label: Need Charts or Graphs
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Maybe
+      required: true
+    - id: 19
+      name: automation_needed
+      label: Any Automation or Workflow Needed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: section_header_timeline
+      label: -- Timeline and Sharing --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: requested_completion_date
+      label: When Do You Need This Completed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: sharing_requirements
+      label: Who Should Have Access
+      hint: null
+      type: select_multiple
+      options:
+      - Only Me
+      - Specific Department
+      - Entire Organization
+      - External Partners
+      required: true
+    - id: 23
+      name: access_level
+      label: What Access Level is Needed
+      hint: null
+      type: select_one
+      options:
+      - View Only
+      - Edit
+      - Admin
+      - Multiple Levels
+      required: true
+    - id: 24
+      name: additional_requirements
+      label: Any Other Special Requirements
+      hint: null
+      type: text
+      options: []
+      required: false

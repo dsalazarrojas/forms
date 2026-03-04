@@ -1,0 +1,82 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Chimney Inspection Form
+    pages:
+      - id: 1
+        name: inspector_name
+        label: Inspector Name
+        hint: Person completing inspection
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: inspection_date
+        label: Inspection Date
+        hint: Date of chimney inspection
+        type: date
+        options: []
+        required: true
+      - id: 3
+        name: property_address
+        label: Property Address
+        hint: Location of chimney
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: chimney_type
+        label: Chimney Type
+        hint: Brick masonry, metal, or prefabricated
+        type: select_one
+        options:
+          - Brick masonry
+          - Metal
+          - Prefabricated
+          - Other
+        required: true
+      - id: 5
+        name: creosote_level
+        label: Creosote Level
+        hint: Estimate amount of creosote buildup
+        type: select_one
+        options:
+          - Low
+          - Moderate
+          - High
+        required: true
+      - id: 6
+        name: structural_issues
+        label: Structural Issues Observed
+        hint: Note cracks, spalling, or damage
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: recommended_action
+        label: Recommended Action
+        hint: Suggested repairs or maintenance
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: safety_status
+        label: Safety Status
+        hint: Overall safety assessment
+        type: select_one
+        options:
+          - Safe
+          - Repair recommended
+          - Unsafe
+        required: true

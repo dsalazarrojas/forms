@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Smart Sensor Calibration Report Form
+    pages:
+    - id: 1
+      name: calibration_details
+      label: Calibration Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: sensor_name
+      label: Sensor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: reading_date
+      label: Reading Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: reading_value
+      label: Reading Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: unit_of_measurement
+      label: Unit Of Measurement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: calibration_status
+      label: Calibration Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Pending
+      - Failed
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: sensor_type
+      label: Sensor Type
+      hint: null
+      type: text
+      options: []
+      required: false

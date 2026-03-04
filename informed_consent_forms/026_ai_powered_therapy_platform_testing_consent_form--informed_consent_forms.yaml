@@ -1,0 +1,101 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: AI Powered Therapy Platform Testing Consent Form
+    pages:
+    - id: 1
+      name: --study_information--
+      label: -- Study Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact email
+      hint: For study communications
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: study_description
+      label: Study description
+      hint: Brief summary of platform testing
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: consent_statement
+      label: Consent to participate in platform testing
+      hint: Select one
+      type: select_one
+      options:
+      - I consent to participate
+      - I do not consent to participate
+      required: true
+    - id: 6
+      name: data_collection_scope
+      label: Data collected during testing
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Session transcripts
+      - Interaction logs
+      - Usage analytics
+      - Survey responses
+      required: true
+    - id: 7
+      name: withdrawal_rights
+      label: Withdrawal rights
+      hint: Information about how to withdraw
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: anonymized_usage_permission
+      label: Permission to use anonymized data for research
+      hint: Select one
+      type: select_one
+      options:
+      - Yes
+      - No
+      required: true
+    - id: 9
+      name: emergency_contact
+      label: Emergency contact information
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: signature
+      label: Electronic signature name
+      hint: Type full name to sign
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: signature_date
+      label: Signature date
+      hint: Date of consent
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: postage_assessment_delay_inquiry_form
+    pages:
+    - id: 1
+      name: postage_assessment_delay_inquiry_form
+      label: Postage Assessment Delay Inquiry Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - Inquiry Forms
+      - Tracking Forms
+      required: false
+    - id: 3
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: order_number
+      label: order_number
+      hint: null
+      type: number
+      options: []
+      required: false

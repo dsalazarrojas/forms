@@ -1,0 +1,37 @@
+inputSchema:
+  type: object
+  properties:
+    title: Holistic Healing Practitioner Certification Application Form
+    pages:
+    - id: 1
+      name: application_form
+      label: Application Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: supporting_documents
+      label: Supporting Documents
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: experience_details
+      label: Experience Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: submit_application
+      label: Submit Application
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

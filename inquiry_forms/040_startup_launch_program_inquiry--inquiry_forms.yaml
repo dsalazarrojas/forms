@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Startup Launch Program Inquiry
+    pages:
+    - id: 1
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: startup_name
+      label: start-up-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: description
+      label: start-up-description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: goals
+      label: start-up-goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: industry
+      label: start-up-industry
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: location
+      label: start-up-location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_name
+      label: start-up-contact-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: start-up-email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: start-up-phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: accelerator
+      label: accelerator
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: accelerator_program
+      label: accelerator-program
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: follow_up
+      label: follow-up
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: follow_up_method
+      label: follow-up-method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

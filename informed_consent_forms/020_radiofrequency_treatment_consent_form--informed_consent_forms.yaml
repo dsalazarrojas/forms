@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: Radiofrequency Treatment Consent Form
+    pages:
+    - id: 1
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email_address
+      label: email_address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: consent
+      label: consent
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''I confirm my consent''}'
+      - '{''value'': ''I do not consent''}'
+      required: true

@@ -1,0 +1,411 @@
+inputSchema:
+  type: object
+  properties:
+    title: Second Opinion Inquiry Form
+    pages:
+    - id: 1
+      name: patient_information
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: current_conditions
+      label: Current Conditions
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: medical_specialties
+      label: Medical Specialties
+      hint: null
+      type: select_one
+      options:
+      - General Medicine
+      - Cardiology
+      - Neurology
+      - Oncology
+      required: true
+    - id: 5
+      name: preferred_contact
+      label: Preferred Contact
+      hint: Enter a valid phone number
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: doctor_recommendation
+      label: Doctor Recommendation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: medical_insights
+      label: Medical Insights
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: medical_insights_additional_info
+      label: Additional Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: medical_insights_additional_info_2
+      label: Additional Medical Insights
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: medical_insights_additional_info_3
+      label: More Medical Insights
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: medical_insights_additional_info_4
+      label: Additional Medical Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: medical_insights_additional_info_5
+      label: Additional Medical Info 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: medical_insights_additional_info_6
+      label: More Medical Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: medical_insights_additional_info_7
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: medical_insights_additional_info_8
+      label: Additional Medical Info 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: medical_insights_additional_info_9
+      label: More Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: medical_insights_additional_info_10
+      label: More Additional Info 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: medical_insights_additional_info_11
+      label: Additional Medical Info 4
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: medical_insights_additional_info_12
+      label: More Additional Info 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: medical_insights_additional_info_13
+      label: More Additional Info 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: patient_signature
+      label: Patient Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 23
+      name: patient_dob
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: patient_dob_month
+      label: Month of Birth
+      hint: Please select the month of birth
+      type: select_one
+      options:
+      - January
+      - February
+      - March
+      - April
+      - May
+      - June
+      - July
+      - August
+      - September
+      - October
+      - November
+      - December
+      required: true
+    - id: 25
+      name: patient_dob_year
+      label: Year of Birth
+      hint: null
+      type: select_one
+      options:
+      - '1900'
+      - '1901'
+      - '1902'
+      - '1903'
+      - '1904'
+      - '1905'
+      - '1906'
+      - '1907'
+      - '1908'
+      - '1909'
+      - '1910'
+      - '1911'
+      - '1912'
+      - '1913'
+      - '1914'
+      - '1915'
+      - '1916'
+      - '1917'
+      - '1918'
+      - '1919'
+      - '1920'
+      - '1921'
+      - '1922'
+      - '1923'
+      - '1924'
+      - '1925'
+      - '1926'
+      - '1927'
+      - '1928'
+      - '1929'
+      - '1930'
+      - '1931'
+      - '1932'
+      - '1933'
+      - '1934'
+      - '1935'
+      - '1936'
+      - '1937'
+      - '1938'
+      - '1939'
+      - '1940'
+      - '1941'
+      - '1942'
+      - '1943'
+      - '1944'
+      - '1945'
+      - '1946'
+      - '1947'
+      - '1948'
+      - '1949'
+      - '1950'
+      - '1951'
+      - '1952'
+      - '1953'
+      - '1954'
+      - '1955'
+      - '1956'
+      - '1957'
+      - '1958'
+      - '1959'
+      - '1960'
+      - '1961'
+      - '1962'
+      - '1963'
+      - '1964'
+      - '1965'
+      - '1966'
+      - '1967'
+      - '1968'
+      - '1969'
+      - '1970'
+      - '1971'
+      - '1972'
+      - '1973'
+      - '1974'
+      - '1975'
+      - '1976'
+      - '1977'
+      - '1978'
+      - '1979'
+      - '1980'
+      - '1981'
+      - '1982'
+      - '1983'
+      - '1984'
+      - '1985'
+      - '1986'
+      - '1987'
+      - '1988'
+      - '1989'
+      - '1990'
+      - '1991'
+      - '1992'
+      - '1993'
+      - '1994'
+      - '1995'
+      - '1996'
+      - '1997'
+      - '1998'
+      - '1999'
+      - '2000'
+      - '2001'
+      - '2002'
+      - '2003'
+      - '2004'
+      - '2005'
+      - '2006'
+      - '2007'
+      - '2008'
+      - '2009'
+      - '2010'
+      - '2011'
+      - '2012'
+      - '2013'
+      - '2014'
+      - '2015'
+      - '2016'
+      - '2017'
+      - '2018'
+      - '2019'
+      - '2020'
+      - '2021'
+      - '2022'
+      required: true
+    - id: 26
+      name: patient_gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: true
+    - id: 27
+      name: patient_race
+      label: Race
+      hint: null
+      type: select_multiple
+      options:
+      - Caucasian
+      - African American
+      - Asian
+      - Native American
+      - Other
+      required: true
+    - id: 28
+      name: patient_language
+      label: Language
+      hint: null
+      type: select_one
+      options:
+      - English
+      - French
+      required: true
+    - id: 29
+      name: patient_education
+      label: Education
+      hint: null
+      type: select_one
+      options:
+      - High School
+      - College
+      - Some College
+      required: true
+    - id: 30
+      name: patient_employment
+      label: Employment
+      hint: null
+      type: select_one
+      options:
+      - Working
+      - Retired
+      - Unemployed
+      required: true
+    - id: 31
+      name: patient_income
+      label: Income
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - High
+      required: true
+    - id: 32
+      name: patient_medical_insurance
+      label: Medical Insurance
+      hint: null
+      type: select_one
+      options:
+      - Medicare
+      - Medicaid
+      - Private
+      - Other
+      required: true
+    - id: 33
+      name: patient_medical_history_2
+      label: Medical History 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: patient_medical_history_3
+      label: Medical History 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: patient_signature_2
+      label: Signature 2
+      hint: null
+      type: text
+      options: []
+      required: true

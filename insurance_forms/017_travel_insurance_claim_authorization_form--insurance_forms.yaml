@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: travel_insurance_claim_authorization_form
+    pages:
+    - id: 1
+      name: incident_description
+      label: Incident Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: claimant_details
+      label: Claimant Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: incident_location
+      label: Incident Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: claimant_name
+      label: Claimant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: claimant_email
+      label: Claimant Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: claimant_phone
+      label: Claimant Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: claimant_contact_info
+      label: Claimant Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: policy_number
+      label: Policy Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: policy_provider
+      label: Policy Provider
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: claim_description
+      label: Claim Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: claim_amount
+      label: Claim Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: claim_submitted_by
+      label: Claim Submitted By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: claim_submitted_on
+      label: Claim Submitted On
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: claim_status
+      label: Claim Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - In Progress
+      - Resolved
+      required: true
+    - id: 16
+      name: claim_comments
+      label: Claim Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: insurance_type
+      label: Insurance Type
+      hint: null
+      type: select_one
+      options:
+      - Trip Cancellation
+      - Trip Interruption
+      - Travel Delay
+      - Other
+      required: true
+    - id: 18
+      name: policy_coverage
+      label: Policy Coverage
+      hint: null
+      type: select_multiple
+      options:
+      - Trip Cancellation
+      - Trip Interruption
+      - Travel Delay
+      required: true
+    - id: 19
+      name: claimant_traveler_details
+      label: Claimant Traveler Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: incident_type
+      label: Incident Type
+      hint: null
+      type: select_multiple
+      options:
+      - Natural Disaster
+      - Flight Cancellation
+      - Medical
+      required: true
+    - id: 21
+      name: claimant_flight_details
+      label: Claimant Flight Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: claimant_travel_document
+      label: Claimant Travel Document
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: claimant_travel_agent
+      label: Claimant Travel Agent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: claimant_travel_agency
+      label: Claimant Travel Agency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: claimant_travel_agreement
+      label: Claimant Travel Agreement
+      hint: null
+      type: text
+      options: []
+      required: false

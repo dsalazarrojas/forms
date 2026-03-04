@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: retail_personalization_api_registration_form
+    pages:
+    - id: 1
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_name
+      label: contact_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: company_phone
+      label: company_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: api_key
+      label: api_key
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: api_type
+      label: api_type
+      hint: null
+      type: select_one
+      options:
+      - API Key Type
+      - Client
+      - Server
+      required: false
+    - id: 7
+      name: use_case
+      label: use_case
+      hint: Briefly describe how the user plans to use the API.
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: company_url
+      label: company_url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: company_type
+      label: company_type
+      hint: What type of company are you?
+      type: select_one
+      options:
+      - SaaS
+      - Retail Tech
+      - Other
+      required: false
+    - id: 10
+      name: contact_title
+      label: contact_title
+      hint: Contact person's job title.
+      type: select_one
+      options:
+      - API Manager
+      - API Developer
+      - Other
+      required: false
+    - id: 11
+      name: contact_department
+      label: contact_department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_job_function
+      label: contact_job_function
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: company_address
+      label: company_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: company_city
+      label: company_city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: company_state
+      label: company_state
+      hint: null
+      type: select_one
+      options:
+      - CA
+      - IL
+      - NY
+      - TX
+      required: false
+    - id: 16
+      name: company_country
+      label: company_country
+      hint: Country of operation.
+      type: select_one
+      options:
+      - USA
+      - Mexico
+      - Canada
+      - Other
+      required: false
+    - id: 17
+      name: company_zip
+      label: company_zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: api_access
+      label: api_access
+      hint: Select all applicable API access levels.
+      type: select_multiple
+      options:
+      - API Access Level 1
+      - API Access Level 2
+      - API Access Level 3
+      required: false
+    - id: 19
+      name: signature
+      label: signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: timezone
+      label: timezone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: ip_address
+      label: ip_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: terms_of_service
+      label: terms_of_service
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: agreement
+      label: agreement
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

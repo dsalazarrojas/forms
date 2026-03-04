@@ -1,0 +1,77 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Incubator Inspection Report
+    pages:
+    - id: 1
+      name: incubator_id
+      label: incubator_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_inspected
+      label: date_inspected
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: facility_name
+      label: facility_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: inspector_name
+      label: inspector_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: issues_encountered
+      label: issues_encountered
+      hint: List issues you have discovered.
+      type: select_multiple
+      options:
+      - '{''label'': ''No issues encountered during inspection''}'
+      - '{''label'': ''Issue 1 encountered during inspection''}'
+      - '{''label'': ''Issue 2 encountered during inspection''}'
+      required: false
+    - id: 6
+      name: issue_comments
+      label: issue_comments
+      hint: Please describe the issue(s) you have discovered.
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: corrective_actions_taken
+      label: corrective_actions_taken
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 8
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

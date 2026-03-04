@@ -1,0 +1,145 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cloud Migration Readiness Assessment
+    pages:
+    - id: 1
+      name: assessment_date
+      label: Assessment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: department_name
+      label: Department Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: assessment_lead
+      label: Assessment Lead Name
+      hint: Person responsible for assessment
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: lead_email
+      label: Assessment Lead Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: current_infrastructure
+      label: Current Infrastructure Type
+      hint: Select primary infrastructure
+      type: select_multiple
+      options:
+      - On-Premises Servers
+      - Hybrid Cloud
+      - Colocation
+      - Legacy Systems
+      - Virtualization
+      required: true
+    - id: 6
+      name: workload_assessment
+      label: Total Workloads to Migrate
+      hint: Number of applications or systems
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: data_volume
+      label: Data Volume to Migrate
+      hint: Approximate size in terabytes
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: staffing_readiness
+      label: IT Staff Cloud Readiness
+      hint: How prepared is your team
+      type: select_one
+      options:
+      - Not Prepared
+      - Minimal Training
+      - Moderate Readiness
+      - Well Trained
+      - Expert Level
+      required: true
+    - id: 9
+      name: budget_availability
+      label: Budget Availability for Migration
+      hint: null
+      type: select_one
+      options:
+      - Not Approved
+      - Limited
+      - Moderate
+      - Well Funded
+      - Unlimited
+      required: true
+    - id: 10
+      name: compliance_concerns
+      label: Compliance or Regulatory Concerns
+      hint: Select all applicable concerns
+      type: select_multiple
+      options:
+      - HIPAA
+      - GDPR
+      - PCI DSS
+      - SOC 2
+      - None
+      required: false
+    - id: 11
+      name: critical_applications
+      label: Number of Mission-Critical Applications
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: downtime_tolerance
+      label: Acceptable Downtime During Migration
+      hint: null
+      type: select_one
+      options:
+      - Zero Downtime Required
+      - Minutes
+      - Hours
+      - Full Day
+      - Weekend Window Only
+      required: true
+    - id: 13
+      name: security_readiness
+      label: Security Readiness
+      hint: Current security posture
+      type: select_one
+      options:
+      - Needs Improvement
+      - Basic
+      - Moderate
+      - Strong
+      - Excellent
+      required: true
+    - id: 14
+      name: legacy_dependencies
+      label: Legacy System Dependencies
+      hint: Any dependencies or constraints
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: timeline_preference
+      label: Preferred Migration Timeline
+      hint: null
+      type: select_one
+      options:
+      - Immediate
+      - 3-6 Months
+      - 6-12 Months
+      - 1-2 Years
+      - TBD
+      required: true

@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Shop Drawing Review Form
+    pages:
+    - id: 1
+      name: shop_drawing_review_form_page_1
+      label: Shop Drawing Review Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: reviewer_name
+      label: Reviewer Name
+      hint: null
+      type: select_one
+      options:
+      - Architects
+      - Contractors
+      - Project Managers
+      required: false
+    - id: 3
+      name: reviewer_email
+      label: Reviewer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: reviewer_phone
+      label: Reviewer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - In Progress
+      - Done
+      - Not Started
+      required: false
+    - id: 6
+      name: project_type
+      label: Project Type
+      hint: null
+      type: select_one
+      options:
+      - Structural
+      - Mechanical
+      - Electrical
+      required: false
+    - id: 7
+      name: reviewer_comment
+      label: Reviewer Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: architect_signature
+      label: Architect's Signature
+      hint: null
+      type: date
+      options: []
+      required: false

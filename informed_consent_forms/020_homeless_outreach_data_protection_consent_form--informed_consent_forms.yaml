@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: Homeless Outreach Data Protection Consent Form
+    pages:
+    - id: 1
+      name: outreach_team
+      label: What outreach team will be working with you?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Homeless Outreach Team'', ''value'': ''Homeless
+        Outreach Team''}'
+      - '{''id'': 2, ''label'': ''Another team'', ''value'': ''Another team''}'
+      required: false
+    - id: 2
+      name: preferred_contact_name
+      label: Preferred contact name
+      hint: Your name or alias
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_phone
+      label: Phone
+      hint: Your phone number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: preferred_contact_email
+      label: Email
+      hint: Your email
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: Address
+      hint: Your address
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: follow_up
+      label: Would you like follow-up calls/texts/emails?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Calls'', ''value'': ''Calls''}'
+      - '{''id'': 2, ''label'': ''Texts'', ''value'': ''Texts''}'
+      - '{''id'': 3, ''label'': ''Emails'', ''value'': ''Emails''}'
+      required: false
+    - id: 7
+      name: data_use
+      label: What type of data do you consent to use?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Contact info'', ''value'': ''contact_info''}'
+      - '{''id'': 2, ''label'': ''Follow-up'', ''value'': ''follow_up''}'
+      - '{''id'': 3, ''label'': ''Demographics'', ''value'': ''demographics''}'
+      required: false
+    - id: 8
+      name: emergency_contact_name
+      label: Emergency contact name
+      hint: Your emergency contact name or alias
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergency_contact_phone
+      label: Emergency contact phone
+      hint: Emergency contact phone number
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: emergency_contact_email
+      label: Emergency contact email
+      hint: Emergency contact email
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: emergency_contact_relationship
+      label: Relationship
+      hint: Relationship (e.g. Spouse, family member, etc.)
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: emergency_contact_address
+      label: Emergency contact address
+      hint: Emergency contact's address
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: medical_info
+      label: Do you have any medical conditions we should know about?
+      hint: This information will help us provide better services
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Appendicitis Symptoms Assessment
+    pages:
+    - id: 1
+      name: section_triage
+      label: -- Triage Information --
+      hint: Collect core symptoms and onset details for triage
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient name
+      hint: Optional for anonymous intake
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: onset_date
+      label: Symptom onset date
+      hint: When did abdominal pain start
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: pain_location
+      label: Pain location
+      hint: Select where pain is primarily felt
+      type: select_one
+      options:
+      - Periumbilical
+      - Right lower quadrant
+      - Generalized
+      - Other
+      required: true
+    - id: 5
+      name: pain_severity
+      label: Pain severity 0 to 10
+      hint: Rate current pain level
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: associated_symptoms
+      label: Associated symptoms
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Nausea or vomiting
+      - Fever
+      - Loss of appetite
+      - Diarrhea or constipation
+      - None
+      required: true
+    - id: 7
+      name: recent_trauma_or_surgery
+      label: Recent abdominal trauma or surgery
+      hint: Relevant medical history
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 8
+      name: allergies_and_medications
+      label: Allergies and current medications
+      hint: List relevant medications and allergies
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: triage_recommendation
+      label: Triage recommendation
+      hint: For clinician to fill after assessment
+      type: note
+      options: []
+      required: false

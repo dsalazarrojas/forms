@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: Housing Assistance Intake Form
+    pages:
+    - id: 1
+      name: user_information
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: housing_information
+      label: Housing Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: housing_assistance_history
+      label: Housing Assistance History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: medical_information
+      label: Medical Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: housing_status
+      label: Housing Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: household_information
+      label: Household Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: housing_assistance_services
+      label: Housing Assistance Services
+      hint: null
+      type: select_multiple
+      options:
+      - Homelessness Prevention
+      - Emergency Assistance
+      - Housing Stabilization
+      - Permanent Supportive Housing
+      - Rapid Rehousing
+      - Transitional Housing
+      required: true
+    - id: 10
+      name: housing_assistance_funding
+      label: Housing Assistance Funding
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: housing_assistance_amount
+      label: Housing Assistance Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: housing_assistance_start_date
+      label: Housing Assistance Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: housing_assistance_end_date
+      label: Housing Assistance End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: housing_assistance_provider
+      label: Housing Assistance Provider
+      hint: null
+      type: select_one
+      options:
+      - Provider 1
+      - Provider 2
+      - Provider 3
+      - Provider 4
+      - Provider 5
+      - Provider 6
+      - Other
+      required: false
+    - id: 15
+      name: additional_notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false

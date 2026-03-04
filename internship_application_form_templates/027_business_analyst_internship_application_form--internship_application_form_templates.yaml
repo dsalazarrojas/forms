@@ -1,0 +1,263 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Analyst Internship Application Form
+    pages:
+    - id: 1
+      name: personal_info
+      label: Personal Information
+      hint: Your details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Your full legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Your contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: address
+      label: Address
+      hint: Your mailing address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: Your birth date
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: education_info
+      label: Education Information
+      hint: Your academic background
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: university
+      label: University or College
+      hint: Name of your institution
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: degree_program
+      label: Degree Program
+      hint: Your major or program
+      type: select_one
+      options:
+      - Business Administration
+      - Finance
+      - Economics
+      - Information Systems
+      - Computer Science
+      - Data Science
+      - Mathematics
+      - Other
+      required: true
+    - id: 10
+      name: current_year
+      label: Current Year of Study
+      hint: What year are you in
+      type: select_one
+      options:
+      - Freshman
+      - Sophomore
+      - Junior
+      - Senior
+      - Graduate Student
+      - Recent Graduate
+      required: true
+    - id: 11
+      name: gpa
+      label: Current GPA
+      hint: Your grade point average
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: expected_graduation
+      label: Expected Graduation Date
+      hint: When will you graduate
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: skills_experience
+      label: Skills and Experience
+      hint: Your relevant background
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: technical_skills
+      label: Technical Skills
+      hint: Software and tools you know
+      type: select_multiple
+      options:
+      - Microsoft Excel
+      - SQL
+      - Python
+      - R
+      - Tableau
+      - Power BI
+      - Visio
+      - JIRA
+      - SAP
+      - Other
+      required: true
+    - id: 15
+      name: programming_languages
+      label: Programming Languages
+      hint: Languages you can use
+      type: select_multiple
+      options:
+      - Python
+      - Java
+      - C++
+      - JavaScript
+      - SQL
+      - R
+      - None
+      required: false
+    - id: 16
+      name: relevant_coursework
+      label: Relevant Coursework
+      hint: Courses related to business analysis
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: previous_internships
+      label: Previous Internships
+      hint: Describe any previous internship experience
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: work_experience
+      label: Work Experience
+      hint: Any relevant work experience
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: projects
+      label: Relevant Projects
+      hint: Describe projects you have worked on
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: internship_preferences
+      label: Internship Preferences
+      hint: What are you looking for
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: preferred_start_date
+      label: Preferred Start Date
+      hint: When can you start
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: preferred_duration
+      label: Preferred Duration
+      hint: How long do you want to intern
+      type: select_one
+      options:
+      - 1-2 Months
+      - 3 Months
+      - 4-6 Months
+      - 6-12 Months
+      - Flexible
+      required: true
+    - id: 23
+      name: availability
+      label: Availability
+      hint: How many hours per week
+      type: select_one
+      options:
+      - Part-Time (10-20 hours)
+      - Part-Time (20-30 hours)
+      - Full-Time (30-40 hours)
+      - Full-Time (40+ hours)
+      required: true
+    - id: 24
+      name: location_preference
+      label: Location Preference
+      hint: Preferred work location
+      type: select_one
+      options:
+      - On-Site
+      - Remote
+      - Hybrid
+      - Flexible
+      required: true
+    - id: 25
+      name: compensation_requirement
+      label: Compensation Requirement
+      hint: Are you seeking paid internship
+      type: select_one
+      options:
+      - Paid Only
+      - Unpaid for Credit
+      - Either
+      - Flexible
+      required: true
+    - id: 26
+      name: why_interested
+      label: Why Are You Interested
+      hint: Explain your interest in this internship
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: career_goals
+      label: Career Goals
+      hint: What are your career aspirations
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: resume_upload
+      label: Resume
+      hint: Attach your resume - note URL or describe
+      type: text
+      options: []
+      required: true
+    - id: 29
+      name: references
+      label: References
+      hint: Provide reference names and contacts
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

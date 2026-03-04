@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: IT Satisfaction Survey
+    pages:
+    - id: 1
+      name: it_satisfaction_survey
+      label: How satisfied are you with our IT service?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: it_rating
+      label: Rate our service from 1 to 5
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: it_comment
+      label: What do you think we could improve?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: it_email
+      label: Your e-mail address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: it_phone
+      label: Your phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: it_department
+      label: Which department did you interact with?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: it_date
+      label: When did you last interact with us?
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: it_time
+      label: At what time?
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: it_comments
+      label: Any comments?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: it_satisfaction
+      label: How satisfied are you with our service?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

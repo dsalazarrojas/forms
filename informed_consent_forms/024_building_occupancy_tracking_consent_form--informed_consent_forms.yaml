@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Building Occupancy Tracking Consent Form
+    pages:
+    - id: 1
+      name: consent_header
+      label: -- Building Occupancy Tracking System --
+      hint: Consent for occupancy tracking participation
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Your Full Name
+      hint: Complete legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: participant_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: employee_id
+      label: Employee or ID Number
+      hint: Your identification
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: department
+      label: Department or Team
+      hint: Where you work
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: building_location
+      label: Primary Building Location
+      hint: Which building do you use
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: floor_area
+      label: Floor or Area
+      hint: Specific area you occupy
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: tracking_method_notice
+      label: -- Occupancy Tracking Method --
+      hint: Explanation of tracking system
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: tracking_technology
+      label: Tracking Technology Used
+      hint: How occupancy will be tracked
+      type: select_one
+      options:
+      - Badge or Card Swipe
+      - Biometric
+      - WiFi Detection
+      - Sensors
+      - Check-In System
+      - Other
+      required: true
+    - id: 11
+      name: data_collected
+      label: Type of Data Collected
+      hint: What information will be tracked
+      type: select_multiple
+      options:
+      - Entry and Exit Times
+      - Area or Room Visited
+      - Duration of Stay
+      - Frequency of Visits
+      - Anonymous Counts
+      required: true
+    - id: 12
+      name: data_usage_notice
+      label: -- Data Usage and Privacy --
+      hint: How your data will be used
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: data_usage
+      label: Purpose of Data Collection
+      hint: What data will be used for
+      type: select_multiple
+      options:
+      - Space Optimization
+      - Occupancy Planning
+      - Facility Management
+      - Health and Safety
+      - Resource Allocation
+      required: true
+    - id: 14
+      name: data_protection
+      label: Data Protection Measures
+      hint: How your data will be protected
+      type: select_one
+      options:
+      - Encrypted Storage
+      - Limited Access
+      - Regular Deletion
+      - Anonymized Data
+      - Multiple Safeguards
+      required: true
+    - id: 15
+      name: data_retention_period
+      label: Data Retention Period
+      hint: How long data is kept
+      type: select_one
+      options:
+      - 1 Month
+      - 3 Months
+      - 6 Months
+      - 1 Year
+      - 2 Years
+      - Indefinitely
+      required: true
+    - id: 16
+      name: third_party_sharing
+      label: Will Data Be Shared With Third Parties
+      hint: External sharing of data
+      type: select_one
+      options:
+      - No, Not Shared
+      - Yes, With Authorization
+      - Limited Sharing
+      - Anonymized Sharing Only
+      required: true
+    - id: 17
+      name: consent_statement
+      label: -- Consent Statement --
+      hint: Your agreement to tracking
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: voluntary_participation
+      label: I Voluntarily Consent to Occupancy Tracking
+      hint: Do you agree to participate
+      type: select_one
+      options:
+      - Yes, I Consent
+      - No, I Do Not Consent
+      required: true
+    - id: 19
+      name: understand_privacy
+      label: I Understand and Accept Privacy Terms
+      hint: Acknowledge privacy policy
+      type: select_one
+      options:
+      - Yes, I Understand
+      - No, I Have Questions
+      required: true
+    - id: 20
+      name: withdrawal_option
+      label: I Understand I Can Withdraw Consent
+      hint: Awareness of withdrawal option
+      type: select_one
+      options:
+      - Yes, I Understand
+      - No, I Need More Info
+      required: true
+    - id: 21
+      name: consent_date
+      label: Date of Consent
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: additional_questions
+      label: Questions or Concerns
+      hint: Any questions before consenting
+      type: text
+      options: []
+      required: false

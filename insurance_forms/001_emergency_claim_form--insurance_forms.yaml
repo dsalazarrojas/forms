@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Emergency Claim Form
+    pages:
+    - id: 1
+      name: emergency_claim_form_input
+      label: Emergency Claim Form Input
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_name
+      label: Contact Name
+      hint: Please enter your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: claim_type
+      label: Claim Type
+      hint: null
+      type: select_one
+      options:
+      - health
+      - auto
+      required: true
+    - id: 6
+      name: incident_date
+      label: Incident Date
+      hint: YYYY-MM-DD
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: incident_time
+      label: Incident Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: incident_details
+      label: Incident Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: claim_status
+      label: Claim Status
+      hint: null
+      type: select_one
+      options:
+      - open
+      - closed
+      - pending
+      required: true
+    - id: 10
+      name: claim_status_comments
+      label: Claim Status Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: upload_file
+      label: Upload File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: claim_notes
+      label: Claim Notes
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Call Forwarding Deactivation Request Form
+    pages:
+    - id: 1
+      name: requester_full_name
+      label: Requester Full Name
+      hint: Enter the employee or requester full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_id
+      label: Employee ID or Staff Number
+      hint: Provide your internal employee identifier if applicable
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: department
+      label: Department
+      hint: Department requesting the deactivation
+      type: select_one
+      options:
+      - IT
+      - HR
+      - Finance
+      - Operations
+      - Other
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Contact Phone Number
+      hint: Best number to reach the requester about this request
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: extension_number
+      label: Extension Number
+      hint: Enter the phone extension associated with call forwarding
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: current_forwarding_target
+      label: Current Call Forwarding Target Number
+      hint: Number to which calls are currently forwarded
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: desired_deactivation_date
+      label: Desired Deactivation Date
+      hint: When should call forwarding be deactivated
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: reason_for_deactivation
+      label: Reason for Deactivation
+      hint: Briefly describe reason for cancelling call forwarding
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: manager_approval_email
+      label: Manager Approval Email
+      hint: Manager email for approval or confirmation
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: additional_notes
+      label: Additional Notes or Instructions
+      hint: Any additional information for IT support
+      type: text
+      options: []
+      required: false

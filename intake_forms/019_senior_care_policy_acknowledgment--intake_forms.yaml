@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Senior Care Policy Acknowledgment
+    pages:
+    - id: 1
+      name: care_recipient
+      label: Care Recipient
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: responsible_party
+      label: Responsible Party
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: policy_date
+      label: Policy Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: care_facility
+      label: Care Facility
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: policy_signature
+      label: Policy Signature
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: signature_date
+      label: Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: care_giver
+      label: Care Giver
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

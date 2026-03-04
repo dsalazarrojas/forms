@@ -1,0 +1,255 @@
+inputSchema:
+  type: object
+  properties:
+    title: Biotech Genetic Material Consent Form
+    pages:
+    - id: 1
+      name: section_consent_header
+      label: -- Informed Consent for Genetic Material Research --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: consent_introduction
+      label: Purpose of Research - You are being asked to participate in a genetic
+        research study
+      hint: Please read this entire form carefully
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: section_participant_info
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: participant_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: participant_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: participant_date_of_birth
+      label: Date of Birth
+      hint: Your date of birth
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: participant_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: participant_phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: participant_address
+      label: Mailing Address
+      hint: Your address for study correspondence
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: section_genetic_material
+      label: -- Genetic Material Collection and Use --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: material_type
+      label: Type of Genetic Material to be Collected
+      hint: Describe what samples will be taken
+      type: select_multiple
+      options:
+      - Blood Sample
+      - Saliva Sample
+      - Tissue Sample
+      - Hair Sample
+      - Buccal Swab
+      - Other
+      required: true
+    - id: 12
+      name: material_collection_method
+      label: Collection Method
+      hint: How will the sample be collected
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: research_purposes
+      label: Purposes for Genetic Analysis
+      hint: Select intended research uses
+      type: select_multiple
+      options:
+      - Disease Research
+      - Genetic Sequencing
+      - Biomarker Discovery
+      - Clinical Trials
+      - Ancestry Analysis
+      - Other Academic Research
+      required: true
+    - id: 14
+      name: section_data_use
+      label: -- Data Use and Sharing --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: data_sharing_agreement
+      label: I consent to my genetic data being shared with other researchers
+      hint: Data may be shared for additional research
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 16
+      name: commercial_use
+      label: I consent to potential commercial use of research results
+      hint: Results may have commercial applications
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 17
+      name: future_contact
+      label: I consent to being contacted for future research opportunities
+      hint: We may contact you about related studies
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 18
+      name: section_risks_benefits
+      label: -- Risks and Benefits --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: understand_risks
+      label: I understand the potential risks of genetic research
+      hint: Risks include privacy concerns and incidental findings
+      type: select_one
+      options:
+      - I Understand
+      - I Do Not Understand
+      required: true
+    - id: 20
+      name: understand_benefits
+      label: I understand that I may not benefit from this research
+      hint: This study may advance scientific knowledge
+      type: select_one
+      options:
+      - I Understand
+      - I Do Not Understand
+      required: true
+    - id: 21
+      name: section_privacy_protection
+      label: -- Privacy and Data Protection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: privacy_measures
+      label: I acknowledge that my data will be de-identified and kept confidential
+      hint: Data will be protected with strict security measures
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 23
+      name: data_retention
+      label: Data Retention Period
+      hint: How long will my data be stored
+      type: select_one
+      options:
+      - For Duration of Study Only
+      - 5 Years After Study
+      - 10 Years After Study
+      - Indefinitely for Research
+      required: true
+    - id: 24
+      name: data_deletion_option
+      label: I want the option to request deletion of my genetic data
+      hint: You can request data deletion at any time
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 25
+      name: section_withdrawal
+      label: -- Withdrawal and Compensation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: right_to_withdraw
+      label: I understand I can withdraw from this study at any time
+      hint: Withdrawal does not affect my other care
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 27
+      name: compensation
+      label: Compensation for Participation
+      hint: Select if applicable
+      type: select_one
+      options:
+      - No Compensation
+      - Gift Card
+      - Research Credit
+      - Other Compensation
+      required: false
+    - id: 28
+      name: section_consent_signature
+      label: -- Final Consent --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 29
+      name: full_consent
+      label: I have read this form, understand the risks and benefits, and voluntarily
+        consent to participate in this genetic research
+      hint: This confirms your understanding and agreement
+      type: select_one
+      options:
+      - I Consent
+      - I Do Not Consent
+      required: true
+    - id: 30
+      name: consent_date
+      label: Consent Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true

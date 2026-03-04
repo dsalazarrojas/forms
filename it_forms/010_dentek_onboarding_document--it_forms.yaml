@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: dentek_onboarding_document
+    pages:
+    - id: 1
+      name: onboarding_company
+      label: Onboarding Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: onboarding_location
+      label: onboarding_location
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 3
+      name: onboarding_job_title
+      label: onboarding_job_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: onboarding_email
+      label: onboarding_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: onboarding_phone
+      label: onboarding_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: onboarding_password
+      label: onboarding_password
+      hint: null
+      type: text
+      options: []
+      required: false

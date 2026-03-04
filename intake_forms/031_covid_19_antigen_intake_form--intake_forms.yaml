@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Covid 19 Antigen Intake Form
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: vaccine_info
+      label: Vaccine Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: medical_info
+      label: Medical Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: contact_relationship
+      label: Relationship
+      hint: null
+      type: select_one
+      options:
+      - Patient
+      - Family Member
+      - Other
+      required: false
+    - id: 8
+      name: contact_relationship_other
+      label: Other Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Diabetes
+      - Hypertension
+      - Asthma
+      - Allergy
+      - Chronic Kidney Disease
+      - Cancer
+      - Other
+      required: false
+    - id: 10
+      name: medical_condition_other
+      label: Other Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: medical_notes
+      label: Medical Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: vaccine_dose
+      label: Vaccine Dose
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: vaccine_dose_administered
+      label: Vaccine Dose Administered
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: vaccine_side_effects
+      label: Vaccine Side Effects
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Fever
+      - Fatigue
+      - Headache
+      - Nausea
+      - Rash
+      - Itching
+      - Hives
+      - Swollen Lymph Nodes
+      - Other
+      required: false
+    - id: 15
+      name: vaccine_side_effects_other
+      label: Other Side Effects
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: appointment_scheduled
+      label: Appointment Scheduled
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: appointment_time
+      label: Appointment Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: appointment_date
+      label: Appointment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: follow_up_visit
+      label: Follow-up Visit
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Pending
+      required: false
+    - id: 20
+      name: follow_up_visit_scheduled
+      label: Follow-up Visit Scheduled
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: follow_up_visit_time
+      label: Follow-up Visit Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: next_follow_up_visit
+      label: Next Follow-up Visit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: next_follow_up_visit_time
+      label: Next Follow-up Visit Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false

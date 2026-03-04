@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: rfid_performance_evaluation_form
+    pages:
+    - id: 1
+      name: test_type
+      label: Test Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: test_date
+      label: Test Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: issue_description
+      label: Issue Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: performance_metric_1
+      label: Performance Metric 1
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: issue
+      label: Issue
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: metric_value
+      label: Metric Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: issue_comments
+      label: Issue Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: recommendation
+      label: Recommendation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: performance_metric_2
+      label: Performance Metric 2
+      hint: null
+      type: number
+      options: []
+      required: false

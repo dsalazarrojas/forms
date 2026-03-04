@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Specialty Products Insurance Form
+    pages:
+    - id: 1
+      name: product_type
+      label: product type
+      hint: null
+      type: select_one
+      options:
+      - Option A
+      - Option B
+      - Option C
+      required: false
+    - id: 2
+      name: product_value
+      label: product value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: coverage_start_date
+      label: coverage start date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: coverage_end_date
+      label: coverage end date
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: coverage_term
+      label: coverage term
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: coverage_start_time
+      label: coverage start time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: product_description
+      label: product description
+      hint: Brief description of the product
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: coverage_status
+      label: coverage status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 9
+      name: policy_holder_name
+      label: policy holder name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: policy_holder_email
+      label: policy holder email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: policy_holder_phone
+      label: policy holder phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: policy_holder_address
+      label: policy holder address
+      hint: null
+      type: text
+      options: []
+      required: false

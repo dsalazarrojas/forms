@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Aircraft Annual Inspection Form
+    pages:
+    - id: 1
+      name: inspector_name
+      label: Inspector name
+      hint: Person conducting the inspection
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: inspection_date
+      label: Inspection date
+      hint: Date of the annual inspection
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: aircraft_registration
+      label: Aircraft registration
+      hint: Tail number or registration identifier
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: hours_flown_since_last
+      label: Hours flown since last inspection
+      hint: Total airframe hours since last check
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: discrepancies_found
+      label: Discrepancies found
+      hint: List any defects or maintenance items
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: required_repairs
+      label: Required repairs and recommendations
+      hint: Actions needed before release
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: life_limited_parts_status
+      label: Life limited parts status
+      hint: Condition and remaining life for parts
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: compliance_status
+      label: Compliance with airworthiness directives
+      hint: Note outstanding ADs or service bulletins
+      type: select_one
+      options:
+      - Compliant
+      - Non compliant
+      required: true
+    - id: 9
+      name: inspector_signature
+      label: Inspector signature acknowledgement
+      hint: Name and certification of inspector
+      type: note
+      options: []
+      required: true

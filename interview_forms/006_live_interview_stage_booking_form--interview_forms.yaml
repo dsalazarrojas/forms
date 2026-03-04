@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Live Interview Stage Booking Form
+    pages:
+    - id: 1
+      name: interview_stage_booking_form
+      label: Live Interview Stage Booking Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: interview_stage_time
+      label: Book Your Interview Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: interview_stage_date
+      label: Select a Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: interview_stage_slot
+      label: Select a Slot
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: interview_stage_duration
+      label: Select Duration
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: candidate_name
+      label: Candidate Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: candidate_contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: candidate_availability
+      label: Availability
+      hint: null
+      type: text
+      options: []
+      required: false

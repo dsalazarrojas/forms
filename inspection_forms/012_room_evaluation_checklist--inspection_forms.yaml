@@ -1,0 +1,102 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Room Evaluation Checklist
+    pages:
+    - id: 1
+      name: room_evaluation_checklist
+      label: Room Evaluation Checklist
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: general_area
+      label: General Area
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: bathroom
+      label: Bathroom
+      hint: null
+      type: select_multiple
+      options:
+      - Clean
+      - Unclean
+      - Partially Clean
+      - Not Clean
+      required: false
+    - id: 4
+      name: kitchen_area
+      label: Kitchen Area
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: room_type
+      label: Room Type
+      hint: null
+      type: select_one
+      options:
+      - Room
+      - Suite
+      - Other
+      required: false
+    - id: 6
+      name: room_status
+      label: Room Status
+      hint: null
+      type: select_one
+      options:
+      - Occupied
+      - Vacant
+      - Under Renovation
+      required: false
+    - id: 7
+      name: general_condition
+      label: General Condition
+      hint: null
+      type: select_multiple
+      options:
+      - Satisfactory
+      - Needs Improvement
+      - Needs Major Repair
+      required: false
+    - id: 8
+      name: maintenance_items
+      label: Maintenance Items
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: follow_up_actions
+      label: Follow-up Actions
+      hint: null
+      type: select_multiple
+      options:
+      - Scheduled
+      - Not Scheduled
+      - In Progress
+      required: false
+    - id: 10
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: Creative Project Photographer Interview Form
+    pages:
+    - id: 1
+      name: photographer_application
+      label: Photographer Application
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: portfolio_review
+      label: Review Portfolio
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: review_criteria
+      label: Review Criteria
+      hint: null
+      type: select_multiple
+      options:
+      - Artistic Value
+      - Technical Skill
+      - Creativity
+      - Relevant Experience
+      required: false
+    - id: 4
+      name: review_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: submission_agreement
+      label: Submission Agreement
+      hint: null
+      type: select_one
+      options:
+      - I have read and agreed to the submission guidelines
+      - I have not read or do not agree to the submission guidelines
+      required: false

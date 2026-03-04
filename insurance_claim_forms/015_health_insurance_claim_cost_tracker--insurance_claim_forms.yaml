@@ -1,0 +1,50 @@
+inputSchema:
+  type: object
+  properties:
+    title: Health Insurance Claim Cost Tracker
+    pages:
+    - id: 1
+      name: user_info
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: claim_details
+      label: Claim Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: claim_status
+      label: Claim Status
+      hint: null
+      type: select_one
+      options:
+      - Insurance Company
+      - Denied
+      - Pending
+      required: false
+    - id: 4
+      name: claim_amount
+      label: Claim Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: claim_date
+      label: Claim Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: claim_description
+      label: Claim Description
+      hint: null
+      type: text
+      options: []
+      required: false

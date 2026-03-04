@@ -1,0 +1,53 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Equipment Agreement
+    pages:
+    - id: 1
+      name: employee_equipment_agreement
+      label: Employee Equipment Agreement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: equipment_list
+      label: Equipment List
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: equipment_details
+      label: Equipment Details
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: date_assigned
+      label: Date Assigned
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time_assigned
+      label: Time Assigned
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: equipment_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

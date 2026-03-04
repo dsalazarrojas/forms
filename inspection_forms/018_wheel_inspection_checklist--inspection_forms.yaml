@@ -1,0 +1,126 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Wheel Inspection Checklist
+    pages:
+    - id: 1
+      name: vehicle_type
+      label: Vehicle Type
+      hint: null
+      type: select_one
+      options:
+      - car
+      - truck
+      - motorcycle
+      - tractor
+      - forklift
+      required: false
+    - id: 2
+      name: wheel_side
+      label: Wheel Side
+      hint: null
+      type: select_multiple
+      options:
+      - front
+      - rear
+      required: false
+    - id: 3
+      name: wheel_position
+      label: Wheel Position
+      hint: null
+      type: select_one
+      options:
+      - front_left
+      - front_right
+      - rear_left
+      - rear_right
+      - center
+      required: false
+    - id: 4
+      name: tire_condition
+      label: Tire Condition
+      hint: null
+      type: select_one
+      options:
+      - new
+      - worn
+      - damaged
+      - flat
+      - missing
+      required: false
+    - id: 5
+      name: bearing_condition
+      label: Bearing Condition
+      hint: null
+      type: select_one
+      options:
+      - good
+      - worn
+      - damaged
+      - loose
+      - missing
+      required: false
+    - id: 6
+      name: seal_condition
+      label: Seal Condition
+      hint: null
+      type: select_one
+      options:
+      - good
+      - worn
+      - "\u0E1B\u0E23\u0E30\u0E01 damaged"
+      - missing
+      required: false
+    - id: 7
+      name: hub_condition
+      label: Hub Condition
+      hint: null
+      type: select_one
+      options:
+      - good
+      - worn
+      - damaged
+      - loose
+      - missing
+      required: false
+    - id: 8
+      name: bearing_type
+      label: Bearing Type
+      hint: null
+      type: select_one
+      options:
+      - sealed
+      - unsealed
+      required: false
+    - id: 9
+      name: maintenance_history
+      label: Maintenance History
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: last_maintenance_date
+      label: Last Maintenance Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: next_scheduled_maintenance_date
+      label: Next Scheduled Maintenance Date
+      hint: null
+      type: date
+      options: []
+      required: false

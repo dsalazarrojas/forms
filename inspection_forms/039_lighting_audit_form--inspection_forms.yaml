@@ -1,0 +1,147 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lighting Audit Form
+    pages:
+    - id: 1
+      name: lighting_audit_form
+      label: Lighting Audit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: power_requirement
+      label: Power Requirement
+      hint: null
+      type: select_one
+      options:
+      - '120'
+      - '180'
+      - '240'
+      - '280'
+      - '480'
+      - '600'
+      required: false
+    - id: 4
+      name: power_type
+      label: Power Type
+      hint: null
+      type: select_one
+      options:
+      - AC
+      - DC
+      required: false
+    - id: 5
+      name: power_factor
+      label: Power Factor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: quality
+      label: Quality
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: lumens
+      label: Lumens
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: lux
+      label: Lux
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: color_temperature
+      label: Color Temperature
+      hint: null
+      type: select_one
+      options:
+      - '2700'
+      - '3000'
+      - '3500'
+      - '4000'
+      - '6500'
+      required: false
+    - id: 10
+      name: color_rendering
+      label: Color Rendering
+      hint: null
+      type: select_one
+      options:
+      - warm
+      - cool
+      - warm-white
+      - cool-white
+      required: false
+    - id: 11
+      name: fixture_type
+      label: Fixture Type
+      hint: null
+      type: select_one
+      options:
+      - LED
+      - Halogen
+      - Fluorescent
+      - HID
+      required: false
+    - id: 12
+      name: fixture_location
+      label: Fixture Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: note
+      label: Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false

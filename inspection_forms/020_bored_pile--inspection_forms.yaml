@@ -1,0 +1,157 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bored Pile
+    pages:
+    - id: 1
+      name: installation_header
+      label: -- Bored Pile Installation Record --
+      hint: construction site inspections
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: project_name
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: pile_ref_no
+      label: Pile Reference Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: rig_operator
+      label: Rig Operator Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: boring_date
+      label: Date of Boring
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: boring_details_header
+      label: -- Boring Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: designed_diameter
+      label: Designed Pile Diameter - meters
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: ground_lvl
+      label: Existing Ground Level - meters
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: cutoff_lvl
+      label: Cut-off Level - meters
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: toe_lvl
+      label: Pile Toe Level - meters
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: actual_depth
+      label: Actual Boring Depth - meters
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: soil_header
+      label: -- Soil and Material --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: toe_soil_type
+      label: Soil Type at Toe Level
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: casing_status
+      label: Temporary Casing Used?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: concrete_vol_designed
+      label: Designed Concrete Volume - cubic meters
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: concrete_vol_actual
+      label: Actual Concrete Volume Poured - cubic meters
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: reinforcement_header
+      label: -- Reinforcement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: cage_inspection_status
+      label: Reinforcement Cage Inspection
+      hint: null
+      type: select_one
+      options:
+      - Passed
+      - Failed
+      - N/A
+      required: true
+    - id: 19
+      name: approval_header
+      label: -- Inspection Approval --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: site_inspector
+      label: Site Inspector Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: approval_dt
+      label: Date of Approval
+      hint: null
+      type: date
+      options: []
+      required: true

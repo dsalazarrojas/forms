@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: it_equipment_inspection_form
+    pages:
+    - id: 1
+      name: user_info
+      label: User Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: equipment_list
+      label: equipment_list
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''IT equipment 1''}'
+      - '{''id'': 2, ''name'': ''IT equipment 2''}'
+      required: true
+    - id: 3
+      name: inspection_date
+      label: inspection_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: issues_list
+      label: Issues List
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Issue 1''}'
+      - '{''id'': 2, ''name'': ''Issue 2''}'
+      - '{''id'': 3, ''name'': ''Issue 3''}'
+      required: false
+    - id: 5
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: repair_status
+      label: repair_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Repairing''}'
+      - '{''id'': 2, ''name'': ''Repaired''}'
+      - '{''id'': 3, ''name'': ''Not Repairing''}'
+      required: true
+    - id: 10
+      name: equipment_type
+      label: equipment_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Hardware''}'
+      - '{''id'': 2, ''name'': ''Software''}'
+      required: true
+    - id: 11
+      name: condition
+      label: condition
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Good''}'
+      - '{''id'': 2, ''name'': ''Fair''}'
+      - '{''id'': 3, ''name'': ''Poor''}'
+      required: true
+    - id: 12
+      name: last_inspection_date
+      label: last_inspection_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: last_repaired_date
+      label: last_repaired_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: next_inspection_date
+      label: next_inspection_date
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Homeowners Insurance Quote Questionnaire Form
+    pages:
+    - id: 1
+      name: home_address
+      label: Home Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: insurance_type
+      label: Type of Insurance
+      hint: null
+      type: select_multiple
+      options:
+      - Homeowners
+      - Renters
+      - Condo Co-op
+      required: false
+    - id: 5
+      name: insurance_coverage_type
+      label: Insurance Coverage Type
+      hint: null
+      type: select_multiple
+      options:
+      - Liability
+      - Property
+      - Umbrella
+      required: false
+    - id: 6
+      name: coverage_start_date
+      label: Coverage Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: coverage_end_date
+      label: Coverage End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: policy_effective_date
+      label: Policy Effective Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: policy_issuance_date
+      label: Policy Issuance Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: coverage_location
+      label: Coverage Location
+      hint: null
+      type: select_one
+      options:
+      - Primary Residence
+      - Secondary Residence
+      - Other
+      required: false
+    - id: 11
+      name: coverage_location_note
+      label: Coverage Location Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: home_type
+      label: Type of Home
+      hint: null
+      type: select_multiple
+      options:
+      - Single Family Residence
+      - Duplex
+      - Triplex
+      - 4 Family Residence
+      - Other
+      required: false
+    - id: 13
+      name: home_year_built
+      label: Year Home Built
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: home_age
+      label: Home Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: home_size_sqft
+      label: Home Size SQFT
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: home_value
+      label: Home Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: policy_annual_premium
+      label: Policy Annual Premium
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: policy_annual_premium_currency
+      label: Policy Annual Premium Currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - CAD
+      - EUR
+      required: false
+    - id: 19
+      name: agent_name
+      label: Agent Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: agent_phone
+      label: Agent Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: policy_status
+      label: Policy Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      - Pending
+      required: false
+    - id: 22
+      name: policy_status_note
+      label: Policy Status Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: policy_effective_date_note
+      label: Policy Effective Date Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: policy_issuance_date_note
+      label: Policy Issuance Date Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: policy_note
+      label: Policy Note
+      hint: null
+      type: note
+      options: []
+      required: false

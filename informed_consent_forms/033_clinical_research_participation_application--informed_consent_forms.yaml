@@ -1,0 +1,134 @@
+inputSchema:
+  type: object
+  properties:
+    title: Clinical Research Participation Application
+    pages:
+    - id: 1
+      name: full_name
+      label: Applicant Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: dob
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: section_interests
+      label: -- Study Interests --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: selected_study
+      label: Which clinical study are you applying for?
+      hint: null
+      type: select_one
+      options:
+      - Cardiovascular Health
+      - Sleep Disorders
+      - Diabetes Management
+      - Mental Wellness
+      required: true
+    - id: 7
+      name: discovery_source
+      label: How did you hear about this clinical research study?
+      hint: null
+      type: select_one
+      options:
+      - Social Media
+      - Hospital Flyer
+      - Physician Referral
+      - Online Search
+      required: false
+    - id: 8
+      name: section_screening
+      label: -- Preliminary Screening --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: chronic_conditions
+      label: Do you have any chronic medical conditions?
+      hint: Please list or type None
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: prescription_medications
+      label: Are you currently taking any prescription medications?
+      hint: Please list or type None
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: recent_participation
+      label: Have you participated in any clinical study in the last 6 months?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 12
+      name: section_consent
+      label: -- Informed Consent Acknowledgement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: age_confirmation
+      label: I confirm that I am 18 years of age or older
+      hint: null
+      type: select_one
+      options:
+      - true
+      - I confirm
+      required: true
+    - id: 14
+      name: voluntary_participation_ack
+      label: I understand that participation is voluntary and I can withdraw at any
+        time
+      hint: null
+      type: select_one
+      options:
+      - true
+      - I understand
+      required: true
+    - id: 15
+      name: contact_consent
+      label: I consent to being contacted by the research team for further screening
+      hint: null
+      type: select_one
+      options:
+      - true
+      - I consent
+      required: true
+    - id: 16
+      name: digital_signature
+      label: Digital Signature - Type Full Name
+      hint: null
+      type: text
+      options: []
+      required: true

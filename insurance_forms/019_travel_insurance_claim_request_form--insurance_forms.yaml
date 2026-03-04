@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: travel_insurance_claim_request_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: Your first name, please
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: Your last name, please
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Your phone number, including area code
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: travel_date
+      label: Travel Date
+      hint: Travel date
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: travel_country
+      label: Country of Travel
+      hint: Country you visited or were going to visit
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: travel_document
+      label: Travel Document
+      hint: Upload your travel document
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: reason_for_claim
+      label: Reason for Claim
+      hint: null
+      type: text
+      options: []
+      required: false

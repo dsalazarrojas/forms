@@ -1,0 +1,261 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fountain Inspection Checklist
+    pages:
+    - id: 1
+      name: check_fountain_water_level
+      label: Check Fountain Water Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 2
+      name: check_fountain_mechanism
+      label: Check Fountain Mechanism
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: check_safety_features
+      label: Check Safety Features
+      hint: Are there any safety features present?
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: check_maintenance_needs
+      label: Check Maintenance Needs
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: check_water_temperature
+      label: Check Water Temperature
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: check_water_flow
+      label: Check Water Flow
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: check_drain_system
+      label: Check Drain System
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: check_filter_status
+      label: Check Filter Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 10
+      name: check_pump_status
+      label: Check Pump Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 11
+      name: check_suction_line_status
+      label: Check Suction Line Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 12
+      name: check_discharge_pipe_status
+      label: Check Discharge Pipe Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 13
+      name: check_valve_status
+      label: Check Valve Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 14
+      name: check_main_line_status
+      label: Check Main Line Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 15
+      name: check_return_line_status
+      label: Check Return Line Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 16
+      name: check_check_valve_status
+      label: Check Check Valve Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 17
+      name: check_drain_valve_status
+      label: Check Drain Valve Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 18
+      name: check_air_lock_check_valve_status
+      label: Check Air Lock Check Valve Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 19
+      name: check_screened_inlet_screen
+      label: Check Screened Inlet Screen
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: check_screened_outlet_screen
+      label: Check Screened Outlet Screen
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: check_main_piping
+      label: Check Main Piping
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: check_mechanical_piping
+      label: Check Mechanical Piping
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: check_elbow
+      label: Check Elbow
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: check_bend
+      label: Check Bend
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: note_2
+      label: Note 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: check_drain_line
+      label: Check Drain Line
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 27
+      name: check_drain_line_status
+      label: Check Drain Line Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 28
+      name: check_pump_type
+      label: Check Pump Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 29
+      name: note_3
+      label: Note 3
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 30
+      name: check_pump_size
+      label: Check Pump Size
+      hint: null
+      type: number
+      options: []
+      required: false

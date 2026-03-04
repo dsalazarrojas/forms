@@ -1,0 +1,47 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Health Insurance Claim Monitoring Form
+    pages:
+    - id: 1
+      name: claim_details
+      label: Claim Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: claimant_info
+      label: Claimant Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: healthcare_provider
+      label: Healthcare Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: claim_status
+      label: Claim Status
+      hint: null
+      type: select_one
+      options:
+      - Claim Open
+      - In Progress
+      - Closed
+      required: false

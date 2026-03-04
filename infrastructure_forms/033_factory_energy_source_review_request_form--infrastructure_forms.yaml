@@ -1,0 +1,59 @@
+inputSchema:
+  type: object
+  properties:
+    title: Factory Energy Source Review Request Form
+    pages:
+    - id: 1
+      name: current_energy_use
+      label: Current Energy Use
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: current_energy_use_kwh
+      label: KWh
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: planned_changes
+      label: Planned Changes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: planned_changes_type
+      label: Change Type
+      hint: null
+      type: select_one
+      options:
+      - Energy efficiency upgrades
+      - Equipment replacement
+      - Lighting upgrades
+      - Renewable energy systems
+      - Other
+      required: false
+    - id: 5
+      name: change_start_date
+      label: Planned change start date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: change_end_date
+      label: Planned change end date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: sustainability_initiatives
+      label: Sustainability Initiatives
+      hint: null
+      type: text
+      options: []
+      required: false

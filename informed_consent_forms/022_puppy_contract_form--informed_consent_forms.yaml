@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Puppy Contract Form
+    pages:
+    - id: 1
+      name: buyer_name
+      label: buyer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: puppy_name
+      label: puppy_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: purchase_date
+      label: purchase_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: price
+      label: price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: seller_name
+      label: seller_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: veterinary_info
+      label: veterinary_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: spay_necessary
+      label: spay_necessary
+      hint: null
+      type: select_one
+      options:
+      - spay_yes
+      - spay_no
+      required: false
+    - id: 10
+      name: neuter_necessary
+      label: neuter_necessary
+      hint: null
+      type: select_one
+      options:
+      - neuter_yes
+      - neuter_no
+      required: false
+    - id: 11
+      name: microchip_important
+      label: microchip_important
+      hint: null
+      type: select_multiple
+      options:
+      - microchip_yes
+      - microchip_no
+      required: false
+    - id: 12
+      name: vaccination_record
+      label: vaccination_record
+      hint: null
+      type: select_multiple
+      options:
+      - vaccination_records_yes
+      - vaccination_records_no
+      required: false

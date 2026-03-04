@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: wireless_security_camera_subscription_free_purchase_inquiry
+    pages:
+    - id: 1
+      name: wireless_security_camera_subscription_free_purchase_inquiry
+      label: Wireless Security Camera Subscription Free Purchase Inquiry
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: buyer_name
+      label: buyer name
+      hint: Enter buyer name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: wireless_security_camera_type
+      label: wireless security camera type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Wireless Security System'', ''value'': ''wireless_security_system''}'
+      - '{''label'': ''Security Camera'', ''value'': ''security_camera''}'
+      - '{''label'': ''Smart Doorbell'', ''value'': ''smart_doorbell''}'
+      - '{''label'': ''Video Security System'', ''value'': ''video_security_system''}'
+      required: true
+    - id: 6
+      name: security_level
+      label: security level
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Basic'', ''value'': ''basic''}'
+      - '{''label'': ''Advanced'', ''value'': ''advanced''}'
+      - '{''label'': ''Premium'', ''value'': ''premium''}'
+      required: true
+    - id: 7
+      name: install_date
+      label: install date
+      hint: Select install date
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: schedule_follow_up
+      label: schedule follow up
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: additional_comments
+      label: additional comments
+      hint: null
+      type: text
+      options: []
+      required: false

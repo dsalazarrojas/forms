@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: HRT Patient Intake Questionnaire
+    pages:
+    - id: 1
+      name: form_heading
+      label: Form Heading
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: medical_history
+      label: medical_history
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: medical_history_date
+      label: medical_history_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: medical_history_time
+      label: medical_history_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: hrt_doctor_referral
+      label: hrt_doctor_referral
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: medical_history_additional_info
+      label: medical_history_additional_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: patient_notes
+      label: patient_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: additional_info
+      label: additional_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: hrt_treatment_goals
+      label: hrt_treatment_goals
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: blood_test_results
+      label: blood_test_results
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: hrt_doctor_name
+      label: hrt_doctor_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: hrt_nurse_name
+      label: hrt_nurse_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: hrt_doctor_phone
+      label: hrt_doctor_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: hrt_doctor_email
+      label: hrt_doctor_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 18
+      name: hrt_clinic_phone
+      label: hrt_clinic_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: hrt_clinic_email
+      label: hrt_clinic_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 20
+      name: hrt_clinic_address
+      label: hrt_clinic_address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: hrt_clinic_hours
+      label: hrt_clinic_hours
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: hrt_clinic_notes
+      label: hrt_clinic_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: hrt_other_clinic_notes
+      label: hrt_other_clinic_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: hrt_patient_signature
+      label: hrt_patient_signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: hrt_date_completed
+      label: hrt_date_completed
+      hint: null
+      type: date
+      options: []
+      required: true

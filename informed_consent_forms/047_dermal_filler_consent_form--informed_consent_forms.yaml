@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dermal Filler Consent Form
+    pages:
+    - id: 1
+      name: dermal_filler_consent_form
+      label: dermalfillerconsentform
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: procedure
+      label: procedure
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: dermal_filler_type
+      label: dermalfillertype
+      hint: null
+      type: select_one
+      options:
+      - dermal_filler_voluma
+      - dermal_filler_radiesis
+      - dermal_filler_hydraluron
+      required: false
+    - id: 4
+      name: area
+      label: area
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: num_units
+      label: numunits
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: dermal_filler_concentration
+      label: dermalfillerconcentration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: num_bottles
+      label: numbottles
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: consent
+      label: consent
+      hint: This is a sample form. You can customize it.
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: consent_date
+      label: consentdate
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: signature
+      label: signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: assigned_tool
+      label: assignedtool
+      hint: null
+      type: text
+      options: []
+      required: false

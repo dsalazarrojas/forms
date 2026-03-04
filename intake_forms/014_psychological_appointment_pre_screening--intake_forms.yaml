@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: Psychological Appointment Pre Screening
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: preferred_language
+      label: Preferred Language
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: schedule_request
+      label: Schedule Request
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: intake_details
+      label: Intake Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: available_time
+      label: Available Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: mental_health_provider
+      label: Mental Health Provider
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: session_goals
+      label: Session Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: emergency_contact_person
+      label: Emergency Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: emergency_contact_relation
+      label: Emergency Contact Relation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: emergency_contact_email
+      label: Emergency Contact Email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: emergency_contact_address
+      label: Emergency Contact Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: client_agreement
+      label: Client Agreement
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 17
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: medication
+      label: Medication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: allergies
+      label: Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: emergency_medical_device
+      label: Emergency Medical Device
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: insurance_provider
+      label: Insurance Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: insurance_number
+      label: Insurance Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: insurance_plan
+      label: Insurance Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: other_health_insurance
+      label: Other Health Insurance
+      hint: null
+      type: text
+      options: []
+      required: false

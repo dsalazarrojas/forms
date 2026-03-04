@@ -1,0 +1,145 @@
+inputSchema:
+  type: object
+  properties:
+    title: Therapy Program Admission Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: intake_date
+      label: Intake Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: intake_time
+      label: Intake Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: therapist_name
+      label: Therapist Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: therapist_phone
+      label: Therapist Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: practice_name
+      label: Practice Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: practice_address
+      label: Practice Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: practice_phone
+      label: Practice Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: practice_email
+      label: Practice Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: consent_to_treatment
+      label: Consent to Treatment
+      hint: null
+      type: select_multiple
+      options:
+      - Consent to treatment
+      - 'False'
+      - Maybe
+      required: false
+    - id: 14
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: schedule_time
+      label: Schedule Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: schedule_date
+      label: Schedule Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: schedule_note
+      label: Schedule Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: select_one
+      options:
+      - Online Payment
+      - Offline Payment
+      required: false
+    - id: 19
+      name: other_payment_details
+      label: Other Payment Details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: online-internship-application-form
+    pages:
+    - id: 1
+      name: personal_details
+      label: Personal details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: education
+      label: Education
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': "Bachelor''s degree", ''label'': "Bachelor''s degree"}'
+      - '{''id'': 2, ''value'': "Master''s degree", ''label'': "Master''s degree"}'
+      - '{''id'': 3, ''value'': ''Doctoral degree'', ''label'': ''Doctoral degree''}'
+      required: false
+    - id: 4
+      name: skills
+      label: Skills
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''Programming'', ''label'': ''Programming''}'
+      - '{''id'': 2, ''value'': ''Data analysis'', ''label'': ''Data analysis''}'
+      required: false
+    - id: 5
+      name: availability
+      label: Availability
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: work_experience
+      label: Work Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: referees
+      label: Referees
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: referees_info
+      label: Referees info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: upload_files
+      label: Upload files
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: upload_files_2
+      label: Upload files 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: upload_files_3
+      label: Upload files 3
+      hint: null
+      type: note
+      options: []
+      required: false

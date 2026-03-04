@@ -1,0 +1,153 @@
+inputSchema:
+  type: object
+  properties:
+    title: Transportation Infrastructure Condition Report
+    pages:
+    - id: 1
+      name: road_condition
+      label: Road Condition
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 2
+      name: bridge_condition
+      label: Bridge Condition
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 3
+      name: asset_condition
+      label: Asset Condition
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 4
+      name: condition_date
+      label: Condition Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: condition_time
+      label: Condition Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: condition_description
+      label: Condition Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: road_type
+      label: Road Type
+      hint: null
+      type: select_one
+      options:
+      - Highway
+      - Street
+      - Alley
+      - Other
+      required: false
+    - id: 8
+      name: asset_type
+      label: Asset Type
+      hint: null
+      type: select_one
+      options:
+      - Bridge
+      - Road
+      - Other
+      required: false
+    - id: 9
+      name: condition_status
+      label: Condition Status
+      hint: null
+      type: select_one
+      options:
+      - Complete
+      - Incomplete
+      - Unknown
+      required: false
+    - id: 10
+      name: inspection_type
+      label: Inspection Type
+      hint: null
+      type: select_multiple
+      options:
+      - Visual
+      - Physical
+      - Other
+      required: false
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: asset_location
+      label: Asset Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: asset_location_notes
+      label: Asset Location Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: asset_location_coordinates
+      label: Asset Location Coordinates
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: asset_location_coordinates_lat
+      label: Asset Location Coordinates Lat
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: asset_location_coordinates_lon
+      label: Asset Location Coordinates Lon
+      hint: null
+      type: number
+      options: []
+      required: false

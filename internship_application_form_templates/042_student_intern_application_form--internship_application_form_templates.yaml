@@ -1,0 +1,52 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Intern Application Form
+    pages:
+    - id: 1
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: educational_background
+      label: Educational Background
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: work_experience
+      label: Work Experience
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 4
+      name: skills
+      label: Skills
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 5
+      name: references
+      label: References
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: available_start_date
+      label: Available Start Date
+      hint: null
+      type: date
+      options: []
+      required: false

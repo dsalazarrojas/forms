@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Graphic Design Inquiry Form
+    pages:
+    - id: 1
+      name: project_description
+      label: Project Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: design_services
+      label: Design Services
+      hint: null
+      type: select_multiple
+      options:
+      - Event Flyer
+      - Business Card
+      - Poster
+      required: false
+    - id: 4
+      name: project_deadline
+      label: Project Deadline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Inquiry Forms
+      - Web Design Forms
+      required: false
+    - id: 9
+      name: form_id
+      label: Form ID
+      hint: null
+      type: text
+      options: []
+      required: false

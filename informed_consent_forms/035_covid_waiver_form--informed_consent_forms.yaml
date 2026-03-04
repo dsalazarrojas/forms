@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Covid Waiver Form
+    pages:
+    - id: 1
+      name: medical_organization_name
+      label: Medical Organization Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_date_of_birth
+      label: Patient Date Of Birth
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: patient_address
+      label: Patient Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: patient_city
+      label: Patient City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: patient_state
+      label: Patient State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: patient_postal_code
+      label: Patient Postal Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: medical_organization_type
+      label: Medical Organization Type
+      hint: null
+      type: select_one
+      options:
+      - Hospital
+      - Clinic
+      - Private
+      - Public
+      - Community
+      required: false
+    - id: 8
+      name: patient_vaccine_status
+      label: Patient Vaccine Status
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Partially
+      - Refused
+      required: false
+    - id: 9
+      name: patient_consent
+      label: Patient Consent
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

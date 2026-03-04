@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Rental History Verification Form
+    pages:
+    - id: 1
+      name: application_submitted_form
+      label: Application Submitted
+      hint: null
+      type: select_one
+      options:
+      - Yes, No, Maybe
+      - Other
+      required: false
+    - id: 2
+      name: rental_history_date_range
+      label: Rental History Date Range
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: previous_lease_end_date
+      label: Previous Lease End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: current_property_address
+      label: Current Property Address
+      hint: A street address is required for the current property the tenant resides
+        in.
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: previous_lease_length
+      label: Previous Lease Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: previous_lease_start_date
+      label: Previous Lease Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: previous_lease_end_date
+      label: Previous Lease End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: previous_property_address
+      label: Previous Property Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: rental_type
+      label: Rental Type
+      hint: null
+      type: select_one
+      options:
+      - Studio,1 Bedroom,2 Bedrooms,3 Bedrooms
+      - Other
+      required: false
+    - id: 10
+      name: rental_status
+      label: Rental Status
+      hint: null
+      type: select_one
+      options:
+      - Vacant,Occupied
+      - Other
+      required: false
+    - id: 11
+      name: property_owner
+      label: Property Owner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: property_manager
+      label: Property Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: tenant_name
+      label: Tenant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: lease_start_date
+      label: Lease Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: lease_end_date
+      label: Lease End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: rent
+      label: Rent
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: previous_owner_name
+      label: Previous Owner Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - Single Family,Multi Family,Rental Apt,Other
+      - Other
+      required: false
+    - id: 20
+      name: previous_property_address
+      label: Previous Property Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: previous_lease_length
+      label: Previous Lease Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: rent_amount
+      label: Rent Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: lease_start_date_time
+      label: Lease Start Date/Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: lease_end_date_time
+      label: Lease End Date/Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: tenant_relationship
+      label: Tenant Relationship
+      hint: null
+      type: select_one
+      options:
+      - Renter,Owner,Broker
+      - Other
+      required: false

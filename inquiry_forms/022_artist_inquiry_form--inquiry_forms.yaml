@@ -1,0 +1,128 @@
+inputSchema:
+  type: object
+  properties:
+    title: Artist Inquiry Form
+    pages:
+    - id: 1
+      name: artist_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: artist_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: artist_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: studio_name
+      label: Studio or Gallery Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: studio_address
+      label: Studio Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: primary_medium
+      label: Primary Artistic Medium
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: years_experience
+      label: Years of Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: inquiry_type
+      label: Type of Inquiry
+      hint: null
+      type: select_one
+      options:
+      - Exhibition Interest
+      - Gallery Representation
+      - Art Classes
+      - Commission Inquiry
+      - Collaboration
+      - Other
+      required: true
+    - id: 10
+      name: inquiry_details
+      label: Inquiry Details
+      hint: Tell us more about your interest
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: website
+      label: Website or Portfolio URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: social_media
+      label: Social Media Handles
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: work_samples
+      label: Work Samples or Images Attached
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Text Message
+      required: false
+    - id: 15
+      name: availability
+      label: Availability for Discussion
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: additional_information
+      label: Additional Information
+      hint: null
+      type: text
+      options: []
+      required: false

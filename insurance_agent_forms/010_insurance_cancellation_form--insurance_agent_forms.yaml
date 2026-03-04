@@ -1,0 +1,185 @@
+inputSchema:
+  type: object
+  properties:
+    title: Insurance Cancellation Form
+    pages:
+    - id: 1
+      name: customer_information
+      label: customer-information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: reason_for_cancellation
+      label: reason-for-cancellation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: reason_select
+      label: reason-for-cancellation-select
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''nonpayment''}'
+      - '{''id'': 2, ''name'': ''non-renewal''}'
+      - '{''id'': 3, ''name'': ''other''}'
+      required: false
+    - id: 4
+      name: policy_date
+      label: cancellation-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: policy_number
+      label: policy-number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: customer_signature
+      label: customer-signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: agent_signature
+      label: agent-signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: insurance_company_logo
+      label: insurance-company-logo
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: policy_owner
+      label: policy-owner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: policy_owner_contact
+      label: policy-owner-contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: policy_owner_email
+      label: policy-owner-email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: policy_owner_phone
+      label: policy-owner-phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: policy_owner_address
+      label: policy-owner-address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: customer_notes
+      label: customer-notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: agent_notes
+      label: agent-notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: signature_date
+      label: signature-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: agent_signature_date
+      label: agent-signature-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: customer_signature_attachment
+      label: customer-signature-attachment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: agent_signature_attachment
+      label: agent-signature-attachment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: policy_owner_agreement
+      label: policy-owner-agreement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: customer_agreement
+      label: customer-agreement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: agent_terms_and_conditions
+      label: terms-and-conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: customer_terms_and_conditions
+      label: terms-and-conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: policy_owner_terms_and_conditions
+      label: terms-and-conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: customer_acknowledgment
+      label: acknowledgment
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': True}'
+      - '{''id'': 2, ''name'': False}'
+      required: false

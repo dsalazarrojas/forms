@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: inspector_qualification_assessment
+    pages:
+    - id: 1
+      name: form_title
+      label: Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Inspection Forms
+      - Maintenance Forms
+      - Other
+      required: true
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: inspector_qualification
+      label: Qualification
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Satisfactory
+      - Unsatisfactory
+      required: false
+    - id: 5
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: review_time
+      label: Review Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: inspector_name
+      label: Inspector Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: review_notes
+      label: Review Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - Save and exit
+      - Save and continue
+      required: false
+    - id: 12
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false
+    - id: 13
+      name: review_time2
+      label: Review Time 2
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: review_date2
+      label: Review Date 2
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: submitted
+      label: Submitted
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 16
+      name: submitted_time
+      label: Submitted Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: form_submitted
+      label: Form Submitted
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 18
+      name: review_date3
+      label: Review Date 3
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: review_time3
+      label: Review Time 3
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: review_time4
+      label: Review Time 4
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: review_time5
+      label: Review Time 5
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: review_time6
+      label: Review Time 6
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: submitted_time2
+      label: Submitted Time 2
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: submitted_time3
+      label: Submitted Time 3
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: submitted_time4
+      label: Submitted Time 4
+      hint: null
+      type: time
+      options: []
+      required: false

@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pet Insurance Claim Form
+    pages:
+    - id: 1
+      name: claimant_name
+      label: claimant_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: claimant_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: claimant_phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: pet_name
+      label: pet_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: pet_species
+      label: pet_species
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: veterinary_clinic_name
+      label: veterinary_clinic_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: medical_expenses
+      label: medical_expenses
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: veterinary_certificate
+      label: veterinary_certificate
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: supporting_documents
+      label: supporting_documents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: signature
+      label: signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: review_status
+      label: review_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 14
+      name: review_comment
+      label: review_comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: claim_status
+      label: claim_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 16
+      name: reason_for_denial
+      label: reason_for_denial
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: claimant_address
+      label: claimant_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: claimant_city
+      label: claimant_city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: claimant_state
+      label: claimant_state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: claimant_zip
+      label: claimant_zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: veterinary_clinic_address
+      label: veterinary_clinic_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: veterinary_clinic_city
+      label: veterinary_clinic_city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: veterinary_clinic_state
+      label: veterinary_clinic_state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: veterinary_clinic_zip
+      label: veterinary_clinic_zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: veterinary_clinic_license
+      label: veterinary_clinic_license
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: true

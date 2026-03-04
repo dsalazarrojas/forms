@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Temp Agency Interview Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Temp Agency Interview Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: job_description
+      label: Job Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: job_reference
+      label: Job Reference
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: job_status
+      label: Job Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Closed
+      required: true
+    - id: 6
+      name: job_type
+      label: Job Type
+      hint: null
+      type: select_multiple
+      options:
+      - Full-Time
+      - Part-Time
+      - Contract
+      required: true
+    - id: 7
+      name: job_category
+      label: Job Category
+      hint: null
+      type: select_one
+      options:
+      - Sales
+      - Marketing
+      - Engineering
+      required: true
+    - id: 8
+      name: job_skills
+      label: Job Skills
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: candidate_name
+      label: Candidate Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: candidate_email
+      label: Candidate Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: candidate_phone
+      label: Candidate Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: candidate_availability
+      label: Candidate Availability
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: candidate_availability_2
+      label: Availability
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: role_fitting
+      label: Role Fitting
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: candidate_fit
+      label: Candidate Fit
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 16
+      name: screening_outcome
+      label: Screening Outcome
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 17
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: screening_comments
+      label: Screening Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: screening_outcome_comments
+      label: Screening Outcome Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: screening_outcome_notes
+      label: Screening Outcome Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: screening_status
+      label: Screening Status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - Screened
+      - Declined
+      required: true
+    - id: 22
+      name: screening_outcome_2
+      label: Screening Outcome 2
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 23
+      name: screening_outcome_3
+      label: Screening Outcome 3
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 24
+      name: screening_outcome_4
+      label: Screening Outcome 4
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 25
+      name: screening_outcome_5
+      label: Screening Outcome 5
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

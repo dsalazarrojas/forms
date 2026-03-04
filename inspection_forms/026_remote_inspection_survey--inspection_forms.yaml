@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Remote Inspection Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: remote_inspection_survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: facility_id
+      label: remote_facility
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1''}'
+      - '{''label'': ''Option 2''}'
+      - '{''label'': ''Option 3''}'
+      required: false
+    - id: 3
+      name: inspector_id
+      label: remote_inspector
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1''}'
+      - '{''label'': ''Option 2''}'
+      - '{''label'': ''Option 3''}'
+      required: false
+    - id: 4
+      name: start_date
+      label: remote_start_date
+      hint: YYYY-MM-DD
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: start_time
+      label: remote_start_time
+      hint: "HH:MM:SS"
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: end_date
+      label: remote_end_date
+      hint: YYYY-MM-DD
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: end_time
+      label: remote_end_time
+      hint: "HH:MM:SS"
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: remote_notes
+      hint: Add any additional notes.
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: remote_comments
+      hint: Add any additional comments.
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: photos
+      label: remote_photos
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Option 1''}'
+      - '{''label'': ''Option 2''}'
+      - '{''label'': ''Option 3''}'
+      required: false
+    - id: 11
+      name: signature
+      label: remote_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: facility_name
+      label: facility_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: facility_type
+      label: facility_type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: facility_address
+      label: facility_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: facility_contact
+      label: facility_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: facility_phone
+      label: facility_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: facility_email
+      label: facility_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: facility_hours
+      label: facility_hours
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: facility_manager
+      label: facility_manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: facility_inspector
+      label: facility_inspector
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: facility_notes
+      label: facility_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: facility_comments
+      label: facility_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: facility_photos
+      label: facility_photos
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Option 1''}'
+      - '{''label'': ''Option 2''}'
+      - '{''label'': ''Option 3''}'
+      required: false
+    - id: 24
+      name: facility_signature
+      label: facility_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: facility_review
+      label: facility_review
+      hint: null
+      type: text
+      options: []
+      required: false

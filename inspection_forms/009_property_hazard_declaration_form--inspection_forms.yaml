@@ -1,0 +1,137 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property Hazard Declaration Form
+    pages:
+    - id: 1
+      name: hazards_found
+      label: hazards_found
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: hazard_type
+      label: hazard_type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: risk_category
+      label: risk_category
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Moderate
+      - High
+      required: false
+    - id: 5
+      name: hazard_status
+      label: hazard_status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Passive
+      - Unknown
+      required: false
+    - id: 6
+      name: hazard_status_date
+      label: hazard_status_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: hazard_status_time
+      label: hazard_status_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: hazard_status_details
+      label: hazard_status_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: property_manager
+      label: property_manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: property_owner
+      label: property_owner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_person
+      label: contact_person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: phone_number
+      label: phone_number
+      hint: Phone number of contact
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: email_address
+      label: email_address
+      hint: Email of contact
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: hazard_reported_date
+      label: hazard_reported_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: hazard_reported_time
+      label: hazard_reported_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: hazard_reported_details
+      label: hazard_reported_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: hazard_remarks
+      label: hazard_remarks
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: file_upload
+      label: file_upload
+      hint: null
+      type: text
+      options: []
+      required: false

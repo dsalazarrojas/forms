@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Operational Punctuality Audit Form
+    pages:
+    - id: 1
+      name: start_time_field
+      label: start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 2
+      name: team_members
+      label: team_members
+      hint: null
+      type: select_multiple
+      options:
+      - Team Lead
+      - Shift Manager
+      - Operations Supervisor
+      required: false
+    - id: 3
+      name: delay_reasons
+      label: delay_reasons
+      hint: null
+      type: select_one
+      options:
+      - Equipment failure
+      - Weather
+      - Manpower shortage
+      - Material shortage
+      - Communication issues
+      - Process issues
+      - Other
+      required: false
+    - id: 4
+      name: delay_duration
+      label: delay_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: impact_level
+      label: impact_level
+      hint: null
+      type: select_one
+      options:
+      - Critical
+      - Minor
+      - None
+      required: false
+    - id: 6
+      name: trend_over_time
+      label: trend_over_time
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

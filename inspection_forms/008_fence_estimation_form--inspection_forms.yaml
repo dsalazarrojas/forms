@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fence Estimation Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: customer_phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: house_type
+      label: house_type
+      hint: null
+      type: select_one
+      options:
+      - Home
+      - Condo
+      - Townhouse
+      - Duplex
+      - Single Family
+      required: false
+    - id: 5
+      name: fence_type
+      label: fence_type
+      hint: null
+      type: select_multiple
+      options:
+      - Wood
+      - Vinyl
+      - Chain link
+      - Iron
+      - Aluminum
+      required: false
+    - id: 6
+      name: height
+      label: height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: width
+      label: width
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: depth
+      label: depth
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: material_cost
+      label: material_cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: labor_cost
+      label: labor_cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: labor_hours
+      label: labor_hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: labor_rate
+      label: labor_rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: total_cost
+      label: total_cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

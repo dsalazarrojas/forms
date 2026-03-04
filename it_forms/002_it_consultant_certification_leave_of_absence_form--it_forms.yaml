@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: it_consultant_certification_leave_of_absence_form
+    pages:
+    - id: 1
+      name: form_title
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_description
+      label: Form Description
+      hint: Describe your request here
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - IT Consultation
+      - IT Forms
+      required: false
+    - id: 4
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: department
+      label: Department
+      hint: Enter your department
+      type: select_multiple
+      options:
+      - IT
+      - Marketing
+      - Sales
+      required: false
+    - id: 6
+      name: manager_email
+      label: Manager Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: manager_phone
+      label: Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date_of_absence_start
+      label: Date Of Absence Start
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: date_of_absence_end
+      label: Date Of Absence End
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: reason_for_absence
+      label: Reason For Absence
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - New
+      - In Progress
+      - Approved
+      - Rejected
+      required: false
+    - id: 12
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: submit_request
+      label: Submit Request
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

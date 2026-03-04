@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Digital Payment Integration Request Form
+    pages:
+    - id: 1
+      name: digital_payment_integration_request_form
+      label: Digital Payment Integration Request Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: integration_type
+      label: Integration Type
+      hint: null
+      type: select_one
+      options:
+      - Stripe
+      - PayPal
+      - Square
+      - Braintree
+      - Authorize.net
+      required: false
+    - id: 3
+      name: account_name
+      label: Account Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: merchant_id
+      label: Merchant ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - Credit Card
+      - Bank Transfer
+      - Digital Wallet
+      required: false
+    - id: 8
+      name: amount
+      label: Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: account_number
+      label: Account Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: bank_transit
+      label: Bank Transit
+      hint: null
+      type: text
+      options: []
+      required: false

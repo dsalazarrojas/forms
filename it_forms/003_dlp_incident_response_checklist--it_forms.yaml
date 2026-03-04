@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: DLP Incident Response Checklist
+    pages:
+    - id: 1
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: incident_type
+      label: Incident Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: incident_description
+      label: Incident Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: incident_location
+      label: Incident Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: prophets_affected
+      label: Prophets Affected
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: incident_cause
+      label: Incident Cause
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: incident_effect
+      label: Incident Effect
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: incident_classification
+      label: Incident Classification
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: incident_response
+      label: Incident Response
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: incident_status
+      label: Incident Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 11
+      name: incident_notes
+      label: Incident Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: incident_reporter
+      label: Incident Reporter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: incident_escalate
+      label: Escalate
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: incident_escalate_to
+      label: Escalate To
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: incident_report
+      label: Incident Report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: incident_review
+      label: Incident Review
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: incident_close
+      label: Incident Close
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: incident_close_reason
+      label: Incident Close Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: incident_closed_by
+      label: Incident Closed By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: incident_closed_date
+      label: Incident Closed Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: incident_closed_time
+      label: Incident Closed Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: prophets_involved
+      label: Prophets Involved
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: incident_reported_by
+      label: Reported By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: incident_classification_category
+      label: Incident Classification Category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: incident_classification_subcategory
+      label: Incident Classification Subcategory
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

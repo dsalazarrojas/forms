@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Travel Inquiry Form
+    pages:
+    - id: 1
+      name: destination
+      label: destination
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: dates
+      label: start date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: price_range
+      label: price range
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: category_select
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - beach
+      - city
+      - mountain
+      - cruise
+      required: false
+    - id: 5
+      name: email
+      label: customer email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: customer phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: submit_button
+      label: submit
+      hint: null
+      type: select_one
+      options:
+      - submit
+      - cancel
+      required: false
+    - id: 9
+      name: travel_agent
+      label: travel agent
+      hint: null
+      type: select_multiple
+      options:
+      - agent1
+      - agent2
+      - agent3
+      required: false

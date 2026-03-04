@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Electronic Device Production Inspection Form
+    pages:
+    - id: 1
+      name: production_batch
+      label: Production Batch
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: device_type
+      label: Device Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Camera''}'
+      - '{''id'': 2, ''value'': ''Smartphone''}'
+      - '{''id'': 3, ''value'': ''Laptop''}'
+      required: true
+    - id: 3
+      name: serial_number
+      label: Serial Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: inspection_time
+      label: Inspection Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: defect_description
+      label: Defect Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: defect_category
+      label: Defect Category
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''Cosmetic''}'
+      - '{''id'': 2, ''value'': ''Functional''}'
+      - '{''id'': 3, ''value'': ''Mechanical''}'
+      required: false
+    - id: 8
+      name: user_id
+      label: User ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: remarks
+      label: Remarks
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: production_date
+      label: Production Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: production_shift
+      label: Production Shift
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Morning''}'
+      - '{''id'': 2, ''value'': ''Afternoon''}'
+      - '{''id'': 3, ''value'': ''Night''}'
+      required: true
+    - id: 12
+      name: inspection_result
+      label: Inspection Result
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Pass''}'
+      - '{''id'': 2, ''value'': ''Fail''}'
+      required: true
+    - id: 13
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: photos
+      label: Photos
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: documents
+      label: Documents
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''Certificate of Inspection''}'
+      - '{''id'': 2, ''value'': ''Production Report''}'
+      required: false
+    - id: 16
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: quality_control_measures
+      label: Quality Control Measures
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''Temperature Control''}'
+      - '{''id'': 2, ''value'': ''Pressure Control''}'
+      - '{''id'': 3, ''value'': ''Humidity Control''}'
+      required: false
+    - id: 18
+      name: production_site
+      label: Production Site
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: inspection_location
+      label: Inspection Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: inspector
+      label: Inspector
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: signature
+      label: Signature
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': True}'
+      - '{''id'': 2, ''value'': False}'
+      required: false
+    - id: 22
+      name: production_line
+      label: Production Line
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: production_line_shift
+      label: Production Line Shift
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: production_batch_size
+      label: Production Batch Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: production_date_time
+      label: Production Date-Time
+      hint: null
+      type: date
+      options: []
+      required: false

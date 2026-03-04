@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hydrocarbon Assessment Checklist
+    pages:
+    - id: 1
+      name: hydrocarbon_storage
+      label: Hydrocarbon Storage
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: spill_response
+      label: Spill Response
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: staff_training
+      label: Staff Training
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: observations
+      label: Observations
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: corrective_actions
+      label: Corrective Actions
+      hint: null
+      type: text
+      options: []
+      required: false

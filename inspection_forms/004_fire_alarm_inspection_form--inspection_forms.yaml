@@ -1,0 +1,134 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fire Alarm Inspection Form
+    pages:
+    - id: 1
+      name: fire_alarm_system
+      label: Fire Alarm System
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: system_description
+      label: System Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: alarm_types
+      label: Alarm Types
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: alarm_location
+      label: Alarm Location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: zone_description
+      label: Zone Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: fire_alarm_system_description
+      label: Fire Alarm System Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: fire_alarm_system_status
+      label: Fire Alarm System Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 8
+      name: inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: inspection_time
+      label: Inspection Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: fire_alarm_certificate
+      label: Fire Alarm Certificate
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: inspection_results
+      label: Inspection Results
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: fire_alarm_inspection_date
+      label: Fire Alarm Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: fire_alarm_certificate
+      label: Fire Alarm Certificate
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: inspection_time
+      label: Inspection Time
+      hint: null
+      type: time
+      options: []
+      required: false

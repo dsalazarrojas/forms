@@ -1,0 +1,172 @@
+inputSchema:
+  type: object
+  properties:
+    title: Audio Cable Replacement Request Form
+    pages:
+    - id: 1
+      name: requester_full_name
+      label: Requester Full Name
+      hint: Name of person requesting replacement
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: requester_email
+      label: Email Address
+      hint: Contact email for follow-up
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: requester_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department
+      hint: Your department or team
+      type: select_one
+      options:
+      - IT Department
+      - Audio Engineering
+      - Production
+      - Live Events
+      - Studio Recording
+      - Post-Production
+      - Other
+      required: true
+    - id: 5
+      name: request_date
+      label: Request Date
+      hint: Date of this replacement request
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: cable_type
+      label: Cable Type
+      hint: Type of audio cable needed
+      type: select_one
+      options:
+      - XLR Cable
+      - TRS Cable
+      - TS Cable
+      - RCA Cable
+      - Speakon Cable
+      - Ethernet Cable
+      - Optical Cable
+      - Other
+      required: true
+    - id: 7
+      name: cable_length
+      label: Cable Length
+      hint: Required cable length
+      type: select_one
+      options:
+      - 3 feet
+      - 6 feet
+      - 10 feet
+      - 15 feet
+      - 20 feet
+      - 25 feet
+      - 50 feet
+      - Custom length
+      required: true
+    - id: 8
+      name: cable_quantity
+      label: Quantity Needed
+      hint: Number of cables required
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: device_brand
+      label: Device Brand
+      hint: Brand of device cable connects to
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: device_model
+      label: Device Model
+      hint: Model number of device
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: replacement_reason
+      label: Reason for Replacement
+      hint: Why does the cable need replacement?
+      type: select_one
+      options:
+      - Physical damage
+      - Intermittent connection
+      - Complete failure
+      - Lost or stolen
+      - Upgrade needed
+      - Routine maintenance
+      required: true
+    - id: 12
+      name: damage_description
+      label: Damage Description
+      hint: Describe the issue or damage
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: urgency_level
+      label: Urgency Level
+      hint: How urgently is this needed?
+      type: select_one
+      options:
+      - Critical - Immediate need
+      - High - Within 24 hours
+      - Medium - Within 1 week
+      - Low - When convenient
+      required: true
+    - id: 14
+      name: affected_equipment_id
+      label: Affected Equipment ID
+      hint: Asset tag or equipment ID number
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: location_needed
+      label: Location Needed At
+      hint: Where should the replacement be delivered?
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: old_cable_returned
+      label: Old Cable Returned
+      hint: Has the old cable been returned?
+      type: select_one
+      options:
+      - Yes, attached to request
+      - Yes, will return separately
+      - No, cable is lost
+      - No, cable was discarded
+      - N/A - Upgrade only
+      required: true
+    - id: 17
+      name: manager_approval
+      label: Manager Approval
+      hint: Has your manager approved this request?
+      type: select_one
+      options:
+      - Yes, approved
+      - Pending approval
+      - Not required
+      required: true
+    - id: 18
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false

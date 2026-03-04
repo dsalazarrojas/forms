@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Foreclosure Property Inspection Form
+    pages:
+    - id: 1
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Single Family''}'
+      - '{''value'': ''Multi Family''}'
+      - '{''value'': ''Condo''}'
+      - '{''value'': ''Townhouse''}'
+      - '{''value'': ''Apartment''}'
+      required: false
+    - id: 3
+      name: date_of_inspection
+      label: Date of Inspection
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time_of_inspection
+      label: Time of Inspection
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: condition_rating
+      label: Condition Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: necessary_repairs
+      label: Necessary Repairs
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: inspector_name
+      label: Inspector Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: inspector_notes
+      label: Inspector Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''chatjimmy''}'
+      - '{''value'': ''other''}'
+      required: false
+    - id: 10
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 11
+      name: property_status
+      label: Property Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Active''}'
+      - '{''value'': ''Sold''}'
+      - '{''value'': ''Bank-Owned''}'
+      required: false
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

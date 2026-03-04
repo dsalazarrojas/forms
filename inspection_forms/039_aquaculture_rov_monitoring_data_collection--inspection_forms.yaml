@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Aquaculture ROV Monitoring Data Collection
+    pages:
+    - id: 1
+      name: mission_info
+      label: Mission Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: mission_date
+      label: Mission Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: mission_time
+      label: Mission Start Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: facility_name
+      label: Facility Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: pond_id
+      label: Pond ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: rov_operator
+      label: ROV Operator Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: monitoring_data
+      label: Monitoring Data
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: rov_visibility
+      label: Water Visibility (feet)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: water_depth
+      label: Water Depth (feet)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: bottom_condition
+      label: Bottom Condition Assessment
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 11
+      name: fish_behavior
+      label: Fish Behavior Observation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: equipment_condition
+      label: Equipment and Infrastructure Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: anomalies
+      label: Any Anomalies or Concerns
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: media_captured
+      label: Media Files Captured
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: recommended_actions
+      label: Recommended Actions
+      hint: null
+      type: text
+      options: []
+      required: false

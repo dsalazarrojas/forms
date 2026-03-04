@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Land Purchase Inquiry Form
+    pages:
+    - id: 1
+      name: land_purchase_inquiry_form_first_page
+      label: land purchase inquiry form first page
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: property_type
+      label: property type
+      hint: null
+      type: select_one
+      options:
+      - Single Family Home
+      - Condo/Co-op
+      - Townhouse
+      - Land/Lot
+      - Multi-Unit Home
+      - Other
+      required: true
+    - id: 3
+      name: property_address
+      label: property address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_name
+      label: contact name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_email
+      label: contact email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: contact_phone
+      label: contact phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: additional_info
+      label: additional info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: realtor_name
+      label: realtor name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: realtor_office
+      label: realtor office
+      hint: null
+      type: text
+      options: []
+      required: true

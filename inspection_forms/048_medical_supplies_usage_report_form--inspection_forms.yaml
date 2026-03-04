@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Supplies Usage Report Form
+    pages:
+    - id: 1
+      name: report_date
+      label: Report Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: report_period
+      label: Report Period
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: truck_number
+      label: Truck Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: truck_number
+      label: Truck Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: products_used
+      label: Products Used
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: products_still_in_stock
+      label: Products Still In Stock
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: submitter_name
+      label: Submitter Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submitter_comments
+      label: Submitter Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: products_reorder_date
+      label: Products Reorder Date
+      hint: null
+      type: date
+      options: []
+      required: false

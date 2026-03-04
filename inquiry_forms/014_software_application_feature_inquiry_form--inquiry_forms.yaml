@@ -1,0 +1,50 @@
+inputSchema:
+  type: object
+  properties:
+    title: Software Application Feature Inquiry Form
+    pages:
+    - id: 1
+      name: software_application_feature_inquiry_form_1
+      label: what_is_the_problem
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: what_is_the_problem_2
+      label: feature_request_2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: product_usage
+      label: product_usage
+      hint: null
+      type: select_one
+      options:
+      - Software A
+      - Software B
+      - Software C
+      required: false
+    - id: 4
+      name: software_version
+      label: software_version
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false

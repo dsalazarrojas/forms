@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Intake Form For Massage Therapy
+    pages:
+    - id: 1
+      name: client_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_dob
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: client_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: client_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: first_time_client
+      label: First Time Client
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: section_header_1
+      label: -- COVID-19 Health Screening --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: covid_diagnosis
+      label: COVID-19 Diagnosis in Past 14 Days
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unsure
+      required: true
+    - id: 8
+      name: covid_recovery_time
+      label: Time Since Recovery
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: covid_symptoms
+      label: Current COVID-19 Symptoms
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: symptom_description
+      label: Describe Symptoms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: covid_exposure
+      label: Recent COVID-19 Exposure
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unsure
+      required: true
+    - id: 12
+      name: section_header_2
+      label: -- Vaccination Status --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: vaccination_status
+      label: Vaccination Status
+      hint: null
+      type: select_one
+      options:
+      - Fully vaccinated with booster
+      - Fully vaccinated without booster
+      - Partially vaccinated
+      - Not vaccinated
+      - Prefer not to disclose
+      required: true
+    - id: 14
+      name: section_header_3
+      label: -- Medical History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: chronic_conditions
+      label: Chronic Health Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: current_medications
+      label: Current Medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: allergies
+      label: Known Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: section_header_4
+      label: -- Massage Therapy Considerations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: massage_frequency
+      label: Massage Frequency
+      hint: null
+      type: select_one
+      options:
+      - First time
+      - Occasional
+      - Monthly
+      - Weekly
+      - Multiple times per week
+      required: true
+    - id: 20
+      name: problem_areas
+      label: Problem Areas or Conditions
+      hint: Pain, injury, tension areas
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: massage_intensity
+      label: Preferred Massage Intensity
+      hint: null
+      type: select_one
+      options:
+      - Light
+      - Medium
+      - Firm
+      - Extra firm
+      required: true
+    - id: 22
+      name: section_header_5
+      label: -- Consent and Safety --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: health_declaration
+      label: I declare I am healthy and safe for massage therapy
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 24
+      name: safety_protocols_understood
+      label: I understand and accept COVID-19 safety protocols
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 25
+      name: consent_to_treatment
+      label: I consent to massage therapy treatment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

@@ -1,0 +1,237 @@
+inputSchema:
+  type: object
+  properties:
+    title: weekly_vehicle_inspection_form
+    pages:
+    - id: 1
+      name: vehicle_info
+      label: Vehicle Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: make
+      label: Make
+      hint: null
+      type: select_one
+      options:
+      - Honda
+      - Ford
+      - Toyota
+      required: false
+    - id: 3
+      name: model
+      label: Model
+      hint: null
+      type: select_multiple
+      options:
+      - Civic
+      - Focus
+      - Corolla
+      required: true
+    - id: 4
+      name: year
+      label: Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: vehicle_condition
+      label: Vehicle Condition
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 6
+      name: mileage
+      label: Mileage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: vin
+      label: VIN
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: vehicle_number
+      label: Vehicle Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: vehicle_year
+      label: Vehicle Year
+      hint: null
+      type: select_one
+      options:
+      - '2020'
+      - '2021'
+      - '2022'
+      required: true
+    - id: 10
+      name: engine_oil_level
+      label: Engine Oil Level
+      hint: null
+      type: select_one
+      options:
+      - Full
+      - Low
+      - Empty
+      required: false
+    - id: 11
+      name: air_filter
+      label: Air Filter
+      hint: null
+      type: select_multiple
+      options:
+      - Clean
+      - Dirty
+      - Not Installed
+      required: true
+    - id: 12
+      name: spark_plugs
+      label: Spark Plugs
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Bad
+      required: false
+    - id: 13
+      name: transmission_fluid
+      label: Transmission Fluid
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Bad
+      required: true
+    - id: 14
+      name: brake_pads
+      label: Brake Pads
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Bad
+      required: true
+    - id: 15
+      name: brake_wear
+      label: Brake Wear
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Bad
+      required: true
+    - id: 16
+      name: suspension_systems
+      label: Suspension Systems
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Bad
+      required: false
+    - id: 17
+      name: tires
+      label: Tires
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Bad
+      required: true
+    - id: 18
+      name: steering
+      label: Steering
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Bad
+      required: false
+    - id: 19
+      name: brakes
+      label: Brakes
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Bad
+      required: false
+    - id: 20
+      name: battery
+      label: Battery
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Bad
+      required: true
+    - id: 21
+      name: engine
+      label: Engine
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Bad
+      required: true
+    - id: 22
+      name: transmission
+      label: Transmission
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Bad
+      required: true
+    - id: 23
+      name: exhaust
+      label: Exhaust
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Bad
+      required: false
+    - id: 24
+      name: catalytic_converter
+      label: Catalytic Converter
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Bad
+      required: false
+    - id: 25
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

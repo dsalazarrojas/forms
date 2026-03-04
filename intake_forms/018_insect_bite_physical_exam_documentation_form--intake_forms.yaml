@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Insect Bite Physical Exam Documentation Form
+    pages:
+    - id: 1
+      name: first_page
+      label: First page
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_info
+      label: Patient info
+      hint: Patient information
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: bite_info
+      label: Bite info
+      hint: Bite details
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: symptoms
+      label: Symptoms
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: bite_size
+      label: Bite size
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: patient_condition
+      label: Patient condition
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''None'', ''text'': ''None''}'
+      - '{''id'': 2, ''name'': ''Allergic'', ''text'': ''Allergic''}'
+      - '{''id'': 3, ''name'': ''Non-allergic'', ''text'': ''Non-allergic''}'
+      - '{''id'': 4, ''name'': ''Other'', ''text'': ''Other''}'
+      required: true
+    - id: 8
+      name: medical_history
+      label: Medical history
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''None'', ''text'': ''None''}'
+      - '{''id'': 2, ''name'': ''Allergic'', ''text'': ''Allergic''}'
+      - '{''id'': 3, ''name'': ''Non-allergic'', ''text'': ''Non-allergic''}'
+      - '{''id'': 4, ''name'': ''Other'', ''text'': ''Other''}'
+      required: true
+    - id: 9
+      name: follow_up
+      label: Follow up
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: examiner
+      label: Examiner
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: date_examined
+      label: Date examined
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: examiner_signature
+      label: Examiner signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: examiner_contact
+      label: Examiner contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: examiner_notes
+      label: Examiner notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 15
+      name: patient_signature
+      label: Patient signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: patient_agreement
+      label: Patient agreement
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''None'', ''text'': ''None''}'
+      - '{''id'': 2, ''name'': ''Agreed'', ''text'': ''Agreed''}'
+      - '{''id'': 3, ''name'': ''Not agreed'', ''text'': ''Not agreed''}'
+      - '{''id'': 4, ''name'': ''Other'', ''text'': ''Other''}'
+      required: true
+    - id: 17
+      name: patient_agreement_date
+      label: Agreement date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: patient_contact
+      label: Patient contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: patient_address
+      label: Patient address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: examiner_licence
+      label: Examiner licence
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: examiner_position
+      label: Examiner position
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: examiner_workplace
+      label: Examiner workplace
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: examiner_workplace_address
+      label: Examiner workplace address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: patient_id
+      label: Patient ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: other_comments
+      label: Other comments
+      hint: null
+      type: text
+      options: []
+      required: false

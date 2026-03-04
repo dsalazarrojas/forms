@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: Corridor Safety Assessment Form
+    pages:
+    - id: 1
+      name: corridor_safety_assessment_form
+      label: Corridor Safety Assessment Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: risk_severity
+      label: Risk Severity
+      hint: null
+      type: select_multiple
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 3
+      name: hazard_location
+      label: Hazard Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: hazard_description
+      label: Hazard Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: hazard_type
+      label: Hazard Type
+      hint: null
+      type: select_one
+      options:
+      - Physical Hazard
+      - Environmental Hazard
+      - Other
+      required: false
+    - id: 6
+      name: corrective_action
+      label: Corrective Action
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: safety_equipment
+      label: Safety Equipment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: safety_equipment_type
+      label: Type of Safety Equipment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: safety_equipment_condition
+      label: Safety Equipment Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: facility_manager_signature
+      label: Facility Manager Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 13
+      name: safety_officer_name
+      label: Safety Officer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: safety_officer_id
+      label: Safety Officer ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: assigned_to
+      label: Assigned to
+      hint: null
+      type: text
+      options: []
+      required: true

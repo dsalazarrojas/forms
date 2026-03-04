@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: NHA New Server Request Form
+    pages:
+    - id: 1
+      name: new_server_request
+      label: new_server_request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_of_visit
+      label: date_of_visit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_of_visit
+      label: time_of_visit
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: request_details
+      label: request_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: request_status
+      label: request_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Open'', ''value'': ''Open''}'
+      - '{''id'': 2, ''label'': ''In Progress'', ''value'': ''In Progress''}'
+      - '{''id'': 3, ''label'': ''Closed'', ''value'': ''Closed''}'
+      required: false
+    - id: 10
+      name: request_type
+      label: request_type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Server Request'', ''value'': ''Server Request''}'
+      - '{''id'': 2, ''label'': ''User Request'', ''value'': ''User Request''}'
+      - '{''id'': 3, ''label'': ''Server and User Request'', ''value'': ''Server and
+        User Request''}'
+      required: false

@@ -1,0 +1,50 @@
+inputSchema:
+  type: object
+  properties:
+    title: extension_cord_safety_checklist
+    pages:
+    - id: 1
+      name: main
+      label: extension_cord_safety_checklist
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: electrical_hazards
+      label: electrical_hazards
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''no_hazards'', ''text'': ''No Hazards''}'
+      - '{''id'': 2, ''name'': ''hazards'', ''text'': ''Hazards''}'
+      - '{''id'': 3, ''name'': ''unknown'', ''text'': ''Unknown''}'
+      required: true
+    - id: 3
+      name: cord_condition
+      label: cord_condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: extension_cords_inspected
+      label: extension_cords_inspected
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: extension_cord_safety_checklist_comments
+      label: extension_cord_safety_checklist_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: extension_cord_safety_checklist_date
+      label: extension_cord_safety_checklist_date
+      hint: null
+      type: date
+      options: []
+      required: false

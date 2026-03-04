@@ -1,0 +1,126 @@
+inputSchema:
+  type: object
+  properties:
+    title: store_display_compliance_audit_form
+    pages:
+    - id: 1
+      name: store_display_compliance_audit
+      label: store display compliance audit
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 2
+      name: non_compliant_items
+      label: non compliant items
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Overstocking''}'
+      - '{''label'': ''Underselling''}'
+      - '{''label'': ''Shelf placement incorrect''}'
+      - '{''label'': ''Merchandising not meeting standards''}'
+      - '{''label'': ''Product not displayed correctly''}'
+      - '{''label'': ''Shelf not meeting safety and security standards''}'
+      required: false
+    - id: 3
+      name: merchandising_standards
+      label: merchandising standards
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Product placement correct''}'
+      - '{''label'': ''Product pricing correct''}'
+      - '{''label'': ''Shelf facing correct''}'
+      - '{''label'': ''Category correct''}'
+      - '{''label'': ''Shelf facing correct''}'
+      required: false
+    - id: 4
+      name: merchandising_standards_1
+      label: merchandising standards 1
+      hint: Enter a number
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: product_availability
+      label: product availability
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''In Stock''}'
+      - '{''label'': ''Low Stock''}'
+      - '{''label'': ''Out of Stock''}'
+      required: false
+    - id: 6
+      name: store_name
+      label: store name
+      hint: Enter store name
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: store_location
+      label: store location
+      hint: Enter store location
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: photo_1
+      label: photo 1
+      hint: Add photo 1
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: photo_2
+      label: photo 2
+      hint: Add photo 2
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: photo_3
+      label: photo 3
+      hint: Add photo 3
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: notes
+      label: notes
+      hint: Add notes
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: email
+      hint: Enter email
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: phone
+      hint: Enter phone
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: date_of_inspection
+      label: date of inspection
+      hint: Enter date
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: time_of_inspection
+      label: time of inspection
+      hint: Enter time
+      type: time
+      options: []
+      required: false

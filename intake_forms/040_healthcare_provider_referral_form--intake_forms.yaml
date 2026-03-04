@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Healthcare Provider Referral Form
+    pages:
+    - id: 1
+      name: healthcare_provider_referral_form_provider_name
+      label: Provider Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: healthcare_provider_referral_form_patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: healthcare_provider_referral_form_contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: healthcare_provider_referral_form_referral_reason
+      label: Referral Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: healthcare_provider_referral_form_referral_type
+      label: Referral Type
+      hint: null
+      type: select_one
+      options:
+      - Other
+      - New patient
+      - Follow-up
+      - Transfer
+      - Urgent
+      - Other
+      required: false
+    - id: 6
+      name: healthcare_provider_referral_form_referral_source
+      label: Referral Source
+      hint: null
+      type: select_one
+      options:
+      - Provider
+      - Patient
+      - Referral Service
+      - Other
+      required: false
+    - id: 7
+      name: healthcare_provider_referral_form_patient_age
+      label: Patient Age
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: healthcare_provider_referral_form_referral_date
+      label: Referral Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: healthcare_provider_referral_form_referral_time
+      label: Referral Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: healthcare_provider_referral_form_referral_note
+      label: Referral Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: healthcare_provider_referral_form_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: healthcare_provider_referral_form_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

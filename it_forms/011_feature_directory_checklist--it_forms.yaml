@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: feature_directory_checklist
+    pages:
+    - id: 1
+      name: directory
+      label: Directory
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: status
+      label: Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 3
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: progress
+      label: Progress
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: date_completed
+      label: Date Completed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: date_started
+      label: Date Started
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_completed
+      label: Time Completed
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: time_started
+      label: Time Started
+      hint: null
+      type: time
+      options: []
+      required: false

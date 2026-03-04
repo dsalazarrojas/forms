@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Software Developer Interview Form
+    pages:
+    - id: 1
+      name: form_header
+      label: Software Developer Interview Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_name
+      label: Applicant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: "format:email"
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: linkedin
+      label: LinkedIn Profile
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: resume_link
+      label: Resume
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: github_profile
+      label: GitHub Profile
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: languages
+      label: Programming Languages
+      hint: comma separated list of languages
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: frameworks
+      label: Frameworks and Tools
+      hint: comma separated list of frameworks
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: operating_systems
+      label: Operating Systems
+      hint: comma separated list of operating systems
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: experience_years
+      label: Experience Years
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: availability
+      label: Availability
+      hint: null
+      type: select_one
+      options:
+      - Available
+      - Not Available
+      - Undetermined
+      required: false

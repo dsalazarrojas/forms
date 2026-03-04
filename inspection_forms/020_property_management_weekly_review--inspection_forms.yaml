@@ -1,0 +1,151 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property Management Weekly Review
+    pages:
+    - id: 1
+      name: weekly_review
+      label: weekly_review
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: property_address
+      label: property_address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: property_type
+      label: property_type
+      hint: null
+      type: select_one
+      options:
+      - HOA
+      - Rental
+      - Other
+      required: true
+    - id: 4
+      name: issues_encountered
+      label: issues_encountered
+      hint: null
+      type: select_multiple
+      options:
+      - Electrical
+      - Plumbing
+      - HVAC
+      - Landscaping
+      - Pest control
+      required: true
+    - id: 5
+      name: issues_description
+      label: issues_description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: follow_up_status
+      label: follow_up_status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - In Progress
+      - Complete
+      required: true
+    - id: 7
+      name: follow_up_notes
+      label: follow_up_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: follow_up_date
+      label: follow_up_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: follow_up_time
+      label: follow_up_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: property_managers_name
+      label: property_managers_name
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: property_manager_phone
+      label: property_manager_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: property_manager_email
+      label: property_manager_email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: property_manager_notes
+      label: property_manager_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: tenant_name
+      label: tenant_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: tenant_phone
+      label: tenant_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: tenant_email
+      label: tenant_email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: tenant_notes
+      label: tenant_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false

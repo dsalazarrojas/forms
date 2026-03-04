@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: web_development_inquiry
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: website
+      label: Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: services
+      label: Services
+      hint: null
+      type: select_one
+      options:
+      - Web Design
+      - Web Development
+      - E-Commerce
+      - UI/UX
+      - Other
+      required: false
+    - id: 7
+      name: expertise
+      label: Expertise
+      hint: null
+      type: select_multiple
+      options:
+      - Web Design
+      - Web Development
+      - E-Commerce
+      - UI/UX
+      required: false
+    - id: 8
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

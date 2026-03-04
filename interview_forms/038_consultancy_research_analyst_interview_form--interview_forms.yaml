@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Consultancy Research Analyst Interview Form
+    pages:
+    - id: 1
+      name: section_candidate_ident
+      label: -- Candidate Identification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: candidate_full_name
+      label: Candidate Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: candidate_email_ident
+      label: Candidate Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: candidate_phone_ident
+      label: Candidate Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: interview_date_ident
+      label: Date of Interview
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: interview_stage_ident
+      label: Interview Stage
+      hint: null
+      type: select_one
+      options:
+      - Initial Screening/Recruiter Call
+      - Technical Interview (Case Study)
+      - Partner Interview (Behavioral)
+      - Final Executive Review
+      required: true
+    - id: 7
+      name: section_interviewer_ident
+      label: -- Interviewer Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: interviewer_name_ident
+      label: Interviewer's Name and Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: interviewer_department_ident
+      label: Interviewing Department
+      hint: null
+      type: select_one
+      options:
+      - Strategy/Management
+      - Market Research/Data Analytics
+      - Financial/Risk Services
+      - Technology/Innovation
+      - Human Capital/Talent
+      required: true
+    - id: 10
+      name: section_skills_assessment
+      label: -- Skills and Competency Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: analytical_skills_rating
+      label: Analytical and Problem-Solving Skills
+      hint: 1 - Poor, 5 - Exceptional
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: research_proficiency_rating
+      label: Primary Research and Data Collection Proficiency
+      hint: 1 - Poor, 5 - Exceptional
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: communication_skills_rating
+      label: Written and Verbal Communication Skills
+      hint: 1 - Poor, 5 - Exceptional
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: technical_tools_rating
+      label: Technical Tools Proficiency (Excel, SQL, Tableau, etc.)
+      hint: 1 - Poor, 5 - Exceptional
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: project_management_rating
+      label: Time Management and Prioritization Skills
+      hint: 1 - Poor, 5 - Exceptional
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: section_qualitative_feedback
+      label: -- Qualitative Feedback --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: candidate_primary_strength_ident
+      label: What is this candidate's single greatest professional strength?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: candidate_primary_weakness_ident
+      label: What is the primary area for concern/improvement?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: candidate_cultural_fit_rating
+      label: Perceived Cultural Fit with the Consultancy
+      hint: 1 - Poor Fit, 5 - Excellent Fit
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: section_hiring_recommendation
+      label: -- Hiring Recommendation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: final_hiring_recommendation
+      label: Overall Hiring Recommendation
+      hint: null
+      type: select_one
+      options:
+      - Proceed (High Priority)
+      - Proceed (Moderate Priority)
+      - Consider (Backup Candidate)
+      - Reject (Not a fit)
+      required: true
+    - id: 22
+      name: recommendation_justification_desc
+      label: Primary Reason for Recommendation
+      hint: Max 1000 characters
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: interviewer_comments_desc
+      label: Any additional interview comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submission_date
+      label: Date of Interview Feedback Completion
+      hint: null
+      type: date
+      options: []
+      required: true

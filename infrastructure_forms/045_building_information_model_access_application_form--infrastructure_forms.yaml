@@ -1,0 +1,261 @@
+inputSchema:
+  type: object
+  properties:
+    title: Building Information Model Access Application Form
+    pages:
+    - id: 1
+      name: applicant_name
+      label: Applicant Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: title
+      label: Job Title
+      hint: Your position
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: company
+      label: Company Name
+      hint: Organization
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: application_date
+      label: Application Date
+      hint: Date of application
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: project_name
+      label: Project Name
+      hint: Name of project
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: project_number
+      label: Project Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: building_name
+      label: Building Name
+      hint: Name of building
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: building_location
+      label: Building Location
+      hint: Address or location
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: project_phase
+      label: Project Phase
+      hint: Current phase
+      type: select_one
+      options:
+      - Pre-Design
+      - Schematic Design
+      - Design Development
+      - Construction Documents
+      - Construction
+      - Closeout
+      - Operations
+      required: true
+    - id: 12
+      name: access_purpose
+      label: Purpose of Access
+      hint: Why do you need access
+      type: select_one
+      options:
+      - Design Coordination
+      - Clash Detection
+      - Quantity Takeoff
+      - Construction Planning
+      - Facility Management
+      - Analysis and Simulation
+      - Documentation
+      - Quality Control
+      - Other
+      required: true
+    - id: 13
+      name: access_description
+      label: Access Description
+      hint: Describe in detail
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: access_level
+      label: Access Level Requested
+      hint: Type of access
+      type: select_one
+      options:
+      - View Only
+      - Comment and Markup
+      - Download for Review
+      - Edit Specific Elements
+      - Full Edit Access
+      - Model Administration
+      required: true
+    - id: 15
+      name: model_elements
+      label: Model Elements Needed
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Architectural Model
+      - Structural Model
+      - MEP Model
+      - Civil Model
+      - Landscape Model
+      - Interior Model
+      - Full Combined Model
+      - Specific Disciplines Only
+      required: true
+    - id: 16
+      name: software_platform
+      label: Software Platform
+      hint: What software will you use
+      type: select_one
+      options:
+      - Autodesk Revit
+      - Navisworks
+      - BIM 360
+      - Tekla
+      - ArchiCAD
+      - Bentley
+      - Other
+      required: true
+    - id: 17
+      name: access_duration
+      label: Access Duration
+      hint: How long do you need access
+      type: select_one
+      options:
+      - One-Time Access
+      - Less than 1 Month
+      - 1-3 Months
+      - 3-6 Months
+      - 6-12 Months
+      - Project Duration
+      - Indefinite
+      required: true
+    - id: 18
+      name: start_date
+      label: Access Start Date
+      hint: When do you need access
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: end_date
+      label: Access End Date
+      hint: When access expires
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: team_members
+      label: Number of Team Members
+      hint: How many need access
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: team_member_list
+      label: Team Member List
+      hint: Names and emails
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: data_security_agreement
+      label: Data Security Agreement
+      hint: Do you agree to security terms
+      type: select_one
+      options:
+      - Yes - I Agree
+      - No - I Do Not Agree
+      required: true
+    - id: 23
+      name: confidentiality_agreement
+      label: Confidentiality Agreement
+      hint: Will you maintain confidentiality
+      type: select_one
+      options:
+      - Yes - Already Signed
+      - Yes - Will Sign
+      - No - Not Required
+      - No - I Decline
+      required: true
+    - id: 24
+      name: intended_use
+      label: Intended Use of Model
+      hint: How will you use the model
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: distribution_plan
+      label: Distribution Plan
+      hint: Will you share the model
+      type: select_one
+      options:
+      - No - Internal Use Only
+      - Yes - With Approved Parties
+      - Yes - With Client Only
+      - Not Sure
+      required: true
+    - id: 26
+      name: supporting_documents
+      label: Supporting Documents
+      hint: What are you attaching
+      type: select_multiple
+      options:
+      - NDA
+      - Company Credentials
+      - Project Authorization
+      - Insurance Certificate
+      - Other
+      - None
+      required: false
+    - id: 27
+      name: approval_required
+      label: Approval Required From
+      hint: Who needs to approve
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

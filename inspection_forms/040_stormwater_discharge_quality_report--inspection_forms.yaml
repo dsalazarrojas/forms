@@ -1,0 +1,90 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Stormwater Discharge Quality Report
+    pages:
+    - id: 1
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: site_location
+      label: site_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: facility_id
+      label: facility_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: facility_name
+      label: facility_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: stormwater_event_type
+      label: Stormwater Event Type
+      hint: null
+      type: select_one
+      options:
+      - Discharge
+      - Overflow
+      - Spill
+      - Other
+      required: false
+    - id: 6
+      name: discharge_characteristics
+      label: Discharge Characteristics
+      hint: Describe the discharge characteristics of the event.
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: photo_description
+      label: Photo Description
+      hint: Describe the photo(s) taken during the event.
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: facility_contact
+      label: Facility Contact
+      hint: Provide the name and contact information of the facility representative.
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: inspector_comments
+      label: Inspector Comments
+      hint: Provide any additional comments or concerns.
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: facility_surveyor
+      label: Facility Surveyor
+      hint: null
+      type: text
+      options: []
+      required: false

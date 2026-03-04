@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Telehealth Patient Consent Form
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: consent_statement
+      label: Consent Statement
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: signature_section
+      label: Signature Section
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Patient Signature 1'', ''value'': ''patient_signature_1''}'
+      - '{''label'': ''Patient Signature 2'', ''value'': ''patient_signature_2''}'
+      required: true
+    - id: 5
+      name: signature_section_input
+      label: Signature
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: signature_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: signature_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: patient_signature
+      label: Patient Signature
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: patient_id
+      label: Patient ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: provider_signature
+      label: Provider Signature
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Provider 1'', ''value'': ''provider_1''}'
+      - Other
+      required: true
+    - id: 11
+      name: patient_signature_note
+      label: Patient Signature Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: provider_signature_note
+      label: Provider Signature Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 15
+      name: patient_agreed
+      label: I Have Agreed to the Terms and Conditions
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''I agree to the Terms and Conditions'', ''value'': True}'
+      - '{''label'': ''Not Agree'', ''value'': False}'
+      required: true
+    - id: 16
+      name: patient_note
+      label: Additional Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: patient_agreed_note
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: provider_note
+      label: Provider Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: provider_id
+      label: Provider ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: patient_signature_date
+      label: Date of Signature
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: patient_signature_time
+      label: Time of Signature
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 22
+      name: provider_signature_date
+      label: Date of Signature
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: provider_signature_time
+      label: Time of Signature
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 24
+      name: provider_agreed
+      label: I Have Agreed to the Terms and Conditions
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''I agree to the Terms and Conditions'', ''value'': True}'
+      - '{''label'': ''Not Agree'', ''value'': False}'
+      required: true
+    - id: 25
+      name: provider_agreed_note
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: smart_meter_remote_monitoring_consent_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: Enter your first name
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: Enter your last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_phone
+      label: Contact phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: signature_date
+      label: Signature date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 7
+      name: consent_date
+      label: Consent date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: provider_name
+      label: Provider name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: manager_name
+      label: Property manager name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

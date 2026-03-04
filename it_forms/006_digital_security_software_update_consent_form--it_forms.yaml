@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: digital_security_software_update_consent_form
+    pages:
+    - id: 1
+      name: user_approval
+      label: User Approval
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: patch_update
+      label: Patch Update
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: patch_date
+      label: Patch Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: upgrade_version
+      label: Upgrade Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: system_upgrade
+      label: System Upgrade
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: device_name
+      label: Device Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: device_serial_number
+      label: Device Serial Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: user_email
+      label: User Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: user_phone
+      label: User Phone
+      hint: null
+      type: text
+      options: []
+      required: false

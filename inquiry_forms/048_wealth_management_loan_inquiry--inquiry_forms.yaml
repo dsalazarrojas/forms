@@ -1,0 +1,54 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wealth Management Loan Inquiry
+    pages:
+    - id: 1
+      name: contact_name
+      label: contact name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_email
+      label: contact email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: loan_amount
+      label: loan amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: loan_term
+      label: loan term
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: loan_type
+      label: loan type
+      hint: null
+      type: select_one
+      options:
+      - Home Equity
+      - Personal
+      - Commercial
+      required: false
+    - id: 6
+      name: loan_status
+      label: loan status
+      hint: null
+      type: select_one
+      options:
+      - Applied
+      - Approved
+      - Rejected
+      - Pending
+      required: false

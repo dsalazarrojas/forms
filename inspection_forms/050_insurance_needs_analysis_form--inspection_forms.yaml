@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: insurance_needs_analysis_form
+    pages:
+    - id: 1
+      name: insurance_needs_analysis_form
+      label: Insurance Needs Analysis Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Inspection Forms
+      - Other
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: client_policies
+      label: Client Policies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: current_insurance
+      label: Current Insurance
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: insurance_needs
+      label: Insurance Needs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: risk_questions
+      label: Risk Questions
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      - Medium
+      required: false
+    - id: 8
+      name: insurance_providers
+      label: Insurance Providers
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

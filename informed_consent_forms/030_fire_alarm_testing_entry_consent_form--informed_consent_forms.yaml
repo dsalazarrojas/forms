@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: fire_alarm_testing_entry_consent_form
+    pages:
+    - id: 1
+      name: tenant_authorization
+      label: Tenant Authorization
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: preferred_testing_time
+      label: Preferred Testing Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: testing_frequency
+      label: Testing Frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: testing_method
+      label: Testing Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: test_location
+      label: Test Location
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: test_date
+      label: Test Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: test_time
+      label: Test Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: tester_name
+      label: Tester Name
+      hint: null
+      type: text
+      options: []
+      required: false

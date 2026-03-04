@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: Job Candidate Self Assessment
+    pages:
+    - id: 1
+      name: job_candidate_self_assessment_first_page
+      label: First Page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: resume_upload
+      label: Resume
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: years_of_experience
+      label: Years of Experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: available_for_what
+      label: Available for what
+      hint: null
+      type: select_one
+      options:
+      - Job Title
+      - Job Type
+      - Project
+      required: true
+    - id: 9
+      name: preferred_language
+      label: Preferred Language
+      hint: null
+      type: select_multiple
+      options:
+      - English
+      - French
+      - German
+      - Spanish
+      - Chinese
+      - Japanese
+      required: true
+    - id: 10
+      name: preferred_location
+      label: Preferred Location
+      hint: null
+      type: select_multiple
+      options:
+      - North America
+      - Europe
+      - Asia
+      - Australia
+      - South America
+      - Africa
+      required: true
+    - id: 11
+      name: available_for_how_long
+      label: Available for how long
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: why_do_you_want_to_work
+      label: Why do you want to work with us?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: job_satisfaction
+      label: Job Satisfaction
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 14
+      name: available_for_interview
+      label: Available for an Interview?
+      hint: null
+      type: select_one
+      options:
+      - Available
+      - Not Available
+      required: true
+    - id: 15
+      name: available_for_interview_time
+      label: Available for Interview Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 16
+      name: available_for_interview_date
+      label: Available for Interview Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: available_for_interview_location
+      label: Available for Interview Location
+      hint: null
+      type: select_one
+      options:
+      - In-person
+      - Virtual
+      - Flexible
+      required: true
+    - id: 18
+      name: preferred_interviewer
+      label: Preferred Interviewer
+      hint: null
+      type: select_multiple
+      options:
+      - Team Lead
+      - Manager
+      - Director
+      - Other
+      required: true
+    - id: 19
+      name: interview_experience
+      label: Interview Experience
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 20
+      name: interview_location
+      label: Interview Location
+      hint: null
+      type: select_one
+      options:
+      - In-person
+      - Virtual
+      - Flexible
+      required: true
+    - id: 21
+      name: interview_time
+      label: Interview Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 22
+      name: preferred_interview_time
+      label: Preferred Interview Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 23
+      name: preferred_interview_date
+      label: Preferred Interview Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: preferred_interview_location
+      label: Preferred Interview Location
+      hint: null
+      type: select_one
+      options:
+      - In-person
+      - Virtual
+      - Flexible
+      required: true
+    - id: 25
+      name: submission
+      label: Submission
+      hint: Please provide a brief description of your submission.
+      type: note
+      options: []
+      required: false

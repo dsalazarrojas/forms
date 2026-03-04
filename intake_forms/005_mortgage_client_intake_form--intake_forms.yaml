@@ -1,0 +1,246 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mortgage Client Intake Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_number
+      label: Contact Number
+      hint: Enter phone number
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: address
+      label: Address
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: loan_amount
+      label: Loan Amount
+      hint: Enter loan amount
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: loan_term
+      label: Loan Term
+      hint: null
+      type: select_one
+      options:
+      - '6'
+      - '12'
+      - '24'
+      - '48'
+      required: true
+    - id: 7
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - Single Family
+      - Multi Family
+      - Condo
+      - Townhouse
+      required: true
+    - id: 8
+      name: property_value
+      label: Property Value
+      hint: Enter property value
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: client_statement
+      label: Client Statement
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: loan_type
+      label: Loan Type
+      hint: null
+      type: select_one
+      options:
+      - Fixed Rate
+      - Variable Rate
+      - Balloon
+      required: true
+    - id: 11
+      name: loan_term_length
+      label: Loan Term Length
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: interest_rate
+      label: Interest Rate
+      hint: Enter interest rate
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: amortization_schedule
+      label: Amortization Schedule
+      hint: null
+      type: select_one
+      options:
+      - Weekly
+      - Bi-Weekly
+      - Monthly
+      required: true
+    - id: 14
+      name: payment_frequency
+      label: Payment Frequency
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Bi-Monthly
+      - Quarterly
+      required: true
+    - id: 15
+      name: collateral_type
+      label: Collateral Type
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Asset
+      - Other
+      required: true
+    - id: 16
+      name: collateral_value
+      label: Collateral Value
+      hint: Enter collateral value
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: loan_status
+      label: Loan Status
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: employment_status
+      label: Employment Status
+      hint: null
+      type: select_one
+      options:
+      - Employed
+      - Self-Employed
+      - Un-Employed
+      required: true
+    - id: 19
+      name: income_source
+      label: Income Source
+      hint: null
+      type: select_one
+      options:
+      - Salary
+      - Commission
+      - Bonus
+      required: true
+    - id: 20
+      name: annual_income
+      label: Annual Income
+      hint: Enter annual income
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: financial_history
+      label: Financial History
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 22
+      name: credit_score
+      label: Credit Score
+      hint: Enter credit score
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: debt_to_income_ratio
+      label: Debt-to-Income Ratio
+      hint: Enter debt-to-income ratio
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: credit_bureau
+      label: Credit Bureau
+      hint: null
+      type: select_one
+      options:
+      - Equifax
+      - TransUnion
+      - Experian
+      required: true
+    - id: 25
+      name: credit_age
+      label: Credit Age
+      hint: Enter credit age
+      type: number
+      options: []
+      required: true
+    - id: 26
+      name: credit_references
+      label: Credit References
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 27
+      name: financial_statements
+      label: Financial Statements
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 28
+      name: credit_agreement
+      label: Credit Agreement
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 29
+      name: client_statement
+      label: Client Statement
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,92 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Immigration Intake Form
+    pages:
+    - id: 1
+      name: first_page
+      label: First Page
+      hint: 'null'
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: Enter client name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: 'null'
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: citizenship_status
+      label: Citizenship Status
+      hint: 'null'
+      type: select_one
+      options:
+      - US Citizen
+      - Permanent Resident
+      - Non-Resident Alien
+      required: false
+    - id: 5
+      name: reason_for_intake
+      label: Reason for Intake
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: interview_details
+      label: Interview Details
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: immigration_status
+      label: Immigration Status
+      hint: 'null'
+      type: select_multiple
+      options:
+      - Green Card
+      - Visa
+      - Other
+      required: false
+    - id: 8
+      name: next_steps
+      label: Next Steps
+      hint: 'null'
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: interview_date
+      label: Interview Date
+      hint: 'null'
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: interview_time
+      label: Interview Time
+      hint: 'null'
+      type: time
+      options: []
+      required: false

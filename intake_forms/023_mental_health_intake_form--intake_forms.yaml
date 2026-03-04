@@ -1,0 +1,140 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mental Health Intake Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: medical_history
+      label: Medical History
+      hint: Medical history in the last 30 days.
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: supporting_documents
+      label: Supporting Documents
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''ID'', ''value'': ''ID''}'
+      - '{''id'': 2, ''name'': ''Insurance Card'', ''value'': ''Insurance Card''}'
+      - '{''id'': 3, ''name'': ''Other'', ''value'': ''Other''}'
+      required: true
+    - id: 4
+      name: fee_payment
+      label: Fee Payment
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: contact_info
+      label: Contact Info
+      hint: Patient email and phone number
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': True, ''value'': True}'
+      - '{''id'': 2, ''name'': False, ''value'': False}'
+      required: false
+    - id: 7
+      name: consent
+      label: HIPAA Consent
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: insurance_provider
+      label: Insurance Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: date_of_birth
+      label: Date Of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: emergency_contact_relation
+      label: Relation To Patient
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Spouse'', ''value'': ''Spouse''}'
+      - '{''id'': 2, ''name'': ''Child'', ''value'': ''Child''}'
+      - '{''id'': 3, ''name'': ''Parent'', ''value'': ''Parent''}'
+      - '{''id'': 4, ''name'': ''Other'', ''value'': ''Other''}'
+      required: true
+    - id: 12
+      name: medical_insurance
+      label: Medical Insurance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: medication_list
+      label: Medication List
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: allergies
+      label: Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: medical_device
+      label: Medical Device
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: other_medical_info
+      label: Other Medical Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: medical_history_info
+      label: Medical History Info
+      hint: null
+      type: text
+      options: []
+      required: false

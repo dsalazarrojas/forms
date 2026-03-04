@@ -1,0 +1,316 @@
+inputSchema:
+  type: object
+  properties:
+    title: Car Insurance Refund Form
+    pages:
+    - id: 1
+      name: policyholder_information
+      label: Policyholder Information
+      hint: Your policy details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: policy_number
+      label: Policy Number
+      hint: Your insurance policy number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email Address
+      hint: For refund communications
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: address
+      label: Street Address
+      hint: Your mailing address
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: city
+      label: City
+      hint: Your city
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: state
+      label: State
+      hint: Your state
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: zip_code
+      label: ZIP Code
+      hint: Your ZIP code
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: refund_information
+      label: Refund Information
+      hint: Details about your refund request
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: refund_reason
+      label: Reason for Refund
+      hint: Why are you requesting a refund?
+      type: select_one
+      options:
+      - Policy cancellation
+      - Vehicle sold
+      - Duplicate payment
+      - Overpayment
+      - Policy change
+      - Premium adjustment
+      - Claim settlement
+      - Other
+      required: true
+    - id: 13
+      name: refund_amount
+      label: Refund Amount Requested
+      hint: Amount in dollars
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: payment_period
+      label: Payment Period
+      hint: Which payment period does this relate to?
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: original_payment_date
+      label: Original Payment Date
+      hint: When did you make the payment?
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: original_payment_amount
+      label: Original Payment Amount
+      hint: Amount originally paid
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: original_payment_method
+      label: Original Payment Method
+      hint: How did you pay?
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Bank Transfer
+      - Check
+      - Cash
+      - Online Payment
+      required: true
+    - id: 18
+      name: vehicle_information
+      label: Vehicle Information
+      hint: Vehicle related to this refund
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: vehicle_year
+      label: Vehicle Year
+      hint: Year
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: vehicle_make
+      label: Vehicle Make
+      hint: Manufacturer
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: vehicle_model
+      label: Vehicle Model
+      hint: Model
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: vehicle_vin
+      label: VIN
+      hint: Vehicle Identification Number
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: vehicle_status
+      label: Current Vehicle Status
+      hint: What is the vehicle status?
+      type: select_one
+      options:
+      - Still owned
+      - Sold
+      - Traded in
+      - Totaled
+      - Stolen
+      - Other
+      required: true
+    - id: 24
+      name: vehicle_sold_date
+      label: Vehicle Sold Date
+      hint: If sold, when?
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: cancellation_information
+      label: Cancellation Information
+      hint: If applicable
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: policy_cancelled
+      label: Is Policy Cancelled?
+      hint: Yes or no
+      type: select_one
+      options:
+      - true
+      - false
+      - Pending
+      required: true
+    - id: 27
+      name: cancellation_date
+      label: Cancellation Date
+      hint: Effective date
+      type: date
+      options: []
+      required: false
+    - id: 28
+      name: cancellation_reason
+      label: Cancellation Reason
+      hint: Why was it cancelled?
+      type: select_one
+      options:
+      - Vehicle sold
+      - Switching insurers
+      - No longer needed
+      - Financial reasons
+      - Other
+      required: false
+    - id: 29
+      name: refund_method
+      label: Preferred Refund Method
+      hint: How should we send the refund?
+      type: select_one
+      options:
+      - Same as original payment
+      - Check by mail
+      - Direct deposit
+      - Credit to new policy
+      required: true
+    - id: 30
+      name: bank_account_type
+      label: Bank Account Type
+      hint: For direct deposit
+      type: select_one
+      options:
+      - Checking
+      - Savings
+      - Not applicable
+      required: false
+    - id: 31
+      name: bank_routing_number
+      label: Bank Routing Number
+      hint: 9-digit routing number
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: bank_account_number
+      label: Bank Account Number
+      hint: Your account number
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: bank_name
+      label: Bank Name
+      hint: Name of your bank
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: supporting_documents
+      label: Supporting Documents
+      hint: Do you have documentation?
+      type: select_one
+      options:
+      - Yes - will attach
+      - Yes - submitted separately
+      - false
+      required: true
+    - id: 35
+      name: document_type
+      label: Document Type
+      hint: What documents are included?
+      type: select_multiple
+      options:
+      - Bill of Sale
+      - Cancellation Notice
+      - Payment Receipt
+      - Bank Statement
+      - Other Proof
+      required: false
+    - id: 36
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false
+    - id: 37
+      name: signature_confirmation
+      label: Signature Confirmation
+      hint: Confirm information is accurate
+      type: select_one
+      options:
+      - I certify this information is true and accurate
+      - I cannot certify
+      required: true
+    - id: 38
+      name: request_date
+      label: Request Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true

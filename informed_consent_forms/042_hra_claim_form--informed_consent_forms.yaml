@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: HRA Claim Form
+    pages:
+    - id: 1
+      name: hra_claim_form_first_page
+      label: claim_form
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: hra_claim_form_first_page_date
+      label: first_page_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: hra_claim_form_first_page_time
+      label: first_page_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: hra_claim_form_first_page_name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: hra_claim_form_first_page_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: hra_claim_form_first_page_phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: hra_claim_form_first_page_amount
+      label: amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: hra_claim_form_first_page_currency
+      label: currency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: hra_claim_form_first_page_description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: hra_claim_form_first_page_attach_file
+      label: attachment
+      hint: null
+      type: text
+      options: []
+      required: false

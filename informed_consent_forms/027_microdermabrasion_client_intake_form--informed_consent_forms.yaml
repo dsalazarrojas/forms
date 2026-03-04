@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Microdermabrasion Client Intake Form
+    pages:
+    - id: 1
+      name: client_information
+      label: Client Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: medication_use
+      label: Medication Use
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: allergies
+      label: Allergies
+      hint: Please provide any known allergies
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: medications
+      label: Medications
+      hint: Please list any medications you are currently taking
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: medical_conditions
+      label: Medical Conditions
+      hint: Please provide a list of any medical conditions
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: medical_procedures
+      label: Medical Procedures
+      hint: List any medical procedures you have had
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: family_history
+      label: Family History
+      hint: Please list any family medical history
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: select_multiple
+      options:
+      - John Doe
+      - Jane Doe
+      required: true
+    - id: 12
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: emergency_contact_address
+      label: Emergency Contact Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: insurance_info
+      label: Insurance Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: insurance_provider
+      label: Insurance Provider
+      hint: null
+      type: select_one
+      options:
+      - Blue Cross
+      - Red Cross
+      required: true
+    - id: 17
+      name: policy_number
+      label: Policy Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: policy_dollar_amount
+      label: Policy Dollar Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: policy_start_date
+      label: Policy Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: policy_end_date
+      label: Policy End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: client_consent
+      label: Client Consent
+      hint: null
+      type: select_one
+      options:
+      - I am aware of the risks
+      - I am aware of the risks and am willing to proceed
+      required: true
+    - id: 22
+      name: consent_date
+      label: Consent Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: consent_time
+      label: Consent Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: consent_signature
+      label: Consent Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: provider_name
+      label: Provider Name
+      hint: null
+      type: text
+      options: []
+      required: false

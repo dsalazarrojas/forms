@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Service Inspection Form
+    pages:
+    - id: 1
+      name: service_inspection_form
+      label: Service Inspection Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: service_inspection_date
+      label: Service Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: service_inspection_time
+      label: Service Inspection Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: service_provider_name
+      label: Service Provider Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: service_inspection_condition
+      label: Service Inspection Condition
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 6
+      name: service_inspection_note
+      label: Service Inspection Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: customer_satisfaction
+      label: Customer Satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Unsatisfied
+      - Neutral
+      required: false
+    - id: 8
+      name: service_inspection_email
+      label: Service Inspection Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: service_inspection_phone
+      label: Service Inspection Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - User1
+      - User2
+      - User3
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,150 @@
+inputSchema:
+  type: object
+  properties:
+    title: Membership CRM Intake Form
+    pages:
+    - id: 1
+      name: basic_info
+      label: Basic Info
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: membership_type
+      label: Membership Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''3-1'', ''label'': ''Member'', ''value'': ''Member''}'
+      - '{''id'': ''3-2'', ''label'': ''Non-Member'', ''value'': ''Non-Member''}'
+      required: false
+    - id: 4
+      name: payment_type
+      label: Payment Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': ''4-1'', ''label'': ''Payment Type 1'', ''value'': ''Payment Type
+        1''}'
+      - '{''id'': ''4-2'', ''label'': ''Payment Type 2'', ''value'': ''Payment Type
+        2''}'
+      required: false
+    - id: 5
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: billing_info
+      label: Billing Info
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''7-1'', ''label'': ''Payment Method 1'', ''value'': ''Payment Method
+        1''}'
+      - '{''id'': ''7-2'', ''label'': ''Payment Method 2'', ''value'': ''Payment Method
+        2''}'
+      required: false
+    - id: 8
+      name: payment_method_details
+      label: Payment Method Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: membership_status
+      label: Membership Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''9-1'', ''label'': ''Active'', ''value'': ''Active''}'
+      - '{''id'': ''9-2'', ''label'': ''inactive'', ''value'': ''inactive''}'
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: member_since
+      label: Member Since
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: expiration_date
+      label: Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: created_by
+      label: Created By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: basic_info_1
+      label: Basic Info 1
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: basic_info_2
+      label: Basic Info 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: basic_info_3
+      label: Basic Info 3
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: basic_info_4
+      label: Basic Info 4
+      hint: null
+      type: number
+      options: []
+      required: false

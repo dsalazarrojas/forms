@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fleet Management Form
+    pages:
+    - id: 1
+      name: vehicle_number
+      label: Vehicle Number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: vehicle_make
+      label: vehicle_make
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: vehicle_year
+      label: vehicle_year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: vehicle_model
+      label: vehicle_model
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: vehicle_registration_plate
+      label: vehicle_registration_plate
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: vehicle_color
+      label: vehicle_color
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: vehicle_year_purchased
+      label: vehicle_year_purchased
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: vehicle_type
+      label: vehicle_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Car''}'
+      - '{''id'': 2, ''label'': ''Truck''}'
+      - '{''id'': 3, ''label'': ''Bus''}'
+      required: false
+    - id: 9
+      name: vehicle_status
+      label: vehicle_status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Active''}'
+      - '{''id'': 2, ''label'': ''Inactive''}'
+      - '{''id'': 3, ''label'': ''Sold''}'
+      required: true
+    - id: 10
+      name: vehicle_notes
+      label: vehicle_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: vehicle_image
+      label: vehicle_image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: vehicle_driver
+      label: vehicle_driver
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: vehicle_owner
+      label: vehicle_owner
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: vehicle_inspected
+      label: vehicle_inspected
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: vehicle_last_inspection
+      label: vehicle_last_inspection
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: vehicle_next_inspection
+      label: vehicle_next_inspection
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: vehicle_last_mileage
+      label: vehicle_last_mileage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: vehicle_notes
+      label: vehicle_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: vehicle_status_note
+      label: vehicle_status_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: vehicle_requisitioned
+      label: vehicle_requisitioned
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: vehicle_requisitioned_reason
+      label: vehicle_requisitioned_reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: vehicle_returned
+      label: vehicle_returned
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: vehicle_returned_reason
+      label: vehicle_returned_reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: vehicle_status_date
+      label: vehicle_status_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: vehicle_status_note
+      label: vehicle_status_note
+      hint: null
+      type: note
+      options: []
+      required: false

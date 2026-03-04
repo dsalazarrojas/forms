@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Palliative Care Education Video Consent Form
+    pages:
+    - id: 1
+      name: participant_info
+      label: Participant Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: consent_given
+      label: Consent Given
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 3
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: video_description
+      label: Video Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: video_title
+      label: Video Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: video_subject
+      label: Video Subject
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: participant_notes
+      label: Participant Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: video_notes
+      label: Video Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: video_completion
+      label: Video Completion
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: video_start
+      label: Video Start
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: video_duration
+      label: Video Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: video_location
+      label: Video Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: video_file
+      label: Video File
+      hint: null
+      type: select_one
+      options:
+      - -istine -fileUpload
+      - Other
+      required: false
+    - id: 15
+      name: upload_video
+      label: Upload Video
+      hint: null
+      type: select_one
+      options:
+      - videoFile
+      - noUpload
+      required: true
+    - id: 16
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: participant_email
+      label: Participant Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: participant_phone
+      label: Participant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: participant_relationship
+      label: Participant Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: participant_age
+      label: Participant Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: participant_gender
+      label: Participant Gender
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: participant_condition
+      label: Participant Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: participant_informed
+      label: Participant Informed
+      hint: null
+      type: select_one
+      options:
+      - -yes -no
+      - Other
+      required: true
+    - id: 24
+      name: participant_consent
+      label: Participant Consent
+      hint: null
+      type: select_one
+      options:
+      - -yes -no
+      - Other
+      required: true
+    - id: 25
+      name: participant_status
+      label: Participant Status
+      hint: null
+      type: select_one
+      options:
+      - -active -inactive
+      - Other
+      required: true

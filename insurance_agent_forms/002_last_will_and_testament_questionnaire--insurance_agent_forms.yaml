@@ -1,0 +1,137 @@
+inputSchema:
+  type: object
+  properties:
+    title: Last Will And Testament Questionnaire
+    pages:
+    - id: 1
+      name: relatives_to_notify
+      label: Relatives To Notify
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: executor_details
+      label: Executor Details
+      hint: null
+      type: select_one
+      options:
+      - Beneficiary
+      - Executor
+      - Other
+      required: false
+    - id: 3
+      name: estate_description
+      label: Estate Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: beneficiaries
+      label: Beneficiaries
+      hint: null
+      type: select_multiple
+      options:
+      - Primary Beneficiary
+      - Co-Beneficiary
+      - Other
+      required: false
+    - id: 5
+      name: property_values
+      label: Property Values
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: other_assets
+      label: Other Assets
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: real_estate
+      label: Real Estate
+      hint: null
+      type: select_multiple
+      options:
+      - Primary Residence
+      - Vacation Property
+      - Other
+      required: false
+    - id: 8
+      name: debts
+      label: Debts
+      hint: null
+      type: select_multiple
+      options:
+      - Credit Cards
+      - Loans
+      - Other
+      required: false
+    - id: 9
+      name: financial_institutions
+      label: Financial Institutions
+      hint: null
+      type: select_multiple
+      options:
+      - Banks
+      - Insurance Companies
+      - Other
+      required: false
+    - id: 10
+      name: vehicles
+      label: Vehicles
+      hint: null
+      type: select_multiple
+      options:
+      - Automobiles
+      - Motorbikes
+      - Other
+      required: false
+    - id: 11
+      name: pets
+      label: Pets
+      hint: null
+      type: select_multiple
+      options:
+      - Pets
+      - Other
+      required: false
+    - id: 12
+      name: funeral_expenses
+      label: Funeral Expenses
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: probate_fees
+      label: Probate Fees
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: other_expenses
+      label: Other Expenses
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: assets_description
+      label: Assets Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: executor_notes
+      label: Executor Notes
+      hint: null
+      type: text
+      options: []
+      required: false

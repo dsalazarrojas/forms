@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fire Safety Inspection Checklist
+    pages:
+    - id: 1
+      name: fire_safety_checklist
+      label: fire_safety_checklist
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: fire_safety_inspector
+      label: fire_safety_inspector
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: fire_safety_inspector_phone
+      label: fire_safety_inspectors_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: fire_safety_inspectors_email
+      label: fire_safety_inspectors_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: building_name
+      label: building_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: building_address
+      label: building_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: building_location
+      label: building_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: fire_safety_equipment
+      label: fire_safety_equipment
+      hint: null
+      type: select_multiple
+      options:
+      - Fire Extinguisher
+      - Smoke Detector
+      required: false
+    - id: 9
+      name: fire_safety_equipment_notes
+      label: fire_safety_equipment_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: fire_exit
+      label: fire_exit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: fire_exit_time
+      label: fire_exit_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: fire_exit_date
+      label: fire_exit_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: fire_safety_certification
+      label: fire_safety_certification
+      hint: null
+      type: select_one
+      options:
+      - Certified Fire Inspector
+      - Non-Certified Fire Inspector
+      required: false

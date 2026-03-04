@@ -1,0 +1,240 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daily Job Site Safety Briefing Form
+    pages:
+    - id: 1
+      name: job_site_id
+      label: Job Site Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: job_site_name
+      label: Job Site Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_inspection
+      label: Date Of Inspection
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time_of_inspection
+      label: Time Of Inspection
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: weather_conditions
+      label: Weather Conditions
+      hint: null
+      type: select_one
+      options:
+      - Clear
+      - Partly Cloudy
+      - Overcast
+      - Light Rain
+      - Heavy Rain
+      - Snow
+      - Fog
+      required: false
+    - id: 6
+      name: inspection_area
+      label: Inspection Area
+      hint: null
+      type: select_multiple
+      options:
+      - Site Office
+      - Hard Hat Area
+      - Drill Site
+      required: false
+    - id: 7
+      name: personal_equipment
+      label: Personal Equipment
+      hint: null
+      type: select_multiple
+      options:
+      - Safety Harness
+      - Hard Hat
+      - Safety Glasses
+      - Safety Vest
+      required: false
+    - id: 8
+      name: fire_equipment
+      label: Fire Equipment
+      hint: null
+      type: select_multiple
+      options:
+      - Fire Extinguisher
+      - Fire Hose
+      - Fire Alarm System
+      required: false
+    - id: 9
+      name: first_aid
+      label: First Aid
+      hint: null
+      type: select_multiple
+      options:
+      - First Aid Kit
+      - Fire Extinguisher
+      - First Aid Station
+      required: false
+    - id: 10
+      name: electrical_equipment
+      label: Electrical Equipment
+      hint: null
+      type: select_multiple
+      options:
+      - Generator
+      - P.A. System
+      required: false
+    - id: 11
+      name: safety_equipment
+      label: Safety Equipment
+      hint: null
+      type: select_multiple
+      options:
+      - Safety Harness
+      - Safety Vest
+      - Safety Glasses
+      required: false
+    - id: 12
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: select_multiple
+      options:
+      - Supervisor
+      - Site Manager
+      - First Aid
+      required: false
+    - id: 13
+      name: emergency_procedure
+      label: Emergency Procedure
+      hint: null
+      type: select_multiple
+      options:
+      - First Aid
+      - Emergency Contact
+      - Fire Extinguisher
+      required: false
+    - id: 14
+      name: site_condition
+      label: Site Condition
+      hint: null
+      type: select_multiple
+      options:
+      - Safe
+      - Caution
+      - Danger
+      required: false
+    - id: 15
+      name: safety_equipment_condition
+      label: Safety Equipment Condition
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 16
+      name: personal_safety_equipment_condition
+      label: Personal Safety Equipment Condition
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 17
+      name: personal_hygiene
+      label: Personal Hygiene
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 18
+      name: vehicle_condition
+      label: Vehicle Condition
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 19
+      name: fire_supervisor
+      label: Fire Supervisor
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 20
+      name: first_aid_supervisor
+      label: First Aid Supervisor
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 21
+      name: safety_supervisor
+      label: Safety Supervisor
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 22
+      name: fire_equipment_supervisor
+      label: Fire Equipment Supervisor
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 23
+      name: emergency_equipment_supervisor
+      label: Emergency Equipment Supervisor
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 24
+      name: vehicle_equipment_supervisor
+      label: Vehicle Equipment Supervisor
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 25
+      name: site_inspector
+      label: Site Inspector
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false

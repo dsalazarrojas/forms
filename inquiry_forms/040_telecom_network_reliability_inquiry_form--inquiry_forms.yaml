@@ -1,0 +1,220 @@
+inputSchema:
+  type: object
+  properties:
+    title: Telecom Network Reliability Inquiry Form
+    pages:
+    - id: 1
+      name: inquiry_form
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: network_reliability
+      label: Network Reliability
+      hint: null
+      type: select_one
+      options:
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 3
+      name: incident_timing
+      label: Incident Timing
+      hint: null
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      required: false
+    - id: 4
+      name: location
+      label: Location
+      hint: Enter location details
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: issue_description
+      label: Problem Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: priority_level
+      label: Priority Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 8
+      name: telecom_issue
+      label: Telecom Issue
+      hint: null
+      type: select_multiple
+      options:
+      - Service Delay
+      - Outage
+      - Interference
+      required: false
+    - id: 9
+      name: network_team
+      label: Network Team
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: issue_details
+      label: Issue Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: report_id
+      label: Report ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: telecom_service
+      label: Telecom Service
+      hint: null
+      type: select_one
+      options:
+      - Mobile
+      - Voice
+      - Data
+      required: false
+    - id: 15
+      name: telecom_operator
+      label: Telecom Operator
+      hint: null
+      type: select_one
+      options:
+      - Telstra
+      - Optus
+      - Vodafone
+      required: false
+    - id: 16
+      name: incident_type
+      label: Incident Type
+      hint: null
+      type: select_multiple
+      options:
+      - Planned Maintenance
+      - Unplanned Outage
+      - Interference
+      required: false
+    - id: 17
+      name: incident_status
+      label: Incident Status
+      hint: null
+      type: select_multiple
+      options:
+      - In Progress
+      - Resolved
+      - Pending
+      required: false
+    - id: 18
+      name: report_datetime
+      label: Report Date and Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: report_date
+      label: Report Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: location_details
+      label: Location Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: telecom_service_type
+      label: Telecom Service Type
+      hint: null
+      type: select_one
+      options:
+      - Fixed
+      - Mobile
+      - Data
+      required: false
+    - id: 22
+      name: telecom_operator_type
+      label: Telecom Operator Type
+      hint: null
+      type: select_one
+      options:
+      - Mobile
+      - Fixed
+      - Data
+      required: false
+    - id: 23
+      name: issue_status
+      label: Issue Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      - Resolved
+      required: false
+    - id: 24
+      name: report_submitted
+      label: Reported Submitted
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 25
+      name: report_completed
+      label: Reported Completed
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

@@ -1,0 +1,252 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Orientation For Autism Services
+    pages:
+    - id: 1
+      name: form_welcome
+      label: Welcome to Our Autism Services Program
+      hint: This form helps us understand your needs and coordinate the best care
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_first_name
+      label: Client First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_last_name
+      label: Client Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: client_date_of_birth
+      label: Client Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: client_age
+      label: Client Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: caregiver_name
+      label: Primary Caregiver Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: caregiver_relationship
+      label: Caregiver Relationship to Client
+      hint: null
+      type: select_one
+      options:
+      - Parent
+      - Guardian
+      - Sibling
+      - Other Family Member
+      - Professional Caregiver
+      - Other
+      required: true
+    - id: 8
+      name: caregiver_email
+      label: Caregiver Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: caregiver_phone
+      label: Caregiver Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: home_address
+      label: Home Address
+      hint: Street address city state zip
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: autism_diagnosis_date
+      label: Date of Autism Diagnosis
+      hint: Approximate date is acceptable
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: diagnosing_professional
+      label: Diagnosing Professional or Clinic
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: current_services
+      label: Current Services or Therapies Received
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Applied Behavior Analysis (ABA)
+      - Speech Therapy
+      - Occupational Therapy
+      - Physical Therapy
+      - Social Skills Training
+      - Counseling
+      - Educational Support
+      - None
+      - Other
+      required: true
+    - id: 14
+      name: service_frequency
+      label: Current Service Frequency
+      hint: How often does client receive services
+      type: select_one
+      options:
+      - Daily
+      - Several times per week
+      - Once per week
+      - 2-3 times per month
+      - Once per month
+      - Not currently receiving services
+      required: true
+    - id: 15
+      name: primary_concerns
+      label: Primary Concerns or Challenges
+      hint: What areas need the most support
+      type: select_multiple
+      options:
+      - Communication
+      - Social Interaction
+      - Behavioral Challenges
+      - Daily Living Skills
+      - Sensory Processing
+      - Academic Skills
+      - Emotional Regulation
+      - Motor Skills
+      - Other
+      required: true
+    - id: 16
+      name: communication_methods
+      label: Client Communication Methods
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Verbal Speech
+      - Sign Language
+      - Picture Exchange System (PECS)
+      - Communication Device or App
+      - Written Communication
+      - Gestures
+      - Other
+      required: true
+    - id: 17
+      name: sensory_sensitivities
+      label: Known Sensory Sensitivities
+      hint: Describe any sensitivities to sounds textures lights etc.
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: medical_conditions
+      label: Additional Medical Conditions or Diagnoses
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - ADHD
+      - Anxiety
+      - Epilepsy
+      - Sleep Disorders
+      - Gastrointestinal Issues
+      - Food Allergies
+      - None
+      - Other
+      required: false
+    - id: 19
+      name: medications
+      label: Current Medications
+      hint: List name and dosage if applicable
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Other than primary caregiver
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: preferred_service_location
+      label: Preferred Service Location
+      hint: null
+      type: select_one
+      options:
+      - Home-based Services
+      - Clinic-based Services
+      - School-based Services
+      - Community-based Services
+      - Telehealth
+      - No Preference
+      required: true
+    - id: 23
+      name: insurance_provider
+      label: Insurance Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: insurance_policy_number
+      label: Insurance Policy Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: referral_source
+      label: How Did You Hear About Our Services
+      hint: null
+      type: select_one
+      options:
+      - Physician Referral
+      - School District
+      - Other Provider Referral
+      - Friend or Family
+      - Online Search
+      - Social Media
+      - Other
+      required: false
+    - id: 26
+      name: family_goals
+      label: What Are Your Primary Goals for Services
+      hint: What would you like to see improve
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: additional_information
+      label: Additional Information
+      hint: Anything else that would help us serve you better
+      type: text
+      options: []
+      required: false

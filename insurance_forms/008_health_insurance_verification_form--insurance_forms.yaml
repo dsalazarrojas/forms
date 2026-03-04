@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Health Insurance Verification Form
+    pages:
+    - id: 1
+      name: user_info
+      label: User Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: insurance_type
+      label: Insurance Type
+      hint: null
+      type: select_one
+      options:
+      - Medicare
+      - Medicaid
+      - Private Insurance
+      - Self-Pay
+      required: false
+    - id: 3
+      name: insurance_number
+      label: Insurance Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: effective_date
+      label: Effective Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: expiration_date
+      label: Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: coverage_start
+      label: Coverage Start
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: coverage_end
+      label: Coverage End
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: medical_record
+      label: Medical Record
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: user_relationship
+      label: User Relationship
+      hint: null
+      type: select_one
+      options:
+      - Primary User
+      - Secondary User
+      - Third Party
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: policy_number
+      label: Policy Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: group_id
+      label: Group ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: group_name
+      label: Group Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: billing_name
+      label: Billing Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: billing_address
+      label: Billing Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: billing_phone
+      label: Billing Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: billing_email
+      label: Billing Email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: secondary_user_name
+      label: Secondary User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: secondary_phone
+      label: Secondary Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: secondary_email
+      label: Secondary Email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: policy_holder
+      label: Policy Holder
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: policy_holding_date
+      label: Policy Holding Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: policy_holding_reason
+      label: Policy Holding Reason
+      hint: null
+      type: text
+      options: []
+      required: false

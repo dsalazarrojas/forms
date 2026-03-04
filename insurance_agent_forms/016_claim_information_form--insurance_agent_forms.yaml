@@ -1,0 +1,216 @@
+inputSchema:
+  type: object
+  properties:
+    title: Claim Information Form
+    pages:
+    - id: 1
+      name: claimant_name
+      label: Claimant Full Name
+      hint: Person filing the claim
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: relationship_to_insured
+      label: Relationship to Insured
+      hint: If different from insured
+      type: select_one
+      options:
+      - Self (I am the insured)
+      - Spouse
+      - Parent
+      - Child
+      - Sibling
+      - Legal Representative
+      - Other
+      required: true
+    - id: 3
+      name: insured_name
+      label: Insured Person Name
+      hint: If different from claimant
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: policy_number
+      label: Policy Number
+      hint: Insurance policy number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: group_number
+      label: Group Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: claimant_email
+      label: Email Address
+      hint: For claim correspondence
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: claimant_phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: claimant_address
+      label: Mailing Address
+      hint: Full address with city, state, ZIP
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: incident_date
+      label: Date of Incident
+      hint: When did the incident occur
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: incident_type
+      label: Type of Incident
+      hint: Select the incident category
+      type: select_one
+      options:
+      - Auto Accident
+      - Property Damage
+      - Theft
+      - Vandalism
+      - Fire
+      - Water Damage
+      - Medical Incident
+      - Workplace Injury
+      - Liability Claim
+      - Other
+      required: true
+    - id: 11
+      name: incident_location
+      label: Location of Incident
+      hint: Where did it happen
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: incident_description
+      label: Detailed Description
+      hint: Describe what happened
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: damages_description
+      label: Description of Damages or Losses
+      hint: What was damaged or lost
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: estimated_amount
+      label: Estimated Claim Amount
+      hint: In dollars
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: third_party_involved
+      label: Was a Third Party Involved
+      hint: Another person or entity
+      type: select_one
+      options:
+      - true
+      - false
+      - Unknown
+      required: true
+    - id: 16
+      name: third_party_info
+      label: Third Party Information
+      hint: Name and contact if applicable
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: police_report_filed
+      label: Was a Police Report Filed
+      hint: For applicable incidents
+      type: select_one
+      options:
+      - true
+      - false
+      - Not applicable
+      required: true
+    - id: 18
+      name: police_department
+      label: Police Department Name
+      hint: If report was filed
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: police_report_number
+      label: Police Report Number
+      hint: Case or report number
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: medical_treatment
+      label: Was Medical Treatment Received
+      hint: For any injuries
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 21
+      name: medical_provider
+      label: Medical Provider Name
+      hint: Hospital or doctor name
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: documentation_attached
+      label: What Documentation Will You Submit
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Photos of damage
+      - Police report
+      - Medical records
+      - Repair estimates
+      - Receipts
+      - Witness statements
+      - Other documentation
+      required: false
+    - id: 23
+      name: prior_claims
+      label: Have You Filed Prior Claims for This Incident
+      hint: With any insurance company
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 24
+      name: attorney_representative
+      label: Do You Have Legal Representation
+      hint: Attorney or representative
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 25
+      name: additional_comments
+      label: Additional Information
+      hint: Any other relevant details
+      type: text
+      options: []
+      required: false

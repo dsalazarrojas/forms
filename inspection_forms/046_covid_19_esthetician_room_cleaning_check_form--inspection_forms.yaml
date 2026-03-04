@@ -1,0 +1,223 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Esthetician Room Cleaning Check Form
+    pages:
+      - id: 1
+        name: check_date
+        label: Cleaning Check Date
+        hint: Date of cleaning inspection
+        type: date
+        options: []
+        required: true
+      - id: 2
+        name: check_time
+        label: Time of Check
+        hint: What time was the check performed?
+        type: time
+        options: []
+        required: false
+      - id: 3
+        name: room_number
+        label: Room Number
+        hint: Esthetician room identifier
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: esthetician_name
+        label: Esthetician Name
+        hint: Name of staff member using this room
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: inspector_name
+        label: Inspector Name
+        hint: Person conducting the check
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: cleaning_staff
+        label: Cleaning Staff Name
+        hint: Who performed the cleaning?
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: surfaces_disinfected
+        label: Hard Surfaces Disinfected
+        hint: Tables, chairs, door handles, etc.
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+          - "Partial"
+        required: true
+      - id: 8
+        name: linens_changed
+        label: Linens and Towels Changed
+        hint: Clean linens provided
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+          - "Not applicable"
+        required: true
+      - id: 9
+        name: equipment_sanitized
+        label: Equipment Sanitized
+        hint: Mirrors, lights, tools, bed, etc.
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+          - "Partial"
+        required: true
+      - id: 10
+        name: facial_bed_clean
+        label: Facial Bed Clean and Protected
+        hint: Clean covering for facial bed
+        type: select_one
+        options:
+          - "Yes - clean covering"
+          - "Yes - disposable covering"
+          - "No"
+        required: true
+      - id: 11
+        name: floors_cleaned
+        label: Floors Cleaned
+        hint: Swept and mopped
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+          - "Partial"
+        required: true
+      - id: 12
+        name: waste_disposed
+        label: Biohazard Waste Properly Disposed
+        hint: Used tools and materials in proper containers
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+          - "Not applicable"
+        required: true
+      - id: 13
+        name: sanitizer_supplies
+        label: Sanitizer Supplies Stocked
+        hint: Hand sanitizer, disinfectant available
+        type: select_one
+        options:
+          - "Yes - sufficient"
+          - "Yes - low stock"
+          - "No"
+        required: true
+      - id: 14
+        name: air_ventilation
+        label: Ventilation/Air Circulation Working
+        hint: Adequate airflow in room
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+          - "Partial"
+        required: false
+      - id: 15
+        name: air_purifier
+        label: Air Purifier or Filter Operating
+        hint: If applicable
+        type: select_one
+        options:
+          - "Yes - working"
+          - "Yes - needs maintenance"
+          - "No"
+          - "Not applicable"
+        required: false
+      - id: 16
+        name: trash_emptied
+        label: Trash Bins Emptied
+        hint: All garbage removed
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+        required: true
+      - id: 17
+        name: supplies_organized
+        label: Supplies Organized and Stored Properly
+        hint: Clean separation from dirty items
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+          - "Partial"
+        required: false
+      - id: 18
+        name: odors_present
+        label: Any Unpleasant Odors Detected
+        hint: Odors that may indicate incomplete cleaning
+        type: select_one
+        options:
+          - "No odors"
+          - "Minor odors"
+          - "Strong odors"
+        required: false
+      - id: 19
+        name: overall_cleanliness
+        label: Overall Cleanliness Rating
+        hint: null
+        type: select_one
+        options:
+          - "Excellent"
+          - "Good"
+          - "Fair"
+          - "Poor"
+        required: true
+      - id: 20
+        name: issues_found
+        label: Issues or Concerns Found
+        hint: Any problems that need attention
+        type: text
+        options: []
+        required: false
+      - id: 21
+        name: corrective_actions
+        label: Corrective Actions Needed
+        hint: What needs to be fixed?
+        type: text
+        options: []
+        required: false
+      - id: 22
+        name: follow_up_required
+        label: Follow-Up Check Required
+        hint: Does this room need re-inspection?
+        type: select_one
+        options:
+          - "No"
+          - "Yes - same day"
+          - "Yes - next day"
+        required: true
+      - id: 23
+        name: signature_approval
+        label: Inspector Approval
+        hint: Check this if room is approved for use
+        type: select_one
+        options:
+          - "Approved"
+          - "Not approved"
+          - "Approved with conditions"
+        required: true

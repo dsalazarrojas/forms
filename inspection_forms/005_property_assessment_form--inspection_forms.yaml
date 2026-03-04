@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property Assessment Form
+    pages:
+    - id: 1
+      name: property_address
+      label: property_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: property_type
+      label: property_type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''single-family''}'
+      - '{''value'': ''multi-family''}'
+      - '{''value'': ''other''}'
+      required: false
+    - id: 3
+      name: property_value
+      label: property_value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: property_year_built
+      label: property_year_built
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: property_sqft
+      label: property_sqft
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: property_bedrooms
+      label: property_bedrooms
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: property_lot_size
+      label: property_lot_size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: property_condition
+      label: property_condition
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''excellent''}'
+      - '{''value'': ''good''}'
+      - '{''value'': ''fair''}'
+      - '{''value'': ''poor''}'
+      required: false
+    - id: 9
+      name: property_neighboring_units
+      label: property_neighboring_units
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': False}'
+      - '{''value'': True}'
+      required: false
+    - id: 10
+      name: property_views
+      label: property_views
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''unobstructed''}'
+      - '{''value'': ''obstructed''}'
+      - '{''value'': ''unknown''}'
+      required: false
+    - id: 11
+      name: property_accessibility
+      label: property_accessibility
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''walk''}'
+      - '{''value'': ''drive''}'
+      - '{''value'': ''unknown''}'
+      required: false

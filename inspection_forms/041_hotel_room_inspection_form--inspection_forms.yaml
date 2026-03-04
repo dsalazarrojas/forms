@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hotel Room Inspection Form
+    pages:
+    - id: 1
+      name: room_inspection
+      label: Room Inspection
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: condition_checklist
+      label: Condition Checklist
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Good'', ''value'': ''Good''}'
+      - '{''label'': ''Poor'', ''value'': ''Poor''}'
+      - '{''label'': ''N/A'', ''value'': ''N/A''}'
+      required: false
+    - id: 3
+      name: maintenance_request
+      label: Maintenance Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: room_status
+      label: Room Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Clean'', ''value'': ''Clean''}'
+      - '{''label'': ''Dirty'', ''value'': ''Dirty''}'
+      - '{''label'': ''N/A'', ''value'': ''N/A''}'
+      required: false
+    - id: 5
+      name: maintenance_priority
+      label: Maintenance Priority
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: maintenance_category
+      label: Category
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Electrical'', ''value'': ''Electrical''}'
+      - '{''label'': ''Plumbing'', ''value'': ''Plumbing''}'
+      - '{''label'': ''N/A'', ''value'': ''N/A''}'
+      required: false
+    - id: 7
+      name: maintenance_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: room_number
+      label: Room Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: assigned_by
+      label: Assigned By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: completed_by
+      label: Completed By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: completed_on
+      label: Completed On
+      hint: null
+      type: date
+      options: []
+      required: false

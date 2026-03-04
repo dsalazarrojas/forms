@@ -1,0 +1,149 @@
+inputSchema:
+  type: object
+  properties:
+    title: Academic Interview Registration Form
+    pages:
+    - id: 1
+      name: interview_registration_intro
+      label: Academic Interview Registration
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_name
+      label: Applicant Name
+      hint: Full name of the person being interviewed
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: applicant_email
+      label: Email Address
+      hint: Contact email for interview coordination
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: applicant_phone
+      label: Phone Number
+      hint: Contact phone number for interview scheduling
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: position_role
+      label: Position or Role
+      hint: The position or role being interviewed for
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: department_unit
+      label: Department or Unit
+      hint: The department or academic unit conducting the interview
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: interview_type
+      label: Type of Interview
+      hint: What type of interview is this?
+      type: select_one
+      options:
+      - Job interview
+      - Admission interview
+      - Research interview
+      - Evaluation interview
+      - Informational interview
+      - Other
+      required: true
+    - id: 8
+      name: interview_format
+      label: Interview Format
+      hint: How would you prefer to conduct the interview?
+      type: select_one
+      options:
+      - In-person
+      - Video conference
+      - Phone call
+      - Panel interview
+      - Multiple rounds
+      - Other
+      required: true
+    - id: 9
+      name: preferred_dates
+      label: Preferred Dates
+      hint: What dates would work best for your interview?
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: preferred_time_slots
+      label: Preferred Time Slots
+      hint: What times of day work best for your interview?
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: interview_duration_preference
+      label: Duration Preference
+      hint: How long should the interview last?
+      type: select_one
+      options:
+      - 15-30 minutes
+      - 30-45 minutes
+      - 45-60 minutes
+      - 60-90 minutes
+      - Over 90 minutes
+      required: true
+    - id: 12
+      name: availability_notes
+      label: Availability Notes
+      hint: Any special considerations for scheduling?
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: preparation_materials_needed
+      label: Preparation Materials Needed
+      hint: Do you need any materials sent in advance?
+      type: select_one
+      options:
+      - Yes, please send materials
+      - No, I have everything
+      - Unsure
+      - Will request separately
+      required: false
+    - id: 14
+      name: special_accommodations
+      label: Special Accommodations
+      hint: Do you require any special accommodations for the interview?
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: interview_experience_level
+      label: Interview Experience Level
+      hint: How experienced are you with this type of interview?
+      type: select_one
+      options:
+      - Very experienced
+      - Moderately experienced
+      - New to this type
+      - Anxious about process
+      required: false
+    - id: 16
+      name: questions_for_interviewers
+      label: Questions for Interviewers
+      hint: Do you have specific questions you'd like to ask during the interview?
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: additional_information
+      label: Additional Information
+      hint: Any other information relevant to your interview?
+      type: text
+      options: []
+      required: false

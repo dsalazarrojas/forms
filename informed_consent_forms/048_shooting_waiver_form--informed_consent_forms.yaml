@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: Shooting Waiver Form
+    pages:
+    - id: 1
+      name: shooting_waiver_form
+      label: Shooting Waiver Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant Name
+      hint: Enter participant's name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: Enter participant's date of birth
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: Participant's email
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: Participant's phone number
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Enter participant's emergency contact name
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: Participant's relationship to emergency contact
+      type: select_one
+      options:
+      - Emergency Contact
+      - Family
+      - Parent
+      - Spouse
+      - Other
+      required: false
+    - id: 8
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Enter participant's emergency contact phone number
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergency_contact_email
+      label: Emergency Contact Email
+      hint: Participant's emergency contact email
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: emergency_contact_address
+      label: Emergency Contact Address
+      hint: Participant's emergency contact address
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: participant_agreement
+      label: Participant Agreement
+      hint: Participant's agreement with the form's conditions
+      type: select_one
+      options:
+      - I agree
+      - I don't agree
+      required: false
+    - id: 12
+      name: waiver_signature
+      label: Waiver Signature
+      hint: Participant's waiver signature
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: participant_signature
+      label: Participant Signature
+      hint: Participant's signature
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: instructor_signature
+      label: Instructor Signature
+      hint: Instructor's signature
+      type: note
+      options: []
+      required: false

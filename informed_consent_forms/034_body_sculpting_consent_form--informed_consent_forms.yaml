@@ -1,0 +1,225 @@
+inputSchema:
+  type: object
+  properties:
+    title: Body Sculpting Consent Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: patient_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: patient_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: procedure_name
+      label: Body Sculpting Procedure Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: treatment_areas
+      label: Areas to be Treated
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: provider_name
+      label: Procedure Provider Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: procedure_date
+      label: Scheduled Procedure Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: procedure_explained
+      label: The procedure has been fully explained
+      hint: null
+      type: select_one
+      options:
+      - Yes, thoroughly
+      - Yes, adequately
+      - Partially
+      - false
+      required: true
+    - id: 10
+      name: understand_procedure
+      label: I understand the procedure and steps
+      hint: null
+      type: select_one
+      options:
+      - true
+      - Mostly
+      - Somewhat
+      - false
+      required: true
+    - id: 11
+      name: expected_results_discussed
+      label: Expected results discussed
+      hint: null
+      type: select_one
+      options:
+      - true
+      - Partially
+      - false
+      required: true
+    - id: 12
+      name: realistic_expectations
+      label: I have realistic expectations about results
+      hint: null
+      type: select_one
+      options:
+      - true
+      - Mostly
+      - Somewhat
+      - false
+      required: true
+    - id: 13
+      name: risks_explained
+      label: Risks and side effects explained
+      hint: Bruising, swelling, asymmetry, etc
+      type: select_one
+      options:
+      - Yes, thoroughly
+      - Yes, adequately
+      - Partially
+      - false
+      required: true
+    - id: 14
+      name: understand_risks
+      label: I understand the risks
+      hint: null
+      type: select_one
+      options:
+      - true
+      - Mostly
+      - Somewhat
+      - false
+      required: true
+    - id: 15
+      name: complications_risks_discussed
+      label: Possible complications discussed
+      hint: Infections, unsatisfactory results, etc
+      type: select_one
+      options:
+      - true
+      - Partially
+      - false
+      required: true
+    - id: 16
+      name: recovery_time_explained
+      label: Recovery time and downtime explained
+      hint: null
+      type: select_one
+      options:
+      - true
+      - Partially
+      - false
+      required: true
+    - id: 17
+      name: alternatives_discussed
+      label: Alternative treatments discussed
+      hint: null
+      type: select_one
+      options:
+      - true
+      - Partially
+      - false
+      required: true
+    - id: 18
+      name: medical_history_disclosed
+      label: I have fully disclosed medical history
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Mostly
+      required: true
+    - id: 19
+      name: medications_disclosed
+      label: I have disclosed all medications
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Mostly
+      required: true
+    - id: 20
+      name: allergies_disclosed
+      label: I have disclosed all allergies
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Have No Known Allergies
+      required: true
+    - id: 21
+      name: pregnancy_status
+      label: I am not pregnant or nursing
+      hint: null
+      type: select_one
+      options:
+      - Correct - Not Pregnant
+      - I am Pregnant
+      - I am Nursing
+      - Not Applicable
+      required: true
+    - id: 22
+      name: questions_answered
+      label: All my questions have been answered
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Have No Further Questions
+      required: true
+    - id: 23
+      name: voluntary_consent
+      label: I voluntarily consent to this procedure
+      hint: null
+      type: select_one
+      options:
+      - I Consent
+      - I Do Not Consent
+      required: true
+    - id: 24
+      name: assumption_of_risk
+      label: I assume all risks associated with procedure
+      hint: null
+      type: select_one
+      options:
+      - I Accept
+      - I Do Not Accept
+      required: true

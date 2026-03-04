@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: Network Administrator Onboarding Form
+    pages:
+    - id: 1
+      name: network_administrator_onboarding_form
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: password
+      label: Password
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: role
+      label: Role
+      hint: null
+      type: select_one
+      options:
+      - Network Admin
+      - System Admin
+      - Help Desk
+      required: true
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: confirm_password
+      label: Confirm Password
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: confirm_date_of_birth
+      label: Confirm Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: emergency_contact_info
+      label: Emergency Contact Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: onboarding_status
+      label: Onboarding Status
+      hint: null
+      type: select_multiple
+      options:
+      - Pending
+      - Approved
+      - Denied
+      required: true
+    - id: 12
+      name: onboarding_manager_comments
+      label: Onboarding Manager Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: manager_approval
+      label: Manager Approval
+      hint: null
+      type: select_multiple
+      options:
+      - Pending
+      - Approved
+      - Denied
+      required: true
+    - id: 14
+      name: it_department_approvals
+      label: IT Department Approvals
+      hint: null
+      type: select_multiple
+      options:
+      - Pending
+      - Approved
+      - Denied
+      required: true
+    - id: 15
+      name: department_approvals
+      label: Department Approvals
+      hint: null
+      type: select_multiple
+      options:
+      - Pending
+      - Approved
+      - Denied
+      required: true
+    - id: 16
+      name: onboarding_form_submitted_by
+      label: Onboarding Form Submitted By
+      hint: null
+      type: select_one
+      options:
+      - User A
+      - User B
+      - User C
+      required: true
+    - id: 17
+      name: onboarding_form_submitted_date
+      label: Onboarding Form Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: onboarding_form_submitted_time
+      label: Onboarding Form Submitted Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 19
+      name: onboarding_form_verified_by
+      label: Onboarding Form Verified By
+      hint: null
+      type: select_one
+      options:
+      - User A
+      - User B
+      - User C
+      required: true
+    - id: 20
+      name: onboarding_form_verified_date
+      label: Onboarding Form Verified Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: onboarding_form_verified_time
+      label: Onboarding Form Verified Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 22
+      name: network_administrator_onboarding_form_id
+      label: Network Administrator Onboarding Form ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: it_department_verified_by
+      label: IT Department Verified By
+      hint: null
+      type: select_one
+      options:
+      - User A
+      - User B
+      - User C
+      required: true
+    - id: 24
+      name: department_verified_by
+      label: Department Verified By
+      hint: null
+      type: select_one
+      options:
+      - User A
+      - User B
+      - User C
+      required: true
+    - id: 25
+      name: form_submitter_name
+      label: Form Submitter Name
+      hint: null
+      type: text
+      options: []
+      required: true

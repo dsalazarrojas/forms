@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: life-insurance-information-form
+    pages:
+    - id: 1
+      name: form_fields
+      label: form-fields
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: first-name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: last-name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: date-of-birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: social_security_number
+      label: social-security-number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: policy_type
+      label: policy-type
+      hint: null
+      type: select_one
+      options:
+      - Life
+      - Term
+      - Whole
+      required: true
+    - id: 7
+      name: coverage_level
+      label: coverage-level
+      hint: null
+      type: select_multiple
+      options:
+      - Basic
+      - Preferred
+      - Supreme
+      - Elite
+      required: true
+    - id: 8
+      name: premium_cost
+      label: premium-cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: policy_term
+      label: policy-term
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: policy_start_date
+      label: policy-start-date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: policy_end_date
+      label: policy-end-date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: policy_status
+      label: policy-status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      - Cancelled
+      - Pending
+      required: false
+    - id: 13
+      name: policy_owner
+      label: policy-owner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: policy_owner_email
+      label: policy-owner-email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: policy_owner_phone
+      label: policy-owner-phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: form_signature
+      label: form-signature
+      hint: null
+      type: select_one
+      options:
+      - Signature
+      - No Signature
+      required: true
+    - id: 17
+      name: additional_info
+      label: additional-info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: insurance_agents_name
+      label: insurance-agents-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: insurance_agents_email
+      label: insurance-agents-email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: insurance_agents_phone
+      label: insurance-agents-phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: company
+      label: company
+      hint: null
+      type: select_one
+      options:
+      - ABC Insurance Company
+      - DEF Insurance Company
+      - GHI Insurance Company
+      required: false
+    - id: 22
+      name: insurance_product
+      label: insurance-product
+      hint: null
+      type: select_multiple
+      options:
+      - Life
+      - Term
+      - Whole
+      required: true
+    - id: 23
+      name: coverage_amount
+      label: coverage-amount
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: premium_payment
+      label: premium-payment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: policy_notes
+      label: policy-notes
+      hint: null
+      type: text
+      options: []
+      required: false

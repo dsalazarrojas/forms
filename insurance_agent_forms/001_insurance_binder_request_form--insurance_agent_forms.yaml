@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: Insurance Binder Request Form
+    pages:
+    - id: 1
+      name: insurance_binder_request_form
+      label: Request Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: request_type
+      label: type_of_request
+      hint: null
+      type: select_one
+      options:
+      - New Business
+      - New Renewal
+      - Other
+      required: false
+    - id: 3
+      name: insurance_company
+      label: insurance_company
+      hint: Please provide the name of the insurance company.
+      type: select_multiple
+      options:
+      - Company A
+      - Company B
+      - Company C
+      required: false
+    - id: 4
+      name: policy_number
+      label: policy_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: policy_effective_date
+      label: policy_effective_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: policy_expiration_date
+      label: policy_expiration_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: policy_term
+      label: policy_term
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Biannually
+      - Annually
+      required: false
+    - id: 8
+      name: policy_anniversary
+      label: policy_anniversary
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: policy_premium
+      label: policy_premium
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: policy_commission
+      label: policy_commission
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: agent_name
+      label: agent_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: agent_address
+      label: agent_address
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: agent_phone
+      label: agent_phone
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Creative Direction Interview Consent Form
+    pages:
+    - id: 1
+      name: interview_form
+      label: interview_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_information
+      label: participant_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: agreement
+      label: agreement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: use_of_recordings
+      label: use_of_recordings
+      hint: null
+      type: select_one
+      options:
+      - '{''Recording of interviews and conversations may be used for'': [''Project
+        development'', ''Marketing'', ''Other'']}'
+      - Other
+      required: false
+    - id: 5
+      name: participant_agreement
+      label: participant_agreement
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: signature_date
+      label: signature_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: signature
+      label: signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: form_complete
+      label: form_complete
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hospital Operations Research Publication Consent Form
+    pages:
+    - id: 1
+      name: participant_identifier
+      label: Participant Identifier
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: publication_title
+      label: Publication Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: publication_author
+      label: Publication Author
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: research_publication
+      label: Research Publication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: participant_data
+      label: Participant Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: consent
+      label: Consent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: publication_purpose
+      label: Publication Purpose
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: publication_date
+      label: Publication Date
+      hint: null
+      type: date
+      options: []
+      required: false

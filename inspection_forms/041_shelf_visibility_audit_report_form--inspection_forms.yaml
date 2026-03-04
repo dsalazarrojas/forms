@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Shelf Visibility Audit Report Form
+    pages:
+    - id: 1
+      name: store_name
+      label: store_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: auditor_name
+      label: auditor_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: store_id
+      label: store_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: photo_evidence
+      label: photo_evidence
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - Shelf
+      - Floor
+      - Wall
+      required: false
+    - id: 9
+      name: shelf_location
+      label: shelf_location
+      hint: null
+      type: select_multiple
+      options:
+      - Top
+      - Middle
+      - Bottom
+      required: false
+    - id: 10
+      name: shelf_condition
+      label: shelf_condition
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Bad
+      - Unknown
+      required: false
+    - id: 11
+      name: store_manager
+      label: store_manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: store_manager_phone
+      label: store_manager_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: store_manager_email
+      label: store_manager_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: follow_up
+      label: follow_up
+      hint: null
+      type: note
+      options: []
+      required: false

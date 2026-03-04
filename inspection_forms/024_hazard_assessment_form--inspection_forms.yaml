@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hazard Assessment Form
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: hazards
+      label: hazards
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: hazard_location
+      label: hazard_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: hazard_type
+      label: hazard_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: hazard_frequency
+      label: hazard_frequency
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: hazard_severity
+      label: hazard_severity
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: hazard_control_measure
+      label: hazard_control_measure
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: hazard_control_measure_description
+      label: hazard_control_measure_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: employee_name
+      label: employee_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: employee_position
+      label: employee_position
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: employee_date_of_birth
+      label: employee_date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: employee_contact_info
+      label: employee_contact_info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: supervisor_name
+      label: supervisor_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: supervisor_position
+      label: supervisor_position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: safety_officer_name
+      label: safety_officer_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: hazard_reported
+      label: hazard_reported
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: hazard_description
+      label: hazard_description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: corrective_action
+      label: corrective_action
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: follow_up_date
+      label: follow_up_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: follow_up_details
+      label: follow_up_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: follow_up_person
+      label: follow_up_person
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 22
+      name: follow_up_status
+      label: follow_up_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 23
+      name: follow_up_date
+      label: follow_up_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: follow_up_description
+      label: follow_up_description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Other
+      required: true

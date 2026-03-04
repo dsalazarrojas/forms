@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Machine Learning Model Validation Report Form
+    pages:
+    - id: 1
+      name: form_title
+      label: form_title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: model_type
+      label: select_one_model_type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''regression''}'
+      - '{''value'': ''classification''}'
+      - '{''value'': ''clustering''}'
+      required: true
+    - id: 3
+      name: dataset_size
+      label: dataset_size
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: ml_framework
+      label: ml_framework
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: feature_engineering_method
+      label: select_multiple_feature_engineering_method
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''feature_scaling''}'
+      - '{''value'': ''feature_encoding''}'
+      - '{''value'': ''feature_selecting''}'
+      required: true
+    - id: 6
+      name: hyperparameters
+      label: hyperparameters
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: model_accuracy
+      label: model_accuracy
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: dataset_quality
+      label: dataset_quality
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: ml_model_evaluation
+      label: ml_model_evaluation
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: model_type
+      label: select_one_model_type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''regression''}'
+      - '{''value'': ''classification''}'
+      - '{''value'': ''clustering''}'
+      required: true
+    - id: 11
+      name: model_evaluation_method
+      label: model_evaluation_method
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''model_selection''}'
+      - '{''value'': ''model_tuning''}'
+      - '{''value'': ''model_ensemble''}'
+      required: false
+    - id: 12
+      name: dataset_size
+      label: select_one_dataset_size
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''small''}'
+      - '{''value'': ''medium''}'
+      - '{''value'': ''large''}'
+      required: true

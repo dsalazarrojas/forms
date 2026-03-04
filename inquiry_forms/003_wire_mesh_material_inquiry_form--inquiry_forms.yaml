@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: wire_mesh_material_inquiry_form
+    pages:
+    - id: 1
+      name: inquiry_type
+      label: Inquiry Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: wire_mesh_type
+      label: Wire Mesh Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: mesh_size
+      label: Mesh Size
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: wire_mesh_materials
+      label: Wire Mesh Materials
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: price
+      label: Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: availability
+      label: Availability
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: customer_inquiry
+      label: Customer Inquiry
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: customer_message
+      label: Customer Message
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: customer_notes
+      label: Customer Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: sales_person
+      label: Sales Person
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: customer_company
+      label: Customer Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: customer_address
+      label: Customer Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: customer_city
+      label: Customer City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: customer_state
+      label: Customer State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: customer_zip
+      label: Customer Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: customer_country
+      label: Customer Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: customer_state_province
+      label: Customer State/Province
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: customer_reference
+      label: Customer Reference
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: customer_ship_to
+      label: Ship To
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: customer_instructions
+      label: Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: customer_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: customer_terms
+      label: Terms and Conditions
+      hint: null
+      type: text
+      options: []
+      required: false

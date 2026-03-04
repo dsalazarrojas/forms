@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workforce Pipeline Intake Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: resume_link
+      label: Resume Link
+      hint: Please provide a link to your resume
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: work_experience
+      label: Work Experience
+      hint: null
+      type: select_multiple
+      options:
+      - 1-2 years
+      - 2-5 years
+      - 5-10 years
+      - 10+ years
+      required: true
+    - id: 6
+      name: available_date
+      label: Available Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: available_time
+      label: Available Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - Text
+      - Video call
+      required: true
+    - id: 10
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: work_type
+      label: Work Type
+      hint: null
+      type: select_multiple
+      options:
+      - Full-time
+      - Part-time
+      - Freelance
+      - Internship
+      - Volunteer
+      - Contract
+      required: true
+    - id: 12
+      name: work_status
+      label: Work Status
+      hint: null
+      type: select_multiple
+      options:
+      - Available
+      - Available in 1 week
+      - Available in 2 weeks
+      - Not Available
+      required: true
+    - id: 13
+      name: language_proficiency
+      label: Language Proficiency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: work_experience_other
+      label: Other Work Experience
+      hint: Please provide a brief description of your work experience
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: education_background
+      label: Education Background
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: education_level
+      label: Education Level
+      hint: null
+      type: select_multiple
+      options:
+      - High School
+      - Associate
+      - Bachelor
+      - Master
+      - Ph.D.
+      - Other
+      required: true
+    - id: 17
+      name: skills
+      label: Skills
+      hint: Please list your relevant skills
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: availability
+      label: Availability
+      hint: null
+      type: select_one
+      options:
+      - Flexible
+      - Fixed
+      required: true
+    - id: 19
+      name: available_days
+      label: Available Days
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: available_hours
+      label: Available Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: available_start
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: available_end
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: work_experience_other
+      label: Other Work Experience
+      hint: Please provide a brief description of your work experience
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: education_institution
+      label: Education Institution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: education_institution_other
+      label: Other Education Institution
+      hint: Please provide a brief description of your other education experience
+      type: text
+      options: []
+      required: false

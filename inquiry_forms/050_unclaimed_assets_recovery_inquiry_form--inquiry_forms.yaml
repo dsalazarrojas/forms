@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Unclaimed Assets Recovery Inquiry Form
+    pages:
+    - id: 1
+      name: recovery_inquiries
+      label: Recovery Inquiries
+      hint: null
+      type: select_multiple
+      options:
+      - Inquiries
+      - Claims
+      - Assets
+      required: false
+    - id: 2
+      name: asset_amount
+      label: Asset Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: asset_description
+      label: Asset Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: asset_type
+      label: Asset Type
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Securities
+      - Other
+      required: false
+    - id: 5
+      name: unclaimed_since
+      label: Unclaimed Since
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: last_contact_date
+      label: Last Contact Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: unclaimed_value
+      label: Unclaimed Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Unclaimed
+      - Claimed
+      - Recovered
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: requested_documents
+      label: Requested Documents
+      hint: null
+      type: select_multiple
+      options:
+      - Identification
+      - Proof of ownership
+      - Other
+      required: false
+    - id: 11
+      name: recovery_services
+      label: Recovery Services
+      hint: null
+      type: select_multiple
+      options:
+      - Legal
+      - Financial
+      - Recovery Services
+      required: false

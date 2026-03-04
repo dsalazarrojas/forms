@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: video consultation informed consent form
+    pages:
+    - id: 1
+      name: video_consultation_informed_consent
+      label: Video Consultation Informed Consent Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: patient name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: patient_email
+      label: patient email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: patient_phone
+      label: patient phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: video_consent
+      label: video consent
+      hint: null
+      type: select_multiple
+      options:
+      - 'yes'
+      - 'no'
+      required: false
+    - id: 6
+      name: video_consultation_details
+      label: video consultation details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: video_technology
+      label: video technology used
+      hint: null
+      type: select_one
+      options:
+      - zoom
+      - skype
+      - google-meet
+      required: false
+    - id: 8
+      name: video_consent_note
+      label: video consent note
+      hint: additional comments
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: video_consultation_date
+      label: video consultation date
+      hint: YYYY-MM-DD format
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: video_consultation_time
+      label: video consultation time
+      hint: "HH:MM:SS 24HR format"
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: video_consultation_duration
+      label: video consultation duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: video_consultation_status
+      label: video consultation status
+      hint: null
+      type: select_one
+      options:
+      - scheduled
+      - ongoing
+      - complete
+      required: false
+    - id: 13
+      name: video_consultation_note
+      label: video consultation note
+      hint: Additional comments
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: video_provider
+      label: video provider
+      hint: Name of provider
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: video_department
+      label: video department
+      hint: department of consultation
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: video_location
+      label: video location
+      hint: location of consultation
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: video_consultation_type
+      label: video consultation type
+      hint: type of consultation
+      type: select_multiple
+      options:
+      - video consultation
+      - follow-up
+      - new patient visit
+      required: false
+    - id: 18
+      name: video_referring_provider
+      label: video referring provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: video_referring_reason
+      label: video referring reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: video_consultation_note_2
+      label: video consultation note 2
+      hint: Additional comments
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: video_language
+      label: video language
+      hint: language of consultation
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: video_video
+      label: video video
+      hint: video recording link
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: video_audio
+      label: video audio
+      hint: audio recording link
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: video_transcription
+      label: video transcription
+      hint: video transcription
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: video_additional_comments
+      label: video additional comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: Calibration And Weight Check Form
+    pages:
+    - id: 1
+      name: equipment_info_header
+      label: -- Equipment Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: equipment_id
+      label: Equipment ID or Serial Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: equipment_type
+      label: Equipment Type
+      hint: null
+      type: select_one
+      options:
+      - Balance Scale
+      - Digital Scale
+      - Weight Scale
+      - Precision Scale
+      - Laboratory Scale
+      - Other
+      required: true
+    - id: 4
+      name: equipment_location
+      label: Equipment Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: equipment_department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: inspection_header
+      label: -- Inspection Date and Inspector --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: inspection_time
+      label: Inspection Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: inspector_name
+      label: Inspector Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: inspector_credentials
+      label: Inspector Credentials
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: calibration_header
+      label: -- Calibration Check --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: last_calibration_date
+      label: Last Calibration Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: calibration_due_date
+      label: Next Calibration Due Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: calibration_standard
+      label: Calibration Standard Used
+      hint: null
+      type: select_one
+      options:
+      - NIST
+      - ISO 9001
+      - Company standard
+      - Other
+      required: true
+    - id: 15
+      name: test_weight_header
+      label: -- Test Weight Measurements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: test_weight_1
+      label: Test Weight 1 (kg or lbs)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: measured_weight_1
+      label: Measured Result 1
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: test_weight_2
+      label: Test Weight 2 (kg or lbs)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: measured_weight_2
+      label: Measured Result 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: test_weight_3
+      label: Test Weight 3 (kg or lbs)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: measured_weight_3
+      label: Measured Result 3
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: accuracy_tolerance
+      label: Accuracy Tolerance (%)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: results_header
+      label: -- Results and Status --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: calibration_status
+      label: Calibration Status
+      hint: null
+      type: select_one
+      options:
+      - Within tolerance - Pass
+      - Outside tolerance - Fail
+      - Needs recalibration
+      required: true
+    - id: 25
+      name: corrective_action
+      label: Corrective Action if Needed
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,147 @@
+inputSchema:
+  type: object
+  properties:
+    title: Aviation Flight Crew Interview Form
+    pages:
+    - id: 1
+      name: section_candidate_info
+      label: -- Candidate and Interviewer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: candidate_name
+      label: Candidate Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: interviewer_name
+      label: Interviewer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: interview_date
+      label: Date of Interview
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: role_applied
+      label: Position Applied For
+      hint: Select the primary role being interviewed for
+      type: select_one
+      options:
+      - Captain
+      - First Officer
+      - Flight Attendant
+      - Flight Engineer
+      - Cabin Crew Supervisor
+      required: true
+    - id: 6
+      name: section_flight_experience
+      label: -- Flight Experience and Qualifications --
+      hint: To be verified against the pilot logbook
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: total_flight_hours
+      label: Total Flight Hours
+      hint: Overall flight time
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: pic_hours
+      label: Pilot-in-Command (PIC) Hours
+      hint: Total time as PIC
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: type_ratings
+      label: Aircraft Type Ratings
+      hint: List all current and valid type ratings
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: section_competency_assessment
+      label: -- Competency Assessment --
+      hint: Rate each category on a scale of 1-5
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: communication_rating
+      label: Communication Skills Rating
+      hint: Clarity, brevity, and professionalism
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Fair
+      - 3 - Average
+      - 4 - Good
+      - 5 - Excellent
+      required: true
+    - id: 12
+      name: technical_rating
+      label: Technical Knowledge Rating
+      hint: Understanding of systems and procedures
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Fair
+      - 3 - Average
+      - 4 - Good
+      - 5 - Excellent
+      required: true
+    - id: 13
+      name: crm_rating
+      label: Crew Resource Management (CRM) Rating
+      hint: Teamwork and decision making
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Fair
+      - 3 - Average
+      - 4 - Good
+      - 5 - Excellent
+      required: true
+    - id: 14
+      name: situational_response
+      label: Situational Scenario Management
+      hint: Briefly describe the candidate's response to an emergency scenario
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: hiring_recommendation
+      label: Final Recommendation
+      hint: Overall assessment
+      type: select_one
+      options:
+      - Hire Immediately
+      - Consider for Pool
+      - Not Recommended for Hire
+      required: true
+    - id: 16
+      name: interview_notes
+      label: Final Interview Notes
+      hint: Additional comments on candidate's performance
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: expected_start_date
+      label: Expected Start Date
+      hint: Earliest available date for training
+      type: date
+      options: []
+      required: false

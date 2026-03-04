@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: insurance_form_questionnaire
+    pages:
+    - id: 1
+      name: customer_info
+      label: customer info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: family_history
+      label: family_history
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Not sure
+      required: false
+    - id: 3
+      name: household_info
+      label: household_info
+      hint: List all household members
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: medical_info
+      label: medical_info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: employment_info
+      label: employment_info
+      hint: null
+      type: select_multiple
+      options:
+      - Employed
+      - Unemployed
+      - Student
+      required: false
+    - id: 7
+      name: income_info
+      label: income_info
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: age_info
+      label: age_info
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: address_info
+      label: address_info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: insurance_history
+      label: insurance_history
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: medical_history
+      label: medical_history
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: dependents_info
+      label: dependents_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: vehicle_info
+      label: vehicle_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: education_info
+      label: education_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: occupation_info
+      label: occupation_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: insurance_info
+      label: insurance_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: family_status
+      label: family_status
+      hint: null
+      type: select_one
+      options:
+      - Married
+      - Divorced
+      - Single
+      required: false
+    - id: 18
+      name: employment_status
+      label: employment_status
+      hint: null
+      type: select_multiple
+      options:
+      - Employed
+      - Unemployed
+      - Disabled
+      - Student
+      required: false
+    - id: 19
+      name: employment_type
+      label: employment_type
+      hint: null
+      type: select_one
+      options:
+      - Full-time
+      - Part-time
+      - Self-employed
+      required: false
+    - id: 20
+      name: income_frequency
+      label: income_frequency
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Annually
+      - Semi-annually
+      required: false
+    - id: 21
+      name: insurance_provider
+      label: insurance_provider
+      hint: null
+      type: select_one
+      options:
+      - Primary
+      - Secondary
+      required: false
+    - id: 22
+      name: age_of_member
+      label: age_of_member
+      hint: null
+      type: select_multiple
+      options:
+      - 0-17
+      - 18-25
+      - 26-35
+      - 36-50
+      - 51-65
+      - 66+
+      required: false
+    - id: 23
+      name: family_member_count
+      label: family_member_count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: annual_income
+      label: annual_income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: employment_start_date
+      label: employment_start_date
+      hint: null
+      type: date
+      options: []
+      required: false

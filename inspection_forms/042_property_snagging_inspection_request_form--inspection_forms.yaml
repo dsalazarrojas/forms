@@ -1,0 +1,98 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Property Snagging Inspection Request Form
+    pages:
+    - id: 1
+      name: property_id
+      label: Property ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''residential'', ''label'': ''Residential''}'
+      - '{''id'': 2, ''name'': ''commercial'', ''label'': ''Commercial''}'
+      - '{''id'': 3, ''name'': ''other'', ''label'': ''Other''}'
+      required: true
+    - id: 3
+      name: inspection_type
+      label: Inspection Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''snagging'', ''label'': ''Snagging''}'
+      - '{''id'': 2, ''name'': ''walk_through'', ''label'': ''Walk Through''}'
+      - '{''id'': 3, ''name'': ''other'', ''label'': ''Other''}'
+      required: true
+    - id: 4
+      name: inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: inspection_time
+      label: Inspection Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: inspection_requester
+      label: Inspection Requester
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: request_details
+      label: Request Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: inspection_schedule
+      label: Inspection Schedule
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''immediate'', ''label'': ''Immediate''}'
+      - '{''id'': 2, ''name'': ''within_24hrs'', ''label'': ''Within 24 hours''}'
+      - '{''id'': 3, ''name'': ''within_48hrs'', ''label'': ''Within 48 hours''}'
+      - '{''id'': 4, ''name'': ''custom'', ''label'': ''Custom''}'
+      required: true
+    - id: 10
+      name: follow_up_inspection
+      label: Follow-up Inspection
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': True, ''label'': True}'
+      - '{''id'': 2, ''name'': False, ''label'': False}'
+      required: false

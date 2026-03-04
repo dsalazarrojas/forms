@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: Scar Treatment Evaluation Form
+    pages:
+    - id: 1
+      name: scar_location
+      label: What is the scar location?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: scar_type
+      label: Scar type -
+      hint: null
+      type: select_one
+      options:
+      - Atrophic
+      - Hypertrophic
+      - Keloid
+      - Macular
+      - Morphoeuclitic
+      - Papular
+      - Scar-like
+      required: false
+    - id: 3
+      name: scar_size
+      label: Scar size (cm) -
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: scar_color
+      label: Scar color -
+      hint: null
+      type: select_multiple
+      options:
+      - White
+      - Red
+      - Blue
+      - Purple
+      - Black
+      required: false
+    - id: 5
+      name: scar_depth
+      label: Scar depth (mm) -
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: scar_surface
+      label: Scar surface -
+      hint: null
+      type: select_one
+      options:
+      - Flat
+      - Wavy
+      - Papular
+      - Pitted
+      - Elevated
+      required: false
+    - id: 7
+      name: patient_info
+      label: Patient info -
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: medical_history
+      label: Medical history -
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: scar_treatment
+      label: Scar treatment -
+      hint: null
+      type: select_one
+      options:
+      - Surgery
+      - Chemical peeling
+      - Microdermabrasion
+      - Laser
+      - Radiofrequency
+      - Other
+      required: false
+    - id: 10
+      name: scar_treatment_duration
+      label: Scar treatment duration (months) -
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: scar_location_x
+      label: X-axis -
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: scar_location_y
+      label: Y-axis -
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: scar_location_z
+      label: Z-axis -
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: scar_orientation_x
+      label: X-axis orientation -
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: scar_orientation_y
+      label: Y-axis orientation -
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: scar_orientation_z
+      label: Z-axis orientation -
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: scar_area
+      label: Scar area (cm²) -
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: scar_diameter
+      label: Scar diameter (cm) -
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: scar_width
+      label: Scar width (cm) -
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: scar_length
+      label: Scar length (cm) -
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: scar_height
+      label: Scar height (cm) -
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: scar_diagnosis
+      label: Scar diagnosis -
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: scar_treatment_status
+      label: Scar treatment status -
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: scar_treatment_outcome
+      label: Scar treatment outcome -
+      hint: null
+      type: select_one
+      options:
+      - Improved
+      - Worsened
+      - No change
+      required: false
+    - id: 25
+      name: scar_additional_comments
+      label: Additional comments -
+      hint: null
+      type: text
+      options: []
+      required: false

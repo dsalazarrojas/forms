@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Car Seat Inspection Scheduling
+    pages:
+    - id: 1
+      name: resident_information
+      label: -- RESIDENT INFORMATION --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: address
+      label: Street address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: zip_code
+      label: Zip code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: preferred_contact
+      label: Preferred contact method
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - Text Message
+      - Mail
+      required: false
+    - id: 11
+      name: child_information
+      label: -- CHILD INFORMATION --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: num_children
+      label: Number of children to inspect
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: child_1_name
+      label: Child 1 - Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: child_1_age
+      label: Child 1 - Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: child_1_weight
+      label: Child 1 - Weight (lbs)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: child_1_car_seat_info
+      label: Child 1 - Car seat make, model, year
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: vehicle_information
+      label: -- VEHICLE INFORMATION --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: vehicle_make_model_year
+      label: Vehicle year, make, model
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: vehicle_license_plate
+      label: License plate number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: appointment_scheduling
+      label: -- APPOINTMENT SCHEDULING --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: preferred_date
+      label: Preferred appointment date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: preferred_time
+      label: Preferred appointment time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 23
+      name: alternative_dates
+      label: Alternative dates or times available
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: location_type
+      label: Preferred inspection location
+      hint: null
+      type: select_one
+      options:
+      - Community Center
+      - Fire Station
+      - Police Station
+      - School
+      - Mobile Unit
+      - Home Visit
+      required: true
+    - id: 25
+      name: special_needs
+      label: Special accommodations or requests
+      hint: null
+      type: text
+      options: []
+      required: false

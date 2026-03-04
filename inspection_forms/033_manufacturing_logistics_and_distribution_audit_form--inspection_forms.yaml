@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Manufacturing Logistics And Distribution Audit Form
+    pages:
+    - id: 1
+      name: page_1
+      label: main-page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: logistics_audits
+      label: logistics-audits
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: corrective_actions
+      label: corrective-actions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: findings
+      label: findings
+      hint: null
+      type: text
+      options: []
+      required: false

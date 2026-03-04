@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vehicle Emissions Inspection Result Log
+    pages:
+    - id: 1
+      name: vehicle_emissions_inspection_result_log
+      label: Vehicle Emissions Inspection Result Log
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: vehicle_year
+      label: vehicle_year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: vehicle_make
+      label: vehicle_make
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: vehicle_model
+      label: vehicle_model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: vehicle_registration_number
+      label: vehicle_registration_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: vehicle_engine_capacity
+      label: vehicle_engine_capacity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: vehicle_inspection_date
+      label: vehicle_inspection_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: vehicle_test_result
+      label: vehicle_test_result
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Pass'', ''value'': ''Pass''}'
+      - '{''label'': ''Fail'', ''value'': ''Fail''}'
+      required: true
+    - id: 9
+      name: vehicle_comments
+      label: vehicle_comments
+      hint: null
+      type: text
+      options: []
+      required: false

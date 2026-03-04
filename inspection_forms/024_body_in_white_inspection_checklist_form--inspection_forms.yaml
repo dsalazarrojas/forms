@@ -1,0 +1,255 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Body In White Inspection Checklist Form
+    pages:
+      - id: 1
+        name: inspection_date
+        label: Inspection Date
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 2
+        name: inspection_time
+        label: Inspection Time
+        hint: null
+        type: time
+        options: []
+        required: true
+      - id: 3
+        name: inspector_name
+        label: Inspector Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: production_line
+        label: Production Line Number
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: vehicle_identifier
+        label: Vehicle Identifier or VIN
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: vehicle_model
+        label: Vehicle Model
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: production_stage
+        label: Production Stage
+        hint: null
+        type: select_one
+        options:
+          - Frame Welding
+          - Door Assembly
+          - Roof Welding
+          - Floor Assembly
+          - Final Body Assembly
+          - Paint Ready
+          - Pre-Assembly Line
+          - Other
+        required: true
+      - id: 8
+        name: panel_gaps_quality
+        label: Panel Gaps Quality
+        hint: Check uniformity and consistency
+        type: select_one
+        options:
+          - Pass
+          - Minor Defect
+          - Major Defect
+          - Not Inspected
+        required: true
+      - id: 9
+        name: welds_integrity
+        label: Welds Integrity
+        hint: Check for cracks and porosity
+        type: select_one
+        options:
+          - Pass
+          - Minor Defect
+          - Major Defect
+          - Not Inspected
+        required: true
+      - id: 10
+        name: surface_condition
+        label: Surface Condition
+        hint: Check for dents, scratches, corrosion
+        type: select_one
+        options:
+          - Pass
+          - Minor Defect
+          - Major Defect
+          - Not Inspected
+        required: true
+      - id: 11
+        name: alignment_check
+        label: Alignment Check
+        hint: Door and panel alignment
+        type: select_one
+        options:
+          - Pass
+          - Minor Misalignment
+          - Major Misalignment
+          - Not Inspected
+        required: true
+      - id: 12
+        name: structural_integrity
+        label: Structural Integrity
+        hint: Check for damage or deformation
+        type: select_one
+        options:
+          - Pass
+          - Minor Issue
+          - Major Issue
+          - Not Inspected
+        required: true
+      - id: 13
+        name: adhesive_bonds
+        label: Adhesive Bonds
+        hint: Where applicable
+        type: select_one
+        options:
+          - Pass
+          - Minor Issue
+          - Major Issue
+          - Not Applicable
+        required: true
+      - id: 14
+        name: fastener_installation
+        label: Fastener Installation
+        hint: Bolts, rivets, clips
+        type: select_one
+        options:
+          - Pass
+          - Minor Issue
+          - Major Issue
+          - Not Inspected
+        required: true
+      - id: 15
+        name: rust_corrosion
+        label: Rust or Corrosion
+        hint: null
+        type: select_one
+        options:
+          - None Detected
+          - Minor Corrosion
+          - Moderate Corrosion
+          - Severe Corrosion
+        required: true
+      - id: 16
+        name: dimension_tolerance
+        label: Dimension Tolerance
+        hint: Measurements within spec
+        type: select_one
+        options:
+          - Pass
+          - Minor Variance
+          - Out of Tolerance
+          - Not Measured
+        required: true
+      - id: 17
+        name: paint_coverage_readiness
+        label: Paint Coverage Readiness
+        hint: If applicable
+        type: select_one
+        options:
+          - Ready
+          - Minor Prep Needed
+          - Significant Prep Needed
+          - Not Ready
+          - Not Applicable
+        required: true
+      - id: 18
+        name: defects_found
+        label: Any Defects Found
+        hint: null
+        type: select_one
+        options:
+          - Yes - Defects Present
+          - No - No Defects
+          - Minor Defects Only
+          - Major Defects Found
+        required: true
+      - id: 19
+        name: defect_description
+        label: Defect Description
+        hint: Detail any defects found
+        type: text
+        options: []
+        required: false
+      - id: 20
+        name: defect_location
+        label: Defect Location
+        hint: Which area of the body
+        type: text
+        options: []
+        required: false
+      - id: 21
+        name: corrective_action
+        label: Corrective Action Required
+        hint: What needs to be fixed
+        type: text
+        options: []
+        required: false
+      - id: 22
+        name: rework_needed
+        label: Rework Required
+        hint: null
+        type: select_one
+        options:
+          - Yes - Rework Needed
+          - No - Rework Not Needed
+          - Minimal Touch-up
+          - Complete Redo
+          - Scrap Unit
+        required: true
+      - id: 23
+        name: overall_assessment
+        label: Overall Assessment
+        hint: null
+        type: select_one
+        options:
+          - Pass - Acceptable
+          - Conditional Pass - Minor Issues
+          - Fail - Unacceptable
+          - Hold - For Further Review
+        required: true
+      - id: 24
+        name: inspector_notes
+        label: Additional Notes
+        hint: Any comments or observations
+        type: text
+        options: []
+        required: false
+      - id: 25
+        name: supervisor_approval
+        label: Supervisor Review Needed
+        hint: null
+        type: select_one
+        options:
+          - Yes - Supervisor Review
+          - No - Routine Inspection
+        required: true

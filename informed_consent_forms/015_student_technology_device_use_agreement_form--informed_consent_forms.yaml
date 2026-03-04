@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Technology Device Use Agreement Form
+    pages:
+    - id: 1
+      name: device_type
+      label: What type of device do you have access to?
+      hint: null
+      type: select_one
+      options:
+      - Apple
+      - Android
+      - Other
+      required: false
+    - id: 2
+      name: device_model
+      label: Device Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: device_serial_number
+      label: Device Serial Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: device_owner
+      label: Device Owner
+      hint: null
+      type: select_multiple
+      options:
+      - John
+      - Jane
+      - Joe
+      required: false
+    - id: 5
+      name: device_usage_start_date
+      label: Device Usage Start Date
+      hint: Select start date of device usage
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: device_usage_end_date
+      label: Device Usage End Date
+      hint: Select end date of device usage
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: device_warranty
+      label: Device Warranty
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: device_return_date
+      label: Device Return Date
+      hint: Select date to return device
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: terms_and_conditions
+      label: Terms and Conditions
+      hint: Read through and agree to terms and conditions
+      type: select_multiple
+      options:
+      - I agree to the terms and conditions
+      - I do not agree to the terms and conditions
+      required: false
+    - id: 10
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: student_id
+      label: Student ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: student_email
+      label: Student Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: student_phone
+      label: Student Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: faculty_name
+      label: Faculty Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: faculty_email
+      label: Faculty Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: faculty_phone
+      label: Faculty Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: device_return_policy
+      label: Device Return Policy
+      hint: Select device return policy
+      type: select_one
+      options:
+      - Policy 1
+      - Policy 2
+      required: false
+    - id: 18
+      name: device_return_status
+      label: Device Return Status
+      hint: Select device return status
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 19
+      name: device_return_notes
+      label: Device Return Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: device_return_date
+      label: Device Return Date
+      hint: Select date of device return
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: device_type_id
+      label: Device Type ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: faculty
+      label: Faculty
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: student_department
+      label: Student Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false

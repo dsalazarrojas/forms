@@ -1,0 +1,260 @@
+inputSchema:
+  type: object
+  properties:
+    title: Microsoft 365 Readiness Assessment Questionnaire
+    pages:
+    - id: 1
+      name: company_size
+      label: Company size
+      hint: null
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      - Enterprise
+      required: false
+    - id: 2
+      name: number_of_users
+      label: Number of users
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: user_type
+      label: User type
+      hint: null
+      type: select_one
+      options:
+      - IT Department
+      - Marketing Department
+      - Sales Department
+      - HR Department
+      - Other
+      required: false
+    - id: 4
+      name: ms_365_license_status
+      label: Microsoft 365 license status
+      hint: null
+      type: select_one
+      options:
+      - Not Started
+      - Pilot
+      - Production
+      required: false
+    - id: 5
+      name: onedrive_usage
+      label: OneDrive usage
+      hint: null
+      type: select_multiple
+      options:
+      - File Sharing
+      - File Storage
+      - File Collaboration
+      - File Sync
+      - Other
+      required: false
+    - id: 6
+      name: sharepoint_usage
+      label: SharePoint usage
+      hint: null
+      type: select_multiple
+      options:
+      - Team Collaboration
+      - Document Management
+      - Content Management
+      - Compliance and Risk Management
+      - Other
+      required: false
+    - id: 7
+      name: teams_usage
+      label: Teams usage
+      hint: null
+      type: select_multiple
+      options:
+      - Internal Chat and Communication
+      - External Chat and Communication
+      - Meetings and Collaboration
+      - Video Meetings
+      - Other
+      required: false
+    - id: 8
+      name: flow_usage
+      label: Flow usage
+      hint: null
+      type: select_multiple
+      options:
+      - Project Management
+      - Custom Business App
+      - Custom Business App 2
+      - Other
+      required: false
+    - id: 9
+      name: exchange_usage
+      label: Exchange usage
+      hint: null
+      type: select_multiple
+      options:
+      - Email and Calendar
+      - Mail and Calendar
+      - Other
+      required: false
+    - id: 10
+      name: office_365_apps
+      label: Office 365 Apps usage
+      hint: null
+      type: select_multiple
+      options:
+      - Word
+      - Excel
+      - PowerPoint
+      - Other
+      required: false
+    - id: 11
+      name: powerapps_usage
+      label: PowerApps usage
+      hint: null
+      type: select_multiple
+      options:
+      - Custom Business App
+      - Custom Business App 2
+      - Other
+      required: false
+    - id: 12
+      name: azure_usage
+      label: Azure usage
+      hint: null
+      type: select_multiple
+      options:
+      - Identity and Access Control
+      - Security and Compliance
+      - Other
+      required: false
+    - id: 13
+      name: azure_active_directory
+      label: Azure Active Directory
+      hint: null
+      type: select_one
+      options:
+      - Not Started
+      - Pilot
+      - Production
+      required: false
+    - id: 14
+      name: office_365_groups
+      label: Office 365 Groups
+      hint: null
+      type: select_multiple
+      options:
+      - Team Sites
+      - Mail Groups
+      - Distribution Lists
+      - Other
+      required: false
+    - id: 15
+      name: sharepoint_online
+      label: SharePoint Online
+      hint: null
+      type: select_multiple
+      options:
+      - Document Library
+      - Team Site
+      - Communication Site
+      - Other
+      required: false
+    - id: 16
+      name: sharepoint_lists
+      label: SharePoint Lists
+      hint: null
+      type: select_multiple
+      options:
+      - Calendar
+      - Task List
+      - Document Library
+      - Other
+      required: false
+    - id: 17
+      name: sharepoint_lists_content_type
+      label: SharePoint Lists content type
+      hint: null
+      type: select_one
+      options:
+      - Document
+      - Picture
+      - Other
+      required: false
+    - id: 18
+      name: sharepoint_lists_list_type
+      label: SharePoint Lists type
+      hint: null
+      type: select_one
+      options:
+      - List
+      - Document Library
+      required: false
+    - id: 19
+      name: sharepoint_lists_list_scope
+      label: SharePoint Lists scope
+      hint: null
+      type: select_one
+      options:
+      - Global
+      - Local
+      required: false
+    - id: 20
+      name: sharepoint_lists_list_location
+      label: SharePoint Lists location
+      hint: null
+      type: select_one
+      options:
+      - On-premises
+      - Cloud
+      required: false
+    - id: 21
+      name: sharepoint_lists_list_size
+      label: SharePoint Lists size
+      hint: null
+      type: select_multiple
+      options:
+      - Small
+      - Medium
+      - Large
+      - Other
+      required: false
+    - id: 22
+      name: sharepoint_lists_list_security
+      label: SharePoint Lists security
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: false
+    - id: 23
+      name: sharepoint_lists_list_retention
+      label: SharePoint Lists retention
+      hint: null
+      type: select_multiple
+      options:
+      - Default
+      - Custom
+      required: false
+    - id: 24
+      name: sharepoint_lists_list_classification
+      label: SharePoint Lists classification
+      hint: null
+      type: select_multiple
+      options:
+      - Public
+      - Private
+      required: false
+    - id: 25
+      name: sharepoint_lists_list_versioning
+      label: SharePoint Lists versioning
+      hint: null
+      type: select_multiple
+      options:
+      - Enabled
+      - Disabled
+      required: false

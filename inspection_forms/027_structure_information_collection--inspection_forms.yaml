@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Structure Information Collection
+    pages:
+    - id: 1
+      name: general
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: structure_details
+      label: Structure Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: building_details
+      label: Building Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact
+      label: Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: inspector_comments
+      label: Inspector Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: structure_condition
+      label: Structure Condition
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: building_age
+      label: Building Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: building_size
+      label: Building Size
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: building_type
+      label: Building Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: building_use
+      label: Building Use
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: building_address
+      label: Building Address
+      hint: null
+      type: text
+      options: []
+      required: false

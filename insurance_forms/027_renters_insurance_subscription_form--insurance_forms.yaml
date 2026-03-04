@@ -1,0 +1,59 @@
+inputSchema:
+  type: object
+  properties:
+    title: Renters Insurance Subscription Form
+    pages:
+    - id: 1
+      name: tenant_info
+      label: Tenant Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: policy
+      label: Policy Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: insurance_type
+      label: Type of Insurance
+      hint: null
+      type: select_one
+      options:
+      - renters
+      - landlord
+      - property
+      required: false
+    - id: 4
+      name: coverage
+      label: Coverage
+      hint: null
+      type: select_multiple
+      options:
+      - renters
+      - personal
+      required: false
+    - id: 5
+      name: premium
+      label: Premium
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: effective_date
+      label: Effective Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: expiration_date
+      label: Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: false

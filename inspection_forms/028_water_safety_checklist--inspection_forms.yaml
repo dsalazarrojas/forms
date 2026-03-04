@@ -1,0 +1,116 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Water Safety Checklist
+    pages:
+    - id: 1
+      name: introduction
+      label: Water Safety Checklist
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: general_info
+      label: water_safety_checklist_form
+      hint: null
+      type: select_one
+      options:
+      - Aquatic Facility
+      - Beach
+      - Lake
+      - River
+      - Pool
+      - Pond
+      - Spa
+      - Other
+      required: true
+    - id: 3
+      name: hazards_found
+      label: hazards_found
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Hazard 1
+      - Hazard 2
+      - Hazard 3
+      - Hazard 4
+      - Hazard 5
+      - Hazard 6
+      - Hazard 7
+      - Hazard 8
+      - Hazard 9
+      - Hazard 10
+      required: true
+    - id: 4
+      name: action_taken
+      label: action_taken
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: follow_up
+      label: follow_up
+      hint: null
+      type: select_multiple
+      options:
+      - No follow-up required
+      - Follow up within 24 hours
+      - Follow up within 1-2 weeks
+      - Follow up within 2-4 weeks
+      - Follow up within 1-2 months
+      - Follow up within 2-4 months
+      required: true
+    - id: 6
+      name: team_members
+      label: team_members
+      hint: null
+      type: select_multiple
+      options:
+      - Team member 1
+      - Team member 2
+      - Team member 3
+      - Team member 4
+      - Team member 5
+      required: true
+    - id: 7
+      name: date_visited
+      label: date_visited
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_visited
+      label: time_visited
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: location_visited
+      label: location_visited
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: remarks
+      label: remarks
+      hint: null
+      type: note
+      options: []
+      required: false

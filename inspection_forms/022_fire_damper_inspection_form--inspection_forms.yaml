@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fire Damper Inspection Form
+    pages:
+    - id: 1
+      name: general_information
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: fire_damper_system
+      label: Fire Damper System
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 3
+      name: inspection_location
+      label: Inspection Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_inspection
+      label: Date of Inspection
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: inspector_signature
+      label: Inspector Signature
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: inspector_name
+      label: Inspector Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: building_type
+      label: Building Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: building_age
+      label: Building Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: fire_rating
+      label: Fire Rating
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: true
+    - id: 13
+      name: fire_rating_2
+      label: Fire Rating 2
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 14
+      name: fire_class
+      label: Fire Class
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: fire_damper_type
+      label: Fire Damper Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: fire_damper_status
+      label: Fire Damper Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 17
+      name: fire_damper_condition
+      label: Fire Damper Condition
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: comments_and_notes
+      label: Comments and Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: signature
+      label: Signature
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: inspector_comments
+      label: Inspector Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: date_of_last_inspection
+      label: Date of Last Inspection
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: last_inspector
+      label: Last Inspector
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: last_inspector_notes
+      label: Last Inspector Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: last_inspection_date
+      label: Last Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

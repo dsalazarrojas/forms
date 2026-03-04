@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Travel Insurance Claim Records Release Form
+    pages:
+    - id: 1
+      name: travel_insurance_claim_records_release_form
+      label: travel insurance claim records release form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: policyholder_name
+      label: policyholder name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: claim_number
+      label: claim number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: claim_date
+      label: claim date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: claim_details
+      label: claim details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: policyholder_email
+      label: policyholder email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: policyholder_phone
+      label: policyholder phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: authorized_signature
+      label: authorized signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 9
+      name: policyholder_signature
+      label: policyholder signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 10
+      name: policyholder_declaration
+      label: policyholder declaration
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 11
+      name: policyholder_acknowledgement
+      label: policyholder acknowledgement
+      hint: null
+      type: select_multiple
+      options:
+      - Policyholder acknowledges that they are releasing their insurance claim records
+        as per the terms and conditions
+      - Policyholder acknowledges that they are releasing their insurance claim records
+      - Policyholder acknowledges that they are releasing their insurance claim records
+        as per the terms and conditions
+      required: true

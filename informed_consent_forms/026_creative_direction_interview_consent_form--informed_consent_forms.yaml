@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: creative_direction_interview_consent_form
+    pages:
+    - id: 1
+      name: participant_details
+      label: Participant Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: creative_direction
+      label: Creative Direction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: project_use
+      label: Project Use
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: participant_agreement
+      label: Participant Agreement
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: signature
+      label: Signature
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: project_use
+      label: Project Use
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

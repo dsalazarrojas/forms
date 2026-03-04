@@ -1,0 +1,155 @@
+inputSchema:
+  type: object
+  properties:
+    title: Health Insurance Claim Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: insurance_provider
+      label: Insurance Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: claim_type
+      label: Claim Type
+      hint: Please select the type of claim
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Inpatient''}'
+      - '{''id'': 2, ''label'': ''Outpatient''}'
+      - '{''id'': 3, ''label'': ''Urgent Care''}'
+      required: false
+    - id: 5
+      name: date_of_service
+      label: Date of Service
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: insurance_id
+      label: Insurance ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: claim_status
+      label: Claim Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''New''}'
+      - '{''id'': 2, ''label'': ''Pending''}'
+      - '{''id'': 3, ''label'': ''Closed''}'
+      - '{''id'': 4, ''label'': ''Reopened''}'
+      required: false
+    - id: 8
+      name: reason_for_denial
+      label: Reason for Denial
+      hint: Please enter the reason for denial
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: claim_amount
+      label: Claim Amount
+      hint: Enter claim amount
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: patient_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: social_security_number
+      label: Social Security Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: medical_record_number
+      label: Medical Record Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: billing_provider
+      label: Billing Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: claim_number
+      label: Claim Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: claim_date
+      label: Claim Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: insurance_plan
+      label: Insurance Plan
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Gold''}'
+      - '{''id'': 2, ''label'': ''Silver''}'
+      - '{''id'': 3, ''label'': ''Bronze''}'
+      required: false
+    - id: 20
+      name: claim_notes
+      label: Claim Notes
+      hint: Please enter claim notes
+      type: text
+      options: []
+      required: false

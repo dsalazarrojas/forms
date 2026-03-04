@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Adult Inquiry Form
+    pages:
+    - id: 1
+      name: section_personal
+      label: -- Personal Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: section_inquiry
+      label: -- Inquiry Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: area_of_interest
+      label: Area of Interest
+      hint: Select what you are inquiring about
+      type: select_one
+      options:
+      - Education Programs
+      - Counseling Services
+      - Support Groups
+      - Volunteer Opportunities
+      - Other
+      required: true
+    - id: 7
+      name: specific_question_or_request
+      label: Specific Question or Request
+      hint: How can we help you?
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Phone Call
+      - Email
+      - SMS
+      required: true
+    - id: 9
+      name: best_time_to_reach_you
+      label: Best Time to Reach You
+      hint: null
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      required: false
+    - id: 10
+      name: section_context
+      label: -- Additional Context --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: how_you_found_us
+      label: How You Found Us
+      hint: helps us improve our outreach
+      type: select_one
+      options:
+      - Online Search
+      - Referral
+      - Social Media
+      - Community Event
+      required: false
+    - id: 12
+      name: additional_notes_or_context
+      label: Additional Notes or Context
+      hint: Any other information you wish to share
+      type: text
+      options: []
+      required: false

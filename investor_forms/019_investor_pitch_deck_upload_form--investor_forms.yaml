@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: Investor Pitch Deck Upload Form
+    pages:
+    - id: 1
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: pitch_deck
+      label: Pitch Deck
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: company_website
+      label: Company Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: pitch_programs
+      label: Pitch Programs
+      hint: null
+      type: select_multiple
+      options:
+      - Pitch Accelerator
+      - Venture Capital Team
+      - Other
+      required: true
+    - id: 8
+      name: deck_upload
+      label: Deck Upload
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: deck_upload_time
+      label: Deck Upload Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - chat_bob
+      required: true
+    - id: 12
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - chat_bob
+      required: false
+    - id: 13
+      name: notes2
+      label: Notes 2
+      hint: null
+      type: text
+      options: []
+      required: false

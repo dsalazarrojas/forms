@@ -1,0 +1,172 @@
+inputSchema:
+  type: object
+  properties:
+    title: Crowdstrike Outage Report Form
+    pages:
+    - id: 1
+      name: service_outage
+      label: Service Outage
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True, ''label'': True}'
+      - '{''value'': False, ''label'': False}'
+      required: true
+    - id: 2
+      name: service_outage_date
+      label: Service Outage Date
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: service_outage_time
+      label: Service Outage Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: impact
+      label: Impact
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''low'', ''label'': ''Low''}'
+      - '{''value'': ''medium'', ''label'': ''Medium''}'
+      - '{''value'': ''high'', ''label'': ''High''}'
+      required: true
+    - id: 5
+      name: cause
+      label: Cause
+      hint: Please describe the cause of the outages
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: corrective_action_planned
+      label: Corrective Action Planned
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': True, ''label'': True}'
+      - '{''value'': False, ''label'': False}'
+      required: true
+    - id: 7
+      name: corrective_action_taken
+      label: Corrective Action Taken
+      hint: Please describe the corrective action taken
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: prophet
+      label: IT Proponent
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''JohnDoe'', ''label'': ''John Doe''}'
+      - '{''value'': ''JaneDoe'', ''label'': ''Jane Doe''}'
+      - '{''value'': ''JimmyDoe'', ''label'': ''Jimmy Doe''}'
+      required: true
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: prophet_2
+      label: IT Proponent 2
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''JohnDoe'', ''label'': ''John Doe''}'
+      - '{''value'': ''JaneDoe'', ''label'': ''Jane Doe''}'
+      - '{''value'': ''JimmyDoe'', ''label'': ''Jimmy Doe''}'
+      required: false
+    - id: 11
+      name: notes_2
+      label: Notes 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: service_name
+      label: Service Name
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Service A'', ''label'': ''Service A''}'
+      - '{''value'': ''Service B'', ''label'': ''Service B''}'
+      - '{''value'': ''Service C'', ''label'': ''Service C''}'
+      required: true
+    - id: 13
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''network'', ''label'': ''Network''}'
+      - '{''value'': ''system'', ''label'': ''System''}'
+      required: true
+    - id: 14
+      name: location
+      label: Location
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''location1'', ''label'': ''Location 1''}'
+      - '{''value'': ''location2'', ''label'': ''Location 2''}'
+      - '{''value'': ''location3'', ''label'': ''Location 3''}'
+      required: true
+    - id: 15
+      name: duration
+      label: Duration
+      hint: minutes
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: frequency
+      label: Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''once'', ''label'': ''Once''}'
+      - '{''value'': ''multiple'', ''label'': ''Multiple''}'
+      required: true
+    - id: 17
+      name: recurrence
+      label: Recurrence
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': False, ''label'': False}'
+      - '{''value'': True, ''label'': True}'
+      required: true
+    - id: 18
+      name: impact_type
+      label: Impact Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''scheduled'', ''label'': ''Scheduled''}'
+      - '{''value'': ''unplanned'', ''label'': ''Unplanned''}'
+      required: true
+    - id: 19
+      name: impact_description
+      label: Impact Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: notes_3
+      label: Notes 3
+      hint: null
+      type: text
+      options: []
+      required: false

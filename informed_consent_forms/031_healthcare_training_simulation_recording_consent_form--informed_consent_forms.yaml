@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Healthcare Training Simulation Recording Consent Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: patient name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_birth
+      label: date of birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_number
+      label: contact number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: address
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: date_of_sim
+      label: date of simulation
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: start_time
+      label: start time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: end_time
+      label: end time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: simulation_type
+      label: simulation type
+      hint: null
+      type: select_one
+      options:
+      - Simulation 1
+      - Simulation 2
+      - Simulation 3
+      required: false
+    - id: 10
+      name: simulation_description
+      label: simulation description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: simulation_location
+      label: simulation location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: simulation_facility
+      label: simulation facility
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: simulation_instructor
+      label: simulation instructor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: simulation_supervisor
+      label: simulation supervisor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: simulation_recorder
+      label: simulation recorder
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: simulation_date
+      label: simulation date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: simulation_time
+      label: simulation time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: patient_informed_consent
+      label: patient informed consent
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 19
+      name: patient_signature
+      label: patient signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: simulation_recorded
+      label: simulation recorded
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 21
+      name: recorded_by
+      label: recorded by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: record_type
+      label: record type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: patient_informed_consent_date
+      label: patient informed consent date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: patient_informed_consent_by
+      label: patient informed consent by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: patient_informed_consent_status
+      label: patient informed consent status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Expired
+      required: false
+    - id: 26
+      name: patient_signature_status
+      label: patient signature status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Expired
+      required: false

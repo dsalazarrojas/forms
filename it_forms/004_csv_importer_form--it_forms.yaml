@@ -1,0 +1,175 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: CSV Importer Form
+    pages:
+      - id: 1
+        name: requester_name
+        label: Requester Name
+        hint: Your full name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: requester_email
+        label: Email Address
+        hint: Work email for correspondence
+        type: email
+        options: []
+        required: true
+      - id: 3
+        name: department
+        label: Department
+        hint: Your department or team
+        type: select_one
+        options:
+          - IT Operations
+          - Data Analytics
+          - Customer Support
+          - Sales
+          - Marketing
+          - Finance
+          - Other
+        required: true
+      - id: 4
+        name: import_type
+        label: Import Type
+        hint: What type of data are you importing
+        type: select_one
+        options:
+          - Customer Data
+          - Product Catalog
+          - Transaction Records
+          - User Accounts
+          - Inventory Data
+          - Other
+        required: true
+      - id: 5
+        name: target_system
+        label: Target System
+        hint: Which system will receive this data
+        type: select_one
+        options:
+          - CRM Platform
+          - ERP System
+          - Database
+          - Analytics Platform
+          - Custom Application
+          - Other
+        required: true
+      - id: 6
+        name: csv_file_description
+        label: CSV File Description
+        hint: Describe the contents of your CSV file
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: estimated_records
+        label: Estimated Number of Records
+        hint: Approximate row count in your CSV
+        type: select_one
+        options:
+          - Under 100
+          - 100-500
+          - 501-1,000
+          - 1,001-5,000
+          - 5,001-10,000
+          - Over 10,000
+        required: true
+      - id: 8
+        name: data_sensitivity
+        label: Data Sensitivity Level
+        hint: Does this data contain sensitive information
+        type: select_one
+        options:
+          - Public data
+          - Internal use only
+          - Confidential
+          - Highly confidential (PII)
+        required: true
+      - id: 9
+        name: has_headers
+        label: CSV Has Headers
+        hint: Does your CSV include column headers
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 10
+        name: delimiter_type
+        label: Delimiter Type
+        hint: What character separates your columns
+        type: select_one
+        options:
+          - Comma
+          - Semicolon
+          - Tab
+          - Pipe
+          - Not sure
+        required: false
+      - id: 11
+        name: encoding_format
+        label: Encoding Format
+        hint: File encoding if known
+        type: select_one
+        options:
+          - UTF-8
+          - ASCII
+          - ISO-8859-1
+          - Not sure
+        required: false
+      - id: 12
+        name: validation_required
+        label: Validation Required
+        hint: Should data be validated before import
+        type: select_one
+        options:
+          - Yes, strict validation
+          - Basic validation only
+          - No validation needed
+        required: true
+      - id: 13
+        name: duplicate_handling
+        label: Duplicate Handling
+        hint: How should duplicates be handled
+        type: select_one
+        options:
+          - Skip duplicates
+          - Overwrite existing
+          - Create new record
+          - Flag for review
+        required: true
+      - id: 14
+        name: import_deadline
+        label: Import Deadline
+        hint: When does this import need to be completed
+        type: date
+        options: []
+        required: false
+      - id: 15
+        name: special_requirements
+        label: Special Requirements
+        hint: Any specific formatting or processing needs
+        type: text
+        options: []
+        required: false
+      - id: 16
+        name: additional_notes
+        label: Additional Notes
+        hint: Any other information for the IT team
+        type: text
+        options: []
+        required: false

@@ -1,0 +1,121 @@
+inputSchema:
+  type: object
+  properties:
+    title: Schedule A Free Inspection
+    pages:
+    - id: 1
+      name: schedule_a_free_inspection_form
+      label: Schedule A Free Inspection
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: provider_details
+      label: provider_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: request_details
+      label: request_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: appointment_details
+      label: appointment_details
+      hint: null
+      type: select_one
+      options:
+      - 9:00 AM
+      - 11:00 AM
+      - 2:00 PM
+      - 4:00 PM
+      - 6:00 PM
+      required: false
+    - id: 5
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Phone
+      - Text
+      required: false
+    - id: 6
+      name: property_details
+      label: property_details
+      hint: null
+      type: select_multiple
+      options:
+      - Residential
+      - Commercial
+      - Industrial
+      required: false
+    - id: 7
+      name: property_address
+      label: property_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: service_request
+      label: service_request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: property_type
+      label: property_type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: property_manager
+      label: property_manager
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medication And Neuropathy Registration
+    pages:
+    - id: 1
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: medication
+      label: Medication
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Medication 1''}'
+      - '{''id'': 2, ''name'': ''Medication 2''}'
+      - '{''id'': 3, ''name'': ''Medication 3''}'
+      required: false
+    - id: 5
+      name: symptom
+      label: Symptom
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true

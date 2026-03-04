@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Heating System Filling Checklist
+    pages:
+    - id: 1
+      name: page_1
+      label: Heating System Filling Checklist
+      hint: null
+      type: select_one
+      options:
+      - System is working properly
+      - No issues
+      - Requires repair
+      required: true
+    - id: 2
+      name: page_2
+      label: Checklist
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: page_3
+      label: Temperature Check
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 4
+      name: page_4
+      label: Heating System Filling Checklist
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: page_5
+      label: Temperature
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: page_6
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: page_7
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: page_8
+      label: Timezone
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: page_9
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: page_10
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true

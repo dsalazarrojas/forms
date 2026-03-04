@@ -1,0 +1,121 @@
+inputSchema:
+  type: object
+  properties:
+    title: Car Dealer Purchase Agreement Form
+    pages:
+    - id: 1
+      name: section_agreement_header
+      label: -- Agreement Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: buyer_name
+      label: Buyer name
+      hint: Full legal name of buyer
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: buyer_address
+      label: Buyer address
+      hint: Street, city, state, postal code
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: buyer_email
+      label: Buyer email
+      hint: For contract delivery
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: vehicle_vin
+      label: Vehicle VIN
+      hint: Vehicle identification number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: vehicle_make
+      label: Vehicle make
+      hint: Manufacturer name
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: vehicle_model
+      label: Vehicle model
+      hint: Model name
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: vehicle_year
+      label: Vehicle year
+      hint: Year of manufacture
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: sale_price
+      label: Sale price
+      hint: Total agreed sale price
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: deposit_amount
+      label: Deposit amount
+      hint: Amount paid as deposit if any
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: financing_required
+      label: Financing required
+      hint: Is buyer arranging financing
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 12
+      name: trade_in
+      label: Trade in included
+      hint: Does sale include a trade in vehicle
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 13
+      name: trade_in_details
+      label: Trade in vehicle details
+      hint: If applicable provide make model year and estimated value
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: agreement_date
+      label: Agreement date
+      hint: Date buyer signed this agreement
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: buyer_signature_name
+      label: Buyer signature printed name
+      hint: Printed name as signature record
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: dealer_signature_name
+      label: Dealer representative printed name
+      hint: Printed name of dealer representative
+      type: text
+      options: []
+      required: true

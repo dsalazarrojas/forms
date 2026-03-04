@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Insurance Questionnaire
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: family_info
+      label: Family Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: medical_info
+      label: Medical Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: medical_condition
+      label: Medical Condition
+      hint: Please describe your medical condition
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: family_history
+      label: Family History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: risk_assessment
+      label: Risk Assessment
+      hint: Please select the risk level
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 8
+      name: premium_determination
+      label: Premium Determination
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: policy_info
+      label: Policy Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: policy_holder
+      label: Policy Holder
+      hint: Please select the policy holder
+      type: select_multiple
+      options:
+      - Self
+      - Spouse
+      - Children
+      - Parents
+      - Other
+      required: false
+    - id: 11
+      name: coverage_start_date
+      label: Coverage Start Date
+      hint: Please enter the coverage start date
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: coverage_end_date
+      label: Coverage End Date
+      hint: Please enter the coverage end date
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: payment_frequency
+      label: Payment Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: policy_status
+      label: Policy Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: insurance_agency
+      label: Insurance Agency
+      hint: Please enter the insurance agency
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: policy_holder_type
+      label: Policy Holder Type
+      hint: null
+      type: select_one
+      options:
+      - Individual
+      - Group
+      - Organization
+      - Other
+      required: false
+    - id: 21
+      name: policy_holder_name
+      label: Policy Holder Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: policy_holder_dob
+      label: Policy Holder DOB
+      hint: Please enter the Policy Holder DOB
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: policy_holder_email
+      label: Policy Holder Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 24
+      name: policy_holder_phone
+      label: Policy Holder Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: policy_holder_address
+      label: Policy Holder Address
+      hint: null
+      type: text
+      options: []
+      required: false

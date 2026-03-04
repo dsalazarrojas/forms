@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: structural_safety_review_request_form
+    pages:
+    - id: 1
+      name: property_id
+      label: property_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: request_date
+      label: request_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: description
+      label: request_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: upload_document
+      label: upload_supporting_documents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: concern_id
+      label: list_concerns
+      hint: null
+      type: select_one
+      options:
+      - concern_1
+      - concern_2
+      - concern_3
+      required: false
+    - id: 6
+      name: contact_details
+      label: contact_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: reviewer
+      label: reviewer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: review_date
+      label: review_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: recommendation
+      label: recommendation
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      - option_4
+      - option_5
+      required: false
+    - id: 11
+      name: upload_inspection_report
+      label: upload_inspection_report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: review_status
+      label: review_status
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false

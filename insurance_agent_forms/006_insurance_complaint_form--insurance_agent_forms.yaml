@@ -1,0 +1,134 @@
+inputSchema:
+  type: object
+  properties:
+    title: Insurance Complaint Form
+    pages:
+    - id: 1
+      name: insurance_complaint_form_1
+      label: Policyholder Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: policyholder_name
+      label: policyholder
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: policyholder_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: complaint_type
+      label: Complaint Type
+      hint: null
+      type: select_one
+      options:
+      - Policyholder
+      - Coverage
+      - _claim
+      required: true
+    - id: 5
+      name: complaint_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: insurance_company
+      label: Insurance Company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: complaint_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: complaint_details
+      label: Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: upload_file
+      label: Upload File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: upload_signature
+      label: Upload Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: policy_number
+      label: Policy Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: insurance_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: insurance_agent
+      label: Agent
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: policyholder_message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: policy_address
+      label: Policy Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: agent_name
+      label: Agent Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: policy_date
+      label: Policy Date
+      hint: null
+      type: date
+      options: []
+      required: true

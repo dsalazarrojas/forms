@@ -1,0 +1,133 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Industrial Software Integration Registration Form
+    pages:
+    - id: 1
+      name: company_details
+      label: Company Details
+      hint: null
+      type: select_multiple
+      options:
+      - Company Name
+      - Company Website
+      - Industry
+      required: true
+    - id: 2
+      name: company_details_company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: company_details_company_website
+      label: Company Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: technical_environment
+      label: Technical Environment
+      hint: null
+      type: select_one
+      options:
+      - Environment Type
+      - Server OS
+      - Number of Servers
+      required: true
+    - id: 5
+      name: integration_requirements
+      label: Integration Requirements
+      hint: null
+      type: select_multiple
+      options:
+      - Integration Method
+      - Integration Type
+      - Integration Protocol
+      - Data Format
+      required: true
+    - id: 6
+      name: integration_requirements_integration_method
+      label: Integration Method
+      hint: null
+      type: select_multiple
+      options:
+      - API
+      - Custom
+      - Hybrid
+      required: false
+    - id: 7
+      name: integration_requirements_integration_type
+      label: Integration Type
+      hint: null
+      type: select_multiple
+      options:
+      - REST
+      - GraphQL
+      - SOAP
+      required: false
+    - id: 8
+      name: integration_requirements_integration_protocol
+      label: Integration Protocol
+      hint: null
+      type: select_multiple
+      options:
+      - HTTPS
+      - HTTP
+      - TCP/IP
+      required: false
+    - id: 9
+      name: integration_requirements_data_format
+      label: Data Format
+      hint: null
+      type: select_multiple
+      options:
+      - CSV
+      - XML
+      - JSON
+      - JSON-LD
+      required: false
+    - id: 10
+      name: environment_type
+      label: Environment Type
+      hint: null
+      type: select_one
+      options:
+      - Cloud
+      - On-Premises
+      - Other
+      required: false
+    - id: 11
+      name: server_os
+      label: Server OS
+      hint: null
+      type: select_one
+      options:
+      - Linux
+      - Windows
+      - Other
+      required: false
+    - id: 12
+      name: number_of_servers
+      label: Number of Servers
+      hint: null
+      type: select_one
+      options:
+      - 1-10
+      - 11-50
+      - 51-100
+      - 101+
+      required: false

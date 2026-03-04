@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Plumbing Inspection Checklist Form
+    pages:
+    - id: 1
+      name: inspection_form_data
+      label: Inspection Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: plumber_name
+      label: Plumber Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: inspector_name
+      label: Inspector Name
+      hint: The name of the person performing the inspection
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: checklist_status
+      label: Checklist Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

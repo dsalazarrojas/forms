@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: wind_turbine_inspection_check_in_form
+    pages:
+    - id: 1
+      name: inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: site_id
+      label: site_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: site_name
+      label: site_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: turbine_id
+      label: turbine_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: wind_turbine_status
+      label: wind_turbine_status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 6
+      name: issue_description
+      label: issue_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: wind_turbine_technician
+      label: wind_turbine_technician
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: issue_date
+      label: issue_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: issue_description_details
+      label: issue_description_details
+      hint: null
+      type: text
+      options: []
+      required: false

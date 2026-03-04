@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Data Protection Form
+    pages:
+    - id: 1
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: company_info
+      label: Company Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: data_type
+      label: Data Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Customer'', ''value'': ''customer''}'
+      - '{''id'': 2, ''label'': ''Employee'', ''value'': ''employee''}'
+      - '{''id'': 3, ''label'': ''Client'', ''value'': ''client''}'
+      - '{''id'': 4, ''label'': ''Other'', ''value'': ''other''}'
+      required: false
+    - id: 5
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: company_address
+      label: Company Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: data_collection
+      label: Data Collection
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Online'', ''value'': ''online''}'
+      - '{''id'': 2, ''label'': ''Offline'', ''value'': ''offline''}'
+      - '{''id'': 3, ''label'': ''Both'', ''value'': ''both''}'
+      required: false
+    - id: 8
+      name: data_security
+      label: Data Security
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: company_phone
+      label: Company Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: confirm
+      label: Confirm
+      hint: null
+      type: note
+      options: []
+      required: false

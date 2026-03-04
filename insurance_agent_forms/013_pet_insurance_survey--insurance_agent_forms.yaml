@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pet Insurance Survey
+    pages:
+    - id: 1
+      name: pet_insurance_survey
+      label: What type of pet do you have?
+      hint: null
+      type: select_one
+      options:
+      - Cat
+      - Dog
+      required: false
+    - id: 2
+      name: pet_type_age
+      label: How old is your pet?
+      hint: null
+      type: select_multiple
+      options:
+      - 0-1 year
+      - 1-2 years
+      - 2-5 years
+      - 5-10 years
+      required: false
+    - id: 3
+      name: pet_type_species
+      label: What is your pet's species?
+      hint: null
+      type: select_multiple
+      options:
+      - Mammal
+      - Reptile
+      - Avian
+      required: false
+    - id: 4
+      name: pet_insurance_payout
+      label: How much would you like your pet to be insured for?
+      hint: null
+      type: select_one
+      options:
+      - $5,000
+      - $10,000
+      - $20,000
+      required: false
+    - id: 5
+      name: location
+      label: Where do you live?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: phone_number
+      label: What is your phone number?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: What is your email?
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: insurance_provider
+      label: Who is your pet insurance provider?
+      hint: null
+      type: select_one
+      options:
+      - State Farm
+      - Trupanion
+      - Petco Insurance
+      required: false
+    - id: 9
+      name: note
+      label: Additional comments or questions?
+      hint: null
+      type: note
+      options: []
+      required: false

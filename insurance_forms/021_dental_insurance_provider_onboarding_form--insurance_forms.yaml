@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dental Insurance Provider Onboarding Form
+    pages:
+    - id: 1
+      name: provider_address_1
+      label: Provider Address 1
+      hint: Street address of the provider
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: provider_address_2
+      label: Provider Address 2
+      hint: City, state, and ZIP of the provider
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: provider_name
+      label: Provider Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: provider_license_number
+      label: Provider License Number
+      hint: State license number of the provider
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: provider_phone
+      label: Provider Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: provider_email
+      label: Provider Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: provider_fax
+      label: Provider Fax
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: practice_address_1
+      label: Practice Address 1
+      hint: Street address of the practice
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: practice_address_2
+      label: Practice Address 2
+      hint: City, state, and ZIP of the practice
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: practice_phone
+      label: Practice Phone
+      hint: Phone number of the practice
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: practice_name
+      label: Practice Name
+      hint: Name of the practice
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: practice_license_number
+      label: Practice License Number
+      hint: State license number of the practice
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: practice_email
+      label: Practice Email
+      hint: Email of the practice
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: practice_fax
+      label: Practice Fax
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: provider_type
+      label: Provider Type
+      hint: Type of provider (e.g. general, specialist, etc.)
+      type: select_one
+      options:
+      - General
+      - Specialist
+      - Other (Specify below)
+      required: true
+    - id: 16
+      name: other_provider_type
+      label: Other Provider Type
+      hint: If provider type is "Other" above, please specify
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: provider_specialty
+      label: Provider Specialty
+      hint: Specialty of the provider (e.g. general, orthodontist, etc.)
+      type: select_multiple
+      options:
+      - General
+      - Orthodontist
+      - Pediatric
+      - Specialist
+      - Other (Specify below)
+      required: false
+    - id: 18
+      name: other_provider_specialty
+      label: Other Provider Specialty
+      hint: If provider specialty is "Other" above, please specify
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: practice_hours
+      label: Practice Hours
+      hint: Hours of operation of the practice
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: practice_speciality
+      label: Practice Specialty
+      hint: Specialty of the practice
+      type: select_multiple
+      options:
+      - General
+      - Orthodontist
+      - Pediatric
+      - Specialist
+      - Other (Specify below)
+      required: false
+    - id: 21
+      name: other_practice_speciality
+      label: Other Practice Specialty
+      hint: If practice specialty is "Other" above, please specify
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: provider_status
+      label: Provider Status
+      hint: Current provider status (e.g. active, inactive, etc.)
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Other (Specify below)
+      required: false
+    - id: 23
+      name: other_provider_status
+      label: Other Provider Status
+      hint: If provider status is "Other" above, please specify
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: provider_notes
+      label: Provider Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: provider_date_opened
+      label: Provider Date Opened
+      hint: Date the practice was opened
+      type: date
+      options: []
+      required: false

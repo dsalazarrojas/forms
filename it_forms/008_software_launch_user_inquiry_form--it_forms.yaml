@@ -1,0 +1,46 @@
+inputSchema:
+  type: object
+  properties:
+    title: Software Launch User Inquiry Form
+    pages:
+    - id: 1
+      name: user_interest
+      label: User Interest
+      hint: null
+      type: select_one
+      options:
+      - Yes, interested
+      - No, not interested
+      required: false
+    - id: 2
+      name: product_feedback
+      label: Product Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: product_interest
+      label: Product Interest
+      hint: null
+      type: select_multiple
+      options:
+      - AI and Machine Learning
+      - Cybersecurity
+      - Cloud Computing
+      - Data Analytics
+      required: false
+    - id: 4
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false

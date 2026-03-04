@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: health_insurance_billing_form
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: provider_details
+      label: Provider Details
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: billing_info
+      label: Billing Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: billing_info_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: billing_info_date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: billing_info_phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: billing_info_medical_group
+      label: Medical Group
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: billing_info_medical_group_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: patient_signature
+      label: Patient Signature
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: signature_image
+      label: Signature Image
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: provider_signature
+      label: Provider Signature
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - submit
+      - Other
+      required: true
+    - id: 14
+      name: cancel
+      label: Cancel
+      hint: null
+      type: select_one
+      options:
+      - cancel
+      - Other
+      required: true
+    - id: 15
+      name: back
+      label: Back
+      hint: null
+      type: select_one
+      options:
+      - back
+      - Other
+      required: true
+    - id: 16
+      name: save
+      label: Save
+      hint: null
+      type: select_one
+      options:
+      - save
+      - Other
+      required: true
+    - id: 17
+      name: reset
+      label: Reset
+      hint: null
+      type: select_one
+      options:
+      - reset
+      - Other
+      required: true
+    - id: 18
+      name: billing_info_medical_group_other_note
+      label: Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: billing_info_address_line_2
+      label: Line 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: billing_info_address_street
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: billing_info_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: billing_info_state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: billing_info_zip_code
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: billing_info_country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: billing_info_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true

@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Transportation Infrastructure Condition Report
+    pages:
+    - id: 1
+      name: user_input
+      label: Transportation Infrastructure Report Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: asset_type
+      label: Asset Type
+      hint: null
+      type: select_one
+      options:
+      - Road
+      - Bridge
+      - Other
+      required: false
+    - id: 3
+      name: condition_score
+      label: Condition Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: condition_description
+      label: Condition Description
+      hint: Brief description of current condition
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: photos
+      label: Add Photos
+      hint: Upload up to 10 photos
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: condition_date
+      label: Date of Last Inspection
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: condition_time
+      label: Time of Last Inspection
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: condition_score_frequency
+      label: Condition Score Frequency
+      hint: How often is condition observed?
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: condition_relevance
+      label: Relevance of Condition
+      hint: How does this affect the asset's condition
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: maintenance_recommendation
+      label: Maintenance Recommendation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: photos_2
+      label: Add Photos 2
+      hint: Upload up to 10 photos
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: condition_status
+      label: Condition Status
+      hint: null
+      type: select_one
+      options:
+      - Normal
+      - Critical
+      - Major
+      - None
+      required: false

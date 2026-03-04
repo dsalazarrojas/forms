@@ -1,0 +1,149 @@
+inputSchema:
+  type: object
+  properties:
+    title: Financial Services Intake Form
+    pages:
+    - id: 1
+      name: client_info
+      label: Client Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: financial_status
+      label: Financial Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Active''}'
+      - '{''label'': ''Passive''}'
+      - '{''label'': ''Unknown''}'
+      required: false
+    - id: 4
+      name: assets
+      label: Assets
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: income
+      label: Income
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''0-10k''}'
+      - '{''label'': ''10-20k''}'
+      - '{''label'': ''20-30k''}'
+      - '{''label'': ''30-40k''}'
+      - '{''label'': ''40-50k''}'
+      - '{''label'': ''50-60k''}'
+      - '{''label'': ''60-70k''}'
+      - '{''label'': ''70-80k''}'
+      - '{''label'': ''80-90k''}'
+      - '{''label'': ''90-100k''}'
+      required: false
+    - id: 6
+      name: expenses
+      label: Expenses
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: employment_status
+      label: Employment Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Employed''}'
+      - '{''label'': ''Unemployed''}'
+      - '{''label'': ''Self-Employed''}'
+      - '{''label'': ''Retired''}'
+      - '{''label'': ''Disabled''}'
+      required: false
+    - id: 8
+      name: income_source
+      label: Income Source
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Salary''}'
+      - '{''label'': ''Investments''}'
+      - '{''label'': ''Rental Income''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 9
+      name: financial_institutions
+      label: Financial Institutions
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Bank of America''}'
+      - '{''label'': ''Wells Fargo''}'
+      - '{''label'': ''Chase''}'
+      - '{''label'': ''Credit Union''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 10
+      name: assets_type
+      label: Type of Assets
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Cash''}'
+      - '{''label'': ''Stocks''}'
+      - '{''label'': ''Real Estate''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 11
+      name: financial_institutions_2
+      label: Financial Institutions 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: employment_income
+      label: Employment Income
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Primary''}'
+      - '{''label'': ''Secondary''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 13
+      name: investment_incomes
+      label: Investment Income
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Investments''}'
+      - '{''label'': ''Real Estate''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 14
+      name: income_from_other
+      label: Income from Other
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: assets_2
+      label: Assets 2
+      hint: null
+      type: number
+      options: []
+      required: false

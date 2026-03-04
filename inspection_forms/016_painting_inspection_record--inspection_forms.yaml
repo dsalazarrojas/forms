@@ -1,0 +1,173 @@
+inputSchema:
+  type: object
+  properties:
+    title: painting_inspection_record
+    pages:
+    - id: 1
+      name: inspection_record
+      label: painting_inspection_record
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: inspection_date
+      label: inspection_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: inspection_time
+      label: inspection_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: inspector_name
+      label: inspector_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: inspector_contact
+      label: inspector_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_method
+      label: contact_method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: contact_person
+      label: contact_person
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: customer_contact
+      label: customer_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: inspection_status
+      label: inspection_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 11
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: painting_type
+      label: painting_type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: color
+      label: color
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: color_notes
+      label: color_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: color_quality
+      label: color_quality
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Poor
+      required: false
+    - id: 16
+      name: surface_condition
+      label: surface_condition
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: surface_defects
+      label: surface_defects
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: surface_area
+      label: surface_area
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: area_covered
+      label: area_covered
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: area_covered_unit
+      label: area_covered_unit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: color_code
+      label: color_code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: inspection_comments
+      label: inspection_comments
+      hint: null
+      type: note
+      options: []
+      required: false

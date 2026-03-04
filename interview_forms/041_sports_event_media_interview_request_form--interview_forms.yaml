@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sports Event Media Interview Request Form
+    pages:
+    - id: 1
+      name: sports_event_media_interview_request_form_1
+      label: Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: request_type
+      label: Request Type
+      hint: null
+      type: select_one
+      options:
+      - Request
+      - Interview
+      required: true
+    - id: 3
+      name: request_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: request_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: interview_requester
+      label: Interview Requester
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: request_details
+      label: Request Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: media_type
+      label: Media Type
+      hint: null
+      type: select_one
+      options:
+      - Photo
+      - Video
+      - Audio
+      required: true
+    - id: 12
+      name: decision
+      label: Decision
+      hint: null
+      type: select_multiple
+      options:
+      - Approve
+      - Deny
+      required: true
+    - id: 13
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: assignee
+      label: Assignee
+      hint: null
+      type: text
+      options: []
+      required: false

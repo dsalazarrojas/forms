@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Service Tiering Assessment
+    pages:
+    - id: 1
+      name: service_tiering_organisation
+      label: Service Tiering Organisation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: organisation_name
+      label: organisation_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: service_tiering_team
+      label: Service Tiering Team
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: service_tiering_level
+      label: Service Tiering Level
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: false
+    - id: 5
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: business_impact
+      label: Business Impact
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: support_level
+      label: Support Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 8
+      name: priority_level
+      label: Priority Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 9
+      name: tiering_decision
+      label: Tiering Decision
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: reviewer
+      label: Reviewer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

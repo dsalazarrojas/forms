@@ -1,0 +1,219 @@
+inputSchema:
+  type: object
+  properties:
+    title: Investor Portfolio Information Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: portfolio_type
+      label: Portfolio Type
+      hint: null
+      type: select_multiple
+      options:
+      - Individual
+      - Joint
+      - Trust
+      required: false
+    - id: 5
+      name: portfolio_size
+      label: Portfolio Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: net_worth
+      label: Net Worth
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: risk_tolerance
+      label: Risk Tolerance
+      hint: null
+      type: select_one
+      options:
+      - Conservative
+      - Moderate
+      - Aggressive
+      required: false
+    - id: 8
+      name: investment_objectives
+      label: Investment Objectives
+      hint: null
+      type: select_multiple
+      options:
+      - Growth
+      - Income
+      - Balance
+      required: false
+    - id: 9
+      name: investment_period
+      label: Investment Period
+      hint: null
+      type: select_multiple
+      options:
+      - Short-Term
+      - Medium-Term
+      - Long-Term
+      required: false
+    - id: 10
+      name: investment_horizon
+      label: Investment Horizon
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: investment_frequency
+      label: Investment Frequency
+      hint: null
+      type: select_one
+      options:
+      - Regularly
+      - Occasionally
+      - Rarely
+      required: false
+    - id: 12
+      name: financial_goals
+      label: Financial Goals
+      hint: null
+      type: select_multiple
+      options:
+      - Retirement
+      - Wealth Building
+      - Cash Flow
+      required: false
+    - id: 13
+      name: investment_experience
+      label: Investment Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: investment_assets
+      label: Investment Assets
+      hint: null
+      type: select_one
+      options:
+      - Stocks
+      - Bonds
+      - Real Estate
+      - Other
+      required: false
+    - id: 15
+      name: investment_institutional
+      label: Institutional Investment
+      hint: null
+      type: select_one
+      options:
+      - Individual
+      - Joint
+      - Trust
+      required: false
+    - id: 16
+      name: tax_id
+      label: Tax ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: fax
+      label: Fax
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: investment_notes
+      label: Investment Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: other_investments
+      label: Other Investments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: investment_type
+      label: Investment Type
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Stock
+      - Mutual Funds
+      - Bond
+      - Real Estate
+      - Other
+      required: false
+    - id: 23
+      name: investment_allocation
+      label: Investment Allocation
+      hint: null
+      type: select_one
+      options:
+      - Stocks
+      - Bonds
+      - Real Estate
+      - Other
+      required: false
+    - id: 24
+      name: investment_strategy
+      label: Investment Strategy
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Passive
+      - Conservative
+      - Aggressive
+      required: false
+    - id: 25
+      name: investment_frequency
+      label: Investment Frequency
+      hint: null
+      type: time
+      options: []
+      required: false

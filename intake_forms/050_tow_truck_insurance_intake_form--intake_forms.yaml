@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tow Truck Insurance Intake Form
+    pages:
+    - id: 1
+      name: tow_truck_insurance_intake_form
+      label: Tow Truck Insurance Intake Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: tow_truck_info
+      label: Tow Trunk Information
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: tow_truck_license_plate
+      label: Tow Trunk License Plate
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: insurance_info
+      label: Insurance Information
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Full Name:'', ''label'': ''Full Name''}'
+      - '{''value'': ''Address:'', ''label'': ''Address''}'
+      - '{''value'': ''Phone Number:'', ''label'': ''Phone Number''}'
+      - '{''value'': ''Email Address:'', ''label'': ''Email Address''}'
+      required: true
+    - id: 5
+      name: towing_location
+      label: Towing Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: towing_date
+      label: Towing Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: towing_time
+      label: Towing Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: towed_vehicle_info
+      label: Towed Vehicle Information
+      hint: null
+      type: select_multiple
+      options:
+      - Full Name
+      - Address
+      - Phone Number
+      - Email Address
+      required: true
+    - id: 9
+      name: notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: insurance_quote
+      label: Insurance Quote
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: follow_up
+      label: Follow Up
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: tow_truck_insurance_provider
+      label: Tow Truck Insurance Provider
+      hint: null
+      type: select_one
+      options:
+      - Provider 1
+      - Provider 2
+      - Provider 3
+      required: true
+    - id: 13
+      name: tow_truck_insurance_policy_number
+      label: Policy Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: agent
+      label: Agent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: agent_phone
+      label: Agent Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: policy_effective_date
+      label: Policy Effective Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: policy_expiration_date
+      label: Policy Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: customer_signature
+      label: Customer Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: agent_signature
+      label: Agent Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: date_submitted
+      label: Date Submitted
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: submitter
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: towed_vehicle
+      label: Towed Vehicle
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: insurance_quote_1
+      label: Insurance Quote 1
+      hint: null
+      type: text
+      options: []
+      required: false

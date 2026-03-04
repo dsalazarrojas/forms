@@ -1,0 +1,61 @@
+inputSchema:
+  type: object
+  properties:
+    title: IT Support Interview Form
+    pages:
+    - id: 1
+      name: candidate_name
+      label: Candidate Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: interview_date
+      label: Interview Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: interview_time
+      label: Interview Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: candidate_score
+      label: Candidate Score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: score_comment
+      label: Score Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false

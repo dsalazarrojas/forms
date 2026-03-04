@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: monthly_retail_inspection_form_template
+    pages:
+    - id: 1
+      name: main_page
+      label: Main Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: store_layout
+      label: Store Layout
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: store_condition
+      label: Store Condition
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: store_condition_score
+      label: Store Condition Score
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: store_equipment
+      label: Store Equipment
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''Good'', ''value'': 1}'
+      - '{''name'': ''Fair'', ''value'': 2}'
+      - '{''name'': ''Bad'', ''value'': 3}'
+      - '{''name'': ''Very bad'', ''value'': 4}'
+      required: false
+    - id: 6
+      name: store_layout_equipment
+      label: Store Layout Equipment
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''Good'', ''value'': 1}'
+      - '{''name'': ''Fair'', ''value'': 2}'
+      - '{''name'': ''Bad'', ''value'': 3}'
+      - '{''name'': ''Very bad'', ''value'': 4}'
+      required: false
+    - id: 7
+      name: store_facilities
+      label: Store Facilities
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''Good'', ''value'': 1}'
+      - '{''name'': ''Fair'', ''value'': 2}'
+      - '{''name'': ''Bad'', ''value'': 3}'
+      - '{''name'': ''Very bad'', ''value'': 4}'
+      required: false
+    - id: 8
+      name: store_staff
+      label: Store Staff
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''Good'', ''value'': 1}'
+      - '{''name'': ''Fair'', ''value'': 2}'
+      - '{''name'': ''Bad'', ''value'': 3}'
+      - '{''name'': ''Very bad'', ''value'': 4}'
+      required: false

@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Flooded Riser Inspection Checklist
+    pages:
+    - id: 1
+      name: flooded_riser_inspection_checklist
+      label: Flooded Riser Inspection Checklist
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: flooded_riser_inspection_location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: flooded_riser_inspection_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: flooded_riser_inspection_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: flooded_riser_inspection_temperature
+      label: Temperature
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: flooded_riser_inspection_findings
+      label: Findings
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: flooded_riser_inspection_repetitive_findings
+      label: Repetitive Findings
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: flooded_riser_inspection_recommendations
+      label: Recommendations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: flooded_riser_inspection_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: flooded_riser_inspection_responsible_person
+      label: Responsible Person
+      hint: null
+      type: select_one
+      options:
+      - Facility Manager
+      - Maintenance Team
+      - Other
+      required: true
+    - id: 11
+      name: flooded_riser_inspection_responsible_group
+      label: Responsible Group
+      hint: null
+      type: select_multiple
+      options:
+      - Maintenance Team
+      - Operations Team
+      - Engineering Team
+      - Other
+      required: false
+    - id: 12
+      name: flooded_riser_inspection_inspected_by
+      label: Inspected By
+      hint: null
+      type: select_multiple
+      options:
+      - Maintenance Team
+      - Operations Team
+      - Engineering Team
+      - Other
+      required: false
+    - id: 13
+      name: flooded_riser_inspection_verified_by
+      label: Verified By
+      hint: null
+      type: select_multiple
+      options:
+      - Facility Manager
+      - Maintenance Manager
+      - Other
+      required: false
+    - id: 14
+      name: flooded_riser_inspection_verified_date
+      label: Verified Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: flooded_riser_inspection_closed
+      label: Closed
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 16
+      name: flooded_riser_inspection_reopened
+      label: Reopened
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 17
+      name: flooded_riser_inspection_reopen_date
+      label: Reopen Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: flooded_riser_inspection_closed_date
+      label: Closed Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: flooded_riser_inspection_review_comments
+      label: Review Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: flooded_riser_inspection_reviewed_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: flooded_riser_inspection_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - Closed
+      required: false
+    - id: 22
+      name: flooded_riser_inspection_last_inspected
+      label: Last Inspected
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: flooded_riser_inspection_next_inspected
+      label: Next Inspected
+      hint: null
+      type: date
+      options: []
+      required: false

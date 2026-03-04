@@ -1,0 +1,151 @@
+inputSchema:
+  type: object
+  properties:
+    title: Church Intake Form Template
+    pages:
+    - id: 1
+      name: header_personal_intake
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: intake_full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: preferred_name
+      label: Preferred Name/Nickname
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: intake_dob
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: intake_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: intake_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: intake_address
+      label: Residential Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: header_household_intake
+      label: -- Household and Family --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: marital_status_intake
+      label: Marital Status
+      hint: null
+      type: select_one
+      options:
+      - Single
+      - Married
+      - Divorced
+      - Widowed
+      - Separated
+      required: false
+    - id: 10
+      name: family_members_listing
+      label: Family Members (Living in household)
+      hint: List names and relationships
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: header_church_context
+      label: -- Church Context --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: current_member_status_intake
+      label: Current Membership Status
+      hint: null
+      type: select_one
+      options:
+      - Seeking Membership
+      - Registered Member
+      - Regular Attendee
+      - Occasional Visitor
+      required: true
+    - id: 13
+      name: ministry_interests_intake
+      label: Ministries you're interested in joining
+      hint: null
+      type: select_multiple
+      options:
+      - Worship
+      - Children
+      - Youth
+      - Outreach
+      - Hospitality
+      - Media
+      - Support Groups
+      required: false
+    - id: 14
+      name: skills_to_share_intake
+      label: Skills or Talents you'd like to contribute
+      hint: e.g., Cooking, Graphic Design, Maintenance, Teaching
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: prayer_requests_intake
+      label: Current Prayer Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: preferred_contact_time
+      label: Best time to reach you
+      hint: null
+      type: select_one
+      options:
+      - Weekday Morning
+      - Weekday Afternoon
+      - Weekday Evening
+      - Weekend
+      required: true
+    - id: 17
+      name: comments_intake
+      label: Any other information for the ministry team?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: intake_completion_date
+      label: Today's Date
+      hint: null
+      type: date
+      options: []
+      required: true

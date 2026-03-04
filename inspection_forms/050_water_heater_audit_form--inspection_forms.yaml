@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: Water Heater Audit Form
+    pages:
+    - id: 1
+      name: home_address
+      label: Home Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: water_heater_make
+      label: Water Heater Make
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: water_heater_model
+      label: Water Heater Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: inspection_time
+      label: Inspection Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: issue_found
+      label: Issue Found
+      hint: null
+      type: select_one
+      options:
+      - 'False'
+      - 'True'
+      required: true
+    - id: 8
+      name: description_of_issue
+      label: Description Of Issue
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: repair_replacement
+      label: Repair/Replace
+      hint: null
+      type: select_one
+      options:
+      - Repair
+      - Replace
+      required: true
+    - id: 10
+      name: maintenance_suggestions
+      label: Maintenance Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: technician_name
+      label: Technician Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: technician_company
+      label: Technician Company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: service_date
+      label: Service Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: service_time
+      label: Service Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 15
+      name: cost
+      label: Cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

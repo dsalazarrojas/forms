@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Parental Authorization Form For Minors
+    pages:
+    - id: 1
+      name: minor_name
+      label: minor_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: relationship
+      label: relationship
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Mother''}'
+      - Father
+      - Guardian
+      required: false
+    - id: 4
+      name: contact_name
+      label: contact_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: medical_history
+      label: medical_history
+      hint: null
+      type: text
+      options: []
+      required: false

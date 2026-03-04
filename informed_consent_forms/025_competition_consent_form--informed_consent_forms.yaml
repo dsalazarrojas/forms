@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: Competition Consent Form
+    pages:
+    - id: 1
+      name: competition_consent_intro
+      label: -- Competition Participation Consent --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: competition_name_official
+      label: Official Competition Name
+      hint: e.g., National Math Olympiad 2026
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: competitor_full_name
+      label: Competitor Full Name
+      hint: The person participating in the event
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: competitor_dob
+      label: Competitor Date of Birth
+      hint: Needed for age category verification
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: guardian_info_section
+      label: -- Parent or Legal Guardian (If under 18) --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: guardian_full_name
+      label: Parent / Guardian Name
+      hint: Leave blank if competitor is an adult
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: emergency_contact_number
+      label: Emergency Contact Phone Number
+      hint: Number where a contact can be reached during the event
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: medical_safety_section
+      label: -- Medical and Safety Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: allergies_medical_conditions
+      label: Relevant Medical Conditions or Allergies
+      hint: State None if not applicable
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: media_release_consent_comp
+      label: Media Release Consent
+      hint: I consent to being photographed or filmed for promotional purposes related
+        to this competition.
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      required: true
+    - id: 11
+      name: rules_acknowledgment_comp
+      label: I have read and agree to follow all competition rules and regulations
+      hint: Participation agreement
+      type: select_one
+      options:
+      - I agree
+      - Other
+      required: true
+    - id: 12
+      name: liability_waiver_acknowledgment
+      label: I acknowledge and accept all risks associated with participation
+      hint: Legal liability waiver
+      type: select_one
+      options:
+      - I acknowledge and accept
+      - Other
+      required: true
+    - id: 13
+      name: consent_form_date_signed
+      label: Date Signed
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: digital_consent_acknowledgment
+      label: Digital Consent Acknowledgment
+      hint: By submitting this form, you are providing your official consent.
+      type: note
+      options: []
+      required: false

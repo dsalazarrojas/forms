@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Bus Pre Trip Inspection Report Form
+    pages:
+    - id: 1
+      name: bus_number
+      label: Bus Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: driver_name
+      label: Driver Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: vehicle_number
+      label: Vehicle Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_inspected
+      label: Date Inspected
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time_inspected
+      label: Time Inspected
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: pre_trip_items
+      label: Pre-Trip Items Checked
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: fire_extinguisher
+      label: Fire Extinguisher
+      hint: null
+      type: select_one
+      options:
+      - Fire Extinguisher is fully charged
+      - Fire Extinguisher not fully charged
+      required: false
+    - id: 8
+      name: mirrors
+      label: Mirrors
+      hint: null
+      type: select_one
+      options:
+      - Mirrors clean
+      - Mirrors streaked
+      required: false
+    - id: 9
+      name: tires
+      label: Tires
+      hint: null
+      type: select_one
+      options:
+      - Tires in good condition
+      - Tires have less than 1/2 inch tread
+      - Tires have less than 1/4 inch tread
+      required: false
+    - id: 10
+      name: brakes
+      label: Brakes
+      hint: null
+      type: select_one
+      options:
+      - Brakes function well
+      - Brakes function badly
+      required: false
+    - id: 11
+      name: lights
+      label: Lights
+      hint: null
+      type: select_one
+      options:
+      - Lights function well
+      - Lights function badly
+      required: false
+    - id: 12
+      name: horn
+      label: Horn
+      hint: null
+      type: select_one
+      options:
+      - Horn sounds good
+      - Horn sounds badly
+      required: false
+    - id: 13
+      name: parking_brakes
+      label: Parking Brakes
+      hint: null
+      type: select_one
+      options:
+      - Parking Brakes function well
+      - Parking Brakes function badly
+      required: false
+    - id: 14
+      name: steering
+      label: Steering
+      hint: null
+      type: select_one
+      options:
+      - Steering function well
+      - Steering function badly
+      required: false
+    - id: 15
+      name: suspension
+      label: Suspension
+      hint: null
+      type: select_one
+      options:
+      - Suspension well
+      - Suspension badly
+      required: false
+    - id: 16
+      name: brakes_clearance
+      label: Brakes Clearance
+      hint: null
+      type: select_one
+      options:
+      - Brakes clearanced properly
+      - Brakes clearance badly
+      required: false
+    - id: 17
+      name: tire_pressure
+      label: Tire Pressure
+      hint: null
+      type: select_one
+      options:
+      - Tire pressure correct
+      - Tire pressure low
+      required: false
+    - id: 18
+      name: driver_signature
+      label: Driver Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: vehicle_condition
+      label: Vehicle Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: inspector_signature
+      label: Inspector Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: inspection_completed
+      label: Inspection Completed
+      hint: null
+      type: select_one
+      options:
+      - Inspection completed correctly
+      - Inspection not completed correctly
+      required: false
+    - id: 23
+      name: date_completed
+      label: Date Completed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: time_completed
+      label: Time Completed
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: comments_completed
+      label: Comments Completed
+      hint: null
+      type: note
+      options: []
+      required: false

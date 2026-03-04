@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Healthcare Necessities Analysis Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: patient name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: date of birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: patient_id
+      label: patient id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: medical_condition
+      label: medical condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: medication_list
+      label: medication list
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: allergies
+      label: allergies
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: medical_provider
+      label: medical provider
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: medical_specialty
+      label: medical specialty
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: medical_history
+      label: medical history
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: contact_method
+      label: contact method
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

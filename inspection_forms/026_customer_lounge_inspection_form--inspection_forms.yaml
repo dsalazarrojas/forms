@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Lounge Inspection Form
+    pages:
+    - id: 1
+      name: customer_lounge_inspection_form_page_1
+      label: customer_lounge_inspection_form_page_1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: cleanliness_scale
+      label: cleanliness_scale
+      hint: null
+      type: select_one
+      options:
+      - Very clean
+      - Somewhat clean
+      - Not clean
+      required: false
+    - id: 3
+      name: comfort_level
+      label: comfort_level
+      hint: null
+      type: select_one
+      options:
+      - Very comfortable
+      - Somewhat comfortable
+      - Not comfortable
+      required: false
+    - id: 4
+      name: furniture_condition
+      label: furniture_condition
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 5
+      name: cleanliness_frequency
+      label: cleanliness_frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Several times a week
+      - Once a week
+      - Rarely
+      required: false
+    - id: 6
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: customer_comments
+      label: customer_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: customer_comments_2
+      label: customer_comments_2
+      hint: null
+      type: text
+      options: []
+      required: false

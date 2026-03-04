@@ -1,0 +1,395 @@
+inputSchema:
+  type: object
+  properties:
+    title: Building Inspection Checklist
+    pages:
+    - id: 1
+      name: inspection_header
+      label: -- Building Inspection Checklist --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: inspection_date
+      label: Inspection date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: inspector_name
+      label: Inspector name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: building_address
+      label: Building address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: building_type
+      label: Building type
+      hint: null
+      type: select_one
+      options:
+      - Single-family home
+      - Multi-family apartment
+      - Office building
+      - Commercial retail
+      - Industrial
+      - Mixed-use
+      - Institutional
+      - Other
+      required: true
+    - id: 6
+      name: exterior_checklist
+      label: -- Exterior Inspection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: roof_inspection
+      label: Roof condition and integrity
+      hint: null
+      type: select_one
+      options:
+      - Pass - No issues
+      - Minor defects noted
+      - Repair needed
+      - Replacement recommended
+      - Not accessible
+      required: true
+    - id: 8
+      name: roof_notes
+      label: Roof inspection notes
+      hint: Damage, wear, age, materials
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: foundation_inspection
+      label: Foundation condition
+      hint: null
+      type: select_one
+      options:
+      - Pass - Solid foundation
+      - Minor cracks noted
+      - Significant cracking
+      - Settlement observed
+      - Repair needed
+      required: true
+    - id: 10
+      name: foundation_notes
+      label: Foundation inspection notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: siding_inspection
+      label: Exterior siding and walls
+      hint: null
+      type: select_one
+      options:
+      - Pass - Good condition
+      - Minor wear or damage
+      - Moderate deterioration
+      - Significant damage
+      - Repair needed
+      required: true
+    - id: 12
+      name: windows_doors_ext
+      label: Windows and exterior doors
+      hint: null
+      type: select_one
+      options:
+      - Pass - Good seals and operation
+      - Minor issues
+      - Multiple damaged units
+      - Widespread problems
+      - Replacement recommended
+      required: true
+    - id: 13
+      name: gutters_downspouts
+      label: Gutters and downspouts
+      hint: null
+      type: select_one
+      options:
+      - Pass - Clean and functional
+      - Minor cleaning needed
+      - Repair needed
+      - Missing or blocked
+      - Replacement recommended
+      required: true
+    - id: 14
+      name: drainage_grading
+      label: Drainage and grading
+      hint: null
+      type: select_one
+      options:
+      - Pass - Good drainage
+      - Minor pooling noted
+      - Water pooling areas
+      - Poor drainage
+      - Immediate drainage repairs needed
+      required: true
+    - id: 15
+      name: interior_checklist
+      label: -- Interior Inspection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: flooring_interior
+      label: Interior flooring condition
+      hint: null
+      type: select_one
+      options:
+      - Pass - Excellent condition
+      - Minor wear normal
+      - Moderate damage/wear
+      - Significant damage
+      - Replacement recommended
+      required: true
+    - id: 17
+      name: walls_interior
+      label: Interior walls and paint
+      hint: null
+      type: select_one
+      options:
+      - Pass - Good condition
+      - Minor marks or stains
+      - Moderate damage
+      - Significant water damage
+      - Major repairs needed
+      required: true
+    - id: 18
+      name: ceiling_interior
+      label: Ceilings condition
+      hint: null
+      type: select_one
+      options:
+      - Pass - Good condition
+      - Minor stains
+      - Water damage present
+      - Sagging or structural concern
+      - Urgent repairs needed
+      required: true
+    - id: 19
+      name: doors_interior
+      label: Interior doors and operation
+      hint: null
+      type: select_one
+      options:
+      - Pass - All doors function properly
+      - Minor adjustment needed
+      - Some stuck/damaged doors
+      - Multiple doors non-functional
+      - Repairs needed
+      required: true
+    - id: 20
+      name: stairs_railings
+      label: Stairs, railings, and safety
+      hint: null
+      type: select_one
+      options:
+      - Pass - Safe and secure
+      - Minor defects noted
+      - Safety concerns
+      - Code violations found
+      - Immediate repairs required
+      required: true
+    - id: 21
+      name: water_damage
+      label: Evidence of water damage or leaks
+      hint: null
+      type: select_one
+      options:
+      - None observed
+      - Minor stains, old damage
+      - Recent water damage
+      - Active leaks present
+      - Severe water damage
+      required: true
+    - id: 22
+      name: mold_mildew
+      label: Mold or mildew presence
+      hint: null
+      type: select_one
+      options:
+      - None observed
+      - Minor presence
+      - Moderate mold growth
+      - Extensive growth
+      - Professional remediation needed
+      required: true
+    - id: 23
+      name: pest_damage
+      label: Pest evidence or damage
+      hint: null
+      type: select_one
+      options:
+      - None observed
+      - Minor signs
+      - Moderate evidence
+      - Significant damage
+      - Active infestation
+      required: true
+    - id: 24
+      name: systems_checklist
+      label: -- Systems Inspection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: electrical_system
+      label: Electrical system condition
+      hint: null
+      type: select_one
+      options:
+      - Pass - Safe and modern
+      - Adequate - Older but functional
+      - Concerns noted
+      - Hazards present
+      - Professional evaluation needed
+      required: true
+    - id: 26
+      name: plumbing_system
+      label: Plumbing system condition
+      hint: null
+      type: select_one
+      options:
+      - Pass - Good condition
+      - Minor leaks
+      - Multiple leaks
+      - Water pressure issues
+      - Major repairs needed
+      required: true
+    - id: 27
+      name: hvac_system
+      label: HVAC system condition
+      hint: null
+      type: select_one
+      options:
+      - Pass - Good working order
+      - Adequate condition
+      - Needs servicing
+      - Repairs needed
+      - Replacement recommended
+      required: true
+    - id: 28
+      name: water_heater
+      label: Water heater condition
+      hint: null
+      type: select_one
+      options:
+      - Pass - Recent or new
+      - Good condition
+      - Fair - works but older
+      - Poor - repairs needed
+      - Replacement needed
+      required: true
+    - id: 29
+      name: safety_features
+      label: -- Safety Features --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 30
+      name: fire_extinguishers
+      label: Fire extinguishers present and accessible
+      hint: null
+      type: select_one
+      options:
+      - Yes - Present and accessible
+      - Yes - Present but inaccessible
+      - No - None present
+      - Partially
+      required: true
+    - id: 31
+      name: smoke_detectors
+      label: Smoke detectors operational
+      hint: null
+      type: select_one
+      options:
+      - Yes - All functioning
+      - Yes - Most functional
+      - No - None working
+      - Not present
+      required: true
+    - id: 32
+      name: emergency_exits
+      label: Emergency exits marked and accessible
+      hint: null
+      type: select_one
+      options:
+      - Yes - Clearly marked
+      - Yes - Marked but not obvious
+      - No - Not marked
+      - Blocked or inaccessible
+      required: true
+    - id: 33
+      name: overall_assessment
+      label: -- Overall Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 34
+      name: overall_condition
+      label: Overall building condition
+      hint: null
+      type: select_one
+      options:
+      - Excellent - Well maintained
+      - Good - Minor issues only
+      - Fair - Moderate repairs needed
+      - Poor - Significant repairs needed
+      - Critical - Major issues present
+      required: true
+    - id: 35
+      name: occupancy_safe
+      label: Building safe for occupancy
+      hint: null
+      type: select_one
+      options:
+      - Yes - Safe
+      - Yes - With minor improvements
+      - Conditional - Repairs needed
+      - No - Safety concerns
+      - No - Unsafe for occupancy
+      required: true
+    - id: 36
+      name: priority_repairs
+      label: Priority repairs and recommendations
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 37
+      name: estimated_repairs_cost
+      label: Estimated repair costs
+      hint: Approximate total
+      type: number
+      options: []
+      required: false
+    - id: 38
+      name: follow_up_needed
+      label: Follow-up inspection needed
+      hint: null
+      type: select_one
+      options:
+      - No - Pass inspection
+      - Yes - Minor issues follow-up
+      - Yes - Major issues follow-up
+      - Yes - Professional specialist needed
+      required: true

@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: internship_intake_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: resume
+      label: Resume
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: application_type
+      label: Application Type
+      hint: null
+      type: select_one
+      options:
+      - Intern
+      - Co-op
+      - Part-time
+      - Full-time
+      required: true
+    - id: 9
+      name: work_status
+      label: Work Status
+      hint: null
+      type: select_multiple
+      options:
+      - Currently employed
+      - Unemployed
+      - Internship
+      required: true
+    - id: 10
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: skills
+      label: Skills
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: education
+      label: Education
+      hint: null
+      type: select_multiple
+      options:
+      - High School Diploma
+      - Bachelor
+      - Master
+      - PhD
+      required: false
+    - id: 14
+      name: work_experience
+      label: Work Experience
+      hint: null
+      type: select_multiple
+      options:
+      - 0-1 year
+      - 1-2 years
+      - 2-5 years
+      - 5+ years
+      required: true
+    - id: 15
+      name: availability
+      label: Availability
+      hint: null
+      type: select_multiple
+      options:
+      - Full-time
+      - Part-time
+      - Intern
+      required: false
+    - id: 16
+      name: available_date
+      label: Available Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: salary_range
+      label: Salary Range
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: benefits
+      label: Benefits
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 19
+      name: salary
+      label: Salary
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: internship_type
+      label: Internship Type
+      hint: null
+      type: select_one
+      options:
+      - Academic
+      - Research
+      - Development
+      required: true
+    - id: 21
+      name: work_status_other
+      label: Other Work Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: job_description
+      label: Job Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: supervisor_name
+      label: Supervisor Name
+      hint: null
+      type: text
+      options: []
+      required: false

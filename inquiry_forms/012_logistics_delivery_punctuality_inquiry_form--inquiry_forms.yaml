@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Logistics Delivery Punctuality Inquiry Form
+    pages:
+    - id: 1
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: delivery_time
+      label: Delivery Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: shipment_id
+      label: Shipment ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: carrier_name
+      label: Carrier Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: vehicle_registration_number
+      label: Vehicle Registration Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: delivery_location
+      label: Delivery Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: shipment_weight
+      label: Shipment Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: shipment_distance
+      label: Shipment Distance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: shipment_speed
+      label: Shipment Speed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: punctuality_rate
+      label: Punctuality Rate
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 12
+      name: ontime_status
+      label: On-time Status
+      hint: null
+      type: select_one
+      options:
+      - On-time
+      - Late
+      - Early
+      required: false
+    - id: 13
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: customer_comments
+      label: Customer Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: carrier_comments
+      label: Carrier Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: issue_description
+      label: Issue Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: action_taken
+      label: Action Taken
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: follow_up
+      label: Follow-up
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: follow_up_status
+      label: Follow-up Status
+      hint: null
+      type: select_one
+      options:
+      - Not Done
+      - Done
+      - In Progress
+      required: false
+    - id: 20
+      name: delivery_type
+      label: Delivery Type
+      hint: null
+      type: select_one
+      options:
+      - Ground
+      - Air
+      - Sea
+      required: false
+    - id: 21
+      name: delivery_status
+      label: Delivery Status
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - Pending
+      - Cancelled
+      required: false
+    - id: 22
+      name: delivery_type_other
+      label: Delivery Type Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: carrier
+      label: Carrier Name (if other)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: delivery_location_other
+      label: Delivery Location (if other)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: shipment_weight_other
+      label: Shipment Weight (if other)
+      hint: null
+      type: text
+      options: []
+      required: false

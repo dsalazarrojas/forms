@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: it_helpdesk_quotation_form
+    pages:
+    - id: 1
+      name: customer_info
+      label: Customer Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: service_details
+      label: Service Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: quotation_terms
+      label: Quotation Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: customer_notes
+      label: Customer Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: customer_address
+      label: Customer Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: service_description
+      label: Service Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: service_price
+      label: Service Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: service_duration
+      label: Service Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: service_start_date
+      label: Service Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: service_start_time
+      label: Service Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: quotation_terms_terms
+      label: Quotation Terms
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: quotation_terms_notes
+      label: Quotation Terms Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: assignee
+      label: Assignee
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''chatjimmy''}'
+      - '{''value'': ''John Doe''}'
+      - '{''value'': ''Jane Doe''}'
+      required: false
+    - id: 16
+      name: customer_service_type
+      label: Customer Service Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''on-site''}'
+      - '{''value'': ''remote''}'
+      - '{''value'': ''phone''}'
+      required: false

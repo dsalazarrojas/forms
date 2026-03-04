@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Health Insurance Claim Payment Tracker
+    pages:
+    - id: 1
+      name: claim_submission
+      label: Claim Submission
+      hint: null
+      type: select_multiple
+      options:
+      - Insurance Claim
+      - Reimbursement Request
+      - Claim Dispute
+      - Reimbursement Follow-up
+      - Other
+      required: false
+    - id: 2
+      name: claim_date
+      label: Claim Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: policy_number
+      label: Policy Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: patient_email
+      label: Patient Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: claim_amount
+      label: Claim Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: claim_status
+      label: Claim Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Denied
+      - Paid
+      - Pending Payment
+      required: false
+    - id: 8
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Check
+      - EFT
+      - Wire Transfer
+      required: false
+    - id: 11
+      name: upload_document
+      label: Upload Document
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: document_title
+      label: Document Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: document_type
+      label: Document Type
+      hint: null
+      type: select_one
+      options:
+      - Claim Form
+      - Insurance Card
+      - Receipt
+      - Other
+      required: false
+    - id: 14
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: follow_up_date
+      label: Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: follow_up_status
+      label: Follow-up Status
+      hint: null
+      type: select_one
+      options:
+      - Scheduled
+      - In Progress
+      - Completed
+      required: false
+    - id: 17
+      name: follow_up_details
+      label: Follow-up Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: submitted_date
+      label: Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: claim_id
+      label: Claim ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: claim_status_change_reason
+      label: Claim Status Change Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: claim_status_history
+      label: Claim Status History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: payment_status_change_reason
+      label: Payment Status Change Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: payment_status_history
+      label: Payment Status History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submitted_by_name
+      label: Submitted By Name
+      hint: null
+      type: text
+      options: []
+      required: false

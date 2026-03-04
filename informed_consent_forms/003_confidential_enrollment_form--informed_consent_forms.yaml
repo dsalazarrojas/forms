@@ -1,0 +1,147 @@
+inputSchema:
+  type: object
+  properties:
+    title: Confidential Enrollment Form
+    pages:
+    - id: 1
+      name: section_student_info
+      label: -- Student Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_full_name
+      label: Student Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      - Prefer not to say
+      required: true
+    - id: 5
+      name: grade_level
+      label: Grade Level for Enrollment
+      hint: null
+      type: select_one
+      options:
+      - Kindergarten
+      - Elementary (1-5)
+      - Middle School (6-8)
+      - High School (9-12)
+      required: true
+    - id: 6
+      name: section_parent_guardian
+      label: -- Parent/Guardian Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: guardian_name
+      label: Parent or Guardian Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: relationship_to_student
+      label: Relationship to Student
+      hint: null
+      type: select_one
+      options:
+      - Father
+      - Mother
+      - Legal Guardian
+      - Other
+      required: true
+    - id: 9
+      name: primary_phone
+      label: Primary Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: home_address
+      label: Residential Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: section_medical_info
+      label: -- Medical and Health Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: medical_conditions
+      label: Known Medical Conditions or Allergies
+      hint: Enter None if not applicable
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Different from parent/guardian
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: section_consent
+      label: -- Informed Consent --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: data_privacy_consent
+      label: I consent to the collection and storage of this confidential data
+      hint: null
+      type: select_one
+      options:
+      - I consent
+      - Other
+      required: true
+    - id: 18
+      name: enrollment_agreement
+      label: I agree to the terms of enrollment
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - Other
+      required: true

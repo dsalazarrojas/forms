@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Automated Service Scheduling Consent Form
+    pages:
+    - id: 1
+      name: section_header_intro
+      label: -- Service Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: service_name
+      label: Service Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: service_date
+      label: Scheduled Service Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: service_time
+      label: Scheduled Service Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: service_provider
+      label: Service Provider Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_header_client
+      label: -- Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: client_name
+      label: Client Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: client_email
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: client_phone
+      label: Client Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: section_header_service_details
+      label: -- Service Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: service_type
+      label: Type of Service
+      hint: null
+      type: select_one
+      options:
+      - Consultation
+      - Medical
+      - Wellness
+      - Maintenance
+      - Installation
+      - Repair
+      - Other
+      required: true
+    - id: 13
+      name: service_description
+      label: Service Description
+      hint: Brief description of the service to be provided
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: expected_duration
+      label: Expected Service Duration
+      hint: null
+      type: select_one
+      options:
+      - Less than 30 minutes
+      - 30-60 minutes
+      - 1-2 hours
+      - 2-4 hours
+      - Full day
+      required: true
+    - id: 15
+      name: section_header_health
+      label: -- Health and Medical Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: health_conditions
+      label: Any relevant health conditions we should know about
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: allergies
+      label: Known allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: medications
+      label: Current medications that may affect this service
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: section_header_consent
+      label: -- Consent Agreement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: understand_service
+      label: I understand the service to be provided
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: consent_automated_scheduling
+      label: I consent to automated appointment scheduling and reminders
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 22
+      name: consent_contact
+      label: I consent to be contacted for appointment confirmations
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 23
+      name: consent_data_privacy
+      label: I consent to the collection and use of my personal data
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 24
+      name: consent_assumption_risk
+      label: I assume all risks associated with this service
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 25
+      name: signature_date
+      label: Date of Consent
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,174 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Anonymous Consent Form
+    pages:
+    - id: 1
+      name: study_title
+      label: Study or Program Title
+      hint: Enter the full name of the study or program
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: principal_investigator
+      label: Principal Investigator or Program Lead
+      hint: Name of the person responsible for this study
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: institution_name
+      label: Institution or Organization Name
+      hint: Name of the institution conducting the research
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: purpose_section
+      label: -- Purpose of Study --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: study_purpose
+      label: What is the purpose of this study
+      hint: Brief description of research objectives
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: procedures_section
+      label: -- Study Procedures --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: study_procedures
+      label: Describe the procedures involved
+      hint: What will participants be asked to do
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: study_duration
+      label: Expected Duration of Participation
+      hint: How long will participation take
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: risks_section
+      label: -- Risks and Benefits --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: potential_risks
+      label: Potential Risks or Discomforts
+      hint: Describe any foreseeable risks
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: potential_benefits
+      label: Potential Benefits
+      hint: Describe any benefits to participants or society
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: confidentiality_section
+      label: -- Confidentiality --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: data_anonymity
+      label: How will anonymity be maintained
+      hint: Explain data protection measures
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: data_storage
+      label: Data Storage and Retention Period
+      hint: How long will data be kept
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: voluntary_section
+      label: -- Voluntary Participation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: voluntary_statement
+      label: Voluntary Participation Statement
+      hint: Confirm participation is voluntary
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: withdrawal_process
+      label: Withdrawal Process
+      hint: How can participants withdraw
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: contact_section
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: contact_email
+      label: Contact Email for Questions
+      hint: Email address for participant inquiries
+      type: email
+      options: []
+      required: true
+    - id: 20
+      name: consent_statement
+      label: Consent Acknowledgment
+      hint: Statement for participant to acknowledge
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: age_confirmation
+      label: Age Confirmation
+      hint: Confirm participant is of legal age
+      type: select_one
+      options:
+        - I am 18 years of age or older
+        - I am under 18 with parental consent
+      required: true
+    - id: 22
+      name: consent_given
+      label: Do you consent to participate
+      hint: Your decision to participate
+      type: select_one
+      options:
+        - Yes, I consent to participate
+        - No, I do not consent
+      required: true

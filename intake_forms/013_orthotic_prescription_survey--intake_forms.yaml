@@ -1,0 +1,209 @@
+inputSchema:
+  type: object
+  properties:
+    title: Orthotic Prescription Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: What brings you here today
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_info
+      label: patient_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: symptoms
+      label: Describe your symptoms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: goals
+      label: what_do_you_want_to_achieve
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: orthotic_device
+      label: orthotic_device
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: device_type
+      label: device_type
+      hint: null
+      type: select_multiple
+      options:
+      - Custom AFO
+      - Orthotic
+      - Other
+      - Ankle Foot
+      - AFO
+      - KAFO
+      - SFO
+      - KAFO-SFO
+      - Hinged Ankle
+      - Hinged Knee
+      - Hinged Elbow
+      required: false
+    - id: 8
+      name: left_foot
+      label: left_foot
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Left
+      - Right
+      - Both
+      required: false
+    - id: 9
+      name: right_foot
+      label: right_foot
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Left
+      - Right
+      - Both
+      required: false
+    - id: 10
+      name: left_anteriority
+      label: left_anteriority
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: left_sole_length
+      label: left_sole_length
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: left_toe
+      label: left_toe
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: left_ankle_knee
+      label: left_ankle_knee
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: left_knee_elbow
+      label: left_knee_elbow
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: right_foot
+      label: right_foot
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: right_ankle_knee
+      label: right_ankle_knee
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: right_knee_elbow
+      label: right_knee_elbow
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: doctor
+      label: doctor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: doctor_title
+      label: doctor_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: contact_no
+      label: contact_no
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 23
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: contact_notes
+      label: contact_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false

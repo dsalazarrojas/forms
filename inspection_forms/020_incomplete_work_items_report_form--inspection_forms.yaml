@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Incomplete Work Items Report Form
+    pages:
+    - id: 1
+      name: incomplete_work_items_report_form_page_1
+      label: incomplete_work_items_report_form_page_1_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: incomplete_work_items_report_form_page_2
+      label: incomplete_work_items_report_form_page_2_label
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: prophets
+      label: prophets
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 4
+      name: inspectors
+      label: inspectors
+      hint: null
+      type: select_one
+      options:
+      - inspector_1
+      - inspector_2
+      - inspector_3
+      required: true
+    - id: 5
+      name: incomplete_work_items
+      label: incomplete_work_items
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 6
+      name: date_submitted
+      label: date_submitted
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: date_due
+      label: date_due
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: date_completed
+      label: date_completed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: incomplete_work_items_count
+      label: incomplete_work_items_count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: incomplete_work_items_percentage
+      label: incomplete_work_items_percentage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: incomplete_work_items_average
+      label: incomplete_work_items_average
+      hint: null
+      type: number
+      options: []
+      required: false

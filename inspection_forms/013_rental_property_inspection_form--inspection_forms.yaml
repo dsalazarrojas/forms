@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Rental Property Inspection Form
+    pages:
+    - id: 1
+      name: inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: property_address
+      label: property_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: unit_number
+      label: unit_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: property_type
+      label: property_type
+      hint: null
+      type: select_one
+      options:
+      - Landlord
+      - Tenant
+      - Vacant
+      required: false
+    - id: 5
+      name: condition_rating
+      label: condition_rating
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Poor
+      required: false
+    - id: 6
+      name: inspection_notes
+      label: inspection_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: assigned_agent
+      label: assigned_agent
+      hint: null
+      type: select_multiple
+      options:
+      - chatjimmy
+      - John Doe
+      - Jane Doe
+      required: false

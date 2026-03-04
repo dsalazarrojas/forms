@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lyft Inspection Form
+    pages:
+    - id: 1
+      name: vehicle_year
+      label: Vehicle Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: vehicle_make
+      label: Vehicle Make
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: vehicle_model
+      label: Vehicle Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: safety_checklist
+      label: Safety Checklist
+      hint: null
+      type: select_one
+      options:
+      - Is there any evidence of wear and tear on the vehicle?
+      - Is the vehicle in good condition?
+      - Is the vehicle clean?
+      - Is the vehicle well-maintained?
+      required: true
+    - id: 5
+      name: additional_notes
+      label: Additional Notes
+      hint: Please describe any additional notes regarding the vehicle.
+      type: note
+      options: []
+      required: true

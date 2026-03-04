@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Facility Maintenance Inspection Form
+    pages:
+    - id: 1
+      name: school_facility_id
+      label: school_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: facility_location
+      label: facility_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: issue_description
+      label: issue_description
+      hint: Describe the issue
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: priority_level
+      label: priority
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 7
+      name: assigned_inspector
+      label: assigned_inspector
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: status
+      label: status
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - In progress
+      - Not started
+      required: false
+    - id: 9
+      name: completed_date
+      label: completed_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: facility_status_update
+      label: facility_status_update
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: follow_up_date
+      label: follow_up_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: follow_up_status
+      label: follow_up_status
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - In progress
+      - Not started
+      required: false
+    - id: 14
+      name: assigned_inspector_note
+      label: assigned_inspector_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: assigned_inspector_phone
+      label: assigned_inspector_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: school_facility_id_2
+      label: school_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: issue_type
+      label: issue_type
+      hint: null
+      type: select_one
+      options:
+      - Electrical
+      - Plumbing
+      - HVAC
+      - Roofing
+      - Flooring
+      - Paint
+      - Siding
+      - Windows
+      - Doors
+      - Other
+      required: false
+    - id: 18
+      name: follow_up_inspector_id
+      label: follow_up_inspector_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: follow_up_inspector_name
+      label: follow_up_inspector_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: follow_up_inspector_phone
+      label: follow_up_inspector_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: follow_up_inspector_email
+      label: follow_up_inspector_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 22
+      name: follow_up_inspector_comments
+      label: follow_up_inspector_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: follow_up_inspector_status
+      label: follow_up_inspector_status
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - In progress
+      - Not started
+      required: false
+    - id: 24
+      name: follow_up_inspector_note
+      label: follow_up_inspector_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: follow_up_inspector_date
+      label: follow_up_inspector_date
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Investment Research Log Form
+    pages:
+    - id: 1
+      name: research_topic
+      label: Research Topic
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: current_status
+      label: Current Status
+      hint: null
+      type: select_one
+      options:
+      - Opportunity
+      - Risk
+      - In Progress
+      - Complete
+      required: false
+    - id: 3
+      name: investment_amount
+      label: Investment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: target_return
+      label: Target Return
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: expected_return
+      label: Expected Return
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: research_notes
+      label: Research Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: submit_date
+      label: Submit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: analyst_name
+      label: Analyst Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false

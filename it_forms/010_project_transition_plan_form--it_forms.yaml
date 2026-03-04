@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Project Transition Plan Form
+    pages:
+    - id: 1
+      name: project_manager
+      label: Project Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_team
+      label: Project Team
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: key_deliverables
+      label: Key Deliverables
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: risk_assessments
+      label: Risk Assessments
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: risk_level
+      label: Risk Level
+      hint: Low, Medium, High
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: risk_description
+      label: Risk Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: risk_impact
+      label: Risk Impact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: risk_mitigation
+      label: Risk Mitigation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: approval_status
+      label: Approval Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 10
+      name: approval_date
+      label: Approval Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

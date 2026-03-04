@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: overcharged_deductible_refund_form
+    pages:
+    - id: 1
+      name: form_data
+      label: Overcharged Deductible Refund Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_info
+      label: Customer Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: claim_info
+      label: Claim Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: payment_method
+      label: Payment Method
+      hint: Please select a payment method.
+      type: select_one
+      options:
+      - Visa
+      - MasterCard
+      - Amex
+      required: false
+    - id: 5
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: upload_file
+      label: Upload File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: uploaded_file
+      label: Uploaded File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: agreement
+      label: Agreement
+      hint: Please agree to terms.
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 13
+      name: signature
+      label: Signature
+      hint: Please choose up to 3 signatures.
+      type: select_multiple
+      options:
+      - Signature 1
+      - Signature 2
+      - Signature 3
+      required: false
+    - id: 14
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: text
+      label: Text
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: integer
+      label: Integer
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: select_one
+      label: Select One
+      hint: Select one option.
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      required: false
+    - id: 19
+      name: select_multiple
+      label: Select Multiple
+      hint: Choose up to two options.
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 20
+      name: date_range
+      label: Date Range
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: time_range
+      label: Time Range
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: date_time
+      label: Date and Time
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: datetime
+      label: Datetime
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: boolean
+      label: Boolean
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: password
+      label: Password
+      hint: null
+      type: text
+      options: []
+      required: false

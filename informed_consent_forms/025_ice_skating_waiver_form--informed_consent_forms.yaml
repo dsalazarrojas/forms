@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ice Skating Waiver Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: emergency_contact_number
+      label: Emergency Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: skating_experience
+      label: Skating Experience
+      hint: null
+      type: select_multiple
+      options:
+      - '{''options'': ''Beginner''}'
+      - Intermediate
+      - Advanced
+      required: false
+    - id: 9
+      name: equipment_provided
+      label: Equipment Provided
+      hint: null
+      type: select_multiple
+      options:
+      - '{''options'': ''Helmet''}'
+      - Gloves
+      - Skates
+      required: false
+    - id: 10
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: emergency_contact_relationship
+      label: Relationship to Emergency Contact
+      hint: null
+      type: select_one
+      options:
+      - '{''options'': ''Parent''}'
+      - Guardian
+      - Other
+      required: true
+    - id: 12
+      name: terms_and_conditions
+      label: Terms and Conditions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: waiver
+      label: Waiver
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: skating_location
+      label: Skating Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: skating_program
+      label: Skating Program
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: skating_duration
+      label: Skating Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: skating_frequency
+      label: Skating Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''options'': ''1-2 times/week''}'
+      - 3-5 times/week
+      - 6 or more times/week
+      required: false
+    - id: 20
+      name: emergency_contact_consent
+      label: Emergency Contact Consent
+      hint: null
+      type: select_one
+      options:
+      - '{''options'': True}'
+      - 'False'
+      required: true
+    - id: 21
+      name: signature_1
+      label: Signature 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: signature_2
+      label: Signature 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: terms_of_use
+      label: Terms of Use
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: date_signed
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: timestamp
+      label: Timestamp
+      hint: null
+      type: date
+      options: []
+      required: true

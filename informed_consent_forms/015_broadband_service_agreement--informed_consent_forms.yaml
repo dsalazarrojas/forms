@@ -1,0 +1,213 @@
+inputSchema:
+  type: object
+  properties:
+    title: Broadband Service Agreement
+    pages:
+    - id: 1
+      name: section_customer_info
+      label: -- Customer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer Full Name
+      hint: Enter the full legal name of the customer
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_email
+      label: Customer Email Address
+      hint: Enter a valid email for account communications
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: customer_phone
+      label: Customer Phone Number
+      hint: Enter primary contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: billing_address
+      label: Billing Address
+      hint: Enter the billing address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: service_address
+      label: Service Installation Address
+      hint: Enter the address where service will be installed
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city_state_zip
+      label: City, State, ZIP Code
+      hint: Enter city, state, and ZIP code
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: section_service_details
+      label: -- Service Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: service_plan
+      label: Service Plan Selected
+      hint: Select the broadband service plan
+      type: select_one
+      options:
+      - Basic (25 Mbps)
+      - Standard (100 Mbps)
+      - Premium (300 Mbps)
+      - Ultra (500 Mbps)
+      - Gigabit (1000 Mbps)
+      required: true
+    - id: 10
+      name: connection_type
+      label: Connection Type
+      hint: Select the type of connection
+      type: select_one
+      options:
+      - Fiber Optic
+      - Cable
+      - DSL
+      - Fixed Wireless
+      required: true
+    - id: 11
+      name: monthly_rate
+      label: Agreed Monthly Rate
+      hint: Enter the agreed monthly service rate
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: contract_term
+      label: Contract Term
+      hint: Select the contract duration
+      type: select_one
+      options:
+      - Month-to-Month
+      - 12 Months
+      - 24 Months
+      - 36 Months
+      required: true
+    - id: 13
+      name: installation_date
+      label: Preferred Installation Date
+      hint: Select your preferred installation date
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: installation_fee
+      label: Installation Fee
+      hint: Enter the installation fee amount
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: section_equipment
+      label: -- Equipment and Add-ons --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: equipment_rental
+      label: Equipment Rental
+      hint: Select equipment to rent
+      type: select_multiple
+      options:
+      - Modem ($10/month)
+      - Router ($10/month)
+      - Modem/Router Combo ($15/month)
+      - WiFi Extender ($5/month)
+      - None - I have my own equipment
+      required: true
+    - id: 17
+      name: additional_services
+      label: Additional Services
+      hint: Select any additional services
+      type: select_multiple
+      options:
+      - Static IP Address
+      - Premium Support
+      - Security Suite
+      - Parental Controls
+      - None
+      required: false
+    - id: 18
+      name: data_cap
+      label: Data Cap Option
+      hint: Select data cap preference
+      type: select_one
+      options:
+      - Standard Cap (1TB)
+      - Unlimited Data (+$30/month)
+      required: true
+    - id: 19
+      name: section_terms
+      label: -- Terms and Conditions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: early_termination_fee
+      label: Early Termination Fee Acknowledgment
+      hint: Customer acknowledges early termination fee of up to $200
+      type: select_one
+      options:
+      - I Understand and Agree
+      - Other
+      required: true
+    - id: 21
+      name: acceptable_use_policy
+      label: Acceptable Use Policy Agreement
+      hint: Customer agrees to abide by acceptable use policy
+      type: select_one
+      options:
+      - I Agree to the Acceptable Use Policy
+      - Other
+      required: true
+    - id: 22
+      name: privacy_policy
+      label: Privacy Policy Agreement
+      hint: Customer acknowledges review of privacy policy
+      type: select_one
+      options:
+      - I Have Read and Agree to the Privacy Policy
+      - Other
+      required: true
+    - id: 23
+      name: autopay_enrollment
+      label: AutoPay Enrollment
+      hint: Enroll in automatic payments for convenience
+      type: select_one
+      options:
+      - Yes, Enroll in AutoPay
+      - No, I Will Pay Manually
+      required: true
+    - id: 24
+      name: customer_signature
+      label: Customer Signature (Type Full Name)
+      hint: Type your full name as electronic signature
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: agreement_date
+      label: Agreement Date
+      hint: Select the date of agreement
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Website User Acceptance Testing Feedback Form
+    pages:
+    - id: 1
+      name: website_usability
+      label: Website Usability
+      hint: null
+      type: select_one
+      options:
+      - Usability of navigation
+      - Accessibility of website content
+      - Responsiveness of website
+      - User experience of website
+      required: true
+    - id: 2
+      name: bugs
+      label: Bugs
+      hint: null
+      type: select_multiple
+      options:
+      - Is there a bug in the website that prevents you from completing a task?
+      - Is there a feature missing from the website?
+      - Is there a feature not working as expected?
+      required: true
+    - id: 3
+      name: satisfaction
+      label: Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Very Dissatisfied
+      - Somewhat Dissatisfied
+      - Neutral
+      - Somewhat Satisfied
+      - Very Satisfied
+      required: true
+    - id: 4
+      name: feedback
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: website_usability_comments
+      label: Comments about website usability
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: bug_description
+      label: Bug description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: bug_solution
+      label: Solution to bug
+      hint: null
+      type: text
+      options: []
+      required: false

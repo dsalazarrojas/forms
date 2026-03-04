@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: server_config_checklist
+    pages:
+    - id: 1
+      name: server_configuration_details
+      label: Server Configuration Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: monitoring_settings
+      label: Monitoring Settings
+      hint: null
+      type: select_one
+      options:
+      - 24x7
+      - daily
+      - weekly
+      required: false
+    - id: 3
+      name: backup_frequency
+      label: Backup Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - daily
+      - weekly
+      - monthly
+      required: false
+    - id: 4
+      name: server_status
+      label: Server Status
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: last_backup_date
+      label: Last Backup Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: backup_size
+      label: Backup Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: monitoring_status
+      label: Monitoring Status
+      hint: null
+      type: select_one
+      options:
+      - enabled
+      - disabled
+      required: false
+    - id: 8
+      name: monitoring_frequency
+      label: Monitoring Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 24x7
+      - daily
+      - weekly
+      required: false
+    - id: 9
+      name: server_location
+      label: Server Location
+      hint: null
+      type: select_one
+      options:
+      - on-premises
+      - cloud
+      - hybrid
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: user_credentials
+      label: User Credentials
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: password
+      label: Password
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: confirm_password
+      label: Confirm Password
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: user_info
+      label: User Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: user_group
+      label: User Group
+      hint: null
+      type: select_one
+      options:
+      - admin
+      - user
+      - guest
+      required: false
+    - id: 19
+      name: user_status
+      label: User Status
+      hint: null
+      type: select_multiple
+      options:
+      - active
+      - inactive
+      - locked
+      required: false
+    - id: 20
+      name: user_type
+      label: User Type
+      hint: null
+      type: select_one
+      options:
+      - internal
+      - external
+      - service
+      required: false
+    - id: 21
+      name: timezone
+      label: Timezone
+      hint: null
+      type: select_one
+      options:
+      - UTC
+      - EST
+      - PST
+      required: false
+    - id: 22
+      name: server_uptime
+      label: Server Uptime
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: server_downtime
+      label: Server Downtime
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: last_login
+      label: Last Login
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: last_logout
+      label: Last Logout
+      hint: null
+      type: date
+      options: []
+      required: false

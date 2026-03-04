@@ -1,0 +1,275 @@
+inputSchema:
+  type: object
+  properties:
+    title: Agriculture Insurance Form
+    pages:
+    - id: 1
+      name: insured_name
+      label: Insured Name
+      hint: Full name of policyholder
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: business_name
+      label: Business or Farm Name
+      hint: Name of agricultural operation
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: policy_number
+      label: Policy Number
+      hint: Existing policy number if applicable
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: policy_type
+      label: Policy Type
+      hint: Type of insurance policy
+      type: select_one
+      options:
+      - New application
+      - Policy renewal
+      - Policy modification
+      - Claim inquiry
+      required: true
+    - id: 5
+      name: insurance_type
+      label: Insurance Coverage Type
+      hint: Select coverage types needed
+      type: select_multiple
+      options:
+      - Crop insurance
+      - Livestock insurance
+      - Farm property
+      - Farm equipment
+      - Liability coverage
+      - Workers compensation
+      - Business interruption
+      - Drought coverage
+      - Flood coverage
+      required: true
+    - id: 6
+      name: street_address
+      label: Street Address
+      hint: Primary farm address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city
+      label: City
+      hint: City
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: state
+      label: State
+      hint: State
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: zip_code
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: farm_size
+      label: Total Farm Acreage
+      hint: Total acres operated
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: crops_insured
+      label: Crops to Insure
+      hint: Select all crops for coverage
+      type: select_multiple
+      options:
+      - Corn
+      - Soybeans
+      - Wheat
+      - Cotton
+      - Rice
+      - Barley
+      - Oats
+      - Hay
+      - Vegetables
+      - Fruits
+      - Nuts
+      - Other
+      required: false
+    - id: 14
+      name: livestock_insured
+      label: Livestock to Insure
+      hint: Select all livestock for coverage
+      type: select_multiple
+      options:
+      - Cattle
+      - Hogs
+      - Sheep
+      - Goats
+      - Poultry
+      - Dairy cattle
+      - Horses
+      - Other
+      - Not applicable
+      required: false
+    - id: 15
+      name: coverage_level
+      label: Desired Coverage Level
+      hint: Level of coverage desired
+      type: select_one
+      options:
+      - Catastrophic (CAT)
+      - 50% coverage
+      - 65% coverage
+      - 75% coverage
+      - 85% coverage
+      required: false
+    - id: 16
+      name: estimated_value
+      label: Estimated Insured Value (USD)
+      hint: Total value to be insured
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: previous_claims
+      label: Previous Insurance Claims
+      hint: Have you filed claims before
+      type: select_one
+      options:
+      - Yes, within 3 years
+      - Yes, more than 3 years ago
+      - No claims history
+      required: true
+    - id: 18
+      name: claims_details
+      label: Claims Details
+      hint: Describe previous claims
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: irrigation_status
+      label: Irrigation Status
+      hint: Is land irrigated
+      type: select_one
+      options:
+      - Fully irrigated
+      - Partially irrigated
+      - Dryland only
+      required: true
+    - id: 20
+      name: conservation_practices
+      label: Conservation Practices
+      hint: Do you use conservation practices
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 21
+      name: farm_ownership
+      label: Farm Ownership
+      hint: Do you own or lease
+      type: select_one
+      options:
+      - Owner
+      - Leasing
+      - Sharecropper
+      - Other arrangement
+      required: true
+    - id: 22
+      name: years_operating
+      label: Years Operating Farm
+      hint: How long have you farmed
+      type: select_one
+      options:
+      - Less than 5 years
+      - 5-10 years
+      - 10-20 years
+      - 20-30 years
+      - More than 30 years
+      required: true
+    - id: 23
+      name: additional_structures
+      label: Additional Structures
+      hint: Select all structures on property
+      type: select_multiple
+      options:
+      - Barns
+      - Silos
+      - Greenhouses
+      - Storage buildings
+      - Equipment sheds
+      - Livestock facilities
+      - Processing facilities
+      - None
+      required: false
+    - id: 24
+      name: desired_deductible
+      label: Desired Deductible Amount
+      hint: Preferred deductible
+      type: select_one
+      options:
+      - $500
+      - $1,000
+      - $2,500
+      - $5,000
+      - $10,000
+      - Not sure
+      required: false
+    - id: 25
+      name: agent_name
+      label: Insurance Agent Name
+      hint: Name of your agent if assigned
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: preferred_contact
+      label: Preferred Contact Method
+      hint: How should we contact you
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - Mail
+      - Text message
+      required: true
+    - id: 27
+      name: signature
+      label: Applicant Signature
+      hint: Digital signature
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: application_date
+      label: Application Date
+      hint: Date of application
+      type: date
+      options: []
+      required: true

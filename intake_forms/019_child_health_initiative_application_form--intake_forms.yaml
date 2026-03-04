@@ -1,0 +1,134 @@
+inputSchema:
+  type: object
+  properties:
+    title: Child Health Initiative Application Form
+    pages:
+    - id: 1
+      name: section_applicant_details
+      label: -- Applicant Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: guardian_name
+      label: Parent or Guardian Name
+      hint: Primary applicant
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact Email Address
+      hint: For application status updates
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Contact Phone Number
+      hint: Daytime number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_program_selection
+      label: -- Program Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: initiative_program
+      label: Initiative Program Requested
+      hint: Select the primary service needed
+      type: select_one
+      options:
+      - label: Nutrition and Meal Support
+        value: nutrition
+      - label: Dental Health Access
+        value: dental
+      - label: Mental Wellness Services
+        value: mental
+      - label: Physical Fitness Grants
+        value: fitness
+      required: true
+    - id: 7
+      name: section_child_eligibility
+      label: -- Child Eligibility --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: child_name
+      label: Child Full Name
+      hint: Student for enrollment
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: child_dob
+      label: Child Date of Birth
+      hint: To confirm program age limits
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: section_financial_info
+      label: -- Financial Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: income_range
+      label: Household Income Range
+      hint: Annual gross income
+      type: select_one
+      options:
+      - label: Under $30,000
+        value: low
+      - label: $30,000 to $60,000
+        value: medium
+      - label: Above $60,000
+        value: high
+      required: true
+    - id: 12
+      name: dependent_count
+      label: Number of dependents in household
+      hint: Children under age 18
+      type: select_one
+      options:
+      - label: 1 to 2
+        value: small
+      - label: 3 to 4
+        value: medium
+      - label: 5 or more
+        value: large
+      required: true
+    - id: 13
+      name: section_justification
+      label: -- Application Justification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: application_reason
+      label: Why are you applying for this initiative?
+      hint: Describe how this program will help your child
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: terms_agreement
+      label: Agree to program terms and conditions?
+      hint: Required for processing
+      type: select_one
+      options:
+      - label: I Agree
+        value: true
+      - label: I Disagree
+        value: false
+      required: true

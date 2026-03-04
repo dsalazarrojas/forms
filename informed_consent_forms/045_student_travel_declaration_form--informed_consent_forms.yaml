@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Travel Declaration Form
+    pages:
+    - id: 1
+      name: student_traveled
+      label: student_traveled
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false
+    - id: 2
+      name: country_traveled_to
+      label: country_traveled_to
+      hint: Country of destination
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: state_traveled_to
+      label: state_traveled_to
+      hint: State of destination
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: traveled_outside_state
+      label: traveled_outside_state
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Within my state''}'
+      - '{''id'': 2, ''label'': ''Outside my state''}'
+      required: false
+    - id: 5
+      name: travel_date
+      label: travel_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: return_date
+      label: return_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: travel_details
+      label: travel_details
+      hint: Provide details of your travel
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_number
+      label: contact_number
+      hint: Contact number of student
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email_address
+      label: email_address
+      hint: Contact email of student
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: student_signature
+      label: student_signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: school_admin_signature
+      label: school_admin_signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: school_admin_comments
+      label: school_admin_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: school_admin_date
+      label: school_admin_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: submitted_on
+      label: submitted_on
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: submitted_by
+      label: submitted_by
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Student''}'
+      - '{''id'': 2, ''label'': ''School Admin''}'
+      required: false

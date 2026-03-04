@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Renewable Energy Project Standards Audit Form
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 2
+      name: project_status
+      label: project_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''In Progress''}'
+      - '{''id'': 2, ''label'': ''Completed''}'
+      - '{''id'': 3, ''label'': ''On Hold''}'
+      required: true
+    - id: 3
+      name: project_location
+      label: project_location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: project_date
+      label: project_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: project_start_date
+      label: project_start_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: project_finish_date
+      label: project_finish_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: project_owner
+      label: project_owner
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: project_contact
+      label: project_contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: project_notes
+      label: project_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: reviewer_comments
+      label: reviewer_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: reviewer_signature
+      label: reviewer_signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: reviewer_name
+      label: reviewer_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: reviewer_title
+      label: reviewer_title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: location_map
+      label: location_map
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: true
+    - id: 15
+      name: location_address
+      label: location_address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: location_postal_code
+      label: location_postal_code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: location_city
+      label: location_city
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: location_state
+      label: location_state
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: location_country
+      label: location_country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: location_notes
+      label: location_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: site_inspection_date
+      label: site_inspection_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: site_inspection_time
+      label: site_inspection_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 23
+      name: site_inspection_location
+      label: site_inspection_location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: site_inspection_notes
+      label: site_inspection_notes
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: site_inspection_status
+      label: site_inspection_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Completed''}'
+      - '{''id'': 2, ''label'': ''Not Completed''}'
+      required: true
+    - id: 26
+      name: site_inspection_reviewer
+      label: site_inspection_reviewer
+      hint: null
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: smart_building_alert_setup_request_form
+    pages:
+    - id: 1
+      name: request_info
+      label: Request Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: building_selection
+      label: Select Building
+      hint: null
+      type: select_one
+      options:
+      - Building A
+      - Building B
+      - Building C
+      required: false
+    - id: 3
+      name: alert_type
+      label: Alert Type
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      - Medium
+      required: false
+    - id: 4
+      name: trigger_type
+      label: Trigger Type
+      hint: null
+      type: select_one
+      options:
+      - Temperature
+      - Humidity
+      - Pressure
+      required: false
+    - id: 5
+      name: notification_preferences
+      label: Notification Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - SMS
+      - Email
+      - Phone
+      required: false
+    - id: 6
+      name: alert_name
+      label: Alert Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: building_notes
+      label: Building Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: trigger_value
+      label: Trigger Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: trigger_value2
+      label: Trigger Value 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: repeat_frequency
+      label: Repeat Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: false

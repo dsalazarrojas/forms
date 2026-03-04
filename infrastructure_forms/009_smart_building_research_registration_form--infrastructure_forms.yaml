@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Smart Building Research Registration Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: building_details
+      label: Building Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: research_interests
+      label: Research Interests
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: participant_email
+      label: Participant Email
+      hint: A valid email address is required
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: participant_phone
+      label: Participant Phone
+      hint: A phone number is required
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: researcher_name
+      label: Researcher Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: researcher_email
+      label: Researcher Email
+      hint: A valid email address is required
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: researcher_phone
+      label: Researcher Phone
+      hint: A phone number is required
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,515 @@
+inputSchema:
+  type: object
+  properties:
+    title: Urban Land Use Assessment
+    pages:
+    - id: 1
+      name: parcel_details
+      label: Parcel Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: land_use
+      label: Land Use
+      hint: null
+      type: select_one
+      options:
+      - Residential
+      - Commercial
+      - Industrial
+      - Agricultural
+      - Open Space
+      required: false
+    - id: 3
+      name: zoning_status
+      label: Zoning Status
+      hint: null
+      type: select_one
+      options:
+      - Residential
+      - Commercial
+      - Industrial
+      - Agricultural
+      - Unknown
+      required: false
+    - id: 4
+      name: parcel_size
+      label: Parcel Size
+      hint: Enter land parcel size in acres
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: parcel_shape
+      label: Parcel Shape
+      hint: null
+      type: select_one
+      options:
+      - Square
+      - Rectangular
+      - Irregular
+      required: false
+    - id: 6
+      name: zoning_regulations
+      label: Zoning Regulations
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: observations
+      label: Observations
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: assigned_project
+      label: Assigned Project
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - other
+      required: false
+    - id: 10
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - other
+      required: false
+    - id: 11
+      name: assigned_date
+      label: Assigned Date
+      hint: Date assigned to the user
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: assigned_time
+      label: Assigned Time
+      hint: Time assigned to the user
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: completed_date
+      label: Completed Date
+      hint: Date completed by the user
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: completed_time
+      label: Completed Time
+      hint: Time completed by the user
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - admin
+      - consultant
+      - user
+      required: false
+    - id: 17
+      name: submitted_date
+      label: Submitted Date
+      hint: Date submitted by the user
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: submitted_time
+      label: Submitted Time
+      hint: Time submitted by the user
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: select_one
+      options:
+      - admin
+      - consultant
+      - user
+      required: false
+    - id: 20
+      name: updated_date
+      label: Updated Date
+      hint: Date updated by the user
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: updated_time
+      label: Updated Time
+      hint: Time updated by the user
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: created_by
+      label: Created By
+      hint: null
+      type: select_one
+      options:
+      - admin
+      - consultant
+      - user
+      required: false
+    - id: 23
+      name: created_date
+      label: Created Date
+      hint: Date created by the user
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: created_time
+      label: Created Time
+      hint: Time created by the user
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: submitted_to
+      label: Submitted To
+      hint: null
+      type: select_one
+      options:
+      - admin
+      - user
+      - other
+      required: false
+    - id: 26
+      name: updated_by_2
+      label: Updated By 2
+      hint: null
+      type: select_one
+      options:
+      - admin
+      - consultant
+      - user
+      required: false
+    - id: 27
+      name: updated_date_2
+      label: Updated Date 2
+      hint: Date updated by 2
+      type: date
+      options: []
+      required: false
+    - id: 28
+      name: updated_time_2
+      label: Updated Time 2
+      hint: Time updated by 2
+      type: time
+      options: []
+      required: false
+    - id: 29
+      name: created_by_2
+      label: Created By 2
+      hint: null
+      type: select_one
+      options:
+      - admin
+      - consultant
+      - user
+      required: false
+    - id: 30
+      name: created_time_2
+      label: Created Time 2
+      hint: Time created by 2
+      type: time
+      options: []
+      required: false
+    - id: 31
+      name: submitted_to_2
+      label: Submitted To 2
+      hint: null
+      type: select_one
+      options:
+      - admin
+      - user
+      - other
+      required: false
+    - id: 32
+      name: updated_by_3
+      label: Updated By 3
+      hint: null
+      type: select_one
+      options:
+      - admin
+      - consultant
+      - user
+      required: false
+    - id: 33
+      name: updated_time_3
+      label: Updated Time 3
+      hint: Time updated by 3
+      type: time
+      options: []
+      required: false
+    - id: 34
+      name: updated_date_3
+      label: Updated Date 3
+      hint: Date updated by 3
+      type: date
+      options: []
+      required: false
+    - id: 35
+      name: created_by_3
+      label: Created By 3
+      hint: null
+      type: select_one
+      options:
+      - admin
+      - consultant
+      - user
+      required: false
+    - id: 36
+      name: created_time_3
+      label: Created Time 3
+      hint: Time created by 3
+      type: time
+      options: []
+      required: false
+    - id: 37
+      name: submitted_to_3
+      label: Submitted To 3
+      hint: null
+      type: select_one
+      options:
+      - admin
+      - user
+      - other
+      required: false
+    - id: 38
+      name: updated_by_4
+      label: Updated By 4
+      hint: null
+      type: select_one
+      options:
+      - admin
+      - consultant
+      - user
+      required: false
+    - id: 39
+      name: updated_date_4
+      label: Updated Date 4
+      hint: Date updated by 4
+      type: date
+      options: []
+      required: false
+    - id: 40
+      name: updated_time_4
+      label: Updated Time 4
+      hint: Time updated by 4
+      type: time
+      options: []
+      required: false
+    - id: 41
+      name: created_by_4
+      label: Created By 4
+      hint: null
+      type: select_one
+      options:
+      - admin
+      - consultant
+      - user
+      required: false
+    - id: 42
+      name: created_time_4
+      label: Created Time 4
+      hint: Time created by 4
+      type: time
+      options: []
+      required: false
+    - id: 43
+      name: submitted_to_4
+      label: Submitted To 4
+      hint: null
+      type: select_one
+      options:
+      - admin
+      - user
+      - other
+      required: false
+    - id: 44
+      name: updated_by_5
+      label: Updated By 5
+      hint: null
+      type: select_one
+      options:
+      - admin
+      - consultant
+      - user
+      required: false
+    - id: 45
+      name: updated_date_5
+      label: Updated Date 5
+      hint: Date updated by 5
+      type: date
+      options: []
+      required: false
+    - id: 46
+      name: updated_time_5
+      label: Updated Time 5
+      hint: Time updated by 5
+      type: time
+      options: []
+      required: false
+    - id: 47
+      name: created_by_5
+      label: Created By 5
+      hint: null
+      type: select_one
+      options:
+      - admin
+      - consultant
+      - user
+      required: false
+    - id: 48
+      name: created_time_5
+      label: Created Time 5
+      hint: Time created by 5
+      type: time
+      options: []
+      required: false
+    - id: 49
+      name: submitted_to_5
+      label: Submitted To 5
+      hint: null
+      type: select_one
+      options:
+      - admin
+      - user
+      - other
+      required: false
+    - id: 50
+      name: updated_by_6
+      label: Updated By 6
+      hint: null
+      type: select_one
+      options:
+      - admin
+      - consultant
+      - user
+      required: false
+    - id: 51
+      name: updated_date_6
+      label: Updated Date 6
+      hint: Date updated by 6
+      type: date
+      options: []
+      required: false
+    - id: 52
+      name: updated_time_6
+      label: Updated Time 6
+      hint: Time updated by 6
+      type: time
+      options: []
+      required: false
+    - id: 53
+      name: created_by_6
+      label: Created By 6
+      hint: null
+      type: select_one
+      options:
+      - admin
+      - consultant
+      - user
+      required: false
+    - id: 54
+      name: created_time_6
+      label: Created Time 6
+      hint: Time created by 6
+      type: time
+      options: []
+      required: false
+    - id: 55
+      name: submitted_to_6
+      label: Submitted To 6
+      hint: null
+      type: select_one
+      options:
+      - admin
+      - user
+      - other
+      required: false
+    - id: 56
+      name: updated_by_7
+      label: Updated By 7
+      hint: null
+      type: select_one
+      options:
+      - admin
+      - consultant
+      - user
+      required: false
+    - id: 57
+      name: updated_date_7
+      label: Updated Date 7
+      hint: Date updated by 7
+      type: date
+      options: []
+      required: false
+    - id: 58
+      name: updated_time_7
+      label: Updated Time 7
+      hint: Time updated by 7
+      type: time
+      options: []
+      required: false
+    - id: 59
+      name: created_by_7
+      label: Created By 7
+      hint: null
+      type: select_one
+      options:
+      - admin
+      - consultant
+      - user
+      required: false
+    - id: 60
+      name: created_time_7
+      label: Created Time 7
+      hint: Time created by 7
+      type: time
+      options: []
+      required: false
+    - id: 61
+      name: submitted_to_7
+      label: Submitted To 7
+      hint: null
+      type: select_one
+      options:
+      - admin
+      - user
+      - other
+      required: false

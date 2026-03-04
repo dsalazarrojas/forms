@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Agricultural Spray Records Checklist
+    pages:
+    - id: 1
+      name: operator_name
+      label: Operator name
+      hint: Person who applied spray
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_application
+      label: Date of application
+      hint: Date when spraying occurred
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: product_used
+      label: Product used
+      hint: Trade or chemical name of product
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: active_ingredient_percent
+      label: Active ingredient percent
+      hint: Concentration if known
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: application_rate
+      label: Application rate per hectare
+      hint: Units per hectare or acre
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: weather_conditions
+      label: Weather conditions
+      hint: Wind, temperature, and rainfall at time of application
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: equipment_used
+      label: Equipment used
+      hint: Sprayer make and model
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: safety_measures_taken
+      label: Safety measures taken
+      hint: PPE used and buffer zones implemented
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: nearby_sensitive_areas
+      label: Nearby sensitive areas
+      hint: Water bodies, schools, or residences nearby
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: record_keeper_signature
+      label: Record keeper acknowledgement
+      hint: Name of person recording the details
+      type: text
+      options: []
+      required: true

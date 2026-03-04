@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: it_remote_work_satisfaction_assessment
+    pages:
+    - id: 1
+      name: intro_page
+      label: intro
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: productivity_page
+      label: productivity
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 3
+      name: support_page
+      label: support
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 4
+      name: improvement_priorities_page
+      label: improvement_priorities
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: productivity_scale
+      label: productivity_scale
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: support_needs
+      label: support_needs
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 7
+      name: comments_page
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: follow_up_plan
+      label: follow_up_plan
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false

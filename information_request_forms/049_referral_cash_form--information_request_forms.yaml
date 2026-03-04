@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Referral Cash Form
+    pages:
+    - id: 1
+      name: referral_cash_form
+      label: Refer a Customer
+      hint: Enter a customer to refer
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: reward_amount
+      label: Select a Reward
+      hint: null
+      type: select_one
+      options:
+      - $10
+      - $20
+      - $50
+      - $100
+      required: false
+    - id: 3
+      name: referral_name
+      label: Your Referral Name
+      hint: Your name of referral
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: customer_name
+      label: Customer's Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: customer_email
+      label: Customer's Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: customer_phone
+      label: Customer's Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: Additional Comments
+      hint: Any additional comments
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: send_email
+      label: Send Email
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 9
+      name: email_sent
+      label: Sent Email
+      hint: null
+      type: select_one
+      options:
+      - Sent
+      - Not Sent
+      required: false
+    - id: 10
+      name: email_message
+      label: Email Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: email_subject
+      label: Email Subject
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: email_body
+      label: Email Body
+      hint: null
+      type: text
+      options: []
+      required: false

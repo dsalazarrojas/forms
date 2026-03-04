@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: Scaffold Handover Certificate
+    pages:
+    - id: 1
+      name: scaffolding_completed
+      label: Is scaffolding completed
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: date_started
+      label: date_started
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: scaffolding_type
+      label: type of scaffolding
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      required: true
+    - id: 4
+      name: scaffolding_location
+      label: scaffolding_location
+      hint: null
+      type: select_one
+      options:
+      - Location 1
+      - Location 2
+      - Location 3
+      - Location 4
+      required: true
+    - id: 5
+      name: scaffolding_details
+      label: scaffolding_details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: scaffolding_acceptance
+      label: scaffolding_acceptance
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      required: true
+    - id: 7
+      name: site_manager_signature
+      label: site_manager_signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: client_signature
+      label: client_signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: date_completed
+      label: date_completed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: completed_by
+      label: completed_by
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: inspection_date
+      label: inspection_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: inspection_by
+      label: inspection_by
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: site_inspector
+      label: site_inspector
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false

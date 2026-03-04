@@ -1,0 +1,223 @@
+inputSchema:
+  type: object
+  properties:
+    title: University Thesis Support Inquiry Form
+    pages:
+    - id: 1
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - University of Science
+      - University of Arts
+      - University of Technology
+      - University of Engineering
+      - University of Education
+      required: true
+    - id: 5
+      name: academic_advisor
+      label: Academic Advisor
+      hint: null
+      type: select_multiple
+      options:
+      - Dr. Smith
+      - Dr. Johnson
+      - Dr. Williams
+      - Dr. Brown
+      - Dr. Davis
+      required: true
+    - id: 6
+      name: thesis_topic
+      label: Thesis Topic
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: expected_completion_date
+      label: Expected Completion Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: current_status
+      label: Current Status
+      hint: null
+      type: select_one
+      options:
+      - In Progress
+      - Completed
+      - Not Started
+      - On Hold
+      - Dissertation
+      required: false
+    - id: 9
+      name: support_request
+      label: Support Request
+      hint: Describe your request and we will follow up with the next steps
+      type: note
+      options: []
+      required: true
+    - id: 10
+      name: follow_up_question
+      label: Follow-up Question
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: submitted_to
+      label: Submitted to
+      hint: null
+      type: select_one
+      options:
+      - Department Head
+      - Academic Advisor
+      - Writing Center
+      - Director
+      - Committee
+      required: false
+    - id: 12
+      name: follow_up_contact
+      label: Follow-up Contact
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Mail
+      - In-person
+      - Video
+      required: false
+    - id: 13
+      name: follow_up_note
+      label: Follow-up Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: follow_up_action
+      label: Follow-up Action
+      hint: null
+      type: select_one
+      options:
+      - Send reminder
+      - Send report
+      - Schedule meeting
+      - Assign task
+      - Follow-up by phone
+      required: false
+    - id: 15
+      name: follow_up_frequency
+      label: Follow-up Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Biweekly
+      - Monthly
+      - Quarterly
+      required: false
+    - id: 16
+      name: follow_up_date
+      label: Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: follow_up_time
+      label: Follow-up Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: follow_up_location
+      label: Follow-up Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: follow_up_note_2
+      label: Follow-up Note 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: submitted_by
+      label: Submitted by
+      hint: null
+      type: select_one
+      options:
+      - User
+      - Auto
+      - Other
+      required: false
+    - id: 21
+      name: submitted_date
+      label: Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: follow_up_contact_2
+      label: Follow-up Contact
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Mail
+      - In-person
+      - Video
+      required: false
+    - id: 23
+      name: follow_up_note_3
+      label: Follow-up Note 3
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: follow_up_comment
+      label: Follow-up Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: form_version
+      label: Form Version
+      hint: null
+      type: text
+      options: []
+      required: false

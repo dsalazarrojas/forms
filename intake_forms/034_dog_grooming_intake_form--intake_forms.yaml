@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dog Grooming Intake Form
+    pages:
+    - id: 1
+      name: dog_owner_information
+      label: Dog Owner Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: dog_details
+      label: Dog Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: dog_hygiene
+      label: Dog Hygiene
+      hint: How often do you bathe your dog?
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: contact_preferences
+      label: Contact Preferences
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Morning''}'
+      - '{''label'': ''Afternoon''}'
+      - '{''label'': ''Evening''}'
+      required: false
+    - id: 5
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: veterinary_info
+      label: Veterinary Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: medical_info
+      label: Medical Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''None''}'
+      - '{''label'': ''Allergies''}'
+      - '{''label'': ''Medications''}'
+      - '{''label'': ''Health Issues''}'
+      required: false
+    - id: 9
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: payment_info
+      label: Payment Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: dog_photo_id
+      label: Dog Photo ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: client_photo_id
+      label: Client Photo ID
+      hint: null
+      type: text
+      options: []
+      required: false

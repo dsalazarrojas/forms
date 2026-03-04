@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: OHS (Occupational Health and Safety) Work Permit Form
+    pages:
+    - id: 1
+      name: site_id
+      label: site id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: hazards_checked
+      label: hazards checked
+      hint: null
+      type: select_one
+      options:
+      - Fire
+      - Flood
+      - Chemical
+      - Physical
+      - Electrical
+      - Structural
+      - Weather
+      - Other
+      required: false
+    - id: 3
+      name: hazard_control_measures
+      label: hazard control measures
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: action_taken
+      label: action taken
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: site_safety_inspector
+      label: site safety inspector
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: site_safety_inspector_signature
+      label: site safety inspector signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: date_completed
+      label: date completed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_completed
+      label: time completed
+      hint: null
+      type: time
+      options: []
+      required: false

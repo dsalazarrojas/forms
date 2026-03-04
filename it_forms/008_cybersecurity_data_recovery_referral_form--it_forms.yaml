@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cybersecurity Data Recovery Referral Form
+    pages:
+    - id: 1
+      name: user_info
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: incident_details
+      label: Incident Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: recovery_plan
+      label: Recovery Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: incident_report
+      label: Incident Report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: incident_status
+      label: Incident Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 6
+      name: incident_priority
+      label: Incident Priority
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: incident_type
+      label: Incident Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: incident_severity
+      label: Incident Severity
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: incident_report_type
+      label: Incident Report Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: incident_report_date
+      label: Incident Report Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: incident_start_date
+      label: Incident Start Date
+      hint: null
+      type: date
+      options: []
+      required: false

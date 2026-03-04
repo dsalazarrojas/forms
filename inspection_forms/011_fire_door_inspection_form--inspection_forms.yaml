@@ -1,0 +1,142 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fire Door Inspection Form
+    pages:
+    - id: 1
+      name: fire_door_inspection_page
+      label: Fire Door Inspection Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: fire_doors
+      label: fire_doors
+      hint: null
+      type: select_multiple
+      options:
+      - Fire Door 1
+      - Fire Door 2
+      - Fire Door 3
+      required: false
+    - id: 3
+      name: fire_door_condition
+      label: fire door condition
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 4
+      name: fire_door_last_inspection
+      label: fire door last inspection
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: fire_door_next_inspection
+      label: fire door next inspection
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: fire_door_inspection_frequency
+      label: fire door inspection frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: fire_door_comments
+      label: fire door comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: fire_exit_inspection_page
+      label: Fire Exit Inspection Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: fire_exits
+      label: fire exits
+      hint: null
+      type: select_multiple
+      options:
+      - Fire Exit 1
+      - Fire Exit 2
+      - Fire Exit 3
+      required: false
+    - id: 10
+      name: fire_exit_condition
+      label: fire exit condition
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 11
+      name: fire_exit_last_inspection
+      label: fire exit last inspection
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: fire_exit_next_inspection
+      label: fire exit next inspection
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: fire_exit_inspection_frequency
+      label: fire exit inspection frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: fire_exit_comments
+      label: fire exit comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Other
+      required: false
+    - id: 16
+      name: skip
+      label: Skip
+      hint: null
+      type: select_one
+      options:
+      - Skip
+      - Other
+      required: false
+    - id: 17
+      name: cancel
+      label: Cancel
+      hint: null
+      type: select_one
+      options:
+      - Cancel
+      - Other
+      required: false

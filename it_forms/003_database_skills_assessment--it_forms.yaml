@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: database_skills_assessment
+    pages:
+    - id: 1
+      name: first_experience
+      label: Has first database experience
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: database_management
+      label: What database management systems are you familiar with
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: database_design
+      label: Which database design model do you prefer
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: data_modeling
+      label: Can you describe your experience with database modeling
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: sql
+      label: Which SQL dialects are you familiar with
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: database_development
+      label: Can you describe your experience with database development
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: sql_skills
+      label: Can you describe your SQL skills
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: database_administration
+      label: What is your experience with database administration
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: data_architecture
+      label: Can you describe your experience with data architecture
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: data_warehouse
+      label: Have you worked with data warehouse
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

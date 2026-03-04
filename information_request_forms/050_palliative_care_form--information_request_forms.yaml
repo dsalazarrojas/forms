@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Palliative Care Form
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: symptoms
+      label: Symptoms
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - None
+      required: false
+    - id: 3
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      required: true
+    - id: 4
+      name: medical_prognosis
+      label: Medical Prognosis
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: treatment_plans
+      label: Treatment Plans
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - None
+      required: true
+    - id: 6
+      name: palliative_care
+      label: Palliative Care
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      required: true
+    - id: 7
+      name: medications
+      label: Medications
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: patient_goals
+      label: Patient Goals
+      hint: null
+      type: text
+      options: []
+      required: false

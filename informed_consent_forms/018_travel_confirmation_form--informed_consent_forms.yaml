@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Travel Confirmation Form
+    pages:
+    - id: 1
+      name: travel_confirmation_form
+      label: Travel Confirmation Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: travel_agency
+      label: travel_agency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: travel_date
+      label: travel_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: travel_time
+      label: travel_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: travel_airline
+      label: travel_airline
+      hint: null
+      type: select_one
+      options:
+      - American
+      - Delta
+      - United
+      required: false
+    - id: 7
+      name: travel_hotel
+      label: travel_hotel
+      hint: null
+      type: select_multiple
+      options:
+      - Hilton
+      - Marriot
+      - Four Seasons
+      required: false
+    - id: 8
+      name: travel_confirmation_method
+      label: travel_confirmation_method
+      hint: null
+      type: select_one
+      options:
+      - phone
+      - email
+      - text
+      required: false
+    - id: 9
+      name: travel_confirmation_date
+      label: travel_confirmation_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: customer_confirmation
+      label: customer_confirmation
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 11
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: customer_notes
+      label: customer_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: travel_agency_confirmation
+      label: travel_agency_confirmation
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

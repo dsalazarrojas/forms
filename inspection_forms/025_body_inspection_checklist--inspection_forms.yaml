@@ -1,0 +1,249 @@
+inputSchema:
+  type: object
+  properties:
+    title: Body Inspection Checklist
+    pages:
+    - id: 1
+      name: inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: inspector_name
+      label: Inspector Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: inspection_type
+      label: Type of Inspection
+      hint: null
+      type: select_one
+      options:
+      - Pre-Competition Medical
+      - Routine Health Screening
+      - Injury Assessment
+      - Return to Play Evaluation
+      - Baseline Assessment
+      - Post-Event Evaluation
+      - Occupational Health
+      - Other
+      required: true
+    - id: 4
+      name: subject_name
+      label: Subject Name
+      hint: Person being inspected
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: subject_age
+      label: Subject Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: subject_gender
+      label: Subject Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      - Prefer Not to Say
+      required: true
+    - id: 7
+      name: general_appearance
+      label: General Appearance
+      hint: Overall health and presentation
+      type: select_one
+      options:
+      - Healthy
+      - Appears Healthy
+      - Appears Unwell
+      - Visibly Distressed
+      - Concerning
+      required: true
+    - id: 8
+      name: skin_condition
+      label: Skin Condition
+      hint: Check for rashes, bruises, wounds
+      type: select_one
+      options:
+      - Normal
+      - Minor Issues
+      - Significant Issues
+      - Requires Treatment
+      - Requires Medical Attention
+      required: true
+    - id: 9
+      name: skin_abnormalities
+      label: Skin Abnormalities Noted
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: head_and_neck
+      label: Head and Neck Examination
+      hint: null
+      type: select_one
+      options:
+      - Normal
+      - Minor Issues
+      - Moderate Issues
+      - Severe Issues
+      - Requires Investigation
+      required: true
+    - id: 11
+      name: head_neck_findings
+      label: Head and Neck Findings
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: eyes_and_vision
+      label: Eyes and Vision
+      hint: null
+      type: select_one
+      options:
+      - Normal
+      - Wears Correction
+      - Vision Concerns
+      - Requires Evaluation
+      required: true
+    - id: 13
+      name: ears_and_hearing
+      label: Ears and Hearing
+      hint: null
+      type: select_one
+      options:
+      - Normal
+      - Minor Concerns
+      - Hearing Issues
+      - Requires Evaluation
+      required: true
+    - id: 14
+      name: cardiovascular_check
+      label: Cardiovascular Check
+      hint: Heart rate and rhythm
+      type: select_one
+      options:
+      - Normal
+      - Elevated Heart Rate
+      - Irregular Rhythm
+      - Abnormal - Requires Medical Evaluation
+      required: true
+    - id: 15
+      name: respiratory_check
+      label: Respiratory Function
+      hint: Breathing and lungs
+      type: select_one
+      options:
+      - Normal
+      - Mild Concerns
+      - Moderate Concerns
+      - Severe - Requires Medical Attention
+      required: true
+    - id: 16
+      name: musculoskeletal_assessment
+      label: Musculoskeletal Assessment
+      hint: Muscles, bones, joints
+      type: select_one
+      options:
+      - Normal
+      - Minor Issues
+      - Moderate Issues
+      - Severe Issues
+      - Requires Treatment
+      required: true
+    - id: 17
+      name: upper_extremities
+      label: Upper Extremities
+      hint: Arms, shoulders, hands
+      type: select_one
+      options:
+      - Normal
+      - Minor Issues
+      - Moderate Issues
+      - Severe Issues
+      required: true
+    - id: 18
+      name: lower_extremities
+      label: Lower Extremities
+      hint: Legs, hips, feet
+      type: select_one
+      options:
+      - Normal
+      - Minor Issues
+      - Moderate Issues
+      - Severe Issues
+      required: true
+    - id: 19
+      name: neurological_check
+      label: Neurological Check
+      hint: Reflexes, coordination, consciousness
+      type: select_one
+      options:
+      - Normal
+      - Minor Concerns
+      - Moderate Concerns
+      - Severe Concerns
+      required: true
+    - id: 20
+      name: temperature_reading
+      label: Temperature Reading (Fahrenheit)
+      hint: Oral or other method
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: blood_pressure
+      label: Blood Pressure
+      hint: Systolic/Diastolic
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: injury_assessment
+      label: Any Injuries Present
+      hint: null
+      type: select_one
+      options:
+      - No Injuries
+      - Minor Injuries
+      - Moderate Injuries
+      - Severe Injuries
+      required: true
+    - id: 23
+      name: injury_details
+      label: Injury Details
+      hint: Location, type, severity
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: overall_health_status
+      label: Overall Health Status
+      hint: null
+      type: select_one
+      options:
+      - Cleared for Activity
+      - Cleared with Restrictions
+      - Not Cleared - Requires Treatment
+      - Not Cleared - Requires Medical Referral
+      - Requires Follow-up
+      required: true
+    - id: 25
+      name: recommendations
+      label: Recommendations
+      hint: What should be done
+      type: text
+      options: []
+      required: false

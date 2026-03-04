@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: life_insurance_quote_request_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: insurance_type
+      label: Insurance Type
+      hint: null
+      type: select_one
+      options:
+      - Life Insurance
+      - Term Insurance
+      - Universal Insurance
+      required: false
+    - id: 7
+      name: coverage_period
+      label: Coverage Period
+      hint: null
+      type: select_multiple
+      options:
+      - Short-Term
+      - Long-Term
+      required: true
+    - id: 8
+      name: insurance_amount
+      label: Insurance Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: agent_name
+      label: Agent Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: agent_email
+      label: Agent Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: agent_phone
+      label: Agent Phone
+      hint: null
+      type: text
+      options: []
+      required: false

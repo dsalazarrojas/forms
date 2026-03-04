@@ -1,0 +1,72 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Compactor Inspection Checklist
+    pages:
+      - id: 1
+        name: inspector_name
+        label: Inspector name
+        hint: Person conducting the inspection
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: inspection_date
+        label: Inspection date
+        hint: Date of inspection
+        type: date
+        options: []
+        required: true
+      - id: 3
+        name: compactor_id
+        label: Compactor identifier
+        hint: Serial number or location code
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: visual_check
+        label: Visual condition check
+        hint: Is the unit in good visible condition
+        type: select_one
+        options: [Pass, Fail, Needs maintenance]
+        required: true
+      - id: 5
+        name: safety_features
+        label: Safety features operational
+        hint: E stop, guards, signage
+        type: select_one
+        options: [Yes, No]
+        required: true
+      - id: 6
+        name: hydraulic_checks
+        label: Hydraulic system condition
+        hint: Leaks, pressure, noises
+        type: select_one
+        options: [Good, Attention required, Critical]
+        required: true
+      - id: 7
+        name: recommended_actions
+        label: Recommended actions
+        hint: Next steps for maintenance
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: maintenance_scheduled
+        label: Maintenance scheduled
+        hint: Date if maintenance has been scheduled
+        type: date
+        options: []
+        required: false

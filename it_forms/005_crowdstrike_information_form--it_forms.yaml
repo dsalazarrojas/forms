@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: CrowdStrike Information Form
+    pages:
+    - id: 1
+      name: user_info
+      label: first-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: user_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: security_insights
+      label: security-insights
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: product_services
+      label: product-services
+      hint: null
+      type: select_multiple
+      options:
+      - cloud-based
+      - on-premises
+      required: false
+    - id: 5
+      name: company_name
+      label: company-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: company_url
+      label: company-url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_person
+      label: contact-person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: phone_number
+      label: phone-number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false

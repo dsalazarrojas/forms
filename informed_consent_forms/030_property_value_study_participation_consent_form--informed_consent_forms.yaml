@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: property_value_study_participation_consent_form
+    pages:
+    - id: 1
+      name: study_participant_details
+      label: Study Participant Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: property_details
+      label: Property Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: consent
+      label: Consent
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: study_purpose
+      label: Study Purpose
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: participant_informed_consent
+      label: Participant Informed Consent
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: researcher_details
+      label: Researcher Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: study_participants
+      label: Study Participants
+      hint: null
+      type: select_multiple
+      options:
+      - Property Owner
+      - Property Manager
+      - Researcher
+      required: true
+    - id: 9
+      name: participant_agree
+      label: Participant Agreed
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 10
+      name: participant_agree_date
+      label: Participant Agreed Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: researcher_agree
+      label: Researcher Agreed
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 12
+      name: researcher_agree_date
+      label: Researcher Agreed Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: property_value
+      label: Property Value
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: property_number
+      label: Property Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: survey_type
+      label: Survey Type
+      hint: null
+      type: select_multiple
+      options:
+      - Valuation
+      - Market Study
+      - Feasibility Study
+      required: true
+    - id: 21
+      name: participant_survey
+      label: Participant Survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: researcher_survey
+      label: Researcher Survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: property_value_currency
+      label: Property Value Currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - CAD
+      required: true
+    - id: 24
+      name: survey_date
+      label: Survey Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: participant_comments
+      label: Participant Comments
+      hint: null
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Machine Safety Evaluation Registration
+    pages:
+    - id: 1
+      name: machine_safety_evaluation_registration_form
+      label: Machine Safety Evaluation
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: hazard_id
+      label: Hazard
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: machine_id
+      label: Machine
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: safety_manager
+      label: Safety Manager
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: inspection_time
+      label: Inspection Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: facility_id
+      label: Facility
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: compliance_status
+      label: Compliance Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

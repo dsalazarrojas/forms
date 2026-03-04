@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Legal Researcher Interview Form
+    pages:
+    - id: 1
+      name: candidate_details
+      label: Candidate Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: candidate_experience
+      label: How many years of legal research experience do you have?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: research_skills
+      label: Which research skills have you used in your previous roles?
+      hint: null
+      type: select_multiple
+      options:
+      - Legal Research
+      - Document Review
+      - Document Analysis
+      required: false
+    - id: 4
+      name: education_background
+      label: Education Background
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: law_degree
+      label: What degree do you hold in law?
+      hint: null
+      type: select_one
+      options:
+      - LL.B
+      - LLM
+      - LLM and Barrister
+      - LL.B and Barrister
+      - Other
+      required: false
+    - id: 6
+      name: employment_status
+      label: Employment status
+      hint: null
+      type: select_one
+      options:
+      - Employed
+      - Freelance
+      - Self-Employed
+      - Retired
+      - Unemployed
+      required: false
+    - id: 7
+      name: available_to_start
+      label: Available to Start
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

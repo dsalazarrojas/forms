@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Rental Property Inquiry Form
+    pages:
+    - id: 1
+      name: rental_property_inquiry_form
+      label: Rental Property Inquiry Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: preferred_location
+      label: Preferred Location
+      hint: null
+      type: select_multiple
+      options:
+      - Downtown
+      - Uptown
+      - Anywhere
+      required: true
+    - id: 6
+      name: preferred_location_option_a
+      label: Downtown
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: preferred_location_option_b
+      label: Uptown
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: amenities
+      label: Amenities
+      hint: null
+      type: select_multiple
+      options:
+      - pool
+      - gym
+      - parking
+      required: true
+    - id: 9
+      name: amenities_option_a
+      label: Pool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: amenities_option_b
+      label: Gym
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: amenities_option_c
+      label: Parking
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: terms_and_conditions
+      label: Terms and Conditions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - residential
+      - prophets
+      required: true
+    - id: 14
+      name: property_type_option_a
+      label: Residential
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: property_type_option_b
+      label: Prophets
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: property_price
+      label: Property Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: property_price_from
+      label: From_goals
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: property_price_to
+      label: To_goals
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: lease_start_date
+      label: Lease Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: lease_end_date
+      label: Lease End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: property_description
+      label: Property Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: property_image
+      label: Property Image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: rental_agent_details
+      label: Rental Agent Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: terms_and_conditions
+      label: Terms and Conditions
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,47 @@
+inputSchema:
+  type: object
+  properties:
+    title: Investor Relationship Registration Form
+    pages:
+    - id: 1
+      name: investment_instruments
+      label: investment_instruments
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: investment_instrument
+      label: investment_instrument
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 5
+      name: prophets
+      label: prophet
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

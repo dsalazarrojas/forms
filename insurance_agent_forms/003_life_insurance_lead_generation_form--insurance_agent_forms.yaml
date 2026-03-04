@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: life_insurance_lead_generation_form
+    pages:
+    - id: 1
+      name: lead_generation
+      label: Lead Generation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: contact_info
+      label: contact
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 3
+      name: policy_interest
+      label: policy_interest
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 4
+      name: customer_info
+      label: customer
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 5
+      name: policy_benefit
+      label: policy_benefit
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 6
+      name: customer_relationship
+      label: customer_relationship
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 7
+      name: policy_deduction
+      label: policy_deduction
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 8
+      name: contact_method
+      label: contact_method
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 9
+      name: insurance_product
+      label: insurance_product
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 10
+      name: customer_note
+      label: customer_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: policy_note
+      label: policy_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: agent_note
+      label: agent_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: customer_question
+      label: customer_question
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: policy_question
+      label: policy_question
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: customer_age
+      label: age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: customer_income
+      label: income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: customer_employment_status
+      label: employment_status
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: customer_occupation
+      label: occupation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: customer_phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: policy_phone
+      label: policy_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 22
+      name: policy_email
+      label: policy_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 23
+      name: customer_address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: agent_comment
+      label: comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: form_submission
+      label: submission
+      hint: null
+      type: text
+      options: []
+      required: true

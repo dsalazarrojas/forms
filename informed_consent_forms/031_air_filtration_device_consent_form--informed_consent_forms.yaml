@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Air Filtration Device Consent Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant name
+      hint: Full name of participant
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_email
+      label: Contact email
+      hint: For confirmation and records
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: intervention_description
+      label: Description of testing or installation
+      hint: What the device will do and how it is installed
+      type: note
+      options: []
+      required: true
+    - id: 4
+      name: benefits_and_risks
+      label: Benefits and risks summary
+      hint: Summary of expected benefits and any potential risks
+      type: note
+      options: []
+      required: true
+    - id: 5
+      name: consent_given
+      label: Consent given
+      hint: Participant agreement to proceed with device testing or installation
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 6
+      name: data_privacy
+      label: Data privacy and usage
+      hint: How collected data will be used and stored
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: contact_phone
+      label: Contact phone
+      hint: Phone for urgent contact if needed
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: signature_date
+      label: Date of consent
+      hint: Date the consent was provided
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: additional_questions
+      label: Additional questions or concerns
+      hint: Allow participant to note any questions
+      type: text
+      options: []
+      required: false

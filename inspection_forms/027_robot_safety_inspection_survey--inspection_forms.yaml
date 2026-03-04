@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: <string>
+    pages:
+    - id: 1
+      name: facility_location
+      label: facility_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: safety_inspector
+      label: safety_inspector
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: inspection_date
+      label: inspection_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: hazard_reported
+      label: hazard.reported
+      hint: null
+      type: select_one
+      options:
+      - Hazard 1
+      - Hazard 2
+      required: false
+    - id: 5
+      name: hazard_severity
+      label: hazard_severity
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 6
+      name: action_taken
+      label: action_taken
+      hint: null
+      type: select_multiple
+      options:
+      - No action
+      - Repair
+      - Replacement
+      - Other
+      required: false
+    - id: 7
+      name: maintenance_status
+      label: maintenance_status
+      hint: null
+      type: select_multiple
+      options:
+      - Up-to-Date
+      - Not Applicable
+      - Unknown
+      required: false
+    - id: 8
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: robot_number
+      label: robot_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: robot_name
+      label: robot_name
+      hint: null
+      type: text
+      options: []
+      required: false

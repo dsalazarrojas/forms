@@ -1,0 +1,142 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tristone Financial Intake Form
+    pages:
+    - id: 1
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: medical_history_details
+      label: Medical History Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: medical_history_date
+      label: Medical History Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: medical_history_time
+      label: Medical History Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: symptoms
+      label: Symptoms
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: medical_insurance
+      label: Medical Insurance
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Medicare''}'
+      - '{''name'': ''Medicaid''}'
+      - '{''name'': ''None''}'
+      required: false
+    - id: 11
+      name: allergies
+      label: Allergies
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''Penicillin''}'
+      - '{''name'': ''Ibuprofen''}'
+      - '{''name'': ''Aspirin''}'
+      required: false
+    - id: 12
+      name: medications
+      label: Medications
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''Atenolol''}'
+      - '{''name'': ''Ibuprofen''}'
+      - '{''name'': ''Aspirin''}'
+      required: false
+    - id: 13
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''Diabetes''}'
+      - '{''name'': ''Asthma''}'
+      - '{''name'': ''Epilepsy''}'
+      required: false
+    - id: 14
+      name: medical_procedure
+      label: Medical Procedure
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: medical_procedure_detail
+      label: Medical Procedure Detail
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: follow_up_instructions
+      label: Follow Up Instructions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: insurance_info
+      label: Insurance Info
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sewer Issues And Pest Control Request
+    pages:
+    - id: 1
+      name: form_data
+      label: Sewer Issues And Pest Control Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: issue_description
+      label: Issue Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: issue_type
+      label: Issue Type
+      hint: null
+      type: select_one
+      options:
+      - Pest Control
+      - Sewer Issue
+      - Maintenance
+      required: false
+    - id: 4
+      name: issue_priority
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      - Medium
+      required: false
+    - id: 5
+      name: issue_location
+      label: Issue Location
+      hint: null
+      type: select_one
+      options:
+      - Office
+      - Home
+      - Other
+      required: false
+    - id: 6
+      name: issue_details
+      label: Issue Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: attached_photos
+      label: Attached Photos
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: issue_uptime
+      label: Issue Uptime
+      hint: null
+      type: time
+      options: []
+      required: false

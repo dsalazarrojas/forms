@@ -1,0 +1,418 @@
+inputSchema:
+  type: object
+  properties:
+    title: Car Insurance Quotation Form
+    pages:
+    - id: 1
+      name: applicant_information
+      label: Applicant Information
+      hint: Your personal details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: Your date of birth
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: gender
+      label: Gender
+      hint: Your gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      - Prefer not to say
+      required: true
+    - id: 6
+      name: marital_status
+      label: Marital Status
+      hint: Your marital status
+      type: select_one
+      options:
+      - Single
+      - Married
+      - Divorced
+      - Widowed
+      required: true
+    - id: 7
+      name: email
+      label: Email Address
+      hint: For quote delivery
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: address
+      label: Street Address
+      hint: Your address
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: city
+      label: City
+      hint: Your city
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: state
+      label: State
+      hint: Your state
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: zip_code
+      label: ZIP Code
+      hint: Your ZIP code
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: drivers_license
+      label: Driver's License Number
+      hint: Your license number
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: license_state
+      label: License State
+      hint: State that issued your license
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: vehicle_information
+      label: Vehicle Information
+      hint: Details about vehicles to insure
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: number_of_vehicles
+      label: Number of Vehicles
+      hint: How many vehicles to insure?
+      type: select_one
+      options:
+      - 1
+      - 2
+      - 3
+      - 4 or more
+      required: true
+    - id: 17
+      name: vehicle_1_year
+      label: Vehicle 1 Year
+      hint: Year
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: vehicle_1_make
+      label: Vehicle 1 Make
+      hint: Manufacturer
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: vehicle_1_model
+      label: Vehicle 1 Model
+      hint: Model
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: vehicle_1_vin
+      label: Vehicle 1 VIN
+      hint: Vehicle Identification Number
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: vehicle_1_mileage
+      label: Vehicle 1 Annual Mileage
+      hint: Estimated miles driven per year
+      type: select_one
+      options:
+      - Under 5,000
+      - 5,000-10,000
+      - 10,001-15,000
+      - 15,001-20,000
+      - Over 20,000
+      required: true
+    - id: 22
+      name: vehicle_1_use
+      label: Vehicle 1 Primary Use
+      hint: How is the vehicle used?
+      type: select_one
+      options:
+      - Personal/Commute
+      - Business
+      - Commercial
+      - Pleasure only
+      required: true
+    - id: 23
+      name: vehicle_2_year
+      label: Vehicle 2 Year
+      hint: Year (if applicable)
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: vehicle_2_make
+      label: Vehicle 2 Make
+      hint: Manufacturer
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: vehicle_2_model
+      label: Vehicle 2 Model
+      hint: Model
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: drivers_information
+      label: Drivers Information
+      hint: All drivers to be covered
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: number_of_drivers
+      label: Number of Drivers
+      hint: How many drivers?
+      type: select_one
+      options:
+      - 1
+      - 2
+      - 3
+      - 4 or more
+      required: true
+    - id: 28
+      name: driver_2_name
+      label: Driver 2 Name
+      hint: Full name
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: driver_2_relationship
+      label: Driver 2 Relationship
+      hint: Relationship to applicant
+      type: select_one
+      options:
+      - Spouse
+      - Child
+      - Parent
+      - Sibling
+      - Other relative
+      - Non-relative
+      required: false
+    - id: 30
+      name: driver_2_dob
+      label: Driver 2 Date of Birth
+      hint: Date of birth
+      type: date
+      options: []
+      required: false
+    - id: 31
+      name: driving_history
+      label: Driving History
+      hint: Your driving record
+      type: note
+      options: []
+      required: false
+    - id: 32
+      name: accidents_last_3_years
+      label: Accidents in Last 3 Years
+      hint: Number of at-fault accidents
+      type: select_one
+      options:
+      - None
+      - 1
+      - 2
+      - 3 or more
+      required: true
+    - id: 33
+      name: violations_last_3_years
+      label: Violations in Last 3 Years
+      hint: Traffic tickets/violations
+      type: select_one
+      options:
+      - None
+      - 1
+      - 2
+      - 3 or more
+      required: true
+    - id: 34
+      name: dui_history
+      label: DUI/DWI History
+      hint: Any DUI/DWI convictions?
+      type: select_one
+      options:
+      - false
+      - Yes - within 3 years
+      - Yes - over 3 years ago
+      required: true
+    - id: 35
+      name: license_suspension
+      label: License Suspension History
+      hint: Any suspensions or revocations?
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 36
+      name: current_insurance
+      label: Current Insurance
+      hint: Your current coverage status
+      type: note
+      options: []
+      required: false
+    - id: 37
+      name: currently_insured
+      label: Currently Insured
+      hint: Do you have current insurance?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 38
+      name: current_carrier
+      label: Current Insurance Carrier
+      hint: Company name
+      type: text
+      options: []
+      required: false
+    - id: 39
+      name: coverage_lapse
+      label: Coverage Lapse
+      hint: Any gaps in coverage?
+      type: select_one
+      options:
+      - No lapse
+      - Less than 30 days
+      - 30-90 days
+      - Over 90 days
+      required: true
+    - id: 40
+      name: coverage_preferences
+      label: Coverage Preferences
+      hint: Desired coverage types
+      type: note
+      options: []
+      required: false
+    - id: 41
+      name: liability_coverage
+      label: Liability Coverage Desired
+      hint: Coverage level
+      type: select_one
+      options:
+      - State minimum
+      - 50/100/50
+      - 100/300/100
+      - 250/500/250
+      - Unsure
+      required: true
+    - id: 42
+      name: collision_coverage
+      label: Collision Coverage
+      hint: Do you want collision coverage?
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 43
+      name: comprehensive_coverage
+      label: Comprehensive Coverage
+      hint: Do you want comprehensive coverage?
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 44
+      name: deductible_preference
+      label: Deductible Preference
+      hint: Preferred deductible amount
+      type: select_one
+      options:
+      - $250
+      - $500
+      - $1,000
+      - $2,000
+      - Unsure
+      required: true
+    - id: 45
+      name: additional_coverages
+      label: Additional Coverages
+      hint: Any additional coverages?
+      type: select_multiple
+      options:
+      - Uninsured/Underinsured Motorist
+      - Medical Payments
+      - Personal Injury Protection
+      - Roadside Assistance
+      - Rental Reimbursement
+      - Gap Insurance
+      - None
+      required: false
+    - id: 46
+      name: quote_delivery
+      label: Quote Delivery Preference
+      hint: How should we send your quote?
+      type: select_one
+      options:
+      - Email
+      - Phone call
+      - Text message
+      - Mail
+      required: true
+    - id: 47
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false
+    - id: 48
+      name: quote_date
+      label: Quote Request Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true

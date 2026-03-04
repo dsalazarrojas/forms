@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Inquiry Call Request Form
+    pages:
+    - id: 1
+      name: inquiry_call_request_form_fields
+      label: Inquiry Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: inquiry_type
+      label: Request Type
+      hint: null
+      type: select_one
+      options:
+      - Sales
+      - Support
+      - Service
+      required: false
+    - id: 3
+      name: schedule_call
+      label: Schedule Call
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: inquiry_details
+      label: Inquiry Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: additional_notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: inquiry_call_request_form_submitter
+      label: Submitter
+      hint: null
+      type: select_multiple
+      options:
+      - Sales
+      - Support
+      - Service
+      required: false

@@ -1,0 +1,217 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Internet Quote Form
+    pages:
+    - id: 1
+      name: business_name
+      label: Business Name
+      hint: Legal name of your business
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_name
+      label: Contact Name
+      hint: Primary contact person
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact Email
+      hint: Email for quote delivery
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Contact Phone
+      hint: Direct phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: business_address
+      label: Service Address
+      hint: Full address where service is needed
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: service_type
+      label: Service Type Needed
+      hint: Type of internet service required
+      type: select_one
+      options:
+      - Fiber optic
+      - Cable
+      - DSL
+      - Satellite
+      - Fixed wireless
+      - Dedicated ethernet
+      - Not sure
+      required: true
+    - id: 7
+      name: business_type
+      label: Business Type
+      hint: Industry classification
+      type: select_one
+      options:
+      - Office
+      - Retail
+      - Restaurant
+      - Healthcare
+      - Education
+      - Manufacturing
+      - Warehouse
+      - Home office
+      - Other
+      required: true
+    - id: 8
+      name: employee_count
+      label: Number of Employees
+      hint: Employees at this location
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: current_provider
+      label: Current Internet Provider
+      hint: Name of current ISP if any
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: current_speed
+      label: Current Download Speed
+      hint: Your current download speed in Mbps
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: speed_requirements
+      label: Required Download Speed
+      hint: Minimum download speed needed
+      type: select_one
+      options:
+      - Up to 25 Mbps
+      - 25-100 Mbps
+      - 100-500 Mbps
+      - 500 Mbps - 1 Gbps
+      - 1+ Gbps
+      - Not sure
+      required: true
+    - id: 12
+      name: upload_speed_requirements
+      label: Required Upload Speed
+      hint: Minimum upload speed needed
+      type: select_one
+      options:
+      - Up to 5 Mbps
+      - 5-20 Mbps
+      - 20-50 Mbps
+      - 50-100 Mbps
+      - 100+ Mbps
+      - Not sure
+      required: true
+    - id: 13
+      name: usage_patterns
+      label: Primary Internet Usage
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Email and web browsing
+      - Video conferencing
+      - Cloud applications
+      - Large file transfers
+      - Video streaming
+      - VoIP phone system
+      - Customer wifi
+      - Server hosting
+      required: true
+    - id: 14
+      name: number_of_devices
+      label: Number of Connected Devices
+      hint: Approximate devices that will connect
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: reliability_requirements
+      label: Reliability Requirements
+      hint: How critical is uptime for your business
+      type: select_one
+      options:
+      - Mission critical - 99.99 percent uptime
+      - Very important - 99.9 percent uptime
+      - Important - 99 percent uptime
+      - Standard availability acceptable
+      required: true
+    - id: 16
+      name: backup_connection
+      label: Backup Internet Connection
+      hint: Do you have or need a backup connection
+      type: select_one
+      options:
+      - Have backup already
+      - Need backup solution
+      - Not needed
+      required: true
+    - id: 17
+      name: contract_preference
+      label: Contract Term Preference
+      hint: Preferred contract length
+      type: select_one
+      options:
+      - Month-to-month
+      - 1 year
+      - 2 years
+      - 3 years
+      - Flexible
+      required: true
+    - id: 18
+      name: budget_range
+      label: Monthly Budget Range
+      hint: Expected monthly budget for internet
+      type: select_one
+      options:
+      - Under $100
+      - $100-$250
+      - $250-$500
+      - $500-$1000
+      - Over $1000
+      required: false
+    - id: 19
+      name: installation_timeline
+      label: Installation Timeline
+      hint: When do you need service
+      type: select_one
+      options:
+      - Immediately
+      - Within 1 week
+      - Within 2 weeks
+      - Within 1 month
+      - Flexible
+      required: true
+    - id: 20
+      name: additional_services
+      label: Additional Services Interested In
+      hint: Select other services of interest
+      type: select_multiple
+      options:
+      - Static IP addresses
+      - Managed router
+      - Network security
+      - Web hosting
+      - Email hosting
+      - VoIP phone service
+      - None
+      required: false
+    - id: 21
+      name: special_requirements
+      label: Special Requirements
+      hint: Any special needs or considerations
+      type: text
+      options: []
+      required: false

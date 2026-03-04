@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Desk Review Appraisal Form
+    pages:
+    - id: 1
+      name: general_info
+      label: General Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: property_info
+      label: Property Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: contact_address
+      label: Contact Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - Single Family
+      - Multi Family
+      - Condo
+      - Townhouse
+      - Apartment
+      - Commercial
+      required: true
+    - id: 10
+      name: property_status
+      label: Property Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Sold
+      - Leased
+      - Bank Owned
+      - Bank Owned/Leased
+      - Bank Owned/Sold
+      required: true
+    - id: 11
+      name: property_value
+      label: Property Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: property_year_built
+      label: Property Year Built
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: property_size
+      label: Property Size
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: property_sqft
+      label: Property SqFt
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: property_notes
+      label: Property Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: general_comments
+      label: General Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: property_photos
+      label: Property Photos
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 18
+      name: appraisal_date
+      label: Appraisal Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: appraisal_time
+      label: Appraisal Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: appraisal_notes
+      label: Appraisal Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: review_time
+      label: Review Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: review_notes
+      label: Review Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: review_signature
+      label: Review Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: review_date_submitted
+      label: Date Submitted
+      hint: null
+      type: date
+      options: []
+      required: false

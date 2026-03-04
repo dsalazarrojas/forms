@@ -1,0 +1,121 @@
+inputSchema:
+  type: object
+  properties:
+    title: virtual doulas consent form
+    pages:
+    - id: 1
+      name: general_information
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_contact_details
+      label: Client Contact Details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: doula_contact_details
+      label: Doula Contact Details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: payment_information
+      label: Payment Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: payment_methods
+      label: Payment Methods
+      hint: null
+      type: select_one
+      options:
+      - Credit
+      - Debit
+      - Bank Transfer
+      required: true
+    - id: 6
+      name: payment_terms_and_conditions
+      label: Payment Terms and Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: payment_method_details
+      label: Payment Method Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: client_agreement
+      label: Client Agreement
+      hint: null
+      type: select_one
+      options:
+      - Accept
+      - Decline
+      required: true
+    - id: 9
+      name: client_signature
+      label: Client Signature
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: doula_information
+      label: Doula Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: birth_information
+      label: Birth Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: birth_plan
+      label: Birth Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: birth_preferences
+      label: Birth Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: postpartum_care
+      label: Postpartum Care
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: postpartum_support
+      label: Postpartum Support
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vascular Health Assessment Form
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: vascular_symptoms
+      label: Vascular Symptoms
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''None''}'
+      - '{''label'': ''Chest Pain''}'
+      - '{''label'': ''Arm Weakness''}'
+      - '{''label'': ''Shortness of Breath''}'
+      - '{''label'': ''Dizziness''}'
+      - '{''label'': ''Fatigue''}'
+      - '{''label'': ''Pain in Legs''}'
+      - '{''label'': ''Pain in Back''}'
+      - '{''label'': ''Swelling''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 4
+      name: consent
+      label: Consent
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: vascular_ratings
+      label: Vascular Ratings
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: blood_pressure
+      label: Blood Pressure
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: medications
+      label: Medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: allergies
+      label: Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: vital_signs
+      label: Vital Signs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: patient_notes
+      label: Patient Notes
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,96 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: tb_screening_assessment_form
+    pages:
+    - id: 1
+      name: patient_identification
+      label: Patient Identification
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_history
+      label: medical_history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: tuberculosis_exposure
+      label: tuberculosis_exposure
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option_1'': ''Exposure by contact with a known TB case''}'
+      - '{''option_2'': ''Exposure in a high-risk area''}'
+      - '{''option_3'': ''Exposure through travel to a high-risk area''}'
+      required: true
+    - id: 4
+      name: symptoms
+      label: symptoms
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option_1'': ''Coughing or spitting up blood''}'
+      - '{''option_2'': ''Persistent coughing''}'
+      - '{''option_3'': ''Night sweats''}'
+      - '{''option_4'': ''Unexplained weight loss''}'
+      required: true
+    - id: 5
+      name: travel_history
+      label: travel_history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: select_one
+      options:
+      - '{''option_1'': ''Phone''}'
+      - '{''option_2'': ''Email''}'
+      - '{''option_3'': ''None''}'
+      required: true
+    - id: 7
+      name: healthcare_provider_name
+      label: healthcare_provider_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: healthcare_provider_contact
+      label: healthcare_provider_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: additional_notes
+      label: additional_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: date_last_seen
+      label: date_last_seen
+      hint: null
+      type: date
+      options: []
+      required: false

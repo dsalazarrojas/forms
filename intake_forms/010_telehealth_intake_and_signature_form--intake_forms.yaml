@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: Telehealth Intake And Signature Form
+    pages:
+    - id: 1
+      name: patient_information
+      label: Patient Information
+      hint: Please provide patient information
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: consent
+      label: Consent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: sign_date
+      label: Sign Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: sign_time
+      label: Sign Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: provider_name
+      label: Provider Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: practice_name
+      label: Practice Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: provider_signature
+      label: Provider Signature
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: patient_signature
+      label: Patient Signature
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: practice_signature
+      label: Practice Signature
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: consent_text
+      label: Consent Text
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: consent_date
+      label: Consent Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: consent_time
+      label: Consent Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: consent_signature
+      label: Consent Signature
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: telehealth_signature
+      label: Telehealth Signature
+      hint: null
+      type: number
+      options: []
+      required: false

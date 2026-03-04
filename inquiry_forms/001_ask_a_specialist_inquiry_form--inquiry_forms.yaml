@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ask A Specialist Inquiry Form
+    pages:
+    - id: 1
+      name: inquiry_section_header
+      label: -- Inquiry Information --
+      hint: Please provide details about your request
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: specialist_category
+      label: Area of Expertise Required
+      hint: Select the department or specialist type you wish to contact
+      type: select_one
+      options:
+      - Technical Support
+      - Product Consultation
+      - Billing and Finance
+      - Legal Compliance
+      - Strategic Planning
+      required: true
+    - id: 3
+      name: inquiry_subject
+      label: Subject of Inquiry
+      hint: A brief summary of your request
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: detailed_description
+      label: Detailed Question or Request
+      hint: Provide as much detail as possible to help our specialist prepare
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: urgency_level
+      label: Urgency Level
+      hint: How quickly do you need a response
+      type: select_one
+      options:
+      - Low - General inquiry
+      - Medium - Within 2-3 business days
+      - High - Urgent response needed
+      - Critical - Immediate assistance required
+      required: true
+    - id: 6
+      name: contact_info_header
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: email_address
+      label: Email Address
+      hint: example@domain.com
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: phone_number
+      label: Phone Number
+      hint: Include country code if applicable
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: organization_name
+      label: Organization or Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: How should we reach out to you
+      type: select_one
+      options:
+      - Email
+      - Phone Call
+      - Video Conference
+      required: true
+    - id: 12
+      name: data_consent
+      label: I consent to the processing of my personal data for this inquiry
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

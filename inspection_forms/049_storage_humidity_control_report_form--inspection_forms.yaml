@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Storage Humidity Control Report Form
+    pages:
+    - id: 1
+      name: storage_humidity_control_report_form
+      label: Storage Humidity Control Report Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: temperature
+      label: Temperature
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: humidity
+      label: Humidity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: corrective_action_taken
+      label: Corrective Action Taken
+      hint: null
+      type: select_one
+      options:
+      - Corrective Action 1
+      - Corrective Action 2
+      - Corrective Action 3
+      required: false
+    - id: 6
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: facility_name
+      label: Facility Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

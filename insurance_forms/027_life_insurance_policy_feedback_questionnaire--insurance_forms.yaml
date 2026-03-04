@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Life Insurance Policy Feedback Questionnaire
+    pages:
+    - id: 1
+      name: policy_number
+      label: Enter Policy Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: policy_provider
+      label: Policy Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: policy_type
+      label: What type of policy?
+      hint: null
+      type: select_one
+      options:
+      - Whole life
+      - Term life
+      - Universal life
+      - Variable life
+      required: true
+    - id: 4
+      name: policy_status
+      label: Policy Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: policy_purchase_date
+      label: When did you purchase the policy?
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: policy_purchase_date
+      label: When was the policy purchased?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: policy_purchase_date_range
+      label: When was the policy purchased?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: policy_issuer
+      label: Who issued the policy?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: policy_issuer
+      label: Who issued the policy?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: policy_benefit
+      label: What is the policy's benefits?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: policy_benefit
+      label: What are the policy's benefits?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: policy_deductible
+      label: What is the policy's deductible?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: policy_deductible
+      label: What is the deductible?
+      hint: null
+      type: select_one
+      options:
+      - No Deductible
+      - Low
+      - Medium
+      - High
+      required: true
+    - id: 14
+      name: policy_premium
+      label: How much is the policy's premium?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: policy_premium
+      label: How much is the policy's premium?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: policy_purchaser_rating
+      label: How would you rate the policy?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: policy_purchaser_rating
+      label: How would you rate the policy?
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 18
+      name: policy_purchaser_comment
+      label: Why did you choose this policy?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: policy_purchaser_comment
+      label: Why did you choose this policy?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: policy_issuer_rating
+      label: How would you rate the issuer?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: policy_issuer_rating
+      label: How would you rate the issuer?
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 22
+      name: policy_issuer_comment
+      label: Why did you choose this policy?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: policy_issuer_comment
+      label: Why did you choose this policy?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: policy_purchaser_satisfaction
+      label: How satisfied are you with the policy?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: policy_purchaser_satisfaction
+      label: How satisfied are you with the policy?
+      hint: null
+      type: text
+      options: []
+      required: false

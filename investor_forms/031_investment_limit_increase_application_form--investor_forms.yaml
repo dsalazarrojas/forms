@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Investment Limit Increase Application Form
+    pages:
+    - id: 1
+      name: user_details
+      label: User Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: justification
+      label: Justification for Limit Increase
+      hint: Provide a clear explanation for the limit increase request.
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: broker_details
+      label: Broker Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: broker_name
+      label: Broker Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: broker_email
+      label: Broker Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: broker_phone
+      label: Broker Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: review_status
+      label: Review Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Denied
+      required: false
+    - id: 13
+      name: review_comments
+      label: Review Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: user_agreement
+      label: User Agreement
+      hint: null
+      type: select_multiple
+      options:
+      - Approved
+      - Declined
+      required: false
+    - id: 15
+      name: agreement_details
+      label: Agreement Details
+      hint: null
+      type: text
+      options: []
+      required: false

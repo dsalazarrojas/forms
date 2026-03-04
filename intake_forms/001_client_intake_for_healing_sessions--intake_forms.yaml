@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Intake For Healing Sessions
+    pages:
+    - id: 1
+      name: section_personal_information
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: full name
+      hint: Enter the client's legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: preferred_name
+      label: preferred name
+      hint: Leave blank if same as full name
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: date of birth
+      hint: Use format YYYY-MM-DD
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: phone number
+      hint: Provide best number to reach client
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email_address
+      label: email address
+      hint: We will use this for appointment confirmations
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: emergency_contact
+      label: emergency contact name and phone
+      hint: Include relation and phone number
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: session_type
+      label: session type
+      hint: Select the preferred healing modality
+      type: select_one
+      options:
+      - Energy Healing
+      - Reiki
+      - Sound Therapy
+      - Guided Meditation
+      - Breathwork
+      - Other
+      required: true
+    - id: 9
+      name: preferred_session_date
+      label: preferred session date
+      hint: Select a date for the first session
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: preferred_session_time
+      label: preferred session time
+      hint: Indicate preferred time of day
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: brief_health_history
+      label: brief health history and current concerns
+      hint: Provide any relevant medical or emotional information
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: session_goals
+      label: what are your goals for healing sessions
+      hint: Describe desired outcomes or focus areas
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: consent_to_treatment
+      label: consent to receive holistic treatment and follow up
+      hint: Select your consent preference
+      type: select_one
+      options:
+      - Yes I consent to receive treatment
+      - No I do not consent to treatment
+      - Prefer to discuss with practitioner
+      required: true

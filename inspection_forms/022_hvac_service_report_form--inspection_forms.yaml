@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: HVAC Service Report Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: system_type
+      label: System Type
+      hint: null
+      type: select_one
+      options:
+      - Heating
+      - Cooling
+      - Both
+      - None
+      required: false
+    - id: 8
+      name: system_age
+      label: System Age
+      hint: null
+      type: number
+      options: []
+      required: false

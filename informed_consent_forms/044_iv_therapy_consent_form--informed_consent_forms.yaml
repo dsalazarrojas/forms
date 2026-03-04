@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: iv_therapy_consent_form
+    pages:
+    - id: 1
+      name: patient_information
+      label: Patient Information
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: consent_details
+      label: IV Therapy Consent
+      hint: Please provide detailed consent for IV therapy
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: allergy_information
+      label: Allergy Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: treatment_details
+      label: prophets_treatment_details
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: medication
+      label: IV Medication
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: consent
+      label: I Consent
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: medical_condition
+      label: medical_condition
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Exit Interview Form
+    pages:
+    - id: 1
+      name: introduction
+      label: Exit Interview Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_name
+      label: Employee Name
+      hint: Enter employee name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: reason_for_departure
+      label: Reason for Departure
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: new_job_title
+      label: New Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: new_company
+      label: New Company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: new_manager_name
+      label: New Manager Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: job_satisfaction
+      label: Job Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: true
+    - id: 8
+      name: communication
+      label: Communication
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: suggestions
+      label: Suggestions for improvement
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: date_of_departure
+      label: Date of Departure
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tumor Sample Submission Form
+    pages:
+    - id: 1
+      name: specimen_details
+      label: specimen_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: specimen_type
+      label: specimen_type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Tissue''}'
+      - '{''value'': 2, ''label'': ''Cell Block''}'
+      - '{''value'': 3, ''label'': ''Fluid''}'
+      required: false
+    - id: 3
+      name: specimen_received
+      label: received
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: clinical_info
+      label: clinical_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: specimen_id
+      label: specimen_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: specimen_weight
+      label: specimen_weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: specimen_condition
+      label: specimen_condition
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Tumor''}'
+      - '{''value'': 2, ''label'': ''Normal''}'
+      - '{''value'': 3, ''label'': ''Other''}'
+      required: false
+    - id: 8
+      name: specimen_description
+      label: specimen_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: lab_info
+      label: lab_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: clinical_info_2
+      label: clinical_info_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: specimen_status
+      label: specimen_status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''label'': ''Received''}'
+      - '{''value'': 2, ''label'': ''In Transit''}'
+      - '{''value'': 3, ''label'': ''Not Received''}'
+      required: false
+    - id: 12
+      name: documentation
+      label: documentation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: clinical_team
+      label: clinical_team
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Dr. Smith''}'
+      - '{''value'': 2, ''label'': ''Dr. Johnson''}'
+      - '{''value'': 3, ''label'': ''Dr. Other''}'
+      required: false
+    - id: 14
+      name: clinical_team_2
+      label: clinical_team_2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''label'': ''Dr. Smith''}'
+      - '{''value'': 2, ''label'': ''Dr. Johnson''}'
+      - '{''value'': 3, ''label'': ''Dr. Other''}'
+      required: false
+    - id: 15
+      name: clinical_notes
+      label: clinical_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: clinical_notes_2
+      label: clinical_notes_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: specimen_collection_date
+      label: specimen_collection_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: specimen_collection_time
+      label: specimen_collection_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: specimen_collection_method
+      label: specimen_collection_method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: documentation_url
+      label: documentation_url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: clinical_team_3
+      label: clinical_team_3
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''label'': ''Dr. Smith''}'
+      - '{''value'': 2, ''label'': ''Dr. Johnson''}'
+      - '{''value'': 3, ''label'': ''Dr. Other''}'
+      required: false
+    - id: 22
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: specimen_id_2
+      label: specimen_id_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: specimen_id_3
+      label: specimen_id_3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: specimen_id_4
+      label: specimen_id_4
+      hint: null
+      type: text
+      options: []
+      required: false

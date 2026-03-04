@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Extended Warranty Cancellation Form
+    pages:
+    - id: 1
+      name: form_header
+      label: Extended Warranty Cancellation Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: form_warranty_type
+      label: Warranty Type
+      hint: null
+      type: select_one
+      options:
+      - Warranty 1
+      - Warranty 2
+      required: false
+    - id: 3
+      name: form_warranty_number
+      label: Warranty Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: form_date_purchased
+      label: Date Purchased
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: form_cancellation_date
+      label: Cancellation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: form_date_cancellation_received
+      label: Date Cancellation Received
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: form_cancellation_reason
+      label: Cancellation Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: form_customer_comments
+      label: Customer Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: form_confirmation_method
+      label: Confirmation Method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Text Message
+      required: false
+    - id: 10
+      name: form_cancellation_status
+      label: Cancellation Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Processing
+      - Completed
+      required: false

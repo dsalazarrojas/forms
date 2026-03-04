@@ -1,0 +1,181 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Inquiry Form
+    pages:
+    - id: 1
+      name: inquirer_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: inquirer_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: inquirer_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: organization
+      label: Organization or Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: inquiry_date
+      label: Inquiry Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: inquiry_type
+      label: Type of Inquiry
+      hint: null
+      type: select_one
+      options:
+      - Health concern
+      - Policy question
+      - Resource request
+      - Testing question
+      - Vaccination question
+      - Economic impact
+      - General information
+      - Other
+      required: true
+    - id: 7
+      name: subject
+      label: Subject of Inquiry
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: detailed_inquiry
+      label: Detailed Inquiry or Question
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: affected_area
+      label: Geographic Area or Jurisdiction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: priority_level
+      label: Priority Level
+      hint: null
+      type: select_one
+      options:
+      - Urgent
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 11
+      name: health_status
+      label: Health Status
+      hint: null
+      type: select_one
+      options:
+      - Currently symptomatic
+      - Recently diagnosed
+      - Exposed and monitoring
+      - Vaccinated
+      - General information seeker
+      - Other
+      required: false
+    - id: 12
+      name: previous_contact
+      label: Have You Contacted Us Before
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Text message
+      - Mail
+      required: true
+    - id: 14
+      name: best_time_contact
+      label: Best Time to Contact You
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: additional_information
+      label: Additional Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: attachment_needed
+      label: Need to Attach Supporting Documents
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: language_preference
+      label: Language Preference
+      hint: null
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - French
+      - Chinese
+      - Arabic
+      - Other
+      required: false
+    - id: 18
+      name: accessibility_needs
+      label: Accessibility Needs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: consent_followup
+      label: I consent to follow-up communication
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: inquiry_confirmation
+      label: I confirm the above information is accurate
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

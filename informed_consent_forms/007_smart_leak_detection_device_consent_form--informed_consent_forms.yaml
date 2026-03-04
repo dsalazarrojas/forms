@@ -1,0 +1,37 @@
+inputSchema:
+  type: object
+  properties:
+    title: Smart Leak Detection Device Consent Form
+    pages:
+    - id: 1
+      name: client_approval
+      label: Client Approval
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: property_manager_details
+      label: property_manager_details
+      hint: null
+      type: select_one
+      options:
+      - Property manager 1
+      - Property manager 2
+      required: false
+    - id: 3
+      name: smart_leak_sensors_details
+      label: smart_leak_sensors_details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: installation_date
+      label: Installation Date
+      hint: null
+      type: date
+      options: []
+      required: false

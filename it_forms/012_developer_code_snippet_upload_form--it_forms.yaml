@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Developer Code Snippet Upload Form
+    pages:
+    - id: 1
+      name: page_1
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: code_snippet
+      label: Code Snippet
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: category
+      label: Category
+      hint: null
+      type: select_multiple
+      options:
+      - Backend
+      - Frontend
+      - Database
+      required: false
+    - id: 8
+      name: upload
+      label: Upload
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: uploaded_file
+      label: Uploaded File
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hybrid Job Interview Form
+    pages:
+    - id: 1
+      name: interview_form
+      label: Interview Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: schedule_interview
+      label: Schedule Interview
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: interviewers
+      label: Interviewers
+      hint: List all interviewers participating in the interview
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: interviewees
+      label: Interviewees
+      hint: List all interviewees participating in the interview
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: job_description
+      label: Job Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: job_location
+      label: Job Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: interview_time
+      label: Interview Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: job_type
+      label: Job Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: job_category
+      label: Job Category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: interviewers_name
+      label: Interviewer's Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: interviewees_name
+      label: Interviewee's Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: job_status
+      label: Job Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: interview_status
+      label: Interview Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: job_id
+      label: Job ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: job_code
+      label: Job Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: created_by
+      label: Created By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: text
+      options: []
+      required: false

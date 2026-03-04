@@ -1,0 +1,465 @@
+inputSchema:
+  type: object
+  properties:
+    title: Amenity Release Waiver
+    pages:
+    - id: 1
+      name: section_introduction
+      label: -- Amenity Release and Waiver --
+      hint: Please read this document carefully before using any amenities. By signing,
+        you acknowledge and accept certain risks.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: section_participant_info
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY format
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      required: false
+    - id: 8
+      name: section_contact_info
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: street_address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: state
+      label: State/Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: zip_code
+      label: ZIP/Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: section_emergency_contact
+      label: -- Emergency Contact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: emergency_contact_relationship
+      label: Relationship to Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: section_amenity_selection
+      label: -- Amenity Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: amenities_to_use
+      label: Which Amenities Will You Use
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Fitness Center/Gym
+      - Swimming Pool
+      - Hot Tub/Sauna
+      - Tennis Courts
+      - Basketball Courts
+      - Playground
+      - Walking/Running Trails
+      - Rock Climbing Wall
+      - Yoga/Exercise Studio
+      - Community Room
+      - Business Center
+      - BBQ/Picnic Areas
+      - Outdoor Recreation Areas
+      - Spa Services
+      - Other
+      required: true
+    - id: 21
+      name: other_amenity
+      label: Specify Other Amenity
+      hint: If other selected
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: section_medical_info
+      label: -- Medical Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: medical_conditions
+      label: Do You Have Any Medical Conditions
+      hint: That may affect your use of amenities
+      type: select_one
+      options:
+      - No - None
+      - Yes - Heart condition
+      - Yes - High blood pressure
+      - Yes - Respiratory issues
+      - Yes - Diabetes
+      - Yes - Pregnancy
+      - Yes - Other
+      required: true
+    - id: 24
+      name: medical_conditions_detail
+      label: Please Describe Medical Conditions
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: physical_limitations
+      label: Do You Have Any Physical Limitations
+      hint: That may affect your use of amenities
+      type: select_one
+      options:
+      - No - None
+      - Yes - Mobility issues
+      - Yes - Joint problems
+      - Yes - Recent injury
+      - Yes - Chronic pain
+      - Yes - Other
+      required: true
+    - id: 26
+      name: physical_limitations_detail
+      label: Please Describe Physical Limitations
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: medications
+      label: Are You Taking Any Medications
+      hint: That may affect physical activity
+      type: select_one
+      options:
+      - false
+      - true
+      required: false
+    - id: 28
+      name: medications_detail
+      label: Please List Medications
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: section_assumption_risk
+      label: -- Assumption of Risk --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 30
+      name: risk_acknowledgment
+      label: Risk Acknowledgment
+      hint: I understand and acknowledge the risks
+      type: select_one
+      options:
+      - I understand that using amenities involves risk of injury
+      - I understand that injuries may range from minor to serious
+      - I understand that facilities and equipment may have defects
+      - I voluntarily assume all risks associated with amenity use
+      required: true
+    - id: 31
+      name: physical_capability
+      label: Physical Capability Statement
+      hint: I am physically able to participate
+      type: select_one
+      options:
+      - I am physically capable of using the selected amenities
+      - I have consulted with a physician about my ability
+      - I understand my limitations and will use caution
+      required: true
+    - id: 32
+      name: section_release_liability
+      label: -- Release of Liability --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 33
+      name: release_statement
+      label: Release Statement
+      hint: I hereby release from liability
+      type: select_one
+      options:
+      - I release the facility from all liability for injuries
+      - I release staff, management, and owners from liability
+      - I release equipment manufacturers from liability
+      - This release covers negligence but not gross negligence
+      required: true
+    - id: 34
+      name: indemnification
+      label: Indemnification Agreement
+      hint: I agree to indemnify and hold harmless
+      type: select_one
+      options:
+      - I agree to indemnify the facility against claims
+      - I accept responsibility for my actions
+      - I will not hold others responsible for my injuries
+      required: true
+    - id: 35
+      name: section_rules_regulations
+      label: -- Rules and Regulations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 36
+      name: rules_agreement
+      label: Rules and Regulations Agreement
+      hint: I agree to follow all rules
+      type: select_one
+      options:
+      - I agree to follow all posted rules and regulations
+      - I agree to use equipment properly and safely
+      - I agree to respect other users and staff
+      - I understand violations may result in loss of privileges
+      required: true
+    - id: 37
+      name: specific_rules_acknowledged
+      label: Specific Rules Acknowledged
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Proper attire required
+      - Towel required for equipment
+      - Clean equipment after use
+      - Report damaged equipment
+      - No glass containers
+      - Children must be supervised
+      - Time limits may apply
+      - Guest policies apply
+      required: true
+    - id: 38
+      name: section_medical_consent
+      label: -- Medical Consent --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 39
+      name: medical_treatment_consent
+      label: Medical Treatment Consent
+      hint: I consent to emergency medical treatment
+      type: select_one
+      options:
+      - I consent to emergency medical treatment
+      - I authorize transportation to medical facilities
+      - I accept financial responsibility for medical costs
+      required: true
+    - id: 40
+      name: medical_information_accuracy
+      label: Medical Information Accuracy
+      hint: I certify my medical information is accurate
+      type: select_one
+      options:
+      - Yes - Information is accurate and complete
+      - Other
+      required: true
+    - id: 41
+      name: section_photo_video
+      label: -- Photo and Video Release --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 42
+      name: photo_video_permission
+      label: Photo and Video Permission
+      hint: Grant permission for media usage
+      type: select_one
+      options:
+      - Yes - I grant permission for photos and videos
+      - Yes - For promotional use only
+      - No - Do not use my image
+      required: true
+    - id: 43
+      name: section_minor_consent
+      label: -- Minor Consent (if under 18) --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 44
+      name: is_minor
+      label: Is Participant Under 18
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 45
+      name: parent_guardian_name
+      label: Parent/Guardian Name
+      hint: If participant is a minor
+      type: text
+      options: []
+      required: false
+    - id: 46
+      name: parent_guardian_signature
+      label: Parent/Guardian Signature
+      hint: Type full name as signature
+      type: text
+      options: []
+      required: false
+    - id: 47
+      name: parent_guardian_date
+      label: Parent/Guardian Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 48
+      name: section_participant_signature
+      label: -- Participant Signature --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 49
+      name: participant_signature
+      label: Participant Signature
+      hint: Type full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 50
+      name: signature_date
+      label: Date of Signature
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 51
+      name: witness_name
+      label: Witness Name
+      hint: If required
+      type: text
+      options: []
+      required: false
+    - id: 52
+      name: witness_signature
+      label: Witness Signature
+      hint: Type full name as signature
+      type: text
+      options: []
+      required: false
+    - id: 53
+      name: section_validity
+      label: -- Waiver Validity --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 54
+      name: waiver_duration
+      label: Waiver Duration
+      hint: How long is this waiver valid
+      type: select_one
+      options:
+      - One-time use
+      - 30 days
+      - 1 year
+      - Until revoked
+      required: true
+    - id: 55
+      name: waiver_start_date
+      label: Waiver Start Date
+      hint: null
+      type: date
+      options: []
+      required: true

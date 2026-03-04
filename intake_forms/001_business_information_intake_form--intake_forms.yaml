@@ -1,0 +1,139 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Information Intake Form
+    pages:
+    - id: 1
+      name: company_name
+      label: Company Name
+      hint: Please provide your full business name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: business_type
+      label: Type of Business
+      hint: Select the category that best describes your business
+      type: select_one
+      options:
+      - Retail
+      - Service
+      - Manufacturing
+      - Technology
+      - Consulting
+      - Other
+      required: true
+    - id: 3
+      name: years_in_operation
+      label: Years in Business
+      hint: How long has your business been operating?
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: annual_revenue
+      label: Estimated Annual Revenue
+      hint: Provide your approximate annual revenue
+      type: select_one
+      options:
+      - Under $100,000
+      - $100,000 - $500,000
+      - $500,000 - $1,000,000
+      - $1,000,000 - $5,000,000
+      - Over $5,000,000
+      required: true
+    - id: 5
+      name: contact_person
+      label: Primary Contact Name
+      hint: Full name of the main contact person
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contact_email
+      label: Email Address
+      hint: Business email address
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: contact_phone
+      label: Phone Number
+      hint: Primary business phone number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: business_address
+      label: Business Address
+      hint: Full street address of your business location
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: number_of_employees
+      label: Number of Employees
+      hint: Total current workforce
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: main_products_services
+      label: Main Products or Services
+      hint: Briefly describe what your business offers
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: improvement_goals
+      label: Business Improvement Goals
+      hint: What areas would you like to improve?
+      type: select_multiple
+      options:
+      - Marketing and Sales
+      - Operations
+      - Customer Service
+      - Financial Management
+      - Technology
+      - Staff Training
+      required: false
+    - id: 12
+      name: current_challenges
+      label: Current Business Challenges
+      hint: Describe any challenges you are currently facing
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: budget_for_improvements
+      label: Budget for Improvements
+      hint: Approximate budget available for improvements
+      type: select_one
+      options:
+      - Under $5,000
+      - $5,000 - $15,000
+      - $15,000 - $50,000
+      - Over $50,000
+      - Not Determined Yet
+      required: false
+    - id: 14
+      name: timeline_preference
+      label: Implementation Timeline
+      hint: When would you like to implement improvements?
+      type: select_one
+      options:
+      - Immediate (0-3 months)
+      - Short-term (3-6 months)
+      - Medium-term (6-12 months)
+      - Long-term (12+ months)
+      required: false
+    - id: 15
+      name: decision_authority
+      label: Do you have authority to make purchasing decisions?
+      hint: Select yes or no
+      type: select_one
+      options:
+      - true
+      - false
+      - Partially
+      required: true

@@ -1,0 +1,28 @@
+inputSchema:
+  type: object
+  properties:
+    title: health_and_safety_form_template
+    pages:
+    - id: 1
+      name: health_safety_section
+      label: health_and_safety_section
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: risk_assessment
+      label: risk_assessment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: training_protocol
+      label: training_protocol
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

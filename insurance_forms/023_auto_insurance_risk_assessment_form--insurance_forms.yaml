@@ -1,0 +1,131 @@
+inputSchema:
+  type: object
+  properties:
+    title: Auto Insurance Risk Assessment Form
+    pages:
+    - id: 1
+      name: personal_risk_header
+      label: -- Personal Risk Factors --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_name
+      label: Applicant Name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: age
+      label: Age
+      hint: Age of the primary driver
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: primary_occupation
+      label: Primary Occupation
+      hint: Some professions have lower risk profiles
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: driving_record_header
+      label: -- Driving Record Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: total_years_driving
+      label: Total Years Driving
+      hint: Experience level
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: accidents_count
+      label: Accidents in Last 3 Years
+      hint: Include both at-fault and not-at-fault
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: tickets_count
+      label: Speeding Tickets in Last 3 Years
+      hint: Total moving violations
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: dui_history
+      label: DUI History
+      hint: Select the most accurate history
+      type: select_one
+      options:
+      - None
+      - 1 conviction
+      - Multiple convictions
+      required: true
+    - id: 10
+      name: vehicle_risk_header
+      label: -- Vehicle Risk Factors --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: vehicle_type
+      label: Vehicle Type
+      hint: Year, Make, Model, and Trim
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: annual_mileage
+      label: Estimated Annual Mileage
+      hint: How many miles will be driven per year?
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: night_driving_frequency
+      label: Night Driving Frequency
+      hint: How often do you drive after dark?
+      type: select_one
+      options:
+      - Rarely
+      - Occasionally
+      - Frequently
+      required: true
+    - id: 14
+      name: vehicle_storage_security
+      label: Vehicle Storage Security
+      hint: Where is the vehicle kept overnight?
+      type: select_one
+      options:
+      - Secured Garage
+      - Private Driveway
+      - Street Parking
+      required: true
+    - id: 15
+      name: installed_safety_tech
+      label: Installed Safety Technology
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Forward Collision Warning
+      - Lane Departure Warning
+      - Automatic Emergency Braking
+      - Adaptive Cruise Control
+      - Blind Spot Detection
+      required: false
+    - id: 16
+      name: underwriter_comments
+      label: Risk Underwriter Comments
+      hint: For internal use only
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ministry Proposal Form
+    pages:
+    - id: 1
+      name: ministry_proposal
+      label: Ministry Proposal
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: project_leadership
+      label: Project Leadership
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: project_name
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: project_description
+      label: Project Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: project_location
+      label: Project Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: project_budget
+      label: Project Budget
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: supporting_ministries
+      label: Supporting Ministries
+      hint: null
+      type: select_multiple
+      options:
+      - Ministry of Evangelism
+      - Ministry of Worship
+      - Ministry of Discipleship
+      required: true
+    - id: 12
+      name: project_justification
+      label: Project Justification
+      hint: null
+      type: text
+      options: []
+      required: true

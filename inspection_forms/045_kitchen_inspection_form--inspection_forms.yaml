@@ -1,0 +1,159 @@
+inputSchema:
+  type: object
+  properties:
+    title: Kitchen Inspection Form
+    pages:
+    - id: 1
+      name: kitchen_inspection_form
+      label: Kitchen Inspection Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: facility_rating
+      label: Facility Rating
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 3
+      name: food_handling
+      label: Food Handling
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: cleanliness
+      label: Cleanliness
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: safety
+      label: Safety
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: equipment_condition
+      label: Equipment Condition
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: pest_control
+      label: Pest Control
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: food_source
+      label: Food Source
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: water_quality
+      label: Water Quality
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Poor
+      required: false
+    - id: 10
+      name: food_temperature
+      label: Food Temperature
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: waste_disposal
+      label: Waste Disposal
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: facility_condition
+      label: Facility Condition
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: pest_control_program
+      label: Pest Control Program
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: water_source
+      label: Water Source
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: food_source_list
+      label: Food Source List
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: food_source_frequency
+      label: Frequency of Food Source
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: facility_design
+      label: Facility Design
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: kitchen_layout
+      label: Kitchen Layout
+      hint: null
+      type: text
+      options: []
+      required: false

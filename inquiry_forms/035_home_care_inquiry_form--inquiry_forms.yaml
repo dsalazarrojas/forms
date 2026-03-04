@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Home Care Inquiry Form
+    pages:
+    - id: 1
+      name: home_care_inquiry_form_data
+      label: Inquiry details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: home_care_service_required
+      label: Which service are you looking for?
+      hint: null
+      type: select_one
+      options:
+      - Adult Care
+      - Alzheimer's Care
+      - Assisted Living
+      - Home Health
+      - Other
+      required: false
+    - id: 3
+      name: home_care_service_type
+      label: What type of service are you looking for?
+      hint: null
+      type: select_multiple
+      options:
+      - Adult Care
+      - Alzheimer's Care
+      - Assisted Living
+      - Home Health
+      required: false
+    - id: 4
+      name: home_care_service_frequency
+      label: How often do you need service?
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 5
+      name: home_care_service_time
+      label: Service time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: home_care_service_start_time
+      label: Service start time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: home_care_service_end_time
+      label: Service end time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: home_care_service_notes
+      label: Additional notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: home_care_service_phone
+      label: Contact number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: home_care_service_email
+      label: Contact email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: home_care_service_additional_info
+      label: Additional info
+      hint: null
+      type: text
+      options: []
+      required: false

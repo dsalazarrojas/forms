@@ -1,0 +1,140 @@
+inputSchema:
+  type: object
+  properties:
+    title: Auto Insurance Information Collection
+    pages:
+    - id: 1
+      name: driver_profile_header
+      label: -- Driver Profile --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: primary_driver_name
+      label: Primary Driver Name
+      hint: Full legal name of the main driver
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM-DD-YYYY
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: drivers_license_number
+      label: Driver's License Number
+      hint: As shown on your license
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: state_of_issuance
+      label: State of Issuance
+      hint: e.g. California
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: vehicle_details_header
+      label: -- Vehicle Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: vehicle_year
+      label: Vehicle Year
+      hint: Year of manufacture
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: vehicle_make
+      label: Vehicle Make
+      hint: e.g. Honda
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: vehicle_model
+      label: Vehicle Model
+      hint: e.g. Civic
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: vin_number
+      label: VIN Number
+      hint: 17-digit identification number
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: annual_mileage_estimate
+      label: Annual Mileage Estimate
+      hint: How many miles do you drive per year?
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: primary_vehicle_use
+      label: Primary Vehicle Use
+      hint: Main purpose of this vehicle
+      type: select_one
+      options:
+      - Commute to Work
+      - Pleasure
+      - Business
+      - Farm
+      required: true
+    - id: 13
+      name: current_coverage_header
+      label: -- Current Coverage --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: current_insurance_carrier
+      label: Current Insurance Carrier
+      hint: Name of your existing company
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: current_policy_expiration
+      label: Current Policy Expiration
+      hint: When does your current coverage end?
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: safety_features
+      label: Safety Features
+      hint: Select all that apply for discounts
+      type: select_multiple
+      options:
+      - Anti-lock Brakes
+      - Anti-theft Device
+      - Airbags
+      - Daytime Running Lights
+      - Blind Spot Monitor
+      required: false
+    - id: 17
+      name: number_of_accidents
+      label: Number of Accidents (Last 3 Years)
+      hint: Total accidents regardless of fault
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: number_of_tickets
+      label: Number of Tickets (Last 3 Years)
+      hint: Moving violations only
+      type: number
+      options: []
+      required: true

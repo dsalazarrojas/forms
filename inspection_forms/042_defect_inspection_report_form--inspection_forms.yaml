@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: Defect Inspection Report Form
+    pages:
+    - id: 1
+      name: user
+      label: user
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: defect_description
+      label: defect description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: inspection_location
+      label: inspection location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: product_id
+      label: product id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: inspector_name
+      label: inspector name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: inspection_date
+      label: inspection date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: defect_severity
+      label: defect severity
+      hint: null
+      type: select_one
+      options:
+      - Critical
+      - Moderate
+      - Minor
+      required: true
+    - id: 9
+      name: defect_status
+      label: defect status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 10
+      name: inspector_notes
+      label: inspector notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: product_category
+      label: product category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: product_type
+      label: product type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: serial_number
+      label: serial number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: asset_tag
+      label: asset tag
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: asset_tag_location
+      label: asset tag location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: equipment_id
+      label: equipment id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: equipment_type
+      label: equipment type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: defect_location
+      label: defect location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: defect_image
+      label: defect image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: additional_comments
+      label: additional comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: inspection_result
+      label: inspection result
+      hint: null
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      required: true
+    - id: 22
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: defect_description_2
+      label: defect description 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: action_plan
+      label: action plan
+      hint: null
+      type: text
+      options: []
+      required: false

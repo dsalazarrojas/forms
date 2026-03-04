@@ -1,0 +1,159 @@
+inputSchema:
+  type: object
+  properties:
+    title: medical_expense_claim_form
+    pages:
+    - id: 1
+      name: claimant_details
+      label: claimant_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_expenses
+      label: medical_expenses
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: billing_info
+      label: billing_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: medical_insurance_provider
+      label: medical_insurance_provider
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: claimant_address
+      label: claimant_address
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - None
+      - None
+      required: false
+    - id: 6
+      name: medical_expense_date
+      label: medical_expense_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: medical_expense_amount
+      label: medical_expense_amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: medical_insurance_claim_number
+      label: medical_insurance_claim_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: submit_claim
+      label: submit_claim
+      hint: null
+      type: select_one
+      options:
+      - None
+      - None
+      - None
+      required: true
+    - id: 10
+      name: claim_status
+      label: claim_status
+      hint: null
+      type: select_one
+      options:
+      - None
+      - None
+      - None
+      required: true
+    - id: 11
+      name: claim_notes
+      label: claim_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: select_one
+      options:
+      - None
+      - None
+      - None
+      required: true
+    - id: 13
+      name: claimant_phone
+      label: claimant_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: claimant_email
+      label: claimant_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: claimant_address_street
+      label: claimant_address_street
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: claimant_address_city
+      label: claimant_address_city
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: claimant_address_state
+      label: claimant_address_state
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: claimant_address_zip
+      label: claimant_address_zip
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: medical_expense_date_time
+      label: medical_expense_date_time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: medical_expense_description
+      label: medical_expense_description
+      hint: null
+      type: text
+      options: []
+      required: false

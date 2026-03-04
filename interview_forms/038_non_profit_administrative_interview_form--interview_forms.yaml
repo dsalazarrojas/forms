@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Non Profit Administrative Interview Form
+    pages:
+    - id: 1
+      name: candidate
+      label: candidate
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: overall_score
+      label: overall_score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_interview
+      label: date_of_interview
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: submit_review
+      label: submit_review
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 6
+      name: non_profit_administrative_interview_form_comments
+      label: non_profit_administrative_interview_form_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: reviewer
+      label: reviewer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: reviewee
+      label: reviewee
+      hint: null
+      type: text
+      options: []
+      required: false

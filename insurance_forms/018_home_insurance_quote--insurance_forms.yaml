@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Home Insurance Quote
+    pages:
+    - id: 1
+      name: home_insurance_quote_form
+      label: Home Insurance Quote
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: policy_type
+      label: Policy Type
+      hint: null
+      type: select_one
+      options:
+      - Homeowners
+      - Renters
+      - Landlords
+      required: false
+    - id: 3
+      name: address
+      label: Address
+      hint: Your current address
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: policy_deductible
+      label: Policy Deductible
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: coverage_amount
+      label: Coverage Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: policy_start_date
+      label: Policy Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: policy_end_date
+      label: Policy End Date
+      hint: null
+      type: date
+      options: []
+      required: false

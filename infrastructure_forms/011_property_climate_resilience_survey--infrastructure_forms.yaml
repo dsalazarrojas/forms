@@ -1,0 +1,217 @@
+inputSchema:
+  type: object
+  properties:
+    title: property-climate-resilience-survey
+    pages:
+    - id: 1
+      name: climate_risk_category
+      label: Climate Risk Category
+      hint: null
+      type: select_one
+      options:
+      - Building
+      - Civil Infrastructure
+      - Coastal Zone
+      - Disaster Risk
+      - Flood Zone
+      - High Risk
+      - Low Risk
+      - Other
+      - Riverine
+      - Storm Surge
+      - Urban Zone
+      required: false
+    - id: 2
+      name: building_materials_used
+      label: Building Materials Used
+      hint: null
+      type: select_multiple
+      options:
+      - Brick
+      - Concrete
+      - Glass
+      - Metal
+      - Steel
+      - Wood
+      required: false
+    - id: 3
+      name: building_slope
+      label: Building Slope
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: building_size
+      label: Building Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: climate_change_risk_impact
+      label: Climate Change Risk Impact
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: building_age
+      label: Building Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: building_asbestos
+      label: Building Asbestos
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 8
+      name: building_asbestos_removal_date
+      label: Building Asbestos Removal Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: building_asbestos_removal_method
+      label: Building Asbestos Removal Method
+      hint: null
+      type: select_one
+      options:
+      - Encapsulated
+      - Removed
+      - Other
+      required: false
+    - id: 10
+      name: building_asbestos_removal_cost
+      label: Building Asbestos Removal Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: building_asbestos_removal_method_cost
+      label: Building Asbestos Removal Method Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: building_asbestos_removal_cost_per_unit
+      label: Building Asbestos Removal Cost per Unit
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: building_asbestos_removal_completion_date
+      label: Building Asbestos Removal Completion Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: building_asbestos_removal_certificates
+      label: Building Asbestos Removal Certificates
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 15
+      name: building_asbestos_removal_methods_used
+      label: Building Asbestos Removal Methods Used
+      hint: null
+      type: select_multiple
+      options:
+      - Encapsulated
+      - Removed
+      - Other
+      required: false
+    - id: 16
+      name: building_asbestos_removal_cost_total
+      label: Building Asbestos Removal Cost Total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: building_asbestos_removal_certificates_issued
+      label: Building Asbestos Removal Certificates Issued
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 18
+      name: building_asbestos_removal_methods_used_issues
+      label: Building Asbestos Removal Methods Used Issues
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 19
+      name: building_asbestos_removal_certificates_issuer
+      label: Building Asbestos Removal Certificates Issuer
+      hint: null
+      type: select_one
+      options:
+      - Local Authority
+      - National Authority
+      - Other
+      required: false
+    - id: 20
+      name: building_asbestos_removal_certificates_issuer_name
+      label: Building Asbestos Removal Certificates Issuer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: building_asbestos_removal_certificates_issue_date
+      label: Building Asbestos Removal Certificates Issue Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: building_asbestos_removal_methods_used_certificates_issuer
+      label: Building Asbestos Removal Methods Used Certificates Issuer
+      hint: null
+      type: select_one
+      options:
+      - Local Authority
+      - National Authority
+      - Other
+      required: false
+    - id: 23
+      name: building_asbestos_removal_certificates_issue_date_issued
+      label: Building Asbestos Removal Certificates Issue Date Issued
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: building_asbestos_removal_methods_used_certificates_issue_date_issued
+      label: Building Asbestos Removal Methods Used Certificates Issue Date Issued
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: building_asbestos_removal_certificates_issue_date_issuer_name
+      label: Building Asbestos Removal Certificates Issue Date Issuer Name
+      hint: null
+      type: text
+      options: []
+      required: false

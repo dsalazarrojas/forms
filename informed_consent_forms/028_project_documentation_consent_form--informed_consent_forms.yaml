@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Project Documentation Consent Form
+    pages:
+    - id: 1
+      name: project_documentation_consent_form
+      label: Project Documentation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_informal_name
+      label: Participant Informal Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_formal_name
+      label: Participant Formal Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: participant_email
+      label: Participant Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: participant_phone
+      label: Participant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: project_name
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: project_description
+      label: Project Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: purpose
+      label: Purpose
+      hint: null
+      type: select_one
+      options:
+      - Educational
+      - Research
+      - Promotional
+      required: true
+    - id: 9
+      name: participant_signature
+      label: Participant Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 10
+      name: researcher_name
+      label: Researcher Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: organization_name
+      label: Organization Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: project_date
+      label: Project Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: photos_videos
+      label: Photos/Videos
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: materials
+      label: Materials
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: consent_type
+      label: Consent Type
+      hint: null
+      type: select_one
+      options:
+      - Explicit
+      - Implicit
+      - Both
+      required: true
+    - id: 18
+      name: participant_signature_date
+      label: Participant Signature Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: researcher_signature
+      label: Researcher Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 20
+      name: researcher_signature_date
+      label: Researcher Signature Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: participant_informed_consent
+      label: Participant Informed Consent
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 22
+      name: participant_informal_name_check
+      label: Participant Check
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: participant_informal_name_check_hint
+      label: Participant Check Hint
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: researcher_informal_name_check
+      label: Researcher Check
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: researcher_informal_name_check
+      label: Researcher Check Hint
+      hint: null
+      type: text
+      options: []
+      required: true

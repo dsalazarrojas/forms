@@ -1,0 +1,137 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Adult Adoption Form
+    pages:
+    - id: 1
+      name: section_adopter
+      label: -- Adopter Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: adopter_full_name
+      label: Adopter Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: adopter_occupation
+      label: Adopter Occupation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: relationship_to_adoptee
+      label: Relationship to Adoptee
+      hint: e.g. Step-parent, Family friend
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_adoptee
+      label: -- Adoptee Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: adoptee_full_name
+      label: Adoptee Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: adoptee_date_of_birth
+      label: Adoptee Date of Birth
+      hint: Adoptee must be at least 18 years old
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: adoptee_current_address
+      label: Adoptee Current Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: section_purpose
+      label: -- Purpose of Adoption --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: primary_objectives
+      label: Primary Objectives
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Formalize parent-child relationship
+      - Estate planning and inheritance
+      - Immigration and residency
+      - Caregiver and dependent status
+      - Legal name change
+      required: true
+    - id: 11
+      name: statement_of_intent
+      label: Statement of Intent
+      hint: Briefly describe why you are seeking this adoption
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: section_consent
+      label: -- Consents and Signatures --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: adopter_consent
+      label: Adopter Consent
+      hint: null
+      type: select_one
+      options:
+      - I consent to this adoption
+      - I do not consent
+      required: true
+    - id: 14
+      name: adoptee_consent
+      label: Adoptee Consent
+      hint: null
+      type: select_one
+      options:
+      - I consent to this adoption
+      - I do not consent
+      required: true
+    - id: 15
+      name: date_of_signing
+      label: Date of Signing
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: notary_public_information
+      label: Notary Public Information
+      hint: Name and commission number if already notarized
+      type: text
+      options: []
+      required: false

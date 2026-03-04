@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mobile Home Inspection Form
+    pages:
+    - id: 1
+      name: home_address
+      label: Home Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: mobile_type
+      label: Mobile Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: year_built
+      label: Year Built
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: home_features
+      label: Home Features
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: property_condition
+      label: Property Condition
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: electrical_systems
+      label: Electrical Systems
+      hint: null
+      type: select_multiple
+      options:
+      - '{''options'': [''AC'', ''Heat Pump'', ''Gas'', ''Propane'', ''Oil'', ''Solar'',
+        ''Geothermal'', ''Wind'']}'
+      - Other
+      required: false
+    - id: 8
+      name: plumbing_systems
+      label: Plumbing Systems
+      hint: null
+      type: select_multiple
+      options:
+      - '{''options'': [''City Water'', ''Well Water'', ''Septic'', ''Sealed Well'',
+        ''Pump'', ''Other'']}'
+      - Other
+      required: false
+    - id: 9
+      name: heating_systems
+      label: Heating Systems
+      hint: null
+      type: select_multiple
+      options:
+      - '{''options'': [''Heat Pump'', ''Furnace'', ''Oil Heat'', ''Gas Heat'', ''Other'']}'
+      - Other
+      required: false
+    - id: 10
+      name: cooling_systems
+      label: Cooling Systems
+      hint: null
+      type: select_multiple
+      options:
+      - '{''options'': [''Central Air'', ''Window Unit'', ''Other'']}'
+      - Other
+      required: false
+    - id: 11
+      name: roof_condition
+      label: Roof Condition
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: foundation_condition
+      label: Foundation Condition
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: exterior_condition
+      label: Exterior Condition
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: basement_condition
+      label: Basement Condition
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: crawl_space_condition
+      label: Crawl Space Condition
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: electrical_systems_notes
+      label: Electrical Systems Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: plumbing_systems_notes
+      label: Plumbing Systems Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: heating_systems_notes
+      label: Heating Systems Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: cooling_systems_notes
+      label: Cooling Systems Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: roof_notes
+      label: Roof Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: foundation_notes
+      label: Foundation Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: exterior_notes
+      label: Exterior Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: basement_notes
+      label: Basement Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: crawl_space_notes
+      label: Crawl Space Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_notes
+      label: Additional Notes
+      hint: null
+      type: text
+      options: []
+      required: false

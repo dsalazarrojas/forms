@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Internship Acceptance Declaration Form
+    pages:
+    - id: 1
+      name: internship_start_date
+      label: Internship start date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: internship_end_date
+      label: Internship end date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: student_acceptance_date
+      label: Student acceptance date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: internship_title
+      label: Internship title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: student_name
+      label: Student name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: student_email
+      label: Student email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: student_phone
+      label: Student phone
+      hint: A valid phone number
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: internship_acceptance_status
+      label: Internship acceptance status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 9
+      name: internship_supervisor_signature
+      label: Internship supervisor signature
+      hint: null
+      type: note
+      options: []
+      required: false

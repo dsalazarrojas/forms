@@ -1,0 +1,135 @@
+inputSchema:
+  type: object
+  properties:
+    title: Auto Insurance Declaration Form
+    pages:
+    - id: 1
+      name: policy_overview_header
+      label: -- Policy Overview --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: primary_insured_name
+      label: Primary Insured Name
+      hint: Name of the policy owner
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: policy_number
+      label: Policy Number
+      hint: Active insurance policy ID
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: policy_effective_date
+      label: Policy Effective Date
+      hint: When the coverage began
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: policy_expiration_date
+      label: Policy Expiration Date
+      hint: When the current term ends
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: coverage_limits_header
+      label: -- Coverage Limits --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: bodily_injury_limit_per_person
+      label: Bodily Injury Limit per Person
+      hint: Max amount per injured person
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: bodily_injury_limit_per_accident
+      label: Bodily Injury Limit per Accident
+      hint: Max amount for all injuries in one incident
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: property_damage_limit
+      label: Property Damage Limit
+      hint: Max coverage for damage to others property
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: comprehensive_deductible
+      label: Comprehensive Deductible
+      hint: Your out-of-pocket for non-collision claims
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: collision_deductible
+      label: Collision Deductible
+      hint: Your out-of-pocket for collision claims
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: insured_vehicles_header
+      label: -- Insured Vehicles --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: vehicle_1_details
+      label: Vehicle 1 Details
+      hint: Year, Make, Model, and VIN
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: vehicle_2_details
+      label: Vehicle 2 Details
+      hint: Leave blank if not applicable
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: additional_options_header
+      label: -- Additional Options --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: roadside_assistance_included
+      label: Roadside Assistance Included
+      hint: Is towing and labor covered?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 17
+      name: rental_reimbursement_included
+      label: Rental Reimbursement Included
+      hint: Is a rental car covered during repairs?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 18
+      name: additional_drivers_on_policy
+      label: Additional Drivers on Policy
+      hint: List any other authorized drivers
+      type: text
+      options: []
+      required: false

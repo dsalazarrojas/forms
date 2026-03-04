@@ -1,0 +1,132 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Insurance Quote Form
+    pages:
+    - id: 1
+      name: section_business_details
+      label: -- Business Details --
+      type: note
+      required: false
+    - id: 2
+      name: business_name
+      label: Business Name
+      hint: Legal name of your business
+      type: text
+      required: true
+    - id: 3
+      name: business_type
+      label: Type of Business
+      hint: Select the primary category
+      type: select_one
+      options:
+      - Sole Proprietorship
+      - Partnership
+      - LLC
+      - Corporation
+      - Non-Profit
+      - Other
+      required: true
+    - id: 4
+      name: years_in_operation
+      label: Years in Operation
+      hint: How many years has the business been operating
+      type: number
+      required: true
+    - id: 5
+      name: number_of_employees
+      label: Number of Employees
+      hint: Total employee count
+      type: number
+      required: true
+    - id: 6
+      name: annual_revenue
+      label: Estimated Annual Revenue
+      hint: In dollars
+      type: number
+      required: true
+    - id: 7
+      name: section_contact_info
+      label: -- Contact Information --
+      type: note
+      required: false
+    - id: 8
+      name: contact_person_name
+      label: Contact Person Name
+      hint: Who should we contact
+      type: text
+      required: true
+    - id: 9
+      name: contact_email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      required: true
+    - id: 10
+      name: contact_phone
+      label: Phone Number
+      hint: Business phone number
+      type: text
+      required: true
+    - id: 11
+      name: section_coverage_needs
+      label: -- Coverage Needs --
+      type: note
+      required: false
+    - id: 12
+      name: coverage_types
+      label: Types of Coverage Needed
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - General Liability
+      - Property Insurance
+      - Workers Compensation
+      - Professional Liability
+      - Cyber Liability
+      - Business Interruption
+      required: true
+    - id: 13
+      name: current_coverage
+      label: Do You Have Current Insurance
+      hint: Select yes or no
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: coverage_start_date
+      label: Desired Coverage Start Date
+      hint: When do you need coverage to begin
+      type: date
+      required: true
+    - id: 15
+      name: preferred_deductible
+      label: Preferred Deductible
+      hint: Amount you are willing to pay out of pocket
+      type: select_one
+      options:
+      - $500
+      - $1,000
+      - $2,500
+      - $5,000
+      - $10,000
+      required: false
+    - id: 16
+      name: additional_info
+      label: Additional Information
+      hint: Any special circumstances or details
+      type: text
+      required: false
+    - id: 17
+      name: follow_up_preference
+      label: Preferred Contact Method
+      hint: How should we contact you with quote options
+      type: select_one
+      options:
+      - Email
+      - Phone Call
+      - Text Message
+      - Video Call
+      required: true

@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: http_request_workflow_documentation_request_form
+    pages:
+    - id: 1
+      name: workflow_name
+      label: workflow_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: url
+      label: url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: method
+      label: http_method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: headers
+      label: headers
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: query
+      label: query_params
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: body
+      label: request_body
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: status_code
+      label: status_code
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: response
+      label: response
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: tags
+      label: tags
+      hint: null
+      type: select_multiple
+      options:
+      - tag1
+      - tag2
+      required: false
+    - id: 11
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 12
+      name: output_file
+      label: output_file
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: category
+      label: category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: timezone
+      label: timezone
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 20
+      name: user_name
+      label: user_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: api_key
+      label: api_key
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 24
+      name: tags_2
+      label: tags_2
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 25
+      name: output_file_2
+      label: output_file_2
+      hint: null
+      type: text
+      options: []
+      required: false

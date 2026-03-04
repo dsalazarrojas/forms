@@ -1,0 +1,231 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bed Bug Case Evaluation Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: Full name or business name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: client_phone
+      label: Phone Number
+      hint: Best number to reach you
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: property_address
+      label: Property Address
+      hint: Full address of affected property
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: property_type
+      label: Property Type
+      hint: Type of property
+      type: select_one
+      options:
+      - Single Family Home
+      - Apartment or Condo
+      - Townhouse
+      - Hotel or Motel
+      - Dormitory
+      - Office Building
+      - Retail Store
+      - Other
+      required: true
+    - id: 6
+      name: number_of_units
+      label: Number of Units or Rooms
+      hint: Total units in property if applicable
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: affected_areas
+      label: Affected Areas
+      hint: Select all areas where bed bugs were found
+      type: select_multiple
+      options:
+      - Bedrooms
+      - Living Room
+      - Kitchen
+      - Bathroom
+      - Basement
+      - Attic
+      - Garage
+      - Multiple Rooms
+      - Entire Property
+      required: true
+    - id: 8
+      name: infestation_severity
+      label: Infestation Severity
+      hint: How severe is the infestation
+      type: select_one
+      options:
+      - Light (1-5 bugs seen)
+      - Moderate (5-20 bugs seen)
+      - Heavy (20+ bugs seen)
+      - Severe (Daily sightings multiple rooms)
+      - Unsure
+      required: true
+    - id: 9
+      name: first_sighting_date
+      label: Date of First Sighting
+      hint: When did you first notice bed bugs
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: evidence_found
+      label: Evidence Found
+      hint: Select all evidence you have observed
+      type: select_multiple
+      options:
+      - Live Bugs
+      - Dead Bugs
+      - Shed Skins
+      - Eggs or Egg Shells
+      - Blood Stains on Bedding
+      - Dark Fecal Spots
+      - Bites on Skin
+      - Musty Odor
+      - None Visible
+      required: true
+    - id: 11
+      name: bite_symptoms
+      label: Bite Symptoms
+      hint: Are anyone experiencing bite symptoms
+      type: select_one
+      options:
+      - No bites
+      - Minor itching
+      - Moderate itching and redness
+      - Severe reactions
+      - Allergic reaction requiring medical attention
+      required: true
+    - id: 12
+      name: previous_treatment
+      label: Previous Treatment
+      hint: Have you had any previous bed bug treatment
+      type: select_one
+      options:
+      - No first time
+      - Yes DIY treatment
+      - Yes professional treatment
+      - Yes multiple treatments
+      required: true
+    - id: 13
+      name: previous_treatment_date
+      label: Previous Treatment Date
+      hint: When was the last treatment
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: treatment_company
+      label: Previous Treatment Company
+      hint: Name of company if previously treated
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: pets_in_home
+      label: Pets in Home
+      hint: Do you have pets
+      type: select_one
+      options:
+      - No pets
+      - Yes 1 pet
+      - Yes 2-3 pets
+      - Yes 4 or more pets
+      required: true
+    - id: 16
+      name: children_in_home
+      label: Children in Home
+      hint: Are there children in the home
+      type: select_one
+      options:
+      - No children
+      - Yes 1-2 children
+      - Yes 3-4 children
+      - Yes 5 or more children
+      required: true
+    - id: 17
+      name: preferred_inspection_date
+      label: Preferred Inspection Date
+      hint: When would you like inspection
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: preferred_inspection_time
+      label: Preferred Inspection Time
+      hint: Preferred time of day
+      type: time
+      options: []
+      required: true
+    - id: 19
+      name: access_instructions
+      label: Access Instructions
+      hint: Any special instructions for accessing property
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: urgency_level
+      label: Urgency Level
+      hint: How urgent is this case
+      type: select_one
+      options:
+      - Routine (within 1-2 weeks)
+      - Soon (within 1 week)
+      - Urgent (within 48 hours)
+      - Emergency (within 24 hours)
+      required: true
+    - id: 21
+      name: budget_range
+      label: Estimated Budget Range
+      hint: What is your estimated budget for treatment
+      type: select_one
+      options:
+      - Under $500
+      - $500-$1000
+      - $1000-$2500
+      - $2500-$5000
+      - Over $5000
+      - Need Quote
+      required: true
+    - id: 22
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information about your situation
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: referral_source
+      label: How Did You Hear About Us
+      hint: How did you find our services
+      type: select_one
+      options:
+      - Google Search
+      - Facebook
+      - Yelp or Review Site
+      - Friend or Family Referral
+      - Property Manager
+      - Previous Customer
+      - Other
+      required: false

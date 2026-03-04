@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Critical Infrastructure Security Risk Assessment Questionnaire
+    pages:
+    - id: 1
+      name: general_information
+      label: General Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: physical_security
+      label: Physical Security
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: personnel_security
+      label: Personnel Security
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: access_controls
+      label: Access Controls
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Low''}'
+      - '{''label'': ''Moderate''}'
+      - '{''label'': ''High''}'
+      required: false
+    - id: 5
+      name: asset_protection
+      label: Asset Protection
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: incident_management
+      label: Incident Management
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: security_management
+      label: Security Management
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: training
+      label: Training
+      hint: null
+      type: text
+      options: []
+      required: false

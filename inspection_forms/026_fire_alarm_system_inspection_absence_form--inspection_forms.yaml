@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: fire_alarm_system_inspection_absence_form
+    pages:
+    - id: 1
+      name: inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: absence_notification
+      label: Absence Notification
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: notification_recipients
+      label: Notification Recipients
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: notification_method
+      label: Notification Method
+      hint: null
+      type: select_one
+      options:
+      - email
+      - phone
+      - text
+      required: false
+    - id: 5
+      name: notification_time
+      label: Notification Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: reason_for_absence
+      label: Reason for Absence
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

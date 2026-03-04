@@ -1,0 +1,274 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animal Care App Data Consent
+    pages:
+    - id: 1
+      name: owner_name
+      label: Pet Owner Full Name
+      hint: Legal name of pet owner
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: owner_email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: owner_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: owner_address
+      label: Address
+      hint: Street, city, state, zip
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: consent_intro
+      label: Animal Care App Data Usage Consent
+      hint: This form documents your consent for data collection and usage within
+        the animal care application. Please read carefully.
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: app_name
+      label: Application Name
+      hint: Name of the animal care app
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: pet_information
+      label: Pet Information
+      hint: Details about your pet
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: pet_name
+      label: Pet's Name
+      hint: What do you call your pet
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: pet_species
+      label: Species
+      hint: Type of animal
+      type: select_one
+      options:
+      - Dog
+      - Cat
+      - Bird
+      - Rabbit
+      - Horse
+      - Reptile
+      - Small animal
+      - Other
+      required: true
+    - id: 10
+      name: pet_breed
+      label: Breed
+      hint: Breed or mix
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: pet_age
+      label: Age
+      hint: Years old
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: pet_microchip
+      label: Microchip Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: data_collection
+      label: Data Collection Consent
+      hint: Information about data collection
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: data_types_collected
+      label: What types of data will be collected
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Pet health records
+      - Vaccination history
+      - Medication information
+      - Appointment schedules
+      - Weight and measurements
+      - Behavioral notes
+      - Photos of pet
+      - Location data
+      - Usage analytics
+      required: true
+    - id: 15
+      name: data_purpose
+      label: Primary Purpose of Data Collection
+      hint: Why data is collected
+      type: select_one
+      options:
+      - Pet health management
+      - Veterinary care coordination
+      - Appointment reminders
+      - Personalized recommendations
+      - Research and development
+      - All of the above
+      required: true
+    - id: 16
+      name: data_sharing
+      label: Data Sharing Preferences
+      hint: Who can access your data
+      type: select_multiple
+      options:
+      - Primary veterinarian
+      - Emergency veterinary clinics
+      - Pet insurance providers
+      - Groomers or trainers
+      - Boarding facilities
+      - Research institutions - anonymized
+      - Do not share with third parties
+      required: true
+    - id: 17
+      name: data_storage
+      label: Data Storage Information
+      hint: How your data is stored
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: storage_acknowledgment
+      label: I understand that my data will be stored securely
+      hint: Storage acknowledgment
+      type: select_one
+      options:
+      - Yes - I understand
+      - No - I have questions
+      required: true
+    - id: 19
+      name: data_retention
+      label: Data Retention Period
+      hint: How long data is kept
+      type: select_one
+      options:
+      - As long as I use the app
+      - 5 years after last use
+      - 10 years for medical records
+      - Indefinitely for health records
+      required: false
+    - id: 20
+      name: user_rights
+      label: Your Rights
+      hint: Data privacy rights
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: rights_acknowledged
+      label: I understand I have the right to
+      hint: User rights
+      type: select_multiple
+      options:
+      - Access my data
+      - Correct inaccurate data
+      - Delete my data
+      - Export my data
+      - Withdraw consent
+      - File a complaint
+      required: true
+    - id: 22
+      name: marketing_consent
+      label: May we contact you about new features or promotions
+      hint: Marketing communications
+      type: select_one
+      options:
+      - Yes - email only
+      - Yes - email and SMS
+      - No - no marketing
+      required: true
+    - id: 23
+      name: analytics_consent
+      label: Do you consent to anonymous usage analytics
+      hint: App improvement data
+      type: select_one
+      options:
+      - Yes - I consent
+      - false
+      required: true
+    - id: 24
+      name: security_measures
+      label: Security Measures Acknowledgment
+      hint: Data protection
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: security_understood
+      label: I understand that industry-standard security measures are in place
+      hint: Security acknowledgment
+      type: select_one
+      options:
+      - Yes - I understand
+      - false
+      required: true
+    - id: 26
+      name: consent_duration
+      label: This consent is valid until
+      hint: Consent period
+      type: select_one
+      options:
+      - Revoked by me
+      - 2 years from today
+      - 5 years from today
+      - Indefinitely
+      required: true
+    - id: 27
+      name: additional_authorizations
+      label: Additional Authorizations
+      hint: Optional permissions
+      type: select_multiple
+      options:
+      - Share data with emergency contacts
+      - Allow telemedicine consultations
+      - Enable automatic prescription refills
+      - Participate in health studies
+      - None
+      required: false
+    - id: 28
+      name: owner_signature
+      label: Owner Signature
+      hint: Type full legal name
+      type: text
+      options: []
+      required: true
+    - id: 29
+      name: signature_date
+      label: Date of Signature
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 30
+      name: witness_name
+      label: Witness Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: Insurance Coverage Declaration Form
+    pages:
+    - id: 1
+      name: first_page
+      label: First page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: coverage_limits
+      label: Coverage limits
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: exclusions_list
+      label: Exclusions list
+      hint: null
+      type: select_one
+      options:
+      - Liability
+      - Fire
+      - Water
+      required: false
+    - id: 4
+      name: coverage_amount
+      label: Coverage amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: coverage_date
+      label: Coverage date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: coverage_time
+      label: Coverage time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: policy_type
+      label: Policy type
+      hint: null
+      type: select_multiple
+      options:
+      - Type 1
+      - Type 2
+      - Type 3
+      required: false
+    - id: 8
+      name: policy_status
+      label: Policy status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 9
+      name: coverage_start_date
+      label: Coverage start date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: coverage_end_date
+      label: Coverage end date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: policy_start_date
+      label: Policy start date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: policy_end_date
+      label: Policy end date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: policy_number
+      label: Policy number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: policy_number2
+      label: Policy number 2
+      hint: null
+      type: select_one
+      options:
+      - '1234'
+      - '5678'
+      - '9012'
+      required: false
+    - id: 15
+      name: coverage_type
+      label: Coverage type
+      hint: null
+      type: select_one
+      options:
+      - Single
+      - Multiple
+      required: false
+    - id: 16
+      name: coverage_name
+      label: Coverage name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: coverage_description
+      label: Coverage description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: coverage_start_time
+      label: Coverage start time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: coverage_end_time
+      label: Coverage end time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: coverage_limit
+      label: Coverage limit
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: policy_limit
+      label: Policy limit
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: policy_description
+      label: Policy description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: policy_start_limit
+      label: Policy start limit
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: policy_end_limit
+      label: Policy end limit
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: additional_information
+      label: Additional information
+      hint: null
+      type: text
+      options: []
+      required: false

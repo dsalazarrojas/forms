@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pet Insurance Claim Form
+    pages:
+    - id: 1
+      name: pet_name
+      label: Pet Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: pet_type
+      label: pet_type
+      hint: null
+      type: select_one
+      options:
+      - Pet Dog
+      - Pet Cat
+      - Other
+      required: true
+    - id: 3
+      name: claim_date
+      label: Claim Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: insurance_provider
+      label: Insurance Provider
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: claim_amount
+      label: Claim Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: vet_name
+      label: Vet Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: vet_address
+      label: Vet Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: medical_record_id
+      label: Medical Record ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: uploaded_documents
+      label: Uploaded Documents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: submitted_date
+      label: Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: claim_status
+      label: Claim Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Denied
+      required: true
+    - id: 15
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: submitted_by_title
+      label: Submitted By Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: submitted_by_phone
+      label: Submitted By Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: submitted_by_email
+      label: Submitted By Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: submitted_by_address
+      label: Submitted By Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: submitted_by_company
+      label: Submitted By Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: submitted_by_job_title
+      label: Submitted By Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: submitted_by_department
+      label: Submitted By Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: submitted_by_job_function
+      label: Submitted By Job Function
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submitted_by_work_phone
+      label: Submitted By Work Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submitted_by_work_email
+      label: Submitted By Work Email
+      hint: null
+      type: email
+      options: []
+      required: false

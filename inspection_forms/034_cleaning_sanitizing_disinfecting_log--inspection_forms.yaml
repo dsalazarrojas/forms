@@ -1,0 +1,394 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Cleaning Sanitizing Disinfecting Log
+    pages:
+      - id: 1
+        name: facility_name
+        label: Facility Name
+        hint: Name of the facility
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: facility_department
+        label: Department or Area
+        hint: Specific department or area
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: log_date
+        label: Log Date
+        hint: Date of this log entry
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: staff_name
+        label: Staff Name
+        hint: Name of staff member performing cleaning
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: staff_id
+        label: Staff ID Number
+        hint: Employee identification number
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: supervisor_name
+        label: Supervisor Name
+        hint: Name of supervising staff
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: section_header_morning
+        label: -- Morning Cleaning and Sanitizing --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 8
+        name: morning_start_time
+        label: Morning Shift Start Time
+        hint: Time morning cleaning began
+        type: time
+        options: []
+        required: false
+      - id: 9
+        name: morning_end_time
+        label: Morning Shift End Time
+        hint: Time morning cleaning ended
+        type: time
+        options: []
+        required: false
+      - id: 10
+        name: morning_high_touch_surfaces
+        label: Morning - High-Touch Surfaces Cleaned
+        hint: Doorknobs, switches, handles, etc.
+        type: select_one
+        options:
+          - Completed
+          - Partially Completed
+          - Not Completed
+          - Not Applicable
+        required: true
+      - id: 11
+        name: morning_restrooms
+        label: Morning - Restrooms Sanitized
+        hint: Toilets, sinks, fixtures
+        type: select_one
+        options:
+          - Completed
+          - Partially Completed
+          - Not Completed
+          - Not Applicable
+        required: true
+      - id: 12
+        name: morning_kitchen
+        label: Morning - Kitchen or Break Room Sanitized
+        hint: Counters, appliances, tables
+        type: select_one
+        options:
+          - Completed
+          - Partially Completed
+          - Not Completed
+          - Not Applicable
+        required: true
+      - id: 13
+        name: morning_common_areas
+        label: Morning - Common Areas Disinfected
+        hint: Lobbies, hallways, waiting areas
+        type: select_one
+        options:
+          - Completed
+          - Partially Completed
+          - Not Completed
+          - Not Applicable
+        required: true
+      - id: 14
+        name: morning_products_used
+        label: Morning - Disinfectant Products Used
+        hint: List products used
+        type: text
+        options: []
+        required: false
+      - id: 15
+        name: section_header_afternoon
+        label: -- Afternoon Cleaning and Sanitizing --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 16
+        name: afternoon_start_time
+        label: Afternoon Shift Start Time
+        hint: Time afternoon cleaning began
+        type: time
+        options: []
+        required: false
+      - id: 17
+        name: afternoon_end_time
+        label: Afternoon Shift End Time
+        hint: Time afternoon cleaning ended
+        type: time
+        options: []
+        required: false
+      - id: 18
+        name: afternoon_high_touch_surfaces
+        label: Afternoon - High-Touch Surfaces Cleaned
+        hint: Doorknobs, switches, handles, etc.
+        type: select_one
+        options:
+          - Completed
+          - Partially Completed
+          - Not Completed
+          - Not Applicable
+        required: true
+      - id: 19
+        name: afternoon_restrooms
+        label: Afternoon - Restrooms Sanitized
+        hint: Toilets, sinks, fixtures
+        type: select_one
+        options:
+          - Completed
+          - Partially Completed
+          - Not Completed
+          - Not Applicable
+        required: true
+      - id: 20
+        name: afternoon_kitchen
+        label: Afternoon - Kitchen or Break Room Sanitized
+        hint: Counters, appliances, tables
+        type: select_one
+        options:
+          - Completed
+          - Partially Completed
+          - Not Completed
+          - Not Applicable
+        required: true
+      - id: 21
+        name: afternoon_common_areas
+        label: Afternoon - Common Areas Disinfected
+        hint: Lobbies, hallways, waiting areas
+        type: select_one
+        options:
+          - Completed
+          - Partially Completed
+          - Not Completed
+          - Not Applicable
+        required: true
+      - id: 22
+        name: afternoon_products_used
+        label: Afternoon - Disinfectant Products Used
+        hint: List products used
+        type: text
+        options: []
+        required: false
+      - id: 23
+        name: section_header_evening
+        label: -- Evening Cleaning and Disinfecting --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 24
+        name: evening_start_time
+        label: Evening Shift Start Time
+        hint: Time evening cleaning began
+        type: time
+        options: []
+        required: false
+      - id: 25
+        name: evening_end_time
+        label: Evening Shift End Time
+        hint: Time evening cleaning ended
+        type: time
+        options: []
+        required: false
+      - id: 26
+        name: evening_high_touch_surfaces
+        label: Evening - High-Touch Surfaces Cleaned
+        hint: Doorknobs, switches, handles, etc.
+        type: select_one
+        options:
+          - Completed
+          - Partially Completed
+          - Not Completed
+          - Not Applicable
+        required: true
+      - id: 27
+        name: evening_restrooms
+        label: Evening - Restrooms Sanitized
+        hint: Toilets, sinks, fixtures
+        type: select_one
+        options:
+          - Completed
+          - Partially Completed
+          - Not Completed
+          - Not Applicable
+        required: true
+      - id: 28
+        name: evening_kitchen
+        label: Evening - Kitchen or Break Room Sanitized
+        hint: Counters, appliances, tables
+        type: select_one
+        options:
+          - Completed
+          - Partially Completed
+          - Not Completed
+          - Not Applicable
+        required: true
+      - id: 29
+        name: evening_common_areas
+        label: Evening - Common Areas Disinfected
+        hint: Lobbies, hallways, waiting areas
+        type: select_one
+        options:
+          - Completed
+          - Partially Completed
+          - Not Completed
+          - Not Applicable
+        required: true
+      - id: 30
+        name: evening_floor_cleaning
+        label: Evening - Floors Cleaned and Mopped
+        hint: All floor areas
+        type: select_one
+        options:
+          - Completed
+          - Partially Completed
+          - Not Completed
+          - Not Applicable
+        required: true
+      - id: 31
+        name: evening_products_used
+        label: Evening - Disinfectant Products Used
+        hint: List products used
+        type: text
+        options: []
+        required: false
+      - id: 32
+        name: section_header_compliance
+        label: -- Compliance and Safety --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 33
+        name: contact_time_followed
+        label: Disinfectant Contact Time Followed
+        hint: Was proper contact time maintained
+        type: select_one
+        options:
+          - Yes - All surfaces
+          - Mostly - Some surfaces
+          - No - Contact time not followed
+          - Unsure
+        required: true
+      - id: 34
+        name: ppe_used
+        label: Personal Protective Equipment Used
+        hint: Was PPE worn during cleaning
+        type: select_one
+        options:
+          - Yes - Full PPE (gloves, mask, goggles)
+          - Yes - Basic PPE (gloves)
+          - Partially - Some PPE
+          - No - No PPE used
+        required: true
+      - id: 35
+        name: dilution_ratios_followed
+        label: Chemical Dilution Ratios Followed
+        hint: Were proper dilutions used
+        type: select_one
+        options:
+          - Yes - All chemicals properly diluted
+          - Mostly - Most chemicals correct
+          - No - Improper dilutions used
+          - Pre-mixed Products Used
+        required: true
+      - id: 36
+        name: safety_data_sheets_available
+        label: Safety Data Sheets Available
+        hint: Are SDS accessible for all products
+        type: select_one
+        options:
+          - Yes - All SDS available
+          - Partially - Some SDS available
+          - No - SDS not available
+        required: true
+      - id: 37
+        name: section_header_issues
+        label: -- Issues and Notes --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 38
+        name: supplies_used
+        label: Cleaning Supplies Used Today
+        hint: List supplies consumed
+        type: text
+        options: []
+        required: false
+      - id: 39
+        name: supplies_needed
+        label: Supplies Needing Restock
+        hint: List supplies running low
+        type: text
+        options: []
+        required: false
+      - id: 40
+        name: issues_encountered
+        label: Issues or Concerns
+        hint: Any problems encountered during cleaning
+        type: text
+        options: []
+        required: false
+      - id: 41
+        name: areas_requiring_attention
+        label: Areas Requiring Additional Attention
+        hint: Which areas need extra focus
+        type: text
+        options: []
+        required: false
+      - id: 42
+        name: staff_signature
+        label: Staff Signature (Type Full Name)
+        hint: Staff electronic signature
+        type: text
+        options: []
+        required: true
+      - id: 43
+        name: supervisor_verification
+        label: Supervisor Verification
+        hint: Has supervisor verified this log
+        type: select_one
+        options:
+          - Verified and Approved
+          - Verified with Comments
+          - Pending Verification
+        required: true
+      - id: 44
+        name: supervisor_signature
+        label: Supervisor Signature (Type Full Name)
+        hint: Supervisor electronic signature
+        type: text
+        options: []
+        required: true

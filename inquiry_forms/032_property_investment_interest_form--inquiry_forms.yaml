@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property Investment Interest Form
+    pages:
+    - id: 1
+      name: property_investment_interest_form
+      label: property_investment_interest_form_label
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: contact_name
+      label: contact_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: property_type
+      label: property_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''single-family_residence'', ''label'': ''single_family_residence''}'
+      - '{''id'': 2, ''value'': ''condominium'', ''label'': ''condominium''}'
+      - '{''id'': 3, ''value'': ''townhouse'', ''label'': ''townhouse''}'
+      - '{''id'': 4, ''value'': ''apartment'', ''label'': ''apartment''}'
+      - '{''id'': 5, ''value'': ''land'', ''label'': ''land''}'
+      required: false
+    - id: 6
+      name: property_location
+      label: property_location
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''urban'', ''label'': ''urban''}'
+      - '{''id'': 2, ''value'': ''suburban'', ''label'': ''suburban''}'
+      - '{''id'': 3, ''value'': ''rural'', ''label'': ''rural''}'
+      required: false
+    - id: 7
+      name: investment_period
+      label: investment_period
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: property_price
+      label: property_price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: property_value
+      label: property_value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: property_size
+      label: property_size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: property_area
+      label: property_area
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: investor_name
+      label: investor_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: investor_organization
+      label: investor_organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: investor_email
+      label: investor_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: investor_phone
+      label: investor_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: property_use
+      label: property_use
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''residential'', ''label'': ''residential''}'
+      - '{''id'': 2, ''value'': ''commercial'', ''label'': ''commercial''}'
+      - '{''id'': 3, ''value'': ''industrial'', ''label'': ''industrial''}'
+      required: true
+    - id: 17
+      name: investor_experience
+      label: investor_experience
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''beginner'', ''label'': ''beginner''}'
+      - '{''id'': 2, ''value'': ''intermediate'', ''label'': ''intermediate''}'
+      - '{''id'': 3, ''value'': ''advanced'', ''label'': ''advanced''}'
+      required: false
+    - id: 18
+      name: investor_investment_amount
+      label: investor_investment_amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: property_address
+      label: property_address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: city
+      label: city
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: state
+      label: state
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: zip
+      label: zip
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: property_description
+      label: property_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submission_date
+      label: submission_date
+      hint: null
+      type: date
+      options: []
+      required: false

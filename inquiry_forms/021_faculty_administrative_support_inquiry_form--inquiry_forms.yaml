@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: Faculty Administrative Support Inquiry Form
+    pages:
+    - id: 1
+      name: request_details
+      label: Request Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: faculty_department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - Department of Computer Science
+      - Department of Mathematics
+      - Department of Physics
+      - Department of Business
+      required: false
+    - id: 3
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_other_info
+      label: Contact Other Info
+      hint: null
+      type: text
+      options: []
+      required: false

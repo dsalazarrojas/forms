@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Security Uniform Checklist
+    pages:
+    - id: 1
+      name: page1
+      label: security_uniform_checklist_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: page2
+      label: standardize_appearance_checks
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: page3
+      label: fast_data_collection
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: facility_managers
+      label: facility_managers
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: inspection_date
+      label: inspection_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: inspection_time
+      label: inspection_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: security_teams
+      label: security_teams
+      hint: null
+      type: select_one
+      options:
+      - Security
+      - Facility
+      - Management
+      required: false
+    - id: 8
+      name: facility_location
+      label: facility_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: facility_contact
+      label: facility_contact
+      hint: null
+      type: text
+      options: []
+      required: false

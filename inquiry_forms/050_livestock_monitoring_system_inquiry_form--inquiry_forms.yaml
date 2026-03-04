@@ -1,0 +1,218 @@
+inputSchema:
+  type: object
+  properties:
+    title: Livestock Monitoring System Inquiry Form
+    pages:
+    - id: 1
+      name: farm_info
+      label: Farm Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: farm_info
+      label: Farm Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: animal_type
+      label: Animal Type
+      hint: null
+      type: select_one
+      options:
+      - Pig
+      - Sheep
+      - Cattle
+      - Horse
+      required: false
+    - id: 7
+      name: animal_count
+      label: Number of Animals
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: animal_count_type
+      label: Animal Count Type
+      hint: null
+      type: select_one
+      options:
+      - Unit
+      - Total
+      required: false
+    - id: 9
+      name: farm_size
+      label: Farm Size
+      hint: null
+      type: select_multiple
+      options:
+      - Small
+      - Medium
+      - Large
+      required: false
+    - id: 10
+      name: farm_type
+      label: Farm Type
+      hint: null
+      type: select_multiple
+      options:
+      - Organic
+      - Conventional
+      - Organic/Conventional
+      required: false
+    - id: 11
+      name: feed_type
+      label: Feed Type
+      hint: null
+      type: select_multiple
+      options:
+      - Grain
+      - Silage
+      - Hay
+      required: false
+    - id: 12
+      name: feed_location
+      label: Feed Location
+      hint: null
+      type: select_multiple
+      options:
+      - On Farm
+      - Off Farm
+      required: false
+    - id: 13
+      name: water_source
+      label: Water Source
+      hint: null
+      type: select_multiple
+      options:
+      - Well
+      - Creek
+      - Pond
+      required: false
+    - id: 14
+      name: water_type
+      label: Water Type
+      hint: null
+      type: select_multiple
+      options:
+      - Spring
+      - Well
+      - Creek
+      required: false
+    - id: 15
+      name: feed_quality
+      label: Feed Quality
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 16
+      name: feed_quality_scale
+      label: Feed Quality Scale
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: feed_frequency
+      label: Feed Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 18
+      name: feed_location
+      label: Feed Location
+      hint: null
+      type: select_multiple
+      options:
+      - On Farm
+      - Off Farm
+      required: false
+    - id: 19
+      name: feed_source
+      label: Feed Source
+      hint: null
+      type: select_multiple
+      options:
+      - Local
+      - Supplier
+      - Other
+      required: false
+    - id: 20
+      name: farm_location
+      label: Farm Location
+      hint: null
+      type: select_multiple
+      options:
+      - On Farm
+      - Off Farm
+      required: false
+    - id: 21
+      name: farm_address
+      label: Farm Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: follow_up
+      label: Follow up
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: follow_up_time
+      label: Follow Up Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: confirm
+      label: Confirm
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

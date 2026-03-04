@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: healthcareroboticsresearchfilmingconsentform
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: informed_consent
+      label: Do you agree
+      hint: null
+      type: select_one
+      options:
+      - I do
+      - I do not
+      required: true
+    - id: 3
+      name: filming_consent
+      label: Filming Consent
+      hint: null
+      type: select_multiple
+      options:
+      - Camera
+      - Audio
+      - Video
+      - Photograph
+      required: true
+    - id: 4
+      name: filming_method
+      label: Filming Method
+      hint: null
+      type: select_multiple
+      options:
+      - Video
+      - Audio
+      - Photograph
+      required: true
+    - id: 5
+      name: filming_location
+      label: Filming Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: researcher_info
+      label: Researcher Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: research_project
+      label: Research Project
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: researcher_name
+      label: Researcher Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: prohibited_prophets
+      label: Prohibited Prophets
+      hint: null
+      type: select_multiple
+      options:
+      - Animals
+      - Bacteria
+      - Virology
+      required: false

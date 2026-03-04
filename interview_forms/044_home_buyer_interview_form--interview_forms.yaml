@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Home Buyer Interview Form
+    pages:
+    - id: 1
+      name: buyer_preferences
+      label: what_is_your_current_budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: preferred_location
+      label: what_location_are_you_preferred
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: desired_property_type
+      label: what_type_of_property
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: property_details
+      label: what_details_about_property
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: time_frame
+      label: when_do_you_want_to_move_in
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: contact_information
+      label: how_do_you_want_to_be_contacted
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: budget_breakdown
+      label: what_is_your_budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: agent_inquiries
+      label: what_do_you_want_to_ask_the_agent
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: property_features
+      label: what_features_are_you_looking_for
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

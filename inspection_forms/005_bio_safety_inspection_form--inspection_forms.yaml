@@ -1,0 +1,111 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Bio Safety Inspection Form
+    pages:
+      - id: 1
+        name: inspection_header
+        label: -- Inspection Details --
+        hint: Complete this form during the lab inspection
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: inspector_name
+        label: Inspector name
+        hint: Enter the inspector conducting the review
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: inspection_date
+        label: Inspection date
+        hint: Date of the inspection
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: lab_location
+        label: Lab location or room
+        hint: Building and room number
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: area_inspected
+        label: Area inspected
+        hint: Specific bench, hood, or storage area
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: biosafety_level
+        label: Biosafety level
+        hint: Select the applicable containment level
+        type: select_one
+        options:
+          - BSL-1
+          - BSL-2
+          - BSL-3
+          - BSL-4
+        required: true
+      - id: 7
+        name: ppe_compliance
+        label: PPE compliance
+        hint: Are personnel following PPE requirements
+        type: select_one
+        options:
+          - Compliant
+          - Non compliant
+          - Not applicable
+        required: true
+      - id: 8
+        name: contamination_observed
+        label: Contamination observed
+        hint: Evidence of spills or contamination
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 9
+        name: immediate_actions_taken
+        label: Immediate actions taken
+        hint: Describe any steps taken during inspection
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: corrective_action_required
+        label: Corrective action required
+        hint: Is follow up or corrective work needed
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 11
+        name: follow_up_date
+        label: Follow up date
+        hint: Date for re inspection or verification
+        type: date
+        options: []
+        required: false
+      - id: 12
+        name: inspector_comments
+        label: Inspector comments
+        hint: Additional observations or recommendations
+        type: text
+        options: []
+        required: false

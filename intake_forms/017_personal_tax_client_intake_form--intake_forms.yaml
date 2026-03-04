@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Personal Tax Client Intake Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: social_security_number
+      label: Social Security Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: occupation
+      label: Occupation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: employer_name
+      label: Employer name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: employer_address
+      label: Employer address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: client_notes
+      label: Client notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: years_of_employment
+      label: Years employed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: income_earned_2021
+      label: Income earned 2021
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: dependents
+      label: Dependents
+      hint: null
+      type: select_multiple
+      options:
+      - '{''options'': [{''label'': ''None''}, {''label'': ''Self''}, {''label'':
+        ''Spouse''}, {''label'': ''Child''}, {''label'': ''Other''}]}'
+      - Other
+      required: false
+    - id: 14
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: county
+      label: County
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: emergency_contact_name
+      label: Emergency contact name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: emergency_contact_relationship
+      label: Emergency contact relationship
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Mother''}'
+      - '{''label'': ''Father''}'
+      - '{''label'': ''Brother''}'
+      - '{''label'': ''Sister''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 22
+      name: emergency_contact_phone
+      label: Emergency contact phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: emergency_contact_address
+      label: Emergency contact address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: emergency_contact_date_of_birth
+      label: Emergency contact date of birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: emergency_contact_social_security_number
+      label: Emergency contact social security number
+      hint: null
+      type: text
+      options: []
+      required: false

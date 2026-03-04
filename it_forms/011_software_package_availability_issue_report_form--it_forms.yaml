@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Software Package Availability Issue Report Form
+    pages:
+    - id: 1
+      name: software_package_availability_issue_report_form_1
+      label: Report Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: package_name
+      label: Package Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: software_package_version
+      label: Software Package Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: operating_system
+      label: Operating System
+      hint: null
+      type: select_one
+      options:
+      - Windows
+      - macOS
+      - Linux
+      required: false
+    - id: 6
+      name: software_package_status
+      label: Software Package Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      - Not Installed
+      required: true
+    - id: 7
+      name: priority
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 8
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submitted_on
+      label: Submitted On
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: comment
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - John Doe
+      - Jane Doe
+      required: true
+    - id: 14
+      name: assigned_to_comment
+      label: Assigned To Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submitted_via
+      label: Submitted Via
+      hint: null
+      type: select_one
+      options:
+      - IT
+      - Support
+      required: false
+    - id: 16
+      name: package_id
+      label: Package ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: operating_system_version
+      label: Operating System Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: software_license
+      label: Software License
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: software_vendor
+      label: Software Vendor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: software_type
+      label: Software Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: package_status_comment
+      label: Package Status Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: submitter
+      label: Submitter
+      hint: null
+      type: select_one
+      options:
+      - John Doe
+      - Jane Doe
+      required: true
+    - id: 23
+      name: submitter_comment
+      label: Submitter Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 25
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: false

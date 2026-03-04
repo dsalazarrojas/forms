@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cottage Safety Inspection Checklist
+    pages:
+    - id: 1
+      name: cottage_address
+      label: cottage_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: fire_safety
+      label: fire_safety
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: electrical_safety
+      label: electrical_safety
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 4
+      name: gas_safety
+      label: gas_safety
+      hint: null
+      type: select_multiple
+      options:
+      - natural_gas
+      - propane
+      - electric
+      required: false
+    - id: 5
+      name: water_safety
+      label: water_safety
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: structural_integrity
+      label: structural_integrity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: safety_equipment
+      label: safety_equipment
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 8
+      name: electrical_hazards
+      label: electrical_hazards
+      hint: null
+      type: select_multiple
+      options:
+      - loose_wiring
+      - exposed_wiring
+      - faulty_fuses
+      required: false
+    - id: 9
+      name: gas_leaks
+      label: gas_leaks
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 10
+      name: water_leaks
+      label: water_leaks
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false

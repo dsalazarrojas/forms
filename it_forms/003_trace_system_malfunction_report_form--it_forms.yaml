@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Trace System Malfunction Report Form
+    pages:
+    - id: 1
+      name: trace_system_malfunction_report_form
+      label: Trace System Malfunction Report Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_malfunction
+      label: date_of_malfunction
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: time_of_malfunction
+      label: time_of_malfunction
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: description_of_problem
+      label: description_of_problem
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: impact
+      label: impact
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: system_affects
+      label: system_affects
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: affected_user
+      label: affected_user
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: contact_details
+      label: contact_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: action_taken
+      label: action_taken
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: additional_info
+      label: additional_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: trace_system_malfunction_report_form_subform
+      label: Trace System Malfunction Report Form Subform
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

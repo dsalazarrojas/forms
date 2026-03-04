@@ -1,0 +1,126 @@
+inputSchema:
+  type: object
+  properties:
+    title: Acupuncturist Telehealth Consent Form
+    pages:
+    - id: 1
+      name: telehealth_intro
+      label: -- Telehealth Consultation Informed Consent --
+      hint: Please read and acknowledge the following regarding virtual acupuncture
+        consultations
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_full_name
+      label: Patient Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: provider_name
+      label: Lead Acupuncturist / Provider
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: telehealth_description
+      label: -- Description of Services --
+      hint: Telehealth involves the use of electronic communications to enable healthcare
+        providers at different locations to share individual patient medical data
+        for the purpose of improving patient care.
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: technology_requirement
+      label: I acknowledge I have access to the necessary technology for the session
+      hint: High-speed internet and device with camera/microphone
+      type: select_one
+      options:
+      - I Acknowledge
+      - Other
+      required: true
+    - id: 6
+      name: risks_limitations_header
+      label: -- Risks and Limitations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: risk_acknowledgment
+      label: I understand the limitations of telehealth compared to in-person visits
+      hint: Including inability to perform physical palpation or needle insertion
+      type: select_one
+      options:
+      - I Understand
+      - Other
+      required: true
+    - id: 8
+      name: privacy_security_ack
+      label: I understand that electronic systems may have potential security risks
+      hint: null
+      type: select_one
+      options:
+      - I Understand
+      - Other
+      required: true
+    - id: 9
+      name: emergency_plan_header
+      label: -- Emergency Procedures --
+      hint: In case of technical failure or medical emergency during the session
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: patient_location_during_call
+      label: Your Physical Location During Telehealth Sessions
+      hint: Street address where you will be located
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: backup_phone_number
+      label: Backup Phone Number
+      hint: In case of video disconnect
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: hipaa_agreement
+      label: I consent to the use of HIPAA-compliant platforms for my consultation
+      hint: null
+      type: select_one
+      options:
+      - I Consent
+      - Other
+      required: true
+    - id: 13
+      name: right_to_terminate
+      label: I understand I have the right to terminate the telehealth session at
+        any time
+      hint: null
+      type: select_one
+      options:
+      - I Understand
+      - Other
+      required: true
+    - id: 14
+      name: consent_signature_box
+      label: Electronic Signature - I give my informed consent for telehealth services
+      hint: null
+      type: select_one
+      options:
+      - I Sign and Consent
+      - Other
+      required: true
+    - id: 15
+      name: consent_date
+      label: Date of Consent
+      hint: null
+      type: date
+      options: []
+      required: true

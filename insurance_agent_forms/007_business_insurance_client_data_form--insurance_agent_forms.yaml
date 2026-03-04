@@ -1,0 +1,216 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Insurance Client Data Form
+    pages:
+    - id: 1
+      name: business_name
+      label: Business Name
+      hint: Legal name of the business
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: business_type
+      label: Business Type
+      hint: Select business structure
+      type: select_one
+      options:
+      - Sole proprietorship
+      - Partnership
+      - Limited Liability Company
+      - Corporation
+      - S Corporation
+      - Non-profit
+      required: true
+    - id: 3
+      name: industry_classification
+      label: Industry Classification
+      hint: Primary business activity
+      type: select_one
+      options:
+      - Agriculture
+      - Construction
+      - Manufacturing
+      - Retail
+      - Wholesale
+      - Transportation
+      - Technology
+      - Healthcare
+      - Professional services
+      - Hospitality
+      - Real estate
+      - Other
+      required: true
+    - id: 4
+      name: business_address
+      label: Business Address
+      hint: Full physical address
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: years_in_operation
+      label: Years in Operation
+      hint: How long has the business operated
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: number_of_employees
+      label: Number of Employees
+      hint: Total full-time and part-time employees
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: annual_revenue
+      label: Annual Revenue
+      hint: Approximate annual gross revenue
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: business_locations
+      label: Number of Locations
+      hint: How many business locations
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: current_insurance_carrier
+      label: Current Insurance Carrier
+      hint: Name of current insurance provider if any
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: current_policy_expiration
+      label: Current Policy Expiration Date
+      hint: When does your current policy expire
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: coverage_types_needed
+      label: Coverage Types Needed
+      hint: Select all insurance types needed
+      type: select_multiple
+      options:
+      - General liability
+      - Property insurance
+      - Workers compensation
+      - Professional liability
+      - Commercial auto
+      - Cyber liability
+      - Business interruption
+      - Directors and officers
+      - Product liability
+      - Employment practices liability
+      required: true
+    - id: 12
+      name: property_ownership
+      label: Property Ownership
+      hint: Do you own or lease business property
+      type: select_one
+      options:
+      - Own building and land
+      - Own building - lease land
+      - Lease building
+      - Home-based business
+      - Mobile business
+      required: true
+    - id: 13
+      name: property_value
+      label: Estimated Property Value
+      hint: Value of buildings and contents if owned
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: vehicles_owned
+      label: Number of Business Vehicles
+      hint: How many vehicles does the business own
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: vehicle_types
+      label: Vehicle Types
+      hint: Select all vehicle types used
+      type: select_multiple
+      options:
+      - Cars
+      - Trucks
+      - Vans
+      - Motorcycles
+      - Heavy equipment
+      - None
+      required: false
+    - id: 16
+      name: claims_history
+      label: Claims History
+      hint: Have you had any insurance claims in past 5 years
+      type: select_one
+      options:
+      - No claims
+      - One claim
+      - Two to three claims
+      - Four or more claims
+      required: true
+    - id: 17
+      name: claims_description
+      label: Claims Description
+      hint: Briefly describe any past claims
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: risk_management_practices
+      label: Risk Management Practices
+      hint: Select all risk management practices in place
+      type: select_multiple
+      options:
+      - Safety training programs
+      - Regular equipment maintenance
+      - Security systems
+      - Fire suppression systems
+      - Emergency procedures
+      - Background checks
+      - None
+      required: true
+    - id: 19
+      name: special_risks
+      label: Special Risks or Hazards
+      hint: Describe any special risks associated with your business
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: coverage_limits_preference
+      label: Coverage Limits Preference
+      hint: What coverage limit level do you prefer
+      type: select_one
+      options:
+      - Minimum required
+      - Moderate coverage
+      - Comprehensive coverage
+      - Maximum available
+      required: true
+    - id: 21
+      name: deductible_preference
+      label: Deductible Preference
+      hint: Preferred deductible amount
+      type: select_one
+      options:
+      - Low deductible - higher premium
+      - Medium deductible
+      - High deductible - lower premium
+      required: true
+    - id: 22
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information for your insurance quote
+      type: text
+      options: []
+      required: false

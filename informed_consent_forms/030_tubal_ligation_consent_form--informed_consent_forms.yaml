@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tubal Ligation Consent Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_procedure
+      label: Date of Procedure
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: time_of_procedure
+      label: Time of Procedure
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: allergies
+      label: Allergies
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: medications
+      label: Medications
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: surgical_history
+      label: Surgical History
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: anesthesia_info
+      label: Anesthesia Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: anesthesia_type
+      label: Anesthesia Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: surgeon
+      label: Surgeon
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: assistant
+      label: Assistant
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: consent_given
+      label: Consent Given
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: date_consent_given
+      label: Date of Consent
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: patient_contact
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: emergency_contact
+      label: Emergency Contact Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: emergency_contact_relationship
+      label: Relationship
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: emergency_contact_address
+      label: Address of Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: emergency_contact_email
+      label: Emergency Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 21
+      name: patient_signature
+      label: Patient Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 22
+      name: surgeon_signature
+      label: Surgeon Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 23
+      name: witness_signature
+      label: Witness Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 24
+      name: witness_name
+      label: Witness Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: witness_relationship
+      label: Witness Relationship
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

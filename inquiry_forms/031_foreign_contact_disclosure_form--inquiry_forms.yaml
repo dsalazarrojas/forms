@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: Foreign Contact Disclosure Form
+    pages:
+    - id: 1
+      name: foreign_contact_info
+      label: foreign_contact_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_type
+      label: contact_type
+      hint: null
+      type: select_one
+      options:
+      - option 1
+      - option 2
+      - option 3
+      required: false
+    - id: 3
+      name: contact_name
+      label: contact_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_country
+      label: contact_country
+      hint: null
+      type: select_one
+      options:
+      - option 1
+      - option 2
+      - option 3
+      required: false
+    - id: 7
+      name: contact_state
+      label: contact_state
+      hint: null
+      type: select_multiple
+      options:
+      - option 1
+      - option 2
+      - option 3
+      required: false
+    - id: 8
+      name: contact_city
+      label: contact_city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_postalcode
+      label: contact_postalcode
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_address
+      label: contact_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_zip
+      label: contact_zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_date
+      label: contact_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: contact_time
+      label: contact_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: reason_for_contact
+      label: reason_for_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,156 @@
+inputSchema:
+  type: object
+  properties:
+    title: Drone Preflight Checklist
+    pages:
+    - id: 1
+      name: drone_preliminary_check
+      label: Drone Preliminary Check
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: propeller_check
+      label: Propeller Check
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: motor_check
+      label: Motor Check
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: battery_check
+      label: Battery Check
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: propeller_cover_check
+      label: Propeller Cover Check
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: motor_mount_check
+      label: Motor Mount Check
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: drone_body_check
+      label: Drone Body Check
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: electrical_system_check
+      label: Electrical System Check
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: flight_control_system_check
+      label: Flight Control System Check
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: safety_system_check
+      label: Safety System Check
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: navigation_check
+      label: Navigation Check
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: communication_system_check
+      label: Communication System Check
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: battery_level_check
+      label: Battery Level Check
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 14
+      name: drone_weight_check
+      label: Drone Weight Check
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: flight_controller_check
+      label: Flight Controller Check
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: compass_check
+      label: Compass Check
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: altimeter_check
+      label: Altimeter Check
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Remote System Scan Scheduling
+    pages:
+    - id: 1
+      name: time_slots
+      label: Time Slots
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: scan_requests
+      label: Scan Requests
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: scan_type
+      label: Scan Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: scan_frequency
+      label: Scan Frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: scan_frequency_2
+      label: Scan Frequency 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: scan_start_time
+      label: Scan Start Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: scan_end_time
+      label: Scan End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: scan_duration
+      label: Scan Duration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: scan_status
+      label: Scan Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: scan_notes
+      label: Scan Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: time_slots_2
+      label: Time Slots 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: time_slots_3
+      label: Time Slots 3
+      hint: null
+      type: text
+      options: []
+      required: false

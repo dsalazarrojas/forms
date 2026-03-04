@@ -1,0 +1,231 @@
+inputSchema:
+  type: object
+  properties:
+    title: software_satisfaction_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: rating_1
+      label: overall_satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: satisfaction_with_1
+      label: satisfaction_with
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''very_satisfied'', ''label'': ''very_satisfied''}'
+      - '{''id'': 2, ''name'': ''somewhat_satisfied'', ''label'': ''somewhat_satisfied''}'
+      - '{''id'': 3, ''name'': ''not_at_all_satisfied'', ''label'': ''not_at_all_satisfied''}'
+      - '{''id'': 4, ''name'': ''extremely_unhappy'', ''label'': ''extremely_unhappy''}'
+      - '{''id'': 5, ''name'': ''very_unhappy'', ''label'': ''very_unhappy''}'
+      required: false
+    - id: 4
+      name: rating_2
+      label: ease_of_use
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: satisfaction_with_2
+      label: satisfaction_with
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''very_satisfied'', ''label'': ''very_satisfied''}'
+      - '{''id'': 2, ''name'': ''somewhat_satisfied'', ''label'': ''somewhat_satisfied''}'
+      - '{''id'': 3, ''name'': ''not_at_all_satisfied'', ''label'': ''not_at_all_satisfied''}'
+      - '{''id'': 4, ''name'': ''extremely_unhappy'', ''label'': ''extremely_unhappy''}'
+      - '{''id'': 5, ''name'': ''very_unhappy'', ''label'': ''very_unhappy''}'
+      required: false
+    - id: 6
+      name: frequency
+      label: howOftenYouUse
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''daily'', ''label'': ''daily''}'
+      - '{''id'': 2, ''name'': ''weekly'', ''label'': ''weekly''}'
+      - '{''id'': 3, ''name'': ''monthly'', ''label'': ''monthly''}'
+      - '{''id'': 4, ''name'': ''yearly'', ''label'': ''yearly''}'
+      - '{''id'': 5, ''name'': ''never'', ''label'': ''never''}'
+      - '{''id'': 6, ''name'': ''dontKnow'', ''label'': ''dontKnow''}'
+      required: false
+    - id: 7
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: rating_3
+      label: ease_of_contact
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: satisfaction_with_3
+      label: satisfaction_with
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''very_satisfied'', ''label'': ''very_satisfied''}'
+      - '{''id'': 2, ''name'': ''somewhat_satisfied'', ''label'': ''somewhat_satisfied''}'
+      - '{''id'': 3, ''name'': ''not_at_all_satisfied'', ''label'': ''not_at_all_satisfied''}'
+      - '{''id'': 4, ''name'': ''extremely_unhappy'', ''label'': ''extremely_unhappy''}'
+      - '{''id'': 5, ''name'': ''very_unhappy'', ''label'': ''very_unhappy''}'
+      required: false
+    - id: 10
+      name: rating_4
+      label: quality_of_support
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: satisfaction_with_4
+      label: satisfaction_with
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''very_satisfied'', ''label'': ''very_satisfied''}'
+      - '{''id'': 2, ''name'': ''somewhat_satisfied'', ''label'': ''somewhat_satisfied''}'
+      - '{''id'': 3, ''name'': ''not_at_all_satisfied'', ''label'': ''not_at_all_satisfied''}'
+      - '{''id'': 4, ''name'': ''extremely_unhappy'', ''label'': ''extremely_unhappy''}'
+      - '{''id'': 5, ''name'': ''very_unhappy'', ''label'': ''very_unhappy''}'
+      required: false
+    - id: 12
+      name: rating_5
+      label: ease_of_resolution
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: satisfaction_with_5
+      label: satisfaction_with
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''very_satisfied'', ''label'': ''very_satisfied''}'
+      - '{''id'': 2, ''name'': ''somewhat_satisfied'', ''label'': ''somewhat_satisfied''}'
+      - '{''id'': 3, ''name'': ''not_at_all_satisfied'', ''label'': ''not_at_all_satisfied''}'
+      - '{''id'': 4, ''name'': ''extremely_unhappy'', ''label'': ''extremely_unhappy''}'
+      - '{''id'': 5, ''name'': ''very_unhappy'', ''label'': ''very_unhappy''}'
+      required: false
+    - id: 14
+      name: support
+      label: support
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: rating_6
+      label: quality_of_design
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: satisfaction_with_6
+      label: satisfaction_with
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''very_satisfied'', ''label'': ''very_satisfied''}'
+      - '{''id'': 2, ''name'': ''somewhat_satisfied'', ''label'': ''somewhat_satisfied''}'
+      - '{''id'': 3, ''name'': ''not_at_all_satisfied'', ''label'': ''not_at_all_satisfied''}'
+      - '{''id'': 4, ''name'': ''extremely_unhappy'', ''label'': ''extremely_unhappy''}'
+      - '{''id'': 5, ''name'': ''very_unhappy'', ''label'': ''very_unhappy''}'
+      required: false
+    - id: 17
+      name: overall_satisfaction
+      label: overall_satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: rating_7
+      label: support_team
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: satisfaction_with_7
+      label: satisfaction_with
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''very_satisfied'', ''label'': ''very_satisfied''}'
+      - '{''id'': 2, ''name'': ''somewhat_satisfied'', ''label'': ''somewhat_satisfied''}'
+      - '{''id'': 3, ''name'': ''not_at_all_satisfied'', ''label'': ''not_at_all_satisfied''}'
+      - '{''id'': 4, ''name'': ''extremely_unhappy'', ''label'': ''extremely_unhappy''}'
+      - '{''id'': 5, ''name'': ''very_unhappy'', ''label'': ''very_unhappy''}'
+      required: false
+    - id: 20
+      name: rating_8
+      label: time_to_response
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: satisfaction_with_8
+      label: satisfaction_with
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''very_satisfied'', ''label'': ''very_satisfied''}'
+      - '{''id'': 2, ''name'': ''somewhat_satisfied'', ''label'': ''somewhat_satisfied''}'
+      - '{''id'': 3, ''name'': ''not_at_all_satisfied'', ''label'': ''not_at_all_satisfied''}'
+      - '{''id'': 4, ''name'': ''extremely_unhappy'', ''label'': ''extremely_unhappy''}'
+      - '{''id'': 5, ''name'': ''very_unhappy'', ''label'': ''very_unhappy''}'
+      required: false
+    - id: 22
+      name: comments_again
+      label: comments_again
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: rating_9
+      label: quality_of_communication
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: satisfaction_with_9
+      label: satisfaction_with
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''very_satisfied'', ''label'': ''very_satisfied''}'
+      - '{''id'': 2, ''name'': ''somewhat_satisfied'', ''label'': ''somewhat_satisfied''}'
+      - '{''id'': 3, ''name'': ''not_at_all_satisfied'', ''label'': ''not_at_all_satisfied''}'
+      - '{''id'': 4, ''name'': ''extremely_unhappy'', ''label'': ''extremely_unhappy''}'
+      - '{''id'': 5, ''name'': ''very_unhappy'', ''label'': ''very_unhappy''}'
+      required: false
+    - id: 25
+      name: rating_10
+      label: overall_experience
+      hint: null
+      type: number
+      options: []
+      required: false

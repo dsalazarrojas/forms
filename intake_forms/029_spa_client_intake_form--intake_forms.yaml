@@ -1,0 +1,130 @@
+inputSchema:
+  type: object
+  properties:
+    title: Spa Client Intake Form
+    pages:
+    - id: 1
+      name: client_info
+      label: Client Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: contact_email
+      label: Contact E mail
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: schedule_session
+      label: Schedule Session
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: session_start
+      label: Session Start
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: therapy_type
+      label: Therapy Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: medical_notes
+      label: Medical Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: allergies
+      label: Allergies
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: medications
+      label: Medications
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: emergency_relationship
+      label: Emergency Contact Relationship
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: emergency_phone
+      label: Emergency Phone
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: emergency_email
+      label: Emergency E mail
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: payment_info
+      label: Payment Information
+      hint: null
+      type: note
+      options: []
+      required: false

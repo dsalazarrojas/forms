@@ -1,0 +1,242 @@
+inputSchema:
+  type: object
+  properties:
+    title: Child Travel Consent Form
+    pages:
+    - id: 1
+      name: consent_date
+      label: Consent Date
+      hint: Date of travel consent
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: parent_guardian_first_name
+      label: Parent or Guardian First Name
+      hint: Legal first name of parent or guardian giving consent
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: parent_guardian_last_name
+      label: Parent or Guardian Last Name
+      hint: Legal last name of parent or guardian giving consent
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: parent_guardian_email
+      label: Parent or Guardian Email
+      hint: Primary email address for contact
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: parent_guardian_phone
+      label: Parent or Guardian Phone
+      hint: Primary phone number for contact
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: parent_guardian_address
+      label: Parent or Guardian Address
+      hint: Full street address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: child_first_name
+      label: Child First Name
+      hint: Legal first name of the child
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: child_last_name
+      label: Child Last Name
+      hint: Legal last name of the child
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: child_date_of_birth
+      label: Child Date of Birth
+      hint: Please provide the child's birth date
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: child_passport_number
+      label: Child Passport Number
+      hint: Passport number if applicable
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: travel_destination
+      label: Travel Destination
+      hint: Full destination including city and country
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: travel_departure_date
+      label: Travel Departure Date
+      hint: Date of departure
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: travel_return_date
+      label: Travel Return Date
+      hint: Date of return
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: travel_purpose
+      label: Travel Purpose
+      hint: Purpose of the travel
+      type: select_one
+      options:
+      - Vacation
+      - Family visit
+      - School trip
+      - Sports event
+      - Performance
+      - Religious pilgrimage
+      - Other
+      required: true
+    - id: 15
+      name: accompanying_persons
+      label: Accompanying Persons
+      hint: List all adults who will be accompanying the child
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: relationship_to_child
+      label: Relationship to Child
+      hint: Relationship of accompanying adults to the child
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: transportation_method
+      label: Transportation Method
+      hint: How will the child be traveling?
+      type: select_one
+      options:
+      - Airplane
+      - Car
+      - Bus
+      - Train
+      - Boat or ship
+      - Multiple methods
+      required: true
+    - id: 18
+      name: accommodation_details
+      label: Accommodation Details
+      hint: Where will the child be staying?
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Full name of emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number for emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: Relationship of emergency contact to child
+      type: select_one
+      options:
+      - Parent
+      - Guardian
+      - Grandparent
+      - Aunt or Uncle
+      - Family friend
+      - Other
+      required: true
+    - id: 22
+      name: medical_insurance_info
+      label: Medical Insurance Information
+      hint: Provider name and policy number
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: medical_conditions
+      label: Medical Conditions or Allergies
+      hint: List any medical conditions or allergies
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: current_medications
+      label: Current Medications
+      hint: List any current medications with dosages
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: medical_treatment_consent
+      label: Medical Treatment Consent
+      hint: Do you consent to emergency medical treatment if needed?
+      type: select_one
+      options:
+      - Yes, I fully consent
+      - Yes, but contact me first
+      - Yes, with limitations noted
+      - No, do not consent
+      required: true
+    - id: 26
+      name: medical_limitations
+      label: Medical Treatment Limitations
+      hint: Specify any limitations on medical consent
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: return_travel_authorization
+      label: Return Travel Authorization
+      hint: Do you authorize the child to return with the same group?
+      type: select_one
+      options:
+      - Yes, same group
+      - Yes, with different chaperones
+      - No, different return arrangements
+      - Child will not return with group
+      required: true
+    - id: 28
+      name: additional_permissions
+      label: Additional Permissions or Restrictions
+      hint: Any additional permissions or restrictions
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: parent_guardian_signature
+      label: Parent or Guardian Signature
+      hint: Type your full name as your electronic signature
+      type: text
+      options: []
+      required: true
+    - id: 30
+      name: signature_date
+      label: Signature Date
+      hint: Date of electronic signature
+      type: date
+      options: []
+      required: true

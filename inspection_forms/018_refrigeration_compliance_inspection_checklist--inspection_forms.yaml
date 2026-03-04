@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Refrigeration Compliance Inspection Checklist
+    pages:
+    - id: 1
+      name: location_name
+      label: Location Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: inspection_name
+      label: Inspection Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: start_time
+      label: start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: end_time
+      label: end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: facility_type
+      label: Facility Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: refrigeration_systems
+      label: Refrigeration Systems
+      hint: null
+      type: select_one
+      options:
+      - Air
+      - Chiller
+      - Generator
+      - Heat Pump
+      - Other
+      required: false
+    - id: 10
+      name: refrigeration_status
+      label: Refrigeration Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: refrigeration_system_status
+      label: Refrigeration System Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      - Maintenance
+      - Other
+      required: false
+    - id: 12
+      name: refrigeration_systems_checked
+      label: Refrigeration Systems Checked
+      hint: null
+      type: select_multiple
+      options:
+      - Air
+      - Chiller
+      - Generator
+      - Heat Pump
+      - Other
+      required: false
+    - id: 13
+      name: refrigeration_systems_critical
+      label: Refrigeration System Critical
+      hint: null
+      type: select_multiple
+      options:
+      - Critical
+      - Non-Critical
+      - Not Rated
+      required: false
+    - id: 14
+      name: refrigeration_systems_condition
+      label: Refrigeration Systems Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: photos
+      label: Photos
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: videos
+      label: Videos
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: documents
+      label: Documents
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: location_address
+      label: Location Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: location_city
+      label: Location City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: location_postalcode
+      label: Location Postal Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: location_state
+      label: Location State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: location_country
+      label: Location Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: facility_location_id
+      label: Facility Location ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: facility_id
+      label: Facility ID
+      hint: null
+      type: text
+      options: []
+      required: false

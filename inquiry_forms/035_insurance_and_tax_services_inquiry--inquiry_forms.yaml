@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Insurance And Tax Services Inquiry
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: insurance_company_name
+      label: Insurance Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: inquiry_date
+      label: Inquiry Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: inquiry_description
+      label: Inquiry Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: tax_services
+      label: Tax Services
+      hint: null
+      type: select_one
+      options:
+      - Services 1
+      - Services 2
+      - Services 3
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: tax_professional
+      label: Tax Professional
+      hint: null
+      type: select_one
+      options:
+      - Tax Professional 1
+      - Tax Professional 2
+      - Tax Professional 3
+      required: false

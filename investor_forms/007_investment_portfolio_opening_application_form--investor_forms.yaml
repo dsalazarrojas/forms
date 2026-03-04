@@ -1,0 +1,173 @@
+inputSchema:
+  type: object
+  properties:
+    title: investment_portfolio_opening_application_form
+    pages:
+    - id: 1
+      name: contact_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: contact_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: state
+      label: State
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''California''}'
+      - '{''label'': ''New York''}'
+      - '{''label'': ''Texas''}'
+      required: true
+    - id: 7
+      name: zip
+      label: Zip
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: risk_tolerance
+      label: Risk Tolerance
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: risk_capital
+      label: Risk Capital
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: risk_return
+      label: Risk Return
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: account_number
+      label: Account Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: account_type
+      label: Account Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Checking''}'
+      - '{''label'': ''Savings''}'
+      - '{''label'': ''Credit''}'
+      required: true
+    - id: 13
+      name: account_holder
+      label: Account Holder
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: additional
+      label: Additional Info
+      hint: Additional information about the account can be provided here.
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: terms
+      label: Terms and Conditions
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: terms_checkbox
+      label: Terms and Conditions Check
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: agreement_checkbox
+      label: Agreement
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: signature_type
+      label: Signature Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Handwritten''}'
+      - '{''label'': ''Typed_goals''}'
+      required: true
+    - id: 21
+      name: agreement_date
+      label: Agreement Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: contact_agreement
+      label: Contact Agreement
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

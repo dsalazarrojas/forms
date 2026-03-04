@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vacation Home Rental Inquiry Form
+    pages:
+    - id: 1
+      name: inquire_about_property
+      label: Property Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: inquire_about_guest
+      label: guest_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: inquire_about_date
+      label: Check-in Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: inquire_about_time
+      label: Check-out Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: inquire_about_location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: inquire_about_services
+      label: services
+      hint: null
+      type: select_one
+      options:
+      - Wi-Fi
+      - Kitchen
+      - TV
+      required: false
+    - id: 7
+      name: inquire_about_notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: inquire_about_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: inquire_about_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false

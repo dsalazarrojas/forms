@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: Assumption Of Risk Form
+    pages:
+    - id: 1
+      name: participant_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: Your birth date
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: age_verification
+      label: Are You 18 Years or Older
+      hint: Required for participation
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: activity_type
+      label: Type of Activity
+      hint: What activity are you participating in?
+      type: select_one
+      options:
+      - Sports
+      - Adventure Activity
+      - Travel
+      - Event
+      - Recreation
+      - Training Program
+      - Other
+      required: true
+    - id: 8
+      name: activity_description
+      label: Specific Activity Description
+      hint: Detailed description
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: activity_date
+      label: Activity Date
+      hint: When is the activity?
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: activity_location
+      label: Activity Location
+      hint: Where will it take place?
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: organizer_name
+      label: Organizer or Facility Name
+      hint: Name of activity organizer
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: health_conditions
+      label: Known Health Conditions or Injuries
+      hint: Any medical conditions?
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: medications
+      label: Current Medications
+      hint: Any medications being taken?
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: allergies
+      label: Allergies
+      hint: Any known allergies?
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: pregnancy_status
+      label: Are You Pregnant
+      hint: Affects participation
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Prefer Not to Say"
+      required: false
+    - id: 16
+      name: physical_capability
+      label: Do You Have Physical Limitations
+      hint: Any limitations for this activity?
+      type: select_one
+      options:
+      - 'No'
+      - 'Yes'
+      - Unsure
+      required: true
+    - id: 17
+      name: limitation_details
+      label: Limitation Details
+      hint: Describe physical limitations
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: physician_clearance
+      label: Have You Discussed This Activity with Your Physician
+      hint: Medical clearance?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not Applicable
+      required: true
+    - id: 19
+      name: risks_acknowledged
+      label: I acknowledge the risks involved in this activity
+      hint: Confirm understanding of risks
+      type: select_one
+      options:
+      - I Acknowledge
+      - I Do Not Acknowledge
+      required: true
+    - id: 20
+      name: liability_waiver
+      label: I waive liability claims against organizers
+      hint: Release of liability
+      type: select_one
+      options:
+      - I Agree to Waive
+      - I Do Not Agree
+      required: true
+    - id: 21
+      name: insurance_coverage
+      label: Do You Have Personal Liability or Health Insurance
+      hint: Coverage during activity?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unsure
+      required: true
+    - id: 22
+      name: insurance_details
+      label: Insurance Provider and Policy Number
+      hint: Insurance information
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: emergency_contact
+      label: Emergency Contact Name
+      hint: Who to contact in case of emergency
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Emergency contact number
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: form_completion_date
+      label: Form Completion Date
+      hint: Date form was signed
+      type: date
+      options: []
+      required: true

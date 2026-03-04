@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Inquiry Form For Readings
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_email
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: reading_type
+      label: Reading Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: preferred_time
+      label: Preferred Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: inquiry_message
+      label: Inquiry Message
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: scheduling_preferences
+      label: Scheduling Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: availability
+      label: Availability
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: availability_2
+      label: Availability 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: scheduling
+      label: Scheduling
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: reading_details
+      label: Reading Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: practitioner_notes
+      label: Practitioner Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: follow_up_inquiries
+      label: Follow-up Inquiries
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: next_follow_up
+      label: Next Follow-up
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: follow_up_time
+      label: Follow-up Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: follow_up_method
+      label: Follow-up Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: follow_up_message
+      label: Follow-up Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: follow_up_status
+      label: Follow-up Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 18
+      name: follow_up_1_1
+      label: Follow-up 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: follow_up_1_2
+      label: '1'
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: follow_up_1_3
+      label: Follow-up 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: follow_up_2_1
+      label: Follow-up 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: follow_up_2_2
+      label: '2'
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: follow_up_2_3
+      label: Follow-up 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: follow_up_3_1
+      label: Follow-up 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: follow_up_3_2
+      label: '3'
+      hint: null
+      type: text
+      options: []
+      required: false

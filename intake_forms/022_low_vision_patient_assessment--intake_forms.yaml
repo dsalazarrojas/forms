@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: Low Vision Patient Assessment
+    pages:
+    - id: 1
+      name: patient_first_name
+      label: patient_first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_last_name
+      label: patient_last_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_visit
+      label: date_of_visit
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: primary_vision_problem
+      label: primary_vision_problem
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: patient_phone
+      label: patient_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: vision_level
+      label: vision_level
+      hint: null
+      type: select_one
+      options:
+      - Normal
+      - Mild
+      - Moderate
+      - Severe
+      required: true
+    - id: 8
+      name: patient_referring_doctor
+      label: referring_doctor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: patient_referring_doctor_phone
+      label: referring_doctor_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: patient_referring_doctor_email
+      label: referring_doctor_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: referring_clinician
+      label: referring_clinician
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: patient_vision_goals
+      label: vision_goals
+      hint: null
+      type: select_multiple
+      options:
+      - Improve vision
+      - Improve daily activities
+      - Improve independence
+      - Improve vision
+      required: false
+    - id: 13
+      name: vision_goals_detail
+      label: vision_goals_detail
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: medical_history
+      label: medical_history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: patient_medical_conditions
+      label: medical_conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: date_of_last_visit
+      label: date_of_last_visit
+      hint: null
+      type: date
+      options: []
+      required: false

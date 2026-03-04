@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Excavator Attachment Inspection Checklist
+    pages:
+    - id: 1
+      name: general_information
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: attachment_type
+      label: Attachment Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Boom''}'
+      - '{''id'': 2, ''label'': ''Bucket''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: false
+    - id: 3
+      name: attachment_serial_number
+      label: Attachment Serial Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: manufacturer_information
+      label: Manufacturer Information
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Caterpillar''}'
+      - '{''id'': 2, ''label'': ''Komatsu''}'
+      - '{''id'': 3, ''label'': ''Terex''}'
+      required: false
+    - id: 5
+      name: inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: inspection_time
+      label: Inspection Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: inspection_status
+      label: Inspection Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Complete''}'
+      - '{''id'': 2, ''label'': ''Incomplete''}'
+      - '{''id'': 3, ''label'': ''Cancelled''}'
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

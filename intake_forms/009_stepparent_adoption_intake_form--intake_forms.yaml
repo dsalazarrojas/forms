@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stepparent Adoption Intake Form
+    pages:
+    - id: 1
+      name: first_page
+      label: First Page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: FirstName
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: LastName
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_of_birth
+      label: DateOfBirth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: county
+      label: County
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: true
+    - id: 9
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: state
+      label: State
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: true
+    - id: 11
+      name: zip_code
+      label: ZipCode
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: emergency_contact_first_name
+      label: EmergencyContactFirstName
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: emergency_contact_last_name
+      label: EmergencyContactLastName
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: emergency_contact_phone
+      label: EmergencyContactPhone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: emergency_contact_email
+      label: EmergencyContactEmail
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 16
+      name: emergency_contact_relationship
+      label: EmergencyContactRelationship
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: emergency_contact_relationship_other
+      label: EmergencyContactRelationshipOther
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: emergency_contact_address
+      label: EmergencyContactAddress
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: emergency_contact_phone_number
+      label: EmergencyContactPhoneNumber
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: social_worker_first_name
+      label: SocialWorkerFirstName
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: social_worker_last_name
+      label: SocialWorkerLastName
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: social_worker_agency
+      label: SocialWorkerAgency
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: true
+    - id: 23
+      name: court_order_number
+      label: CourtOrderNumber
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: date_of_service
+      label: DateOfService
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: date_of_submission
+      label: DateOfSubmission
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Underfloor Plumbing Assessment
+    pages:
+    - id: 1
+      name: underfloor_plumbing_conditions
+      label: Underfloor Plumbing Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: issues_encountered
+      label: Issues Encountered
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: issue_description
+      label: Issue Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: photo_evidence
+      label: Photo Evidence
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: assessment_report
+      label: Assessment Report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: underfloor_plumbing_issues
+      label: Underfloor Plumbing Issues
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: issue_priority
+      label: Issue Priority
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 8
+      name: issue_remediation_status
+      label: Issue Remediating Status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - Closed
+      - In Progress
+      required: false

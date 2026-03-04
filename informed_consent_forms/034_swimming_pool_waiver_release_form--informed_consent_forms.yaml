@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: swimming_pool_waiver_release_form
+    pages:
+    - id: 1
+      name: swimming_pool_waiver
+      label: I have read and understand this document
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: guests_name
+      label: Guests Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: guests_relationship
+      label: Relationship to Guest
+      hint: null
+      type: select_one
+      options:
+      - Self
+      - Parent
+      - Caregiver
+      - Other
+      required: false
+    - id: 4
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: waiver_signed
+      label: Have you read and signed this document
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Decline
+      required: false
+    - id: 7
+      name: guest_signature
+      label: Guest Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: form_id_41265
+      label: Form 41265
+      hint: null
+      type: select_one
+      options:
+      - '41265'
+      - Other
+      required: false
+    - id: 9
+      name: form_id_65155
+      label: Form 65155
+      hint: null
+      type: select_one
+      options:
+      - '65155'
+      - Other
+      required: false

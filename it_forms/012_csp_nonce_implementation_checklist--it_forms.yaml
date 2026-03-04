@@ -1,0 +1,78 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: CSP Nonce Implementation Checklist
+    pages:
+      - id: 1
+        name: project_name
+        label: Project name
+        hint: Repository or application name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: owner
+        label: Owner or responsible engineer
+        hint: Primary contact
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: nonce_generation_method
+        label: Nonce generation method
+        hint: Describe how nonces are created
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: templating_integrations
+        label: Templating systems requiring nonce support
+        hint: e g server side templates
+        type: text
+        options: []
+        required: false
+      - id: 5
+        name: headers_set_correctly
+        label: Content security policy header set correctly
+        hint: Verify header is present on responses
+        type: select_one
+        options:
+          - Yes
+          - No
+          - Partial
+        required: true
+      - id: 6
+        name: review_status
+        label: Security review status
+        hint: Final review state
+        type: select_one
+        options:
+          - Passed
+          - Action required
+          - Not reviewed
+        required: true
+      - id: 7
+        name: remediation_tasks
+        label: Remediation tasks
+        hint: Tasks and owners for fixes
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: completion_date
+        label: Expected completion date
+        hint: Target date for implementation
+        type: date
+        options: []
+        required: false

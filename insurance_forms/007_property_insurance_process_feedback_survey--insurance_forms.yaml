@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property Insurance Process Feedback Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Property Insurance Process Feedback Survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: overall_rating
+      label: Overall Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: stage_1
+      label: Stage 1
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Too long''}'
+      - '{''label'': ''Too short''}'
+      - '{''label'': ''Just right''}'
+      required: false
+    - id: 4
+      name: stage_2
+      label: Stage 2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Too long''}'
+      - '{''label'': ''Too short''}'
+      - '{''label'': ''Just right''}'
+      required: false
+    - id: 5
+      name: stage_3
+      label: Stage 3
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Too long''}'
+      - '{''label'': ''Too short''}'
+      - '{''label'': ''Just right''}'
+      required: false
+    - id: 6
+      name: communication
+      label: Communication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: stage_4
+      label: Stage 4
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Too long''}'
+      - '{''label'': ''Too short''}'
+      - '{''label'': ''Just right''}'
+      required: false
+    - id: 8
+      name: stage_5
+      label: Stage 5
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Too long''}'
+      - '{''label'': ''Too short''}'
+      - '{''label'': ''Just right''}'
+      required: false
+    - id: 9
+      name: timeliness
+      label: Timeliness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: overall_service
+      label: Overall Service
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

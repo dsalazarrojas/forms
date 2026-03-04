@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: irrigation_system_maintenance_inspection_form
+    pages:
+    - id: 1
+      name: main_page
+      label: main_page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: maintenance_section
+      label: maintenance_section
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: maintenance_status
+      label: maintenance_status
+      hint: null
+      type: select_one
+      options:
+      - Not started
+      - In Progress
+      - Completed
+      required: true
+    - id: 4
+      name: equipment_status
+      label: equipment_status
+      hint: null
+      type: select_multiple
+      options:
+      - Not available
+      - Available
+      - Not functioning
+      - Functioning
+      required: true
+    - id: 5
+      name: schedule_next
+      label: schedule_next
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

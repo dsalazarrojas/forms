@@ -1,0 +1,86 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Art Gallery Curator Interview Form
+    pages:
+      - id: 1
+        name: candidate_name
+        label: Candidate name
+        hint: Full name of the candidate
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: position
+        label: Position applied for
+        hint: Curator assistant curator head curator
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: portfolio_link
+        label: Portfolio link
+        hint: URL to online portfolio
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: relevant_experience
+        label: Relevant experience
+        hint: Key roles and responsibilities
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: interview_date
+        label: Interview date
+        hint: Scheduled interview date
+        type: date
+        options: []
+        required: true
+      - id: 6
+        name: strengths
+        label: Strengths
+        hint: Candidate strengths for role
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: areas_for_development
+        label: Areas for development
+        hint: Professional development needs
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: culture_fit
+        label: Culture fit assessment
+        hint: How well candidate fits gallery culture
+        type: select_one
+        options: [Excellent, Good, Fair, Poor]
+        required: true
+      - id: 9
+        name: interviewer_notes
+        label: Interviewer notes
+        hint: Summary of interview discussion
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: recommendation
+        label: Recommendation
+        hint: Hiring recommendation
+        type: select_one
+        options: [Strongly recommend, Recommend, Consider, Do not recommend]
+        required: true

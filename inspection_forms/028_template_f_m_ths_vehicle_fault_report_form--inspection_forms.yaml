@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: Template F M THS Vehicle Fault Report Form
+    pages:
+    - id: 1
+      name: vehicle_registration_number
+      label: Vehicle Registration Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: driver_name
+      label: Driver Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: vehicle_mileage
+      label: Vehicle Mileage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: fault_description
+      label: Fault Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_and_time
+      label: Date and Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: fault_location
+      label: Fault Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - Chat Jimmy
+      - Other
+      required: false
+    - id: 8
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_multiple
+      options:
+      - Chat Jimmy
+      - Inspector Joe
+      required: false
+    - id: 9
+      name: vehicle_year
+      label: Vehicle Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: vehicle_model
+      label: Vehicle Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: vehicle_color
+      label: Vehicle Color
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: fault_type
+      label: Fault Type
+      hint: null
+      type: select_one
+      options:
+      - Mechanical
+      - Electrical
+      - Other
+      required: false
+    - id: 13
+      name: fault_severity
+      label: Fault Severity
+      hint: null
+      type: select_multiple
+      options:
+      - Minor
+      - Major
+      - Critical
+      required: false
+    - id: 14
+      name: fault_date
+      label: Fault Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: fault_time
+      label: Fault Time
+      hint: null
+      type: time
+      options: []
+      required: false

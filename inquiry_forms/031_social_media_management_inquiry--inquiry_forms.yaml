@@ -1,0 +1,132 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: social media management inquiry
+    pages:
+    - id: 1
+      name: lead_qualification
+      label: Qualify lead
+      hint: null
+      type: select_one
+      options:
+      - New
+      - Existing
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: message
+      label: Message
+      hint: Please provide a brief description of what you are looking for
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: lead_source
+      label: Lead Source
+      hint: null
+      type: select_one
+      options:
+      - Social Media
+      - Search Engine
+      - Referral
+      - Other
+      required: false
+    - id: 7
+      name: preferred_contact_time
+      label: Preferred Contact Time
+      hint: null
+      type: select_one
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: false
+    - id: 8
+      name: preferred_contact_time_24_hour
+      label: Preferred Contact Time 24h
+      hint: null
+      type: select_one
+      options:
+      - Morning (8-12)
+      - Afternoon (13-17)
+      - Evening (18-24)
+      - Flexible
+      required: false
+    - id: 9
+      name: lead_type
+      label: Lead Type
+      hint: null
+      type: select_one
+      options:
+      - Sales
+      - Service
+      - Support
+      - Other
+      required: false
+    - id: 10
+      name: budget
+      label: Budget
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: expected_start_date
+      label: Expected Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: expected_start_time
+      label: Expected Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: services_needed
+      label: Services Needed
+      hint: null
+      type: select_multiple
+      options:
+      - Service 1
+      - Service 2
+      - Service 3
+      - Service 4
+      required: false

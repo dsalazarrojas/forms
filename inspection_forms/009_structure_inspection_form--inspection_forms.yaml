@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: structure_inspection_form
+    pages:
+    - id: 1
+      name: structure_inspection_form_section_1
+      label: structure_inspection_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: structure_inspection_form_section_2
+      label: structure_inspection_form_section_2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: structure_inspection_form_section_3
+      label: structure_inspection_form_section_3
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: structure_inspection_form_section_4
+      label: structure_inspection_form_section_4
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: structure_inspection_form_section_5
+      label: structure_inspection_form_section_5
+      hint: null
+      type: time
+      options: []
+      required: false

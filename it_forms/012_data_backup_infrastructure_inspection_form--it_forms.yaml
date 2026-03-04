@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: data_backup_infrastructure_inspection_form
+    pages:
+    - id: 1
+      name: form_data_backup
+      label: Form Data Backup
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: backup_schedule
+      label: Backup Schedule
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: backup_frequency
+      label: Backup Frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: backup_storage
+      label: Backup Storage
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: backup_server
+      label: Backup Server
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: backup_network
+      label: Backup Network
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: backup_database
+      label: Backup Database
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: backup_system_version
+      label: Backup System Version
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: data_reliability
+      label: Data Reliability
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: data_integrity
+      label: Data Integrity
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: data_security
+      label: Data Security
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: backup_test
+      label: Backup Test
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: test_results
+      label: Test Results
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: test_frequency
+      label: Test Frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: test_storage
+      label: Test Storage
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: test_server
+      label: Test Server
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: test_database
+      label: Test Database
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: test_system_version
+      label: Test System Version
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: backup_procedure
+      label: Backup Procedure
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: backup_process
+      label: Backup Process
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: data_backup_plan
+      label: Data Backup Plan
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: backup_plan_status
+      label: Backup Plan Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 23
+      name: backup_plan_frequency
+      label: Backup Plan Frequency
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: backup_plan_storage
+      label: Backup Plan Storage
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: backup_plan_review
+      label: Backup Plan Review
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

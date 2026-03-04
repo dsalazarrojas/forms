@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Rental Booking Inquiry Form Template
+    pages:
+    - id: 1
+      name: tenant_info
+      label: tenant_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: rental_details
+      label: rental_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: preferred_move_in_date
+      label: preferred_move_in_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: how_many_guests
+      label: how_many_guests
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 6
+      name: rental_preferences
+      label: rental_preferences
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 7
+      name: special_requests
+      label: special_requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: message
+      label: message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: confirm_email
+      label: confirm_email
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 12
+      name: send_form_to_landlord
+      label: send_form_to_landlord
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

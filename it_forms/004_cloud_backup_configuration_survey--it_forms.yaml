@@ -1,0 +1,161 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cloud Backup Configuration Survey
+    pages:
+    - id: 1
+      name: respondent_name
+      label: Your Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: respondent_email
+      label: Your Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: department
+      label: Department
+      hint: Your department or team
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: current_provider
+      label: Current Cloud Backup Provider
+      hint: Select your primary backup provider
+      type: select_one
+      options:
+      - AWS
+      - Microsoft Azure
+      - Google Cloud
+      - Acronis
+      - Veeam
+      - Other
+      required: true
+    - id: 5
+      name: satisfaction_rating
+      label: Overall Satisfaction with Current Provider
+      hint: Rate your satisfaction on a scale
+      type: select_one
+      options:
+      - Very Dissatisfied
+      - Dissatisfied
+      - Neutral
+      - Satisfied
+      - Very Satisfied
+      required: true
+    - id: 6
+      name: backup_frequency
+      label: Current Backup Frequency
+      hint: How often backups are performed
+      type: select_one
+      options:
+      - Hourly
+      - Daily
+      - Weekly
+      - Monthly
+      - On-Demand
+      required: true
+    - id: 7
+      name: data_volume
+      label: Total Data Volume Backed Up
+      hint: Approximate size in terabytes
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: recovery_time_objective
+      label: Recovery Time Objective (RTO)
+      hint: Select your RTO requirement
+      type: select_one
+      options:
+      - Less than 1 Hour
+      - 1-4 Hours
+      - 4-24 Hours
+      - 1-7 Days
+      - 7+ Days
+      required: false
+    - id: 9
+      name: recovery_point_objective
+      label: Recovery Point Objective (RPO)
+      hint: Select your RPO requirement
+      type: select_one
+      options:
+      - Real-Time
+      - Hourly
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 10
+      name: compliance_requirements
+      label: Compliance or Regulatory Requirements
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - HIPAA
+      - GDPR
+      - SOC 2
+      - PCI DSS
+      - None
+      required: false
+    - id: 11
+      name: upgrade_consideration
+      label: Considering Provider Upgrade or Change
+      hint: null
+      type: select_one
+      options:
+      - Yes, Actively Planning
+      - Yes, Exploring Options
+      - Maybe in Next Year
+      - No, Current Solution Adequate
+      required: true
+    - id: 12
+      name: main_concerns
+      label: Main Concerns with Current Setup
+      hint: Select the top concerns
+      type: select_multiple
+      options:
+      - Cost
+      - Performance
+      - Reliability
+      - Support Quality
+      - Feature Gaps
+      - Compliance
+      required: false
+    - id: 13
+      name: desired_features
+      label: Most Desired New Features
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: budget_approval
+      label: Budget Approval Authority
+      hint: null
+      type: select_one
+      options:
+      - Department Head
+      - IT Director
+      - CTO
+      - CFO
+      - Other
+      required: false
+    - id: 15
+      name: implementation_timeline
+      label: Preferred Implementation Timeline
+      hint: null
+      type: select_one
+      options:
+      - Immediate
+      - Within 1 Month
+      - Within 3 Months
+      - Within 6 Months
+      - TBD
+      required: false

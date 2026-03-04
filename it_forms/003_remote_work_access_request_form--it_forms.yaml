@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: Remote Work Access Request Form
+    pages:
+    - id: 1
+      name: user_name
+      label: employee_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: user_email
+      label: email_address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: user_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: user_department
+      label: department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: remote_start_date
+      label: remote_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: remote_end_date
+      label: remote_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: remote_reason
+      label: remote_reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: approval_status
+      label: approval_status
+      hint: null
+      type: select_multiple
+      options:
+      - Approved
+      - Denied
+      - Pending
+      required: true
+    - id: 9
+      name: approver
+      label: approver
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: manager_approve_date
+      label: manager_approve_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: it_approver
+      label: it_approver
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: it_approve_date
+      label: it_approve_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: remote_access_duration
+      label: remote_access_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: approver_comments
+      label: approver_comments
+      hint: null
+      type: note
+      options: []
+      required: false

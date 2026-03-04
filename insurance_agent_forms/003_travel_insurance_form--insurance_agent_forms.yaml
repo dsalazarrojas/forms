@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: Travel Insurance Form
+    pages:
+    - id: 1
+      name: would_like_travel_insurance
+      label: Would like travel insurance
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_number
+      label: Contact number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: travel_start_date
+      label: Travel start date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: travel_end_date
+      label: Travel end date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: travel_destination
+      label: Travel destination
+      hint: null
+      type: text
+      options: []
+      required: false

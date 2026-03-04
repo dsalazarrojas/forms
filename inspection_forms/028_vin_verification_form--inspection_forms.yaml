@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: vin_verification_form
+    pages:
+    - id: 1
+      name: vehicle_information
+      label: Vehicle Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vin_entry
+      label: vin_entry
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: vin_check
+      label: vin_check
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Select''}'
+      - '{''label'': ''Clear''}'
+      - '{''label'': ''Check''}'
+      required: true
+    - id: 4
+      name: results
+      label: results
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: vehicle_type
+      label: Vehicle Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Car''}'
+      - '{''label'': ''Truck''}'
+      - '{''label'': ''Motorcycle''}'
+      required: true
+    - id: 7
+      name: vin_type
+      label: vin_type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''17-digit VIN''}'
+      - '{''label'': ''17-digit VIN with Check''}'
+      - '{''label'': ''17-digit VIN without Check''}'
+      - '{''label'': ''12-digit VIN''}'
+      - '{''label'': ''12-digit VIN with Check''}'
+      - '{''label'': ''12-digit VIN without Check''}'
+      required: true
+    - id: 8
+      name: vin_length
+      label: VIN Length
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': 17}'
+      - '{''label'': 12}'
+      required: true
+    - id: 9
+      name: vehicle_year
+      label: Vehicle Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: make
+      label: Make
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: vin_check_result
+      label: vin_check_result
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Valid''}'
+      - '{''label'': ''Invalid''}'
+      required: true
+    - id: 12
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false

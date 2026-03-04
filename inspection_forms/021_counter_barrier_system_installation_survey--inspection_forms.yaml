@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Counter Barrier System Installation Survey
+    pages:
+    - id: 1
+      name: site_details
+      label: Site Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: barrier_requirements
+      label: Barrier Requirements
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: access_notes
+      label: Access Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: site_photos
+      label: Site Photos
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: barrier_design
+      label: Barrier Design
+      hint: null
+      type: text
+      options: []
+      required: false

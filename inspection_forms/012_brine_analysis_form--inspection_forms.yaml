@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Brine Analysis Form
+    pages:
+    - id: 1
+      name: section_sample_info
+      label: -- Sample Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: sample_id
+      label: Sample ID Number
+      hint: Enter the unique sample identifier
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: sample_date
+      label: Sample Collection Date
+      hint: Select the date the sample was collected
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: sample_time
+      label: Sample Collection Time
+      hint: Enter the time of collection
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: sample_location
+      label: Sample Location
+      hint: Enter the location where sample was collected
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: sample_type
+      label: Sample Type
+      hint: Select the type of brine sample
+      type: select_one
+      options:
+      - Production Well
+      - Injection Well
+      - Storage Tank
+      - Pipeline
+      - Surface Water
+      - Processing Stream
+      required: true
+    - id: 7
+      name: collected_by
+      label: Collected By
+      hint: Enter the name of the person who collected the sample
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: section_field_measurements
+      label: -- Field Measurements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: temperature_celsius
+      label: Temperature (Celsius)
+      hint: Enter the measured temperature
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: ph_level
+      label: pH Level
+      hint: Enter the measured pH
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: specific_gravity
+      label: Specific Gravity
+      hint: Enter the specific gravity measurement
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: conductivity
+      label: Conductivity (mS/cm)
+      hint: Enter the conductivity measurement
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: section_lab_analysis
+      label: -- Laboratory Analysis --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: sodium_concentration
+      label: Sodium (Na) Concentration (mg/L)
+      hint: Enter the sodium concentration
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: chloride_concentration
+      label: Chloride (Cl) Concentration (mg/L)
+      hint: Enter the chloride concentration
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: calcium_concentration
+      label: Calcium (Ca) Concentration (mg/L)
+      hint: Enter the calcium concentration
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: magnesium_concentration
+      label: Magnesium (Mg) Concentration (mg/L)
+      hint: Enter the magnesium concentration
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: potassium_concentration
+      label: Potassium (K) Concentration (mg/L)
+      hint: Enter the potassium concentration
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: sulfate_concentration
+      label: Sulfate (SO4) Concentration (mg/L)
+      hint: Enter the sulfate concentration
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: total_dissolved_solids
+      label: Total Dissolved Solids (mg/L)
+      hint: Enter the TDS measurement
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: section_quality_control
+      label: -- Quality Control --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: analysis_method
+      label: Analysis Method
+      hint: Select the analytical method used
+      type: select_one
+      options:
+      - ICP-OES
+      - ICP-MS
+      - Ion Chromatography
+      - Titration
+      - Gravimetric
+      required: true
+    - id: 23
+      name: analyst_name
+      label: Analyst Name
+      hint: Enter the name of the laboratory analyst
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: analysis_date
+      label: Analysis Date
+      hint: Select the date the analysis was completed
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: quality_control_passed
+      label: Quality Control Check
+      hint: Indicate if QC checks passed
+      type: select_one
+      options:
+      - Passed
+      - Failed
+      - Pending Review
+      required: true
+    - id: 26
+      name: additional_observations
+      label: Additional Observations or Notes
+      hint: Enter any additional observations
+      type: text
+      options: []
+      required: false

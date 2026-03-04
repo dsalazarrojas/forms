@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Outdoor Safety Assessment
+    pages:
+    - id: 1
+      name: outdoor_areas_checked
+      label: What areas are checked?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: hazardous_materials_on_site
+      label: Hazards and Materials On Site
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: emergency_contact
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: emergency_phone
+      label: Emergency Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: emergency_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: emergency_phone
+      label: Emergency Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: incident_reported
+      label: Incident Reported
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: time_incident_occurred
+      label: Time of Incident
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: incident_description
+      label: Description of Incident
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: incident_location
+      label: Location of Incident
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: incident_type
+      label: Incident Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: photo_evidence
+      label: Upload Photo
+      hint: null
+      type: note
+      options: []
+      required: false

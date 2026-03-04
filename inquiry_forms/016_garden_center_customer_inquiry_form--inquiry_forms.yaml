@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Garden Center Customer Inquiry Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: 'null'
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: question
+      label: Question
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: follow_up
+      label: Follow Up
+      hint: 'null'
+      type: select_multiple
+      options:
+      - 'null'
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: plant_type
+      label: Plant Type
+      hint: 'null'
+      type: select_one
+      options:
+      - annuals
+      - perennials
+      - trees
+      required: false
+    - id: 7
+      name: plant_name
+      label: Plant Name
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: customer_type
+      label: Customer Type
+      hint: 'null'
+      type: select_one
+      options:
+      - New Customer
+      - Existing Customer
+      required: false
+    - id: 9
+      name: garden_center
+      label: Garden Center
+      hint: 'null'
+      type: select_one
+      options:
+      - Local Garden Center
+      - Local Nursery
+      - Online Store
+      required: false

@@ -1,0 +1,273 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Consultation Form Station Nails and Beauty Ltd
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: For communication
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM-DD-YYYY
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: appointment_date
+      label: Appointment Date
+      hint: Scheduled date
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: appointment_time
+      label: Appointment Time
+      hint: Scheduled time
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: service_requested
+      label: Service Requested
+      hint: What service today
+      type: select_one
+      options:
+      - Manicure
+      - Pedicure
+      - Gel nails
+      - Acrylic nails
+      - Nail art
+      - Waxing
+      - Facial
+      - Massage
+      - Other beauty treatment
+      required: true
+    - id: 8
+      name: therapist_name
+      label: Therapist Name
+      hint: Assigned staff
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: health_screening
+      label: Health Screening
+      hint: COVID-19 symptoms check
+      type: select_one
+      options:
+      - No symptoms present
+      - Symptoms present - disclosed
+      - Prefer not to answer
+      required: true
+    - id: 10
+      name: current_symptoms
+      label: Current Symptoms
+      hint: Select if any
+      type: select_multiple
+      options:
+      - None
+      - Fever or chills
+      - Cough
+      - Shortness of breath
+      - Fatigue
+      - Sore throat
+      - Runny nose
+      - Headache
+      required: true
+    - id: 11
+      name: known_exposure
+      label: Known COVID-19 Exposure
+      hint: In past 14 days
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 12
+      name: recent_positive_test
+      label: Recent Positive Test
+      hint: In past 10 days
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 13
+      name: vaccination_status
+      label: Vaccination Status
+      hint: COVID-19 vaccine
+      type: select_one
+      options:
+      - Fully vaccinated
+      - Partially vaccinated
+      - Not vaccinated
+      - Prefer not to say
+      required: false
+    - id: 14
+      name: risk_acknowledgment
+      label: Risk Acknowledgment
+      hint: I understand COVID-19 risks
+      type: select_one
+      options:
+      - Yes I Understand
+      - false
+      required: true
+    - id: 15
+      name: safety_measures
+      label: Safety Measures Acknowledgment
+      hint: Mask wearing etc
+      type: select_one
+      options:
+      - Yes I Will Comply
+      - false
+      required: true
+    - id: 16
+      name: mask_requirement
+      label: Mask Requirement
+      hint: During service
+      type: select_one
+      options:
+      - Yes - Must wear mask
+      - Optional
+      - Not required
+      required: true
+    - id: 17
+      name: hand_sanitizing
+      label: Hand Sanitizing
+      hint: Before service
+      type: select_one
+      options:
+      - Yes I Agree
+      - false
+      required: true
+    - id: 18
+      name: liability_waiver
+      label: Liability Waiver
+      hint: Release salon from claims
+      type: select_one
+      options:
+      - Yes I Release
+      - false
+      required: true
+    - id: 19
+      name: assumption_of_risk
+      label: Assumption of Risk
+      hint: I assume all risks
+      type: select_one
+      options:
+      - Yes I Assume
+      - false
+      required: true
+    - id: 20
+      name: rescheduling_policy
+      label: Rescheduling Policy
+      hint: If symptomatic must reschedule
+      type: select_one
+      options:
+      - Yes I Understand
+      - false
+      required: true
+    - id: 21
+      name: cancellation_fee
+      label: Cancellation Fee
+      hint: Late cancellation policy
+      type: select_one
+      options:
+      - Yes I Understand
+      - false
+      required: true
+    - id: 22
+      name: medical_conditions
+      label: Relevant Medical Conditions
+      hint: Allergies skin conditions
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: allergies
+      label: Product Allergies
+      hint: Nail products chemicals
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: previous_reactions
+      label: Previous Product Reactions
+      hint: Any adverse reactions
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: nail_condition
+      label: Current Nail Condition
+      hint: Any issues
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: special_requests
+      label: Special Requests
+      hint: Any specific needs
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: consent_for_service
+      label: Consent for Service
+      hint: I consent to treatment
+      type: select_one
+      options:
+      - Yes I Consent
+      - false
+      required: true
+    - id: 28
+      name: photo_consent
+      label: Photo Consent
+      hint: OK to photograph nails
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 29
+      name: client_signature
+      label: Client Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: true
+    - id: 30
+      name: therapist_signature
+      label: Therapist Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: date_signed
+      label: Date Signed
+      hint: Today date
+      type: date
+      options: []
+      required: true

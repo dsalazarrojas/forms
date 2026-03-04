@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Structured Interview Survey
+    pages:
+    - id: 1
+      name: candidate_name
+      label: candidate_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: candidate_contact_info
+      label: candidate_contact_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: interviewer_id
+      label: interviewer_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: rating_scale
+      label: rating_scale
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': 1}'
+      - '{''label'': 2}'
+      - '{''label'': 3}'
+      - '{''label'': 4}'
+      - '{''label'': 5}'
+      required: false
+    - id: 5
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: review_status
+      label: review_status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''In progress''}'
+      - '{''label'': ''Completed''}'
+      - '{''label'': ''On hold''}'
+      - '{''label'': ''Reopened''}'
+      required: false
+    - id: 10
+      name: interviewer_name
+      label: interviewer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: reviewer_id
+      label: reviewer_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: date_of_interview
+      label: date_of_interview
+      hint: null
+      type: date
+      options: []
+      required: false

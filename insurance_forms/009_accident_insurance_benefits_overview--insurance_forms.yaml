@@ -1,0 +1,183 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Accident Insurance Benefits Overview
+    pages:
+    - id: 1
+      name: section_employee_info
+      label: -- Employee Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Employee Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: employment_status
+      label: Employment Status
+      hint: null
+      type: select_one
+      options:
+        - Full-time
+        - Part-time
+        - Contract
+        - Temporary
+      required: true
+    - id: 8
+      name: section_coverage
+      label: -- Coverage Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: coverage_plan
+      label: Current Accident Insurance Plan
+      hint: null
+      type: select_one
+      options:
+        - Basic Plan
+        - Standard Plan
+        - Premium Plan
+        - Not currently enrolled
+      required: true
+    - id: 10
+      name: coverage_level
+      label: Coverage Level
+      hint: null
+      type: select_one
+      options:
+        - Employee only
+        - Employee plus spouse
+        - Employee plus children
+        - Family
+      required: true
+    - id: 11
+      name: enrollment_date
+      label: Date of Enrollment
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: section_benefits_acknowledgement
+      label: -- Benefits Acknowledgement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: benefits_reviewed
+      label: Have You Reviewed the Accident Insurance Benefits Summary
+      hint: null
+      type: select_one
+      options:
+        - Yes
+        - No
+      required: true
+    - id: 14
+      name: benefits_understood
+      label: Do You Understand the Coverage, Exclusions, and Claim Process
+      hint: null
+      type: select_one
+      options:
+        - Yes, fully
+        - Partially - I have some questions
+        - No - I need a full explanation
+      required: true
+    - id: 15
+      name: questions_or_concerns
+      label: Questions or Concerns About Your Coverage
+      hint: List any specific questions you have about your benefits
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: section_changes
+      label: -- Coverage Changes --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: change_requested
+      label: Would You Like to Make Changes to Your Coverage
+      hint: null
+      type: select_one
+      options:
+        - Yes - Upgrade plan
+        - Yes - Downgrade plan
+        - Yes - Add dependents
+        - Yes - Remove dependents
+        - No changes needed
+      required: true
+    - id: 18
+      name: beneficiary_name
+      label: Primary Beneficiary Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: beneficiary_relationship
+      label: Beneficiary Relationship
+      hint: null
+      type: select_one
+      options:
+        - Spouse
+        - Child
+        - Parent
+        - Sibling
+        - Other
+      required: true
+    - id: 20
+      name: acknowledgement_date
+      label: Date of Acknowledgement
+      hint: null
+      type: date
+      options: []
+      required: true

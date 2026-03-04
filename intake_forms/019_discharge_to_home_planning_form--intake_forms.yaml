@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Discharge To Home Planning Form
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: discharge_date
+      label: Discharge Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: follow_up_dates
+      label: Follow Up Dates
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: follow_up_times
+      label: Follow Up Times
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: medication_status
+      label: Medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: medical_status
+      label: Medical Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Heart Failure''}'
+      - '{''value'': ''Hypertension''}'
+      - '{''value'': ''Diabetic''}'
+      - '{''value'': ''Cancer''}'
+      - '{''value'': ''Other''}'
+      - '{''value'': ''None''}'
+      required: false
+    - id: 8
+      name: patient_goals
+      label: Patient Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: patient_outcomes
+      label: Patient Outcomes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: follow_up_person
+      label: Follow Up Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: follow_up_phone
+      label: Follow Up Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: follow_up_email
+      label: Follow Up Email
+      hint: null
+      type: email
+      options: []
+      required: false

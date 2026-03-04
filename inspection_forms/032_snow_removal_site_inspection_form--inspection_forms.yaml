@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: Snow Removal Site Inspection Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: business_name
+      label: Business Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: snow_condition
+      label: Snow Condition
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Light'', ''value'': ''Light''}'
+      - '{''id'': 2, ''name'': ''Medium'', ''value'': ''Medium''}'
+      - '{''id'': 3, ''name'': ''Heavy'', ''value'': ''Heavy''}'
+      required: false
+    - id: 11
+      name: snow_type
+      label: Snow Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Plowing'', ''value'': ''Plowing''}'
+      - '{''id'': 2, ''name'': ''Salting'', ''value'': ''Salting''}'
+      - '{''id'': 3, ''name'': ''Both'', ''value'': ''Both''}'
+      - '{''id'': 4, ''name'': ''Neither'', ''value'': ''Neither''}'
+      required: false
+    - id: 12
+      name: snow_location
+      label: Snow Location
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Driveway'', ''value'': ''Driveway''}'
+      - '{''id'': 2, ''name'': ''Sidewalk'', ''value'': ''Sidewalk''}'
+      - '{''id'': 3, ''name'': ''Parking lot'', ''value'': ''Parking lot''}'
+      - '{''id'': 4, ''name'': ''Sidewalk and Driveway'', ''value'': ''Sidewalk and
+        Driveway''}'
+      required: false
+    - id: 13
+      name: snow_clearing_required
+      label: Snow Clearing Required
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': True, ''value'': True}'
+      - '{''id'': 2, ''name'': False, ''value'': False}'
+      required: false

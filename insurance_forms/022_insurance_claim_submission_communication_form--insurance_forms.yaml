@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Insurance Claim Submission Communication Form
+    pages:
+    - id: 1
+      name: policyholder_details
+      label: Policyholder Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: claim_type
+      label: Claim Type
+      hint: null
+      type: select_one
+      options:
+      - Auto
+      - Property
+      - Home
+      - Business
+      required: false
+    - id: 3
+      name: claim_date
+      label: Claim Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: claim_time
+      label: Claim Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: insurance_provider
+      label: Insurance Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: policy_number
+      label: Policy Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: claim_amount
+      label: Claim Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: submission_method
+      label: Submission Method
+      hint: null
+      type: select_one
+      options:
+      - Mail
+      - Phone
+      - Email
+      - In Person
+      required: false
+    - id: 9
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submit_claim
+      label: Submit Claim
+      hint: null
+      type: select_multiple
+      options:
+      - Submit
+      - Decline
+      - Pending
+      required: false
+    - id: 16
+      name: review_claim
+      label: Review Claim
+      hint: null
+      type: select_multiple
+      options:
+      - Approve
+      - Reject
+      - Hold
+      required: false
+    - id: 17
+      name: submit_review
+      label: Submit Review
+      hint: null
+      type: select_multiple
+      options:
+      - Approve
+      - Reject
+      - Hold
+      required: false
+    - id: 18
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: submitted_on
+      label: Submitted On
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: updated_on
+      label: Updated On
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: submitted_at
+      label: Submitted At
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: submitted_by_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false

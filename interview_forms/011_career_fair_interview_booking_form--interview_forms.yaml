@@ -1,0 +1,212 @@
+inputSchema:
+  type: object
+  properties:
+    title: Career Fair Interview Booking Form
+    pages:
+    - id: 1
+      name: career_fair_name
+      label: Career Fair Name
+      hint: Event you are interviewing at
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: interview_date
+      label: Interview Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: candidate_name
+      label: Candidate Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: candidate_email
+      label: Email Address
+      hint: We'll send confirmation
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: candidate_phone
+      label: Phone Number
+      hint: Include area code
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: company_name
+      label: Company Name
+      hint: Which company are you interviewing with?
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: position_title
+      label: Position Title or Role
+      hint: Job title you are interviewing for
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: recruiter_name
+      label: Interviewer or Recruiter Name
+      hint: Name of person conducting interview
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: interview_time_slot
+      label: Preferred Interview Time
+      hint: Select an available time slot
+      type: select_one
+      options:
+      - 9:00 AM - 9:30 AM
+      - 9:30 AM - 10:00 AM
+      - 10:00 AM - 10:30 AM
+      - 10:30 AM - 11:00 AM
+      - 11:00 AM - 11:30 AM
+      - 11:30 AM - 12:00 PM
+      - 12:00 PM - 12:30 PM
+      - 12:30 PM - 1:00 PM
+      - 1:00 PM - 1:30 PM
+      - 1:30 PM - 2:00 PM
+      - 2:00 PM - 2:30 PM
+      - 2:30 PM - 3:00 PM
+      - 3:00 PM - 3:30 PM
+      - 3:30 PM - 4:00 PM
+      required: true
+    - id: 10
+      name: interview_format
+      label: Interview Format
+      hint: How will the interview be conducted?
+      type: select_one
+      options:
+      - In-person at career fair booth
+      - Phone interview
+      - Video interview
+      - TBD - to be confirmed
+      required: true
+    - id: 11
+      name: interview_location
+      label: Interview Location
+      hint: If in-person, where is the booth?
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: education_level
+      label: Education Level
+      hint: Current or completed education
+      type: select_one
+      options:
+      - High School
+      - Currently in College
+      - Associate Degree
+      - Bachelor's Degree
+      - Master's Degree
+      - PhD or Doctorate
+      - Vocational Certification
+      required: true
+    - id: 13
+      name: major_field
+      label: Major or Field of Study
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: graduation_date
+      label: Expected Graduation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: years_experience
+      label: Years of Relevant Experience
+      hint: Professional work experience in this field
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: resume_attached
+      label: Resume Attached?
+      hint: Bring multiple copies to career fair
+      type: select_one
+      options:
+      - Yes - attached to this form
+      - Yes - will bring physical copy
+      - No - will send later
+      required: true
+    - id: 17
+      name: cover_letter
+      label: Do You Have a Cover Letter Ready?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: interview_preparation
+      label: Are You Prepared for the Interview?
+      hint: Have you researched the company?
+      type: select_one
+      options:
+      - Yes - fully prepared
+      - Mostly - have done basic research
+      - Somewhat - need to prepare more
+      - No - not yet prepared
+      required: false
+    - id: 19
+      name: questions_prepared
+      label: Questions You Want to Ask
+      hint: What would you like to know about the role?
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: background_check
+      label: Can You Pass a Background Check?
+      hint: If required by employer
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unsure
+      required: false
+    - id: 21
+      name: availability
+      label: When Can You Start?
+      hint: If hired, when would you be available?
+      type: select_one
+      options:
+      - Immediately
+      - Within 2 weeks
+      - Within 1 month
+      - Within 3 months
+      - Flexible - negotiable
+      required: false
+    - id: 22
+      name: special_accommodations
+      label: Special Accommodations Needed?
+      hint: Accessibility, dietary, or other needs
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: confirmation_preference
+      label: How Should We Confirm Your Interview?
+      hint: null
+      type: select_one
+      options:
+      - Email confirmation
+      - Phone call
+      - Text message
+      - No confirmation needed
+      required: true

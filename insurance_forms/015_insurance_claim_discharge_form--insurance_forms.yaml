@@ -1,0 +1,247 @@
+inputSchema:
+  type: object
+  properties:
+    title: Insurance Claim Discharge Form
+    pages:
+    - id: 1
+      name: name
+      label: prophets
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: social_security_number
+      label: social_security_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: claim_description
+      label: prophets_description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: claimant_documents
+      label: Claimant Documents
+      hint: Please list any supporting documents that will be used in the claim
+      type: select_multiple
+      options:
+      - '{''value'': ''ID card''}'
+      - '{''value'': ''Claimant Statement''}'
+      - '{''value'': ''Police Report''}'
+      - '{''value'': ''Witness Statement''}'
+      required: true
+    - id: 8
+      name: claimant_insurance
+      label: Claimant Insurance
+      hint: Is the claimant insured?
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: true
+    - id: 9
+      name: claimant
+      label: Claimant Injuries
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: claimant_treatment
+      label: Claimant Treatment
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: claimant_medical
+      label: Claimant Medical
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: claimant_insurer
+      label: Claimant Insurer
+      hint: Who is the claimant's insurer_goals?
+      type: select_one
+      options:
+      - '{''value'': ''Auto''}'
+      - '{''value'': ''Home''}'
+      - '{''value'': ''Business''}'
+      - '{''value'': ''Other''}'
+      required: true
+    - id: 13
+      name: claimant_policy
+      label: Claimant Policy
+      hint: What type of policy is the claimant on_goals?
+      type: select_one
+      options:
+      - '{''value'': ''Active''}'
+      - '{''value'': ''Inactive''}'
+      - '{''value'': ''Canceled''}'
+      required: true
+    - id: 14
+      name: claimant_deductible
+      label: Claimant Deductible
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: claimant_claimant
+      label: claimant_claimant_deductible
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: claimant_provider
+      label: Claimant Provider
+      hint: Who is the claimant's provider_goals?
+      type: select_one
+      options:
+      - '{''value'': ''Dr''}'
+      - '{''value'': ''Hospital''}'
+      - '{''value'': ''Clinic''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 17
+      name: claimant_counselor
+      label: Claimant Counselor
+      hint: What gender is the claimant's counselor_goals?
+      type: select_one
+      options:
+      - '{''value'': ''Male''}'
+      - '{''value'': ''Female''}'
+      - '{''value'': ''Other''}'
+      required: true
+    - id: 18
+      name: claimant_counselor_age
+      label: Claimant Counselor Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: claimant_c_prophets
+      label: claimant_counselor_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: claimant_counselor_address
+      label: Claimant Counselor Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: claimant_provider_address
+      label: Claimant Provider Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: claimant_counselor_provider_address
+      label: Claimant Counselor Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: claimant_claimant_address
+      label: Claimant Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: claimant_provider_provider_address
+      label: Claimant Provider Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: claimant_claimant_provider_address
+      label: Claimant Provider Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: claimant_providers
+      label: claimant_providers
+      hint: Please list any claimant providers
+      type: select_multiple
+      options:
+      - '{''value'': ''Dr''}'
+      - '{''value'': ''Hospital''}'
+      - '{''value'': ''Clinic''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 27
+      name: claimant_claimant_providers
+      label: claimant_claimant_providers
+      hint: Please list any claimant providers_goals?
+      type: select_multiple
+      options:
+      - '{''value'': ''Dr''}'
+      - '{''value'': ''Hospital''}'
+      - '{''value'': ''Clinic''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 28
+      name: claimant_providers_providers
+      label: claimant_providers_providers
+      hint: Please list any claimant providers_providers
+      type: select_multiple
+      options:
+      - '{''value'': ''Dr''}'
+      - '{''value'': ''Hospital''}'
+      - '{''value'': ''Clinic''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 29
+      name: claimant_providers_address
+      label: claimant_providersประก
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: claimant_providers_provider_address
+      label: claimant_providers_provider_address
+      hint: null
+      type: text
+      options: []
+      required: false

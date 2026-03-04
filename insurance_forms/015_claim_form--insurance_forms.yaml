@@ -1,0 +1,214 @@
+inputSchema:
+  type: object
+  properties:
+    title: Claim Form
+    pages:
+    - id: 1
+      name: claimant_name
+      label: Claimant Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY format
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: policy_number
+      label: Policy Number
+      hint: Your insurance policy number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: claim_type
+      label: Type of Claim
+      hint: Select the type of claim you are filing
+      type: select_one
+      options:
+      - Auto Insurance
+      - Homeowners Insurance
+      - Renters Insurance
+      - Health Insurance
+      - Life Insurance
+      - Disability Insurance
+      - Travel Insurance
+      - Other
+      required: true
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: For claim updates and correspondence
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: mailing_address
+      label: Mailing Address
+      hint: Street address, city, state, ZIP
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: incident_date
+      label: Date of Incident or Loss
+      hint: When did the incident occur
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: incident_time
+      label: Time of Incident
+      hint: Approximate time
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: incident_location
+      label: Location of Incident
+      hint: Where did it happen
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: incident_description
+      label: Description of Incident
+      hint: Describe what happened in detail
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: cause_of_loss
+      label: Cause of Loss or Damage
+      hint: What caused the incident
+      type: select_one
+      options:
+      - Accident or Collision
+      - Fire or Smoke
+      - Theft or Vandalism
+      - Weather or Natural Disaster
+      - Water Damage
+      - Medical Emergency
+      - Death
+      - Other
+      required: true
+    - id: 13
+      name: injuries_occurred
+      label: Were There Any Injuries
+      hint: To any persons
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: injury_details
+      label: Describe Injuries
+      hint: If yes, provide details
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: property_damage
+      label: Estimated Property Damage Amount
+      hint: In dollars
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: medical_expenses
+      label: Estimated Medical Expenses
+      hint: In dollars if applicable
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: police_report
+      label: Was a Police Report Filed
+      hint: For theft, accidents, etc.
+      type: select_one
+      options:
+      - true
+      - false
+      - Not applicable
+      required: true
+    - id: 18
+      name: police_report_number
+      label: Police Report Number
+      hint: If filed, enter the report number
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: witnesses_present
+      label: Were There Any Witnesses
+      hint: To the incident
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 20
+      name: witness_information
+      label: Witness Contact Information
+      hint: Names and contact details
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: photos_available
+      label: Do You Have Photos of the Damage
+      hint: Photos or documentation
+      type: select_one
+      options:
+      - Yes, will submit separately
+      - Yes, attaching now
+      - false
+      required: true
+    - id: 22
+      name: previous_claims
+      label: Have You Filed Previous Claims
+      hint: With this insurance company
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 23
+      name: additional_coverage
+      label: Do You Need Additional Coverage Information
+      hint: About your policy
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 24
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: How should we contact you
+      type: select_one
+      options:
+      - Phone call
+      - Text message
+      - Email
+      - Mail
+      required: true
+    - id: 25
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false

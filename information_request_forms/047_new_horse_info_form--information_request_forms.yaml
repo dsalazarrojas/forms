@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: New Horse Info Form
+    pages:
+    - id: 1
+      name: horse_info_form
+      label: Horse Info Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: breeding_history
+      label: Breeding History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: sire_and_dam
+      label: Sire and Dam
+      hint: Please provide information about the horse's sire and dam.
+      type: select_multiple
+      options:
+      - Sire 1
+      - Sire 2
+      - Dam 1
+      - Dam 2
+      required: false
+    - id: 4
+      name: horse_id
+      label: Horse ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: birthdate
+      label: Birthdate
+      hint: Please use MM/DD/YYYY format.
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: color_and_size
+      label: Color and Size
+      hint: Please enter the horse's color and size.
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: breed_and_bloodlines
+      label: Breed and Bloodlines
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: owner_info
+      label: Owner Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: veterinarian_info
+      label: Veterinarian Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: photo
+      label: Photo
+      hint: null
+      type: text
+      options: []
+      required: false

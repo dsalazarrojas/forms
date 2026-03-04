@@ -1,0 +1,261 @@
+inputSchema:
+  type: object
+  properties:
+    title: Laptop Purchase Questionnaire
+    pages:
+    - id: 1
+      name: laptop_purchase_form
+      label: laptop_purchase_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: user_info
+      label: user_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: laptop_details
+      label: laptop_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: purchase_details
+      label: purchase_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: other_info
+      label: other_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date_of_purchase
+      label: date_of_purchase
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_of_purchase
+      label: time_of_purchase
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: laptop_price
+      label: laptop_price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: laptop_model
+      label: laptop_model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: laptop_processor
+      label: laptop_processor
+      hint: null
+      type: select_one
+      options:
+      - Intel Core i3
+      - Intel Core i5
+      - Intel Core i7
+      - AMD Ryzen
+      required: false
+    - id: 14
+      name: laptop_memory
+      label: laptop_memory
+      hint: null
+      type: select_one
+      options:
+      - 4GB
+      - 8GB
+      - 16GB
+      - 32GB
+      - 64GB
+      required: false
+    - id: 15
+      name: laptop_storage
+      label: laptop_storage
+      hint: null
+      type: select_one
+      options:
+      - 128GB
+      - 256GB
+      - 512GB
+      - 1TB
+      required: false
+    - id: 16
+      name: laptop_os
+      label: laptop_os
+      hint: null
+      type: select_one
+      options:
+      - Windows
+      - macOS
+      - Linux
+      required: false
+    - id: 17
+      name: laptop_battery
+      label: laptop_battery
+      hint: null
+      type: select_one
+      options:
+      - 2.5 Hours
+      - 4 Hours
+      - 6 Hours
+      - 8 Hours
+      required: false
+    - id: 18
+      name: laptop_screen
+      label: laptop_screen
+      hint: null
+      type: select_one
+      options:
+      - 11 inches
+      - 13 inches
+      - 15 inches
+      required: false
+    - id: 19
+      name: laptop_weight
+      label: laptop_weight
+      hint: null
+      type: select_one
+      options:
+      - 1-2 pounds
+      - 2-3 pounds
+      - 3-4 pounds
+      - 4-5 pounds
+      required: false
+    - id: 20
+      name: laptop_color
+      label: laptop_color
+      hint: null
+      type: select_one
+      options:
+      - Black
+      - Silver
+      - Gold
+      - Blue
+      required: false
+    - id: 21
+      name: laptop_warranty
+      label: laptop_warranty
+      hint: null
+      type: select_multiple
+      options:
+      - 1-year
+      - 2-years
+      - 3-years
+      required: false
+    - id: 22
+      name: laptop_accessories
+      label: laptop_accessories
+      hint: null
+      type: select_multiple
+      options:
+      - keyboard
+      - mouse
+      - power bank
+      - charging cable
+      required: false
+    - id: 23
+      name: laptop_price_range
+      label: laptop_price_range
+      hint: null
+      type: select_one
+      options:
+      - 0-200
+      - 200-500
+      - 500-1000
+      - 1000-1500
+      - 1500-2000
+      - 2000-2500
+      - 2500-3000
+      - 3000-3500
+      - 3500-4000
+      - 4000-4500
+      - 4500-5000
+      - 5000-5500
+      - 5500-6000
+      - 6000-6500
+      - 6500-7000
+      - 7000-7500
+      - 7500-8000
+      - 8000-8500
+      - 8500-9000
+      - 9000-9500
+      - 9500-10000
+      - 10000-10500
+      - 10500-11000
+      - 11000-11500
+      - 11500-12000
+      - 12000-12500
+      - 12500-13000
+      - 13000-13500
+      - 13500-14000
+      - 14000-14500
+      - 14500-15000
+      - 15000-15500
+      - 15500-16000
+      - 16000-16500
+      - 16500-17000
+      - 17000-17500
+      - 17500-18000
+      - 18000-18500
+      - 18500-19000
+      - 19000-19500
+      - 19500-20000
+      required: false
+    - id: 24
+      name: laptop_form_comments
+      label: laptop_form_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: user_agreement
+      label: user_agreement
+      hint: null
+      type: select_one
+      options:
+      - Agree and submit
+      - Do not agree
+      required: false

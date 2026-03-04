@@ -1,0 +1,381 @@
+inputSchema:
+  type: object
+  properties:
+    title: Anti Static Workstation Assessment
+    pages:
+    - id: 1
+      name: assessor_name
+      label: Assessor Name
+      hint: Name of person conducting assessment
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: assessor_title
+      label: Assessor Title
+      hint: Job title or role
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: assessment_date
+      label: Assessment Date
+      hint: Date of evaluation
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: workstation_id
+      label: Workstation ID
+      hint: Unique identifier for workstation
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: workstation_location
+      label: Workstation Location
+      hint: Building and room number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: department
+      label: Department
+      hint: Which department uses this workstation
+      type: select_one
+      options:
+      - Electronics assembly
+      - Computer repair
+      - Laboratory
+      - Manufacturing
+      - Quality control
+      - Research and development
+      - Other
+      required: true
+    - id: 7
+      name: workstation_type
+      label: Workstation Type
+      hint: Type of ESD workstation
+      type: select_one
+      options:
+      - Single operator bench
+      - Dual operator bench
+      - Assembly station
+      - Repair station
+      - Packaging station
+      - Mobile cart
+      - Custom setup
+      required: true
+    - id: 8
+      name: employee_count
+      label: Number of Employees Using Station
+      hint: How many users
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: installation_date
+      label: Installation Date
+      hint: When was workstation installed
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: last_assessment_date
+      label: Last Assessment Date
+      hint: Previous evaluation date
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: worksurface_section
+      label: -- Work Surface Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: worksurface_condition
+      label: Work Surface Condition
+      hint: Overall state of surface
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Needs replacement
+      required: true
+    - id: 13
+      name: worksurface_material
+      label: Work Surface Material
+      hint: Type of ESD surface
+      type: select_one
+      options:
+      - Vinyl mat
+      - Rubber mat
+      - Laminate top
+      - Phenolic resin
+      - Stainless steel
+      - Other
+      required: true
+    - id: 14
+      name: surface_resistance
+      label: Surface Resistance
+      hint: Measured in ohms
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: worksurface_grounding
+      label: Work Surface Grounding
+      hint: Grounding connection status
+      type: select_one
+      options:
+      - Properly grounded
+      - Grounded with issues
+      - Not grounded
+      - Unable to verify
+      required: true
+    - id: 16
+      name: grounding_cord_condition
+      label: Grounding Cord Condition
+      hint: State of grounding cord
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Worn but functional
+      - Damaged
+      - Missing
+      required: true
+    - id: 17
+      name: wrist_strap_section
+      label: -- Wrist Strap Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: wrist_strap_available
+      label: Wrist Strap Available
+      hint: Is wrist strap provided
+      type: select_one
+      options:
+      - Yes, at each position
+      - Yes, shared
+      - false
+      required: true
+    - id: 19
+      name: wrist_strap_condition
+      label: Wrist Strap Condition
+      hint: State of wrist straps
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Not applicable
+      required: true
+    - id: 20
+      name: wrist_strap_testing
+      label: Wrist Strap Testing
+      hint: Are straps tested regularly
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
+      - Never
+      required: true
+    - id: 21
+      name: flooring_section
+      label: -- Flooring Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: flooring_type
+      label: Flooring Type
+      hint: Type of floor covering
+      type: select_one
+      options:
+      - ESD vinyl tile
+      - ESD rubber flooring
+      - ESD carpet
+      - Conductive epoxy
+      - Standard flooring
+      - Other
+      required: true
+    - id: 23
+      name: flooring_condition
+      label: Flooring Condition
+      hint: State of flooring
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Damaged
+      required: true
+    - id: 24
+      name: flooring_resistance
+      label: Flooring Resistance
+      hint: Measured in ohms
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: heel_straps_available
+      label: Heel Straps Available
+      hint: Are heel straps provided
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 26
+      name: equipment_section
+      label: -- Equipment Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: equipment_grounding
+      label: Equipment Grounding
+      hint: Are tools properly grounded
+      type: select_one
+      options:
+      - All equipment grounded
+      - Most equipment grounded
+      - Some equipment grounded
+      - No equipment grounded
+      required: true
+    - id: 28
+      name: ionizer_present
+      label: Ionizer Present
+      hint: Is air ionization used
+      type: select_one
+      options:
+      - Yes, at workstation
+      - Yes, in room
+      - false
+      required: true
+    - id: 29
+      name: ionizer_functional
+      label: Ionizer Functional
+      hint: Is ionizer working properly
+      type: select_one
+      options:
+      - Yes, verified
+      - Yes, not verified recently
+      - false
+      - Not applicable
+      required: true
+    - id: 30
+      name: signage_section
+      label: -- Signage and Documentation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 31
+      name: esd_signage
+      label: ESD Warning Signage
+      hint: Are signs posted
+      type: select_one
+      options:
+      - Yes, clearly visible
+      - Yes, but worn
+      - No signage
+      required: true
+    - id: 32
+      name: procedures_documented
+      label: ESD Procedures Documented
+      hint: Are procedures available
+      type: select_one
+      options:
+      - Yes, at workstation
+      - Yes, in department
+      - No documentation
+      required: true
+    - id: 33
+      name: training_records
+      label: Employee Training Records
+      hint: Are users trained
+      type: select_one
+      options:
+      - All employees trained
+      - Some employees trained
+      - No training records
+      required: true
+    - id: 34
+      name: compliance_section
+      label: -- Compliance Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 35
+      name: ansi_esd_compliance
+      label: ANSI/ESD Standard Compliance
+      hint: Does workstation meet standards
+      type: select_one
+      options:
+      - Fully compliant
+      - Mostly compliant
+      - Partially compliant
+      - Non-compliant
+      - Not assessed
+      required: true
+    - id: 36
+      name: deficiencies_found
+      label: Deficiencies Found
+      hint: Describe any issues
+      type: text
+      options: []
+      required: true
+    - id: 37
+      name: corrective_actions
+      label: Recommended Corrective Actions
+      hint: What needs to be addressed
+      type: text
+      options: []
+      required: true
+    - id: 38
+      name: priority_rating
+      label: Priority Rating
+      hint: Urgency of corrections
+      type: select_one
+      options:
+      - Low - Address during routine maintenance
+      - Medium - Address within 30 days
+      - High - Address within 7 days
+      - Critical - Address immediately
+      required: true
+    - id: 39
+      name: next_assessment_date
+      label: Next Assessment Date
+      hint: When to reassess
+      type: date
+      options: []
+      required: true
+    - id: 40
+      name: assessor_signature
+      label: Assessor Signature
+      hint: Digital signature
+      type: text
+      options: []
+      required: true
+    - id: 41
+      name: supervisor_approval
+      label: Supervisor Approval
+      hint: Supervisor name
+      type: text
+      options: []
+      required: false

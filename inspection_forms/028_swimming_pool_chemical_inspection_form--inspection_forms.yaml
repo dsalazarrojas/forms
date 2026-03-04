@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: swimming_pool_chemical_inspection_form
+    pages:
+    - id: 1
+      name: pool_type
+      label: Pool Type
+      hint: null
+      type: select_one
+      options:
+      - Pool with heater
+      - Pool without heater
+      required: false
+    - id: 2
+      name: water_temp
+      label: Water Temperature
+      hint: Enter temperature in degrees Fahrenheit
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: ph_level
+      label: pH level
+      hint: 'Range: 7.2 - 8.0'
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: chlorine_level
+      label: Chlorine level
+      hint: 'Range: 0.5 - 5.0'
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: alkalinity_level
+      label: Alkalinity level
+      hint: 'Range: 0.0 - 10.0'
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: maintenance_actions
+      label: Maintenance Actions
+      hint: null
+      type: select_multiple
+      options:
+      - Water sample taken
+      - Pump inspection
+      - Equipment maintenance
+      required: false
+    - id: 7
+      name: maintenance_notes
+      label: Maintenance Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: next_inspection
+      label: Next Inspection Date
+      hint: YYYY-MM-YYYY
+      type: date
+      options: []
+      required: false

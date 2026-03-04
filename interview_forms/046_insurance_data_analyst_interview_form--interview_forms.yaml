@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: Insurance Data Analyst Interview Form
+    pages:
+    - id: 1
+      name: candidate_name
+      label: Candidate Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: resume
+      label: Resume
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: job_applied_for
+      label: job_applied_for
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: years_of_experience
+      label: Years of Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: skills
+      label: Skills
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: available_start_date
+      label: Available Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: available_end_date
+      label: Available End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: available_frequency
+      label: Available Frequency
+      hint: null
+      type: select_one
+      options:
+      - Available Full Time
+      - Available Part Time
+      - Available Contract
+      - Available Freelance
+      required: false
+    - id: 11
+      name: why_applying
+      label: Why are you applying for this position?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: work_experience
+      label: What type of experience do you have?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: education
+      label: What level of education do you have?
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: false
+    - id: 14
+      name: work_experience_what
+      label: Please specify what kind of work experience do you have?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: work_experience_where
+      label: Where did you do most of your work experience?
+      hint: null
+      type: text
+      options: []
+      required: false

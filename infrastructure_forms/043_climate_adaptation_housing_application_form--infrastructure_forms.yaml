@@ -1,0 +1,275 @@
+inputSchema:
+  type: object
+  properties:
+    title: Climate Adaptation Housing Application Form
+    pages:
+    - id: 1
+      name: intro_section
+      label: Climate Adaptation Housing Program Application
+      hint: Apply for climate-resilient housing support
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_info
+      label: -- Applicant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: household_section
+      label: -- Household Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: household_size
+      label: Number of Household Members
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: dependents
+      label: Number of Dependents
+      hint: Children or other dependents
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: household_income
+      label: Annual Household Income
+      hint: null
+      type: select_one
+      options:
+      - Under $25,000
+      - $25,000 - $50,000
+      - $50,000 - $75,000
+      - $75,000 - $100,000
+      - Over $100,000
+      required: true
+    - id: 11
+      name: income_verification
+      label: Can You Provide Income Verification?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: property_info
+      label: -- Current Property Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: property_type
+      label: Current Property Type
+      hint: null
+      type: select_one
+      options:
+      - Single Family Home
+      - Multi-Family Home
+      - Apartment
+      - Mobile Home
+      - Rental Property
+      - Other
+      required: true
+    - id: 14
+      name: property_ownership
+      label: Do You Own or Rent?
+      hint: null
+      type: select_one
+      options:
+      - Own
+      - Rent
+      - Other Arrangement
+      required: true
+    - id: 15
+      name: years_at_property
+      label: Years at Current Property
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: property_address
+      label: Property Address
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: climate_vulnerability
+      label: -- Climate Vulnerability Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: climate_risks
+      label: Climate Risks Your Property Faces
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Flooding
+      - Wildfire
+      - Drought
+      - Extreme Heat
+      - Severe Storms
+      - Wind Damage
+      - Erosion
+      - Other
+      required: true
+    - id: 19
+      name: previous_damage
+      label: Previous Climate-Related Damage to Property
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: damage_description
+      label: Describe Previous Damage
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: current_vulnerabilities
+      label: Current Vulnerabilities or Concerns
+      hint: What concerns you most about climate impacts?
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: adaptation_needs
+      label: -- Adaptation Needs and Improvements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: desired_improvements
+      label: Desired Climate Adaptation Improvements
+      hint: Select priority improvements
+      type: select_multiple
+      options:
+      - Flood Mitigation
+      - Roof Replacement
+      - Insulation Upgrade
+      - Water Harvesting
+      - Wildfire-Resistant Landscaping
+      - HVAC Improvement
+      - Generator Installation
+      - Foundation Work
+      - Other
+      required: true
+    - id: 24
+      name: improvement_priority
+      label: Top Priority Improvement
+      hint: What is most critical?
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: timeline_section
+      label: -- Timeline and Commitment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: preferred_timeline
+      label: Preferred Timeline for Improvements
+      hint: null
+      type: select_one
+      options:
+      - Immediate - Next 3 months
+      - 3-6 months
+      - 6-12 months
+      - 1-2 years
+      - Not Specified
+      required: false
+    - id: 27
+      name: commitment_to_resilience
+      label: Commitment to Building Resilience
+      hint: null
+      type: select_one
+      options:
+      - Very Low
+      - Low
+      - Moderate
+      - High
+      - Very High
+      required: true
+    - id: 28
+      name: support_section
+      label: -- Support and Resources --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 29
+      name: funding_sources
+      label: Funding Sources You Can Access
+      hint: null
+      type: select_multiple
+      options:
+      - Personal Savings
+      - Loans
+      - Grants
+      - Insurance
+      - Government Programs
+      - Other
+      required: false
+    - id: 30
+      name: contractor_preference
+      label: Do You Have a Preferred Contractor?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 31
+      name: additional_info
+      label: Additional Information or Comments
+      hint: null
+      type: text
+      options: []
+      required: false

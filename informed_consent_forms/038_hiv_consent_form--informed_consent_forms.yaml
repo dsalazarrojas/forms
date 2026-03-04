@@ -1,0 +1,226 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: HivConsentForm
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: test_request
+      label: Test Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: testing_method
+      label: Testing Method
+      hint: null
+      type: select_one
+      options:
+      - HIV Test Kit
+      - Rapid HIV Test
+      - Rapid HIV Test with Results
+      required: false
+    - id: 4
+      name: results_interpreted_by
+      label: Results Interpreted By
+      hint: null
+      type: select_one
+      options:
+      - Doctor
+      - Nurse
+      - Laboratory Staff
+      required: false
+    - id: 5
+      name: testing_site
+      label: Testing Site
+      hint: null
+      type: select_multiple
+      options:
+      - Local Laboratory
+      - Satellite Laboratory
+      - Other
+      required: false
+    - id: 6
+      name: consent_status
+      label: Consent Status
+      hint: null
+      type: select_one
+      options:
+      - Obtained
+      - Not Obtained
+      required: false
+    - id: 7
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: consent_date
+      label: Consent Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: medical_provider_info
+      label: Medical Provider Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: patient_signature
+      label: Patient Signature
+      hint: null
+      type: select_one
+      options:
+      - Signature
+      - Initials
+      - None
+      required: false
+    - id: 11
+      name: witness_signature
+      label: Witness Signature
+      hint: null
+      type: select_one
+      options:
+      - Signature
+      - Initials
+      - None
+      required: false
+    - id: 12
+      name: test_results
+      label: Test Results
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: test_results_status
+      label: Test Results Status
+      hint: null
+      type: select_one
+      options:
+      - Positive
+      - Negative
+      - Invalid
+      required: false
+    - id: 14
+      name: test_results_date
+      label: Test Results Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: medical_status
+      label: Medical Status
+      hint: null
+      type: select_multiple
+      options:
+      - Alive
+      - Deceased
+      - Alive and Well
+      required: false
+    - id: 16
+      name: medical_status_description
+      label: Medical Status Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: test_ordered_by
+      label: Test Ordered By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: test_performed_by
+      label: Test Performed By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: test_site
+      label: Test Site
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: test_results_verified_by
+      label: Test Results Verified By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: test_ordered_status
+      label: Test Ordered Status
+      hint: null
+      type: select_multiple
+      options:
+      - Ordered
+      - Re-Ordered
+      - Cancelled
+      required: false
+    - id: 22
+      name: test_performed_status
+      label: Test Performed Status
+      hint: null
+      type: select_multiple
+      options:
+      - Performed
+      - Re-Performed
+      - Cancelled
+      required: false
+    - id: 23
+      name: test_verified_status
+      label: Test Verified Status
+      hint: null
+      type: select_multiple
+      options:
+      - Verified
+      - Re-Verified
+      - Cancelled
+      required: false
+    - id: 24
+      name: test_status
+      label: Test Status
+      hint: null
+      type: select_multiple
+      options:
+      - Positive
+      - Negative
+      - Invalid
+      required: false
+    - id: 25
+      name: test_results_notes
+      label: Test Results Notes
+      hint: null
+      type: text
+      options: []
+      required: false

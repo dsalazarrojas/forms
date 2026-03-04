@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Health Insurance Claim Form
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: claim_details
+      label: Claim Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: claim_status
+      label: Claim Status
+      hint: null
+      type: select_multiple
+      options:
+      - Approved
+      - Denied
+      - Pending
+      required: true
+    - id: 4
+      name: claim_date
+      label: Claim Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: claim_amount
+      label: Claim Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: claim_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: claim_provider
+      label: Claim Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: claim_address
+      label: Claim Address
+      hint: null
+      type: text
+      options: []
+      required: false

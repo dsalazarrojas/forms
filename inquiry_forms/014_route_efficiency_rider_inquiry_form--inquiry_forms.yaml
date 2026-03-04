@@ -1,0 +1,61 @@
+inputSchema:
+  type: object
+  properties:
+    title: route_efficiency_rider_inquiry_form
+    pages:
+    - id: 1
+      name: rider_feedback
+      label: Rider Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: route_efficiency
+      label: Route Efficiency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: route_number
+      label: Route Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: satisfaction_level
+      label: Satisfaction Level
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Neutral
+      - Somewhat Dissatisfied
+      - Very Dissatisfied
+      required: false
+    - id: 5
+      name: delays_encountered
+      label: Delays Encountered
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: delay_reasons
+      label: Delay Reasons
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false

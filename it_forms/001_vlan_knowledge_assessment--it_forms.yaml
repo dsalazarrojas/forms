@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: vlan_knowledge_assessment
+    pages:
+    - id: 1
+      name: introduction
+      label: VLAN Knowledge Assessment Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: it_teams
+      label: IT Teams
+      hint: null
+      type: select_one
+      options:
+      - '{1: ''IT Team Members''}'
+      - '{2: ''Network Administrators''}'
+      - '{3: ''Trainers''}'
+      required: false
+    - id: 3
+      name: feedback_1
+      label: How often do you get feedback on your VLAN configurations?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: feedback_2
+      label: What type of feedback do you usually get on your VLAN configurations?
+      hint: null
+      type: select_multiple
+      options:
+      - '{1: ''Formal reviews''}'
+      - '{2: ''Informal feedback''}'
+      - '{3: ''No feedback''}'
+      required: false
+    - id: 5
+      name: challenges
+      label: How often do you encounter challenges with VLAN configurations?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: readiness
+      label: How ready do you feel learners are for VLAN challenges?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: configuration
+      label: How do you configure VLANs?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: questions
+      label: What questions do you usually ask when faced with a VLAN challenge?
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: answers
+      label: What answers do you usually get when faced with VLAN challenges?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Additional notes
+      hint: null
+      type: select_multiple
+      options:
+      - '{1: ''IT Team Members''}'
+      - '{2: ''Network Administrators''}'
+      - '{3: ''Trainers''}'
+      required: false
+    - id: 11
+      name: results
+      label: VLAN Knowledge Assessment Results
+      hint: null
+      type: note
+      options: []
+      required: false

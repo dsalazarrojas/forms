@@ -1,0 +1,137 @@
+inputSchema:
+  type: object
+  properties:
+    title: Data Center Inspection Form
+    pages:
+    - id: 1
+      name: data_center_inspection_form
+      label: data_center_inspection_form
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: equipment_status
+      label: equipment_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''critical'', ''value'': 1}'
+      - '{''id'': 2, ''name'': ''non_critical'', ''value'': 2}'
+      - '{''id'': 3, ''name'': ''unknown'', ''value'': 3}'
+      required: false
+    - id: 3
+      name: electrical_outlet_labels
+      label: electrical_outlet_labels
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: fire_suppression_system
+      label: fire_suppression_system
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''working'', ''value'': 1}'
+      - '{''id'': 2, ''name'': ''not_working'', ''value'': 2}'
+      - '{''id'': 3, ''name'': ''not_applicable'', ''value'': 3}'
+      required: false
+    - id: 5
+      name: safety_protocol_documents
+      label: safety_protocol_documents
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: safety_protocol_status
+      label: safety_protocol_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''up_to_date'', ''value'': 1}'
+      - '{''id'': 2, ''name'': ''not_up_to_date'', ''value'': 2}'
+      required: false
+    - id: 7
+      name: fire_alarm_tested
+      label: fire_alarm_tested
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': True, ''value'': 1}'
+      - '{''id'': 2, ''name'': False, ''value'': 2}'
+      - '{''id'': 3, ''name'': ''not_applicable'', ''value'': 3}'
+      required: false
+    - id: 8
+      name: safety_protocol_tested
+      label: safety_protocol_tested
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': True, ''value'': 1}'
+      - '{''id'': 2, ''name'': False, ''value'': 2}'
+      - '{''id'': 3, ''name'': ''not_applicable'', ''value'': 3}'
+      required: false
+    - id: 9
+      name: safety_protocol_reviewed
+      label: safety_protocol_reviewed
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': True, ''value'': 1}'
+      - '{''id'': 2, ''name'': False, ''value'': 2}'
+      - '{''id'': 3, ''name'': ''not_applicable'', ''value'': 3}'
+      required: false
+    - id: 10
+      name: electrical_outlet_label_status
+      label: electrical_outlet_label_status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: safety_protocol_comments
+      label: safety_protocol_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: safety_protocol_comments_reviewed
+      label: safety_protocol_comments_reviewed
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': True, ''value'': 1}'
+      - '{''id'': 2, ''name'': False, ''value'': 2}'
+      - '{''id'': 3, ''name'': ''not_applicable'', ''value'': 3}'
+      required: false
+    - id: 13
+      name: electrical_outlet_labels_reviewed
+      label: electrical_outlet_labels_reviewed
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': True, ''value'': 1}'
+      - '{''id'': 2, ''name'': False, ''value'': 2}'
+      - '{''id'': 3, ''name'': ''not_applicable'', ''value'': 3}'
+      required: false
+    - id: 14
+      name: safety_protocol_status_comments
+      label: safety_protocol_status_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false

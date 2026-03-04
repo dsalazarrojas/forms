@@ -1,0 +1,171 @@
+inputSchema:
+  type: object
+  properties:
+    title: Acanthamoeba Infection Assessment
+    pages:
+    - id: 1
+      name: section_patient_id
+      label: -- Patient Identification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Full Name
+      hint: As it appears on your ID
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Email Address
+      hint: For assessment follow-up
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Phone Number
+      hint: Primary phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_symptoms
+      label: -- Symptom History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: symptoms_start_date
+      label: When did your symptoms first appear?
+      hint: approximate if unsure
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: current_symptoms
+      label: Select all current eye symptoms
+      hint: Check all that apply
+      type: select_multiple
+      options:
+      - Redness
+      - Pain
+      - Blurred Vision
+      - Light Sensitivity (Photophobia)
+      - Excessive Tearing
+      - Sensation of something in the eye
+      required: true
+    - id: 8
+      name: pain_intensity
+      label: Rate your eye pain intensity 1-10
+      hint: 1 is minimal, 10 is unbearable
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      - '10'
+      required: true
+    - id: 9
+      name: section_lens_history
+      label: -- Contact Lens History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: wear_contact_lenses
+      label: Do you wear contact lenses?
+      hint: Core risk factor
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 11
+      name: lens_type
+      label: If yes, what type of lenses?
+      hint: Select current type
+      type: select_one
+      options:
+      - Daily Disposables
+      - Monthly or Bi-weekly Soft
+      - Rigid Gas Permeable
+      - Ortho-K
+      required: false
+    - id: 12
+      name: hygiene_practices
+      label: Do you ever rinse lenses with tap water?
+      hint: Risk behavior check
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 13
+      name: swim_with_lenses
+      label: Do you swim or shower while wearing lenses?
+      hint: Potential water exposure
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 14
+      name: section_exposure
+      label: -- Environmental Exposure --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: water_exposure
+      label: Recent exposure to
+      hint: Select all that apply within last 2 weeks
+      type: select_multiple
+      options:
+      - Hot Tubs
+      - Lakes or Rivers
+      - Wells
+      - Public Swimming Pools
+      required: false
+    - id: 16
+      name: section_treatment
+      label: -- Previous Treatment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: current_medications
+      label: List any eye drops or medications you are currently using
+      hint: include OTC and prescribed
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: section_urgent
+      label: -- Urgent Notice --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: emergency_acknowledgement
+      label: I understand this assessment is not a substitute for an emergency clinical
+        exam
+      hint: Safety acknowledgement
+      type: select_one
+      options:
+      - I Acknowledge
+      - Other
+      required: true

@@ -1,0 +1,158 @@
+inputSchema:
+  type: object
+  properties:
+    title: mold_exposure_assessment
+    pages:
+    - id: 1
+      name: property_details
+      label: Property Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: occupant_concerns
+      label: occupant_concerns
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 2, ''value'': ''None''}'
+      - '{''id'': 3, ''value'': ''Mild''}'
+      - '{''id'': 4, ''value'': ''Moderate''}'
+      - '{''id'': 5, ''value'': ''Severe''}'
+      required: false
+    - id: 3
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 6, ''value'': ''Residential''}'
+      - '{''id'': 7, ''value'': ''Commercial''}'
+      required: false
+    - id: 4
+      name: property_location
+      label: Property Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: occupant_name
+      label: Occupant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: property_condition
+      label: Property Condition
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 8, ''value'': ''Well-maintained''}'
+      - '{''id'': 9, ''value'': ''Poor''}'
+      - '{''id'': 10, ''value'': ''Needs Improvement''}'
+      required: false
+    - id: 8
+      name: follow_up
+      label: Follow-up
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 11, ''value'': True}'
+      - '{''id'': 12, ''value'': False}'
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: mold_type
+      label: Mold Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 13, ''value'': ''Black''}'
+      - '{''id'': 14, ''value'': ''Green''}'
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: follow_up_date
+      label: Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: follow_up_time
+      label: Follow-up Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: follow_up_location
+      label: Follow-up Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: follow_up_notes
+      label: Follow-up Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: mold_location
+      label: Mold Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: mold_area
+      label: Mold Area
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: mold_size
+      label: Mold Size
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: mold_description
+      label: Mold Description
+      hint: null
+      type: text
+      options: []
+      required: false

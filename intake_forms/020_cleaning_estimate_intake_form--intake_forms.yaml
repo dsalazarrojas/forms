@@ -1,0 +1,154 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cleaning Estimate Intake Form
+    pages:
+    - id: 1
+      name: intake_header
+      label: -- Cleaning Estimate Request --
+      hint: Please provide details for an accurate quote.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: client_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - Residential (House)
+      - Residential (Apartment/Condo)
+      - Commercial (Office)
+      - Commercial (Retail)
+      - Post-Construction
+      required: true
+    - id: 7
+      name: service_frequency
+      label: Desired Frequency
+      hint: null
+      type: select_one
+      options:
+      - One-time Deep Clean
+      - Weekly
+      - Bi-weekly
+      - Monthly
+      - Move In / Move Out
+      required: true
+    - id: 8
+      name: square_footage
+      label: Estimated Square Footage
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: num_bedrooms
+      label: Number of Bedrooms
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: num_bathrooms
+      label: Number of Bathrooms
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: pet_status
+      label: Are there pets in the home?
+      hint: null
+      type: select_one
+      options:
+      - No pets
+      - Yes - Cats
+      - Yes - Dogs
+      - Yes - Other
+      required: true
+    - id: 12
+      name: special_areas
+      label: Additional areas to clean?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Inside Fridge
+      - Inside Oven
+      - Interior Windows
+      - Basement
+      - Garage
+      - Laundry Service
+      required: false
+    - id: 13
+      name: preferred_days
+      label: Preferred Day(s) for Service
+      hint: null
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      required: false
+    - id: 14
+      name: access_method
+      label: How will the cleaner access the property?
+      hint: null
+      type: select_one
+      options:
+      - I will be home
+      - Hidden key
+      - Keypad code
+      - Concierge/Front desk
+      required: true
+    - id: 15
+      name: specific_concerns
+      label: Specific concerns or areas that need extra attention?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: referral_source
+      label: How did you find us?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: intake_footer
+      label: -- Thank you --
+      hint: We will contact you with an estimate within 24 hours.
+      type: note
+      options: []
+      required: false

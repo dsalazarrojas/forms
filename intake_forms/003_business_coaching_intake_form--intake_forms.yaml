@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Coaching Intake Form
+    pages:
+    - id: 1
+      name: personal_info
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: business_info
+      label: -- Business Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: business_name
+      label: Business Name
+      hint: Name of your company or venture
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: business_type
+      label: Type of Business
+      hint: What does your business do?
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: years_in_business
+      label: How many years in business?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: current_revenue
+      label: Current Annual Revenue
+      hint: Approximate annual revenue
+      type: select_one
+      options:
+      - Less than $50K
+      - $50K - $250K
+      - $250K - $1M
+      - $1M - $5M
+      - More than $5M
+      required: false
+    - id: 11
+      name: coaching_goals
+      label: -- Coaching Goals --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: primary_goal
+      label: What is your primary coaching goal?
+      hint: What do you most want to achieve?
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: specific_challenges
+      label: Specific challenges you want to address
+      hint: Describe the key issues you face
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: coaching_focus
+      label: Main focus areas for coaching
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Strategy and Vision
+      - Financial Management
+      - Sales and Marketing
+      - Operations
+      - Team Leadership
+      - Work-Life Balance
+      required: true
+    - id: 15
+      name: timeline
+      label: Desired Timeline for Results
+      hint: When do you want to see progress?
+      type: select_one
+      options:
+      - Within 1 month
+      - Within 3 months
+      - Within 6 months
+      - Within 1 year
+      - No specific timeline
+      required: false
+    - id: 16
+      name: experience_section
+      label: -- Experience and Background --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: coaching_experience
+      label: Have you worked with a coach before?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not sure
+      required: false
+    - id: 18
+      name: business_experience
+      label: Years of business management experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: commitment_level
+      label: What is your commitment level to coaching?
+      hint: How serious are you about this process?
+      type: select_one
+      options:
+      - Highly Committed
+      - Very Committed
+      - Somewhat Committed
+      - Exploring Options
+      required: true
+    - id: 20
+      name: preferred_format
+      label: Preferred coaching format
+      hint: How would you like to work together?
+      type: select_one
+      options:
+      - One-on-one sessions
+      - Group coaching
+      - Virtual only
+      - In-person or virtual
+      required: false
+    - id: 21
+      name: availability
+      label: Days and times you are available
+      hint: Your general availability for sessions
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: additional_info
+      label: Additional information or questions
+      hint: Anything else you would like us to know
+      type: text
+      options: []
+      required: false

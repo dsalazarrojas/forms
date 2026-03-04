@@ -1,0 +1,135 @@
+inputSchema:
+  type: object
+  properties:
+    title: move-in-move-out-inspection-form
+    pages:
+    - id: 1
+      name: move_in_move_out_form
+      label: Move In Move Out Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: move_in_move_out_form_section_1
+      label: Exterior
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''excellent'', ''label'': ''Excellent'', ''value'':
+        ''excellent''}'
+      - '{''id'': 2, ''name'': ''fair'', ''label'': ''Fair'', ''value'': ''fair''}'
+      - '{''id'': 3, ''name'': ''poor'', ''label'': ''Poor'', ''value'': ''poor''}'
+      required: false
+    - id: 3
+      name: move_in_move_out_form_section_1_item_1
+      label: Is the property well-lit and well-maintained?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': True, ''label'': True, ''value'': True}'
+      - '{''id'': 2, ''name'': False, ''label'': False, ''value'': False}'
+      required: false
+    - id: 4
+      name: move_in_move_out_form_section_1_item_2
+      label: Are there any broken windows or glass?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: move_in_move_out_form_section_1_item_3
+      label: Are the doors functional?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': True, ''label'': True, ''value'': True}'
+      - '{''id'': 2, ''name'': False, ''label'': False, ''value'': False}'
+      required: false
+    - id: 6
+      name: move_in_move_out_form_section_2
+      label: Interior
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''excellent'', ''label'': ''Excellent'', ''value'':
+        ''excellent''}'
+      - '{''id'': 2, ''name'': ''fair'', ''label'': ''Fair'', ''value'': ''fair''}'
+      - '{''id'': 3, ''name'': ''poor'', ''label'': ''Poor'', ''value'': ''poor''}'
+      required: false
+    - id: 7
+      name: move_in_move_out_form_section_2_item_1
+      label: Is the kitchen well-equipped and clean?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': True, ''label'': True, ''value'': True}'
+      - '{''id'': 2, ''name'': False, ''label'': False, ''value'': False}'
+      required: false
+    - id: 8
+      name: move_in_move_out_form_section_2_item_2
+      label: Are the appliances in good working order?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': True, ''label'': True, ''value'': True}'
+      - '{''id'': 2, ''name'': False, ''label'': False, ''value'': False}'
+      required: false
+    - id: 9
+      name: move_in_move_out_form_section_2_item_3
+      label: Is the bathroom well-ventilated and clean?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': True, ''label'': True, ''value'': True}'
+      - '{''id'': 2, ''name'': False, ''label'': False, ''value'': False}'
+      required: false
+    - id: 10
+      name: move_in_move_out_form_section_2_item_4
+      label: Are the heating and cooling systems operational?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': True, ''label'': True, ''value'': True}'
+      - '{''id'': 2, ''name'': False, ''label'': False, ''value'': False}'
+      required: false
+    - id: 11
+      name: move_in_move_out_form_section_3
+      label: Fire Safety
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''excellent'', ''label'': ''Excellent'', ''value'':
+        ''excellent''}'
+      - '{''id'': 2, ''name'': ''fair'', ''label'': ''Fair'', ''value'': ''fair''}'
+      - '{''id'': 3, ''name'': ''poor'', ''label'': ''Poor'', ''value'': ''poor''}'
+      required: false
+    - id: 12
+      name: move_in_move_out_form_section_3_item_1
+      label: Are the fire extinguishers well-marked and accessible?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': True, ''label'': True, ''value'': True}'
+      - '{''id'': 2, ''name'': False, ''label'': False, ''value'': False}'
+      required: false
+    - id: 13
+      name: move_in_move_out_form_section_3_item_2
+      label: Is the fire alarm functioning properly?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': True, ''label'': True, ''value'': True}'
+      - '{''id'': 2, ''name'': False, ''label'': False, ''value'': False}'
+      required: false
+    - id: 14
+      name: move_in_move_out_form_section_4
+      label: Security
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''excellent'', ''label'': ''Excellent'', ''value'':
+        ''excellent''}'
+      - '{''id'': 2, ''name'': ''fair'', ''label'': ''Fair'', ''value'': ''fair''}'
+      - '{''id'': 3, ''name'': ''poor'', ''label'': ''Poor'', ''value'': ''poor''}'
+      required: false

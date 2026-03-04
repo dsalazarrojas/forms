@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: news_interview_tv_release_form
+    pages:
+    - id: 1
+      name: news_interview_tv_release_form_page1
+      label: participant_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_details_label
+      label: participant_details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_name
+      label: participant_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: participant_phone
+      label: participant_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: participant_email
+      label: participant_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: release_date
+      label: release_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: release_time
+      label: release_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: shoot_details
+      label: shoot_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: participant_notes
+      label: participant_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: consent
+      label: consent
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: true
+    - id: 11
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: production_company
+      label: production_company
+      hint: null
+      type: text
+      options: []
+      required: false

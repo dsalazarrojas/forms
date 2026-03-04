@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: esthetician_consent_form
+    pages:
+    - id: 1
+      name: salon_name
+      label: salon name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: applicant_name
+      label: applicant name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: services_offered
+      label: services offered
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: date_of_visit
+      label: date of visit
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,55 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Internet Monitoring Consent Form
+    pages:
+    - id: 1
+      name: employee_internet_monitoring_consent
+      label: Employee Internet Monitoring Consent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: monitoring_frequency
+      label: Monitoring Frequency
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: internet_usage_policies
+      label: Internet Usage Policies
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: monitoring_consequences
+      label: Monitoring Consequences
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: internet_access
+      label: Internet Access
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: monitoring_scope
+      label: Monitoring Scope
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

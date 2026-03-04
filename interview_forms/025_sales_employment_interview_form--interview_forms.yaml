@@ -1,0 +1,117 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sales Employment Interview Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: experience
+      label: Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: prophets
+      label: Prophets
+      hint: null
+      type: select_one
+      options:
+      - Apple
+      - Orange
+      required: false
+    - id: 8
+      name: job_type
+      label: Job Type
+      hint: null
+      type: select_one
+      options:
+      - Full-time
+      - Part-time
+      required: true
+    - id: 9
+      name: salary_range
+      label: Salary Range prophets
+      hint: null
+      type: select_multiple
+      options:
+      - 20,000-50,000
+      - 50,000-80,000
+      required: true
+    - id: 10
+      name: job_type2
+      label: Job Type 2
+      hint: null
+      type: select_multiple
+      options:
+      - Full-time
+      - Part-time
+      required: false
+    - id: 11
+      name: available
+      label: Available
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: work_hours
+      label: Work Hours
+      hint: null
+      type: select_multiple
+      options:
+      - '8'
+      - '12'
+      - '24'
+      required: true
+    - id: 13
+      name: available_days
+      label: Available Days
+      hint: null
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      required: true
+    - id: 14
+      name: note
+      label: Note
+      hint: Note
+      type: note
+      options: []
+      required: false

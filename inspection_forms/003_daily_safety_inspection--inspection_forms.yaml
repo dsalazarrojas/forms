@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daily Safety Inspection
+    pages:
+    - id: 1
+      name: general_info
+      label: General Information
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: supervisor_checklist
+      label: Supervisor Checklist
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: site_conditions
+      label: Site Conditions
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Bad''}'
+      required: true
+    - id: 4
+      name: equipment_conditioning
+      label: Equipment Conditioning
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: safety_equipment
+      label: Safety Equipment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: first_aid
+      label: First Aid
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Available''}'
+      - '{''label'': ''Not Available''}'
+      required: true
+    - id: 7
+      name: electrical_equipment
+      label: Electrical Equipment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: fire_equipment
+      label: Fire Equipment
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: gas_equipment
+      label: Gas Equipment
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: other_equipment
+      label: Other Equipment
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Available''}'
+      - '{''label'': ''Not Available''}'
+      required: false
+    - id: 11
+      name: general_equipment_conditioning
+      label: General Equipment Conditioning
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: other_equipment_conditioning
+      label: Other Equipment Conditioning
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: general_info
+      label: General Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: site_inspection_status
+      label: Site Inspection Status
+      hint: null
+      type: note
+      options: []
+      required: false

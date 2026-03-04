@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Municipal Water Facility Quality Inspection Form
+    pages:
+    - id: 1
+      name: water_facility_name
+      label: Water Facility Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: facility_type
+      label: Facility Type
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 3
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: latitude
+      label: Latitude
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: longitude
+      label: Longitude
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: date_of_inspection
+      label: Date of Inspection
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: inspected_by
+      label: Inspected By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: facility_contact_person
+      label: Facility Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: facility_manager_name
+      label: Facility Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: facility_manager_contact_number
+      label: Facility Manager Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: facility_manager_email
+      label: Facility Manager Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: facility_manager_address
+      label: Facility Manager Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: water_source_type
+      label: Water Source Type
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 15
+      name: water_source_capacity
+      label: Water Source Capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: water_source_pressure
+      label: Water Source Pressure
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: facility_operating_status
+      label: Facility Operating Status
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 18
+      name: facility_operating_capacity
+      label: Facility Operating Capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: facility_operating_pressure
+      label: Facility Operating Pressure
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: water_treatment_type
+      label: Water Treatment Type
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 21
+      name: facility_condition
+      label: Facility Condition
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 22
+      name: date_of_last_inspection
+      label: Date of Last Inspection
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: facility_image1
+      label: Facility Image 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: facility_image2
+      label: Facility Image 2
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,289 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bracket Inspection Form
+    pages:
+    - id: 1
+      name: inspection_date
+      label: Inspection Date
+      hint: Date of inspection
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: inspection_time
+      label: Inspection Time
+      hint: Time of inspection
+      type: time
+      options: []
+      required: true
+    - id: 3
+      name: inspector_name
+      label: Inspector Name
+      hint: Full name of inspector
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: inspector_id
+      label: Inspector ID
+      hint: Employee identification number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company_name
+      label: Company Name
+      hint: Name of company or contractor
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: project_name
+      label: Project Name
+      hint: Name of construction project
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: project_address
+      label: Project Address
+      hint: Location of installation
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: bracket_type
+      label: Bracket Type
+      hint: Type of bracket being inspected
+      type: select_one
+      options:
+      - L-bracket
+      - U-bracket
+      - Angle bracket
+      - Shelf bracket
+      - Pipe bracket
+      - Structural bracket
+      - Custom bracket
+      - Other
+      required: true
+    - id: 9
+      name: bracket_material
+      label: Bracket Material
+      hint: Material composition
+      type: select_one
+      options:
+      - Steel
+      - Stainless steel
+      - Aluminum
+      - Iron
+      - Brass
+      - Other metal
+      - Plastic
+      - Other
+      required: true
+    - id: 10
+      name: bracket_size
+      label: Bracket Size
+      hint: Dimensions of bracket
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: quantity_inspected
+      label: Quantity Inspected
+      hint: Number of brackets inspected
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: installation_location
+      label: Installation Location
+      hint: Where are brackets installed
+      type: select_one
+      options:
+      - Interior wall
+      - Exterior wall
+      - Ceiling
+      - Floor
+      - Structural beam
+      - Other
+      required: true
+    - id: 13
+      name: load_capacity
+      label: Load Capacity
+      hint: Expected load capacity
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: mounting_surface
+      label: Mounting Surface
+      hint: What surface are brackets mounted to
+      type: select_one
+      options:
+      - Wood stud
+      - Metal stud
+      - Concrete
+      - Brick
+      - Drywall only
+      - Other
+      required: true
+    - id: 15
+      name: fastener_type
+      label: Fastener Type
+      hint: Type of fasteners used
+      type: select_one
+      options:
+      - Wood screws
+      - Machine screws
+      - Lag bolts
+      - Concrete anchors
+      - Toggle bolts
+      - Other
+      required: true
+    - id: 16
+      name: fastener_size
+      label: Fastener Size
+      hint: Size of fasteners
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: number_of_fasteners
+      label: Number of Fasteners
+      hint: Fasteners per bracket
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: visual_inspection
+      label: Visual Inspection Result
+      hint: Results of visual examination
+      type: select_one
+      options:
+      - Pass - no defects
+      - Pass - minor cosmetic issues
+      - Fail - significant defects
+      - Fail - structural concerns
+      required: true
+    - id: 19
+      name: corrosion_check
+      label: Corrosion Check
+      hint: Any signs of corrosion
+      type: select_one
+      options:
+      - No corrosion
+      - Minor surface rust
+      - Significant corrosion
+      - Not applicable
+      required: true
+    - id: 20
+      name: crack_check
+      label: Crack Check
+      hint: Any cracks or fractures
+      type: select_one
+      options:
+      - No cracks
+      - Minor hairline cracks
+      - Significant cracks
+      - Complete fracture
+      required: true
+    - id: 21
+      name: alignment_check
+      label: Alignment Check
+      hint: Are brackets properly aligned
+      type: select_one
+      options:
+      - Properly aligned
+      - Minor misalignment
+      - Significant misalignment
+      required: true
+    - id: 22
+      name: tightness_check
+      label: Tightness Check
+      hint: Are fasteners properly tightened
+      type: select_one
+      options:
+      - All properly tightened
+      - Some loose
+      - Many loose
+      - Unable to check
+      required: true
+    - id: 23
+      name: weld_inspection
+      label: Weld Inspection
+      hint: Quality of welds if applicable
+      type: select_one
+      options:
+      - Good quality welds
+      - Minor weld defects
+      - Significant weld defects
+      - Not welded
+      required: true
+    - id: 24
+      name: code_compliance
+      label: Code Compliance
+      hint: Does installation meet code
+      type: select_one
+      options:
+      - Compliant
+      - Minor violations
+      - Major violations
+      - Unable to determine
+      required: true
+    - id: 25
+      name: overall_assessment
+      label: Overall Assessment
+      hint: Final assessment
+      type: select_one
+      options:
+      - Pass - approved for use
+      - Pass with notes
+      - Fail - requires correction
+      - Fail - requires replacement
+      required: true
+    - id: 26
+      name: deficiencies_found
+      label: Deficiencies Found
+      hint: List any issues
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: corrective_actions
+      label: Corrective Actions Required
+      hint: What needs to be done
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: reinspection_required
+      label: Reinspection Required
+      hint: Is follow-up inspection needed
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 29
+      name: reinspection_date
+      label: Reinspection Date
+      hint: Scheduled date if applicable
+      type: date
+      options: []
+      required: false
+    - id: 30
+      name: inspector_signature
+      label: Inspector Signature
+      hint: Electronic signature
+      type: text
+      options: []
+      required: true
+    - id: 31
+      name: contractor_acknowledgment
+      label: Contractor Acknowledgment
+      hint: Contractor signature if applicable
+      type: text
+      options: []
+      required: false

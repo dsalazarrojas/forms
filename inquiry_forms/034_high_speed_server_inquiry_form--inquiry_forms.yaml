@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: High Speed Server Inquiry Form
+    pages:
+    - id: 1
+      name: form_data_1
+      label: form_data_1_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: server_type
+      label: server_type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''dedicated'', ''label'': ''Dedicated''}'
+      - '{''value'': ''virtual'', ''label'': ''Virtual''}'
+      - '{''value'': ''managed'', ''label'': ''Managed''}'
+      - '{''value'': ''other'', ''label'': ''Other''}'
+      required: false
+    - id: 3
+      name: server_type_other
+      label: other
+      hint: Enter a server type
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: server_count
+      label: server_count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: budget_range
+      label: budget_range
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: budget_frequency
+      label: budget_frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''monthly'', ''label'': ''Monthly''}'
+      - '{''value'': ''annually'', ''label'': ''Annually''}'
+      - '{''value'': ''one_time'', ''label'': ''One-time''}'
+      required: false
+    - id: 7
+      name: budget_frequency_other
+      label: other
+      hint: Enter a budget frequency
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_name
+      label: contact_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_notes
+      label: contact_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: company_name
+      label: company_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: company_url
+      label: company_url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: company_address
+      label: company_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: company_city
+      label: company_city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: company_state
+      label: company_state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: company_country
+      label: company_country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: server_specs
+      label: server_specs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: server_specs_other
+      label: other_specs
+      hint: Enter server specs
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: additional_info
+      label: additional_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: additional_notes
+      label: additional_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: lead_status
+      label: lead_status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''not_started'', ''label'': ''Not Started''}'
+      - '{''value'': ''in_progress'', ''label'': ''In Progress''}'
+      - '{''value'': ''completed'', ''label'': ''Completed''}'
+      - '{''value'': ''declined'', ''label'': ''Declined''}'
+      required: false
+    - id: 23
+      name: lead_status_other
+      label: other
+      hint: Enter lead status
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: submitted
+      label: submitted
+      hint: null
+      type: text
+      options: []
+      required: false

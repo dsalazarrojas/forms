@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Taxi Stand Inspection Form
+    pages:
+    - id: 1
+      name: taxi_stand_inspection_form
+      label: Taxi Stand Inspection Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: location
+      label: Location
+      hint: null
+      type: select_one
+      options:
+      - Taxi Stand
+      - Other
+      required: false
+    - id: 3
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: taxi_stand_id
+      label: Taxi Stand ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: operator_name
+      label: Operator Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: vehicle_license
+      label: Vehicle License
+      hint: null
+      type: select_one
+      options:
+      - Valid
+      - Invalid
+      required: false
+    - id: 7
+      name: vehicles
+      label: Vessels
+      hint: null
+      type: select_multiple
+      options:
+      - Bus
+      - Taxi
+      required: false
+    - id: 8
+      name: operational_status
+      label: Operational Status
+      hint: null
+      type: select_one
+      options:
+      - Operational
+      - NonOperational
+      required: false
+    - id: 9
+      name: safety_standards_compliance
+      label: Safety Standards Compliance
+      hint: null
+      type: select_one
+      options:
+      - Compliance
+      - Non-Compliance
+      required: false
+    - id: 10
+      name: regulatory_fines
+      label: Regulatory Fines
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: observation
+      label: Observation
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: inspector_id
+      label: Inspector ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: inspector_name
+      label: Inspector Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: inspector_department
+      label: Inspector Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: inspector_date
+      label: Inspector Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: inspector_time
+      label: Inspector Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: inspector_email
+      label: Inspector Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: inspector_phone
+      label: Inspector Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: taxi_stand_inspection_form_status
+      label: Taxi Stand Inspection Form Status
+      hint: null
+      type: select_one
+      options:
+      - Complete
+      - Incomplete
+      required: false
+    - id: 21
+      name: taxi_stand_inspection_form_comments
+      label: Taxi Stand Inspection Form Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: vehicle_type
+      label: Vehicle Type
+      hint: null
+      type: select_one
+      options:
+      - Bus
+      - Taxi
+      required: false
+    - id: 23
+      name: vehicle_capacity
+      label: Vehicle Capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: vehicle_length
+      label: Vehicle Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: vehicle_weight
+      label: Vehicle Weight
+      hint: null
+      type: number
+      options: []
+      required: false

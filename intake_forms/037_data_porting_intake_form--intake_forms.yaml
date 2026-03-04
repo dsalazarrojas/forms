@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Data Porting Intake Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: select_one
+      label: Select One
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1'', ''value'': ''option-1''}'
+      - '{''label'': ''Option 2'', ''value'': ''option-2''}'
+      - '{''label'': ''Option 3'', ''value'': ''option-3''}'
+      required: false
+    - id: 7
+      name: select_multiple
+      label: Select Multiple
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Option 1'', ''value'': ''option-1''}'
+      - '{''label'': ''Option 2'', ''value'': ''option-2''}'
+      - '{''label'': ''Option 3'', ''value'': ''option-3''}'
+      - '{''label'': ''Option 4'', ''value'': ''option-4''}'
+      - '{''label'': ''Option 5'', ''value'': ''option-5''}'
+      required: false
+    - id: 8
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

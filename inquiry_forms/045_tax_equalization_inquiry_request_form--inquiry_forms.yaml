@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tax Equalization Inquiry Request Form
+    pages:
+    - id: 1
+      name: employee_request
+      label: Employee Request
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: tax_year
+      label: tax_year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: tax_period
+      label: tax_period
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: end_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: request_type
+      label: request_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: reason
+      label: reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 9
+      name: employee_name
+      label: employee_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: employee_email
+      label: employee_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: employee_phone
+      label: employee_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: employee_title
+      label: employee_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: department
+      label: department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: organization
+      label: organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: employee_location
+      label: employee_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: tax_authority
+      label: tax_authority
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: tax_officer
+      label: tax_officer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: tax_officer_email
+      label: tax_officer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: tax_officer_phone
+      label: tax_officer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: tax_officer_title
+      label: tax_officer_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: tax_officer_department
+      label: tax_officer_department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: status
+      label: status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 23
+      name: submitted_by
+      label: submitted_by
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 24
+      name: submitted_to
+      label: submitted_to
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 25
+      name: submitted_date
+      label: submitted_date
+      hint: null
+      type: date
+      options: []
+      required: false

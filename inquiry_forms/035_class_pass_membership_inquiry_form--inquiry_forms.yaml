@@ -1,0 +1,224 @@
+inputSchema:
+  type: object
+  properties:
+    title: Class Pass Membership Inquiry Form
+    pages:
+    - id: 1
+      name: personal_info_header
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: age
+      label: Age Group
+      hint: null
+      type: select_one
+      options:
+      - 18-25
+      - 26-35
+      - 36-45
+      - 46-55
+      - 56-65
+      - 65+
+      required: false
+    - id: 7
+      name: location_info_header
+      label: -- Location Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: state
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: zip_code
+      label: Zip or Postal Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: fitness_header
+      label: -- Fitness and Class Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: fitness_goals
+      label: Primary Fitness Goals - select all that apply
+      hint: null
+      type: select_multiple
+      options:
+      - Weight loss
+      - Build muscle
+      - Improve flexibility
+      - Increase cardio endurance
+      - General fitness
+      - Stress relief
+      - Community and social
+      - Other
+      required: true
+    - id: 14
+      name: class_interests
+      label: Classes of Interest - select all
+      hint: null
+      type: select_multiple
+      options:
+      - Yoga
+      - Pilates
+      - Spin cycling
+      - HIIT training
+      - Boxing
+      - Dance fitness
+      - Strength training
+      - CrossFit
+      - Barre
+      - Other
+      required: true
+    - id: 15
+      name: fitness_level
+      label: Current Fitness Level
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Not sure
+      required: true
+    - id: 16
+      name: experience_level
+      label: Experience with Group Fitness Classes
+      hint: null
+      type: select_one
+      options:
+      - Brand new to classes
+      - Some experience
+      - Experienced
+      - Very experienced
+      required: false
+    - id: 17
+      name: membership_header
+      label: -- Membership Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: membership_type
+      label: Interested Membership Type
+      hint: null
+      type: select_one
+      options:
+      - Month-to-month
+      - Quarterly
+      - Annual
+      - Class packages
+      - Not sure yet
+      required: true
+    - id: 19
+      name: frequency
+      label: Expected Classes Per Week
+      hint: null
+      type: select_one
+      options:
+      - 1-2 times per week
+      - 3-4 times per week
+      - 5+ times per week
+      - Not sure
+      required: true
+    - id: 20
+      name: preferred_schedule
+      label: Preferred Class Schedule
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: budget_header
+      label: -- Budget and Pricing --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: budget_range
+      label: Budget Range for Monthly Membership
+      hint: null
+      type: select_one
+      options:
+      - Under 50 dollars
+      - 50-100 dollars
+      - 100-150 dollars
+      - 150-200 dollars
+      - 200+ dollars
+      - Not sure
+      required: false
+    - id: 23
+      name: follow_up
+      label: Preferred Method of Contact
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Text message
+      - No preference
+      required: true
+    - id: 24
+      name: additional_info
+      label: Additional Information or Questions
+      hint: null
+      type: text
+      options: []
+      required: false

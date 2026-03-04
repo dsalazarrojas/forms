@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Airbag Control Unit Claim Form
+    pages:
+    - id: 1
+      name: claimant_name
+      label: Claimant name
+      hint: Name of person filing the claim
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_phone
+      label: Contact phone
+      hint: Phone for claim follow up
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: vehicle_vin
+      label: Vehicle VIN
+      hint: Vehicle identification number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: incident_date
+      label: Incident date
+      hint: Date when the event occurred
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: fault_description
+      label: Fault description
+      hint: Describe the observed airbag control unit issue
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: supporting_documents
+      label: Supporting documents
+      hint: Repair invoices or inspection reports
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: claim_amount_requested
+      label: Claim amount requested
+      hint: Estimated cost for repair or replacement
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: insurer_policy_number
+      label: Insurer policy number
+      hint: Insurance policy identifier
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: declaration
+      label: Declaration of truth
+      hint: Confirm that all information is accurate
+      type: note
+      options: []
+      required: true

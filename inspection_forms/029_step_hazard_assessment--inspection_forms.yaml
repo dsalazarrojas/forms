@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: step_hazard_assessment
+    pages:
+    - id: 1
+      name: general
+      label: Step Hazard Assessment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: step_number
+      label: step_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: step_hazard
+      label: step_hazard
+      hint: reported hazards on the Step
+      type: select_multiple
+      options:
+      - '{''Hazard'': ''Obstruction/entrap''}'
+      - '{''Hazard'': ''Fire''}'
+      - '{''Hazard'': ''Falling''}'
+      - '{''Hazard'': ''Electrical''}'
+      - '{''Hazard'': ''Other''}'
+      required: false
+    - id: 4
+      name: hazard_rating
+      label: hazard_rating
+      hint: On a scale of 1-5
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: recommendation
+      label: recommendation
+      hint: Describe your recommendation
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: select_one
+      options:
+      - '{''Assigned To'': ''chatjimmy''}'
+      - '{''Assigned To'': ''John Smith''}'
+      - '{''Assigned To'': ''Jane Doe''}'
+      required: false
+    - id: 8
+      name: location
+      label: location
+      hint: Location of Step
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date
+      label: date
+      hint: Date of Inspection
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time
+      label: time
+      hint: Time of Inspection
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: inspector
+      label: inspector
+      hint: Name of Inspector
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false

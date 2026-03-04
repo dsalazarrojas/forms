@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Trust Amendment Form
+    pages:
+    - id: 1
+      name: grantor_info
+      label: grantor_info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: amendment_type
+      label: amendment_type
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 3
+      name: effective_date
+      label: effective_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: reason_for_amendment
+      label: reason_for_amendment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: trust_info
+      label: trust_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: amendment_terms
+      label: amendment_terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: witness_signature
+      label: witness_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: grantor_signature
+      label: grantor_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: trustee_signature
+      label: trustee_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: date_signed
+      label: date_signed
+      hint: null
+      type: date
+      options: []
+      required: false

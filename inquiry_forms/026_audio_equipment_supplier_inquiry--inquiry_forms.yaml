@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: Audio Equipment Supplier Inquiry
+    pages:
+    - id: 1
+      name: section_contact
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: inquirer_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: company_name
+      label: Company or Organization Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_project
+      label: -- Project and Inquiry Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: project_name
+      label: Project or Event Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: equipment_categories
+      label: Equipment Categories Needed
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - PA Systems and Speakers
+      - Mixing Consoles
+      - Microphones and DI Boxes
+      - Cabling and Interconnects
+      - Recording Gear
+      - Wireless Systems
+      - Monitoring (IEMs/Wedges)
+      required: true
+    - id: 9
+      name: specific_items_list
+      label: Specific Items and Quantities
+      hint: Please list model numbers if known
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: transaction_type
+      label: Inquiry Type
+      hint: null
+      type: select_one
+      options:
+      - Rental for Event
+      - Permanent Purchase/Install
+      - Long-term Lease
+      - Maintenance/Service
+      required: true
+    - id: 11
+      name: budget_estimate
+      label: Estimated Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: delivery_date_required
+      label: Required Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: venue_info
+      label: Venue and Location Details
+      hint: Where will the equipment be used?
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: additional_requirements
+      label: Additional Services Required
+      hint: null
+      type: select_multiple
+      options:
+      - On-site Technician
+      - Delivery and Setup
+      - Training session
+      - Insurance coverage
+      required: false
+    - id: 15
+      name: inquiry_notes
+      label: Any other notes for our sales team?
+      hint: null
+      type: text
+      options: []
+      required: false

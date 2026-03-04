@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Liability Waiver Rental Agreement
+    pages:
+    - id: 1
+      name: rental_agreement
+      label: rental agreement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: renter_info
+      label: renter information
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: equipment_details
+      label: equipment details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: rent_date
+      label: rent date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: end_date
+      label: end date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: waiver_acceptance
+      label: waiver acceptance
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: waiver_type
+      label: waiver type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: waiver_version
+      label: waiver version
+      hint: null
+      type: text
+      options: []
+      required: false

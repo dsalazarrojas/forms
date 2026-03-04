@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Application Support Request Form
+    pages:
+    - id: 1
+      name: request_date
+      label: Request Date
+      hint: Date when support is requested
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: request_time
+      label: Request Time
+      hint: Time when issue occurred
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: requester_name
+      label: Requester Name
+      hint: Full name of person requesting support
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: requester_email
+      label: Requester Email
+      hint: Email address for contact
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: requester_phone
+      label: Requester Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: department
+      label: Department
+      hint: Your department or team
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: application_name
+      label: Application Name
+      hint: Name of the application needing support
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: application_version
+      label: Application Version
+      hint: Version number if known
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: issue_category
+      label: Issue Category
+      hint: Category of the issue
+      type: select_one
+      options:
+      - Login Problem
+      - Performance Issue
+      - Feature Not Working
+      - Error Message
+      - Data Issue
+      - Access Request
+      - Training Needed
+      - Other
+      required: true
+    - id: 10
+      name: issue_priority
+      label: Issue Priority
+      hint: Priority level of this request
+      type: select_one
+      options:
+      - Critical - System Down
+      - High - Major Impact
+      - Medium - Moderate Impact
+      - Low - Minor Issue
+      required: true
+    - id: 11
+      name: issue_description
+      label: Issue Description
+      hint: Detailed description of the issue
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: steps_to_reproduce
+      label: Steps to Reproduce
+      hint: Steps that lead to the issue
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: error_message
+      label: Error Message
+      hint: Exact error message if any
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: affected_users
+      label: Affected Users
+      hint: How many users are affected
+      type: select_one
+      options:
+      - Just Me
+      - My Team
+      - Department
+      - All Users
+      required: true
+    - id: 15
+      name: browser_used
+      label: Browser Used
+      hint: Web browser being used
+      type: select_one
+      options:
+      - Google Chrome
+      - Mozilla Firefox
+      - Safari
+      - Microsoft Edge
+      - Internet Explorer
+      - Other
+      - Not Applicable
+      required: false
+    - id: 16
+      name: operating_system
+      label: Operating System
+      hint: Operating system in use
+      type: select_one
+      options:
+      - Windows 10
+      - Windows 11
+      - macOS
+      - Linux
+      - iOS
+      - Android
+      - Other
+      required: false
+    - id: 17
+      name: issue_frequency
+      label: Issue Frequency
+      hint: How often does this occur
+      type: select_one
+      options:
+      - Always
+      - Frequently
+      - Occasionally
+      - Rarely
+      - Once
+      required: true
+    - id: 18
+      name: workaround_attempted
+      label: Workaround Attempted
+      hint: Have you tried any workarounds
+      type: select_one
+      options:
+      - Yes - Worked
+      - Yes - Did Not Work
+      - false
+      required: true
+    - id: 19
+      name: workaround_details
+      label: Workaround Details
+      hint: Describe workaround attempts
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: business_impact
+      label: Business Impact
+      hint: How does this impact your work
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: requested_resolution_date
+      label: Requested Resolution Date
+      hint: When do you need this resolved
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: attachments
+      label: Attachments
+      hint: Screenshots or documents to attach
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false

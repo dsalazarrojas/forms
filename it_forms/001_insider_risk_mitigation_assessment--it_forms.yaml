@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Insider Risk Mitigation Assessment
+    pages:
+    - id: 1
+      name: page_1
+      label: page_1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: user_info
+      label: user_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: threat_controls
+      label: threat_controls
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: threat_controls_control_1
+      label: threat_controls_control_1
+      hint: null
+      type: select_one
+      options:
+      - Security
+      - IT
+      - HR
+      - Compliance
+      required: false
+    - id: 5
+      name: threat_controls_control_2
+      label: threat_controls_control_2
+      hint: null
+      type: select_one
+      options:
+      - Physical
+      - Data
+      - Cyber
+      required: false
+    - id: 6
+      name: incidents
+      label: incidents
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: incident_details
+      label: incident_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: incident_1
+      label: incident_1
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: incident_2
+      label: incident_2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: improvement_ideas
+      label: improvement_ideas
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: page_2
+      label: page_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: incident_3
+      label: incident_3
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: date_incident_ocurred
+      label: date_incident_occured
+      hint: null
+      type: date
+      options: []
+      required: false

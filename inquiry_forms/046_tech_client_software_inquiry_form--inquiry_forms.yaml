@@ -1,0 +1,180 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tech Client Software Inquiry Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: role
+      label: Role
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: company_size
+      label: Company Size
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: inquiry_type
+      label: Inquiry type
+      hint: null
+      type: select_one
+      options:
+      - New client software project
+      - Existing client software project
+      - Other
+      required: false
+    - id: 9
+      name: software_inquiries
+      label: Software inquires
+      hint: null
+      type: select_multiple
+      options:
+      - Project development
+      - Consulting
+      - Maintenance
+      - Support
+      - Other
+      required: false
+    - id: 10
+      name: project_description
+      label: Project description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: software_type
+      label: Software type
+      hint: null
+      type: select_one
+      options:
+      - Web development
+      - Mobile development
+      - Desktop application
+      - Other
+      required: false
+    - id: 12
+      name: follow_up_required
+      label: Follow up required
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: next_steps
+      label: Next steps
+      hint: Describe next steps
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: follow_up_date
+      label: Follow up date
+      hint: MM/DD/YY
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: follow_up_time
+      label: Follow up time
+      hint: "HH:MM 12H"
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: follow_up_time_zone
+      label: Time zone
+      hint: Select a time zone
+      type: select_one
+      options:
+      - Pacific time zone
+      - Mountain time zone
+      - Central time zone
+      - Eastern time zone
+      required: false
+    - id: 17
+      name: follow_up_email
+      label: Follow up email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: follow_up_phone
+      label: Follow up phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: follow_up_location
+      label: Follow up location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: follow_up_note
+      label: Follow up note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: assigned_to
+      label: Assigned to
+      hint: null
+      type: select_one
+      options:
+      - Jim
+      - Jane
+      - John
+      required: false
+    - id: 22
+      name: assigned_tool
+      label: Assigned tool
+      hint: null
+      type: text
+      options: []
+      required: false

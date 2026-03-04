@@ -1,0 +1,127 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vessel Inspection Form
+    pages:
+    - id: 1
+      name: vessel_inspection_form
+      label: Vessel Inspection Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: vessel_inspection_form_description
+      label: Vessel Inspection Form Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: safety_equipment
+      label: Safety Equipment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: vessel_inspection_result
+      label: Vessel Inspection Result
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: inspection_time
+      label: Inspection Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: inspection_start_time
+      label: Inspection Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: inspection_end_time
+      label: Inspection End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: inspector_name
+      label: Inspector Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: inspector_id
+      label: Inspector ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: vessel_mmsi
+      label: Vessel MMSI
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: ship_type
+      label: Ship Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: ship_type_list
+      label: Ship Type List
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: ship_type_2
+      label: Ship Type 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

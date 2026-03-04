@@ -1,0 +1,218 @@
+inputSchema:
+  type: object
+  properties:
+    title: data_backup_infrastructure_inspection_form
+    pages:
+    - id: 1
+      name: general_info
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: data_storage_types
+      label: Data Storage Types
+      hint: null
+      type: select_one
+      options:
+      - tape
+      - disk
+      - cloud
+      - tape_disk
+      - other
+      required: true
+    - id: 3
+      name: backup_frequencies
+      label: Backup Frequencies
+      hint: null
+      type: select_multiple
+      options:
+      - daily
+      - weekly
+      - monthly
+      - quarterly
+      - yearly
+      required: false
+    - id: 4
+      name: testing_methods
+      label: Testing Methods
+      hint: null
+      type: select_multiple
+      options:
+      - manual
+      - automated
+      - hybrid
+      required: false
+    - id: 5
+      name: backup_media
+      label: Backup Media
+      hint: null
+      type: select_one
+      options:
+      - tape
+      - disk
+      - cloud
+      - tape_disk
+      - other
+      required: true
+    - id: 6
+      name: backup_location
+      label: Backup Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: backup_status
+      label: Backup Status
+      hint: null
+      type: select_multiple
+      options:
+      - active
+      - inactive
+      required: false
+    - id: 8
+      name: backup_schedule
+      label: Backup Schedule
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: backup_window
+      label: Backup Window
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: data_inconsistencies
+      label: Data Consistencies
+      hint: null
+      type: select_multiple
+      options:
+      - 'yes'
+      - 'no'
+      required: false
+    - id: 11
+      name: test_frequency
+      label: Test Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - daily
+      - weekly
+      - monthly
+      - quarterly
+      - yearly
+      required: false
+    - id: 12
+      name: test_location
+      label: Test Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: test_status
+      label: Test Status
+      hint: null
+      type: select_multiple
+      options:
+      - active
+      - inactive
+      required: false
+    - id: 14
+      name: data_backup_infrastructure_inspection_form_comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: backup_infrastructure_risk_level
+      label: Backup Infrastructure Risk Level
+      hint: null
+      type: select_one
+      options:
+      - high
+      - medium
+      - low
+      required: false
+    - id: 16
+      name: backup_infrastructure_risk_comment
+      label: Risk Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: data_backup_infrastructure_inspection_form_comments_2
+      label: Comments 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: true
+    - id: 19
+      name: form_comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: data_backup_infrastructure_inspection_form_comments_3
+      label: Comments 3
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: output_file
+      label: Output File
+      hint: null
+      type: select_one
+      options:
+      - file
+      - Other
+      required: true
+    - id: 22
+      name: form_id
+      label: Form ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - inspection_forms
+      - Other
+      required: true
+    - id: 24
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: output_filename
+      label: Output Filename
+      hint: null
+      type: text
+      options: []
+      required: true

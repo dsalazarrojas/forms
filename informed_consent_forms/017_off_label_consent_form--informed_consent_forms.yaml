@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Off Label Consent Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: consent_date
+      label: consent_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: medication_name
+      label: medication_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: patient_signature
+      label: patient_signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: provider_signature
+      label: provider_signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: date_received
+      label: date_received
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: date_provided
+      label: date_provided
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: off_label_consent_checkbox
+      label: off_label_consent_checkbox
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: consent_given
+      label: consent_given
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: patient_id
+      label: patient_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: date_signed
+      label: date_signed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: signed
+      label: signed
+      hint: null
+      type: text
+      options: []
+      required: false

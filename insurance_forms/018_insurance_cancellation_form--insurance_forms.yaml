@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: insurance_cancellation_form
+    pages:
+    - id: 1
+      name: cancel_policies
+      label: cancel_policies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: reason_for_cancellation
+      label: reason_for_cancellation
+      hint: Please provide a reason for cancellation
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: confirm_cancellation
+      label: confirm_cancellation
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True, ''value'': True}'
+      - '{''label'': False, ''value'': False}'
+      required: false
+    - id: 4
+      name: effective_date
+      label: effective_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false

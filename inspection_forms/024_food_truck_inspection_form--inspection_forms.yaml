@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: Food Truck Inspection Form
+    pages:
+    - id: 1
+      name: food_truck_info
+      label: Food Truck Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: food_truck_status
+      label: Food Truck Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Active''}'
+      - '{''value'': ''Inactive''}'
+      - '{''value'': ''Closed''}'
+      required: false
+    - id: 3
+      name: food_truck_location
+      label: Food Truck Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: food_truck_license
+      label: Food Truck License
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Active''}'
+      - '{''value'': ''Inactive''}'
+      - '{''value'': ''Expired''}'
+      required: false
+    - id: 5
+      name: food_truck_equipment
+      label: Food Truck Equipment
+      hint: List all equipment used
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: food_truck_hyggiene
+      label: Food Truck Hygiene
+      hint: Check food preparation and handling areas
+      type: select_one
+      options:
+      - '{''value'': ''Clean''}'
+      - '{''value'': ''Dirty''}'
+      required: false
+    - id: 7
+      name: temperature_control
+      label: Temperature Control
+      hint: Check food temperature
+      type: select_one
+      options:
+      - '{''value'': ''Within range''}'
+      - '{''value'': ''Below range''}'
+      required: false
+    - id: 8
+      name: refrigeration
+      label: Refrigeration
+      hint: Check refrigeration units
+      type: select_one
+      options:
+      - '{''value'': ''Within range''}'
+      - '{''value'': ''Below range''}'
+      required: false
+    - id: 9
+      name: food_truck_inspector
+      label: Food Truck Inspector
+      hint: Enter the name of the inspector
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: inspection_date
+      label: Inspection Date
+      hint: Inspection date
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: food_truck_notes
+      label: Food Truck Notes
+      hint: Additional notes for the inspector
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: Contact Email
+      hint: Email of the food truck operator
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: Contact Phone
+      hint: Phone number of the food truck operator
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: address
+      label: Food Truck Address
+      hint: Address of the food truck
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: food_truck_status_update
+      label: Food Truck Status Update
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,142 @@
+inputSchema:
+  type: object
+  properties:
+    title: Academic Study Video Diary Consent Form
+    pages:
+    - id: 1
+      name: form_header
+      label: -- Academic Study Video Diary Consent Form --
+      hint: Please review this form carefully and provide your consent to participate
+        in the video diary study.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_full_name
+      label: Participant full name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: participant_phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: institution_affiliation
+      label: Institutional affiliation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: study_title
+      label: Title of the research study
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: principal_investigator
+      label: Name of the principal investigator
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: study_purpose
+      label: -- Study Information --
+      hint: This study uses video diary entries to collect qualitative data about
+        participants academic experiences over a defined period.
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: consent_participation
+      label: I voluntarily agree to participate in this video diary study
+      hint: null
+      type: select_one
+      options:
+      - Yes - I consent
+      - No - I do not consent
+      required: true
+    - id: 11
+      name: consent_video_recording
+      label: I consent to recording video diary entries as part of this study
+      hint: null
+      type: select_one
+      options:
+      - Yes - I consent
+      - No - I do not consent
+      required: true
+    - id: 12
+      name: consent_data_use
+      label: I consent to my video data being used for academic research purposes
+      hint: null
+      type: select_one
+      options:
+      - Yes - anonymized use only
+      - Yes - with my identity disclosed
+      - No - I do not consent
+      required: true
+    - id: 13
+      name: consent_storage
+      label: I understand that video recordings will be stored securely and accessed
+        only by authorized research personnel
+      hint: null
+      type: select_one
+      options:
+      - Yes - I understand
+      - Other
+      required: true
+    - id: 14
+      name: consent_withdrawal
+      label: I understand I may withdraw from the study at any time without penalty
+      hint: null
+      type: select_one
+      options:
+      - Yes - I understand
+      - Other
+      required: true
+    - id: 15
+      name: data_retention_period
+      label: I consent to my data being retained for the following period
+      hint: null
+      type: select_one
+      options:
+      - Duration of the study only
+      - Up to 1 year after study completion
+      - Up to 5 years after study completion
+      - Indefinitely for archival purposes
+      required: true
+    - id: 16
+      name: consent_date
+      label: Date of consent
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: additional_questions
+      label: Any questions or concerns about your participation
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,128 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Insurance Account Review Form
+    pages:
+    - id: 1
+      name: section_account_review_header
+      label: -- Account Review Header --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_legal_name_insurance_review
+      label: Client Name
+      hint: Name of the insured business
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: insurance_policy_number_ref
+      label: Primary Policy Number
+      hint: e.g. GL-123456789
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: current_coverage_types_selection
+      label: Current Coverage Types
+      hint: Select all policies currently held with us
+      type: select_multiple
+      options:
+      - General Liability
+      - Professional Liability (E&O)
+      - Property / Casualty
+      - Workers Compensation
+      - Cyber Liability
+      - Commercial Auto
+      required: true
+    - id: 5
+      name: section_business_changes_risk
+      label: -- Business Changes and Risk Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: recent_business_changes_selection
+      label: Recent Business Changes (Last 12 Months)
+      hint: Factors affecting your risk profile
+      type: select_multiple
+      options:
+      - New physical location(s)
+      - Significant increase in revenue
+      - Major staff hiring / expansion
+      - New product or service launch
+      - Acquisition or merger
+      - No significant changes
+      required: true
+    - id: 7
+      name: claim_history_12m_summary
+      label: Claim History in Last 12 Months
+      hint: Briefly describe any filed claims
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: premium_satisfaction_rating_score
+      label: Satisfaction with Current Premiums
+      hint: Rate from 1 (Very Dissatisfied) to 5 (Very Satisfied)
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: section_future_needs_recommendations
+      label: -- Future Needs and Recommendations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: interest_in_additional_coverage_types
+      label: Interest in Additional Coverage
+      hint: Are there areas where you feel underinsured
+      type: select_one
+      options:
+      - Yes, looking to expand coverage
+      - Maybe, need more information
+      - No, current coverage is sufficient
+      required: true
+    - id: 11
+      name: risk_assessment_update_status
+      label: Risk Assessment Update
+      hint: Has a formal risk audit been completed recently
+      type: select_one
+      options:
+      - Completed within last 6 months
+      - Completed 6-12 months ago
+      - Needs to be scheduled
+      required: true
+    - id: 12
+      name: recommended_policy_adjustments_text
+      label: Recommended Policy Adjustments
+      hint: Note any specific changes to limits or deductibles
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: next_scheduled_review_date_insurance
+      label: Next Scheduled Review Date
+      hint: Target date for next comprehensive audit
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: agent_representative_signature_text
+      label: Reviewing Agent Signature
+      hint: Type full name to certify the account review
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: review_completion_date_official
+      label: Review Completion Date
+      hint: null
+      type: date
+      options: []
+      required: true

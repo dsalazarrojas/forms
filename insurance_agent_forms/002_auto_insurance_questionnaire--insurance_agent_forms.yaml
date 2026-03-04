@@ -1,0 +1,183 @@
+inputSchema:
+  type: object
+  properties:
+    title: Auto Insurance Questionnaire
+    pages:
+    - id: 1
+      name: section_header_personal
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: drivers_license_number
+      label: Driver License Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: years_driving_experience
+      label: Years of Driving Experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: section_header_vehicle
+      label: -- Vehicle Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: vehicle_year
+      label: Vehicle Year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: vehicle_make
+      label: Vehicle Make
+      hint: Manufacturer name
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: vehicle_model
+      label: Vehicle Model
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: vehicle_vin
+      label: Vehicle Identification Number (VIN)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: annual_mileage
+      label: Annual Mileage
+      hint: Estimated miles driven per year
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: primary_use
+      label: Primary Use of Vehicle
+      hint: null
+      type: select_one
+      options:
+      - Commute to Work
+      - Business
+      - Pleasure
+      - Commercial
+      required: true
+    - id: 13
+      name: section_header_driving
+      label: -- Driving History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: accidents_last_3_years
+      label: Number of Accidents (last 3 years)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: violations_last_3_years
+      label: Number of Traffic Violations (last 3 years)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: suspension_or_revocation
+      label: License Suspension or Revocation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: section_header_coverage
+      label: -- Coverage Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: liability_limit
+      label: Desired Liability Limit
+      hint: null
+      type: select_one
+      options:
+      - 100000/300000
+      - 250000/500000
+      - 500000/1000000
+      required: true
+    - id: 19
+      name: collision_coverage
+      label: Want Collision Coverage
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: comprehensive_coverage
+      label: Want Comprehensive Coverage
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: deductible_preference
+      label: Preferred Deductible
+      hint: null
+      type: select_one
+      options:
+      - 250
+      - 500
+      - 750
+      - 1000
+      required: true
+    - id: 22
+      name: additional_drivers
+      label: Additional Drivers in Household
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: email_address
+      label: Email Address
+      hint: For quote delivery
+      type: email
+      options: []
+      required: true

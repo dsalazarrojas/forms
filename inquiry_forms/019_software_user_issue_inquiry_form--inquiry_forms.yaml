@@ -1,0 +1,135 @@
+inputSchema:
+  type: object
+  properties:
+    title: software_user_issue_inquiry_form
+    pages:
+    - id: 1
+      name: software_user_issue_inquiry
+      label: Software User Issue Inquiry
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: issue_summary
+      label: Issue Summary
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: issue_description
+      label: Issue Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: issue_category
+      label: Issue Category
+      hint: null
+      type: select_one
+      options:
+      - bug
+      - error
+      - other
+      required: true
+    - id: 5
+      name: issue_priority
+      label: Issue Priority
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 6
+      name: issue_status
+      label: Issue Status
+      hint: null
+      type: select_one
+      options:
+      - New
+      - In Progress
+      - Solved
+      required: true
+    - id: 7
+      name: issue_details
+      label: Issue Details
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 8
+      name: user_issue
+      label: User Issue
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: issue_solution
+      label: Issue Solution
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: user_solution
+      label: User Solution
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: software_version
+      label: Software Version
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: user_info
+      label: User Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: issue_reported_by
+      label: Issue Reported By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: issue_reported_at
+      label: Issue Reported At
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: issue_closed_at
+      label: Issue Closed At
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: true

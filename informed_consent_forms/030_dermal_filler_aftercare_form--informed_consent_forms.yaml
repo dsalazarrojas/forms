@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dermal Filler Aftercare Form
+    pages:
+    - id: 1
+      name: client_id
+      label: client_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: filler_type
+      label: filler_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: area_treated
+      label: area_treated
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: num_fillers
+      label: num_fillers
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: side_effects
+      label: side_effects
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: bruising_swelling
+      label: bruising_swelling
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: redness_discoloration
+      label: redness_discoloration
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: lumps_bumps
+      label: lumps_bumps
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: sensitivity
+      label: sensitivity
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: other_side_effects
+      label: other_side_effects
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false

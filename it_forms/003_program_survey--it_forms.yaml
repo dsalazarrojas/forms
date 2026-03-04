@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Program Survey
+    pages:
+    - id: 1
+      name: program_survey
+      label: Program Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Chatjimmy'', ''value'': ''chatjimmy''}'
+      - Other
+      required: false
+    - id: 5
+      name: output_file
+      label: Output File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: program_services_offered
+      label: Program and Services Offered
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: data_collection_method
+      label: Data Collection Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: program_satisfaction
+      label: Program Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 9
+      name: program_services_satisfaction
+      label: Program and Services Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false

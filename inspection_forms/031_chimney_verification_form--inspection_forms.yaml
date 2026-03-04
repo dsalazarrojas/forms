@@ -1,0 +1,78 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Chimney Verification Form
+    pages:
+      - id: 1
+        name: verifier_name
+        label: Verifier Name
+        hint: Name of inspector verifying chimney
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: verification_date
+        label: Verification Date
+        hint: Date verification occurred
+        type: date
+        options: []
+        required: true
+      - id: 3
+        name: site_address
+        label: Site Address
+        hint: Address of property
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: verification_purpose
+        label: Purpose of Verification
+        hint: e.g., Sale inspection, safety check
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: flue_condition
+        label: Flue Condition
+        hint: Observations about flue condition
+        type: select_one
+        options:
+          - Good
+          - Marginal
+          - Poor
+        required: true
+      - id: 6
+        name: cap_and_chase
+        label: Chimney Cap and Chase Condition
+        hint: Note presence and condition
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: verification_result
+        label: Verification Result
+        hint: Final verification outcome
+        type: select_one
+        options:
+          - Verified safe
+          - Repairs required
+          - Not safe
+        required: true
+      - id: 8
+        name: notes
+        label: Notes
+        hint: Any additional verification comments
+        type: text
+        options: []
+        required: false

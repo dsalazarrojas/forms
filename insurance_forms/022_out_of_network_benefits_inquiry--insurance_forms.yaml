@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Out Of Network Benefits Inquiry
+    pages:
+    - id: 1
+      name: out_of_network_benefits_inquiry_form
+      label: out_of_network_benefits_inquiry_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: name_of_patient
+      label: patient_name_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_service
+      label: date_of_service
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: provider_name
+      label: provider_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: out_of_network_benefit
+      label: out_of_network_benefit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: out_of_network_benefit_other
+      label: out_of_network_benefit_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: out_of_network_benefit_description
+      label: out_of_network_benefit_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: follow_up_required
+      label: follow_up_required
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: follow_up_method
+      label: follow_up_method
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: follow_up_date
+      label: follow_up_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: follow_up_time
+      label: follow_up_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: follow_up_location
+      label: follow_up_location
+      hint: null
+      type: text
+      options: []
+      required: false

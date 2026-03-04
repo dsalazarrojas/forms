@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Recycling Plant Safety Inspection Form
+    pages:
+    - id: 1
+      name: inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: facility_id
+      label: Facility
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: equipment_type
+      label: Equipment Type
+      hint: null
+      type: select_one
+      options:
+      - Crusher
+      - Shredder
+      - Compactor
+      - Baler
+      required: false
+    - id: 6
+      name: inspection_location
+      label: Inspection Location
+      hint: null
+      type: select_multiple
+      options:
+      - Main Plant
+      - Waste Processing Area
+      - Receiving Area
+      - Other (please specify)
+      required: false
+    - id: 7
+      name: safety_issue
+      label: Safety Issue Found
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: facility_name
+      label: Facility Name
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hotel Fire Escape Inspection Form
+    pages:
+    - id: 1
+      name: facility_name
+      label: Facility Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: inspector_name
+      label: Inspector Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: fire_escape_doors
+      label: Fire Escape Doors
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: fire_escape_stairways
+      label: Fire Escape Stairways
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: fire_escape_hallways
+      label: Fire Escape Hallways
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: issues
+      label: Issues
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: inspector_signature
+      label: Inspector Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: facility_manager_signature
+      label: Facility Manager Signature
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: inspector_submission
+      label: Inspector Submission
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: form_id
+      label: Form ID
+      hint: null
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: Investment Strategy Assessment
+    pages:
+    - id: 1
+      name: client_risk_tolerance
+      label: Risk Tolerance Level
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: true
+    - id: 2
+      name: investment_goals
+      label: Investment Goals
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: investment_preferences
+      label: Investment Preferences
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: risk_free
+      label: Risk Free
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: risk_low
+      label: Risk Low
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: risk_medium
+      label: Risk Medium
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: risk_high
+      label: Risk High
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: risk_none
+      label: Risk None
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: investment_time
+      label: Investment Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: investment_amount
+      label: Investment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: investment_frequency
+      label: Investment Frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: investment_type
+      label: Investment Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: investment_return
+      label: Investment Return
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: investment_currency
+      label: Investment Currency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: risk_level
+      label: Risk Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: true
+    - id: 16
+      name: investment_horizon
+      label: Investment Horizon
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: risk_tolerance
+      label: Risk Tolerance
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: investment_objective
+      label: Investment Objective
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: investment_asset
+      label: Investment Asset
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: investment_asset_type
+      label: Investment Asset Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: investment_inflation_protection
+      label: Investment Inflation Protection
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: investment_tax_effective
+      label: Investment Tax Effect
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: investment_return_target
+      label: Investment Return Target
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: investment_return_period
+      label: Investment Return Period
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 25
+      name: investment_frequency
+      label: Investment Frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Senior Executive Panel Interview Feedback Form
+    pages:
+    - id: 1
+      name: candidate_details
+      label: candidate_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: reviewer_1
+      label: Reviewer 1
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: reviewer_2
+      label: Reviewer 2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: reviewer_3
+      label: Reviewer 3
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: date_of_interview
+      label: Date of Interview
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_of_interview
+      label: Time of Interview
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: interview_questions
+      label: Interview Questions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: evaluation
+      label: Evaluation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: score
+      label: Score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: final_decision
+      label: Final Decision
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

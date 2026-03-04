@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property Insurance Renewal Registration Form
+    pages:
+    - id: 1
+      name: property_insurance_renewal_registration_form_property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: property_insurance_renewal_registration_form_property_location
+      label: Property Location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: property_insurance_renewal_registration_form_property_value
+      label: Property Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: property_insurance_renewal_registration_form_property_year
+      label: Property Year
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: property_insurance_renewal_registration_form_policy_start_date
+      label: Policy Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: property_insurance_renewal_registration_form_insured_party
+      label: Insured Party
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: property_insurance_renewal_registration_form_agent
+      label: Agent
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: property_insurance_renewal_registration_form_note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: property_insurance_renewal_registration_form_policy_end_date
+      label: Policy End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: property_insurance_renewal_registration_form_insurance_provider
+      label: Insurance Provider
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

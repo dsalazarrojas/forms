@@ -1,0 +1,276 @@
+inputSchema:
+  type: object
+  properties:
+    title: Building Accessibility Certification Registration
+    pages:
+    - id: 1
+      name: registration_header
+      label: -- Building Accessibility Certification Registration --
+      hint: Register your building for accessibility certification
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: property_owner
+      label: Property owner or manager name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: owner_contact_email
+      label: Contact email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: owner_contact_phone
+      label: Contact phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: building_info
+      label: -- Building Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: building_name
+      label: Building name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: building_address
+      label: Building address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: building_type
+      label: Building type
+      hint: null
+      type: select_one
+      options:
+      - Office building
+      - Residential
+      - Educational
+      - Healthcare facility
+      - Government
+      - Commercial retail
+      - Industrial
+      - Mixed-use
+      - Other
+      required: true
+    - id: 9
+      name: construction_year
+      label: Year of construction
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: renovation_year
+      label: Year of last major renovation (if applicable)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: total_floors
+      label: Total number of floors
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: square_footage
+      label: Total square footage
+      hint: Approximate is acceptable
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: occupancy
+      label: Current occupancy
+      hint: Number of daily occupants
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: exterior_access
+      label: -- Exterior Access and Entrances --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: main_entrance_accessible
+      label: Main entrance is wheelchair accessible
+      hint: null
+      type: select_one
+      options:
+      - Yes, fully compliant
+      - Yes, with accommodations
+      - false
+      - Partial
+      required: true
+    - id: 16
+      name: accessible_parking
+      label: Accessible parking spaces available
+      hint: null
+      type: select_one
+      options:
+      - Yes, adequate spaces
+      - Yes, limited spaces
+      - false
+      required: true
+    - id: 17
+      name: ramp_availability
+      label: Wheelchair ramps present
+      hint: null
+      type: select_one
+      options:
+      - All entrances have ramps
+      - Main entrance has ramp
+      - No ramps
+      required: true
+    - id: 18
+      name: interior_features
+      label: -- Interior Accessibility Features --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: elevator_availability
+      label: Elevators or vertical access available
+      hint: null
+      type: select_one
+      options:
+      - Yes, fully functional
+      - Yes, limited access
+      - No elevators
+      required: true
+    - id: 20
+      name: accessible_restrooms
+      label: Accessible restrooms available
+      hint: null
+      type: select_one
+      options:
+      - Yes, all floors
+      - Yes, some floors
+      - false
+      required: true
+    - id: 21
+      name: accessible_parking_interior
+      label: Accessible routes throughout building
+      hint: null
+      type: select_one
+      options:
+      - Yes, comprehensive
+      - Yes, partial
+      - false
+      required: true
+    - id: 22
+      name: braille_signage
+      label: Braille and tactile signage present
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 23
+      name: visual_aids
+      label: Visual aids and announcements
+      hint: null
+      type: select_one
+      options:
+      - Yes, comprehensive
+      - Yes, limited
+      - false
+      required: true
+    - id: 24
+      name: emergency_procedures
+      label: -- Emergency and Safety Features --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: emergency_egress
+      label: Accessible emergency egress routes
+      hint: null
+      type: select_one
+      options:
+      - Yes, fully accessible
+      - Yes, partial accessibility
+      - false
+      required: true
+    - id: 26
+      name: emergency_alarms
+      label: Audible and visual emergency alarms
+      hint: null
+      type: select_one
+      options:
+      - Yes, both present
+      - Yes, one type
+      - false
+      required: true
+    - id: 27
+      name: accessibility_coordinator
+      label: Designated accessibility coordinator
+      hint: null
+      type: select_one
+      options:
+      - Yes, named staff member
+      - Yes, shared responsibility
+      - false
+      required: false
+    - id: 28
+      name: recent_modifications
+      label: Recent accessibility improvements
+      hint: Describe any recent updates
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: compliance_section
+      label: -- Compliance and Certification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 30
+      name: current_certification
+      label: Currently certified as accessible
+      hint: null
+      type: select_one
+      options:
+      - Yes, current certification
+      - Yes, expired certification
+      - No prior certification
+      required: true
+    - id: 31
+      name: certification_date
+      label: Date of last certification
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 32
+      name: assessment_authorization
+      label: Authorize building assessment
+      hint: null
+      type: select_one
+      options:
+      - Yes, authorized
+      - false
+      required: true

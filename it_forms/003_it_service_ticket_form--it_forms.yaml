@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: it_service_ticket_form
+    pages:
+    - id: 1
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''IT Forms''}'
+      - '{''value'': ''Other''}'
+      required: true
+    - id: 3
+      name: priority
+      label: priority
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''chatjimmy''}'
+      - '{''value'': ''other_option''}'
+      required: true
+    - id: 5
+      name: due_date
+      label: due_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: created_at
+      label: created_at
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: description_details
+      label: description_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: status
+      label: status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Open''}'
+      - '{''value'': ''Closed''}'
+      required: true
+    - id: 9
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: resolution
+      label: resolution
+      hint: null
+      type: text
+      options: []
+      required: false

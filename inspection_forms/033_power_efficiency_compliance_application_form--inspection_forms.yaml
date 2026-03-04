@@ -1,0 +1,132 @@
+inputSchema:
+  type: object
+  properties:
+    title: power_efficiency_compliance_application_form
+    pages:
+    - id: 1
+      name: facility_details
+      label: Facility Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: energy_efficiency_details
+      label: Energy Efficiency Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: supporting_documents
+      label: Supporting Documents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: compliance_programs
+      label: Compliance Programs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: application_status
+      label: Application Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: review_programs
+      label: Review Programs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: facility_manager_info
+      label: Facility Manager Info
+      hint: Facility Manager Information is required
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: facility_type
+      label: Facility Type
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 10
+      name: building_sqft
+      label: Building SqFt
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: total_electricity_consumption
+      label: Total Electricity Consumption
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: energy_efficiency_score
+      label: Energy Efficiency Score
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: uploaded_documents
+      label: Uploaded Documents
+      hint: null
+      type: select_one
+      options:
+      - Document 1
+      - Document 2
+      - Document 3
+      required: false
+    - id: 14
+      name: upload_more_documents
+      label: Upload More Documents
+      hint: null
+      type: select_multiple
+      options:
+      - Document 4
+      - Document 5
+      required: false
+    - id: 15
+      name: date_of_compliance
+      label: Date of Compliance
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: facility_address
+      label: Facility Address
+      hint: Facility Address is required
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: facility_contact
+      label: Facility Contact
+      hint: Facility Contact Information is required
+      type: text
+      options: []
+      required: true

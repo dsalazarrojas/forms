@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: Generation Z Parent Interview Questionnaire
+    pages:
+    - id: 1
+      name: gen_z_parent_survey
+      label: What do you think is the role of technology in your child's life?
+      hint: Please be as detailed as possible in your response
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: digital_habits
+      label: What digital habits do you think are most challenging for your child?
+      hint: null
+      type: select_multiple
+      options:
+      - Screen time
+      - Social media
+      - Online gaming
+      - Online safety
+      required: false
+    - id: 3
+      name: parent_child_relationship
+      label: How would you describe your relationship with your child?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: tech_spend
+      label: How many hours do you typically spend on technology with your child?
+      hint: Please provide a number
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: digital_role_modeling
+      label: How often do you talk to your child about the responsible use of technology?
+      hint: null
+      type: text
+      options: []
+      required: false

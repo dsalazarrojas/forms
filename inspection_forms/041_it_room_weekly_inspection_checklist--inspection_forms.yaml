@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: IT Room Weekly Inspection Checklist
+    pages:
+    - id: 1
+      name: inspector_name
+      label: inspector_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: inspector_date
+      label: inspector_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: condition_1
+      label: Condition 1
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Good'', ''value'': 1}'
+      - '{''label'': ''Fair'', ''value'': 2}'
+      - '{''label'': ''Poor'', ''value'': 3}'
+      required: false
+    - id: 4
+      name: condition_2
+      label: Condition 2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Good'', ''value'': 1}'
+      - '{''label'': ''Fair'', ''value'': 2}'
+      - '{''label'': ''Poor'', ''value'': 3}'
+      required: false
+    - id: 5
+      name: condition_3
+      label: Condition 3
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Good'', ''value'': 1}'
+      - '{''label'': ''Fair'', ''value'': 2}'
+      - '{''label'': ''Poor'', ''value'': 3}'
+      required: false
+    - id: 6
+      name: cleanliness_1
+      label: Cleanliness 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: cleanliness_2
+      label: Cleanliness 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: temperature
+      label: Temperature
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: security_1
+      label: Security 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: security_2
+      label: Security 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

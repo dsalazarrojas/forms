@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Drug Delivery Research Intake Form
+    pages:
+    - id: 1
+      name: research_type
+      label: Research Type
+      hint: null
+      type: select_one
+      options:
+      - Clinical
+      - Non-Clinical
+      required: false
+    - id: 2
+      name: study_status
+      label: Study Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Pending
+      required: false
+    - id: 3
+      name: study_name
+      label: Study Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: sponsor_name
+      label: Sponsor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: lead_sponsor
+      label: Lead Sponsor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_email
+      label: Contact E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: location
+      label: Location (City, State)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_address
+      label: Contact Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: project_deadline
+      label: Project Deadline (yyyy-mm-dd)
+      hint: null
+      type: date
+      options: []
+      required: false

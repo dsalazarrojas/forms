@@ -1,0 +1,146 @@
+inputSchema:
+  type: object
+  properties:
+    title: Flexible Office Package Inquiry
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: space_type
+      label: Space Type
+      hint: null
+      type: select_one
+      options:
+      - office
+      - serviced_office
+      - coworking_space
+      required: false
+    - id: 8
+      name: space_size
+      label: Space Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: space_location
+      label: Space Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: space_floor_plan
+      label: Space Floor Plan
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: space_ammenities
+      label: Space Amenities
+      hint: null
+      type: select_multiple
+      options:
+      - coffee_machine
+      - free_wifi
+      - free_parking
+      - air_conditioning
+      - free_meals
+      required: false
+    - id: 12
+      name: space_layout
+      label: Space Layout
+      hint: null
+      type: select_one
+      options:
+      - open_space
+      - closed_space
+      required: false
+    - id: 13
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_multiple
+      options:
+      - phone
+      - email
+      - text
+      required: false
+    - id: 14
+      name: message_details
+      label: Message Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: follow_up_date
+      label: Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: follow_up_time
+      label: Follow-up Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: follow_up_contact
+      label: Follow-up Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: assigned_agent
+      label: Assigned Agent
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false

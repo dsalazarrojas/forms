@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tax Dispute Resolution Services Intake Form
+    pages:
+    - id: 1
+      name: tax_dispute_details
+      label: Tax Dispute Details
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: taxpayer_info
+      label: Taxpayer Information
+      hint: 'null'
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: dispute_type
+      label: Dispute Type
+      hint: 'null'
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: dispute_date
+      label: Dispute Date
+      hint: 'null'
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: resolution_method
+      label: Resolution Method
+      hint: 'null'
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: resolution_status
+      label: Resolution Status
+      hint: 'null'
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 7
+      name: tax_authorization
+      label: Tax Authorization
+      hint: 'null'
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: tax_docs
+      label: Tax Documents
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: client_follow_up
+      label: Client Follow-up
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: authorized_representative
+      label: Authorized Representative
+      hint: 'null'
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: authorized_rep_email
+      label: Authorized Representative Email
+      hint: 'null'
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: authorized_rep_phone
+      label: Authorized Representative Phone
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: authorized_rep_ext
+      label: Authorized Representative Extension
+      hint: 'null'
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

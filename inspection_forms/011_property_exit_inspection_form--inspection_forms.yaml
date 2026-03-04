@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: property_exit_inspection_form
+    pages:
+    - id: 1
+      name: property_exit_inspection_form
+      label: Property Exit Inspection Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: property_id
+      label: property_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: inspector_name
+      label: inspector_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: inspection_date
+      label: inspection_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - Category 1
+      - Category 2
+      - Category 3
+      required: false
+    - id: 7
+      name: subcategory
+      label: subcategory
+      hint: null
+      type: select_multiple
+      options:
+      - Subcategory 1
+      - Subcategory 2
+      - Subcategory 3
+      required: false
+    - id: 8
+      name: property_status
+      label: property_status
+      hint: null
+      type: select_one
+      options:
+      - Status 1
+      - Status 2
+      - Status 3
+      required: false
+    - id: 9
+      name: notes2
+      label: notes2
+      hint: null
+      type: text
+      options: []
+      required: false

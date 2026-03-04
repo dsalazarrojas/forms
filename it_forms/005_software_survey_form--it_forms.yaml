@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: software_survey_form
+    pages:
+    - id: 1
+      name: form_title
+      label: Software Survey Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: it_forms
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''software_survey'', ''label'': ''software_survey''}'
+      - '{''id'': 2, ''name'': ''software_survey2'', ''label'': ''software_survey2''}'
+      required: false
+    - id: 3
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''chatjimmy'', ''label'': ''chatjimmy''}'
+      - '{''id'': 2, ''name'': ''other'', ''label'': ''other''}'
+      required: false
+    - id: 5
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: created_by
+      label: created_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: created_at
+      label: created_at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: updated_at
+      label: updated_at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: form_status
+      label: form_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''active'', ''label'': ''active''}'
+      - '{''id'': 2, ''name'': ''draft'', ''label'': ''draft''}'
+      - '{''id'': 3, ''name'': ''archived'', ''label'': ''archived''}'
+      required: false
+    - id: 10
+      name: form_comments
+      label: form_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: form_comments_count
+      label: form_comments_count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: output_file
+      label: Output File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: output_file_path
+      label: Output File Path
+      hint: null
+      type: text
+      options: []
+      required: false

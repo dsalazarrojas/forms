@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: Policyholder Satisfaction Assessment Form
+    pages:
+    - id: 1
+      name: policyholder_name
+      label: Policyholder Name
+      hint: Enter policyholder name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: Enter email address
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: Enter phone number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: service_quality
+      label: Service Quality
+      hint: Rate service quality
+      type: select_one
+      options:
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 5
+      name: satisfaction_level
+      label: Satisfaction Level
+      hint: Rate satisfaction level
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      required: true
+    - id: 6
+      name: comments
+      label: Comments
+      hint: Enter comments
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: service_trends
+      label: Service Trends
+      hint: Track service trends
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: policyholder_id
+      label: Policyholder ID
+      hint: Enter policyholder ID
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: provider_name
+      label: Provider Name
+      hint: Enter provider name
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: policyholder_satisfaction
+      label: Policyholder Satisfaction
+      hint: Track policyholder satisfaction
+      type: select_multiple
+      options:
+      - Very High
+      - High
+      - Medium
+      - Low
+      - Very Low
+      required: true
+    - id: 11
+      name: provider_satisfaction
+      label: Provider Satisfaction
+      hint: Track provider satisfaction
+      type: select_multiple
+      options:
+      - Very High
+      - High
+      - Medium
+      - Low
+      - Very Low
+      required: true
+    - id: 12
+      name: service_experience
+      label: Service Experience
+      hint: Track service experience
+      type: select_multiple
+      options:
+      - Very Positive
+      - Positive
+      - Neutral
+      - Negative
+      - Very Negative
+      required: false
+    - id: 13
+      name: additional_comments
+      label: Additional Comments
+      hint: Enter additional comments
+      type: text
+      options: []
+      required: false

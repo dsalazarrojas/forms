@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fuel Storage Tank Inspection Form
+    pages:
+    - id: 1
+      name: first_page
+      label: First Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: tank_info
+      label: Tank Info
+      hint: null
+      type: select_one
+      options:
+      - Tank 1
+      - Tank 2
+      - Tank 3
+      required: false
+    - id: 3
+      name: tank_condition
+      label: Tank Condition
+      hint: null
+      type: select_multiple
+      options:
+      - Clean
+      - Stained
+      - Rusted
+      required: false
+    - id: 4
+      name: inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: inspection_time
+      label: Inspection Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: tank_level
+      label: Tank Level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: tank_info_1
+      label: Tank Info 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: tank_info_2
+      label: Tank Info 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: tank_info_3
+      label: Tank Info 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: assigned_inspector
+      label: Assigned Inspector
+      hint: null
+      type: select_one
+      options:
+      - Inspector 1
+      - Inspector 2
+      - Inspector 3
+      required: false
+    - id: 12
+      name: completed_by
+      label: Completed By
+      hint: null
+      type: select_one
+      options:
+      - Completed 1
+      - Completed 2
+      - Completed 3
+      required: false

@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hire Inquiry Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: delivery_address
+      label: delivery_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: services_needed
+      label: services_needed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: services
+      label: services
+      hint: null
+      type: select_multiple
+      options:
+      - Delivery
+      - Pickup
+      - Drop off
+      - Special Instructions
+      required: false
+    - id: 7
+      name: pickup
+      label: pickup
+      hint: null
+      type: select_one
+      options:
+      - Delivery
+      - Pickup
+      - Drop off
+      - In Person
+      required: false
+    - id: 8
+      name: special_instructions
+      label: special_instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: quote_request
+      label: quote_request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: customer_message
+      label: customer_message
+      hint: null
+      type: text
+      options: []
+      required: false

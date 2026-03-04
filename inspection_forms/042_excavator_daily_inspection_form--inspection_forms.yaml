@@ -1,0 +1,59 @@
+inputSchema:
+  type: object
+  properties:
+    title: excavator_daily_inspection_form
+    pages:
+    - id: 1
+      name: operator_name
+      label: Operator Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: excavator_number
+      label: excavator_number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: safety_equipment
+      label: Safety Equipment
+      hint: null
+      type: select_one
+      options:
+      - Safety Glasses
+      - Hard Hat
+      - Safety Vest
+      required: true
+    - id: 6
+      name: inspection_status
+      label: Inspection Status
+      hint: null
+      type: select_one
+      options:
+      - Passed
+      - Failed
+      required: true
+    - id: 7
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false

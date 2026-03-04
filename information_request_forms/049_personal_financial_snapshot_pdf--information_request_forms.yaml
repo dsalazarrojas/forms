@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: personal_financial_snapshot_pdf
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: social_security_number
+      label: Social Security Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: state
+      label: State
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''CA''}'
+      - '{''value'': ''TX''}'
+      - '{''value'': ''NY''}'
+      - '{''value'': ''IL''}'
+      required: false
+    - id: 8
+      name: zip
+      label: ZIP
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: employer
+      label: Employer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: employment_status
+      label: Employment Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Full-time''}'
+      - '{''value'': ''Part-time''}'
+      - '{''value'': ''Self-employed''}'
+      - '{''value'': ''Retired''}'
+      required: false
+    - id: 13
+      name: income
+      label: Income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: assets
+      label: Assets
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: liabilities
+      label: Liabilities
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: financial_goals
+      label: Financial Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: financial_status
+      label: Financial Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Good''}'
+      - '{''value'': ''Fair''}'
+      - '{''value'': ''Poor''}'
+      required: false
+    - id: 18
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: additional_financial_info
+      label: Additional Financial Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 23
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: contact_relationship
+      label: Contact Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: financial_influencer
+      label: Financial Influencer
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Bank''}'
+      - '{''value'': ''Insurance''}'
+      - '{''value'': ''Financial Advisor''}'
+      required: false
+    - id: 26
+      name: notes2
+      label: Notes 2
+      hint: null
+      type: note
+      options: []
+      required: false

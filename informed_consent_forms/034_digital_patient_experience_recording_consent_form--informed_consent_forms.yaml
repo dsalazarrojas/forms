@@ -1,0 +1,216 @@
+inputSchema:
+  type: object
+  properties:
+    title: Digital Patient Experience Recording Consent Form
+    pages:
+    - id: 1
+      name: general_information
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: select_multiple
+      options:
+      - Diabetes
+      - Asthma
+      - Hypertension
+      - High Blood Pressure
+      - Heart Disease
+      - Cancer
+      - Kidney Disease
+      - Stroke
+      - Depression
+      - Chronic Pain
+      - Anxiety
+      - Bipolar Disorder
+      required: true
+    - id: 4
+      name: medication_list
+      label: Medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: recording_instrument
+      label: Recording Instrument
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Video
+      - Digital Recorder
+      - Camera
+      required: true
+    - id: 6
+      name: recording_method
+      label: Recording Method
+      hint: null
+      type: select_one
+      options:
+      - In-person
+      - Phone Call
+      - Video Call
+      - Email
+      - Online Form
+      required: true
+    - id: 7
+      name: consent
+      label: Consent
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 9
+      name: date_signed
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: time_signed
+      label: Time Signed
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: signature_note
+      label: Signature Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: signature_file
+      label: Signature File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: recording_notes
+      label: Recording Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: medical_professional
+      label: Medical Professional
+      hint: null
+      type: select_multiple
+      options:
+      - Doctor
+      - Nurse
+      - Physical Therapist
+      - Pharmacist
+      - Dentist
+      - Other
+      required: true
+    - id: 15
+      name: healthcare_provider
+      label: Healthcare Provider
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: location
+      label: Location
+      hint: null
+      type: select_one
+      options:
+      - Hospital
+      - Clinic
+      - Home
+      - Other
+      required: true
+    - id: 17
+      name: patient_relationship
+      label: Relationship with Patient
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: recording_purpose
+      label: Recording Purpose
+      hint: null
+      type: select_one
+      options:
+      - Research
+      - Treatment
+      - Documentation
+      - Payment
+      - Other
+      required: true
+    - id: 19
+      name: recording_start_time
+      label: Recording Start
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 20
+      name: recording_stop_time
+      label: Recording Stop
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 21
+      name: recording_duration
+      label: Recording Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: recording_notes
+      label: Recording Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: additional_notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: recording_location
+      label: Recording Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: true

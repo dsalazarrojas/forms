@@ -1,0 +1,210 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Anonymous Bullying Reporting Form
+    pages:
+      - id: 1
+        name: report_date
+        label: Date of Bullying Incident
+        hint: When the incident occurred
+        type: date
+        options: []
+        required: true
+      - id: 2
+        name: report_time
+        label: Approximate Time
+        hint: What time did it happen
+        type: time
+        options: []
+        required: false
+      - id: 3
+        name: location
+        label: Location of Incident
+        hint: Where did the bullying occur
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: target_type
+        label: Type of Environment
+        hint: null
+        type: select_one
+        options:
+          - "School - classroom"
+          - "School - hallway"
+          - "School - lunch area"
+          - "School - playground"
+          - "School - online"
+          - "Workplace"
+          - "Community setting"
+          - "Other"
+        required: true
+      - id: 5
+        name: bullying_type
+        label: Type of Bullying
+        hint: null
+        type: select_multiple
+        options:
+          - "Physical bullying"
+          - "Verbal harassment"
+          - "Social exclusion"
+          - "Cyberbullying"
+          - "Intimidation"
+          - "Extortion"
+          - "Other"
+        required: true
+      - id: 6
+        name: victim_description
+        label: Description of Target - Student or Person
+        hint: Grade level or role if safe to describe
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: bully_description
+        label: Description of Person Bullying
+        hint: Grade level, characteristics, or role
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: incident_description
+        label: Detailed Description of Incident
+        hint: What happened - be specific
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: consequences
+        label: Consequences Observed
+        hint: How did the bullying affect the target
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: witnesses
+        label: Were there witnesses
+        hint: null
+        type: select_one
+        options:
+          - "Yes - multiple witnesses"
+          - "Yes - one witness"
+          - "No witnesses"
+          - "Unsure"
+        required: true
+      - id: 11
+        name: witness_description
+        label: Witness Information
+        hint: How many people saw this
+        type: text
+        options: []
+        required: false
+      - id: 12
+        name: previous_incidents
+        label: Is this a repeated pattern
+        hint: Has the target been bullied before
+        type: select_one
+        options:
+          - "Yes - ongoing pattern"
+          - "Yes - happened before"
+          - "No - first occurrence"
+          - "Unsure"
+        required: true
+      - id: 13
+        name: prior_reports
+        label: Has this been reported before
+        hint: To school, workplace, or authorities
+        type: select_one
+        options:
+          - "Yes - to school or authority"
+          - "Yes - but not to officials"
+          - "No - first report"
+          - "Unsure"
+        required: false
+      - id: 14
+        name: prior_action_taken
+        label: What action was taken previously
+        hint: If this has been reported before
+        type: text
+        options: []
+        required: false
+      - id: 15
+        name: reporter_relationship
+        label: Your relationship to situation
+        hint: null
+        type: select_one
+        options:
+          - "Witness to the bullying"
+          - "Friend of the target"
+          - "School staff or employee"
+          - "Parent or guardian"
+          - "Target myself"
+          - "Other"
+        required: false
+      - id: 16
+        name: target_safety_concern
+        label: Is the target currently safe
+        hint: Any immediate danger
+        type: select_one
+        options:
+          - "Yes - target is safe"
+          - "Possibly concerned"
+          - "No - target is in danger"
+          - "Unsure"
+        required: true
+      - id: 17
+        name: immediate_support_needed
+        label: Does the target need immediate support
+        hint: Counseling, medical attention, etc.
+        type: select_one
+        options:
+          - "Yes - emergency help needed"
+          - "Yes - urgent support needed"
+          - "Yes - support would help"
+          - "No - not currently needed"
+        required: true
+      - id: 18
+        name: contact_permission
+        label: May officials contact you for more information
+        hint: Only if necessary to stop bullying
+        type: select_one
+        options:
+          - "Yes - with contact information"
+          - "Yes - but keep anonymous"
+          - "No - stay completely anonymous"
+        required: true
+      - id: 19
+        name: contact_email
+        label: Email for Follow-up
+        hint: If you provided permission to contact
+        type: email
+        options: []
+        required: false
+      - id: 20
+        name: additional_information
+        label: Additional Information or Evidence
+        hint: Any other details that help
+        type: text
+        options: []
+        required: false
+      - id: 21
+        name: report_consent
+        label: I understand this report will be investigated
+        hint: null
+        type: select_one
+        options:
+          - "I agree"
+          - "I have questions"
+          - "I want to cancel this report"
+        required: true

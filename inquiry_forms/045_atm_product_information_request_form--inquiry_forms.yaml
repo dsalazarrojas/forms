@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: ATM Product Information Request Form
+    pages:
+    - id: 1
+      name: business_information_section
+      label: Business Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: Enter the legal name of your business
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_person
+      label: Contact Person
+      hint: Full name of the person who will handle ATM services
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: job_title
+      label: Job Title
+      hint: Position of the contact person
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: business_address
+      label: Business Address
+      hint: Complete physical address of your business
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: business_type
+      label: Type of Business
+      hint: Select the category that best describes your business
+      type: select_one
+      options:
+      - Retail Store
+      - Restaurant
+      - Hotel
+      - Gas Station
+      - Bank
+      - Credit Union
+      - Other
+      required: true
+    - id: 7
+      name: estimated_monthly_transactions
+      label: Estimated Monthly Transaction Volume
+      hint: Approximate number of transactions per month
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: atm_location_details
+      label: ATM Location Details
+      hint: Describe where the ATM will be located within your premises
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: contact_email
+      label: Contact Email
+      hint: Business email for correspondence
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: contact_phone
+      label: Contact Phone Number
+      hint: Business phone number for follow-up calls
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: preferred_atm_features
+      label: Preferred ATM Features
+      hint: Select all features you're interested in
+      type: select_multiple
+      options:
+      - Bill Payment
+      - Check Deposit
+      - Cash Withdrawal
+      - Balance Inquiry
+      - Multi-Language Support
+      - Accessibility Features
+      - Receipt Printing
+      required: false
+    - id: 12
+      name: installation_timeline
+      label: Desired Installation Timeline
+      hint: When would you like the ATM installed and operational?
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: budget_range
+      label: Budget Range for Services
+      hint: Estimated monthly budget for ATM services
+      type: select_one
+      options:
+      - Under $500
+      - $500-$1,000
+      - $1,000-$2,000
+      - $2,000-$5,000
+      - Over $5,000
+      required: false
+    - id: 14
+      name: additional_comments
+      label: Additional Comments or Special Requirements
+      hint: Any other information about your ATM needs
+      type: text
+      options: []
+      required: false

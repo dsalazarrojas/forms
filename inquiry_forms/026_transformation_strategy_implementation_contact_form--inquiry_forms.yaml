@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Transformation Strategy Implementation Contact Form
+    pages:
+    - id: 1
+      name: consultant_name
+      label: Consultant
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: your@email.com
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: project_name
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: transformation_strategy
+      label: Transformation Strategy
+      hint: null
+      type: select_one
+      options:
+      - Inquiry
+      - Implementation
+      required: false
+    - id: 6
+      name: team_member_name
+      label: Team Member Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_date
+      label: Contact Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: follow_up_date
+      label: Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: lead_status
+      label: Lead Status
+      hint: null
+      type: select_one
+      options:
+      - Qualified
+      - Unqualified
+      required: false
+    - id: 10
+      name: follow_up_method
+      label: Follow-up Method
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - Meeting
+      required: false
+    - id: 11
+      name: next_follow_up_date
+      label: Next Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: follow_up_description
+      label: Follow-up Description
+      hint: null
+      type: text
+      options: []
+      required: false

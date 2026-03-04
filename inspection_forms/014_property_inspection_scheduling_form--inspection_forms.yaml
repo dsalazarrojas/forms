@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property Inspection Scheduling Form
+    pages:
+    - id: 1
+      name: property_inspection_date_input
+      label: Property Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: inspection_team_member
+      label: Inspection Team Member
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: inspection_start_time
+      label: Inspection Start Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: inspection_duration
+      label: Inspection Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: property_status
+      label: Property Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: property_inspection_type
+      label: Property Inspection Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: additional_notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: property_id
+      label: Property ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: scheduled_date
+      label: Scheduled Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: scheduled_time
+      label: Scheduled Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 15
+      name: property_status_update
+      label: Property Status Update
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 16
+      name: inspection_team_member_2
+      label: Inspection Team Member 2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: inspection_team_member_3
+      label: Inspection Team Member 3
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: inspection_team_member_4
+      label: Inspection Team Member 4
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: inspection_team_member_5
+      label: Inspection Team Member 5
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: property_contact
+      label: Property Contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: inspection_notes
+      label: Inspection Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: email_2
+      label: Email 2
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 23
+      name: phone_number_2
+      label: Phone Number 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: property_status_2
+      label: Property Status 2
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 25
+      name: scheduled_time_2
+      label: Scheduled Time 2
+      hint: null
+      type: time
+      options: []
+      required: false

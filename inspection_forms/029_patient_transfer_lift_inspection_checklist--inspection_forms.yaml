@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Patient Transfer Lift Inspection Checklist
+    pages:
+    - id: 1
+      name: transfer_lift_equipment_checklist
+      label: Transfer Lift Equipment Checklist
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: patient_receiving_area_checklist
+      label: Patient Receiving Area Checklist
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: patient_lift_equipment_checklist
+      label: Patient Lift Equipment Checklist
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: transfer_lift_checklist
+      label: Transfer Lift Checklist
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: patient_transfer_lift_checklist
+      label: Patient Transfer Lift Checklist
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: equipment_checklist
+      label: Equipment Checklist
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: patient_transfer_lifting_equipment_checklist
+      label: Patient Transfer Lifting Equipment Checklist
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: checklist_transfer_lift
+      label: Checklist-Transfer Lift
+      hint: null
+      type: text
+      options: []
+      required: false

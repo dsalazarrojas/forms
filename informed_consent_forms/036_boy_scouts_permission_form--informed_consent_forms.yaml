@@ -1,0 +1,269 @@
+inputSchema:
+  type: object
+  properties:
+    title: Boy Scouts Permission Form
+    pages:
+    - id: 1
+      name: scout_first_name
+      label: Scout First Name
+      hint: Scout first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: scout_last_name
+      label: Scout Last Name
+      hint: Scout last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: troop_number
+      label: Troop Number
+      hint: Your troop number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: parent_guardian_first
+      label: Parent or Guardian First Name
+      hint: Legal first name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: parent_guardian_last
+      label: Parent or Guardian Last Name
+      hint: Legal last name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: home_address
+      label: Home Address
+      hint: Complete home address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: home_phone
+      label: Home Phone
+      hint: Primary contact number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: mobile_phone
+      label: Mobile Phone
+      hint: Cell phone number
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: email
+      label: Email Address
+      hint: For communications
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: activity_name
+      label: Activity Name
+      hint: Name of activity or event
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: activity_description
+      label: Activity Description
+      hint: Brief description of activity
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: activity_date_start
+      label: Activity Start Date
+      hint: Departure date and time
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: activity_date_end
+      label: Activity End Date
+      hint: Return date and time
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: activity_location
+      label: Activity Location
+      hint: Where will activity take place
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: transportation_method
+      label: Transportation Method
+      hint: How will scouts travel
+      type: select_one
+      options:
+      - Troop vehicles
+      - Parent drivers
+      - Commercial bus
+      - Airplane
+      - Personal vehicle
+      - Other
+      required: true
+    - id: 16
+      name: activity_cost
+      label: Activity Cost
+      hint: Cost per scout
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: payment_included
+      label: Payment Included
+      hint: Has payment been made
+      type: select_one
+      options:
+      - Yes, paid in full
+      - Partial payment made
+      - No payment yet
+      required: true
+    - id: 18
+      name: medical_insurance_provider
+      label: Medical Insurance Provider
+      hint: Insurance company name
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: insurance_policy_number
+      label: Insurance Policy Number
+      hint: Policy number
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: physician_name
+      label: Physician Name
+      hint: Primary care doctor
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: physician_phone
+      label: Physician Phone
+      hint: Doctor contact number
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: medical_conditions
+      label: Medical Conditions
+      hint: List any conditions
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: current_medications
+      label: Current Medications
+      hint: List all medications
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: allergies
+      label: Allergies
+      hint: List all allergies
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: Any food restrictions
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: swimming_ability
+      label: Swimming Ability
+      hint: Can scout swim
+      type: select_one
+      options:
+      - Non-swimmer
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: true
+    - id: 27
+      name: medical_treatment_authorization
+      label: Medical Treatment Authorization
+      hint: I authorize emergency medical treatment
+      type: select_one
+      options:
+      - Yes, I authorize
+      - false
+      required: true
+    - id: 28
+      name: liability_waiver
+      label: Liability Waiver
+      hint: I understand risks and waive liability
+      type: select_one
+      options:
+      - Yes, I waive
+      - false
+      required: true
+    - id: 29
+      name: pickup_authorization
+      label: Pickup Authorization
+      hint: Who can pick up scout
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: code_of_conduct
+      label: Code of Conduct
+      hint: Scout agrees to follow rules
+      type: select_one
+      options:
+      - Yes, agreed
+      - false
+      required: true
+    - id: 31
+      name: parent_guardian_signature
+      label: Parent or Guardian Signature
+      hint: Type full legal name as signature
+      type: text
+      options: []
+      required: true
+    - id: 32
+      name: signature_date
+      label: Signature Date
+      hint: Date of signing
+      type: date
+      options: []
+      required: true
+    - id: 33
+      name: scout_signature
+      label: Scout Signature
+      hint: Scout signs to agree
+      type: text
+      options: []
+      required: true
+    - id: 34
+      name: scoutmaster_name
+      label: Scoutmaster Name
+      hint: Troop scoutmaster
+      type: text
+      options: []
+      required: true
+    - id: 35
+      name: emergency_contact_alternate
+      label: Alternate Emergency Contact
+      hint: Secondary contact name and phone
+      type: text
+      options: []
+      required: false

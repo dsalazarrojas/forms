@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: Prototype Inspection Checklist
+    pages:
+    - id: 1
+      name: prototype_id
+      label: prototype_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: reviewer_name
+      label: Reviewer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: reviewer_email
+      label: Reviewer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: prototype_description
+      label: Prototype Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: inspection_outcomes
+      label: Inspection Outcomes
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: review_completed
+      label: Review Completed
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      required: true
+    - id: 9
+      name: review_status
+      label: Review Status
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      required: true
+    - id: 10
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      required: true
+    - id: 11
+      name: review_completed_date
+      label: Review Completed Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: review_due_date
+      label: Review Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: review_notes
+      label: Review Notes
+      hint: null
+      type: text
+      options: []
+      required: false

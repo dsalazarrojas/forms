@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gap Insurance Refund Form
+    pages:
+    - id: 1
+      name: gap_insurance_refund_form
+      label: Gap Insurance Refund Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: policy_num
+      label: Policy Number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: claim_type
+      label: Claim Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1''}'
+      - '{''label'': ''Option 2''}'
+      - '{''label'': ''Option 3''}'
+      required: true
+    - id: 6
+      name: reason_for_claim
+      label: Reason for Claim
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Option 1''}'
+      - '{''label'': ''Option 2''}'
+      - '{''label'': ''Option 3''}'
+      - '{''label'': ''Option 4''}'
+      required: true
+    - id: 7
+      name: claim_date
+      label: Claim Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: claim_amount
+      label: Claim Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: bank_name
+      label: Bank Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: bank_acct_num
+      label: Bank Account Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: bank_acct_type
+      label: Bank Account Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1''}'
+      - '{''label'': ''Option 2''}'
+      required: true
+    - id: 12
+      name: check_num
+      label: Check Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: claim_status
+      label: Claim Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1''}'
+      - '{''label'': ''Option 2''}'
+      required: true
+    - id: 14
+      name: claim_notes
+      label: Claim Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: customer_signature
+      label: Customer Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 16
+      name: agent_signature
+      label: Agent Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 17
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: agent_phone
+      label: Agent Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: date_received
+      label: Date Received
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: date_processed
+      label: Date Processed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: agent_name
+      label: Agent Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: agent_title
+      label: Agent Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: date_submit
+      label: Date Submit
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

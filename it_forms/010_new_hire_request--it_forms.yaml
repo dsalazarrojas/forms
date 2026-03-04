@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: New Hire Request
+    pages:
+    - id: 1
+      name: new_hire_request_form
+      label: New Hire Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: employment_period
+      label: Employment Period
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: additional_requests
+      label: Additional Requests
+      hint: null
+      type: select_multiple
+      options:
+      - Computer
+      - Software
+      - Peripherals
+      required: true
+    - id: 7
+      name: computer_requests
+      label: Computer Requests
+      hint: null
+      type: select_one
+      options:
+      - Laptop
+      - Desktop
+      - Mobile
+      required: false
+    - id: 8
+      name: software_requests
+      label: Software Requests
+      hint: null
+      type: select_multiple
+      options:
+      - Microsoft Office
+      - Adobe Creative Cloud
+      - Browser Extensions
+      required: false
+    - id: 9
+      name: department_manager_requests
+      label: Department Manager Requests
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

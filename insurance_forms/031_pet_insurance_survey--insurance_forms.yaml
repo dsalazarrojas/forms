@@ -1,0 +1,132 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pet Insurance Survey
+    pages:
+    - id: 1
+      name: pet_insurance_survey
+      label: pet_insurance_survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: pet_type
+      label: pet_type
+      hint: null
+      type: select_one
+      options:
+      - cat
+      - dog
+      - other
+      - bird
+      - fish
+      - horse
+      - reptile
+      required: false
+    - id: 3
+      name: pet_name
+      label: pet_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: insurance_type
+      label: insurance_type
+      hint: null
+      type: select_one
+      options:
+      - health
+      - liability
+      - life
+      - other
+      required: false
+    - id: 5
+      name: age
+      label: age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: policy_length
+      label: policy_length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: coverage
+      label: coverage
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_multiple
+      options:
+      - credit_card
+      - bank_transfer
+      - other
+      - cash
+      required: false
+    - id: 11
+      name: payment_frequency
+      label: payment_frequency
+      hint: null
+      type: select_one
+      options:
+      - monthly
+      - annually
+      - other
+      required: false
+    - id: 12
+      name: policy_cost
+      label: policy_cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: policy_provider
+      label: policy_provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: policy_status
+      label: policy_status
+      hint: null
+      type: select_one
+      options:
+      - active
+      - inactive
+      - cancelled
+      - pending
+      required: false

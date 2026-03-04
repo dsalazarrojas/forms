@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Shelter Intake Form
+    pages:
+    - id: 1
+      name: shelter_name
+      label: Shelter Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: client name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: client_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: intake_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: intake_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_one
+      options:
+      - Shelter
+      - Housing
+      - Support
+      - Other
+      required: false
+    - id: 9
+      name: service_description
+      label: Service Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: client_dob
+      label: Client DOB
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: client_age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: client_gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-Binary
+      - Prefer not to say
+      required: false
+    - id: 13
+      name: client_race
+      label: Race
+      hint: null
+      type: select_multiple
+      options:
+      - Caucasian
+      - African American
+      - Asian
+      - Native American
+      - Hispanic/Latino
+      - Other
+      required: false
+    - id: 14
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: medical_notes
+      label: Medical Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: emergency_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: emergency_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: emergency_relationship
+      label: Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: emergency_notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: service_status
+      label: Service Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Unknown
+      required: false
+    - id: 22
+      name: service_start_date
+      label: Service Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: service_end_date
+      label: Service End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: last_seen_date
+      label: Last Seen Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: last_contact_method
+      label: Last Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - In person
+      - Email
+      - Other
+      required: true

@@ -1,0 +1,225 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bridge Inspection Exam Form
+    pages:
+    - id: 1
+      name: section_general_info
+      label: -- General Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: bridge_name
+      label: Bridge Name or ID
+      hint: Enter the official name or identification number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: bridge_location
+      label: Bridge Location
+      hint: Enter the location or address of the bridge
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: inspection_date
+      label: Inspection Date
+      hint: Select the date of inspection
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: inspector_name
+      label: Inspector Name
+      hint: Enter the name of the lead inspector
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: inspector_certification
+      label: Inspector Certification Number
+      hint: Enter the certification number of the inspector
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: inspection_type
+      label: Inspection Type
+      hint: Select the type of inspection being conducted
+      type: select_one
+      options:
+      - Routine Inspection
+      - In-Depth Inspection
+      - Damage Inspection
+      - Initial Inspection
+      - Fracture Critical Inspection
+      required: true
+    - id: 8
+      name: section_bridge_details
+      label: -- Bridge Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: bridge_type
+      label: Bridge Type
+      hint: Select the type of bridge structure
+      type: select_one
+      options:
+      - Concrete
+      - Steel
+      - Timber
+      - Masonry
+      - Composite
+      required: true
+    - id: 10
+      name: year_built
+      label: Year Built
+      hint: Enter the year the bridge was constructed
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: bridge_length
+      label: Bridge Length (feet)
+      hint: Enter the total length of the bridge in feet
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: number_of_spans
+      label: Number of Spans
+      hint: Enter the number of spans
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: section_condition_assessment
+      label: -- Condition Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: deck_condition
+      label: Deck Condition Rating
+      hint: Rate the condition of the bridge deck
+      type: select_one
+      options:
+      - Excellent (9)
+      - Very Good (8)
+      - Good (7)
+      - Satisfactory (6)
+      - Fair (5)
+      - Poor (4)
+      - Serious (3)
+      - Critical (2)
+      - Imminent Failure (1)
+      required: true
+    - id: 15
+      name: superstructure_condition
+      label: Superstructure Condition Rating
+      hint: Rate the condition of the superstructure
+      type: select_one
+      options:
+      - Excellent (9)
+      - Very Good (8)
+      - Good (7)
+      - Satisfactory (6)
+      - Fair (5)
+      - Poor (4)
+      - Serious (3)
+      - Critical (2)
+      - Imminent Failure (1)
+      required: true
+    - id: 16
+      name: substructure_condition
+      label: Substructure Condition Rating
+      hint: Rate the condition of the substructure
+      type: select_one
+      options:
+      - Excellent (9)
+      - Very Good (8)
+      - Good (7)
+      - Satisfactory (6)
+      - Fair (5)
+      - Poor (4)
+      - Serious (3)
+      - Critical (2)
+      - Imminent Failure (1)
+      required: true
+    - id: 17
+      name: section_deficiencies
+      label: -- Deficiencies and Findings --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: deficiencies_observed
+      label: Deficiencies Observed
+      hint: Select all deficiencies observed during inspection
+      type: select_multiple
+      options:
+      - Cracking
+      - Corrosion
+      - Spalling
+      - Section Loss
+      - Settlement
+      - Scour
+      - Bearing Damage
+      - Joint Failure
+      required: false
+    - id: 19
+      name: deficiency_description
+      label: Detailed Deficiency Description
+      hint: Provide a detailed description of observed deficiencies
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: section_recommendations
+      label: -- Recommendations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: overall_rating
+      label: Overall Bridge Rating
+      hint: Select the overall condition rating
+      type: select_one
+      options:
+      - Not Deficient
+      - Functionally Obsolete
+      - Structurally Deficient
+      required: true
+    - id: 22
+      name: recommended_actions
+      label: Recommended Actions
+      hint: Describe recommended repair or maintenance actions
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: follow_up_required
+      label: Follow-up Inspection Required
+      hint: Indicate if a follow-up inspection is needed
+      type: select_one
+      options:
+      - Yes - Within 30 days
+      - Yes - Within 6 months
+      - Yes - Within 1 year
+      - false
+      required: true
+    - id: 24
+      name: additional_comments
+      label: Additional Comments
+      hint: Enter any additional observations or notes
+      type: text
+      options: []
+      required: false

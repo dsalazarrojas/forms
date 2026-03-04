@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wood Destroying Insect Inspection Form
+    pages:
+    - id: 1
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: pest_type
+      label: Pest Type
+      hint: null
+      type: select_one
+      options:
+      - Ants
+      - Cockroaches
+      - Flies
+      - Rodents
+      - Termites
+      - Wasps
+      - Yellowjackets
+      required: false
+    - id: 3
+      name: location
+      label: Location
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: pest_description
+      label: Pest Description
+      hint: Please provide a detailed description of the pest observed.
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: control_method
+      label: Control Method
+      hint: null
+      type: select_multiple
+      options:
+      - Trapping
+      - Exclusion
+      - Elimination
+      - Monitoring
+      - Prevention
+      required: false
+    - id: 6
+      name: inspector_name
+      label: Inspector Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date_completed
+      label: Date Completed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: completed_time
+      label: Completed Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false
+    - id: 10
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: false

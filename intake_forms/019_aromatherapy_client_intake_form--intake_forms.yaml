@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Aromatherapy Client Intake Form
+    pages:
+    - id: 1
+      name: section_client_info
+      label: -- Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: intake_date
+      label: Date of Intake
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: section_medical
+      label: -- Medical History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: medical_conditions
+      label: Current Medical Conditions
+      hint: Include serious or chronic conditions
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: medication_list
+      label: List of Current Medications
+      hint: Include dosages if possible
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: surgical_history
+      label: Major Surgeries or Procedures
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: allergies_or_sensitivities
+      label: Allergies or Sensitivities
+      hint: Include food, medication, and essential oil allergies
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: reaction_history
+      label: History of Adverse Reactions
+      hint: To treatments, medications, or products
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: section_skin
+      label: -- Skin and Topical Application --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: skin_type
+      label: Skin Type
+      hint: null
+      type: select_one
+      options:
+      - Normal
+      - Dry
+      - Oily
+      - Combination
+      - Sensitive
+      - Other
+      required: true
+    - id: 15
+      name: skin_conditions
+      label: Skin Conditions or Sensitivities
+      hint: Eczema, psoriasis, dermatitis, etc.
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: cosmetic_use
+      label: Regular Cosmetic or Skincare Product Use
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: section_reproductive
+      label: -- Reproductive Health --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: pregnancy_status
+      label: Are you currently pregnant
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      - Not sure
+      - Prefer not to say
+      required: false
+    - id: 19
+      name: breastfeeding
+      label: Are you currently breastfeeding
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      - Prefer not to say
+      required: false
+    - id: 20
+      name: menstrual_cycle
+      label: Current Menstrual Cycle Status
+      hint: null
+      type: select_one
+      options:
+      - Regular
+      - Irregular
+      - Irregular periods
+      - Menopausal
+      - Post-menopausal
+      required: false
+    - id: 21
+      name: section_contraindications
+      label: -- Contraindications Check --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: contraindications_understand
+      label: I understand aromatherapy contraindications
+      hint: Limited sun exposure, photosensitivity, etc.
+      type: select_one
+      options:
+      - Yes, I understand
+      - I need more information
+      required: true
+    - id: 23
+      name: medication_interactions
+      label: Awareness of potential medication interactions
+      hint: null
+      type: select_one
+      options:
+      - Yes, aware
+      - Need to discuss with doctor
+      - Not aware
+      required: true
+    - id: 24
+      name: informed_consent
+      label: I consent to aromatherapy treatment
+      hint: Based on the information provided above
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      required: true

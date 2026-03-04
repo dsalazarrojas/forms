@@ -1,0 +1,89 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: tech_data_protection_referral_form
+    pages:
+    - id: 1
+      name: tech_data_protection_referral_form_page_1
+      label: Referral Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: it_team_contact
+      label: it_team
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''IT Team 1''}'
+      - '{''value'': ''Security Team''}'
+      - '{''value'': ''Privacy Team''}'
+      - '{''value'': ''Other''}'
+      required: true
+    - id: 3
+      name: incident_details
+      label: incident_details
+      hint: Provide a brief description
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: priority
+      label: priority
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''High''}'
+      - '{''value'': ''Medium''}'
+      - '{''value'': ''Low''}'
+      required: true
+    - id: 5
+      name: data_types
+      label: data_types
+      hint: Check all that apply
+      type: select_multiple
+      options:
+      - '{''value'': ''Personal Data''}'
+      - '{''value'': ''Technical Data''}'
+      - '{''value'': ''Business Data''}'
+      - '{''value'': ''Special Category Data''}'
+      required: true
+    - id: 6
+      name: data_classification
+      label: data_classification
+      hint: Check all that apply
+      type: select_multiple
+      options:
+      - '{''value'': ''Confidential''}'
+      - '{''value'': ''Public''}'
+      - '{''value'': ''Restricted''}'
+      - '{''value'': ''Private''}'
+      required: true
+    - id: 7
+      name: incident_description
+      label: incident_description
+      hint: Provide a detailed description of the incident
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: resolution
+      label: resolution
+      hint: How was the referral resolved?
+      type: select_one
+      options:
+      - '{''value'': ''Resolved''}'
+      - '{''value'': ''Not Resolved''}'
+      required: true

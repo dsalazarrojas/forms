@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Quality Control Weekly Report
+    pages:
+    - id: 1
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: weekly_ratings
+      label: Weekly Ratings
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: issues_found
+      label: Issues Found
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: corrective_actions
+      label: Corrective Actions
+      hint: List of corrective actions taken
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: escalation_needs
+      label: Escalation Needs
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: ratings_average
+      label: Ratings Average
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: ratings_lowest
+      label: Ratings Lowest
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 8
+      name: ratings_highest
+      label: Ratings Highest
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: comments_comments
+      label: Comments
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

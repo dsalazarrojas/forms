@@ -1,0 +1,37 @@
+inputSchema:
+  type: object
+  properties:
+    title: Protected Areas Infrastructure Inventory
+    pages:
+    - id: 1
+      name: protected_areas_infrastructure_inventory_form
+      label: protected_areas_infrastructure_inventory_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: infrastructure_location
+      label: protected_areas_infrastructure_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: asset_category
+      label: protected_areas_asset_category
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: photos
+      label: protected_areas_infrastructure_photos
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

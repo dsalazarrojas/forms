@@ -1,0 +1,165 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vehicle And Home Insurance Quote Request Form
+    pages:
+    - id: 1
+      name: vehicle_information
+      label: vehicle_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: home_insurance_information
+      label: home_insurance_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_details
+      label: contact_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: vehicle_type
+      label: vehicle_type
+      hint: null
+      type: select_one
+      options:
+      - car
+      - home
+      - other
+      required: false
+    - id: 5
+      name: vehicle_year
+      label: vehicle_year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: vehicle_make
+      label: vehicle_make
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: home_address
+      label: home_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: home_state
+      label: home_state
+      hint: null
+      type: select_one
+      options:
+      - AL
+      - AK
+      - AZ
+      - AR
+      - CA
+      - CO
+      - CT
+      - DE
+      - FL
+      - GA
+      - HI
+      - IA
+      - ID
+      - IL
+      - IN
+      - KS
+      - KY
+      - LA
+      - MA
+      - MD
+      - ME
+      - MI
+      - MN
+      - MO
+      - MS
+      - MT
+      - NC
+      - ND
+      - NE
+      - NH
+      - NJ
+      - NM
+      - NV
+      - NY
+      - OH
+      - OK
+      - OR
+      - PA
+      - RI
+      - SC
+      - SD
+      - TN
+      - TX
+      - UT
+      - VA
+      - VT
+      - WA
+      - WV
+      - WY
+      - DC
+      - PR
+      - VI
+      - UM
+      - MP
+      - PW
+      required: false
+    - id: 9
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: vehicle_use
+      label: vehicle_use
+      hint: null
+      type: select_multiple
+      options:
+      - daily
+      - weekly
+      - monthly
+      - other
+      required: false
+    - id: 12
+      name: home_coverage_type
+      label: home_coverage_type
+      hint: null
+      type: select_multiple
+      options:
+      - basic
+      - extended
+      - umbrella
+      required: false
+    - id: 13
+      name: quote_type
+      label: quote_type
+      hint: null
+      type: select_multiple
+      options:
+      - monthly
+      - quarterly
+      - six_monthly
+      - yearly
+      required: false

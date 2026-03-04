@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: Noise Exposure Monitoring Form
+    pages:
+    - id: 1
+      name: workplace_id
+      label: workplace_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: employee_id
+      label: employee_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: date_completed
+      label: date_completed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: noise_level
+      label: noise_level
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: hearing_protector_used
+      label: hearing_protector_used
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: hearing_protector_type
+      label: hearing_protector_used_type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: noise_level_danger_zones
+      label: noise_level_danger_zones
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: false

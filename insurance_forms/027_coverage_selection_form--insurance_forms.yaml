@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: coverage_selection_form
+    pages:
+    - id: 1
+      name: coverage_type
+      label: coverage-type
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: amount
+      label: amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: add_ons
+      label: add-ons
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: effective_date
+      label: effective-date
+      hint: null
+      type: date
+      options: []
+      required: true

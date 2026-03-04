@@ -1,0 +1,37 @@
+inputSchema:
+  type: object
+  properties:
+    title: Research Media Inquiry Contact Form
+    pages:
+    - id: 1
+      name: research_media_inquiry_contact_form_1
+      label: What type of media are you inquiring about?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: research_media_inquiry_contact_form_2
+      label: What is your contact information?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: research_media_inquiry_contact_form_3
+      label: How may we contact you for follow up?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: research_media_inquiry_contact_form_4
+      label: Is there any additional comments?
+      hint: null
+      type: note
+      options: []
+      required: false

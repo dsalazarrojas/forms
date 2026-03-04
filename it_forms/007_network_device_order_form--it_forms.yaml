@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Network Device Order Form
+    pages:
+    - id: 1
+      name: device_request
+      label: Device Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: device_type
+      label: Device Type
+      hint: null
+      type: select_one
+      options:
+      - Routers
+      - Switches
+      - Other
+      required: false
+    - id: 3
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: vendor
+      label: Vendor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: model
+      label: Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: purchase_date
+      label: Purchase Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: cost
+      label: Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: approval_process
+      label: prophets
+      hint: Please enter the name of the approval process
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: Range Boundaries Assessment Form
+    pages:
+    - id: 1
+      name: property_id
+      label: Property Id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: boundary_type
+      label: boundary_type
+      hint: null
+      type: select_one
+      options:
+      - Range
+      - Boundary
+      - Other
+      required: false
+    - id: 3
+      name: boundary_description
+      label: boundary_description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: boundary_length
+      label: boundary_length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: boundary_location
+      label: boundary_location
+      hint: null
+      type: select_multiple
+      options:
+      - East
+      - West
+      - North
+      - South
+      required: false
+    - id: 6
+      name: boundary_status
+      label: boundary_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Unknown
+      required: false
+    - id: 7
+      name: boundary_notes
+      label: boundary_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: boundary_observation
+      label: boundary_observation
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: date_observed
+      label: date_observed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time_observed
+      label: time_observed
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: latitude
+      label: latitude
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: longitude
+      label: longitude
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: elevation
+      label: elevation
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: user_id
+      label: User Id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: false

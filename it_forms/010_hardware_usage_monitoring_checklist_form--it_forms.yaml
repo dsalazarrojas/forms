@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: hardware_usage_monitoring_checklist_form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: hardware_serial_number
+      label: hardware_serial_number
+      hint: nullประก
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: asset_tag
+      label: asset_tag
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: asset_name
+      label: asset_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: last_used
+      label: last_used
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: next_user
+      label: next_user
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: issue_description
+      label: issue_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: issue_priority
+      label: issue_priority
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 9
+      name: issue_resolution
+      label: issue_resolution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 13
+      name: user_input_notes
+      label: user_input_notes
+      hint: null
+      type: text
+      options: []
+      required: true

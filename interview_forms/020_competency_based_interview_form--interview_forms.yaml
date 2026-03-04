@@ -1,0 +1,290 @@
+inputSchema:
+  type: object
+  properties:
+    title: Competency Based Interview Form
+    pages:
+    - id: 1
+      name: interview_date
+      label: Interview Date
+      hint: Date of interview
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: candidate_name
+      label: Candidate Name
+      hint: Full name of candidate
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: candidate_email
+      label: Candidate Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: candidate_phone
+      label: Candidate Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: position_applied
+      label: Position Applied For
+      hint: Job title
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: department
+      label: Department
+      hint: Hiring department
+      type: select_one
+      options:
+      - Human Resources
+      - Finance
+      - Marketing
+      - Sales
+      - Operations
+      - IT
+      - Customer Service
+      - Legal
+      - Research and Development
+      - Other
+      required: true
+    - id: 7
+      name: interviewer_name
+      label: Interviewer Name
+      hint: Name of interviewer
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: interviewer_title
+      label: Interviewer Title
+      hint: Interviewer job title
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: interview_round
+      label: Interview Round
+      hint: Which round is this
+      type: select_one
+      options:
+      - Phone screen
+      - First round
+      - Second round
+      - Final round
+      - Other
+      required: true
+    - id: 10
+      name: interview_format
+      label: Interview Format
+      hint: How is interview conducted
+      type: select_one
+      options:
+      - In-person
+      - Video call
+      - Phone call
+      - Hybrid
+      required: true
+    - id: 11
+      name: competency_communication
+      label: Communication Competency
+      hint: Rate verbal and written skills
+      type: select_one
+      options:
+      - Exceptional
+      - Strong
+      - Adequate
+      - Weak
+      - Poor
+      required: true
+    - id: 12
+      name: competency_communication_notes
+      label: Communication Notes
+      hint: Specific observations
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: competency_teamwork
+      label: Teamwork Competency
+      hint: Rate collaboration skills
+      type: select_one
+      options:
+      - Exceptional
+      - Strong
+      - Adequate
+      - Weak
+      - Poor
+      required: true
+    - id: 14
+      name: competency_teamwork_notes
+      label: Teamwork Notes
+      hint: Specific observations
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: competency_problem_solving
+      label: Problem Solving Competency
+      hint: Rate analytical abilities
+      type: select_one
+      options:
+      - Exceptional
+      - Strong
+      - Adequate
+      - Weak
+      - Poor
+      required: true
+    - id: 16
+      name: competency_problem_solving_notes
+      label: Problem Solving Notes
+      hint: Specific observations
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: competency_leadership
+      label: Leadership Competency
+      hint: Rate leadership potential
+      type: select_one
+      options:
+      - Exceptional
+      - Strong
+      - Adequate
+      - Weak
+      - Poor
+      - Not assessed
+      required: true
+    - id: 18
+      name: competency_leadership_notes
+      label: Leadership Notes
+      hint: Specific observations
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: competency_adaptability
+      label: Adaptability Competency
+      hint: Rate flexibility
+      type: select_one
+      options:
+      - Exceptional
+      - Strong
+      - Adequate
+      - Weak
+      - Poor
+      required: true
+    - id: 20
+      name: competency_adaptability_notes
+      label: Adaptability Notes
+      hint: Specific observations
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: competency_technical
+      label: Technical Competency
+      hint: Rate job-specific skills
+      type: select_one
+      options:
+      - Exceptional
+      - Strong
+      - Adequate
+      - Weak
+      - Poor
+      required: true
+    - id: 22
+      name: competency_technical_notes
+      label: Technical Notes
+      hint: Specific observations
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: behavioral_question_1
+      label: Behavioral Question 1 Response
+      hint: Situation or task described
+      type: select_one
+      options:
+      - Excellent example
+      - Good example
+      - Adequate example
+      - Weak example
+      - No clear example
+      required: true
+    - id: 24
+      name: behavioral_question_2
+      label: Behavioral Question 2 Response
+      hint: Action taken described
+      type: select_one
+      options:
+      - Excellent example
+      - Good example
+      - Adequate example
+      - Weak example
+      - No clear example
+      required: true
+    - id: 25
+      name: behavioral_question_3
+      label: Behavioral Question 3 Response
+      hint: Result achieved described
+      type: select_one
+      options:
+      - Excellent example
+      - Good example
+      - Adequate example
+      - Weak example
+      - No clear example
+      required: true
+    - id: 26
+      name: overall_impression
+      label: Overall Impression
+      hint: General assessment
+      type: select_one
+      options:
+      - Excellent - highly recommend
+      - Good - recommend
+      - Adequate - consider
+      - Weak - do not recommend
+      - Poor - reject
+      required: true
+    - id: 27
+      name: hire_recommendation
+      label: Hire Recommendation
+      hint: Final recommendation
+      type: select_one
+      options:
+      - Strong yes - hire immediately
+      - Yes - hire
+      - Maybe - consider for other roles
+      - No - do not hire
+      - Strong no - reject
+      required: true
+    - id: 28
+      name: salary_expectations
+      label: Salary Expectations Discussed
+      hint: Candidate expectations
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: start_date_availability
+      label: Available Start Date
+      hint: When can candidate start
+      type: date
+      options: []
+      required: false
+    - id: 30
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other observations
+      type: text
+      options: []
+      required: false

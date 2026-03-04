@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: Web Design Interview Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: company_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: project_description
+      label: project_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: target_audience
+      label: target_audience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: project_budget
+      label: project_budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: expected_launch_date
+      label: expected_launch_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: primary_color_scheme
+      label: primary_color_scheme
+      hint: null
+      type: select_one
+      options:
+      - blue
+      - red
+      - green
+      required: false
+    - id: 8
+      name: secondary_color_scheme
+      label: secondary_color_scheme
+      hint: null
+      type: select_one
+      options:
+      - blue
+      - red
+      - green
+      required: false
+    - id: 9
+      name: font_size
+      label: font_size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: design_file_type
+      label: design_file_type
+      hint: null
+      type: select_multiple
+      options:
+      - PSD
+      - PDF
+      - JPG
+      required: false
+    - id: 11
+      name: design_platform
+      label: design_platform
+      hint: null
+      type: select_one
+      options:
+      - desktop
+      - mobile
+      - tablet
+      required: false
+    - id: 12
+      name: email_address
+      label: email_address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: project_manager
+      label: project_manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: project_status
+      label: project_status
+      hint: null
+      type: select_one
+      options:
+      - pending
+      - active
+      - completed
+      required: false

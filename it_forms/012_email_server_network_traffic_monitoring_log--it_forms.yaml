@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: email_server_network_traffic_monitoring_log
+    pages:
+    - id: 1
+      name: email_server_network_traffic_monitoring_log
+      label: email_server_network_traffic_monitoring_log
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: server_ip
+      label: server_ip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: port_number
+      label: port_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: protocol
+      label: protocol
+      hint: null
+      type: select_one
+      options:
+      - http
+      - ftp
+      - smtp
+      - pop
+      - imap
+      - pop3
+      required: false
+    - id: 5
+      name: email_client
+      label: email_client
+      hint: null
+      type: select_multiple
+      options:
+      - outlook
+      - exchange
+      - thunderbird
+      - aol
+      required: false
+    - id: 6
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: username
+      label: username
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: password
+      label: password
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: ip_address
+      label: ip_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: event_type
+      label: event_type
+      hint: null
+      type: select_one
+      options:
+      - connection
+      - disconnection
+      - error
+      - warning
+      - critical
+      required: false
+    - id: 12
+      name: email_server_version
+      label: email_server_version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: event_message
+      label: event_message
+      hint: null
+      type: text
+      options: []
+      required: false

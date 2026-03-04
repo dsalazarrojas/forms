@@ -1,0 +1,135 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Academic Expert Interview Form
+    pages:
+    - id: 1
+      name: interview_intro
+      label: Academic Expert Interview Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: expert_name
+      label: Expert Name
+      hint: Full name of the academic expert being interviewed
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: expert_email
+      label: Expert Email
+      hint: Professional email address for scheduling
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: expert_institution
+      label: Institution
+      hint: University or organization where expert is affiliated
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: expert_position
+      label: Position/Title
+      hint: Current position or academic title
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: research_area
+      label: Area of Expertise
+      hint: Primary research area or field of expertise
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: interview_purpose
+      label: Purpose of Interview
+      hint: What is the main topic or focus of this interview?
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: interview_format
+      label: Preferred Interview Format
+      hint: How would you prefer to conduct the interview?
+      type: select_one
+      options: ["In-person", "Video conference", "Phone call", "Email exchange", "Written responses"]
+      required: true
+    - id: 9
+      name: available_times
+      label: Available Times
+      hint: What times are convenient for the interview?
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: interview_duration
+      label: Expected Duration
+      hint: How long should the interview last?
+      type: select_one
+      options: ["15-30 minutes", "30-45 minutes", "45-60 minutes", "60-90 minutes", "Over 90 minutes"]
+      required: true
+    - id: 11
+      name: consent_to_recording
+      label: Consent to Recording
+      hint: Do you consent to having the interview recorded for transcription?
+      type: select_one
+      options: ["Yes, I consent", "Yes, with restrictions", "No, I do not consent"]
+      required: true
+    - id: 12
+      name: consent_to_publication
+      label: Consent to Publication
+      hint: Do you consent to having your responses published?
+      type: select_one
+      options: ["Yes, I consent", "Yes, with editorial review", "No, not for publication", "Conditional on anonymity"]
+      required: true
+    - id: 13
+      name: confidentiality_level
+      label: Confidentiality Level
+      hint: What level of confidentiality do you require?
+      type: select_one
+      options: ["Public", "Academic community only", "Limited distribution", "Strict confidentiality"]
+      required: true
+    - id: 14
+      name: special_accommodations
+      label: Special Accommodations
+      hint: Do you require any special accommodations for the interview?
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: previous_interviews
+      label: Previous Interviews
+      hint: Have you been interviewed about this topic before?
+      type: select_one
+      options: ["Yes, recently", "Yes, but some time ago", "No, this is new", "Not sure"]
+      required: false
+    - id: 16
+      name: key_points_to_cover
+      label: Key Points to Cover
+      hint: What are the most important points you want to discuss?
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: contact_preference
+      label: Contact Preference
+      hint: How should the interviewer contact you to schedule?
+      type: select_one
+      options: ["Email", "Phone", "Video call", "Text message", "Other"]
+      required: true

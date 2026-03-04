@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Insurance Extension Form
+    pages:
+    - id: 1
+      name: header
+      label: -- Extension Request --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: policy_holder_name
+      label: Policy holder name
+      hint: Name on the policy
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: policy_number
+      label: Policy number
+      hint: Existing policy identifier
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: extension_reason
+      label: Extension reason
+      hint: Reason for requesting extension
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: requested_extension_period
+      label: Requested extension period
+      hint: Number of months needed
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: additional_premium_expected
+      label: Additional premium expected
+      hint: Estimated additional cost if known
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: supporting_documents
+      label: Supporting documents
+      hint: Indicate if documents are provided
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 8
+      name: contact_email
+      label: Contact email
+      hint: For correspondence about the extension
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: notes
+      label: Notes
+      hint: Any additional information for underwriters
+      type: text
+      options: []
+      required: false

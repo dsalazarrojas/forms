@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Food Safety Inspection Form
+    pages:
+    - id: 1
+      name: general_info
+      label: General Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: facility_info
+      label: Facility Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: facility_equipment
+      label: Facility Equipment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: facility_operations
+      label: Facility Operations
+      hint: null
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      required: false
+    - id: 5
+      name: date_arrived
+      label: Date Arrived
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_arrived
+      label: Time Arrived
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: inspection_started
+      label: Inspection Started
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: inspection_ended
+      label: Inspection Ended
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: food_vehicle_present
+      label: Food Vehicle Present
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: vehicle_present
+      label: Vehicle Present
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: facility_owner_present
+      label: Facility Owner Present
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: facility_owner_name
+      label: Facility Owner Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: facility_owner_contact
+      label: Facility Owner Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: notes
+      label: Notes
+      hint: Take notes regarding this inspection.
+      type: note
+      options: []
+      required: false

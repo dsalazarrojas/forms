@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contact Lens Insurance Claim Form
+    pages:
+    - id: 1
+      name: claim_intro
+      label: Insurance Claim Submission - Vision Care
+      hint: Please provide accurate information for processing
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: policy_holder_name
+      label: Policy Holder Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: policy_number
+      label: Insurance Policy Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: patient_name
+      label: Patient Name
+      hint: If different from policy holder
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_service
+      label: Date of Purchase / Examination
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: provider_name
+      label: Optical Provider / Clinic Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: provider_phone
+      label: Provider Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: claim_type
+      label: Claim Category
+      hint: null
+      type: select_one
+      options:
+      - Annual Exam
+      - Contact Lens Supply
+      - Replacement Lenses
+      - Fitting Fees
+      required: true
+    - id: 9
+      name: lens_prescription_type
+      label: Lens Prescription Type
+      hint: null
+      type: select_one
+      options:
+      - Spherical
+      - Toric (Astigmatism)
+      - Multifocal
+      - Monovision
+      required: true
+    - id: 10
+      name: total_amount_paid
+      label: Total Amount Paid (USD)
+      hint: As shown on your receipt
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: receipt_uploaded
+      label: Do you have your itemized receipt ready to upload?
+      hint: A photo or scan is required
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 12
+      name: reimbursement_method
+      label: Preferred Reimbursement Method
+      hint: null
+      type: select_one
+      options:
+      - Direct Deposit
+      - Mailed Check
+      - Provider Credit
+      required: true
+    - id: 13
+      name: certification_statement
+      label: I certify that the information provided is true and correct
+      hint: null
+      type: select_one
+      options:
+      - I certify
+      - Other
+      required: true
+    - id: 14
+      name: claim_submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: adjuster_notes
+      label: Additional Information for Claims Adjuster
+      hint: null
+      type: text
+      options: []
+      required: false

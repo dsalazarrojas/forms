@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: Restaurant Closing Manager Review
+    pages:
+    - id: 1
+      name: restaurant_closing_manager_review
+      label: Restaurant Closing Manager Review
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Inspection Forms
+      - Other
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: assigned_tool
+      label: Assigned Tool
+      hint: Enter tool name
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: insurance_coverage_portal_access_form
+    pages:
+    - id: 1
+      name: insurance_coverage_portal_access_form_page
+      label: Client Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: insurance_coverage_portal_access_form_page_2
+      label: Coverage Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: client_name
+      label: client prophets
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: client_email
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: client_phone
+      label: Client Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_prophets
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: coverage_type
+      label: Coverage Type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 8
+      name: coverage_level
+      label: Coverage Level
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 9
+      name: date_provided
+      label: Date Provided
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: time_provided
+      label: Time Provided
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: insurance_number
+      label: Insurance Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: insurance_provider
+      label: Insurance Provider
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: client_note
+      label: Client Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: insurance_note
+      label: Insurance Note
+      hint: null
+      type: note
+      options: []
+      required: false

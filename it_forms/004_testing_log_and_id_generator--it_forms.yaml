@@ -1,0 +1,53 @@
+inputSchema:
+  type: object
+  properties:
+    title: testing_log_and_id_generator
+    pages:
+    - id: 1
+      name: title
+      label: testing_log_and_id_generator
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - it_forms
+      - other
+      required: false
+    - id: 4
+      name: output_file
+      label: output_file
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - other
+      required: false
+    - id: 6
+      name: form_id
+      label: form_id
+      hint: null
+      type: number
+      options: []
+      required: false

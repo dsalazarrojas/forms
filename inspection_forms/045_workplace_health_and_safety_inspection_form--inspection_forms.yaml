@@ -1,0 +1,407 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Workplace Health And Safety Inspection Form
+    pages:
+    - id: 1
+      name: workplace_safety_section
+      label: Workplace Safety
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: hazards_section
+      label: Hazards
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Electrical hazards''}'
+      - '{''label'': ''Physical hazards''}'
+      - '{''label'': ''Chemical hazards''}'
+      - '{''label'': ''Biological hazards''}'
+      required: false
+    - id: 3
+      name: hazard_identification
+      label: Hazard Identification
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: hazard_severity
+      label: Severity
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Low''}'
+      - '{''label'': ''Medium''}'
+      - '{''label'': ''High''}'
+      required: false
+    - id: 5
+      name: workplace_equipment_section
+      label: Workplace Equipment
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Fire Extinguishers''}'
+      - '{''label'': ''First aid kits''}'
+      - '{''label'': ''Fire alarms''}'
+      - '{''label'': ''Safety signs''}'
+      required: false
+    - id: 6
+      name: fire_supervision_section
+      label: Fire Supervision
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Regularly inspected''}'
+      - '{''label'': ''Not regularly inspected''}'
+      required: false
+    - id: 7
+      name: fire_extinguisher
+      label: Fire Extinguisher
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Working''}'
+      - '{''label'': ''Not working''}'
+      required: false
+    - id: 8
+      name: fire_alarm_system
+      label: Fire Alarm System
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Installed''}'
+      - '{''label'': ''Not installed''}'
+      required: false
+    - id: 9
+      name: safety_trainings_section
+      label: Safety Trainings
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Completed''}'
+      - '{''label'': ''Not completed''}'
+      required: false
+    - id: 10
+      name: safety_trainings_details
+      label: Safety Trainings Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: emergency_exit_path_section
+      label: Emergency Exit Path
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: emergency_exit_path_condition
+      label: Emergency Exit Path Condition
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Clear''}'
+      - '{''label'': ''Not clear''}'
+      required: false
+    - id: 13
+      name: emergency_exit_signs_section
+      label: Emergency Exit Sign
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Visible''}'
+      - '{''label'': ''Not visible''}'
+      required: false
+    - id: 14
+      name: emergency_exit_signs_condition
+      label: Emergency Exit Sign Condition
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Intact''}'
+      - '{''label'': ''Not intact''}'
+      required: false
+    - id: 15
+      name: evacuation_plan_section
+      label: Evacuation Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: evacuation_procedure_section
+      label: Evacuation Procedure
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: first_aid_kits_section
+      label: First Aid Kits
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Available''}'
+      - '{''label'': ''Not available''}'
+      required: false
+    - id: 18
+      name: first_aid_kits_contents
+      label: First Aid Kit Contents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: emergency_exit_lights_section
+      label: Emergency Exit Lights
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Working''}'
+      - '{''label'': ''Not working''}'
+      required: false
+    - id: 20
+      name: emergency_exit_path_condition_section
+      label: Emergency Exit Path
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Clear''}'
+      - '{''label'': ''Not clear''}'
+      required: false
+    - id: 21
+      name: emergency_exit_signs_condition_section
+      label: Emergency Exit Signs Condition
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Intact''}'
+      - '{''label'': ''Not intact''}'
+      required: false
+    - id: 22
+      name: fire_supervision
+      label: Fire Supervision
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: fire_supervision_details
+      label: Fire Supervision Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: fire_supervision_frequency
+      label: Fire Supervision Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Daily''}'
+      - '{''label'': ''Weekly''}'
+      - '{''label'': ''Monthly''}'
+      required: false
+    - id: 25
+      name: emergency_exit_path_location
+      label: Emergency Exit Path
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: emergency_exit_path_location_designated
+      label: Emergency Exit Path
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 27
+      name: first_aid_kits_location
+      label: First Aid Kits
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Designated area''}'
+      - '{''label'': ''Not designated area''}'
+      required: false
+    - id: 28
+      name: first_aid_kits_location_designated
+      label: First Aid Kits
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 29
+      name: fire_extinguisher_service
+      label: Fire Extinguisher
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Monthly''}'
+      - '{''label'': ''Not monthly''}'
+      required: false
+    - id: 30
+      name: emergency_exit_path_condition_designated
+      label: Emergency Exit Path
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 31
+      name: emergency_exit_lights_service
+      label: Emergency Exit Lights
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Monthly''}'
+      - '{''label'': ''Not monthly''}'
+      required: false
+    - id: 32
+      name: emergency_exit_signs_service
+      label: Emergency Exit Signs
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Monthly''}'
+      - '{''label'': ''Not monthly''}'
+      required: false
+    - id: 33
+      name: first_aid_kits_service
+      label: First Aid Kits
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Monthly''}'
+      - '{''label'': ''Not monthly''}'
+      required: false
+    - id: 34
+      name: evacuation_plan_service
+      label: Evacuation Plan
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Monthly''}'
+      - '{''label'': ''Not monthly''}'
+      required: false
+    - id: 35
+      name: fire_extinguisher_service
+      label: Fire Extinguisher
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Monthly''}'
+      - '{''label'': ''Not monthly''}'
+      required: false
+    - id: 36
+      name: emergency_exit_path_location_service
+      label: Emergency Exit Path
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Monthly''}'
+      - '{''label'': ''Not monthly''}'
+      required: false
+    - id: 37
+      name: fire_supervision_frequency
+      label: Fire Supervision
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Daily''}'
+      - '{''label'': ''Not daily''}'
+      required: false
+    - id: 38
+      name: first_aid_kits_location_service
+      label: First Aid Kits
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Monthly''}'
+      - '{''label'': ''Not monthly''}'
+      required: false
+    - id: 39
+      name: first_aid_kits_location_designated_service
+      label: First Aid Kits
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Monthly''}'
+      - '{''label'': ''Not monthly''}'
+      required: false
+    - id: 40
+      name: fire_extinguisher_service_frequency
+      label: Fire Extinguisher
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Daily''}'
+      - '{''label'': ''Not daily''}'
+      required: false
+    - id: 41
+      name: emergency_exit_path_condition_service
+      label: Emergency Exit Path
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Monthly''}'
+      - '{''label'': ''Not monthly''}'
+      required: false
+    - id: 42
+      name: emergency_exit_signs_location_service
+      label: Emergency Exit Signs
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Monthly''}'
+      - '{''label'': ''Not monthly''}'
+      required: false
+    - id: 43
+      name: emergency_exit_signs_condition_service
+      label: Emergency Exit Signs
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Monthly''}'
+      - '{''label'': ''Not monthly''}'
+      required: false
+    - id: 44
+      name: first_aid_kits_service_frequency
+      label: First Aid Kits
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Daily''}'
+      - '{''label'': ''Not daily''}'
+      required: false
+    - id: 45
+      name: emergency_exit_path_designated_service
+      label: Emergency Exit Path
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Monthly''}'
+      - '{''label'': ''Not monthly''}'
+      required: false

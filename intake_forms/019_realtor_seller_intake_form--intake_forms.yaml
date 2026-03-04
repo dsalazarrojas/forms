@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: realtor-seller-intake-form
+    pages:
+    - id: 1
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: property_type
+      label: property_type
+      hint: null
+      type: select_multiple
+      options:
+      - Residential
+      - Commercial
+      - Mixed Use
+      - Industrial
+      - Land
+      required: true
+    - id: 3
+      name: asking_price
+      label: asking price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: number_beds
+      label: number of beds
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: number_baths
+      label: number of baths
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: property_square_footage
+      label: property square footage
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: year_built
+      label: year built
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: lot_size
+      label: lot size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: lot_features
+      label: lot features
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: property_type_additional
+      label: additional property type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: property_description
+      label: property description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: asking_date
+      label: asking date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: asking_time
+      label: asking time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 14
+      name: photo_url
+      label: photo url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: photo_description
+      label: photo description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: photo_alt
+      label: photo alt
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: photo_caption
+      label: photo caption
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: agent_name
+      label: agent name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: agent_email
+      label: agent email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 20
+      name: agent_phone
+      label: agent phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: property_owner
+      label: property owner
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Pending
+      required: true
+    - id: 22
+      name: owner_verification_method
+      label: owner verification method
+      hint: null
+      type: select_multiple
+      options:
+      - Online Verification
+      - Offline Verification
+      - No Verification
+      required: true
+    - id: 23
+      name: owner_verification_docs
+      label: owner verification docs
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: owner_notes
+      label: owner notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: owner_signature
+      label: owner signature
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animal Welfare Event Coverage Consent Form
+    pages:
+    - id: 1
+      name: participant_owner_name
+      label: Participant or Owner Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: animal_names_list
+      label: Animal Names
+      hint: List all animals involved in the coverage
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: event_name_title
+      label: Event Name or Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: event_date_scheduled
+      label: Date of Event
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: media_type_consented
+      label: Authorized Media Types
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Photography - Digital and Print
+      - Video Recording - Including B-roll
+      - Audio Interview and Recording
+      - Live Streaming on Social Media
+      required: true
+    - id: 6
+      name: intended_use_scope
+      label: Intended Use and Scope
+      hint: Where will this media be used?
+      type: select_multiple
+      options:
+      - Social Media - Facebook, Instagram, etc.
+      - Organization Website
+      - Local or National News Coverage
+      - Annual Report and Newsletters
+      - Promotional Advertisements
+      required: true
+    - id: 7
+      name: identity_permission_status
+      label: Permission to Identify by Full Name
+      hint: null
+      type: select_one
+      options:
+      - Yes - Name may be used
+      - No - Use pseudonym or no name
+      required: true
+    - id: 8
+      name: consent_duration_term
+      label: Duration of Consent
+      hint: null
+      type: select_one
+      options:
+      - 1 Year from event date
+      - 5 Years from event date
+      - Indefinite - No expiration
+      required: true
+    - id: 9
+      name: revocation_policy_ack
+      label: Revocation Policy Acknowledgment
+      hint: I understand I can revoke this consent in writing at any time
+      type: select_one
+      options:
+      - I understand and acknowledge
+      - Other
+      required: true
+    - id: 10
+      name: signature_digital_consent
+      label: Digital Signature
+      hint: Enter your full name
+      type: text
+      options: []
+      required: true

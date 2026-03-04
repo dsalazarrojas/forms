@@ -1,0 +1,70 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Employee Handbook Acknowledgement Form
+    pages:
+    - id: 1
+      name: company_handbook
+      label: Company Handbooks
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_read
+      label: Date Read
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: understand
+      label: Do you understand this form is a document that outlines expectations
+        and guidelines of the workplace?
+      hint: null
+      type: select_one
+      options:
+      - I understand and agree to the terms of the Employee Handbook.
+      - I do not understand and need further clarification.
+      required: false
+    - id: 4
+      name: agree
+      label: Do you agree to comply with the guidelines outlined in the handbook?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 5
+      name: employee_acknowledgement
+      label: Employee Acknowledgement
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: supervisor_signature
+      label: Supervisor Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date_acknowledged
+      label: Date Acknowledged
+      hint: null
+      type: date
+      options: []
+      required: false

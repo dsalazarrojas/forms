@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fire Alarm Inspection Report Template
+    pages:
+    - id: 1
+      name: first_page
+      label: first page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: system_description
+      label: system description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: alarm_status
+      label: alarm status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 4
+      name: panel_type
+      label: panel type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: panel_location
+      label: panel location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: zone_status
+      label: zone status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 7
+      name: zone_status_description
+      label: zone status description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: system_inspected
+      label: system inspected
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: system_inspected_by
+      label: system inspected by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: system_inspected_timestamp
+      label: system inspected timestamp
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: system_repaired
+      label: system repaired
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: system_repaired_by
+      label: system repaired by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: system_repaired_timestamp
+      label: system repaired timestamp
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: additional_comments
+      label: additional comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: system_status_description
+      label: system status description
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 16
+      name: system_status_description_2
+      label: system status description 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: inspection_date
+      label: inspection date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: system_status
+      label: system status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 19
+      name: panel_inspection_date
+      label: panel inspection date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: system_inspection_date
+      label: system inspection date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: system_inspection_notes
+      label: system inspection notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: system_repaired_notes
+      label: system repaired notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: fire_alarm_system
+      label: fire alarm system
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: system_type
+      label: system type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: system_description_1
+      label: system description 1
+      hint: null
+      type: text
+      options: []
+      required: false

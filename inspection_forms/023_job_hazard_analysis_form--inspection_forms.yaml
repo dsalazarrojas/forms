@@ -1,0 +1,140 @@
+inputSchema:
+  type: object
+  properties:
+    title: Job Hazard Analysis Form
+    pages:
+    - id: 1
+      name: job_hazard_analysis_form
+      label: Job Hazard Analysis Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: job_category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Safety Hazard
+      - Non-Safety Hazard
+      - Unknown
+      required: false
+    - id: 3
+      name: hazard_description
+      label: Hazard Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: hazard_location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: risk_assessment
+      label: Risk Assessment
+      hint: null
+      type: select_multiple
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 6
+      name: corrective_action
+      label: Corrective Action
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: preventive_action
+      label: Preventive Action
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: job_hazard_control_measures
+      label: Job Hazard Control Measures
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: job_hazard_frequency
+      label: Job Hazard Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Yearly
+      required: false
+    - id: 10
+      name: job_hazard_severity
+      label: Job Hazard Severity
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 11
+      name: job_hazard_likelihood
+      label: Job Hazard Likelihood
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 12
+      name: job_hazard_control_status
+      label: Job Hazard Control Status
+      hint: null
+      type: select_one
+      options:
+      - Implemented
+      - Not Implemented
+      - Unknown
+      required: false
+    - id: 13
+      name: job_hazard_status
+      label: Job Hazard Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Unknown
+      required: false
+    - id: 14
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

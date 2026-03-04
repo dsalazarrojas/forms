@@ -1,0 +1,144 @@
+inputSchema:
+  type: object
+  properties:
+    title: Aesthetic Surgery Clinic Intake Form
+    pages:
+    - id: 1
+      name: personal_info_header
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: dob
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Mobile Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: address
+      label: Home Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: emergency_contact
+      label: Emergency Contact Name & Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: referral_source
+      label: How did you hear about us?
+      hint: null
+      type: select_one
+      options:
+      - Google Search
+      - Social Media
+      - Friend / Family
+      - Doctor Referral
+      - Advertisement
+      required: false
+    - id: 10
+      name: medical_history_header
+      label: -- Medical History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: current_medications
+      label: Current Medications / Supplements
+      hint: Please list all.
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: allergies
+      label: Drug Allergies
+      hint: List any allergies (e.g., Penicillin, Latex).
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: smoling_status
+      label: Do you smoke?
+      hint: Smoking can affect healing.
+      type: select_one
+      options:
+      - true
+      - false
+      - Occasionally
+      - Former Smoker
+      required: true
+    - id: 14
+      name: alcohol_consumption
+      label: Alcohol Consumption
+      hint: Drinks per week.
+      type: select_one
+      options:
+      - None
+      - 1-3 drinks/week
+      - 4-7 drinks/week
+      - 8+ drinks/week
+      required: true
+    - id: 15
+      name: past_surgeries
+      label: Past Surgeries
+      hint: List previous operations and dates.
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: consultation_goals_header
+      label: -- Consultation Goals --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: primary_concern
+      label: What is your primary aesthetic concern?
+      hint: e.g., nose shape, wrinkles, body contouring.
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: desired_outcome
+      label: What is your desired outcome?
+      hint: Describe your ideal result.
+      type: text
+      options: []
+      required: true

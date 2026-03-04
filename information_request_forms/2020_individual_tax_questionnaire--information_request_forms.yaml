@@ -1,0 +1,208 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: 2020 Individual Tax Questionnaire
+    pages:
+    - id: 1
+      name: section_header_contact
+      label: '--- Personal and Contact Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: Enter your legal full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email address
+      hint: Must be a valid email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone number
+      hint: Include area code
+      type: phone
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of birth
+      hint: Format YYYY-MM-DD
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: ssn_last4
+      label: SSN (last 4 digits)
+      hint: Last 4 digits of your SSN, no dashes
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: filing_status
+      label: Filing status
+      hint: Choose the status that applies to your 2020 tax filing
+      type: select_one
+      options:
+      - Single
+      - Married filing jointly
+      - Married filing separately
+      - Head of household
+      - Qualifying widow(er)
+      required: true
+    - id: 8
+      name: dependents_count
+      label: Number of dependents claimed
+      hint: Enter a whole number
+      type: integer
+      options: []
+      required: true
+    - id: 9
+      name: prior_year_return_received
+      label: Did you receive a copy of your 2020 return?
+      hint: Select the appropriate option
+      type: select_one
+      options:
+      - true
+      - false
+      - Not applicable
+      required: true
+    - id: 10
+      name: prior_year_return_received_date
+      label: Date received (if applicable)
+      hint: If you received the return, enter the date received
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: tax_year
+      label: Tax year
+      hint: Enter the year of the tax return (e.g., 2020)
+      type: integer
+      options: []
+      required: true
+    - id: 12
+      name: tax_preparer
+      label: Who prepared your 2020 return?
+      hint: Choose the appropriate preparer
+      type: select_one
+      options:
+      - Self
+      - CPA
+      - Tax attorney
+      - Tax preparation service
+      - Other
+      required: true
+    - id: 13
+      name: tax_preparer_name
+      label: Name of the preparer (if applicable)
+      hint: Provide the full name of the preparer
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: tax_preparer_contact
+      label: Preparer contact information
+      hint: Email or phone of the preparer
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: tax_documents_received
+      label: Tax documents received
+      hint: Select all documents you have received
+      type: select_multiple
+      options:
+      - W-2
+      - 1099-INT
+      - 1099-DIV
+      - 1099-R
+      - 1099-MISC
+      - 1099-NEC
+      - 1040
+      - 1040A
+      - 1040EZ
+      - 1040X
+      required: false
+    - id: 16
+      name: tax_document_notes
+      label: Additional document notes
+      hint: Note any missing or additional documents
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: section_header_rating
+      label: '--- Questionnaire Rating ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: satisfaction
+      label: How satisfied are you with the 2020 Individual Tax Questionnaire?
+      hint: Please select one option
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 19
+      name: overall_rating
+      label: Overall rating (1-10)
+      hint: 1 = worst, 10 = best
+      type: integer
+      options: []
+      required: true
+    - id: 20
+      name: experience_aspects
+      label: Which aspects applied to your experience? (select all)
+      hint: Choose all that apply
+      type: select_multiple
+      options:
+      - Easy to use
+      - Fast
+      - Reliable
+      - Missing feature
+      - Confusing
+      - Well designed
+      required: false
+    - id: 21
+      name: open_feedback
+      label: Suggestions for improvement
+      hint: Please share any suggestions or feedback
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: additional_comments
+      label: Additional comments or notes
+      hint: Any other comments or questions you would like to add
+      type: text
+      options: []
+      required: false

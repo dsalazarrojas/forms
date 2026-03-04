@@ -1,0 +1,302 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animal Care Insurance Claim Request
+    pages:
+    - id: 1
+      name: policyholder_name
+      label: Policyholder Full Name
+      hint: Name of insured pet owner
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: policyholder_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: policyholder_phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: policyholder_address
+      label: Address
+      hint: Street, city, state, zip
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: claim_intro
+      label: Pet Insurance Claim Request Form
+      hint: Please complete all sections to submit your insurance claim
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: policy_number
+      label: Policy Number
+      hint: Insurance policy ID
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: claim_date
+      label: Claim Submission Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: pet_information
+      label: Pet Information
+      hint: Details about insured pet
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: pet_name
+      label: Pet's Name
+      hint: Name of pet
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: pet_species
+      label: Species
+      hint: Type of animal
+      type: select_one
+      options:
+      - Dog
+      - Cat
+      - Bird
+      - Exotic
+      - Other
+      required: true
+    - id: 11
+      name: pet_breed
+      label: Breed
+      hint: Breed or mix
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: pet_dob
+      label: Pet Date of Birth
+      hint: DOB or approximate age
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: incident_details
+      label: Incident Details
+      hint: Information about the claim
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: incident_date
+      label: Date of Incident or Illness Onset
+      hint: When did it occur
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: incident_type
+      label: Type of Claim
+      hint: Claim category
+      type: select_one
+      options:
+      - Accident or injury
+      - Illness or disease
+      - Routine wellness
+      - Emergency care
+      - Surgery
+      - Medication
+      - Diagnostic testing
+      - Other
+      required: true
+    - id: 16
+      name: incident_description
+      label: Describe What Happened
+      hint: Full description of incident or symptoms
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: veterinary_clinic
+      label: Veterinary Clinic Name
+      hint: Where was treatment received
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: clinic_address
+      label: Clinic Address
+      hint: Street, city, state, zip
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: veterinarian_name
+      label: Veterinarian Name
+      hint: Treating vet
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: vet_phone
+      label: Veterinarian Phone
+      hint: Clinic phone
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: diagnosis
+      label: Diagnosis
+      hint: Veterinary diagnosis
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: treatment_provided
+      label: Treatment Provided
+      hint: Describe treatments
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: cost_breakdown
+      label: Cost Breakdown
+      hint: Itemized costs
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: examination_fee
+      label: Examination Fee
+      hint: Cost in dollars
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: treatment_cost
+      label: Treatment Cost
+      hint: Cost in dollars
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: medication_cost
+      label: Medication Cost
+      hint: Cost in dollars
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: testing_cost
+      label: Diagnostic Testing Cost
+      hint: Cost in dollars
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: other_costs
+      label: Other Costs
+      hint: Additional expenses
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: total_claim_amount
+      label: Total Claim Amount
+      hint: Sum of all costs
+      type: text
+      options: []
+      required: true
+    - id: 30
+      name: previous_claims
+      label: Have You Filed Previous Claims for This Pet
+      hint: Claims history
+      type: select_one
+      options:
+      - No - first claim
+      - Yes - 1-2 previous claims
+      - Yes - 3 or more previous claims
+      required: true
+    - id: 31
+      name: pre_existing_condition
+      label: Is This Related to a Pre-existing Condition
+      hint: Pre-existing status
+      type: select_one
+      options:
+      - false
+      - true
+      - Unsure
+      required: true
+    - id: 32
+      name: supporting_documents
+      label: Supporting Documents
+      hint: Attach invoices, records, etc.
+      type: note
+      options: []
+      required: false
+    - id: 33
+      name: documents_attached
+      label: Which Documents Are You Attaching
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Veterinary invoice
+      - Medical records
+      - Prescription receipts
+      - Lab results
+      - Imaging reports
+      - Referral letter
+      - Other
+      required: true
+    - id: 34
+      name: payment_preference
+      label: Payment Preference
+      hint: How to receive reimbursement
+      type: select_one
+      options:
+      - Direct deposit
+      - Check by mail
+      - Same as previous claims
+      required: true
+    - id: 35
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false
+    - id: 36
+      name: declaration
+      label: I declare that the information provided is true and accurate
+      hint: Declaration
+      type: select_one
+      options:
+      - Yes - I declare
+      - false
+      required: true
+    - id: 37
+      name: policyholder_signature
+      label: Policyholder Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: true
+    - id: 38
+      name: signature_date
+      label: Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true

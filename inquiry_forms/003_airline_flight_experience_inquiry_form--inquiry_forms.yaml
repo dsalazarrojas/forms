@@ -1,0 +1,100 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Airline Flight Experience Inquiry Form
+    pages:
+    - id: 1
+      name: section_passenger_details
+      label: -- Passenger Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: passenger_name
+      label: Passenger name
+      hint: As shown on booking
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact email
+      hint: Provide an email for survey follow up
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: flight_number
+      label: Flight number
+      hint: Example AA1234
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: travel_date
+      label: Travel date
+      hint: Date of the flight
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: travel_class
+      label: Travel class
+      hint: Select the cabin class for this flight
+      type: select_one
+      options: [Economy, Premium economy, Business, First]
+      required: true
+    - id: 7
+      name: seat_comfort_rating
+      label: Seat comfort rating
+      hint: Rate from 1 lowest to 5 highest
+      type: select_one
+      options: [1, 2, 3, 4, 5]
+      required: true
+    - id: 8
+      name: cabin_cleanliness_rating
+      label: Cabin cleanliness rating
+      hint: Rate the cleanliness of the cabin
+      type: select_one
+      options: [1, 2, 3, 4, 5]
+      required: true
+    - id: 9
+      name: crew_friendliness_rating
+      label: Crew friendliness rating
+      hint: Rate the service provided by crew
+      type: select_one
+      options: [1, 2, 3, 4, 5]
+      required: true
+    - id: 10
+      name: meal_satisfaction
+      label: Meal satisfaction
+      hint: If meal was served select satisfaction level
+      type: select_one
+      options: [Very dissatisfied, Dissatisfied, Neutral, Satisfied, Very satisfied]
+      required: false
+    - id: 11
+      name: overall_experience
+      label: Overall experience
+      hint: Select an option that best describes your overall experience
+      type: select_one
+      options: [Very dissatisfied, Dissatisfied, Neutral, Satisfied, Very satisfied]
+      required: true
+    - id: 12
+      name: additional_comments
+      label: Additional comments
+      hint: Any other feedback or suggestions
+      type: text
+      options: []
+      required: false

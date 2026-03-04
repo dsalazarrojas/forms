@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: Roommate Matching Form
+    pages:
+    - id: 1
+      name: personal_info
+      label: Personal Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: living_preferences
+      label: Living Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: roommate_preferences
+      label: Roommate Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: contact_email
+      label: Contact E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: living_status
+      label: Living Status
+      hint: null
+      type: select_one
+      options:
+      - Single
+      - Married
+      - Divorced
+      - Widowed
+      - Living w/ Partner
+      - Living w/ Family
+      - Other
+      required: false
+    - id: 11
+      name: preferred_room_type
+      label: Preferred Room Type
+      hint: null
+      type: select_one
+      options:
+      - Apartment
+      - House
+      - Condo
+      - Townhouse
+      - Other
+      required: false
+    - id: 12
+      name: preferred_location
+      label: Preferred Location
+      hint: null
+      type: select_one
+      options:
+      - City
+      - Suburbs
+      - Rural
+      required: false
+    - id: 13
+      name: smoking
+      label: Smokes
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: pets
+      label: Pets
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

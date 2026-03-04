@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Music School Inquiry Contact Form
+    pages:
+    - id: 1
+      name: form_title
+      label: music_school_inquiry_contact_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: student_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: inquiry_type
+      label: what_do_you_want_to_inquire_about
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Lessons''}'
+      - '{''label'': ''Performance Opportunities''}'
+      - '{''label'': ''Instrument Sales''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 6
+      name: schedule
+      label: when_would_you_like_to_start
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Weekdays''}'
+      - '{''label'': ''Weekends''}'
+      - '{''label'': ''Flexible''}'
+      required: false
+    - id: 7
+      name: message
+      label: do_you_have_any_additional_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false

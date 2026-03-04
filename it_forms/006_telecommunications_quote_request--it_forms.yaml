@@ -1,0 +1,157 @@
+inputSchema:
+  type: object
+  properties:
+    title: Telecommunications Quote Request
+    pages:
+    - id: 1
+      name: quote_request_form
+      label: Quote Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact
+      label: Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: address_line_1
+      label: Address Line 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address_line_2
+      label: Address Line 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: service_locations
+      label: Service Locations
+      hint: List multiple locations separated by commas
+      type: select_multiple
+      options:
+      - Location 1
+      - Location 2
+      - Location 3
+      required: true
+    - id: 12
+      name: service_location_notes
+      label: Service Location Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: service_provider
+      label: Service Provider
+      hint: null
+      type: select_one
+      options:
+      - Service Provider 1
+      - Service Provider 2
+      - Service Provider 3
+      required: true
+    - id: 14
+      name: quote_date
+      label: Quote Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: quote_time
+      label: Quote Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: quote_type
+      label: Quote Type
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 17
+      name: service_description
+      label: Service Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: quote_amount
+      label: Quote Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: quote_currency
+      label: Quote Currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - CAD
+      - Other
+      required: true
+    - id: 20
+      name: terms_and_conditions
+      label: Terms and Conditions
+      hint: null
+      type: note
+      options: []
+      required: false

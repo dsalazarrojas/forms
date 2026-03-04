@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tax Filing Inquiry Form
+    pages:
+    - id: 1
+      name: form_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: form_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: form_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: form_address
+      label: Address
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: form_inquiry_type
+      label: Inquiry Type
+      hint: null
+      type: select_one
+      options:
+      - Tax Preparation
+      - Tax Review
+      - Tax Audit
+      - Tax Filing
+      required: false
+    - id: 7
+      name: form_inquiry_message
+      label: Inquiry Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: form_tax_year
+      label: Tax Year
+      hint: null
+      type: number
+      options: []
+      required: false

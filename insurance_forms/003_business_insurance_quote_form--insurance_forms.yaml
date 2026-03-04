@@ -1,0 +1,158 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Insurance Quote Form
+    pages:
+    - id: 1
+      name: company_name
+      label: Business Name
+      hint: Legal name of your business
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: business_established
+      label: Business Established Date
+      hint: When did your business start?
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: business_address
+      label: Business Address
+      hint: Physical location of operations
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_name
+      label: Contact Person Name
+      hint: Primary contact for policy
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_email
+      label: Email Address
+      hint: Email for policy communications
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: contact_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: business_type
+      label: Type of Business
+      hint: What is your primary business type?
+      type: select_one
+      options:
+      - Retail Store
+      - Office/Professional Services
+      - Contractor
+      - Manufacturing
+      - Restaurant/Food Service
+      - Healthcare Provider
+      - Technology
+      - Other
+      required: true
+    - id: 8
+      name: number_of_employees
+      label: Number of Employees
+      hint: Total employees including owner
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: annual_revenue
+      label: Annual Revenue
+      hint: Approximate yearly revenue
+      type: select_one
+      options:
+      - Under $100,000
+      - $100,000 - $500,000
+      - $500,000 - $1,000,000
+      - $1,000,000 - $5,000,000
+      - Over $5,000,000
+      required: true
+    - id: 10
+      name: coverage_types
+      label: Coverage Types Needed
+      hint: Select all applicable coverage types
+      type: select_multiple
+      options:
+      - General Liability
+      - Property Insurance
+      - Workers Compensation
+      - Professional Liability
+      - Commercial Auto
+      - Cyber Liability
+      - Umbrella Coverage
+      required: true
+    - id: 11
+      name: desired_liability_limit
+      label: Desired General Liability Limit
+      hint: Coverage amount for general liability
+      type: select_one
+      options:
+      - $300,000
+      - $500,000
+      - $1,000,000
+      - $2,000,000
+      - Other
+      required: false
+    - id: 12
+      name: prior_claims
+      label: Have you had prior insurance claims?
+      hint: Any claims in the last 5 years?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 13
+      name: claims_description
+      label: If yes, please describe
+      hint: Details about previous claims
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: safety_programs
+      label: Do you have safety programs?
+      hint: Safety protocols or training programs
+      type: select_one
+      options:
+      - true
+      - false
+      - In Development
+      required: false
+    - id: 15
+      name: preferred_deductible
+      label: Preferred Deductible Amount
+      hint: Higher deductible = lower premium
+      type: select_one
+      options:
+      - $500
+      - $1,000
+      - $2,500
+      - $5,000
+      required: false
+    - id: 16
+      name: policy_start_date
+      label: When do you need coverage to start?
+      hint: Desired effective date
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: additional_notes
+      label: Additional Information
+      hint: Any other relevant details?
+      type: text
+      options: []
+      required: false

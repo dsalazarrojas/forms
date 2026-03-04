@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wills Information Collection Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: relationship_status
+      label: Relationship Status
+      hint: null
+      type: select_one
+      options:
+      - Married
+      - Single
+      - Divorced
+      - Widowed
+      required: false
+    - id: 3
+      name: marital_status
+      label: Marital Status
+      hint: null
+      type: select_one
+      options:
+      - Married
+      - Single
+      - Divorced
+      - Partnered
+      required: false
+    - id: 4
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: instructions
+      label: Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: confirm_instructions
+      label: Confirm Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: confirm_client_name
+      label: Confirm Client Name
+      hint: null
+      type: text
+      options: []
+      required: false

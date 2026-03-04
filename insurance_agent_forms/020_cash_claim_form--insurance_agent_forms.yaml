@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cash Claim Form
+    pages:
+    - id: 1
+      name: claimant_information_section
+      label: -- Claimant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: claimant_name
+      label: Claimant Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: claimant_id
+      label: Claimant ID Number or Policy Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: claimant_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: claimant_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: claim_information_section
+      label: -- Claim Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: claim_number
+      label: Claim Number (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: claim_date
+      label: Claim Date
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: claim_type
+      label: Type of Claim
+      hint: null
+      type: select_one
+      options:
+      - Expense Reimbursement
+      - Petty Cash Replenishment
+      - Cash Advance
+      - Travel Reimbursement
+      - Medical Reimbursement
+      - Damage Claim
+      - Loss Claim
+      - Other
+      required: true
+    - id: 10
+      name: incident_date
+      label: Date of Incident or Expense
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: claim_amount_section
+      label: -- Claim Amount --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: total_claim_amount
+      label: Total Claim Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: currency
+      label: Currency
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: claim_description
+      label: Description of Claim
+      hint: Provide detailed explanation of expenses or loss
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: expense_breakdown_section
+      label: -- Expense Breakdown --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: itemized_expenses
+      label: Itemized List of Expenses
+      hint: List each expense with amount
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: receipt_attached
+      label: Receipts Attached?
+      hint: null
+      type: select_one
+      options:
+      - Yes, all receipts attached
+      - Yes, partial receipts
+      - No receipts available
+      - Will provide later
+      required: true
+    - id: 18
+      name: documentation_section
+      label: -- Supporting Documentation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: documentation_provided
+      label: What Documentation is Included?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Original Receipts
+      - Invoices
+      - Contracts
+      - Photographs
+      - Police Report
+      - Medical Records
+      - Travel Itinerary
+      - Other Documentation
+      required: false
+    - id: 20
+      name: approval_information_section
+      label: -- Approval Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: department_manager
+      label: Department Manager Name
+      hint: For approval purposes
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: manager_approval
+      label: Manager Pre-approval Obtained?
+      hint: null
+      type: select_one
+      options:
+      - Yes, approved
+      - No, pending approval
+      - Not required
+      required: true
+    - id: 23
+      name: account_code
+      label: Account Code or Cost Center
+      hint: For proper allocation
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: payment_method_section
+      label: -- Payment Method --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: payment_method
+      label: Preferred Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Check
+      - Direct Deposit
+      - Cash
+      - Credit to Account
+      - Other
+      required: true

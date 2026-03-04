@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Threshold Configuration Form
+    pages:
+    - id: 1
+      name: threshold_configuration_form
+      label: Threshold Configuration
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: monitoring_condition
+      label: Monitoring Condition
+      hint: Choose a monitoring condition
+      type: select_one
+      options:
+      - '{''id'': ''condition-01'', ''label'': ''Threshold Breached'', ''value'':
+        ''Threshold Breached''}'
+      - '{''id'': ''condition-02'', ''label'': ''Threshold Achieved'', ''value'':
+        ''Threshold Achieved''}'
+      required: false
+    - id: 3
+      name: notification_method
+      label: Notification Method
+      hint: Choose a notification method
+      type: select_one
+      options:
+      - '{''id'': ''method-01'', ''label'': ''Email'', ''value'': ''email''}'
+      - '{''id'': ''method-02'', ''label'': ''Phone'', ''value'': ''phone''}'
+      required: false
+    - id: 4
+      name: action
+      label: Action
+      hint: Choose an action for the breached threshold
+      type: select_one
+      options:
+      - '{''id'': ''action-01'', ''label'': ''Send Alert'', ''value'': ''send_alert''}'
+      - '{''id'': ''action-02'', ''label'': ''Trigger Ticket'', ''value'': ''trigger_ticket''}'
+      required: false
+    - id: 5
+      name: monitoring_frequency
+      label: Monitoring Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: threshold
+      label: Threshold
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: threshold_units
+      label: Threshold Units
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: action_frequency
+      label: Action Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: action_threshold
+      label: Action Threshold
+      hint: null
+      type: number
+      options: []
+      required: false

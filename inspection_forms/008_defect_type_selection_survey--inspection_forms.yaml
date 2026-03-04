@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Defect Type Selection Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: defect_type
+      label: Defect Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: defect_description
+      label: Defect Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: defect_location
+      label: Defect Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: defect_date
+      label: Defect Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: defect_recurring_patterns
+      label: Defect Recurring Patterns
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: defect_frequency
+      label: Defect Frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: defect_status
+      label: Defect Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 9
+      name: defect_priority
+      label: Defect Priority
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: defect_category
+      label: Defect Category
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: defect_subcategory
+      label: Defect Subcategory
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: defect_department
+      label: Defect Department
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: defect_location
+      label: Defect Location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

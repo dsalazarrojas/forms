@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: Certificate Of Insurance Request Form
+    pages:
+    - id: 1
+      name: request_date
+      label: Request Date
+      hint: Date of COI request
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: requester_name
+      label: Requester Name
+      hint: Full name of person requesting COI
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requester_email
+      label: Email Address
+      hint: Email for COI delivery
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: requester_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company_name
+      label: Company Name
+      hint: Name of insured business or organization
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: company_address
+      label: Company Address
+      hint: Business mailing address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: policy_number
+      label: Policy Number
+      hint: Insurance policy number if known
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: certificate_type
+      label: Certificate Type
+      hint: Type of certificate needed
+      type: select_one
+      options:
+      - General liability
+      - Auto liability
+      - Workers compensation
+      - Professional liability
+      - Property insurance
+      - Umbrella coverage
+      - All coverages
+      required: true
+    - id: 9
+      name: certificate_holder_name
+      label: Certificate Holder Name
+      hint: Name of organization requesting COI
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: certificate_holder_address
+      label: Certificate Holder Address
+      hint: Address of certificate holder
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: additional_insured
+      label: Additional Insured Required
+      hint: Should certificate holder be added as additional insured
+      type: select_one
+      options:
+      - Yes - Add as additional insured
+      - No - Certificate holder only
+      required: true
+    - id: 12
+      name: waiver_of_subrogation
+      label: Waiver of Subrogation
+      hint: Is waiver of subrogation required
+      type: select_one
+      options:
+      - Yes - Include waiver
+      - No - Not required
+      required: true
+    - id: 13
+      name: primary_noncontributory
+      label: Primary and Non-Contributory
+      hint: Is primary and non-contributory language required
+      type: select_one
+      options:
+      - Yes - Include language
+      - No - Not required
+      required: false
+    - id: 14
+      name: minimum_coverage_required
+      label: Minimum Coverage Required
+      hint: Minimum coverage amount required by certificate holder
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: project_description
+      label: Project or Contract Description
+      hint: Brief description of the project or work being performed
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: project_location
+      label: Project Location
+      hint: Address where work will be performed
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: contract_start_date
+      label: Contract Start Date
+      hint: When does work begin
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: contract_end_date
+      label: Contract End Date
+      hint: When is work expected to be completed
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: delivery_method
+      label: Delivery Method
+      hint: How should the COI be delivered
+      type: select_one
+      options:
+      - Email to requester
+      - Email to certificate holder
+      - Fax
+      - Postal mail
+      - Upload to portal
+      required: true
+    - id: 20
+      name: rush_request
+      label: Rush Request
+      hint: Is this a rush request
+      type: select_one
+      options:
+      - No - Standard processing
+      - Yes - Rush processing
+      required: true
+    - id: 21
+      name: rush_reason
+      label: Rush Reason
+      hint: Why is rush processing needed
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: special_requirements
+      label: Special Requirements
+      hint: Any special wording or requirements
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: requester_signature
+      label: Requester Signature
+      hint: Type your full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: signature_date
+      label: Signature Date
+      hint: Date of request
+      type: date
+      options: []
+      required: true

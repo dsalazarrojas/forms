@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Software Survey Form
+    pages:
+    - id: 1
+      name: software_survey_form
+      label: Software Survey Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - IT Forms
+      - Other Forms
+      required: false
+    - id: 3
+      name: description
+      label: description
+      hint: A software survey is a questionnaire used by a software company to collect
+        feedback from its users. If you work in software, use our free Software Survey
+        Form to talk to your customers and find out more about how they use your product!
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: output_file
+      label: output_file
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_multiple
+      options:
+      - chatjimmy
+      - other_tool
+      required: false
+    - id: 6
+      name: form_id
+      label: form_id
+      hint: 84399
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false

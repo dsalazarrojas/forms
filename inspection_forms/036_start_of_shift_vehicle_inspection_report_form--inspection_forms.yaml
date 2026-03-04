@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: Start Of Shift Vehicle Inspection Report Form
+    pages:
+    - id: 1
+      name: vehicle_id
+      label: Vehicle Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: vehicle_make
+      label: vehicle-make
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: vehicle_year
+      label: vehicle-year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: odometer_reading
+      label: odometer-reading
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: engine_temperature
+      label: engine-temperature
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      - Normal
+      required: false
+    - id: 6
+      name: engine_oil_level
+      label: engine-oil-level
+      hint: null
+      type: select_multiple
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 7
+      name: oil_condition
+      label: oil-condition
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Bad
+      required: false
+    - id: 8
+      name: tire_pressure
+      label: tire-pressure
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: tire_condition
+      label: tire-condition
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Bad
+      required: false
+    - id: 10
+      name: brake_condition
+      label: brake-condition
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Bad
+      required: false
+    - id: 11
+      name: steering_condition
+      label: steering-condition
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Bad
+      required: false
+    - id: 12
+      name: suspension_condition
+      label: suspension-condition
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Bad
+      required: false
+    - id: 13
+      name: frame_condition
+      label: frame-condition
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Bad
+      required: false
+    - id: 14
+      name: wheel_condition
+      label: wheel-condition
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Bad
+      required: false
+    - id: 15
+      name: battery_condition
+      label: battery-condition
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Bad
+      required: false
+    - id: 16
+      name: transmission_condition
+      label: transmission-condition
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Bad
+      required: false
+    - id: 17
+      name: electrical_systems
+      label: electrical-systems
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: air_fuel_ratio
+      label: air-fuel-ratio
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: cooling_system
+      label: cooling-system
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Bad
+      required: false
+    - id: 20
+      name: brakes_worn
+      label: brakes-worn
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Bad
+      required: false

@@ -1,0 +1,124 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wall Surface Inspection Checklist
+    pages:
+    - id: 1
+      name: property_id
+      label: Property ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: inspection_date
+      label: Inspection Date
+      hint: YYYY/MM/DD
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: wall_surface_type
+      label: Wall Surface Type
+      hint: null
+      type: select_one
+      options:
+      - Concrete
+      - Drywall
+      - Painted
+      - Wood
+      required: true
+    - id: 4
+      name: wall_material
+      label: Wall Material
+      hint: null
+      type: select_multiple
+      options:
+      - Concrete Block
+      - Drywall
+      - Painted
+      - Plaster
+      - Wood
+      required: false
+    - id: 5
+      name: condition
+      label: Condition
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 6
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: inspector_name
+      label: Inspector Name
+      hint: Last Name, First Name
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: inspector_phone
+      label: Inspector Phone
+      hint: XXX-XXX-XXXX or XXX XXX XXXX
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: inspector_email
+      label: Inspector Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: property_manager_name
+      label: Property Manager Name
+      hint: Last Name, First Name
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: property_manager_phone
+      label: Property Manager Phone
+      hint: XXX-XXX-XXXX or XXX XXX XXXX
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: property_manager_email
+      label: Property Manager Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: follow_up
+      label: Follow Up
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: follow_up_note
+      label: Follow Up Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: completed
+      label: Completed
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true

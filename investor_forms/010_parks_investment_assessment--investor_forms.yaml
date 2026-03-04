@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Parks Investment Assessment
+    pages:
+    - id: 1
+      name: park_id
+      label: park
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: condition
+      label: condition
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''very_good''}'
+      - '{''id'': 2, ''label'': ''good''}'
+      - '{''id'': 3, ''label'': ''fair''}'
+      - '{''id'': 4, ''label'': ''poor''}'
+      required: true
+    - id: 4
+      name: score
+      label: score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: improvement_1
+      label: improvement_1
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''walkability''}'
+      - '{''id'': 2, ''label'': ''accessibility''}'
+      - '{''id'': 3, ''label'': ''safety''}'
+      required: true
+    - id: 6
+      name: improvement_2
+      label: improvement_2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''walkability''}'
+      - '{''id'': 2, ''label'': ''accessibility''}'
+      - '{''id'': 3, ''label'': ''safety''}'
+      required: true
+    - id: 7
+      name: priority_level
+      label: priority_level
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''high''}'
+      - '{''id'': 2, ''label'': ''medium''}'
+      - '{''id'': 3, ''label'': ''low''}'
+      required: true
+    - id: 8
+      name: funding_suggestion
+      label: funding_suggestion
+      hint: null
+      type: text
+      options: []
+      required: false

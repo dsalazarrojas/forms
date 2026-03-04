@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Manuscript Submission Form
+    pages:
+    - id: 1
+      name: minimalist_form_submission
+      label: Form Submission
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: manuscript_type
+      label: Manuscript Type
+      hint: null
+      type: select_one
+      options:
+      - Manuscript Submission Form
+      - Book Proposal Form
+      - Other
+      required: false
+    - id: 3
+      name: manuscript_title
+      label: Manuscript Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: authors_name
+      label: Authors Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: manuscript_abstract
+      label: Manuscript Abstract
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: manuscript_file
+      label: Manuscript File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: file_format
+      label: File Format
+      hint: null
+      type: select_multiple
+      options:
+      - pdf
+      - doc
+      - xls
+      - ppt
+      - xlsx
+      required: false
+    - id: 10
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: manuscript_review
+      label: Manuscript Review
+      hint: null
+      type: note
+      options: []
+      required: false

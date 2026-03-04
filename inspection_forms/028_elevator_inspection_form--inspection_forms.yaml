@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Elevator Inspection Form
+    pages:
+    - id: 1
+      name: elevator_inspection_form
+      label: elevator_inspection
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: maintenance_team
+      label: Maintenance Team
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: maintenance_team_members
+      label: Maintenance Team Members
+      hint: null
+      type: select_multiple
+      options:
+      - Member 1
+      - Member 2
+      - Member 3
+      required: false
+    - id: 4
+      name: inspection_date
+      label: inspection_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: inspection_time
+      label: inspection_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: elevator_location
+      label: Elevator Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: elevator_id
+      label: Elevator ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: elevator_type
+      label: Elevator Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: inspection_notes
+      label: Inspection Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: issues_found
+      label: Issues Found
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 11
+      name: action_items
+      label: Action Items
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: action_items_deadline
+      label: Deadline for Action Items
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: completed_action_items
+      label: Completed Action Items
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 14
+      name: completed_action_items_deadline
+      label: Deadline for Completed Action Items
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: action_items_comments
+      label: Action Items Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: safety_certified
+      label: Safety Certified
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 17
+      name: safety_certified_date
+      label: Date Certified
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: inspection_result
+      label: Inspection Result
+      hint: null
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      required: false
+    - id: 19
+      name: completed_checklist
+      label: Completed Checklist
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 20
+      name: completed_checklist_completed_date
+      label: Completed Checklist Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: checklist_comments
+      label: Checklist Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: checklist_status
+      label: Checklist Status
+      hint: null
+      type: select_one
+      options:
+      - Complete
+      - Incomplete
+      required: false
+    - id: 23
+      name: inspection_frequency
+      label: Inspection Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: next_inspection_date
+      label: Next Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: next_inspection_time
+      label: Next Inspection Time
+      hint: null
+      type: time
+      options: []
+      required: false

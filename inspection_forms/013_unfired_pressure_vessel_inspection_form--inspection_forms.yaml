@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Unfired Pressure Vessel Inspection Form
+    pages:
+    - id: 1
+      name: page_1
+      label: unfired_pressure_vessel_inspection_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vessel_details
+      label: vessel_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: safety_inspection
+      label: safety_inspection
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: technician_notes
+      label: technician_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: supervisor_signature
+      label: supervisors_signature
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: inspector_signature
+      label: inspectors_signature
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: date_completed
+      label: date_completed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: category
+      label: category
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: form_category
+      label: form_category
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: form_subcategory
+      label: form_subcategory
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

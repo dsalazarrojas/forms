@@ -1,0 +1,180 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cell Tower Inspection Checklist Form
+    pages:
+    - id: 1
+      name: inspection_date
+      label: Inspection Date
+      hint: Date of tower inspection
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: tower_id
+      label: Tower ID Number
+      hint: Unique identifier for this cell tower
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: tower_location
+      label: Tower Location
+      hint: Address or GPS coordinates
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: inspector_name
+      label: Inspector Name
+      hint: Full name of person conducting inspection
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: structural_integrity
+      label: Structural Integrity Status
+      hint: Assess overall structural condition
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Critical
+      required: true
+    - id: 6
+      name: antenna_condition
+      label: Antenna Condition
+      hint: Check for damage, corrosion, or misalignment
+      type: select_one
+      options:
+      - Functional
+      - Minor Issues
+      - Major Issues
+      - Requires Replacement
+      required: true
+    - id: 7
+      name: cable_inspection
+      label: Cable and Connections Inspection
+      hint: Verify all cables are properly secured and protected
+      type: select_one
+      options:
+      - Pass
+      - Minor Repairs Needed
+      - Major Repairs Needed
+      required: true
+    - id: 8
+      name: grounding_system
+      label: Grounding System Check
+      hint: Verify grounding equipment is intact
+      type: select_one
+      options:
+      - Adequate
+      - Needs Maintenance
+      - Unsafe
+      required: true
+    - id: 9
+      name: rust_corrosion
+      label: Rust or Corrosion Observed
+      hint: Check for rust or corrosion on metal components
+      type: select_one
+      options:
+      - None Detected
+      - Minor
+      - Moderate
+      - Severe
+      required: true
+    - id: 10
+      name: painting_condition
+      label: Paint or Coating Condition
+      hint: Assess protective coating status
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 11
+      name: bolts_fasteners
+      label: Bolts and Fasteners Check
+      hint: Verify all hardware is tight and secure
+      type: select_one
+      options:
+      - All Secure
+      - Some Loose
+      - Multiple Loose
+      - Critical Issues
+      required: true
+    - id: 12
+      name: safety_equipment
+      label: Safety Equipment Present
+      hint: Check for climbing aids, ladders, safety cages
+      type: select_multiple
+      options:
+      - Climbing Aids
+      - Safety Cage
+      - Ladder Rungs
+      - Warning Signs
+      - Lighting
+      required: false
+    - id: 13
+      name: rf_hazard_signs
+      label: RF Hazard Warning Signs
+      hint: Verify proper signage is visible
+      type: select_one
+      options:
+      - Present and Clear
+      - Present but Faded
+      - Missing
+      - Illegible
+      required: true
+    - id: 14
+      name: maintenance_needed
+      label: Maintenance Actions Required
+      hint: Describe any repairs or maintenance needed
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: estimated_repair_cost
+      label: Estimated Repair Cost
+      hint: If applicable, estimate cost in USD
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: priority_level
+      label: Repair Priority Level
+      hint: Urgent, High, Medium, or Low
+      type: select_one
+      options:
+      - Urgent
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 17
+      name: photos_attached
+      label: Inspection Photos Attached
+      hint: Whether photographic documentation was provided
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: inspector_signature
+      label: Inspector Signature or Initials
+      hint: Digital signature or initials to verify inspection
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: notes_comments
+      label: Additional Notes and Comments
+      hint: Any other observations or concerns
+      type: text
+      options: []
+      required: false

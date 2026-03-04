@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Cannabinoids Informed Consent Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_address
+      label: Patient Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: doctor_name
+      label: Doctor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_consent
+      label: Date of Consent
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: consent_given
+      label: Consent Given
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: patient_id_number
+      label: Patient ID Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: patient_age
+      label: Age of Patient
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: patient_weight
+      label: Weight of Patient
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: doctor_signature
+      label: Doctor Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: date_of_signature
+      label: Date of Signature
+      hint: null
+      type: date
+      options: []
+      required: true

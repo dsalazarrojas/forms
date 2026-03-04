@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: DevOps Readiness Assessment Form
+    pages:
+    - id: 1
+      name: intro_page
+      label: intro
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 2
+      name: team_size
+      label: team_size
+      hint: How large is your team?
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: experience
+      label: experience
+      hint: null
+      type: select_one
+      options:
+      - Automation
+      - Agile
+      - Scrum
+      - DevOps
+      required: true
+    - id: 4
+      name: tools
+      label: tools
+      hint: null
+      type: select_multiple
+      options:
+      - Automation
+      - Agile
+      - Scrum
+      - DevOps
+      - Other
+      required: true
+    - id: 5
+      name: processes
+      label: processes
+      hint: null
+      type: select_multiple
+      options:
+      - CI/CD Pipelines
+      - Code Reviews
+      - Code Quality
+      - Code Security
+      - Other
+      required: true
+    - id: 6
+      name: culture
+      label: culture
+      hint: null
+      type: select_multiple
+      options:
+      - Collaborative
+      - Flexible
+      - Agile
+      - Customer-Focused
+      - Other
+      required: true
+    - id: 7
+      name: metrics
+      label: metrics
+      hint: null
+      type: select_multiple
+      options:
+      - Code Quality
+      - Deployment Frequency
+      - Lead Time
+      - Other
+      required: true
+    - id: 8
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: name
+      label: name
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: company
+      label: company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: department
+      label: department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: job_title
+      label: job_title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: role
+      label: role
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: additional_feedback
+      label: additional_feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: rating
+      label: rating
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 22
+      name: comment
+      label: comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: rating_reason
+      label: rating_reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,54 @@
+inputSchema:
+  type: object
+  properties:
+    title: tattoo_inquiry_form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: tattoo_inquiry_number
+      label: Tattoo Inquiry Number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: tattoo_inquiry_date
+      label: Tattoo Inquiry Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: tattoo_inquiry_time
+      label: Tattoo Inquiry Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: tattoo_inquiry_details
+      label: Tattoo Inquiry Details
+      hint: null
+      type: text
+      options: []
+      required: false

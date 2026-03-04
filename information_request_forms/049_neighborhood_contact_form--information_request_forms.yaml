@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Neighborhood Contact Form
+    pages:
+    - id: 1
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: address
+      label: street
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: city
+      label: city
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: state
+      label: state
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: zip_code
+      label: zip_code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: message
+      label: message
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - Neighborhood
+      - Block
+      - Other
+      required: true
+    - id: 11
+      name: block_captain
+      label: block_captain
+      hint: null
+      type: select_multiple
+      options:
+      - Jim
+      - Jane
+      - John
+      required: false
+    - id: 12
+      name: notes
+      label: notes
+      hint: null
+      type: date
+      options: []
+      required: false

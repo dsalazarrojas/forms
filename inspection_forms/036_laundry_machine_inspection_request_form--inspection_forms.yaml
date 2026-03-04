@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Laundry Machine Inspection Request Form
+    pages:
+    - id: 1
+      name: contact_details
+      label: contact_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: machine_info
+      label: machine_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: issues
+      label: issues
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: photos
+      label: photos
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: preferred_dates
+      label: preferred_dates
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: attachments
+      label: attachments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submitters
+      label: submitters
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

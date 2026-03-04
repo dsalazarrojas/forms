@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Field Interview Card Log
+    pages:
+    - id: 1
+      name: form_title
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_event
+      label: Date of Event
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time_of_event
+      label: Time of Event
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: location_of_event
+      label: Location of Event
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: name_of_participant
+      label: Name of Participant
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: gender_of_participant
+      label: Gender of Participant
+      hint: null
+      type: select_one
+      options:
+      - Female
+      - Male
+      - Other
+      required: false
+    - id: 8
+      name: age_of_participant
+      label: Age of Participant
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

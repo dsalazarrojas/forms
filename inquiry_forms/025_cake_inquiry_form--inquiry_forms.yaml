@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cake Inquiry Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Your Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: Best email to reach you
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: inquiry_date
+      label: Inquiry Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: event_date
+      label: Event Date
+      hint: When is your event
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: event_type
+      label: Event Type
+      hint: What occasion is this for
+      type: select_one
+      options:
+      - Birthday
+      - Wedding
+      - Anniversary
+      - Graduation
+      - Baby shower
+      - Bridal shower
+      - Corporate event
+      - Holiday celebration
+      - Engagement
+      - Retirement
+      - Other
+      required: true
+    - id: 7
+      name: number_of_guests
+      label: Number of Guests
+      hint: Approximately how many guests
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: cake_type_interest
+      label: Cake Type of Interest
+      hint: What type of cake are you interested in
+      type: select_one
+      options:
+      - Layer cake
+      - Sheet cake
+      - Cupcakes
+      - Cake pops
+      - Tiered cake
+      - Custom sculpted cake
+      - Not sure
+      required: true
+    - id: 9
+      name: preferred_flavors
+      label: Preferred Flavors
+      hint: What flavors interest you
+      type: select_multiple
+      options:
+      - Vanilla
+      - Chocolate
+      - Red Velvet
+      - Lemon
+      - Strawberry
+      - Carrot
+      - Coconut
+      - Marble
+      - Funfetti
+      - Other
+      required: false
+    - id: 10
+      name: budget_range
+      label: Budget Range
+      hint: Approximate budget for cake
+      type: select_one
+      options:
+      - Under $50
+      - $50-$100
+      - $100-$200
+      - $200-$350
+      - $350-$500
+      - Over $500
+      - Not sure
+      required: false
+    - id: 11
+      name: design_ideas
+      label: Design Ideas
+      hint: Describe your vision or theme
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: color_preferences
+      label: Color Preferences
+      hint: Preferred colors for cake design
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: Any allergies or dietary needs
+      type: select_multiple
+      options:
+      - None
+      - Gluten-free
+      - Dairy-free
+      - Vegan
+      - Nut-free
+      - Egg-free
+      - Soy-free
+      - Kosher
+      - Halal
+      required: false
+    - id: 14
+      name: inspiration_photos
+      label: Inspiration Photos
+      hint: Do you have photos to share
+      type: select_one
+      options:
+      - Yes, will send via email
+      - Yes, will bring to consultation
+      - No, but open to suggestions
+      - No, want something unique
+      required: false
+    - id: 15
+      name: consultation_preference
+      label: Consultation Preference
+      hint: How would you like to consult
+      type: select_one
+      options:
+      - In-person meeting
+      - Phone call
+      - Video call
+      - Email only
+      - Text message
+      required: false
+    - id: 16
+      name: how_did_you_hear
+      label: How Did You Hear About Us
+      hint: Where did you find us
+      type: select_one
+      options:
+      - Website
+      - Social media
+      - Friend or family referral
+      - Wedding planner
+      - Event venue
+      - Online search
+      - Advertisement
+      - Other
+      required: false
+    - id: 17
+      name: timeline_flexibility
+      label: Timeline Flexibility
+      hint: How flexible is your event date
+      type: select_one
+      options:
+      - Date is fixed
+      - Somewhat flexible
+      - Very flexible
+      - Still deciding
+      required: false
+    - id: 18
+      name: additional_requests
+      label: Additional Requests
+      hint: Any other questions or special requests
+      type: text
+      options: []
+      required: false

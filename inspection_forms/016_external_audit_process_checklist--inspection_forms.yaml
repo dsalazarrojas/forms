@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: External Audit Process Checklist
+    pages:
+    - id: 1
+      name: general_info
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: audit_type
+      label: Audit Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: audit_status
+      label: Audit Status
+      hint: null
+      type: select_one
+      options:
+      - Audit Complete
+      - In Progress
+      - In Review
+      - Not Started
+      required: true
+    - id: 4
+      name: date_of_audits
+      label: Date of Audits
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: time_of_audits
+      label: Time of Audits
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: auditor_info
+      label: Auditor Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: external_audits
+      label: External Audits
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: findings
+      label: Findings
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: follow_up
+      label: Follow-up
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: location_details
+      label: Location Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: auditor_name
+      label: Auditor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: auditor_title
+      label: Auditor Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: follow_up_schedule
+      label: Follow-up Schedule
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: next_follow_up
+      label: Next Follow-up
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: follow_up_status
+      label: Follow-up Status
+      hint: null
+      type: select_one
+      options:
+      - Complete
+      - In Progress
+      - Not Started
+      required: false
+    - id: 23
+      name: follow_up_comments
+      label: Follow-up Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: review_comments
+      label: Review Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: review_status
+      label: Review Status
+      hint: null
+      type: select_one
+      options:
+      - Complete
+      - In Progress
+      - Not Started
+      required: false

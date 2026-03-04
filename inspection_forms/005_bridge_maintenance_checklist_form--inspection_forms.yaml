@@ -1,0 +1,239 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bridge Maintenance Checklist Form
+    pages:
+    - id: 1
+      name: section_general_info
+      label: -- General Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: bridge_name
+      label: Bridge Name
+      hint: Enter the name or ID of the bridge
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: bridge_location
+      label: Bridge Location
+      hint: Enter the location of the bridge
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: maintenance_date
+      label: Maintenance Date
+      hint: Select the date maintenance was performed
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: crew_leader
+      label: Crew Leader Name
+      hint: Enter the name of the crew leader
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: crew_members
+      label: Number of Crew Members
+      hint: Enter the total number of crew members
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: weather_conditions
+      label: Weather Conditions
+      hint: Select the weather conditions during maintenance
+      type: select_one
+      options:
+      - Clear
+      - Cloudy
+      - Rainy
+      - Snowy
+      - Windy
+      required: true
+    - id: 8
+      name: section_deck_maintenance
+      label: -- Deck Maintenance --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: deck_cleaning
+      label: Deck Cleaning Performed
+      hint: Indicate if deck cleaning was performed
+      type: select_one
+      options:
+      - Completed
+      - Not Required
+      - Deferred
+      required: false
+    - id: 10
+      name: deck_crack_sealing
+      label: Deck Crack Sealing
+      hint: Indicate if crack sealing was performed
+      type: select_one
+      options:
+      - Completed
+      - Not Required
+      - Deferred
+      required: false
+    - id: 11
+      name: expansion_joint_inspection
+      label: Expansion Joint Inspection
+      hint: Indicate the status of expansion joint inspection
+      type: select_one
+      options:
+      - Completed - Good Condition
+      - Completed - Repairs Needed
+      - Not Required
+      required: false
+    - id: 12
+      name: deck_drainage_check
+      label: Deck Drainage Check
+      hint: Indicate if drainage systems were checked
+      type: select_one
+      options:
+      - Completed - Clear
+      - Completed - Cleared Blockage
+      - Not Required
+      required: false
+    - id: 13
+      name: section_structural_maintenance
+      label: -- Structural Maintenance --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: bearing_inspection
+      label: Bearing Inspection
+      hint: Indicate the status of bearing inspection
+      type: select_one
+      options:
+      - Completed - Good Condition
+      - Completed - Lubricated
+      - Completed - Repairs Needed
+      - Not Required
+      required: false
+    - id: 15
+      name: steel_member_inspection
+      label: Steel Member Inspection
+      hint: Indicate the status of steel member inspection
+      type: select_one
+      options:
+      - Completed - No Issues
+      - Completed - Rust Removed
+      - Completed - Paint Touch-up
+      - Completed - Repairs Needed
+      - Not Required
+      required: false
+    - id: 16
+      name: concrete_surface_repair
+      label: Concrete Surface Repair
+      hint: Indicate if concrete repairs were made
+      type: select_one
+      options:
+      - Completed
+      - Not Required
+      - Deferred
+      required: false
+    - id: 17
+      name: section_approach_maintenance
+      label: -- Approach and Safety --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: guardrail_inspection
+      label: Guardrail Inspection
+      hint: Indicate the status of guardrail inspection
+      type: select_one
+      options:
+      - Completed - Good Condition
+      - Completed - Repairs Made
+      - Completed - Repairs Needed
+      - Not Required
+      required: false
+    - id: 19
+      name: approach_roadway_check
+      label: Approach Roadway Check
+      hint: Indicate the status of approach roadway inspection
+      type: select_one
+      options:
+      - Completed - Good Condition
+      - Completed - Patched
+      - Completed - Needs Attention
+      - Not Required
+      required: false
+    - id: 20
+      name: signage_check
+      label: Signage Check
+      hint: Indicate if signage was checked and is adequate
+      type: select_one
+      options:
+      - Completed - All Signs Present
+      - Completed - Signs Replaced
+      - Completed - Signs Needed
+      - Not Required
+      required: false
+    - id: 21
+      name: lighting_inspection
+      label: Lighting Inspection
+      hint: Indicate the status of lighting inspection
+      type: select_one
+      options:
+      - Completed - All Functional
+      - Completed - Bulbs Replaced
+      - Completed - Repairs Needed
+      - Not Required
+      required: false
+    - id: 22
+      name: section_summary
+      label: -- Summary --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: issues_found
+      label: Issues Found
+      hint: Describe any issues found during maintenance
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: repairs_completed
+      label: Repairs Completed
+      hint: List any repairs that were completed
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: follow_up_needed
+      label: Follow-up Actions Needed
+      hint: Describe any follow-up actions required
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: hours_worked
+      label: Total Hours Worked
+      hint: Enter the total hours spent on maintenance
+      type: number
+      options: []
+      required: true
+    - id: 27
+      name: additional_notes
+      label: Additional Notes
+      hint: Enter any additional notes or comments
+      type: text
+      options: []
+      required: false

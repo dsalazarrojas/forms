@@ -1,0 +1,132 @@
+inputSchema:
+  type: object
+  properties:
+    title: Insurance Claim Communication Form
+    pages:
+    - id: 1
+      name: claimant_details
+      label: Claimant Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: claim_description
+      label: Claim Description
+      hint: None
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: claim_date
+      label: Claim Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: claimant_injuries
+      label: Injuries
+      hint: None
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: claimant_diagnosis
+      label: Diagnosis
+      hint: None
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: treatment_cost
+      label: Treatment Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: claimant_expenses
+      label: Expenses
+      hint: None
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: claimant_insurance_provider
+      label: Insurance Provider
+      hint: null
+      type: select_multiple
+      options:
+      - Provider1
+      - Provider2
+      - Provider3
+      required: false
+    - id: 9
+      name: claimant_contact_details
+      label: Contact Details
+      hint: None
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: claimant_signature
+      label: Claimant Signature
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: claimant_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: claimant_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: claimant_note
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: claimant_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: claimant_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: claimant_address
+      label: Address
+      hint: None
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: claimant_document
+      label: Document
+      hint: null
+      type: select_one
+      options:
+      - Document1
+      - Document2
+      - Document3
+      required: false
