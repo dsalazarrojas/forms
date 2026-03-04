@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stranger Connection Application
+    pages:
+    - id: 1
+      name: contact_details
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: interests
+      label: Interests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: communication_preferred
+      label: How you prefer to communicate
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Text Message
+      - Phone Call
+      - Video Chat
+      required: false

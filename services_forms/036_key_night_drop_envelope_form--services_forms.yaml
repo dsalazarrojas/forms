@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Key Night Drop Envelope Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: vehicle_type
+      label: Vehicle Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: vehicle_year
+      label: Vehicle Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_one
+      options:
+      - Vehicle Inspection
+      - Tire Rotation
+      - Oil Change
+      required: true
+    - id: 7
+      name: service_details
+      label: Service Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: vehicle_license_plate
+      label: Vehicle License Plate
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: damage_report
+      label: Damage Report
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: damage_description
+      label: Damage Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: consent
+      label: Consent
+      hint: Check all that apply
+      type: select_multiple
+      options:
+      - I understand that I have a vehicle that may require some kind of service
+      - I need a service
+      - I need a repair
+      required: true
+    - id: 12
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

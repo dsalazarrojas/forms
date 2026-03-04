@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Creative STEM Outreach Network Registration
+    pages:
+    - id: 1
+      name: user_email
+      label: User Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 2
+      name: user_experience
+      label: User Experience
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: user_school
+      label: select_school
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: user_organization
+      label: select_organization
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: prophets_organization
+      label: Prophets Organization
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: organization_description
+      label: Organization Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: interests
+      label: select_interests
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: future_activities
+      label: future_activities
+      hint: null
+      type: note
+      options: []
+      required: false

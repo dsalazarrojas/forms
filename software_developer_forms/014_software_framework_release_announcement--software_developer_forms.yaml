@@ -1,0 +1,151 @@
+inputSchema:
+  type: object
+  properties:
+    title: software_framework_release_announcement
+    pages:
+    - id: 1
+      name: release_date
+      label: Release Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: release_description
+      label: Release Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: change_log
+      label: Change Log
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: release_version
+      label: Release Version
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: release_notes
+      label: Release Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: related_releases
+      label: Related Releases
+      hint: null
+      type: select_one
+      options:
+      - Release 1
+      - Release 2
+      required: true
+    - id: 7
+      name: release_target_audience
+      label: Release Target Audience
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: release_channels
+      label: Release Channels
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: release_status
+      label: Release Status
+      hint: null
+      type: select_one
+      options:
+      - Beta
+      - Alpha
+      - Live
+      required: true
+    - id: 10
+      name: release_notes_attachment
+      label: Release Notes Attachment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: true
+    - id: 12
+      name: review_status
+      label: Review Status
+      hint: null
+      type: select_one
+      options:
+      - In Progress
+      - On Hold
+      - Completed
+      required: false
+    - id: 13
+      name: review_comments
+      label: Review Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: review_duedate
+      label: Review Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: review_assigned_to
+      label: Review Assigned To
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: review_reviewer_comments
+      label: Reviewer Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: review_reviewer_duedate
+      label: Reviewer Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: review_reviewer_assigned_to
+      label: Reviewer Assigned To
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

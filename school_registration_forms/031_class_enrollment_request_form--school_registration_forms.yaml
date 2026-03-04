@@ -1,0 +1,217 @@
+inputSchema:
+  type: object
+  properties:
+    title: Class Enrollment Request Form
+    pages:
+    - id: 1
+      name: student_info_header
+      label: -- Student Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Legal Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer to self-describe
+      required: false
+    - id: 5
+      name: prior_student_id
+      label: Prior Student ID Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_info_header
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: mailing_address
+      label: Mailing Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: state_province
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: postal_code
+      label: Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: enrollment_header
+      label: -- Enrollment Request Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: enrollment_type
+      label: Type of Enrollment
+      hint: null
+      type: select_one
+      options:
+      - Full-time student
+      - Part-time student
+      - Audit
+      - Certificate program
+      - Other
+      required: true
+    - id: 15
+      name: requested_class
+      label: Requested Class or Program
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: current_grade_level
+      label: Current Grade Level
+      hint: null
+      type: select_one
+      options:
+      - Elementary
+      - Middle School
+      - High School
+      - College
+      - Post-Graduate
+      - Adult Learner
+      - Other
+      required: true
+    - id: 17
+      name: semester_requested
+      label: Semester or Term Requested
+      hint: null
+      type: select_one
+      options:
+      - Fall
+      - Spring
+      - Summer
+      - Winter
+      - Other
+      required: true
+    - id: 18
+      name: academic_header
+      label: -- Academic Background --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: school_attending
+      label: Current School or Institution
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: current_gpa
+      label: Current GPA
+      hint: On 4.0 scale if applicable
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: standardized_test_scores
+      label: Standardized Test Scores
+      hint: SAT, ACT, or other relevant scores
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: academic_strengths
+      label: Academic Strengths and Interests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: special_needs
+      label: Any Special Educational Needs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: parent_info_header
+      label: -- Parent or Guardian Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: parent_name
+      label: Parent or Guardian Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: parent_email
+      label: Parent Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 27
+      name: acknowledgment
+      label: I certify that all information provided is accurate and complete
+      hint: null
+      type: select_one
+      options:
+      - Yes, I certify
+      - false
+      required: true

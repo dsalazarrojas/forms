@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Communication Feedback Form
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: communication_channels
+      label: How_do_you_currently_rely_on_for_communication
+      hint: null
+      type: select_multiple
+      options:
+      - '{''Channel 1'': ''Email''}'
+      - '{''Channel 2'': ''SMS''}'
+      - '{''Channel 3'': ''Mobile App''}'
+      - '{''Channel 4'': ''School Website''}'
+      - '{''Channel 5'': ''In-person''}'
+      - '{''Channel 6'': ''Other (please specify)''}'
+      required: false
+    - id: 3
+      name: preferred_communication_channels
+      label: Which_communication_channels_do_you_prefer
+      hint: null
+      type: select_multiple
+      options:
+      - '{''Channel 1'': ''Email''}'
+      - '{''Channel 2'': ''SMS''}'
+      - '{''Channel 3'': ''Mobile App''}'
+      - '{''Channel 4'': ''School Website''}'
+      - '{''Channel 5'': ''In-person''}'
+      - '{''Channel 6'': ''Other (please specify)''}'
+      required: false
+    - id: 4
+      name: communication_effectiveness
+      label: How_effective_is_our_communication
+      hint: null
+      type: select_one
+      options:
+      - Effective
+      - Not Effective
+      required: false
+    - id: 5
+      name: feedback
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: contact
+      label: Contact
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - None
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

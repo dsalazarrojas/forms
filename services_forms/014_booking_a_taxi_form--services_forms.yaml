@@ -1,0 +1,126 @@
+inputSchema:
+  type: object
+  properties:
+    title: Booking A Taxi Form
+    pages:
+    - id: 1
+      name: passenger_name
+      label: Full Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: passenger_phone
+      label: Phone Number
+      hint: Your contact number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: passenger_email
+      label: Email Address
+      hint: Confirmation will be sent here
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: pickup_address
+      label: Pickup Address
+      hint: Where should we pick you up
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: pickup_location_details
+      label: Pickup Location Details
+      hint: Building, floor, landmark, etc.
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: dropoff_address
+      label: Drop-off Address
+      hint: Where are you going
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: dropoff_location_details
+      label: Drop-off Location Details
+      hint: Building, floor, landmark, etc.
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: booking_date
+      label: Pickup Date
+      hint: What date do you need the taxi
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: booking_time
+      label: Pickup Time
+      hint: What time should we pick you up
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: vehicle_type
+      label: Vehicle Type
+      hint: What type of vehicle do you prefer
+      type: select_one
+      options:
+      - Economy Sedan
+      - Comfort Sedan
+      - Premium Sedan
+      - SUV
+      - Van
+      - Any available
+      required: true
+    - id: 11
+      name: number_of_passengers
+      label: Number of Passengers
+      hint: How many people will be traveling
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: number_of_luggage
+      label: Number of Luggage Items
+      hint: How many bags or suitcases
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: special_requirements
+      label: Special Requirements
+      hint: Pet-friendly, wheelchair access, etc.
+      type: select_multiple
+      options:
+      - Pet-friendly vehicle
+      - Wheelchair accessible
+      - Child car seat needed
+      - Extra space for luggage
+      - Air conditioning
+      - None
+      required: false
+    - id: 14
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Cash
+      - Credit card
+      - Debit card
+      - Mobile payment
+      required: true
+    - id: 15
+      name: additional_notes
+      label: Additional Notes
+      hint: Any special instructions or information
+      type: text
+      options: []
+      required: false

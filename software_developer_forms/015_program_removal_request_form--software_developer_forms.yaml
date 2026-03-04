@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Program Removal Request Form
+    pages:
+    - id: 1
+      name: program_removal_request_form_program_name
+      label: Enter Program Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: program_removal_request_form_requester
+      label: Requester's Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: program_removal_request_form_email
+      label: Email
+      hint: Enter a valid email
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: program_removal_request_form_reason
+      label: Reason for Request
+      hint: Enter a clear reason for your request
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: program_removal_request_form_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: program_removal_request_form_agree
+      label: Agree
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''I agree''}'
+      - '{''value'': ''Cancel''}'
+      required: false
+    - id: 7
+      name: program_removal_request_form_request_date_time
+      label: Request Date/Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: program_removal_request_form_program_id
+      label: Program ID
+      hint: null
+      type: number
+      options: []
+      required: false

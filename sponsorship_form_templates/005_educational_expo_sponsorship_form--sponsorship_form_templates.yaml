@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: educational_expo_sponsorship_form
+    pages:
+    - id: 1
+      name: sponsorship_application
+      label: Sponsorship Application
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: sponsor_name
+      label: Sponsor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: institution_type
+      label: Institution Type
+      hint: null
+      type: select_one
+      options:
+      - Educational Institution
+      - Non-Profit Organization
+      - For-Profit Organization
+      required: false
+    - id: 4
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: event_venue
+      label: Event Venue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: event_details
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: support_request_amount
+      label: Support Request Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: support_request_frequency
+      label: Support Request Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 13
+      name: sponsorship_status
+      label: Sponsorship Status
+      hint: null
+      type: select_multiple
+      options:
+      - Pending
+      - Approved
+      - Rejected
+      required: false
+    - id: 14
+      name: assigned_rep
+      label: Assigned Rep
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

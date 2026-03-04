@@ -1,0 +1,50 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mentor Sign Up Form
+    pages:
+    - id: 1
+      name: first_name
+      label: first-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: phone-number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: role
+      label: role
+      hint: null
+      type: select_one
+      options:
+      - Coach
+      - Mentor
+      - Buddy
+      required: false
+    - id: 6
+      name: experience_years
+      label: experience-years
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: print_approval_form
+    pages:
+    - id: 1
+      name: print_approval_form_page_1
+      label: Print Approval Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: select_one
+      options:
+      - Jane Doe
+      - John Doe
+      - Jim Smith
+      required: false
+    - id: 3
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: approval_date
+      label: approval_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: approval_status
+      label: approval_status
+      hint: null
+      type: select_multiple
+      options:
+      - Approved
+      - Declined
+      - In Progress
+      required: false
+    - id: 8
+      name: form_submitted_by
+      label: form_submitted_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: print_approval_form_category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - Wedding Stationery Business
+      - Other
+      required: false
+    - id: 10
+      name: description
+      label: description
+      hint: null
+      type: select_multiple
+      options:
+      - The final approval of the wedding invitation has been given.
+      - The final approval of the wedding invitation has been declined.
+      - The final approval of the wedding invitation is still in progress.
+      required: false

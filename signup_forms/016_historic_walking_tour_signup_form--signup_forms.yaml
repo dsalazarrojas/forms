@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: historic_walking_tour_signup_form
+    pages:
+    - id: 1
+      name: intro
+      label: Historic Walking Tour Signup Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: tour_date
+      label: Tour Date
+      hint: Select the date you'd like to go on the tour
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: tour_time
+      label: Tour Time
+      hint: Select the time of day for the tour
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: tour_time_ending
+      label: Tour End Time
+      hint: The tour will end at this time
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: participant_name
+      label: Participant Name
+      hint: Enter your name
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: tour_scheduling
+      label: Tour Scheduling
+      hint: Select the type of tour you'd like to schedule
+      type: select_one
+      options:
+      - '{''id'': 61, ''label'': ''Morning''}'
+      - '{''id'': 62, ''label'': ''Afternoon''}'
+      - '{''id'': 62, ''label'': ''Evening''}'
+      required: false
+    - id: 7
+      name: participant_email
+      label: Participant Email
+      hint: Enter your email address
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: participant_phone
+      label: Participant Phone
+      hint: Enter your phone number
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: participant_note
+      label: Participant Note
+      hint: Enter any special requests or notes
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false

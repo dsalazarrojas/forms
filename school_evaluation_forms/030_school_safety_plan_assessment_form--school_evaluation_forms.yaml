@@ -1,0 +1,30 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Safety Plan Assessment Form
+    pages:
+    - id: 1
+      name: school_safety_plan
+      label: school safety plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: safety_protocol
+      label: safety protocol
+      hint: null
+      type: select_one
+      options:
+      - Emergency Response Plan
+      - Lockdown Procedure
+      - Fire Evacuation Plan
+      - First Aid Kit Availability
+      required: false
+    - id: 3
+      name: emergency_contact
+      label: emergency contact
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: Athlete Sponsorship Application Form
+    pages:
+    - id: 1
+      name: applicant_info_header
+      label: -- Athlete and Applicant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: athlete_name
+      label: Athlete Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: athlete_dob
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: primary_sport
+      label: Primary Sport
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: team_org
+      label: Current Team or Organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: competition_level
+      label: Current Level of Competition
+      hint: null
+      type: select_one
+      options:
+      - Professional / Elite
+      - National Team Member
+      - Collegiate (D1/D2)
+      - Elite Junior / Academy
+      required: true
+    - id: 7
+      name: sponsorship_goals_header
+      label: -- Sponsorship Request Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: requested_amount
+      label: Sponsorship Funding Amount Requested
+      hint: Provide amount in USD
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: support_categories
+      label: Categories of Support Requested
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Equipment and Competition Gear
+      - Travel and Lodging Support
+      - Coaching and Training Fees
+      - Medical and Physiotherapy Support
+      - Living Expenses and Stiped
+      required: true
+    - id: 10
+      name: sponsorship_duration
+      label: Requested Duration of Sponsorship
+      hint: e.g. 1 year, 2 seasons, One-time event
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: achievements_header
+      label: -- Achievements and Athletic Visibility --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: career_highlights
+      label: Major Career Highlights and Milestones
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: athlete_ranking
+      label: Current World or National Ranking
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: competition_schedule
+      label: Projected Competition Schedule for Next 12 Months
+      hint: List major events
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: media_metrics_header
+      label: -- Social Media and Visibility Metrics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: instagram_handle
+      label: Instagram Handle
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: instagram_reach
+      label: Estimated Average Reach per Post
+      hint: Approximate views/impressions
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: other_social_handles
+      label: Other Relevant Social Media Handles
+      hint: e.g. Twitter/X, YouTube, TikTok
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: traditional_media
+      label: Summary of Traditional Media Coverage
+      hint: TV, Newspaper, Radio appearances
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: deliverables_header
+      label: -- Proposed Sponsor Deliverables --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: sponsor_benefits
+      label: What will the Sponsor receive in return for their support?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Dedicated Social Media Posts
+      - Branding on Competition Gear / Kits
+      - Event Appearances and Speaking
+      - Media Interview Mentions
+      - Mentions in Personal PR and Newsletters
+      required: true
+    - id: 22
+      name: sponsorship_conflicts
+      label: Describe any current sponsorship or branding conflicts
+      hint: Type None if none exist
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: contact_signature_header
+      label: -- Contact and Application Review --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: athlete_email
+      label: Email Address
+      hint: example@domain.com
+      type: email
+      options: []
+      required: true
+    - id: 25
+      name: athlete_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: electronic_signature
+      label: Applicant Electronic Signature
+      hint: Type your full name
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: application_date
+      label: Date of Application
+      hint: null
+      type: date
+      options: []
+      required: true

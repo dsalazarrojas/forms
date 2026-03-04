@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Service Enquiry Form
+    pages:
+    - id: 1
+      name: service_enquiry_form
+      label: Service Enquiry Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: service_name
+      label: serviceName
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: enquiry_details
+      label: enquiryDetails
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: enquiry_contact
+      label: enquiryContact
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: enquiry_email
+      label: enquiryEmail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: enquiry_phone
+      label: enquiryPhone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: service_enquired
+      label: serviceEnquired
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: service_enquiry_message
+      label: serviceEnquiryMessage
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,211 @@
+inputSchema:
+  type: object
+  properties:
+    title: Virtual Horse Show Entry Form
+    pages:
+    - id: 1
+      name: first_page
+      label: horse_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: breed
+      label: Breed
+      hint: null
+      type: select_one
+      options:
+      - Quarter Horse
+      - Pleasure Horse
+      - Halter Pony
+      - Other
+      - Miniature Horse
+      - Pony
+      required: true
+    - id: 3
+      name: class
+      label: Class
+      hint: null
+      type: select_multiple
+      options:
+      - Amateur
+      - Amateur/Professional
+      - Am/Pro
+      - Am/Pro/Youth
+      - Amateur/Professional/Youth
+      required: true
+    - id: 4
+      name: height
+      label: height
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: horse_breed
+      label: Horse Breed
+      hint: null
+      type: select_multiple
+      options:
+      - Quarter Horse
+      - Pleasure Horse
+      - Halter Pony
+      - Other
+      - Miniature Horse
+      - Pony
+      required: true
+    - id: 6
+      name: horse_type
+      label: Horse Type
+      hint: null
+      type: select_multiple
+      options:
+      - Halter
+      - Spotted
+      - Other
+      required: true
+    - id: 7
+      name: sex
+      label: Sex
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      required: true
+    - id: 8
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: sire
+      label: Sire
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: dam
+      label: Dam
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: breeder
+      label: Breeder
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: owner
+      label: Owner
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: trainer
+      label: Trainer
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: trainer_address
+      label: Trainer's Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: contact_person
+      label: Contact Person
+      hint: Enter a contact person for the trainer.
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 17
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: entry_fees
+      label: Entry Fees
+      hint: Total entry fee for all classes
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - PayPal
+      - Check
+      - Bank Transfer
+      - Other
+      required: true
+    - id: 20
+      name: payment_method_other
+      label: Other Payment Method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: show
+      label: Show
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 24
+      name: division
+      label: Division
+      hint: Select the division you'd like to compete in.
+      type: select_multiple
+      options:
+      - Amateur
+      - Amateur/Professional
+      - Am/Pro
+      - Am/Pro/Youth
+      - Amateur/Professional/Youth
+      required: true
+    - id: 25
+      name: entry_date
+      label: Entry Date
+      hint: null
+      type: date
+      options: []
+      required: true

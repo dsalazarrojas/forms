@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Intention of Returning to Campus Form
+    pages:
+    - id: 1
+      name: return_to_campus_interests
+      label: How much interest do you have in returning to campus?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: remote_learning_preference
+      label: What type of remote learning are you interested in?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: face_to_face_learning_preference
+      label: What type of face-to-face learning are you interested in?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: campus_safety
+      label: How safe do you feel on campus?
+      hint: null
+      type: select_one
+      options:
+      - Very safe
+      - Somewhat safe
+      - Somewhat not safe
+      - Not safe at all
+      required: false
+    - id: 5
+      name: campus_culture
+      label: How important is campus culture to your experience?
+      hint: null
+      type: select_one
+      options:
+      - Very important
+      - Somewhat important
+      - Not very important
+      - Not at all important
+      required: false
+    - id: 6
+      name: remote_learning_benefits
+      label: What benefits do you see from remote learning?
+      hint: null
+      type: select_multiple
+      options:
+      - Flexibility
+      - Accessibility
+      - Cost-effectiveness
+      - Other (please specify)
+      required: false
+    - id: 7
+      name: face_to_face_benefits
+      label: What benefits do you see from face-to-face learning?
+      hint: null
+      type: select_multiple
+      options:
+      - Interactions
+      - Personalization
+      - Structured environment
+      - Other (please specify)
+      required: false
+    - id: 8
+      name: other_benefits
+      label: Are there any other benefits you see?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: return_to_campus_commitment
+      label: Are you committed to returning to campus if possible?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Undecided
+      required: false
+    - id: 10
+      name: return_to_campus_important
+      label: How important is returning to campus to you?
+      hint: null
+      type: number
+      options: []
+      required: false

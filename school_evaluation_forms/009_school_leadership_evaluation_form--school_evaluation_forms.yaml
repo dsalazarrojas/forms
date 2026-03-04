@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Leadership Evaluation Form
+    pages:
+    - id: 1
+      name: page_one
+      label: School Leadership Evaluation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: leader_performance
+      label: Leader Performance
+      hint: null
+      type: select_one
+      options:
+      - Leader Development
+      - Effective Communication
+      - Problem Solving
+      - Decision Making
+      - Vision and Goals
+      required: false
+    - id: 3
+      name: evaluation_period
+      label: Evaluation Period
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: leader_competencies
+      label: Leader Competencies
+      hint: null
+      type: select_multiple
+      options:
+      - Leadership
+      - Communication
+      - Problem Solving
+      - Vision and Goals
+      - Interpersonal Skills
+      required: true
+    - id: 5
+      name: evaluation_method
+      label: Evaluation Method
+      hint: null
+      type: select_one
+      options:
+      - 360 Degree Feedback
+      - Feedback Surveys
+      - Interviews
+      - Focus Groups
+      required: true
+    - id: 6
+      name: evaluation_ratings
+      label: Evaluation Ratings
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: evaluation_comments
+      label: Evaluation Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: follow_up_plan
+      label: Follow up plan
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: action_plan
+      label: Action plan
+      hint: null
+      type: select_one
+      options:
+      - Implement
+      - Review
+      - Refine
+      required: true
+    - id: 10
+      name: evaluation_report
+      label: Evaluation Report
+      hint: null
+      type: select_multiple
+      options:
+      - Report to school leader
+      - Report to school leader and HR
+      - Report to school leader, HR and other stakeholders
+      required: false
+    - id: 11
+      name: school_leader
+      label: School Leader
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: leader_performance_period
+      label: Leader Performance Period
+      hint: null
+      type: select_one
+      options:
+      - 6 months
+      - 1 year
+      - 2 years
+      - 3 years
+      - 5 years
+      required: true
+    - id: 13
+      name: evaluation_period
+      label: Evaluation Period
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: school_leader_title
+      label: School Leader Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: school_leader_role
+      label: School Leader Role
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: evaluation_date
+      label: Evaluation Date
+      hint: null
+      type: select_one
+      options:
+      - '2021-01-01'
+      - '2020-12-31'
+      required: false
+    - id: 17
+      name: evaluation_time
+      label: Evaluation Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 18
+      name: school_leader_email
+      label: School Leader Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 19
+      name: school_leader_phone
+      label: School Leader Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: evaluation_methodology
+      label: Evaluation Methodology
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: evaluation_criteria
+      label: Evaluation Criteria
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: evaluation_comments
+      label: Evaluation Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: next_evaluation
+      label: Next Evaluation
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: evaluation_report_sender
+      label: Evaluation Report Sender
+      hint: null
+      type: select_multiple
+      options:
+      - School Leader
+      - School Leader and HR
+      - School Leader, HR and other stakeholders
+      required: true
+    - id: 25
+      name: form_submitted_by
+      label: Form Submitted By
+      hint: null
+      type: text
+      options: []
+      required: true

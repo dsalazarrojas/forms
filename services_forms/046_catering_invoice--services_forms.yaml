@@ -1,0 +1,149 @@
+inputSchema:
+  type: object
+  properties:
+    title: Catering Invoice
+    pages:
+    - id: 1
+      name: invoice_basics_header
+      label: -- Invoice Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: invoice_number
+      label: Invoice Number
+      hint: e.g. INV-2026-001
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: invoice_date
+      label: Date of Invoice
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: payment_due_date
+      label: Payment Due Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: section_client_info
+      label: -- Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: client_name
+      label: Client or Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: billing_address
+      label: Billing Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: client_email_billing
+      label: Billing Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: section_event_summary
+      label: -- Event Summary --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: event_name_ref
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: event_date_service
+      label: Date of Service
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: section_line_items
+      label: -- Billed Items --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: items_description_summary
+      label: Description of Services and Products
+      hint: List items and quantities
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: subtotal_amount
+      label: Subtotal Amount
+      hint: Before tax and fees
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: sales_tax_amount
+      label: Sales Tax
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: service_charge_gratuity
+      label: Service Charge or Gratuity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: total_amount_due
+      label: Total Amount Due
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: section_payment_method
+      label: -- Payment Instructions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: preferred_payment_channel
+      label: Preferred Payment Channel
+      hint: null
+      type: select_one
+      options:
+      - Bank Transfer (wire)
+      - Online Portal (Credit Card)
+      - Company Check by Mail
+      - Cash upon service
+      required: true
+    - id: 20
+      name: billing_manager_signature
+      label: Authorized Billing Manager
+      hint: null
+      type: text
+      options: []
+      required: true

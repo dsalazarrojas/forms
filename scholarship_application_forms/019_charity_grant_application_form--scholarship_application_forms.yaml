@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: Charity Grant Application Form
+    pages:
+    - id: 1
+      name: section_applicant_info
+      label: -- Applicant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: address
+      label: Mailing Address
+      hint: Your complete address
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: section_eligibility
+      label: -- Eligibility Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: citizenship_status
+      label: Citizenship Status
+      hint: Are you a citizen of the country
+      type: select_one
+      options:
+      - Citizen
+      - Permanent Resident
+      - Student Visa
+      - Other
+      required: true
+    - id: 10
+      name: income_level
+      label: Approximate Annual Family Income
+      hint: Your household income
+      type: select_one
+      options:
+      - Under 25k
+      - 25k-50k
+      - 50k-75k
+      - 75k-100k
+      - Over 100k
+      required: true
+    - id: 11
+      name: section_academic
+      label: -- Academic Background --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: current_education_level
+      label: Current Education Level
+      hint: What level are you at
+      type: select_one
+      options:
+      - High School
+      - Associate Degree
+      - Bachelor Degree
+      - Graduate Program
+      - Other
+      required: true
+    - id: 13
+      name: school_name
+      label: Name of School or University
+      hint: Your current institution
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: field_of_study
+      label: Field of Study or Major
+      hint: What are you studying
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: gpa
+      label: Current GPA or Academic Performance
+      hint: If applicable
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: section_need
+      label: -- Financial Need --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: grant_amount_needed
+      label: Amount of Grant Needed
+      hint: How much financial aid do you need
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: financial_need_explanation
+      label: Explain Your Financial Need
+      hint: Describe your circumstances
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: section_goals
+      label: -- Goals and Plans --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: educational_goals
+      label: Your Educational Goals
+      hint: What do you hope to accomplish
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: career_aspirations
+      label: Career Aspirations
+      hint: What do you want to do after graduation
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: how_will_grant_help
+      label: How Will This Grant Help You
+      hint: Explain the impact this grant will have
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: community_involvement
+      label: Community or Volunteer Involvement
+      hint: Tell us about your service
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submission_date
+      label: Application Submission Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true

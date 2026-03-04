@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Daily Wellness Screening Form
+    pages:
+    - id: 1
+      name: parent_info
+      label: Parent Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: parent_name
+      label: Parent Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: symptoms
+      label: Symptoms
+      hint: Fever, Cough, Sore Throat...
+      type: select_multiple
+      options:
+      - Fever
+      - Cough
+      - Sore Throat
+      - Runny Nose
+      - Sore Eyes
+      required: false
+    - id: 5
+      name: fever_status
+      label: Fever?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 6
+      name: cough_status
+      label: Cough?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 7
+      name: sore_throat_status
+      label: Sore Throat?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 8
+      name: sore_eyes_status
+      label: Sore Eyes?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 9
+      name: runny_nose_status
+      label: Runny Nose?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: temperature
+      label: Temperature
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: time_of_last_contact
+      label: Time of Last Contact
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: school_last_attended
+      label: Last Attended School
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: last_contact_location
+      label: Last Contact Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: travel_status
+      label: Travel Status
+      hint: null
+      type: select_one
+      options:
+      - None
+      - 'True'
+      required: false
+    - id: 15
+      name: travel_last_location
+      label: Last Travel Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: travel_date
+      label: Travel Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: travel_reason
+      label: Travel Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: travel_duration
+      label: Travel Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: travel_distance
+      label: Travel Distance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: travel_mode
+      label: Travel Mode
+      hint: null
+      type: select_one
+      options:
+      - Airplane
+      - Bus
+      - Car
+      required: false
+    - id: 21
+      name: travel_group_size
+      label: Travel Group Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: exposure
+      label: Exposure
+      hint: null
+      type: select_one
+      options:
+      - None
+      - 'True'
+      required: false
+    - id: 23
+      name: exposure_description
+      label: Exposure Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: last_questionnaire
+      label: Last Questionnaire
+      hint: null
+      type: select_one
+      options:
+      - Before 24 hours
+      - 24 hours and over
+      required: false
+    - id: 25
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false

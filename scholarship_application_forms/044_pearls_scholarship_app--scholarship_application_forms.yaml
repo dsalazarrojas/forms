@@ -1,0 +1,467 @@
+inputSchema:
+  type: object
+  properties:
+    title: pearls_scholarship_app
+    pages:
+    - id: 1
+      name: general_information
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: pearls_program
+      label: PEARLS Program
+      hint: Which PEARLS program is this application for?
+      type: select_one
+      options:
+      - '{''value'': ''PEARLS''}'
+      - '{''value'': ''PearlsPlus''}'
+      - '{''value'': ''PearlsMax''}'
+      required: false
+    - id: 3
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: school_year
+      label: School Year
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: expected_graduation_date
+      label: Expected Graduation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: current_grade_level
+      label: Current Grade Level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: student_address
+      label: Student Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: parental_contact_name
+      label: Parental Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: parental_contact_phone
+      label: Parental Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: parental_contact_email
+      label: Parental Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: student_parental_relationship
+      label: Student-Parental Relationship
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Biological''}'
+      - '{''value'': ''Adopted''}'
+      - '{''value'': ''Fostered''}'
+      required: false
+    - id: 15
+      name: student_parental_relationship_other
+      label: Other (Describe)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: school_district
+      label: School District
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: student_english_level
+      label: Student-English Level
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: student_math_level
+      label: Student-Math Level
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: student_reading_level
+      label: Student-Reading Level
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: student_social_studies_level
+      label: Student-Social Studies Level
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: student_science_level
+      label: Student-Science Level
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: student_hispanic_origin
+      label: Hispanic Origin
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Hispanic''}'
+      - '{''value'': ''Non-Hispanic''}'
+      required: false
+    - id: 23
+      name: student_race
+      label: Student Race
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: student_disability
+      label: Student Disability
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_information
+      label: Additional Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: parental_contact_address
+      label: Parental Contact Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: school_city
+      label: School City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: school_state
+      label: School State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: student_citizenship
+      label: Student-Citizenship
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Citizen''}'
+      - '{''value'': ''Non-Citizen''}'
+      required: false
+    - id: 30
+      name: student_country_of_origin
+      label: Student-Country of Origin
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: student_language
+      label: Student-Language
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: student_language_other
+      label: Other (If other, specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: student_lived_abroad
+      label: Lived Abroad
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: student_lived_abroad_country
+      label: If yes, country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: school_district_other
+      label: Other (If other, specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 36
+      name: student_languages_spoken
+      label: Student Languages Spoken
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''English''}'
+      - '{''value'': ''Spanish''}'
+      - '{''value'': ''Other''}'
+      - '{''value'': ''Both''}'
+      required: false
+    - id: 37
+      name: additional_languages_spoken
+      label: Additional Languages Spoken
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 38
+      name: student_languages_spoken_other
+      label: Other (Specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 39
+      name: student_languages_spoken_other_1
+      label: Other (Specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 40
+      name: student_languages_spoken_other_1_other
+      label: Other (Specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 41
+      name: student_languages_spoken_other_2
+      label: Other (Specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 42
+      name: student_languages_spoken_other_2_other
+      label: Other (Specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 43
+      name: student_languages_spoken_other_3
+      label: Other (Specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 44
+      name: student_languages_spoken_other_3_other
+      label: Other (Specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 45
+      name: student_languages_spoken_other_4
+      label: Other (Specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 46
+      name: student_languages_spoken_other_4_other
+      label: Other (Specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 47
+      name: student_languages_spoken_other_5
+      label: Other (Specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 48
+      name: student_languages_spoken_other_5_other
+      label: Other (Specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 49
+      name: student_languages_spoken_other_6
+      label: Other (Specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 50
+      name: student_languages_spoken_other_6_other
+      label: Other (Specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 51
+      name: student_languages_spoken_other_7
+      label: Other (Specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 52
+      name: student_languages_spoken_other_7_other
+      label: Other (Specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 53
+      name: student_languages_spoken_other_8
+      label: Other (Specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 54
+      name: student_languages_spoken_other_8_other
+      label: Other (Specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 55
+      name: student_languages_spoken_other_9
+      label: Other (Specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 56
+      name: student_languages_spoken_other_9_other
+      label: Other (Specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 57
+      name: student_languages_spoken_other_10
+      label: Other (Specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 58
+      name: student_languages_spoken_other_10_other
+      label: Other (Specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 59
+      name: student_languages_spoken_other_11
+      label: Other (Specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 60
+      name: student_languages_spoken_other_11_other
+      label: Other (Specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 61
+      name: student_languages_spoken_other_12
+      label: Other (Specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 62
+      name: student_languages_spoken_other_12_other
+      label: Other (Specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 63
+      name: student_languages_spoken_other_13
+      label: Other (Specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 64
+      name: student_languages_spoken_other_13_other
+      label: Other (Specify)
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,185 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cemetery Mapping Form
+    pages:
+    - id: 1
+      name: deceased_name
+      label: Name of Deceased
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: Deceased's birth date
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: date_of_death
+      label: Date of Death
+      hint: When the deceased passed away
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: family_contact_name
+      label: Primary Family Contact Name
+      hint: Name of decision maker
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: family_contact_phone
+      label: Family Contact Phone Number
+      hint: Telephone number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: family_contact_email
+      label: Family Contact Email
+      hint: Email address
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: burial_location_preference
+      label: Preferred Burial Location
+      hint: Choose cemetery section or plot type
+      type: select_one
+      options:
+      - North Section
+      - South Section
+      - East Section
+      - Memorial Garden
+      - Columbarium
+      - Mausoleum
+      required: true
+    - id: 8
+      name: plot_size_preference
+      label: Plot Size Preference
+      hint: Type of burial plot
+      type: select_one
+      options:
+      - Single Plot
+      - Companion Plot
+      - Family Plot
+      - Estate Plot
+      required: true
+    - id: 9
+      name: burial_type
+      label: Type of Burial
+      hint: Casket or cremation
+      type: select_one
+      options:
+      - In-Ground Burial
+      - Cremation with Urn
+      - Mausoleum
+      - Columbar Niche
+      required: true
+    - id: 10
+      name: existing_family_plots
+      label: Existing Family Plots in Cemetery
+      hint: Are there other family members already buried here
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Uncertain
+      required: false
+    - id: 11
+      name: existing_plot_location
+      label: Location of Existing Family Plots
+      hint: Section and plot numbers if known
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: grave_marker_type
+      label: Grave Marker Type Preference
+      hint: Choose marker style
+      type: select_one
+      options:
+      - Flat Bronze Plaque
+      - Granite Monument
+      - Marble Stone
+      - Simple Headstone
+      - Custom Design
+      required: false
+    - id: 13
+      name: inscription_preference
+      label: Inscription or Epitaph Preference
+      hint: Any text for the marker
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: religious_considerations
+      label: Religious or Cultural Considerations
+      hint: Special requirements or customs
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: floral_preferences
+      label: Preferred Flowers or Plants
+      hint: Maintenance preferences for grave site
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: visitation_plans
+      label: Anticipated Frequency of Visits
+      hint: Expected visitation pattern
+      type: select_one
+      options:
+      - Weekly
+      - Monthly
+      - Several Times Per Year
+      - Holidays Only
+      - Infrequent
+      required: false
+    - id: 17
+      name: burial_ceremony_type
+      label: Type of Burial Service
+      hint: Select ceremony or service type
+      type: select_one
+      options:
+      - Full Funeral Service
+      - Graveside Service
+      - Private Service
+      - No Service Planned
+      required: false
+    - id: 18
+      name: additional_services
+      label: Additional Services Requested
+      hint: Select any additional services
+      type: select_multiple
+      options:
+      - Opening and Closing
+      - Flower Arrangement
+      - Monument Installation
+      - Perpetual Care
+      - Vault Service
+      required: false
+    - id: 19
+      name: payment_method
+      label: Payment Method
+      hint: How will plot be paid for
+      type: select_one
+      options:
+      - Prepaid
+      - Insurance
+      - Payment Plan
+      - At Time of Need
+      required: false
+    - id: 20
+      name: special_requests
+      label: Special Requests or Instructions
+      hint: Any other specific requirements
+      type: text
+      options: []
+      required: false

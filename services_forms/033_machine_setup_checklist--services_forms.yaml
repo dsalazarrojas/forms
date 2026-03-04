@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Machine Setup Checklist
+    pages:
+    - id: 1
+      name: machine_setup_checklist_form_data
+      label: Machine Setup Checklist Form Data
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: equipment_id
+      label: Equipment ID
+      hint: null
+      type: select_one
+      options:
+      - Equipment ID 1
+      - Equipment ID 2
+      - Equipment ID 3
+      required: true
+    - id: 3
+      name: machine_name
+      label: Machine Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: setup_date
+      label: Setup Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: calibration_status
+      label: Calibration Status
+      hint: null
+      type: select_multiple
+      options:
+      - Calibrated
+      - Not Calibrated
+      - Needs Calibration
+      required: true
+    - id: 6
+      name: calibration_date
+      label: Calibration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: user_id
+      label: User ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: location
+      label: Location
+      hint: null
+      type: select_one
+      options:
+      - Location 1
+      - Location 2
+      - Location 3
+      required: true
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: completed_by
+      label: Completed By
+      hint: null
+      type: select_one
+      options:
+      - User 1
+      - User 2
+      - User 3
+      required: true
+    - id: 12
+      name: completed_date
+      label: Completed Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: equipment_type
+      label: Equipment Type
+      hint: null
+      type: select_one
+      options:
+      - Type 1
+      - Type 2
+      - Type 3
+      required: false
+    - id: 15
+      name: equipment_serial_number
+      label: Equipment Serial Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: manufacturer
+      label: Manufacturer
+      hint: null
+      type: select_one
+      options:
+      - Manufacturer 1
+      - Manufacturer 2
+      - Manufacturer 3
+      required: false
+    - id: 17
+      name: model_number
+      label: Model Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: model_year
+      label: Model Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: model_number_suffix
+      label: Model Number Suffix
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: machine_type
+      label: Machine Type
+      hint: null
+      type: select_one
+      options:
+      - Type 1
+      - Type 2
+      - Type 3
+      required: false
+    - id: 21
+      name: machine_serial_number
+      label: Machine Serial Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: machine_model_number
+      label: Machine Model Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: machine_manufacturer
+      label: Machine Manufacturer
+      hint: null
+      type: select_one
+      options:
+      - Manufacturer 1
+      - Manufacturer 2
+      - Manufacturer 3
+      required: false
+    - id: 24
+      name: machine_notes
+      label: Machine Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: equipment_notes
+      label: Equipment Notes
+      hint: null
+      type: note
+      options: []
+      required: false

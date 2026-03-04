@@ -1,0 +1,263 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business And Technology Scholarship Application
+    pages:
+    - id: 1
+      name: applicant_info
+      label: Applicant Information
+      hint: Your details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Your full legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Your contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: Your birth date
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: address
+      label: Address
+      hint: Your mailing address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city
+      label: City
+      hint: Your city
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: state
+      label: State or Province
+      hint: Your state or province
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: zip_code
+      label: ZIP or Postal Code
+      hint: Your postal code
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: academic_info
+      label: Academic Information
+      hint: Your education details
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: institution
+      label: Institution Name
+      hint: Name of your school or university
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: institution_type
+      label: Institution Type
+      hint: Type of institution
+      type: select_one
+      options:
+      - High School
+      - Community College
+      - University
+      - Technical School
+      - Other
+      required: true
+    - id: 13
+      name: major
+      label: Major or Field of Study
+      hint: Your primary field of study
+      type: select_one
+      options:
+      - Business Administration
+      - Computer Science
+      - Information Technology
+      - Engineering
+      - Data Science
+      - Finance
+      - Economics
+      - Other Business Field
+      - Other Technology Field
+      required: true
+    - id: 14
+      name: current_year
+      label: Current Year of Study
+      hint: What year are you in
+      type: select_one
+      options:
+      - Freshman
+      - Sophomore
+      - Junior
+      - Senior
+      - Graduate Student
+      - Doctoral Student
+      required: true
+    - id: 15
+      name: gpa
+      label: Current GPA
+      hint: Your grade point average
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: expected_graduation
+      label: Expected Graduation Date
+      hint: When will you graduate
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: financial_info
+      label: Financial Information
+      hint: Your financial situation
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: financial_need
+      label: Level of Financial Need
+      hint: How would you describe your financial need
+      type: select_one
+      options:
+      - High Need
+      - Moderate Need
+      - Some Need
+      - Minimal Need
+      required: true
+    - id: 19
+      name: current_aid
+      label: Current Financial Aid
+      hint: What financial aid do you currently receive
+      type: select_multiple
+      options:
+      - Federal Grants
+      - State Grants
+      - Institutional Scholarships
+      - Student Loans
+      - Work-Study
+      - None
+      required: false
+    - id: 20
+      name: employment_status
+      label: Employment Status
+      hint: Are you currently employed
+      type: select_one
+      options:
+      - Not Employed
+      - Part-Time
+      - Full-Time
+      - Self-Employed
+      required: true
+    - id: 21
+      name: scholarship_essay
+      label: Scholarship Essay
+      hint: Essay questions
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: essay_question_1
+      label: Essay Question 1
+      hint: Why do you deserve this scholarship
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: essay_question_2
+      label: Essay Question 2
+      hint: How will this scholarship help your career goals
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: essay_question_3
+      label: Essay Question 3
+      hint: Describe a challenge you have overcome
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: achievements
+      label: Achievements
+      hint: Your accomplishments
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: academic_achievements
+      label: Academic Achievements
+      hint: Honors, awards, or recognition
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: extracurricular
+      label: Extracurricular Activities
+      hint: Clubs, organizations, or activities
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: community_service
+      label: Community Service
+      hint: Volunteer work or community involvement
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: leadership_roles
+      label: Leadership Roles
+      hint: Any leadership positions held
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: references
+      label: References
+      hint: Provide reference information
+      type: text
+      options: []
+      required: true
+    - id: 31
+      name: transcript_upload
+      label: Transcript
+      hint: Describe how you will submit transcript
+      type: text
+      options: []
+      required: true
+    - id: 32
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

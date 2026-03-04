@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Social Media Strategy Approval Form
+    pages:
+    - id: 1
+      name: social_media_campaign_name
+      label: social media campaign name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: campaign_description
+      label: campaign description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: target_audience
+      label: target audience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: campaign_start_date
+      label: campaign start date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: campaign_end_date
+      label: campaign end date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: campaign_budget
+      label: campaign budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: approval_decision
+      label: approval decision
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Maybe
+      required: false

@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Financial Wellness Survey
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: financial_aid
+      label: Financial Aid
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Pell Grant''}'
+      - '{''label'': ''Federal Work-Study''}'
+      - '{''label'': ''Federal Perkins Loan''}'
+      - '{''label'': ''Institutional''}'
+      - '{''label'': ''Private''}'
+      required: false
+    - id: 4
+      name: income
+      label: Income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: student_employment
+      label: Student Employment
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      - '{''label'': ''Other (please specify)''}'
+      required: false
+    - id: 6
+      name: financial_challenge
+      label: Financial Challenge
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: financial_goal
+      label: Financial Goal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: school_financial_aid_offered
+      label: School Financial Aid Offered
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      - '{''label'': ''Not Applicable''}'
+      required: false
+    - id: 9
+      name: financial_wellness_programs
+      label: Financial Wellness Programs
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Financial Literacy''}'
+      - '{''label'': ''Financial Planning''}'
+      - '{''label'': ''Financial Wellness Program''}'
+      - '{''label'': ''Other (please specify)''}'
+      required: false
+    - id: 10
+      name: other_financial_wellness_programs
+      label: Other Financial Wellness Programs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: other_financial_wellness_programs_details
+      label: Other Financial Wellness Programs Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: school_support_services
+      label: School Support Services
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Academic Advising''}'
+      - '{''label'': ''Career Counseling''}'
+      - '{''label'': ''Financial Aid Office''}'
+      - '{''label'': ''Student Life''}'
+      - '{''label'': ''Other (please specify)''}'
+      required: false
+    - id: 13
+      name: school_support_services_details
+      label: School Support Services Details
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: Share Your Story Form
+    pages:
+    - id: 1
+      name: share_your_story_form_page1
+      label: customer_experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: share_your_story_form_page2
+      label: testimonial
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: share_your_story_form_page3
+      label: photo
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: share_your_story_form_page4
+      label: video
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

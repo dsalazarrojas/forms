@@ -1,0 +1,218 @@
+inputSchema:
+  type: object
+  properties:
+    title: Catering Equipment Report
+    pages:
+    - id: 1
+      name: engineer_name
+      label: Service Engineer Name
+      hint: Name of the engineer
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: engineer_id
+      label: Engineer ID
+      hint: Employee identification number
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: report_date
+      label: Report Date
+      hint: Date of report
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: site_name
+      label: Site Name
+      hint: Name of the location
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: site_address
+      label: Site Address
+      hint: Complete address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: site_contact
+      label: Site Contact Person
+      hint: Contact at the location
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: site_contact_phone
+      label: Site Contact Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: order_number
+      label: Order or Reference Number
+      hint: Job or order reference
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: equipment_category
+      label: Equipment Category
+      hint: Type of equipment
+      type: select_one
+      options:
+      - Cooking Equipment
+      - Refrigeration
+      - Food Preparation
+      - Serving Equipment
+      - Dishwashing
+      - HVAC
+      - Other
+      required: true
+    - id: 10
+      name: equipment_name
+      label: Equipment Name
+      hint: Specific equipment
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: equipment_model
+      label: Equipment Model
+      hint: Model number
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: equipment_serial
+      label: Equipment Serial Number
+      hint: Serial number
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: service_type
+      label: Service Type
+      hint: Type of service performed
+      type: select_one
+      options:
+      - Installation
+      - Routine Maintenance
+      - Repair
+      - Emergency Service
+      - Inspection
+      - Calibration
+      required: true
+    - id: 14
+      name: arrival_time
+      label: Arrival Time
+      hint: Time of arrival
+      type: time
+      options: []
+      required: true
+    - id: 15
+      name: completion_time
+      label: Completion Time
+      hint: Time work was completed
+      type: time
+      options: []
+      required: true
+    - id: 16
+      name: work_performed
+      label: Work Performed
+      hint: Description of work done
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: parts_used
+      label: Parts Used
+      hint: List parts replaced or used
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: parts_cost
+      label: Parts Cost
+      hint: Cost of parts
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: labor_hours
+      label: Labor Hours
+      hint: Total hours worked
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: equipment_status
+      label: Equipment Status After Service
+      hint: Current status
+      type: select_one
+      options:
+      - Fully Operational
+      - Operational with Notes
+      - Requires Follow-up
+      - Not Operational
+      required: true
+    - id: 21
+      name: recommendations
+      label: Recommendations
+      hint: Any recommendations
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: follow_up_needed
+      label: Follow-up Needed
+      hint: Is additional service required
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 23
+      name: follow_up_date
+      label: Recommended Follow-up Date
+      hint: When to return
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: customer_satisfaction
+      label: Customer Satisfaction
+      hint: Customer rating
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      required: false
+    - id: 25
+      name: engineer_signature_date
+      label: Engineer Signature Date
+      hint: Date of signature
+      type: date
+      options: []
+      required: true
+    - id: 26
+      name: customer_signature_date
+      label: Customer Signature Date
+      hint: Date of customer signature
+      type: date
+      options: []
+      required: false
+    - id: 27
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other information
+      type: text
+      options: []
+      required: false

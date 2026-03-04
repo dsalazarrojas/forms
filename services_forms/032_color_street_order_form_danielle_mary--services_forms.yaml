@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Color Street Order Form Danielle Mary
+    pages:
+    - id: 1
+      name: header
+      label: -- Order Form --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact email
+      hint: For confirmation
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: product
+      label: Product
+      hint: Item being ordered
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: quantity
+      label: Quantity
+      hint: Number of units
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: service_option
+      label: Service option
+      hint: Select service type
+      type: select_one
+      options:
+      - Standard
+      - Premium
+      - Express
+      required: false
+    - id: 7
+      name: delivery_method
+      label: Delivery method
+      hint: Choose delivery preference
+      type: select_one
+      options:
+      - Pickup
+      - Delivery
+      required: true
+    - id: 8
+      name: delivery_address
+      label: Delivery address
+      hint: If delivery selected
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: preferred_date
+      label: Preferred date
+      hint: YYYY-MM-DD
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: additional_instructions
+      label: Additional instructions
+      hint: Special requests
+      type: text
+      options: []
+      required: false

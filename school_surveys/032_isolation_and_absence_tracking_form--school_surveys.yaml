@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: Isolation And Absence Tracking Form
+    pages:
+    - id: 1
+      name: teacher_name
+      label: teacher name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: student_id
+      label: student id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: start_time
+      label: start time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: end_time
+      label: end time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: reason
+      label: reason
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: select_multiple
+      label: select multiple
+      hint: null
+      type: select_multiple
+      options:
+      - option 1
+      - option 2
+      - option 3
+      required: false
+    - id: 11
+      name: select_one
+      label: select one
+      hint: null
+      type: select_one
+      options:
+      - option 1
+      - option 2
+      - option 3
+      required: false
+    - id: 12
+      name: is_absence
+      label: is absence
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 13
+      name: start_time_24hr
+      label: start time 24hr
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: end_time_24hr
+      label: end time 24hr
+      hint: null
+      type: time
+      options: []
+      required: false

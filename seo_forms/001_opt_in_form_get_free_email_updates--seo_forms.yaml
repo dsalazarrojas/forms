@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: opt_in_form_get_free_email_updates
+    pages:
+    - id: 1
+      name: subscribe
+      label: subscribe
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: mailing_list
+      label: mailing_list
+      hint: null
+      type: select_one
+      options:
+      - newsletter
+      - mailing_list
+      required: false
+    - id: 4
+      name: company
+      label: company
+      hint: null
+      type: select_one
+      options:
+      - google
+      - amazon
+      required: false
+    - id: 5
+      name: organization
+      label: organization
+      hint: null
+      type: select_one
+      options:
+      - google
+      - amazon
+      required: false
+    - id: 6
+      name: newsletter
+      label: newsletter
+      hint: null
+      type: select_one
+      options:
+      - weekly
+      - daily
+      - monthly
+      required: false
+    - id: 7
+      name: mailing_lists
+      label: mailing_lists
+      hint: null
+      type: select_one
+      options:
+      - weekly
+      - daily
+      - monthly
+      required: false

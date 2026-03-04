@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: hvc_service_report_form
+    pages:
+    - id: 1
+      name: technician_name
+      label: Technician Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_service
+      label: Date of Service
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: system_type
+      label: System Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: heating_system
+      label: Heating System
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: cooling_system
+      label: Cooling System
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: equipment_status
+      label: Equipment Status
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: system_condition
+      label: System Condition
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: temperature_setting
+      label: Temperature Setting
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: assigned_technician
+      label: Assigned Technician
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: service_address
+      label: Service Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: state
+      label: State
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: date_completed
+      label: Date Completed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: technician_notes
+      label: Technician Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: client_email
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 22
+      name: client_phone
+      label: Client Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: client_notes
+      label: Client Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: service_date
+      label: Service Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false

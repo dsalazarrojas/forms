@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: NDT Service Feedback Survey
+    pages:
+    - id: 1
+      name: non_destructive_testing_service
+      label: Non-Destructive Testing Service
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: job_number
+      label: Job Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: date_of_inspection
+      label: Date Of Inspection
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: inspector_name
+      label: Inspector Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: equipment_condition
+      label: Equipment Condition
+      hint: null
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Excellent
+      required: false
+    - id: 6
+      name: inspection_area
+      label: Inspection Area
+      hint: null
+      type: select_multiple
+      options:
+      - Area 1
+      - Area 2
+      - Area 3
+      - Area 4
+      - Area 5
+      - Area 6
+      required: false
+    - id: 7
+      name: remarks
+      label: Remarks
+      hint: Provide any remarks about the service
+      type: select_one
+      options:
+      - Very Satisfactory
+      - Satisfactory
+      - Needs Improvement
+      required: false
+    - id: 8
+      name: service_quality_rating
+      label: Service Quality Rating
+      hint: Please rate the service
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Very Unsatisfactory
+      - Unsatisfactory
+      - Satisfactory
+      - Good
+      - Excellent
+      required: false
+    - id: 10
+      name: improvement_areas
+      label: Improvement Areas
+      hint: Please mention any areas for improvement
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: service_quality
+      label: Service Quality
+      hint: null
+      type: select_multiple
+      options:
+      - Cleanliness
+      - Communication
+      - Efficiency
+      - Friendliness
+      - Other
+      required: false

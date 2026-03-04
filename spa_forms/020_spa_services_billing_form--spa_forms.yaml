@@ -1,0 +1,43 @@
+inputSchema:
+  type: object
+  properties:
+    title: Spa Services Billing Form
+    pages:
+    - id: 1
+      name: spa_services_billing_form
+      label: Service Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: billing_service
+      label: Billing Service
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Massage''}'
+      - '{''label'': ''Facial''}'
+      - '{''label'': ''Haircut''}'
+      required: false
+    - id: 3
+      name: billing_date
+      label: Billing Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: billing_time
+      label: Billing Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: billing_amount
+      label: Billing Amount
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gender Based Violence Referral Form
+    pages:
+    - id: 1
+      name: incident_details
+      label: Reported Incident Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: survivor_involvement
+      label: Survivor Involvement
+      hint: null
+      type: select_one
+      options:
+      - Survivor Present
+      - Survivor Absent
+      - Survivor Deceased
+      required: false
+    - id: 3
+      name: perpetrator_involvement
+      label: Perpetrator Involvement
+      hint: null
+      type: select_one
+      options:
+      - Perpetrator Present
+      - Perpetrator Absent
+      - Perpetrator Deceased
+      required: false
+    - id: 4
+      name: incident_characteristics
+      label: Incident Characteristics
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: location_details
+      label: Location Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: time_of_day
+      label: Time of Day
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: consent
+      label: Consent
+      hint: Has the survivor given consent to report this incident?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: follow_up
+      label: Follow Up
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: select_multiple
+      options:
+      - Follow up with survivor
+      - Follow up with perpetrator
+      - Contact police
+      - Contact social services
+      required: false
+    - id: 11
+      name: case_manager
+      label: Case Manager
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: agency
+      label: Agency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: agency_name
+      label: Agency Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: agency_address
+      label: Agency Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: agency_phone
+      label: Agency Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: agency_email
+      label: Agency Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: survivor_name
+      label: Survivor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: survivor_age
+      label: Survivor Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: survivor_gender
+      label: Survivor Gender
+      hint: Survivor's gender, if known
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Prefer not to say
+      required: false
+    - id: 20
+      name: perpetrator_name
+      label: Perpetrator Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: perpetrator_gender
+      label: Perpetrator Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Prefer not to say
+      required: false
+    - id: 22
+      name: perpetrator_age
+      label: Perpetrator Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: perpetrator_relationship
+      label: Perpetrator Relationship
+      hint: null
+      type: select_multiple
+      options:
+      - Friend
+      - Relative
+      - Acquaintance
+      required: false
+    - id: 24
+      name: incident_date
+      label: Date of Incident
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false

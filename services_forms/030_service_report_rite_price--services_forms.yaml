@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: service_report_rite_price
+    pages:
+    - id: 1
+      name: form_title
+      label: Service Report Rite Price
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rite_price
+      label: Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: service_type
+      label: Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''rite_price_1'', ''label'': 1}'
+      - '{''value'': ''rite_price_2'', ''label'': 2}'
+      - '{''value'': ''rite_price_3'', ''label'': 3}'
+      required: false
+    - id: 4
+      name: service_location
+      label: Location
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''rite_location_1'', ''label'': ''One''}'
+      - '{''value'': ''rite_location_2'', ''label'': ''Two''}'
+      - '{''value'': ''rite_location_3'', ''label'': ''Three''}'
+      required: false
+    - id: 5
+      name: service_history
+      label: History
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: form_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: service_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: rite_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''chatjimmy'', ''label'': ''chatjimmy''}'
+      - '{''value'': ''chatjimmy2'', ''label'': ''chatjimmy2''}'
+      required: false
+    - id: 10
+      name: service_report_status
+      label: Service Report Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''service_report_status_1'', ''label'': 1}'
+      - '{''value'': ''service_report_status_2'', ''label'': 2}'
+      - '{''value'': ''service_report_status_3'', ''label'': 3}'
+      required: false

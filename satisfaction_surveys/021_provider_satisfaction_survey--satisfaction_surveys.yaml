@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: provider_satisfaction_survey
+    pages:
+    - id: 1
+      name: provider_satisfaction_survey_page1
+      label: provider_satisfaction_survey_page1
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: provider_satisfaction_survey_page2
+      label: what_do_you_like
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: provider_satisfaction_survey_page2
+      label: what_do_you_dont_like
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: provider_satisfaction_survey_page3
+      label: what_improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: provider_satisfaction_survey_page3
+      label: would_you_recommend
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      - option5
+      required: false
+    - id: 6
+      name: provider_satisfaction_survey_page3
+      label: would_you_recommend
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      - option5
+      required: false
+    - id: 7
+      name: provider_satisfaction_survey_page4
+      label: additional_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: provider_satisfaction_survey_page4
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: provider_satisfaction_survey_page4
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

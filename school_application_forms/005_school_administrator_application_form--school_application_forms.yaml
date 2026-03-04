@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Administrator Application Form
+    pages:
+    - id: 1
+      name: application_information
+      label: Application Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: applicant_name
+      label: applicant_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: applicant_phone
+      label: applicant_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: school_name
+      label: school_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: administrator_experience
+      label: Administrator Experience
+      hint: Please provide details about your experience as an administrator in schools.
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: education_background
+      label: Education Background
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: education_institution
+      label: Education Institution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: school_administrator_position
+      label: School Administrator Position
+      hint: null
+      type: select_one
+      options:
+      - Principal
+      - Teacher
+      - Dean
+      - Director
+      required: false
+    - id: 9
+      name: job_specialization
+      label: job_specialization
+      hint: Please select at least 2 areas of specialization.
+      type: select_multiple
+      options:
+      - Curriculum and Instruction
+      - Class Management
+      - Budgeting and Financial Management
+      - School Event Planning
+      - Facilities Management
+      required: false
+    - id: 10
+      name: years_of_service
+      label: years_of_service
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: job_status
+      label: Job Status
+      hint: null
+      type: select_one
+      options:
+      - Full Time
+      - Part-time
+      - Volunteer
+      - Retired
+      required: false

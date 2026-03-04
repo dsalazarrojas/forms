@@ -1,0 +1,31 @@
+inputSchema:
+  type: object
+  properties:
+    title: Social Services Referral Form
+    pages:
+    - id: 1
+      name: client_info
+      label: Client Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: service_referral
+      label: Service Referral
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Case Management''}'
+      - '{''id'': 2, ''label'': ''Community Support''}'
+      - '{''id'': 3, ''label'': ''Home Visits''}'
+      - '{''id'': 4, ''label'': ''Information and Referral''}'
+      - '{''id'': 5, ''label'': ''Intake Coordination''}'
+      required: true
+    - id: 3
+      name: service_details
+      label: Service Details
+      hint: null
+      type: number
+      options: []
+      required: false

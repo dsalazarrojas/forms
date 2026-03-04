@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: Auto Service Appointment Form
+    pages:
+    - id: 1
+      name: customer_info_header
+      label: -- Customer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: Enter your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: For appointment confirmation
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: vehicle_details_header
+      label: -- Vehicle Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: vehicle_info
+      label: Vehicle Make, Model, and Year
+      hint: e.g. 2020 Jeep Wrangler
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: plate_number
+      label: License Plate Number
+      hint: For vehicle identification
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: service_selection_header
+      label: -- Service Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: service_reason
+      label: Primary Service Reason
+      hint: Why are you bringing the vehicle in?
+      type: select_one
+      options:
+      - Oil Change
+      - Brake Inspection
+      - Tire Rotation
+      - Engine Light On
+      - Other
+      required: true
+    - id: 10
+      name: detailed_symptoms
+      label: Detailed Symptoms
+      hint: Describe what is happening with the vehicle
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: preferred_date
+      label: Preferred Date
+      hint: Select a day for service
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: preferred_time
+      label: Preferred Time Slot
+      hint: Choose a time that works for you
+      type: time
+      options: []
+      required: true
+    - id: 13
+      name: drop_off_method
+      label: Drop-off Method
+      hint: How will you deliver the car?
+      type: select_one
+      options:
+      - In-person
+      - Key Drop-box
+      - Valet Pick-up
+      required: true
+    - id: 14
+      name: loaner_req
+      label: Require Loaner Vehicle?
+      hint: Availability is not guaranteed
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

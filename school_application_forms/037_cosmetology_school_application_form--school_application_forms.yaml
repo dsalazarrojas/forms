@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cosmetology School Application Form
+    pages:
+    - id: 1
+      name: applicant_info
+      label: Applicant Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: application_fee
+      label: Application Fee
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: cosmetology_background
+      label: Cosmetology Background
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: academic_history
+      label: Academic History
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: education_background
+      label: Education Background
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: personal_info
+      label: Personal Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: social_security_number
+      label: Social Security Number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 14
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: high_school_graduation
+      label: High School Graduation
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: graduation_year
+      label: Graduation Year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: high_school_info
+      label: High School Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: cosmetology_school_experience
+      label: Cosmetology School Experience
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: current_cosmetology_status
+      label: Current Cosmetology Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 20
+      name: education_history
+      label: Education History
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: license_info
+      label: License Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: state_license_number
+      label: State License Number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: state_license_type
+      label: State License Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 24
+      name: certification_info
+      label: Certification Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: other_info
+      label: Other Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: true

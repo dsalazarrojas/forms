@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Translation Request Form
+    pages:
+    - id: 1
+      name: submit_translation_request
+      label: Submit Translation Request
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: translation_type
+      label: Translation Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''English to Spanish''}'
+      - '{''label'': ''English to French''}'
+      - '{''label'': ''English to German''}'
+      required: false
+    - id: 3
+      name: document_type
+      label: Document Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''PDF Document''}'
+      - '{''label'': ''Word Document''}'
+      - '{''label'': ''Excel Document''}'
+      required: false
+    - id: 4
+      name: document_url
+      label: Document URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: message
+      label: Additional Message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: submit_button
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: confirm_submit
+      label: Confirm Submit
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 10
+      name: error_message
+      label: Error Message
+      hint: null
+      type: note
+      options: []
+      required: false

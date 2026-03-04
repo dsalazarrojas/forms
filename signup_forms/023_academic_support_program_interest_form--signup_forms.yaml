@@ -1,0 +1,138 @@
+inputSchema:
+  type: object
+  properties:
+    title: Academic Support Program Interest Form
+    pages:
+    - id: 1
+      name: form_header
+      label: -- Academic Support Program Interest Form --
+      hint: Express your interest in tutoring and academic support services. We will
+        follow up with available options.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: student_email
+      label: Email address
+      hint: Use your institutional email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: student_phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: student_id
+      label: Student ID number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: academic_level
+      label: Academic level
+      hint: null
+      type: select_one
+      options:
+      - Freshman
+      - Sophomore
+      - Junior
+      - Senior
+      - Graduate
+      required: true
+    - id: 8
+      name: major
+      label: Major or program
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: services_interested
+      label: Which academic support services are you interested in (select all that
+        apply)
+      hint: null
+      type: select_multiple
+      options:
+      - One-on-one tutoring
+      - Group tutoring
+      - Writing center assistance
+      - Math or science lab support
+      - Study skills coaching
+      - Academic advising
+      - Peer mentoring
+      required: true
+    - id: 10
+      name: subject_areas
+      label: What subject areas do you need help with
+      hint: List specific courses or topics
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: urgency
+      label: How urgently do you need academic support
+      hint: null
+      type: select_one
+      options:
+      - Immediately - I am struggling now
+      - Within the next few weeks
+      - Before midterms or finals
+      - General ongoing support
+      required: true
+    - id: 12
+      name: preferred_times
+      label: When are you available for support sessions (select all that apply)
+      hint: null
+      type: select_multiple
+      options:
+      - Weekday mornings
+      - Weekday afternoons
+      - Weekday evenings
+      - Weekends
+      required: true
+    - id: 13
+      name: format_preference
+      label: Preferred format for support sessions
+      hint: null
+      type: select_one
+      options:
+      - In-person
+      - Online
+      - Either
+      required: true
+    - id: 14
+      name: previous_support
+      label: Have you used academic support services before
+      hint: null
+      type: select_one
+      options:
+      - Yes - and they were helpful
+      - Yes - but they were not helpful
+      - No - this is my first time
+      required: true
+    - id: 15
+      name: additional_info
+      label: Any additional information about your academic needs
+      hint: null
+      type: text
+      options: []
+      required: false

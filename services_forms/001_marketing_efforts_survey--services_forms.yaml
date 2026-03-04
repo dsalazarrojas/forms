@@ -1,0 +1,53 @@
+inputSchema:
+  type: object
+  properties:
+    title: marketing_efforts_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: marketing_efforts
+      label: marketing_efforts
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: efforts_description
+      label: efforts_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: target_audience
+      label: target_audience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: marketing_channels
+      label: marketing_channels
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: communication_channels
+      label: communication_channels
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

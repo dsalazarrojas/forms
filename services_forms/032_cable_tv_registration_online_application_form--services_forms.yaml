@@ -1,0 +1,80 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Cable TV Registration Online Application Form
+    pages:
+      - id: 1
+        name: applicant_name
+        label: Applicant name
+        hint: Full name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: contact_email
+        label: Contact email
+        hint: For service activation
+        type: email
+        options: []
+        required: true
+      - id: 3
+        name: service_address
+        label: Service address
+        hint: Installation address
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: package_selected
+        label: Package selected
+        hint: Choose desired channel package
+        type: select_one
+        options:
+          - Basic
+          - Sports
+          - Premium
+          - International
+        required: true
+      - id: 5
+        name: installation_preference
+        label: Installation preference
+        hint: Self install or pro install
+        type: select_one
+        options:
+          - Self install
+          - Professional install
+        required: true
+      - id: 6
+        name: billing_cycle
+        label: Billing cycle
+        hint: Monthly or annual billing
+        type: select_one
+        options:
+          - Monthly
+          - Annually
+        required: true
+      - id: 7
+        name: promo_code
+        label: Promotional code
+        hint: Optional code for discounts
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: special_instructions
+        label: Special instructions for technician
+        hint: Access or parking notes
+        type: text
+        options: []
+        required: false

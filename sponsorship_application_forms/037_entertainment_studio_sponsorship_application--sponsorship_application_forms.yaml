@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Entertainment Studio Sponsorship Application
+    pages:
+    - id: 1
+      name: event_name
+      label: event_name
+      hint: Enter the name of the event
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: project_name
+      label: project_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: sponsor_name
+      label: sponsor_name
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: partner_name
+      label: partner_name
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: contact_name
+      label: contact_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email
+      label: email
+      hint: Enter your email address
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: project_description
+      label: project_description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: event_description
+      label: event_description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: event_dates
+      label: event_dates
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: event_times
+      label: event_times
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: event_venues
+      label: event_venues
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: event_type
+      label: event_type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: project_budgtes
+      label: project_budgtes
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: project_budget
+      label: project_budget
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: project_duration
+      label: project_duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: project_status
+      label: project_status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 19
+      name: project_start
+      label: project_start
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: project_end
+      label: project_end
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: project_location
+      label: project_location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: partner_description
+      label: partner_description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: partner_type
+      label: partner_type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: partner_ownership
+      label: partner_ownership
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: review_status
+      label: review_status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: true

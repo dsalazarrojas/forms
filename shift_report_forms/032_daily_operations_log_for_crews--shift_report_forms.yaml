@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: daily_operations_log_for_crews
+    pages:
+    - id: 1
+      name: daily_operations_log_form
+      label: shift_report_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: crew_shift
+      label: crew_shift
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: operational_notes
+      label: operational_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: operational_issues
+      label: operational_issues
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: work_activity
+      label: work_activity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: site_shift
+      label: site_shift
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: shift_start_time
+      label: shift_start_time
+      hint: null
+      type: time
+      options: []
+      required: false

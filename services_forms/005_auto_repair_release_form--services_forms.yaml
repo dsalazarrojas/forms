@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Auto Repair Release Form
+    pages:
+    - id: 1
+      name: section_header_customer
+      label: -- Customer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: customer_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: customer_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_header_vehicle
+      label: -- Vehicle Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: vehicle_year
+      label: Vehicle Year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: vehicle_make
+      label: Vehicle Make
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: vehicle_model
+      label: Vehicle Model
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: vehicle_vin
+      label: Vehicle VIN
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: vehicle_license_plate
+      label: License Plate Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: odometer_reading
+      label: Odometer Reading
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: section_header_repair
+      label: -- Repair Service Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: repair_date
+      label: Repair Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: repair_description
+      label: Description of Repairs Performed
+      hint: List all repairs completed
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: total_repair_cost
+      label: Total Repair Cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: parts_warranty
+      label: Parts Warranty Period
+      hint: null
+      type: select_one
+      options:
+      - 30 days
+      - 90 days
+      - 6 months
+      - 1 year
+      - No Warranty
+      required: true
+    - id: 18
+      name: labor_warranty
+      label: Labor Warranty Period
+      hint: null
+      type: select_one
+      options:
+      - 30 days
+      - 90 days
+      - 6 months
+      - 1 year
+      - No Warranty
+      required: true
+    - id: 19
+      name: section_header_condition
+      label: -- Condition and Release --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: vehicle_condition
+      label: Vehicle Condition Upon Pickup
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 21
+      name: customer_satisfaction
+      label: Are you satisfied with the work performed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Partial
+      required: true
+    - id: 22
+      name: release_acknowledgement
+      label: I acknowledge receipt of the vehicle and accept the repairs
+      hint: Required for release
+      type: select_one
+      options:
+      - Yes, I accept
+      - No, I do not accept
+      required: true
+    - id: 23
+      name: liability_waiver
+      label: I release the shop from liability for repairs completed
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 24
+      name: signature_date
+      label: Signature Date
+      hint: null
+      type: date
+      options: []
+      required: true

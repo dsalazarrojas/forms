@@ -1,0 +1,165 @@
+inputSchema:
+  type: object
+  properties:
+    title: Software Product Demo Request Form
+    pages:
+    - id: 1
+      name: software_product_demo_request_form_software_product_demo_request_form_1
+      label: Software Product Demo Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: company
+      label: company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: software_product
+      label: Software Product
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''software_product_option_1'', ''value'': ''option_value_1''}'
+      - '{''name'': ''software_product_option_2'', ''value'': ''option_value_2''}'
+      - '{''name'': ''software_product_option_3'', ''value'': ''option_value_3''}'
+      required: false
+    - id: 4
+      name: contact_person
+      label: Contact Person
+      hint: Select one or more
+      type: select_multiple
+      options:
+      - '{''name'': ''contact_person_option_1'', ''value'': ''contact_person_option_value_1''}'
+      - '{''name'': ''contact_person_option_2'', ''value'': ''contact_person_option_value_2''}'
+      - '{''name'': ''contact_person_option_3'', ''value'': ''contact_person_option_value_3''}'
+      required: false
+    - id: 5
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: software_version
+      label: Software Version
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''software_version_option_1'', ''value'': ''software_version_option_value_1''}'
+      - '{''name'': ''software_version_option_2'', ''value'': ''software_version_option_value_2''}'
+      - '{''name'': ''software_version_option_3'', ''value'': ''software_version_option_value_3''}'
+      required: false
+    - id: 8
+      name: demo_schedule
+      label: Demo Schedule
+      hint: Select one
+      type: select_one
+      options:
+      - '{''name'': ''demo_schedule_option_1'', ''value'': ''demo_schedule_option_value_1''}'
+      - '{''name'': ''demo_schedule_option_2'', ''value'': ''demo_schedule_option_value_2''}'
+      - '{''name'': ''demo_schedule_option_3'', ''value'': ''demo_schedule_option_value_3''}'
+      required: false
+    - id: 9
+      name: demo_date
+      label: Demo Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: demo_time
+      label: Demo Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: demo_detailed_notes
+      label: Demo Detailed Notes
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''demo_detailed_notes_option_1'', ''value'': ''demo_detailed_notes_option_value_1''}'
+      - '{''name'': ''demo_detailed_notes_option_2'', ''value'': ''demo_detailed_notes_option_value_2''}'
+      - '{''name'': ''demo_detailed_notes_option_3'', ''value'': ''demo_detailed_notes_option_value_3''}'
+      required: false
+    - id: 12
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: demo_type
+      label: Demo Type
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''demo_type_option_1'', ''value'': ''demo_type_option_value_1''}'
+      - '{''name'': ''demo_type_option_2'', ''value'': ''demo_type_option_value_2''}'
+      - '{''name'': ''demo_type_option_3'', ''value'': ''demo_type_option_value_3''}'
+      required: false
+    - id: 15
+      name: demo_length
+      label: Demo Length
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''demo_length_option_1'', ''value'': ''demo_length_option_value_1''}'
+      - '{''name'': ''demo_length_option_2'', ''value'': ''demo_length_option_value_2''}'
+      - '{''name'': ''demo_length_option_3'', ''value'': ''demo_length_option_value_3''}'
+      required: false
+    - id: 16
+      name: product_owner
+      label: Product Owner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: demo_status
+      label: Demo Status
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''demo_status_option_1'', ''value'': ''demo_status_option_value_1''}'
+      - '{''name'': ''demo_status_option_2'', ''value'': ''demo_status_option_value_2''}'
+      - '{''name'': ''demo_status_option_3'', ''value'': ''demo_status_option_value_3''}'
+      required: false
+    - id: 18
+      name: demo_type
+      label: Demo Type
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''demo_type_option_1'', ''value'': ''demo_type_option_value_1''}'
+      - '{''name'': ''demo_type_option_2'', ''value'': ''demo_type_option_value_2''}'
+      - '{''name'': ''demo_type_option_3'', ''value'': ''demo_type_option_value_3''}'
+      required: false
+    - id: 19
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

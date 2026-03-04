@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Driver Feedback Form
+    pages:
+    - id: 1
+      name: customer_id
+      label: Customer Id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rating
+      label: Rating
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Not Satisfied''}'
+      - '{''value'': 2, ''label'': ''Satisfied''}'
+      - '{''value'': 3, ''label'': ''Very Satisfied''}'
+      required: false
+    - id: 3
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: driver_name
+      label: Driver Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: driver_rating
+      label: Driver Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: vehicle_number
+      label: Vehicle Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: feedback_message
+      label: Feedback Message
+      hint: null
+      type: text
+      options: []
+      required: false

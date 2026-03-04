@@ -1,0 +1,33 @@
+inputSchema:
+  type: object
+  properties:
+    title: Service Feedback Form
+    pages:
+    - id: 1
+      name: service_feedback_form_first_page_comment
+      label: Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: service_feedback_form_first_page_rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: service_feedback_form_first_page_feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: service_feedback_form_second_page_feedback
+      label: More Feedback
+      hint: null
+      type: text
+      options: []
+      required: false

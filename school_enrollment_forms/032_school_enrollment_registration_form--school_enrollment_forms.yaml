@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Enrollment Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: student_id_number
+      label: Student ID Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: school_id
+      label: School ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: guardian_first_name
+      label: Guardian First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: guardian_last_name
+      label: Guardian Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: relationship_to_student
+      label: Relationship to Student
+      hint: null
+      type: select_one
+      options:
+      - Parent
+      - Guardian
+      - Other
+      required: false
+    - id: 11
+      name: how_did_you_hear_about_us
+      label: How did you hear about us?
+      hint: null
+      type: text
+      options: []
+      required: false

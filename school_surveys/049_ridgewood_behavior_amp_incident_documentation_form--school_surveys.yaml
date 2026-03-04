@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: ridgewood_behavior_incident_documentation_form
+    pages:
+    - id: 1
+      name: incident_location
+      label: incident_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: incident_time
+      label: incident_time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: reporter
+      label: reporter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: actions_taken
+      label: actions_taken
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: parent_communication
+      label: parent_communication
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: parent_signature
+      label: parent_signature
+      hint: null
+      type: text
+      options: []
+      required: false

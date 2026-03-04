@@ -1,0 +1,126 @@
+inputSchema:
+  type: object
+  properties:
+    title: Product Satisfaction Survey
+    pages:
+    - id: 1
+      name: product_satisfaction_survey
+      label: product_satisfaction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: product_name
+      label: product_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: subcategory
+      label: subcategory
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: question_1
+      label: question_1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: question_2
+      label: question_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: question_3
+      label: question_3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: question_4
+      label: question_4
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: rating_1
+      label: rating_1
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 10
+      name: rating_2
+      label: rating_2
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 11
+      name: rating_3
+      label: rating_3
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 12
+      name: rating_4
+      label: rating_4
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 13
+      name: rating_5
+      label: rating_5
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 14
+      name: email_address
+      label: email_address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false

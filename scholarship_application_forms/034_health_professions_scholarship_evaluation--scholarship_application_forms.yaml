@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Health Professions Scholarship Evaluation
+    pages:
+    - id: 1
+      name: candidate_name
+      label: Candidate Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rating_scale_score
+      label: Rating Scale Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: reviewer_feedback
+      label: Reviewer Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: rating_scale_1
+      label: Rating Scale 1
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: rating_scale_1_weight
+      label: Rating Scale 1 Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: rating_scale_2
+      label: Rating Scale 2
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 7
+      name: rating_scale_2_weight
+      label: Rating Scale 2 Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: rating_scale_3
+      label: Rating Scale 3
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 9
+      name: rating_scale_3_weight
+      label: Rating Scale 3 Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

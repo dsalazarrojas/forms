@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contact Lens Comfort Study Interest Form
+    pages:
+    - id: 1
+      name: study_header
+      label: Contact Lens Comfort Clinical Study
+      hint: Register your interest for our upcoming research
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: age
+      label: Your Age
+      hint: Study requires participants 18-65
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: current_lens_type
+      label: What type of lenses do you currently wear?
+      hint: null
+      type: select_one
+      options:
+      - Daily Disposables
+      - Bi-weekly
+      - Monthly
+      - Rigid Gas Permeable
+      - None
+      required: true
+    - id: 7
+      name: years_wearing_lenses
+      label: Years of contact lens wear experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: discomfort_issues
+      label: Do you experience any of the following?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Dryness
+      - Redness
+      - Irritation
+      - Blurred Vision
+      - End-of-day discomfort
+      required: false
+    - id: 9
+      name: study_participation_history
+      label: Have you participated in a clinical study before?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 10
+      name: availability
+      label: General availability for clinic visits
+      hint: null
+      type: select_multiple
+      options:
+      - Weekday Mornings
+      - Weekday Afternoons
+      - Saturday Mornings
+      required: true
+    - id: 11
+      name: medical_conditions
+      label: Any known eye conditions?
+      hint: e.g. Glaucoma, Cataracts, Dry Eye Syndrome
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: consent_for_screening
+      label: I consent to a screening call by a study coordinator
+      hint: null
+      type: select_one
+      options:
+      - I consent
+      - Other
+      required: true

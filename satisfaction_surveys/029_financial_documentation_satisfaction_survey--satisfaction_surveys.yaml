@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Financial Documentation Satisfaction Survey
+    pages:
+    - id: 1
+      name: financial_documentation_survey
+      label: Financial Documentation Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: report_type
+      label: Report Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: report_date
+      label: Report Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: financial_document_satisfaction
+      label: Financial Document Satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 5
+      name: documentation_process
+      label: Documentation Process
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: report_clarity
+      label: Report Clarity
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: financial_documentation_satisfaction
+      label: Financial Documentation Satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 8
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 9
+      name: document_type
+      label: Document Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: financial_documentation_quality
+      label: Financial Documentation Quality
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Poor
+      required: false
+    - id: 11
+      name: financial_documentation_effectiveness
+      label: Financial Documentation Effectiveness
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: report_format
+      label: Report Format
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

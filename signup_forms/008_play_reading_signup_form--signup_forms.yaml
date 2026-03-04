@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Play Reading Signup Form
+    pages:
+    - id: 1
+      name: user_name
+      label: username
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: play
+      label: play
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: role
+      label: role
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Actor''}'
+      - '{''id'': 2, ''label'': ''Director''}'
+      - '{''id'': 3, ''label'': ''Both''}'
+      required: true
+    - id: 4
+      name: availability
+      label: availability
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: contact
+      label: contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: role_description
+      label: role_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: confirm_role
+      label: confirm_role
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: true

@@ -1,0 +1,134 @@
+inputSchema:
+  type: object
+  properties:
+    title: Taxi Booking Form
+    pages:
+    - id: 1
+      name: user_input
+      label: First and last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: pickup_location
+      label: Pickup location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: dropoff_location
+      label: Dropoff location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: vehicle_type
+      label: Vehicle type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: vehicle_number
+      label: Vehicle number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: customer_phone
+      label: Customer phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: customer_email
+      label: Customer email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: special_instructions
+      label: Special instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: additional_info
+      label: Additional info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: booking_confirmation
+      label: Booking confirmation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: payment_info
+      label: Payment info
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: payment_method
+      label: Payment method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: payment_amount
+      label: Payment amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 17
+      name: booking_status
+      label: Booking status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true

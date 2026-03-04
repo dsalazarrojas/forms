@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Complaint Form Template
+    pages:
+    - id: 1
+      name: customer_complaint_form_template
+      label: Customer Complaint Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_complaint
+      label: How can we assist you?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_complaint_description
+      label: Describe your issue
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: customer_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: customer_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: customer_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: customer_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: customer_complaint_date
+      label: Date of incident
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: customer_complaint_time
+      label: Time of incident
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: customer_feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: customer_attachment
+      label: Attachments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: customer_additional_comments
+      label: Additional comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Parent Welcome Packet Overview
+    pages:
+    - id: 1
+      name: parent_welcome_packet_overview
+      label: parent_welcome_packet_overview
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: welcome_materials_reviewed
+      label: welcome_materials_reviewed
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_preferences
+      label: contact_preferences
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 4
+      name: questions_and_comments
+      label: questions_and_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,149 @@
+inputSchema:
+  type: object
+  properties:
+    title: educational_material_translation_consent_form
+    pages:
+    - id: 1
+      name: form_header
+      label: form_header
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 2
+      name: form_name
+      label: form_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: consent
+      label: consent
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      - '{''label'': ''Undecided''}'
+      required: false
+    - id: 6
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: translator_name
+      label: translator_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: translator_email
+      label: translator_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: translator_phone
+      label: translator_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: translator_organization
+      label: translator_organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: translator_notes
+      label: translator_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: school_materials
+      label: school_materials
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: materials_translated
+      label: materials_translated
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: materials_original
+      label: materials_original
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: language
+      label: language
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: translator_language
+      label: translator_language
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''English''}'
+      - '{''label'': ''Spanish''}'
+      - '{''label'': ''French''}'
+      - '{''label'': ''Chinese''}'
+      - '{''label'': ''Portuguese''}'
+      - '{''label'': ''Arabic''}'
+      - '{''label'': ''Russian''}'
+      - '{''label'': ''German''}'
+      - '{''label'': ''Korean''}'
+      - '{''label'': ''Japanese''}'
+      - '{''label'': ''Italian''}'
+      - '{''label'': ''Other''}'
+      required: true
+    - id: 17
+      name: translation_type
+      label: translation_type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Machine Translation''}'
+      - '{''label'': ''Human Translation''}'
+      - '{''label'': ''Both''}'
+      required: false
+    - id: 18
+      name: translation_notes
+      label: translation_notes
+      hint: null
+      type: text
+      options: []
+      required: false

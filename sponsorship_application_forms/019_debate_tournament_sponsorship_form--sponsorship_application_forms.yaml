@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: Debate Tournament Sponsorship Form
+    pages:
+    - id: 1
+      name: event_details
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: sponsor_details
+      label: Sponsor Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: sponsorship_terms
+      label: Sponsorship Terms
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

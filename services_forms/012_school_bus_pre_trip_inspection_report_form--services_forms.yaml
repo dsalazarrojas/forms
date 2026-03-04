@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Bus Pre Trip Inspection Report Form
+    pages:
+    - id: 1
+      name: school_bus_pre_trip_inspection_report_form
+      label: Pre Trip Checklist
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vehicle_make_and_model
+      label: Vehicle Make and Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: vehicle_year
+      label: Vehicle Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: pre_trip_checklist_1
+      label: Pre Trip Check List 1
+      hint: null
+      type: select_one
+      options:
+      - Item 1
+      - Item 2
+      - Item 3
+      - Item 4
+      - Item 5
+      required: false
+    - id: 5
+      name: pre_trip_checklist_2
+      label: Pre Trip Check List 2
+      hint: null
+      type: select_multiple
+      options:
+      - Item 1
+      - Item 2
+      required: false
+    - id: 6
+      name: comments
+      label: Comments
+      hint: Additional comments
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: text
+      options: []
+      required: false

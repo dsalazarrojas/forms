@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Utility Junction Service Request Form
+    pages:
+    - id: 1
+      name: service_request
+      label: Service Request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: service_type
+      label: service Type
+      hint: null
+      type: select_one
+      options:
+      - electric
+      - gas
+      - water
+      required: false
+    - id: 3
+      name: service_description
+      label: service Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: service_request_date
+      label: service Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: service_request_time
+      label: service Request Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - jenny
+      - other
+      required: false
+    - id: 11
+      name: assigned_at
+      label: Assigned At
+      hint: null
+      type: date
+      options: []
+      required: false

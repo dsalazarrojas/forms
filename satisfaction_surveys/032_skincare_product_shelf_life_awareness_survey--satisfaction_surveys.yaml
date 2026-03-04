@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Skincare Product Shelf Life Awareness Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: product_used
+      label: product_used
+      hint: What skincare product are you using
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: shelf_life
+      label: shelf_life
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: risk_concerns
+      label: risk_concerns
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: awareness
+      label: awareness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: habits
+      label: habits
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: risk_factors
+      label: risk_factors
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: risk_factors_other
+      label: risk_factors_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submit
+      label: submit
+      hint: null
+      type: note
+      options: []
+      required: false

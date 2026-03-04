@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: ประกcreational Program Satisfaction Questionnaire
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: program_name
+      label: program_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: program_location
+      label: program_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: satisfaction_level
+      label: satisfaction_level
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very Good'', ''value'': 1}'
+      - '{''label'': ''Somewhat Good'', ''value'': 2}'
+      - '{''label'': ''Neutral'', ''value'': 3}'
+      - '{''label'': ''Somewhat Bad'', ''value'': 4}'
+      - '{''label'': ''Very Bad'', ''value'': 5}'
+      required: false
+    - id: 5
+      name: recommendation_level
+      label: recommendation_level
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very Likely'', ''value'': 1}'
+      - '{''label'': ''Somewhat Likely'', ''value'': 2}'
+      - '{''label'': ''Unsure'', ''value'': 3}'
+      - '{''label'': ''Somewhat Unlikely'', ''value'': 4}'
+      - '{''label'': ''Very Unlikely'', ''value'': 5}'
+      required: false
+    - id: 6
+      name: suggestions
+      label: suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_information
+      label: contact_information
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false

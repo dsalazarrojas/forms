@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: social_media_marketing_permission_form
+    pages:
+    - id: 1
+      name: first_name
+      label: first_name
+      hint: First name
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: Last name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: Phone number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: company_name
+      label: company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: social_media_platforms
+      label: social_media_platforms
+      hint: null
+      type: select_one
+      options:
+      - '{''platforms'': ''Facebook''}'
+      - '{''platforms'': ''Instagram''}'
+      - '{''platforms'': ''Twitter''}'
+      required: true
+    - id: 7
+      name: image_rights
+      label: image_rights
+      hint: null
+      type: select_multiple
+      options:
+      - '{''options'': None, ''name'': ''image_rights_1'', ''value'': ''Facebook,
+        Instagram, Twitter''}'
+      - '{''options'': None, ''name'': ''image_rights_2'', ''value'': ''LinkedIn,
+        TikTok, YouTube''}'
+      required: true
+    - id: 8
+      name: testimonial_rights
+      label: testimonial_rights
+      hint: null
+      type: select_one
+      options:
+      - '{''options'': None, ''name'': ''testimonial_rights_1'', ''value'': ''Facebook,
+        Instagram, Twitter''}'
+      - '{''options'': None, ''name'': ''testimonial_rights_2'', ''value'': ''LinkedIn,
+        TikTok, YouTube''}'
+      required: true
+    - id: 9
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: date_of_birth_verification
+      label: date_of_birth_verification
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: date_of_birth_date
+      label: date_of_birth_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: note
+      label: note
+      hint: Any additional notes
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: agreement
+      label: agreement
+      hint: null
+      type: text
+      options: []
+      required: false

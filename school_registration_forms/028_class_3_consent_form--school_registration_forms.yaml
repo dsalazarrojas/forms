@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Class 3 Consent Form
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Full Name
+      hint: Child name as on school records
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: student_grade
+      label: Grade Level
+      hint: Select grade
+      type: select_one
+      options:
+      - Grade 1
+      - Grade 2
+      - Grade 3
+      - Grade 4
+      - Grade 5
+      required: true
+    - id: 3
+      name: teacher_name
+      label: Teacher Name
+      hint: Your child teacher
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: parent_name
+      label: Parent or Guardian Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: relationship
+      label: Relationship to Student
+      hint: Select your relationship
+      type: select_one
+      options:
+      - Mother
+      - Father
+      - Legal Guardian
+      - Grandparent
+      - Other
+      required: true
+    - id: 6
+      name: email_address
+      label: Email Address
+      hint: For school communications
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: home_address
+      label: Home Address
+      hint: Street, city, state, ZIP
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: activity_type
+      label: Type of Activity
+      hint: What activity is this for
+      type: select_one
+      options:
+      - Field Trip
+      - Classroom Party
+      - Special Project
+      - Physical Education Event
+      - Art or Music Activity
+      - Science Experiment
+      - Community Service
+      - Other School Activity
+      required: true
+    - id: 10
+      name: activity_name
+      label: Activity Name or Description
+      hint: Describe the activity
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: activity_date
+      label: Activity Date
+      hint: When will it occur
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: activity_location
+      label: Activity Location
+      hint: Where will it take place
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: transportation_method
+      label: Transportation Method
+      hint: How will your child travel
+      type: select_one
+      options:
+      - School Bus
+      - Parent Drop-off and Pick-up
+      - Public Transportation
+      - Walking
+      - Carpool
+      - Other
+      required: true
+    - id: 14
+      name: medical_conditions
+      label: Does Your Child Have Any Medical Conditions
+      hint: Allergies, medications, etc.
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: medical_details
+      label: Please Describe Medical Conditions
+      hint: If yes, provide details
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: emergency_contact
+      label: Emergency Contact Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: emergency_phone
+      label: Emergency Contact Phone
+      hint: Phone number
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: consent_given
+      label: Do You Give Consent for Your Child to Participate
+      hint: Select yes or no
+      type: select_one
+      options:
+      - Yes, I give consent
+      - No, I do not give consent
+      required: true
+    - id: 19
+      name: photo_consent
+      label: Photo and Video Consent
+      hint: For school records and publications
+      type: select_one
+      options:
+      - Yes, photos allowed
+      - No, no photos please
+      required: true
+    - id: 20
+      name: pickup_authorization
+      label: Who Is Authorized to Pick Up Your Child
+      hint: If different from parent
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: special_instructions
+      label: Special Instructions or Notes
+      hint: For teachers or chaperones
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: parent_signature
+      label: Parent Signature
+      hint: By submitting you confirm consent
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: signature_date
+      label: Date Signed
+      hint: Today date
+      type: date
+      options: []
+      required: true

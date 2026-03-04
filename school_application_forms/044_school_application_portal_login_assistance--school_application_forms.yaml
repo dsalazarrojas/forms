@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Application Portal Login Assistance
+    pages:
+    - id: 1
+      name: portal_access_issues
+      label: Portal Access Issues
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: applicant_login_details
+      label: Applicant Login Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: support_follow_ups
+      label: Support Follow-ups
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: school_details
+      label: School Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: portal_access_help_request
+      label: Portal Access Help Request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: portal_access_request_date
+      label: Portal Access Request Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: follow_up_details
+      label: Follow-up Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: follow_up_status
+      label: Follow-up Status
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - Ongoing
+      - Cancelled
+      required: true
+    - id: 11
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Emergency Road Service Call Form
+    pages:
+    - id: 1
+      name: emergency_road_service_call_form
+      label: Emergency Road Service Call Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: road_service_area
+      label: Road Service Area
+      hint: null
+      type: select_one
+      options:
+      - Emergency Roadside
+      - Emergency Roadway
+      - Emergency Highway
+      required: false
+    - id: 5
+      name: emergency_service_request
+      label: Emergency Service Request
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - chatjimmy1
+      required: false
+    - id: 7
+      name: output_file
+      label: Output File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: assigned_form
+      label: Assigned Form
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

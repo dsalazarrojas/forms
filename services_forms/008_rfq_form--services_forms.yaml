@@ -1,0 +1,225 @@
+inputSchema:
+  type: object
+  properties:
+    title: RFQ Form
+    pages:
+    - id: 1
+      name: business_name
+      label: Business Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: business_type
+      label: Business Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Business''}'
+      - '{''value'': ''Service''}'
+      - '{''value'': ''Product''}'
+      required: false
+    - id: 5
+      name: business_size
+      label: Business Size
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''1-10''}'
+      - '{''value'': ''11-50''}'
+      - '{''value'': ''51-100''}'
+      - '{''value'': ''101-500''}'
+      - '{''value'': ''501-1000''}'
+      - '{''value'': 1001}'
+      required: false
+    - id: 6
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: services_offered
+      label: Services Offered
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: about_business
+      label: About Business
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: how_did_you_hear_from_us
+      label: How Did You Hear from Us
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Social Media''}'
+      - '{''value'': ''Word of Mouth''}'
+      - '{''value'': ''Online Search''}'
+      - '{''value'': ''Other''}'
+      required: true
+    - id: 10
+      name: how_would_you_like_to_be_contacted
+      label: How Would You Like to be Contacted
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Phone''}'
+      - '{''value'': ''Email''}'
+      - '{''value'': ''Text Message''}'
+      required: true
+    - id: 11
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_preference
+      label: Contact Preference
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: true
+    - id: 13
+      name: follow_up
+      label: Follow up
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      - '{''value'': ''Only if Requested''}'
+      required: false
+    - id: 14
+      name: lead_source
+      label: Lead Source
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Online''}'
+      - '{''value'': ''Offline''}'
+      required: false
+    - id: 15
+      name: lead_channel
+      label: Lead Channel
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Website''}'
+      - '{''value'': ''Social Media''}'
+      - '{''value'': ''Referral''}'
+      required: false
+    - id: 16
+      name: marketing_channels
+      label: Marketing Channels
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Google Ads''}'
+      - '{''value'': ''Social Media''}'
+      - '{''value'': ''Referral''}'
+      - '{''value'': ''Word of Mouth''}'
+      required: false
+    - id: 17
+      name: sales_channels
+      label: Sales Channels
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Online''}'
+      - '{''value'': ''Offline''}'
+      - '{''value'': ''Phone''}'
+      required: false
+    - id: 18
+      name: target_audience
+      label: Target Audience
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''B2B''}'
+      - '{''value'': ''B2C''}'
+      - '{''value'': ''Consumer''}'
+      required: false
+    - id: 19
+      name: target_location
+      label: Target Location
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Local''}'
+      - '{''value'': ''National''}'
+      - '{''value'': ''Global''}'
+      required: false
+    - id: 20
+      name: lead_timeframe
+      label: Lead Time Frame
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Immediately''}'
+      - '{''value'': ''Short-Term''}'
+      - '{''value'': ''Medium-Term''}'
+      - '{''value'': ''Long-Term''}'
+      required: false
+    - id: 21
+      name: lead_value
+      label: Lead Value
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: lead_priority
+      label: Lead Priority
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: lead_quality
+      label: Lead Quality
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: lead_type
+      label: Lead Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''New Lead''}'
+      - '{''value'': ''Follow up''}'
+      required: false
+    - id: 25
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,130 @@
+inputSchema:
+  type: object
+  properties:
+    title: Devotional Reminder Signup
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: preferred_language
+      label: Preferred Language
+      hint: null
+      type: select_one
+      options:
+      - en
+      - es
+      - fr
+      - zh
+      required: false
+    - id: 6
+      name: preferred_email
+      label: Preferred Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: schedule
+      label: Schedule
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: schedule_time
+      label: Schedule Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: reminder_type
+      label: Reminder Type
+      hint: null
+      type: select_one
+      options:
+      - Devotional
+      - Sermon
+      - Blog Post
+      - Podcast
+      required: false
+    - id: 10
+      name: reminder_frequency
+      label: Reminder Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Never
+      required: false
+    - id: 11
+      name: timezone
+      label: Timezone
+      hint: null
+      type: select_one
+      options:
+      - America/New_York
+      - America/Los_Angeles
+      - Asia/Tokyo
+      - Australia/Sydney
+      required: false
+    - id: 12
+      name: timezone_offset
+      label: Timezone Offset
+      hint: null
+      type: select_one
+      options:
+      - Eastern
+      - Central
+      - Mountain
+      - Pacific
+      required: false
+    - id: 13
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: preferences
+      label: Preferences
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: terms_and_conditions
+      label: Terms and Conditions
+      hint: null
+      type: note
+      options: []
+      required: false

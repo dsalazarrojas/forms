@@ -1,0 +1,117 @@
+inputSchema:
+  type: object
+  properties:
+    title: join_the_solopreneur_waitlist
+    pages:
+    - id: 1
+      name: waitlist_signup
+      label: Join The Solopreneur Waitlist
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Creators
+      - Freelancers
+      - Founders
+      required: true
+    - id: 6
+      name: prelaunch_interest
+      label: prelaunch_interest
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: manage_data_collection
+      label: Manage data collection for
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 8
+      name: jf_payout
+      label: Payment terms
+      hint: null
+      type: select_multiple
+      options:
+      - I understand and agree
+      - 'False'
+      required: true
+    - id: 9
+      name: jf_payout_terms
+      label: Payment terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: jf_payout_iban
+      label: IBAN
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: jf_payout_account
+      label: Account
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: jf_payout_bic
+      label: BIC
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: jf_payout_iban_bic
+      label: IBAN/BIC
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: jf_payout_iban_bic_iban
+      label: IBAN/BIC/IBAN
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: jf_payout_iban_bic_iban_iban
+      label: IBAN/BIC/IBAN/IBAN
+      hint: null
+      type: text
+      options: []
+      required: false

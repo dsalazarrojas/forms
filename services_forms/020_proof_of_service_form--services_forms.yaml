@@ -1,0 +1,90 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Proof Of Service Form
+    pages:
+    - id: 1
+      name: proof_of_service_form
+      label: proof_of_service_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: served_party
+      label: served_party
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''party_a''}'
+      - '{''id'': 2, ''name'': ''party_b'', ''label'': ''party_b''}'
+      - '{''id'': 3, ''name'': ''party_c'', ''label'': ''party_c''}'
+      - '{''id'': 4, ''name'': ''party_d'', ''label'': ''party_d''}'
+      required: false
+    - id: 3
+      name: date_served
+      label: date_served
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time_served
+      label: time_served
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: method_of_service
+      label: method_of_service
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''personal_service'', ''label'': ''Personal Service''}'
+      - '{''id'': 2, ''name'': ''certified_mail'', ''label'': ''Certified Mail''}'
+      - '{''id'': 3, ''name'': ''email'', ''label'': ''Email''}'
+      - '{''id'': 4, ''name'': ''fax'', ''label'': ''Fax''}'
+      - '{''id'': 5, ''name'': ''mail_box'', ''label'': ''Mail Box''}'
+      required: false
+    - id: 6
+      name: service_completed
+      label: service_completed
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': True, ''label'': True}'
+      - '{''id'': 2, ''name'': False, ''label'': False}'
+      required: true
+    - id: 7
+      name: proof_of_service_form_comments
+      label: proof_of_service_form_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: proof_of_service_form_additional_documents
+      label: proof_of_service_form_additional_documents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: proof_of_service_form_attachment
+      label: proof_of_service_form_attachment
+      hint: null
+      type: text
+      options: []
+      required: false

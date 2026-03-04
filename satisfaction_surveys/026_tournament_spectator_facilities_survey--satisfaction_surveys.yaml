@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tournament Spectator Facilities Survey
+    pages:
+    - id: 1
+      name: tournament_spectator_facilities
+      label: Tournament Spectator Facilities
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: food_and_beverages
+      label: Food and Beverages
+      hint: null
+      type: select_multiple
+      options:
+      - Water
+      - Soft drinks
+      - Coffee
+      - Snacks
+      - Food
+      required: true
+    - id: 3
+      name: facilities
+      label: Facilities
+      hint: null
+      type: select_one
+      options:
+      - Seating
+      - Toilets
+      - Drinking fountains
+      - Parking
+      - Food court
+      - Café
+      required: true
+    - id: 4
+      name: services
+      label: Services
+      hint: null
+      type: select_one
+      options:
+      - Security
+      - Staff
+      - Information
+      - First aid
+      required: true
+    - id: 5
+      name: facilities_rating
+      label: Facilities Rating
+      hint: How likely are you to recommend the facilities to others?
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: services_rating
+      label: Services Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: overall_experience
+      label: Overall Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: venue
+      label: Venue
+      hint: null
+      type: text
+      options: []
+      required: false

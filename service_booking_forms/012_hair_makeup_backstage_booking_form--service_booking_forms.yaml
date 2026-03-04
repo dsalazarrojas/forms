@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hair & Makeup Backstage Booking Form
+    pages:
+    - id: 1
+      name: backstage_booking_form
+      label: Service Details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_one
+      options:
+      - Hair
+      - Makeup
+      - Hair and Makeup
+      required: false
+    - id: 3
+      name: service_time
+      label: Service Time
+      hint: "HH:MM"
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: customer_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: customer_email
+      label: Email
+      hint: email@example.com
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: customer_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - Birthday
+      - Wedding
+      - Photoshoot
+      required: false
+    - id: 8
+      name: num_services
+      label: Number of Services
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: service_start_time
+      label: Service Start Time
+      hint: null
+      type: time
+      options: []
+      required: false

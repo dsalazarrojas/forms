@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: helpline_status_check_form
+    pages:
+    - id: 1
+      name: helpline_status_form
+      label: helpline_status_form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: customer_number
+      label: customer_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: status
+      label: status
+      hint: null
+      type: select_one
+      options:
+      - status1
+      - status2
+      - status3
+      - status4
+      required: false
+    - id: 7
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: follow_up_actions
+      label: follow_up_actions
+      hint: null
+      type: select_multiple
+      options:
+      - action1
+      - action2
+      - action3
+      - action4
+      required: false

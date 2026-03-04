@@ -1,0 +1,128 @@
+inputSchema:
+  type: object
+  properties:
+    title: Maid Worker Application Form
+    pages:
+    - id: 1
+      name: application_form
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: Please enter a valid email address
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: experience
+      label: Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: availability
+      label: Availability
+      hint: null
+      type: select_one
+      options:
+      - Available
+      - Unavailable
+      required: false
+    - id: 8
+      name: work_type
+      label: Work Type
+      hint: null
+      type: select_one
+      options:
+      - Full-time
+      - Part-time
+      - Temporary
+      required: false
+    - id: 9
+      name: availability_days
+      label: Availability Days
+      hint: null
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: false
+    - id: 10
+      name: notice_period
+      label: Notice Period
+      hint: null
+      type: select_one
+      options:
+      - 1 week
+      - 2 weeks
+      - 3 weeks
+      - 1 month
+      - 2 months
+      - 3 months
+      - 4 months
+      - 5 months
+      - 6 months
+      - 7 months
+      - 8 months
+      - 9 months
+      - 10 months
+      - 11 months
+      - 1 year
+      - 2 years
+      - 3 years
+      - 4 years
+      - 5 years
+      - Other
+      required: false
+    - id: 11
+      name: notice_period_days
+      label: Notice Period Days
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Petition Signup Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: sign_up_for
+      label: Sign up for
+      hint: What would you like to sign up for?
+      type: select_one
+      options:
+      - Petition 1
+      - Petition 2
+      - Petition 3
+      - Other
+      required: false
+    - id: 7
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: position
+      label: Position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: signature
+      label: Signatures
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: submit
+      label: Submit
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: email_confirmation
+      label: Confirm Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone_confirmation
+      label: Confirm Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: signature_date
+      label: Date
+      hint: Date you signed up
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: signature_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false

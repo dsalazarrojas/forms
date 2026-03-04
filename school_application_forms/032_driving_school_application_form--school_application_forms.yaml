@@ -1,0 +1,50 @@
+inputSchema:
+  type: object
+  properties:
+    title: driving_school_application_form
+    pages:
+    - id: 1
+      name: applicant_details
+      label: Applicant Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: driving_school_name
+      label: driving_school_name
+      hint: Please select your driving school
+      type: select_one
+      options:
+      - ABC Driving School
+      - DEF Driving School
+      - GHI Driving School
+      required: false
+    - id: 3
+      name: application_date
+      label: application_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: driving_school_address
+      label: driving_school_address
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,259 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bottling Services Quote Request
+    pages:
+    - id: 1
+      name: company_name
+      label: Company Name
+      hint: Name of your company or brand
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_name
+      label: Contact Name
+      hint: Full name of primary contact
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_title
+      label: Contact Title
+      hint: Your job title or position
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Email Address
+      hint: Business email address
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Phone Number
+      hint: Primary contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: company_address
+      label: Company Address
+      hint: Complete business address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: request_date
+      label: Request Date
+      hint: Date of quote request
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: product_type
+      label: Product Type
+      hint: What type of product will be bottled
+      type: select_one
+      options:
+      - Beverage (non-alcoholic)
+      - Alcoholic beverage
+      - Juice
+      - Water
+      - Sports drink
+      - Tea or coffee
+      - Sauce or condiment
+      - Oil or vinegar
+      - Cosmetic product
+      - Chemical product
+      - Pharmaceutical
+      - Other
+      required: true
+    - id: 9
+      name: product_description
+      label: Product Description
+      hint: Detailed description of product
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: bottle_size
+      label: Bottle Size
+      hint: Desired bottle容量
+      type: select_multiple
+      options:
+      - 100ml or less
+      - 250ml
+      - 330ml
+      - 500ml
+      - 750ml
+      - 1L
+      - 1.5L
+      - 2L or larger
+      - Custom size
+      required: true
+    - id: 11
+      name: bottle_material
+      label: Bottle Material
+      hint: Preferred bottle material
+      type: select_one
+      options:
+      - Glass
+      - PET plastic
+      - HDPE plastic
+      - Aluminum
+      - Not sure
+      - Customer supplied
+      required: true
+    - id: 12
+      name: closure_type
+      label: Closure Type
+      hint: Type of cap or closure needed
+      type: select_one
+      options:
+      - Screw cap
+      - Sports cap
+      - Pump dispenser
+      - Spray nozzle
+      - Cork
+      - Crown cap
+      - Other
+      - Customer supplied
+      required: false
+    - id: 13
+      name: labeling_requirements
+      label: Labeling Requirements
+      hint: What labeling services are needed
+      type: select_multiple
+      options:
+      - Full wrap label
+      - Front and back labels
+      - Neck label
+      - Shrink sleeve
+      - Direct printing
+      - No labeling needed
+      - Customer will apply labels
+      required: true
+    - id: 14
+      name: estimated_volume
+      label: Estimated Monthly Volume
+      hint: Expected number of bottles per month
+      type: select_one
+      options:
+      - Under 1,000 bottles
+      - 1,000-5,000 bottles
+      - 5,000-10,000 bottles
+      - 10,000-50,000 bottles
+      - 50,000-100,000 bottles
+      - Over 100,000 bottles
+      required: true
+    - id: 15
+      name: initial_order_quantity
+      label: Initial Order Quantity
+      hint: Number of bottles for first run
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: production_timeline
+      label: Desired Production Timeline
+      hint: When do you need production to start
+      type: select_one
+      options:
+      - ASAP
+      - Within 2 weeks
+      - Within 1 month
+      - Within 3 months
+      - Flexible timing
+      required: true
+    - id: 17
+      name: packaging_requirements
+      label: Packaging Requirements
+      hint: Select packaging needs
+      type: select_multiple
+      options:
+      - Individual boxes
+      - Shrink wrap
+      - Case packing
+      - Palletizing
+      - Custom packaging
+      - No packaging needed
+      required: true
+    - id: 18
+      name: quality_certifications
+      label: Required Certifications
+      hint: Select any required quality certifications
+      type: select_multiple
+      options:
+      - FDA registered
+      - ISO 9001
+      - HACCP
+      - Organic certification
+      - Kosher
+      - Halal
+      - GMP certified
+      - None required
+      required: true
+    - id: 19
+      name: storage_needs
+      label: Storage Requirements
+      hint: Do you need warehousing services
+      type: select_one
+      options:
+      - Yes, ambient storage
+      - Yes, refrigerated storage
+      - Yes, frozen storage
+      - No storage needed
+      required: true
+    - id: 20
+      name: distribution_needs
+      label: Distribution Requirements
+      hint: Do you need distribution services
+      type: select_one
+      options:
+      - Yes, full distribution
+      - Yes, local delivery only
+      - No, will pick up
+      required: true
+    - id: 21
+      name: special_requirements
+      label: Special Requirements
+      hint: Any unique needs or specifications
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: budget_range
+      label: Budget Range
+      hint: Estimated budget per bottle
+      type: select_one
+      options:
+      - Under $0.50
+      - $0.50-$1.00
+      - $1.00-$2.00
+      - $2.00-$5.00
+      - Over $5.00
+      - Not sure
+      required: false
+    - id: 23
+      name: how_heard_about_us
+      label: How Did You Hear About Us
+      hint: What source led you to request a quote
+      type: select_one
+      options:
+      - Website
+      - Referral
+      - Trade show
+      - Online search
+      - Industry publication
+      - Other
+      required: false
+    - id: 24
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information to help us serve you
+      type: text
+      options: []
+      required: false

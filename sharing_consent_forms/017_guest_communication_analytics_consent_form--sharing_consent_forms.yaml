@@ -1,0 +1,50 @@
+inputSchema:
+  type: object
+  properties:
+    title: Guest Communication Analytics Consent Form
+    pages:
+    - id: 1
+      name: communication_analytics_consent
+      label: Guest Communication Analytics
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: consent
+      label: Consent
+      hint: null
+      type: select_one
+      options:
+      - Allow tracking
+      - Decline tracking
+      - Do not track
+      required: false
+    - id: 6
+      name: additional_info
+      label: Additional Information
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: Volunteer Scholarship Application Form
+    pages:
+    - id: 1
+      name: applicant_name
+      label: Applicant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: volunteer_hours
+      label: Volunteer Hours
+      hint: Number of volunteer hours
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: volunteer_date
+      label: Volunteer Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: school_year
+      label: School Year
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: scholarship_type
+      label: Scholarship Type
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      required: false
+    - id: 9
+      name: school_level
+      label: School Level
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 10
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 11
+      name: review_status
+      label: Review Status
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 12
+      name: submitted_date
+      label: Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: reviewer_name
+      label: Reviewer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: review_comment
+      label: Review Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: decision_status
+      label: Decision Status
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 17
+      name: reason_for_decision
+      label: Reason for Decision
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: award_amount
+      label: Award Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: payment_term
+      label: Payment Term
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 20
+      name: paid_out
+      label: Paid Out
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 21
+      name: application_fee
+      label: Application Fee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: scholarship_committee
+      label: Scholarship Committee
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 23
+      name: review_by
+      label: Review By
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 24
+      name: review_score
+      label: Review Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: additional_fields
+      label: Additional Fields
+      hint: null
+      type: note
+      options: []
+      required: false

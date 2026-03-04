@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vehicle Registration Form
+    pages:
+    - id: 1
+      name: form_data
+      label: Form Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vehicle_type
+      label: Vehicle Type
+      hint: null
+      type: select_one
+      options:
+      - Car
+      - Truck
+      - Motorcycle
+      - Van
+      - Bus
+      required: false
+    - id: 3
+      name: make
+      label: Make
+      hint: Enter the vehicle make
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: model
+      label: Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: year
+      label: Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: vin
+      label: VIN
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: color
+      label: Color
+      hint: null
+      type: select_one
+      options:
+      - Red
+      - Blue
+      - Green
+      - Yellow
+      - Gray
+      required: false
+    - id: 8
+      name: plate_number
+      label: Plate Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: owner_name
+      label: Owner Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: owner_phone
+      label: Owner Phone
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,282 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Service Form
+    pages:
+    - id: 1
+      name: client_info
+      label: Client Information
+      hint: Person requesting services
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: zip_code
+      label: ZIP Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: household_info
+      label: Household Information
+      hint: About your household
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: household_size
+      label: Total Household Members
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: children_count
+      label: Number of Children
+      hint: Under 18
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: seniors_count
+      label: Number of Seniors
+      hint: 65 and older
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: service_needs
+      label: Service Needs
+      hint: What do you need help with
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: service_type
+      label: Type of Service Needed
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Food Assistance
+      - Housing Support
+      - Utility Assistance
+      - Healthcare Services
+      - Mental Health Support
+      - Job Training
+      - Educational Support
+      - Transportation
+      - Childcare
+      - Senior Care
+      - Disability Services
+      - Legal Aid
+      - Financial Counseling
+      - Other
+      required: true
+    - id: 17
+      name: service_description
+      label: Describe Your Needs
+      hint: Be specific
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: urgency
+      label: Urgency Level
+      hint: How soon do you need help
+      type: select_one
+      options:
+      - Emergency - Immediate
+      - Urgent - Within 1 Week
+      - Soon - Within 1 Month
+      - Non-Urgent - When Available
+      required: true
+    - id: 19
+      name: income_info
+      label: Income Information
+      hint: For eligibility
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: employment_status
+      label: Employment Status
+      hint: null
+      type: select_one
+      options:
+      - Employed Full-Time
+      - Employed Part-Time
+      - Self-Employed
+      - Unemployed
+      - Retired
+      - Student
+      - Disabled
+      - Homemaker
+      required: true
+    - id: 21
+      name: household_income
+      label: Monthly Household Income
+      hint: In dollars
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: income_source
+      label: Income Sources
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Employment
+      - Self-Employment
+      - Social Security
+      - Disability Benefits
+      - Unemployment
+      - Pension
+      - Child Support
+      - Other Government Assistance
+      - Family Support
+      - Other
+      required: false
+    - id: 23
+      name: assistance_history
+      label: Have You Received Assistance Before
+      hint: null
+      type: select_one
+      options:
+      - Yes - From This Organization
+      - Yes - From Other Organizations
+      - No - First Time
+      required: true
+    - id: 24
+      name: referral_source
+      label: How Did You Hear About Us
+      hint: null
+      type: select_one
+      options:
+      - Friend or Family
+      - Social Services
+      - Healthcare Provider
+      - School
+      - Religious Organization
+      - Website
+      - Social Media
+      - Community Event
+      - Other
+      required: false
+    - id: 25
+      name: insurance
+      label: Do You Have Health Insurance
+      hint: null
+      type: select_one
+      options:
+      - Yes - Private
+      - Yes - Government
+      - false
+      - Not Sure
+      required: false
+    - id: 26
+      name: transportation
+      label: Do You Have Reliable Transportation
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Public Transportation
+      required: false
+    - id: 27
+      name: language
+      label: Preferred Language
+      hint: null
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - Chinese
+      - Vietnamese
+      - Korean
+      - Arabic
+      - French
+      - Other
+      required: true
+    - id: 28
+      name: interpreter_needed
+      label: Do You Need an Interpreter
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 29
+      name: additional_comments
+      label: Additional Information
+      hint: Anything else we should know
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: consent
+      label: Consent to Services
+      hint: I agree to receive services
+      type: select_one
+      options:
+      - Yes - I Consent
+      - No - I Do Not Consent
+      required: true

@@ -1,0 +1,145 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bed And Breakfast Hosting Participation Form
+    pages:
+    - id: 1
+      name: section_host_info
+      label: -- Host Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: primary_host_name
+      label: Primary Host Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: host_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: host_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_property_details
+      label: -- Property Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: property_name
+      label: Bed and Breakfast Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: property_address
+      label: Full Property Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: property_type
+      label: Type of Property
+      hint: null
+      type: select_one
+      options:
+      - Historic Home
+      - Modern Villa
+      - Farmhouse / Cottage
+      - Townhouse
+      - Beach House
+      - Mountain Cabin
+      required: true
+    - id: 9
+      name: number_of_rooms
+      label: Total Number of Guest Rooms
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: amenities_available
+      label: Amenities Offered
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Free Wi-Fi
+      - Full Breakfast Included
+      - Private Bathrooms
+      - Pet Friendly
+      - Free Parking
+      - Pool or Hot Tub
+      - Bicycles for Guest Use
+      required: false
+    - id: 11
+      name: maximum_guest_capacity
+      label: Maximum Total Guest Capacity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: section_hosting_terms
+      label: -- Hosting Participation Terms --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: availability_status
+      label: Current Listing Availability
+      hint: null
+      type: select_one
+      options:
+      - Year-Round
+      - Seasonal Only
+      - Weekends Only
+      required: true
+    - id: 14
+      name: hosting_agreement_check
+      label: I agree to the platform hosting standards and commission terms
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 15
+      name: insurance_verification
+      label: Do you have short-term rental or commercial liability insurance?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - In Process
+      required: true
+    - id: 16
+      name: property_description
+      label: Short Property Description for Guests
+      hint: Max 200 words
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: submission_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true

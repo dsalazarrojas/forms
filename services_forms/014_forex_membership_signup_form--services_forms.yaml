@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: forex_membership_signup_form
+    pages:
+    - id: 1
+      name: personal_info
+      label: Personal Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: membership_plan
+      label: Membership Plan
+      hint: null
+      type: select_one
+      options:
+      - Free
+      - Premium
+      - Standard
+      required: true
+    - id: 4
+      name: membership_level
+      label: Membership Level
+      hint: null
+      type: select_multiple
+      options:
+      - Basic
+      - Advanced
+      - Premium
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: confirm_email
+      label: Confirm Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: submit
+      label: Submit
+      hint: null
+      type: note
+      options: []
+      required: true

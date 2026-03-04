@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Boudoir Photography Consent Form
+    pages:
+    - id: 1
+      name: section_header_client
+      label: -- Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Full Name
+      hint: Legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_email
+      label: Email Address
+      hint: Primary communication
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: client_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: session_date
+      label: Photography Session Date
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: section_header_session_details
+      label: -- Session Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: session_duration
+      label: Session Duration
+      hint: Approximate length of session
+      type: select_one
+      options:
+      - 30 minutes
+      - 1 hour
+      - 2 hours
+      - 3 hours
+      - Full day
+      required: false
+    - id: 8
+      name: styling_included
+      label: Professional styling and makeup included
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Already arranged
+      required: false
+    - id: 9
+      name: location_type
+      label: Session Location Type
+      hint: Where the session will take place
+      type: select_one
+      options:
+      - Studio
+      - Client provided location
+      - Hotel room
+      - Outdoor
+      - Other
+      required: false
+    - id: 10
+      name: section_header_content_sharing
+      label: -- Content Sharing Permissions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: sharing_consent
+      label: I consent to sharing of my images
+      hint: Select where images may be used
+      type: select_multiple
+      options:
+      - Photographer portfolio
+      - Social media
+      - Website and online
+      - Wedding/event websites
+      - Industry publications
+      - Photography competitions
+      - Limited sharing
+      - Personal use only
+      required: true
+    - id: 12
+      name: social_media_consent
+      label: Specific social media sharing approval
+      hint: Check platforms where sharing is allowed
+      type: select_multiple
+      options:
+      - Instagram
+      - Facebook
+      - Pinterest
+      - Twitter
+      - TikTok
+      - LinkedIn
+      - No social media sharing
+      required: false
+    - id: 13
+      name: watermark_consent
+      label: Photographer may add watermark to images
+      hint: Brand protection on shared photos
+      type: select_one
+      options:
+      - Yes, approved
+      - Watermark only for web
+      - No watermark required
+      required: true
+    - id: 14
+      name: section_header_image_rights
+      label: -- Image Usage Rights --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: anonymity_preference
+      label: I prefer my identity remain anonymous
+      hint: Can use images without identifying information
+      type: select_one
+      options:
+      - Yes, anonymous only
+      - No anonymity required
+      - Case by case basis
+      required: true
+    - id: 16
+      name: editing_consent
+      label: Photographer may edit and enhance images
+      hint: Professional retouching and color correction
+      type: select_one
+      options:
+      - Yes, full editing approved
+      - Limited editing only
+      - Approval required for major changes
+      - No editing without approval
+      required: true
+    - id: 17
+      name: section_header_confidentiality
+      label: -- Confidentiality --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: confidentiality_understanding
+      label: I understand these are artistic photos
+      hint: Images may be shared professionally
+      type: select_one
+      options:
+      - I understand
+      - I need clarification
+      required: true
+    - id: 19
+      name: third_party_sharing
+      label: Images may be shared with other professionals
+      hint: For printing, albums, or other services
+      type: select_one
+      options:
+      - Yes, approved
+      - Only with approval
+      - No third-party sharing
+      required: true
+    - id: 20
+      name: image_delivery
+      label: Expected image delivery method
+      hint: How you will receive your photos
+      type: select_one
+      options:
+      - Digital download
+      - USB drive
+      - Online gallery
+      - Physical prints
+      - Multiple formats
+      required: false
+    - id: 21
+      name: final_consent
+      label: I consent to this photography agreement
+      hint: Sign to proceed with session
+      type: select_one
+      options:
+      - I fully consent
+      - I do not consent
+      - I need to discuss terms
+      required: true

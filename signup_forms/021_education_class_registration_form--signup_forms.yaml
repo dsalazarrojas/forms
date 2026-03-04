@@ -1,0 +1,129 @@
+inputSchema:
+  type: object
+  properties:
+    title: Education Class Registration Form
+    pages:
+    - id: 1
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: personal_information
+      label: Personal Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: coursework_selections
+      label: Which Coursework
+      hint: null
+      type: select_multiple
+      options:
+      - English
+      - Math
+      - Science
+      - History
+      - Arts
+      required: true
+    - id: 4
+      name: class_information
+      label: Class Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: class_schedule
+      label: Class Schedule
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: student_preferences
+      label: Student Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: student_goals
+      label: Student Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: student_notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: class_schedule_time
+      label: Class Schedule Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: student_interest
+      label: Student Interest
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: class_schedule_date
+      label: Class Schedule Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: student_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: class_schedule_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: student_email_phone
+      label: Email/Phone
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      required: false
+    - id: 15
+      name: class_schedule_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: student_schedule
+      label: Schedule
+      hint: null
+      type: select_multiple
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      required: false

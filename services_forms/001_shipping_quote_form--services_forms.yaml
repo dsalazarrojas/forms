@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Shipping Quote Form
+    pages:
+    - id: 1
+      name: shipping_quote_form
+      label: Shipping Quote Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: shipping_from_address
+      label: shipping_from_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: shipping_to_address
+      label: shipping_to_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: shipping_weight
+      label: shipping_weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: shipping_length
+      label: shipping_length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: shipping_width
+      label: shipping_width
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: shipping_height
+      label: shipping_height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: shipping_distance
+      label: shipping_distance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: shipping_insurance
+      label: shipping_insurance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: shipping_quote_total
+      label: shipping_quote_total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: shipping_quote_currency
+      label: shipping_quote_currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - JPY
+      - CNY
+      required: false
+    - id: 15
+      name: shipping_quote_notes
+      label: shipping_quote_notes
+      hint: null
+      type: note
+      options: []
+      required: false

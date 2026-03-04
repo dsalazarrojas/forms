@@ -1,0 +1,168 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Catering Equipment Report
+    pages:
+      - id: 1
+        name: engineer_header
+        label: -- Service Engineer Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: engineer_name
+        label: Engineer Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: service_date
+        label: Date of Visit
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: arrival_time
+        label: Time of Arrival
+        hint: null
+        type: time
+        options: []
+        required: true
+      - id: 5
+        name: section_site_details
+        label: -- Site and Contact --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: site_name
+        label: Site/Business Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: site_address
+        label: Site Address
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: site_contact_person
+        label: Contact Name at Site
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: section_equipment
+        label: -- Equipment and Issue --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 10
+        name: equipment_make_model
+        label: Equipment Manufacturer and Model
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 11
+        name: serial_number
+        label: Serial Number
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 12
+        name: asset_tag_number
+        label: Asset Tag Number (if applicable)
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 13
+        name: fault_reported
+        label: Problem Description (as reported)
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 14
+        name: section_work_done
+        label: -- Actions and Parts --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 15
+        name: jobs_undertaken
+        label: Description of Work Undertaken
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 16
+        name: parts_replaced_list
+        label: Parts Replaced (Include Part Numbers)
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 17
+        name: final_equipment_status
+        label: Final Equipment Status
+        hint: null
+        type: select_one
+        options:
+          - "Functional - Fully Repaired"
+          - "Functional - Temporary Fix Applied"
+          - "Non-Functional - Awaiting Parts"
+          - "Non-Functional - Requires Replacement"
+          - "Decommissioned - Uneconomical to Repair"
+        required: true
+      - id: 18
+        name: further_actions_needed
+        label: Further Actions or Recommendations
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 19
+        name: customer_signature_name
+        label: Customer/Site Rep Signature (Type Name)
+        hint: Confirming work was completed
+        type: text
+        options: []
+        required: true
+      - id: 20
+        name: engineer_signature_name
+        label: Engineer Signature (Type Name)
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 21
+        name: departure_time
+        label: Time of Departure
+        hint: null
+        type: time
+        options: []
+        required: true

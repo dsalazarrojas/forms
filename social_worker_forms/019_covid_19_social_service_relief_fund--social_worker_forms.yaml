@@ -1,0 +1,291 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Social Service Relief Fund
+    pages:
+    - id: 1
+      name: application_date
+      label: Application Date
+      hint: Date of application
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: applicant_first_name
+      label: First Name
+      hint: Legal first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: applicant_last_name
+      label: Last Name
+      hint: Legal last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email_address
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: home_address
+      label: Home Address
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: city
+      label: City
+      hint: City of residence
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: zip_code
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: household_size
+      label: Total Household Size
+      hint: Number of people
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: children_count
+      label: Number of Children Under 18
+      hint: Dependent children
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: household_income
+      label: Total Monthly Household Income
+      hint: Before taxes
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: income_source
+      label: Primary Source of Income
+      hint: Income type
+      type: select_one
+      options:
+      - Employment - full-time
+      - Employment - part-time
+      - Self-employed
+      - Unemployment benefits
+      - Social Security
+      - Disability benefits
+      - Retirement or pension
+      - No income
+      - Other
+      required: true
+    - id: 15
+      name: covid_financial_impact
+      label: How has COVID-19 impacted your finances
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Job loss
+      - Reduced work hours
+      - Reduced pay or wages
+      - Business closure
+      - Medical expenses
+      - Childcare costs
+      - Housing instability
+      - Food insecurity
+      - Utility shutoff risk
+      - No significant impact
+      required: true
+    - id: 16
+      name: assistance_type_needed
+      label: What type of assistance do you need
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Rent or mortgage assistance
+      - Utility bill assistance
+      - Food assistance
+      - Transportation assistance
+      - Medical bill assistance
+      - Childcare assistance
+      - Technology for remote learning
+      - Personal protective equipment
+      - Mental health services
+      - Job training or placement
+      - Other
+      required: true
+    - id: 17
+      name: assistance_amount_requested
+      label: Amount of Assistance Requested
+      hint: In USD
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: housing_status
+      label: What is your current housing status
+      hint: Housing situation
+      type: select_one
+      options:
+      - Own home with mortgage
+      - Own home without mortgage
+      - Renting apartment or house
+      - Living with family or friends
+      - Temporary housing
+      - Homeless
+      - Other
+      required: true
+    - id: 19
+      name: rent_mortgage_amount
+      label: Monthly Rent or Mortgage Payment
+      hint: Monthly housing cost
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: housing_arrears
+      label: Are you behind on rent or mortgage payments
+      hint: Housing payment status
+      type: select_one
+      options:
+      - No current on payments
+      - Yes 1 month behind
+      - Yes 2-3 months behind
+      - Yes 4 or more months behind
+      - Received eviction notice
+      required: true
+    - id: 21
+      name: utility_arrears
+      label: Are you behind on utility payments
+      hint: Utility payment status
+      type: select_one
+      options:
+      - No current on payments
+      - Yes 1 month behind
+      - Yes 2-3 months behind
+      - Yes 4 or more months behind
+      - Received shutoff notice
+      required: true
+    - id: 22
+      name: food_security
+      label: In the past month have you worried about running out of food
+      hint: Food security status
+      type: select_one
+      options:
+      - Never
+      - Sometimes
+      - Often
+      - Always
+      required: true
+    - id: 23
+      name: public_assistance
+      label: Do you currently receive any public assistance
+      hint: Government benefits
+      type: select_multiple
+      options:
+      - None
+      - SNAP or food stamps
+      - WIC
+      - TANF
+      - Medicaid
+      - Medicare
+      - Housing assistance
+      - Unemployment benefits
+      - Social Security
+      - Disability benefits
+      required: true
+    - id: 24
+      name: other_assistance_applied
+      label: Have you applied for other relief assistance
+      hint: Other applications
+      type: select_one
+      options:
+      - false
+      - Yes pending
+      - Yes approved
+      - Yes denied
+      required: true
+    - id: 25
+      name: personal_statement
+      label: Please explain your situation and why you need assistance
+      hint: Detailed explanation
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: referral_source
+      label: How did you hear about this relief fund
+      hint: Referral source
+      type: select_one
+      options:
+      - Social worker
+      - Community organization
+      - School
+      - Healthcare provider
+      - Religious institution
+      - Friend or family
+      - Social media
+      - Website
+      - Other
+      required: true
+    - id: 27
+      name: case_worker_name
+      label: Case Worker or Social Worker Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: case_worker_contact
+      label: Case Worker Contact Information
+      hint: Phone or email
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: applicant_signature_date
+      label: Applicant Signature Date
+      hint: Date signed
+      type: date
+      options: []
+      required: true
+    - id: 30
+      name: truthfulness_statement
+      label: I declare that the information provided is true and accurate
+      hint: Truthfulness agreement
+      type: select_one
+      options:
+      - Yes I declare this is true
+      - No I cannot declare this
+      required: true

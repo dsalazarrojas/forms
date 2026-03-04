@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Language Class Registration Form
+    pages:
+    - id: 1
+      name: student_info
+      label: Student Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: class_choice
+      label: Class Choice
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: schedule
+      label: Schedule
+      hint: Select a schedule
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: language_choice
+      label: Language Choice
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 5
+      name: class_date
+      label: Class Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: student_email
+      label: Student Email
+      hint: Enter a valid email address
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: student_phone
+      label: Student Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: note
+      label: Notes
+      hint: Enter any additional notes or comments
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: school_info
+      label: School Information
+      hint: null
+      type: text
+      options: []
+      required: false

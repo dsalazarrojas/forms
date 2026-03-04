@@ -1,0 +1,257 @@
+inputSchema:
+  type: object
+  properties:
+    title: Citizen Profile Form
+    pages:
+    - id: 1
+      name: section_header_basic_info
+      label: -- Basic Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: middle_name
+      label: Middle Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer to self-describe
+      - Prefer not to say
+      required: true
+    - id: 7
+      name: citizen_id_number
+      label: Citizen ID Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: section_header_contact
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: phone
+      label: Primary Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: alternate_phone
+      label: Alternate Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: section_header_address
+      label: -- Address Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: street_address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: state_province
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: zip_code
+      label: ZIP or Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: section_header_employment
+      label: -- Employment Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: employment_status
+      label: Employment Status
+      hint: null
+      type: select_one
+      options:
+      - Employed full-time
+      - Employed part-time
+      - Self-employed
+      - Unemployed
+      - Student
+      - Retired
+      - Disabled
+      - Homemaker
+      required: true
+    - id: 20
+      name: occupation
+      label: Occupation or Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: employer_name
+      label: Employer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: section_header_education
+      label: -- Education --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: education_level
+      label: Highest Level of Education
+      hint: null
+      type: select_one
+      options:
+      - Primary school
+      - Secondary school
+      - High school diploma
+      - Some college
+      - Associate degree
+      - Bachelor degree
+      - Master degree
+      - Doctoral degree
+      required: true
+    - id: 24
+      name: section_header_family
+      label: -- Family Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: marital_status
+      label: Marital Status
+      hint: null
+      type: select_one
+      options:
+      - Single
+      - Married
+      - Divorced
+      - Widowed
+      - In a relationship
+      - Prefer not to say
+      required: true
+    - id: 26
+      name: dependent_count
+      label: Number of Dependents
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 27
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 29
+      name: section_header_services
+      label: -- Social Services --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 30
+      name: services_needed
+      label: Types of Services Needed (Select all that apply)
+      hint: null
+      type: select_multiple
+      options:
+      - Financial assistance
+      - Housing support
+      - Healthcare services
+      - Job training
+      - Counseling
+      - Childcare assistance
+      - Food assistance
+      - Legal aid
+      required: false
+    - id: 31
+      name: special_needs
+      label: Special Needs or Accommodations Required
+      hint: null
+      type: text
+      options: []
+      required: false

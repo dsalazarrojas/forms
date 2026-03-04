@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Solar Strings Checklist
+    pages:
+    - id: 1
+      name: strings_count
+      label: Strings Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: string_type
+      label: String Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: string_material
+      label: String Material
+      hint: null
+      type: select_multiple
+      options:
+      - Copper
+      - Aluminum
+      - Brass
+      required: false
+    - id: 4
+      name: string_size
+      label: String Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: string_color
+      label: String Color
+      hint: null
+      type: select_multiple
+      options:
+      - Black
+      - Blue
+      - Red
+      required: false
+    - id: 6
+      name: string_shape
+      label: String Shape
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: string_location
+      label: String Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: string_notes
+      label: String Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: string_email
+      label: String E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: string_phone
+      label: String Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: string_date
+      label: String Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: string_time
+      label: String Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: string_status
+      label: String Status
+      hint: null
+      type: select_one
+      options:
+      - In
+      - Out
+      - Unknown
+      required: false
+    - id: 14
+      name: string_comments
+      label: String Comments
+      hint: null
+      type: text
+      options: []
+      required: false

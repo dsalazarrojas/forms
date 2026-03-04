@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mobile Inspection Form
+    pages:
+    - id: 1
+      name: inspection_form_page_1
+      label: inspection_form_page_1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: mobile_inspection_form_category_1
+      label: mobile_inspection_form_category_1
+      hint: null
+      type: select_one
+      options:
+      - Mobile Inspection Form 1
+      - Mobile Inspection Form 2
+      - Mobile Inspection Form 3
+      required: false
+    - id: 3
+      name: mobile_inspection_form_category_2
+      label: mobile_inspection_form_category_2
+      hint: null
+      type: select_multiple
+      options:
+      - Inspection Form 1
+      - Inspection Form 2
+      - Inspection Form 3
+      required: false
+    - id: 4
+      name: inspector_name
+      label: inspector_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: inspector_phone
+      label: inspector_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: inspector_email
+      label: inspector_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: inspection_date
+      label: inspection_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: inspection_time
+      label: inspection_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: observation
+      label: observation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: inspector_signature
+      label: inspector_signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: client_signature
+      label: client_signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: form_completed
+      label: form_completed
+      hint: null
+      type: note
+      options: []
+      required: false

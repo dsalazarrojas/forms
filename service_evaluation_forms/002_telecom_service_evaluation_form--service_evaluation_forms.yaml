@@ -1,0 +1,132 @@
+inputSchema:
+  type: object
+  properties:
+    title: Telecom Service Evaluation Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: telecom_service_provider
+      label: telecom_service_provider
+      hint: null
+      type: select_one
+      options:
+      - Verizon
+      - AT&T
+      - T-Mobile
+      - Sprint
+      required: false
+    - id: 3
+      name: customer_since
+      label: customer_since
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: telecom_service_quality
+      label: telecom_service_quality
+      hint: null
+      type: select_multiple
+      options:
+      - Poor
+      - Good
+      - Excellent
+      required: false
+    - id: 5
+      name: service_value
+      label: service_value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: customer_features
+      label: customer_features
+      hint: null
+      type: select_multiple
+      options:
+      - -ประก 1GB -ประก 2-3GB -ประก 4-7GB -ประก 8-11GB
+      - Other
+      required: false
+    - id: 7
+      name: telecom_service_features
+      label: telecom_service_features
+      hint: null
+      type: select_multiple
+      options:
+      - Voice
+      - Data
+      - Text
+      - Video
+      - Voice + Data
+      - Voice + Text
+      - Data + Text
+      - Video + Data
+      - Voice + Video
+      - Voice + Data + Text
+      required: false
+    - id: 8
+      name: service_pricing
+      label: service_pricing
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: customer_feedback
+      label: customer_feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: overall_satisfaction
+      label: overall_satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Poor
+      - Satisfactory
+      - Good
+      - Excellent
+      required: false
+    - id: 11
+      name: rating
+      label: rating
+      hint: null
+      type: select_multiple
+      options:
+      - '0'
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 12
+      name: telecom_service_comments
+      label: telecom_service_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: customer_contact
+      label: customer_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false

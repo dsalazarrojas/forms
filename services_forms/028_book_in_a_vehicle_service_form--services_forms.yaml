@@ -1,0 +1,211 @@
+inputSchema:
+  type: object
+  properties:
+    title: Book In A Vehicle Service Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: We will send confirmation here
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: For appointment coordination
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: address
+      label: Street Address
+      hint: Your home address
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: city
+      label: City
+      hint: Your city
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: state
+      label: State
+      hint: Your state
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: zip_code
+      label: ZIP Code
+      hint: Your ZIP code
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: vehicle_make
+      label: Vehicle Make
+      hint: Brand of your vehicle
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: vehicle_model
+      label: Vehicle Model
+      hint: Model of your vehicle
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: vehicle_year
+      label: Vehicle Year
+      hint: Year of your vehicle
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: vehicle_color
+      label: Vehicle Color
+      hint: Color of your vehicle
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: license_plate
+      label: License Plate Number
+      hint: Your license plate number
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: vin_number
+      label: VIN Number
+      hint: Vehicle Identification Number
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: current_mileage
+      label: Current Mileage
+      hint: Current odometer reading
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: service_type
+      label: Type of Service Needed
+      hint: Select the service you need
+      type: select_one
+      options:
+      - Oil Change
+      - Brake Service
+      - Tire Rotation
+      - Engine Tune-Up
+      - Transmission Service
+      - Air Conditioning
+      - Battery Replacement
+      - General Inspection
+      - Other
+      required: true
+    - id: 16
+      name: additional_services
+      label: Additional Services
+      hint: Select any additional services
+      type: select_multiple
+      options:
+      - Wheel Alignment
+      - Filter Replacement
+      - Fluid Top-Up
+      - Wiper Blade Replacement
+      - Light Inspection
+      - Belt Inspection
+      required: false
+    - id: 17
+      name: problem_description
+      label: Describe the Problem
+      hint: What issues are you experiencing
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: when_did_problem_start
+      label: When Did Problem Start
+      hint: When did you first notice the issue
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: preferred_date
+      label: Preferred Appointment Date
+      hint: When would you like service
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: preferred_time
+      label: Preferred Appointment Time
+      hint: What time works best
+      type: time
+      options: []
+      required: true
+    - id: 21
+      name: transportation_needed
+      label: Do You Need Transportation
+      hint: Select if you need a ride
+      type: select_one
+      options:
+      - Yes I need a ride
+      - No I have transportation
+      - I will wait at shop
+      required: false
+    - id: 22
+      name: how_did_you_hear
+      label: How Did You Hear About Us
+      hint: How did you find our service
+      type: select_one
+      options:
+      - Search Engine
+      - Social Media
+      - Referral
+      - Advertisement
+      - Drive By
+      - Previous Customer
+      required: false
+    - id: 23
+      name: payment_method
+      label: Preferred Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Cash
+      - Check
+      - Financing
+      required: false
+    - id: 24
+      name: special_requests
+      label: Special Requests
+      hint: Any special needs or requests
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: terms_agreement
+      label: I Agree to Service Terms
+      hint: By selecting yes you agree to terms
+      type: select_one
+      options:
+      - Yes I agree
+      - No I do not agree
+      required: true

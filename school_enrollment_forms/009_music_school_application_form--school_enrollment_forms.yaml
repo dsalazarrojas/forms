@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: music_school_application_form
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: music_interest
+      label: Music Interest
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: application_date
+      label: Application Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: instrument
+      label: Instrument
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: music_experience
+      label: Music Experience
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: music_background
+      label: Music Background
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: personal_statement
+      label: Personal Statement
+      hint: null
+      type: text
+      options: []
+      required: false

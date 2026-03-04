@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Initial Client Interview Form
+    pages:
+    - id: 1
+      name: initial_client_interview_form
+      label: client_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_services
+      label: services
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: client_contact
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: client_notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: client_phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

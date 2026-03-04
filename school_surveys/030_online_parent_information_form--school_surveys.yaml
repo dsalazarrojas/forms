@@ -1,0 +1,211 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Parent Information Form
+    pages:
+    - id: 1
+      name: main_page
+      label: main-page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: name
+      label: Parent Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: school
+      label: School
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: birthdate
+      label: Birthdate
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: grade
+      label: Grade
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: school_year
+      label: School Year
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_preferred
+      label: Contact Preferred
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Text
+      required: false
+    - id: 12
+      name: language_english
+      label: Language
+      hint: null
+      type: select_multiple
+      options:
+      - English
+      - Spanish
+      - French
+      - Other
+      required: false
+    - id: 13
+      name: school_interests
+      label: School Interests
+      hint: null
+      type: select_multiple
+      options:
+      - Art
+      - Athletics
+      - Music
+      - Drama
+      required: false
+    - id: 14
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: select_one
+      options:
+      - Parent
+      - Grandparent
+      - Other
+      - Other (Specify below)
+      required: false
+    - id: 15
+      name: emergency_contact_other
+      label: Other (Specify below)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: student_teacher_relationship
+      label: Student-Teacher Relationship
+      hint: null
+      type: select_one
+      options:
+      - Student
+      - Parent of a Student
+      - Teacher
+      - Other
+      required: false
+    - id: 17
+      name: student_parent_relationship
+      label: Student-Parent Relationship
+      hint: null
+      type: select_one
+      options:
+      - Parent
+      - Guardian
+      - Grandparent
+      - Other
+      required: false
+    - id: 18
+      name: student_age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: student_grade_level
+      label: Grade Level
+      hint: null
+      type: select_one
+      options:
+      - K-3
+      - 4-5
+      - 6-8
+      - 9-12
+      required: false
+    - id: 20
+      name: student_section
+      label: Section
+      hint: null
+      type: select_multiple
+      options:
+      - A
+      - B
+      - C
+      - D
+      required: false
+    - id: 21
+      name: student_teacher_name
+      label: Student's Teacher
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: student_teacher_relationship_other
+      label: Other (Specify below)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: student_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: student_signature
+      label: Student's Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: parent_signature
+      label: Parent's Signature
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Product Waste Reduction Grant Application Form
+    pages:
+    - id: 1
+      name: project_proposal
+      label: Project Proposal
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: project_budget
+      label: Project Budget
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: project_documents
+      label: Project Documents
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_info
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: select_one
+      label: Select One
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': ''option1''}'
+      - '{''option'': ''option2''}'
+      - '{''option'': ''option3''}'
+      required: true
+    - id: 7
+      name: select_multiple
+      label: Select Multiple
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option'': ''option1''}'
+      - option2
+      required: false
+    - id: 8
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: category_select
+      label: Category Select
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': ''option1''}'
+      - '{''option'': ''option2''}'
+      required: false
+    - id: 11
+      name: category_select_multiple
+      label: Category Select Multiple
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option'': ''option1''}'
+      - '{''option'': ''option2''}'
+      required: false
+    - id: 12
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

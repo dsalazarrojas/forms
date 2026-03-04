@@ -1,0 +1,55 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wildlife Education Feature Consent Form
+    pages:
+    - id: 1
+      name: media_type
+      label: media Type
+      hint: null
+      type: select_one
+      options:
+      - Image
+      - Video
+      - Audio
+      required: false
+    - id: 2
+      name: purpose
+      label: purpose
+      hint: null
+      type: select_multiple
+      options:
+      - For Education
+      - For Promotion
+      - For Entertainment
+      required: false
+    - id: 3
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone_number
+      label: phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: consent_given
+      label: consent Given
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

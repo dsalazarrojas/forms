@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: special-education-needs-assessment-form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: student_district
+      label: Student District
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: student_grade
+      label: Student Grade
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      required: false
+    - id: 6
+      name: student_subjects_of_interest
+      label: Student Subjects of Interest
+      hint: null
+      type: select_multiple
+      options:
+      - English
+      - Math
+      - Language Arts
+      - Science
+      - Social Sciences
+      required: false
+    - id: 7
+      name: parent_or_educator
+      label: Parent or Educator
+      hint: null
+      type: select_one
+      options:
+      - Parent
+      - Educator
+      required: false
+    - id: 8
+      name: date_created
+      label: Date Created
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time_created
+      label: Time Created
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: special_education_services_needs
+      label: Special Education Services Needed
+      hint: null
+      type: select_multiple
+      options:
+      - Speech and Language Disorder
+      - Reading/Learning Disability
+      - Emotional and Behavioral Disability
+      - Physical Disability
+      - Other
+      required: false
+    - id: 11
+      name: educational_assistance_plan
+      label: Educational Assistance Plan
+      hint: null
+      type: select_multiple
+      options:
+      - IEP with a Plan
+      - Section 504 Plan
+      - Other
+      required: false
+    - id: 12
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: student_contact
+      label: Student Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false

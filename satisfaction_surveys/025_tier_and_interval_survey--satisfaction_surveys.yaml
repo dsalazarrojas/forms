@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tier And Interval Survey
+    pages:
+    - id: 1
+      name: tier_selection
+      label: Tier Selection
+      hint: null
+      type: select_multiple
+      options:
+      - Tier 1
+      - Tier 2
+      - Tier 3
+      required: false
+    - id: 2
+      name: interval_selection
+      label: Interval
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Annually
+      required: false
+    - id: 3
+      name: satisfaction
+      label: Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: tier_comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: tier_1_comment
+      label: Tier 1
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: tier_2_comment
+      label: Tier 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: tier_3_comment
+      label: Tier 3
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: interval_1_comment
+      label: Interval 1
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: interval_2_comment
+      label: Interval 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: interval_3_comment
+      label: Interval 3
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,97 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Gender Equality Survey
+    pages:
+    - id: 1
+      name: survey_page_1
+      label: Introduction to the Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: gender_treatment
+      label: Gender Treatment
+      hint: null
+      type: select_one
+      options:
+      - Men are treated equally
+      - Men are not treated equally
+      - Women are not treated equally
+      required: false
+    - id: 3
+      name: discrimination
+      label: Do you experience discrimination?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - 'No'
+      - Sexual harassment
+      - Unfair treatment in promotions
+      - Sexist language
+      - Sexist jokes
+      - Inability to take time off when needed
+      - Unreasonable workloads
+      - Unfair pay
+      - Unfair benefits
+      - Unfair training opportunities
+      - Unfavorable work environment
+      - Unfair dress code policies
+      required: false
+    - id: 4
+      name: support_system
+      label: Support System
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - 'Yes'
+      - Men
+      - Women
+      - Unsupportive
+      required: true
+    - id: 5
+      name: worklife
+      label: Worklife
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: worklife2
+      label: How would you rate your worklife?
+      hint: On a scale of 1-5
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: gender_balance
+      label: Gender Balance
+      hint: null
+      type: select_one
+      options:
+      - Men and women are treated equally
+      - Men are favored
+      - Women are favored
+      required: false
+    - id: 8
+      name: worklife_balance
+      label: Worklife Balance
+      hint: null
+      type: select_one
+      options:
+      - Equal
+      - Men favored
+      - Women favored
+      required: false

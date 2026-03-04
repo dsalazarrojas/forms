@@ -1,0 +1,28 @@
+inputSchema:
+  type: object
+  properties:
+    title: travel_planning_inquiry_form
+    pages:
+    - id: 1
+      name: travel_planning_inquiry
+      label: travel_planning_inquiry
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: travel_planning_services
+      label: travel_planning_services
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: travel_planning_date
+      label: travel_planning_date
+      hint: null
+      type: date
+      options: []
+      required: false

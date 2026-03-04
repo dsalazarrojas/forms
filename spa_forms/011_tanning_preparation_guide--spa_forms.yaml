@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tanning Preparation Guide
+    pages:
+    - id: 1
+      name: client_details
+      label: Client Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: tanning_instructions
+      label: Tanning Instructions
+      hint: Please confirm your tanning instructions
+      type: select_multiple
+      options:
+      - Select one or more tanning options
+      - Another option
+      - More options
+      required: false
+    - id: 3
+      name: consent
+      label: Consent
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: false
+    - id: 4
+      name: appointment_date
+      label: Appointment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: appointment_time
+      label: Appointment Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: client_phone
+      label: Client Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: client_notes
+      label: Client Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: tanning_staff
+      label: Tanning Staff
+      hint: null
+      type: select_one
+      options:
+      - Staff 1
+      - Staff 2
+      required: true
+    - id: 10
+      name: confirm_email
+      label: Confirm Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: confirm_phone
+      label: Confirm Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: confirm_staff
+      label: Confirm Staff
+      hint: null
+      type: select_one
+      options:
+      - Confirm Staff 1
+      - Confirm Staff 2
+      required: false

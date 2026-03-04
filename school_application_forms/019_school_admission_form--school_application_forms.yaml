@@ -1,0 +1,260 @@
+inputSchema:
+  type: object
+  properties:
+    title: school_admission_form
+    pages:
+    - id: 1
+      name: new_school
+      label: New School
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date Of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: parent_name
+      label: Parent Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: student_address
+      label: Student Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: guardian_name
+      label: Guardian Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: guardian_phone
+      label: Guardian Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: student_school_name
+      label: Student School Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: student_class
+      label: Student Class
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Class 1''}'
+      - '{''value'': 2, ''label'': ''Class 2''}'
+      required: true
+    - id: 12
+      name: student_level
+      label: Student Level
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 5, ''label'': 5}'
+      - '{''value'': 6, ''label'': 6}'
+      required: true
+    - id: 13
+      name: student_gender
+      label: Student Gender
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''male'', ''label'': ''Male''}'
+      - '{''value'': ''female'', ''label'': ''Female''}'
+      required: true
+    - id: 14
+      name: parent_signature
+      label: Parent Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 15
+      name: student_signature
+      label: Student Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 16
+      name: parent_email
+      label: Parent Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: student_date_of_admission
+      label: Student Date Of Admission
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: student_start_date
+      label: Student Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: student_grade
+      label: Student Grade
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Grade 1''}'
+      - '{''value'': 2, ''label'': ''Grade 2''}'
+      - '{''value'': 3, ''label'': ''Grade 3''}'
+      required: true
+    - id: 20
+      name: student_language
+      label: Student Language
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''English'', ''label'': ''English''}'
+      - '{''value'': ''Spanish'', ''label'': ''Spanish''}'
+      - '{''value'': ''French'', ''label'': ''French''}'
+      required: true
+    - id: 21
+      name: student_nationality
+      label: Student Nationality
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''American'', ''label'': ''American''}'
+      - '{''value'': ''Chinese'', ''label'': ''Chinese''}'
+      - '{''value'': ''Indian'', ''label'': ''Indian''}'
+      required: true
+    - id: 22
+      name: student_height
+      label: Student Height
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: student_weight
+      label: Student Weight
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: student_height_unit
+      label: Student Height Unit
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''feet'', ''label'': ''feet''}'
+      - '{''value'': ''inches'', ''label'': ''inches''}'
+      required: true
+    - id: 25
+      name: student_document_id
+      label: Student Document ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: guardian_document_id
+      label: Guardian Document ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: student_parent_guardian_name
+      label: Student Parent Guardian Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: student_parent_guardian_phone
+      label: Student Parent Guardian Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 29
+      name: student_parent_guardian_email
+      label: Student Parent Guardian Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 30
+      name: student_remarks
+      label: Student Remarks
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 31
+      name: student_parent_signature
+      label: Student Parent Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 32
+      name: student_signature
+      label: Student Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 33
+      name: student_dob
+      label: Student DOB
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 34
+      name: student_start_date
+      label: Student Start Date
+      hint: null
+      type: date
+      options: []
+      required: true

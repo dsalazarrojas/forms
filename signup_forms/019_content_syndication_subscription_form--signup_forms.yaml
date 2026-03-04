@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: Content Syndication Subscription Form
+    pages:
+    - id: 1
+      name: subscription_intro_header
+      label: -- Stay Updated --
+      hint: Get the latest syndicated content delivered to your inbox
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: subscriber_full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: subscriber_email
+      label: Email Address
+      hint: Use your business email for industry updates
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: professional_info_header
+      label: -- Professional Profile --
+      hint: This helps us send content relevant to your career
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: job_title
+      label: Current Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: company_size
+      label: Company Size
+      hint: null
+      type: select_one
+      options:
+      - 1-10 Employees
+      - 11-50 Employees
+      - 51-200 Employees
+      - 201-500 Employees
+      - 501-1,000 Employees
+      - 1,000 plus Employees
+      required: true
+    - id: 7
+      name: industry_interest
+      label: Industry Focus
+      hint: Select your primary area of interest
+      type: select_one
+      options:
+      - Cyber Security
+      - Cloud Computing
+      - Digital Marketing
+      - FinTech
+      - HealthTech
+      - Sustainable Energy
+      required: true
+    - id: 8
+      name: content_preferences_header
+      label: -- Content Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: subscription_frequency
+      label: How often would you like to hear from us
+      hint: null
+      type: select_one
+      options:
+      - Real-time (As it is published)
+      - Weekly Digest
+      - Monthly Roundup
+      required: true
+    - id: 10
+      name: interests_selection
+      label: Specific Topics of Interest
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Leadership and Management
+      - Technical Tutorials
+      - Market Research and Data
+      - Case Studies and Success Stories
+      - Webinar Announcements
+      required: true
+    - id: 11
+      name: partner_offers_opt_in
+      label: Receive occasional updates from our partners
+      hint: null
+      type: select_one
+      options:
+      - Yes, I am interested
+      - No, newsletter only
+      required: true
+    - id: 12
+      name: data_consent_agreement
+      label: I agree to the privacy policy and terms of use
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 13
+      name: registration_date
+      label: Date of Registration
+      hint: null
+      type: date
+      options: []
+      required: true

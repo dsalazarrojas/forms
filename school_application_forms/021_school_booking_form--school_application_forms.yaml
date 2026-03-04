@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: school_booking_form
+    pages:
+    - id: 1
+      name: booking_request
+      label: Booking Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_request
+      label: date_request
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: time_request
+      label: time_request
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: school_name
+      label: school_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: booking_type
+      label: booking_type
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 6
+      name: facilities_requested
+      label: facilities_requested
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 7
+      name: contact_person
+      label: contact_person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: note
+      options: []
+      required: false

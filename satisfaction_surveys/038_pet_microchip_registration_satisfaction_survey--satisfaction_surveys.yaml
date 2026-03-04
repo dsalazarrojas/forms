@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pet Microchip Registration Satisfaction Survey
+    pages:
+    - id: 1
+      name: pet_microchip_registration_satisfaction_survey
+      label: pet_microchip_registration_satisfaction_survey_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: overall_satisfaction
+      label: overall_satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: clarity_satisfaction
+      label: clarity_satisfaction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: communication_satisfaction
+      label: communication_satisfaction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: process_satisfaction
+      label: process_satisfaction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: microchip_registration_service
+      label: microchip_registration_service
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Satisfactory''}'
+      - '{''label'': ''Poor''}'
+      - '{''label'': ''Very Poor''}'
+      required: false
+    - id: 7
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: email
+      options: []
+      required: false

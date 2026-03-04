@@ -1,0 +1,180 @@
+inputSchema:
+  type: object
+  properties:
+    title: Advanced Facial Treatments And Chemical Peels Client Consent Form
+    pages:
+    - id: 1
+      name: client_information_section
+      label: -- Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_full_name
+      label: Client Full Name
+      hint: Legal full name of the client
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: Client's date of birth
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: contact_number
+      label: Contact Number
+      hint: Phone number for appointment reminders
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: Email for communication
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: medical_history_section
+      label: -- Medical History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: current_medications
+      label: Current Medications
+      hint: List any medications you are currently taking
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: skin_conditions
+      label: Skin Conditions
+      hint: Do you have any existing skin conditions
+      type: select_multiple
+      options:
+      - Acne
+      - Rosacea
+      - Eczema
+      - Psoriasis
+      - Sensitive skin
+      - None
+      - Other
+      required: true
+    - id: 9
+      name: previous_adverse_reactions
+      label: Previous Adverse Reactions
+      hint: Have you had any adverse reactions to skincare treatments
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unsure
+      required: true
+    - id: 10
+      name: pregnancy_status
+      label: Pregnancy Status
+      hint: Are you pregnant or nursing
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Trying to conceive
+      required: true
+    - id: 11
+      name: treatment_information_section
+      label: -- Treatment Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: treatment_type
+      label: Treatment Type
+      hint: Which treatment are you receiving
+      type: select_one
+      options:
+      - Chemical Peel
+      - Advanced Facial
+      - Microdermabrasion
+      - Laser Treatment
+      - Combination Treatment
+      required: true
+    - id: 13
+      name: treatment_area
+      label: Treatment Area
+      hint: Which area will be treated
+      type: select_one
+      options:
+      - Face
+      - Neck
+      - Hands
+      - Chest
+      - Full face and neck
+      required: true
+    - id: 14
+      name: peel_depth
+      label: Peel Depth
+      hint: If applicable, what depth of chemical peel
+      type: select_one
+      options:
+      - Superficial
+      - Medium
+      - Deep
+      - Not applicable
+      required: true
+    - id: 15
+      name: risks_and_consents_section
+      label: -- Risks and Consents --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: risk_acknowledgment
+      label: Risk Acknowledgment
+      hint: Do you acknowledge the potential risks of the treatment
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: common_risks_acknowledged
+      label: Common Risks Acknowledged
+      hint: Do you understand the common risks (redness, peeling, sensitivity)
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: rare_risks_acknowledged
+      label: Rare Risks Acknowledged
+      hint: Do you understand rare risks (scarring, infection, hyperpigmentation)
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: consent_to_proceed
+      label: Consent to Proceed
+      hint: Do you consent to proceed with the treatment
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: signature_date
+      label: Signature Date
+      hint: Date of signing this consent form
+      type: date
+      options: []
+      required: true

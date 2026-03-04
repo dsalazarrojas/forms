@@ -1,0 +1,235 @@
+inputSchema:
+  type: object
+  properties:
+    title: Before And Afterschool Care Registration
+    pages:
+    - id: 1
+      name: section_student
+      label: -- Student Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_first_name
+      label: Student First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_last_name
+      label: Student Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: grade_level
+      label: Current Grade Level
+      hint: null
+      type: select_one
+      options:
+      - K
+      - 1st
+      - 2nd
+      - 3rd
+      - 4th
+      - 5th
+      - 6th
+      required: true
+    - id: 6
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_parent
+      label: -- Parent/Guardian Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: parent_name
+      label: Parent/Guardian Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: relationship
+      label: Relationship to Student
+      hint: null
+      type: select_one
+      options:
+      - Parent
+      - Guardian
+      - Grandparent
+      - Other
+      required: true
+    - id: 10
+      name: home_address
+      label: Home Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: home_phone
+      label: Home Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: work_phone
+      label: Work Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 14
+      name: section_emergency
+      label: -- Emergency Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: emergency_contact_1
+      label: Primary Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: emergency_phone_1
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: emergency_contact_2
+      label: Secondary Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: emergency_phone_2
+      label: Secondary Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: section_physician
+      label: -- Physician Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: physician_name
+      label: Physician Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: physician_phone
+      label: Physician Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: section_health
+      label: -- Health History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: allergies
+      label: Allergies
+      hint: Food, medication, environmental allergies
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: medical_conditions
+      label: Medical Conditions or Chronic Illnesses
+      hint: Asthma, diabetes, etc.
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: medications
+      label: Current Medications
+      hint: Name, dosage, frequency
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: section_program
+      label: -- Program Enrollment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: before_school_care
+      label: Before School Care Requested
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 28
+      name: after_school_care
+      label: After School Care Requested
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 29
+      name: program_start_date
+      label: Program Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 30
+      name: days_per_week
+      label: Number of Days Per Week
+      hint: null
+      type: select_one
+      options:
+      - 1 Day
+      - 2 Days
+      - 3 Days
+      - 4 Days
+      - 5 Days
+      required: true

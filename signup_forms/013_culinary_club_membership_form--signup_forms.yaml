@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Culinary Club Membership Form
+    pages:
+    - id: 1
+      name: main
+      label: membership
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: main
+      label: activities
+      hint: What activities would you like to participate in?
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: main
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: main
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: main
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: main
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: main
+      label: preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: main
+      label: signup
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

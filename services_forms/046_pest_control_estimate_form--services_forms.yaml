@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pest Control Estimate Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: estimate_date
+      label: Estimate Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: service_type
+      label: Service Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: pest_types
+      label: Pest Types
+      hint: null
+      type: select_multiple
+      options:
+      - bed bug
+      - bed bug
+      - carpet beetle
+      - cockroach
+      - cockroach infestation
+      - flea
+      - flea infestation
+      - mouse
+      - rodent
+      - silverfish
+      required: false
+    - id: 6
+      name: service_frequency
+      label: Service Frequency
+      hint: null
+      type: select_one
+      options:
+      - 1 time
+      - 2 times
+      - 3 times
+      required: false
+    - id: 7
+      name: estimate_cost
+      label: Estimate Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: service_provider
+      label: Service Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false

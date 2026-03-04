@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Software Project Outcome Report Form
+    pages:
+    - id: 1
+      name: project_id
+      label: Project ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: project_name
+      label: project_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - '{''ID'': 1, ''label'': ''Active'', ''value'': ''active''}'
+      - '{''ID'': 2, ''label'': ''Inactive'', ''value'': ''inactive''}'
+      - '{''ID'': 3, ''label'': ''On Hold'', ''value'': ''on_hold''}'
+      required: false
+    - id: 4
+      name: project_manager_id
+      label: Project Manager
+      hint: null
+      type: select_multiple
+      options:
+      - '{''ID'': 1, ''label'': ''Manager A'', ''value'': ''manager_a''}'
+      - '{''ID'': 2, ''label'': ''Manager B'', ''value'': ''manager_b''}'
+      required: false
+    - id: 5
+      name: outcome_achieved
+      label: Outcome Achieved
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: outcome_status
+      label: Outcome Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: stakeholder_comments
+      label: Stakeholder Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: team_member_comments
+      label: Team Member Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: project_closeout_date
+      label: Project Closeout Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: stakeholder_input
+      label: Stakeholder Input
+      hint: null
+      type: select_multiple
+      options:
+      - '{''ID'': 1, ''label'': ''Agree'', ''value'': ''agree''}'
+      - '{''ID'': 2, ''label'': ''Disagree'', ''value'': ''disagree''}'
+      - '{''ID'': 3, ''label'': ''No Opinion'', ''value'': ''no_opinion''}'
+      required: false
+    - id: 11
+      name: project_outcome
+      label: Project Outcome
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: outcome_impact
+      label: Outcome Impact
+      hint: null
+      type: select_one
+      options:
+      - '{''ID'': 1, ''label'': ''High'', ''value'': ''high''}'
+      - '{''ID'': 2, ''label'': ''Medium'', ''value'': ''medium''}'
+      - '{''ID'': 3, ''label'': ''Low'', ''value'': ''low''}'
+      required: false
+    - id: 13
+      name: outcome_value
+      label: Outcome Value
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: project_outcome_notes
+      label: Project Outcome Notes
+      hint: null
+      type: note
+      options: []
+      required: false

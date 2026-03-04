@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: sign_up_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: password
+      label: Password
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: confirm_password
+      label: Confirm
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: suggest_user
+      label: Suggest
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: agree_terms
+      label: Agree
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''agree''}'
+      - '{''value'': ''decline''}'
+      required: false
+    - id: 9
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

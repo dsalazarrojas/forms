@@ -1,0 +1,166 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 School Reporting Form
+    pages:
+    - id: 1
+      name: school_name
+      label: School Name
+      hint: Enter the official name of your school
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: reporting_date
+      label: Report Date
+      hint: Date of this COVID-19 status report
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: school_district
+      label: School District
+      hint: Name of the school district or education authority
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_person
+      label: Reporting Contact Name
+      hint: Name of person completing this report
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_email
+      label: Contact Email
+      hint: Email address for report inquiries
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: contact_phone
+      label: Contact Phone Number
+      hint: Phone number for report inquiries
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: vaccination_status_note
+      label: -- Vaccination Status --
+      hint: Report on the vaccination status of students and staff
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: students_vaccinated_count
+      label: Number of Students Fully Vaccinated
+      hint: Count of students with complete vaccination series
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: students_partial_vaccinated
+      label: Number of Students Partially Vaccinated
+      hint: Count of students with one dose of two-dose vaccine
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: students_not_vaccinated
+      label: Number of Students Not Vaccinated
+      hint: Count of students with no vaccination doses
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: staff_vaccinated_count
+      label: Number of Staff Members Fully Vaccinated
+      hint: Count of fully vaccinated faculty and staff
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: staff_not_vaccinated
+      label: Number of Staff Members Not Vaccinated
+      hint: Count of staff with no vaccination doses
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: vaccination_rate
+      label: Overall School Vaccination Rate - Percentage
+      hint: Estimated percentage of total school population vaccinated
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: cases_reported_note
+      label: -- COVID-19 Cases --
+      hint: Report on confirmed cases in the school community
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: confirmed_cases_students
+      label: Confirmed Cases Among Students
+      hint: Number of confirmed COVID-19 cases in students this month
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: confirmed_cases_staff
+      label: Confirmed Cases Among Staff
+      hint: Number of confirmed COVID-19 cases in staff this month
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: school_closure_status
+      label: School Closure Status
+      hint: Current status regarding building access and operations
+      type: select_one
+      options:
+      - Fully Open
+      - Partial Closure
+      - Full Closure
+      - Hybrid Schedule
+      required: true
+    - id: 18
+      name: remote_learning_percentage
+      label: Percentage of Classes Offered Remotely
+      hint: What percent of classes are being conducted remotely
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: testing_program_status
+      label: School Testing Program Status
+      hint: Do you have an on-site testing program
+      type: select_one
+      options:
+      - Yes, Active
+      - Yes, Paused
+      - false
+      - Planned
+      required: true
+    - id: 20
+      name: safety_measures
+      label: Current Safety Measures in Place
+      hint: Select all measures currently implemented
+      type: select_multiple
+      options:
+      - Mask Requirements
+      - Enhanced Cleaning
+      - Social Distancing
+      - Air Filtration Upgrades
+      - Quarantine Protocols
+      - Health Screening Checks
+      required: false
+    - id: 21
+      name: additional_notes
+      label: Additional Notes or Concerns
+      hint: Any other relevant information about school COVID-19 status
+      type: text
+      options: []
+      required: false

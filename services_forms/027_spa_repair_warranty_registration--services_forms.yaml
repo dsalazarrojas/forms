@@ -1,0 +1,128 @@
+inputSchema:
+  type: object
+  properties:
+    title: Spa Repair Warranty Registration
+    pages:
+    - id: 1
+      name: form_header
+      label: Form Header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_details
+      label: Client Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: repair_description
+      label: Repair Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: warranty_type
+      label: Warranty Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: warranty_date
+      label: Warranty Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: warranty_end_date
+      label: Warranty End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: technician_details
+      label: Technician Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: spa_name
+      label: Spa Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: spa_address
+      label: Spa Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: spa_phone
+      label: Spa Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: spa_email
+      label: Spa Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: submitter_details
+      label: Submitter Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: submitter_contact
+      label: Submitter Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: submitter_notes
+      label: Submitter Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: submitted_at
+      label: Submitted At
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: submitted_to
+      label: Submitted To
+      hint: null
+      type: text
+      options: []
+      required: true

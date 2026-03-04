@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: Army Training Schedule Form
+    pages:
+    - id: 1
+      name: section_unit
+      label: -- Unit Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: unit_name
+      label: Unit Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: unit_commander
+      label: Unit Commander Name and Rank
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: training_coordinator
+      label: Training Coordinator Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_schedule
+      label: -- Training Schedule --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: schedule_period
+      label: Schedule Period
+      hint: null
+      type: select_one
+      options:
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Annual
+      required: true
+    - id: 7
+      name: training_start_date
+      label: Training Period Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: training_end_date
+      label: Training Period End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: section_course_1
+      label: -- Course 1 Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: course_1_name
+      label: Course 1 Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: course_1_type
+      label: Course Type
+      hint: null
+      type: select_one
+      options:
+      - Basic training
+      - Advanced skills
+      - Leadership development
+      - Technical training
+      - Physical fitness
+      - Other
+      required: true
+    - id: 12
+      name: course_1_start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: course_1_duration_hours
+      label: Duration in Hours
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: course_1_participants
+      label: Number of Participants
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: course_1_instructor
+      label: Primary Instructor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: course_1_location
+      label: Training Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: section_course_2
+      label: -- Course 2 Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: course_2_name
+      label: Course 2 Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: course_2_type
+      label: Course Type
+      hint: null
+      type: select_one
+      options:
+      - Basic training
+      - Advanced skills
+      - Leadership development
+      - Technical training
+      - Physical fitness
+      - Other
+      required: false
+    - id: 20
+      name: course_2_start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: course_2_duration_hours
+      label: Duration in Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: course_2_participants
+      label: Number of Participants
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: section_resources
+      label: -- Resources and Support --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: equipment_needs
+      label: Equipment or Resources Needed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: budget_approved
+      label: Budget Approved for Training
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Pending
+      required: true

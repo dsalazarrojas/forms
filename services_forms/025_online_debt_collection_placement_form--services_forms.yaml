@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: online_debt_collection_placement_form
+    pages:
+    - id: 1
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: debt_info
+      label: Debt Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: debtors
+      label: Debtors
+      hint: null
+      type: select_one
+      options:
+      - Debtors 1
+      - Debtors 2
+      - Debtors 3
+      required: false
+    - id: 5
+      name: collection_status
+      label: Collection Status
+      hint: null
+      type: select_multiple
+      options:
+      - Paid
+      - Unpaid
+      required: false
+    - id: 6
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: collection_date
+      label: Collection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: collection_term
+      label: Collection Term
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false

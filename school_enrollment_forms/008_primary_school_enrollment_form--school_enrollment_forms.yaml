@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: primary_school_enrollment_form
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: parent_name
+      label: Parent Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: grade_level
+      label: Grade Level
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: true
+    - id: 4
+      name: enrollment_date
+      label: Enrollment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: student_phone
+      label: Student Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: parent_phone
+      label: Parent Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: student_address
+      label: Student Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: parent_address
+      label: Parent Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: student_dob
+      label: Student DOB
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: student_gender
+      label: Student Gender
+      hint: null
+      type: select_multiple
+      options:
+      - Male
+      - Female
+      required: false
+    - id: 12
+      name: parent_dob
+      label: Parent DOB
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: emergency_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: allergy
+      label: Allergies
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Food
+      - Environmental
+      - Medications
+      required: false
+    - id: 16
+      name: medical_condition
+      label: Medical Conditions
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Asthma
+      - Diabetic
+      - Epilepsy
+      - Heart Condition
+      required: false
+    - id: 17
+      name: other_medical_condition
+      label: Other Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: medical_device
+      label: Medical Devices
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Wheelchair
+      - Oxygen Tank
+      - Hearing Aid
+      - Walker
+      - Other
+      required: false
+    - id: 19
+      name: emergency_contact_relationship
+      label: Relationship to Student
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: student_image
+      label: Student Image
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: student_document
+      label: Student Document
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: parent_image
+      label: Parent Image
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: additional_info
+      label: Additional Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: confirmation
+      label: Confirmation
+      hint: null
+      type: text
+      options: []
+      required: true

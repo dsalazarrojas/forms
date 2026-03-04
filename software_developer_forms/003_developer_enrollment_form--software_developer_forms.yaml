@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Developer Enrollment Form
+    pages:
+    - id: 1
+      name: enrollment_form
+      label: Enrollment Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: program_name
+      label: Program Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: program_type
+      label: Program Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: developer_type
+      label: Developer Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: agreement_checkbox
+      label: Agreement
+      hint: Check this box to indicate you have read and agreed to the terms
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: terms_of_use
+      label: Terms of Use
+      hint: Check this box to indicate you have read and agreed to the terms
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: agreement_text
+      label: Agreement Text
+      hint: null
+      type: text
+      options: []
+      required: false

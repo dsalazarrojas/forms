@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Baptism Sponsor Form
+    pages:
+    - id: 1
+      name: application_date
+      label: Application Date
+      hint: Date of sponsor application
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: sponsor_first_name
+      label: Sponsor First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: sponsor_last_name
+      label: Sponsor Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: sponsor_dob
+      label: Date of Birth
+      hint: Your date of birth
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: sponsor_email
+      label: Email Address
+      hint: Your email contact
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: sponsor_phone
+      label: Phone Number
+      hint: Your contact phone
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: sponsor_address
+      label: Street Address
+      hint: Your residential address
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: sponsor_city
+      label: City
+      hint: City of residence
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: sponsor_state
+      label: State or Province
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: sponsor_zip
+      label: ZIP or Postal Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: sponsored_candidate
+      label: Name of Baptism Candidate
+      hint: Who are you sponsoring?
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: relationship_to_candidate
+      label: Your Relationship to Candidate
+      hint: How are you related?
+      type: select_one
+      options:
+      - Parent
+      - Grandparent
+      - Aunt or Uncle
+      - Sibling
+      - Close Friend
+      - Other
+      required: true
+    - id: 13
+      name: faith_status
+      label: Current Faith Status
+      hint: Your religious affiliation
+      type: select_one
+      options:
+      - Catholic (Confirmed)
+      - Catholic (Not Confirmed)
+      - Other Christian Denomination
+      - No Current Religious Affiliation
+      - Practicing Same Faith as Candidate
+      required: true
+    - id: 14
+      name: parish_membership
+      label: Parish or Church Membership
+      hint: Your current parish affiliation
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: active_participation
+      label: Active Church Participation
+      hint: How active are you in your faith community?
+      type: select_one
+      options:
+      - Very Active
+      - Regular Attendee
+      - Occasional Attendee
+      - Believe but Not Active
+      - Attempting to Renew Faith
+      required: true
+    - id: 16
+      name: sacraments_completed
+      label: Sacraments Completed
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Baptism
+      - Reconciliation
+      - First Holy Communion
+      - Confirmation
+      - Eucharist
+      required: false
+    - id: 17
+      name: moral_character
+      label: Confirmation of Moral Character
+      hint: I attest to good moral character
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: sponsor_responsibilities
+      label: Do You Understand Sponsor Responsibilities?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Need More Information
+      required: true
+    - id: 19
+      name: commitment_statement
+      label: Statement of Commitment
+      hint: Brief statement of your commitment to sponsor role
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: alternative_sponsor
+      label: Is There an Alternate Sponsor?
+      hint: If you cannot fulfill the role
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: alternate_sponsor_name
+      label: Alternate Sponsor Name
+      hint: Name of backup sponsor
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: agreement_confirmation
+      label: I agree to the sponsor responsibilities and requirements
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

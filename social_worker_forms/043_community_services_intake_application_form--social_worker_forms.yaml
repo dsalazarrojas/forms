@@ -1,0 +1,372 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Services Intake Application Form
+    pages:
+    - id: 1
+      name: applicant_info
+      label: Applicant Information
+      hint: Your personal details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: middle_name
+      label: Middle Name
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-Binary
+      - Transgender
+      - Prefer Not to Say
+      - Other
+      required: true
+    - id: 7
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: zip_code
+      label: ZIP Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: ssn
+      label: Last 4 Digits of SSN
+      hint: For verification
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: household_info
+      label: Household Information
+      hint: About your household
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: household_size
+      label: Total Household Members
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: dependents_count
+      label: Number of Dependents
+      hint: Children or other dependents
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: household_members
+      label: Names and Ages of Household Members
+      hint: List all members
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: housing_info
+      label: Housing Information
+      hint: Your living situation
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: housing_status
+      label: Current Housing Status
+      hint: null
+      type: select_one
+      options:
+      - Own Home
+      - Rent Apartment
+      - Rent House
+      - Living with Family
+      - Living with Friends
+      - Shelter
+      - Unstable Housing
+      - Homeless
+      required: true
+    - id: 20
+      name: monthly_rent
+      label: Monthly Rent or Mortgage
+      hint: In dollars
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: eviction_risk
+      label: Are You at Risk of Eviction
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 22
+      name: income_info
+      label: Income Information
+      hint: Household income
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: employment_status
+      label: Employment Status
+      hint: null
+      type: select_one
+      options:
+      - Employed Full-Time
+      - Employed Part-Time
+      - Self-Employed
+      - Unemployed
+      - Retired
+      - Disabled
+      - Student
+      - Homemaker
+      required: true
+    - id: 24
+      name: monthly_income
+      label: Total Monthly Household Income
+      hint: In dollars
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: income_sources
+      label: Income Sources
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Wages or Salary
+      - Self-Employment
+      - Social Security
+      - SSI or SSDI
+      - Unemployment Benefits
+      - Workers Compensation
+      - Child Support
+      - Alimony
+      - Pension
+      - Veterans Benefits
+      - TANF
+      - SNAP
+      - Other
+      required: true
+    - id: 26
+      name: expenses
+      label: Monthly Expenses
+      hint: Financial obligations
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: monthly_utilities
+      label: Monthly Utility Costs
+      hint: In dollars
+      type: number
+      options: []
+      required: false
+    - id: 28
+      name: monthly_food
+      label: Monthly Food Costs
+      hint: In dollars
+      type: number
+      options: []
+      required: false
+    - id: 29
+      name: monthly_medical
+      label: Monthly Medical Costs
+      hint: In dollars
+      type: number
+      options: []
+      required: false
+    - id: 30
+      name: monthly_debt
+      label: Monthly Debt Payments
+      hint: In dollars
+      type: number
+      options: []
+      required: false
+    - id: 31
+      name: services_needed
+      label: Services Needed
+      hint: What help do you need
+      type: note
+      options: []
+      required: false
+    - id: 32
+      name: service_types
+      label: Types of Assistance Needed
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Emergency Financial Assistance
+      - Food Assistance
+      - Housing Assistance
+      - Utility Assistance
+      - Healthcare Services
+      - Mental Health Services
+      - Substance Abuse Services
+      - Job Training
+      - Educational Services
+      - Childcare
+      - Senior Services
+      - Disability Services
+      - Legal Services
+      - Transportation
+      - Other
+      required: true
+    - id: 33
+      name: service_description
+      label: Describe Your Needs
+      hint: Be specific
+      type: text
+      options: []
+      required: true
+    - id: 34
+      name: urgency
+      label: Urgency Level
+      hint: How soon do you need help
+      type: select_one
+      options:
+      - Emergency - Immediate
+      - Urgent - Within 1 Week
+      - Soon - Within 1 Month
+      - Non-Urgent
+      required: true
+    - id: 35
+      name: referral_source
+      label: How Did You Hear About Us
+      hint: null
+      type: select_one
+      options:
+      - Friend or Family
+      - Social Services Agency
+      - Healthcare Provider
+      - School
+      - Religious Organization
+      - Website
+      - Social Media
+      - Community Event
+      - Other
+      required: false
+    - id: 36
+      name: previous_services
+      label: Have You Received Services from Us Before
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 37
+      name: consent
+      label: Consent and Authorization
+      hint: Important agreements
+      type: note
+      options: []
+      required: false
+    - id: 38
+      name: consent_services
+      label: I Consent to Receive Services
+      hint: null
+      type: select_one
+      options:
+      - Yes - I Consent
+      - No - I Do Not Consent
+      required: true
+    - id: 39
+      name: consent_verification
+      label: I Consent to Verification of Information
+      hint: null
+      type: select_one
+      options:
+      - Yes - I Consent
+      - No - I Do Not Consent
+      required: true
+    - id: 40
+      name: accuracy_statement
+      label: I Certify This Information Is True
+      hint: null
+      type: select_one
+      options:
+      - Yes - I Certify
+      - No - I Do Not Certify
+      required: true
+    - id: 41
+      name: applicant_signature
+      label: Applicant Signature
+      hint: Type your full name
+      type: text
+      options: []
+      required: true
+    - id: 42
+      name: signature_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true

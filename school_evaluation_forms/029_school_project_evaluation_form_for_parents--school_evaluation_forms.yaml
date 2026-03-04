@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Project Evaluation Form For Parents
+    pages:
+    - id: 1
+      name: school_project_evaluation_form_for_parents_page_1
+      label: School Project Evaluation Form For Parents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: overall_rating
+      label: Overall Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: school_project_evaluation_form_for_parents_page_2
+      label: Parent Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: school_project_evaluation_form_for_parents_page_3
+      label: Comments
+      hint: Provide specific comments on the project
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: school_project_evaluation_form_for_parents_page_4
+      label: Will the project be implemented?
+      hint: null
+      type: select_one
+      options:
+      - Implemented
+      - Not Implemented
+      - Partially Implemented
+      required: true
+    - id: 6
+      name: school_project_evaluation_form_for_parents_page_5
+      label: Why was the project not implemented?
+      hint: null
+      type: select_multiple
+      options:
+      - Not enough time
+      - Financial constraints
+      - Lack of resources
+      required: false
+    - id: 7
+      name: school_project_evaluation_form_for_parents_page_6
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: school_project_evaluation_form_for_parents_page_7
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

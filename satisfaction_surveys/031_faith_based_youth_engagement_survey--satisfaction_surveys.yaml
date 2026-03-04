@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Faith Based Youth Engagement Survey
+    pages:
+    - id: 1
+      name: youth_id
+      label: Youth ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: age
+      label: Age
+      hint: Please enter age
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: main_question_1
+      label: How do you feel about your current relationship with God?
+      hint: null
+      type: select_one
+      options:
+      - Closely related
+      - Somewhat related
+      - Not related
+      - Don't know
+      required: false
+    - id: 7
+      name: main_question_2
+      label: What does it mean to have faith?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: main_question_3
+      label: How do you currently use your faith to guide your life?
+      hint: null
+      type: select_multiple
+      options:
+      - Prayer and meditation
+      - Reading and study
+      - Service and mission
+      - Other (please specify)
+      required: false
+    - id: 9
+      name: main_question_4
+      label: How do you rate your current level of engagement with our ministry?
+      hint: null
+      type: select_one
+      options:
+      - Highly engaged
+      - Somewhat engaged
+      - Not engaged
+      - Don't know
+      required: false
+    - id: 10
+      name: main_question_5
+      label: How often do you attend a church service?
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
+      - Never
+      required: false

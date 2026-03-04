@@ -1,0 +1,124 @@
+inputSchema:
+  type: object
+  properties:
+    title: Apprenticeship Program Waitlist Form
+    pages:
+    - id: 1
+      name: personal_info
+      label: Personal Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: education_info
+      label: Education and Background
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: highest_education
+      label: Highest Level of Education
+      hint: null
+      type: select_one
+      options:
+      - High School
+      - Some College
+      - Associate Degree
+      - Bachelor Degree
+      - Other
+      required: true
+    - id: 9
+      name: prior_apprenticeship
+      label: Prior Apprenticeship Experience
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: program_selection
+      label: Program Selection
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: program_of_interest
+      label: Apprenticeship Program of Interest
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: start_date_preference
+      label: Preferred Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: availability
+      label: Current Employment Status
+      hint: null
+      type: select_one
+      options:
+      - Currently Employed
+      - Unemployed
+      - Student
+      - Other
+      required: true
+    - id: 14
+      name: motivation
+      label: Why are you interested in this apprenticeship
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: commitment
+      label: Commitment to Completing Program
+      hint: null
+      type: select_one
+      options:
+      - Highly Committed
+      - Very Committed
+      - Somewhat Committed
+      required: true

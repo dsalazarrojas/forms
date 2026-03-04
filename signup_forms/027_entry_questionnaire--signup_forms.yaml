@@ -1,0 +1,211 @@
+inputSchema:
+  type: object
+  properties:
+    title: Entry Questionnaire
+    pages:
+    - id: 1
+      name: new_intake
+      label: New Intake
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: entry_reason
+      label: entry reason
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: service_details
+      label: Service Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: intake_date
+      label: Intake Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: intake_time
+      label: Intake Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: intake_location
+      label: Intake Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: service_provider
+      label: Service Provider
+      hint: null
+      type: select_one
+      options:
+      - Provider 1
+      - Provider 2
+      - Provider 3
+      required: true
+    - id: 10
+      name: intake_form_version
+      label: Intake Form Version
+      hint: null
+      type: select_multiple
+      options:
+      - Version 1
+      - Version 2
+      required: true
+    - id: 11
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - User 1
+      - User 2
+      required: true
+    - id: 13
+      name: submitted_on
+      label: Submitted On
+      hint: null
+      type: select_one
+      options:
+      - Yesterday
+      - Today
+      required: false
+    - id: 14
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: select_one
+      options:
+      - User 1
+      - User 2
+      required: false
+    - id: 15
+      name: updated_on
+      label: Updated On
+      hint: null
+      type: select_one
+      options:
+      - Yesterday
+      - Today
+      required: false
+    - id: 16
+      name: form_version
+      label: Form Version
+      hint: null
+      type: select_one
+      options:
+      - Version 1
+      - Version 2
+      required: false
+    - id: 17
+      name: submitter
+      label: Submitter
+      hint: null
+      type: select_one
+      options:
+      - User 1
+      - User 2
+      required: false
+    - id: 18
+      name: submission_status
+      label: Submission Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      required: true
+    - id: 19
+      name: review_status
+      label: Review Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      required: false
+    - id: 20
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: select_one
+      options:
+      - User 1
+      - User 2
+      required: false
+    - id: 21
+      name: assigned_date
+      label: Assigned Date
+      hint: null
+      type: select_one
+      options:
+      - Yesterday
+      - Today
+      required: false
+    - id: 22
+      name: completed_date
+      label: Completed Date
+      hint: null
+      type: select_one
+      options:
+      - Yesterday
+      - Today
+      required: false
+    - id: 23
+      name: submitted_by_other
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - User 1
+      - User 2
+      required: false
+    - id: 24
+      name: submission_status_other
+      label: Submission Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      required: false
+    - id: 25
+      name: form_id
+      label: Form ID
+      hint: null
+      type: text
+      options: []
+      required: false

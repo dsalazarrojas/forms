@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tenant Satisfaction Survey
+    pages:
+    - id: 1
+      name: living_spaces
+      label: What do you think about your living space?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: lease_renewal
+      label: How likely are you to renew your lease?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: overall_satisfaction
+      label: How satisfied are you with your living space?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: communication
+      label: How would you rate the communication with the property owner?
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: true
+    - id: 5
+      name: maintenance_issues
+      label: Have you experienced any maintenance issues?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: recommendations
+      label: Do you have any recommendations for the property owner?
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 7
+      name: additional_comments
+      label: Additional comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: tenant_info
+      label: Additional tenant information?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: property_owner_info
+      label: Additional property owner information?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: lease_duration
+      label: Lease duration?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: lease_start_date
+      label: Lease start date?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: lease_end_date
+      label: Lease end date?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: move_in_date
+      label: Move in date?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: move_out_date
+      label: Move out date?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: rent
+      label: Rent?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: rent_change
+      label: How much rent do you expect to change for the renewal?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: rent_frequency
+      label: Rent frequency?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: rent_amount
+      label: Rent amount?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: lease_status
+      label: Lease status?
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 20
+      name: lease_type
+      label: Lease type?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: property_type
+      label: Property type?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: property_size
+      label: Property size?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: amenities
+      label: Amenities?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: parking
+      label: Parking?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: utilities
+      label: Utilities?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: Teacher Weekly Plan Form Template
+    pages:
+    - id: 1
+      name: teacher_weekly_plan_form_template
+      label: Teacher Weekly Plan Form Template
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: school_counselor_forms
+      label: School Counselor Forms
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: teacher_weekly_plan
+      label: Teacher Weekly Plan
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: managing_schedule
+      label: Managing Schedule
+      hint: null
+      type: text
+      options: []
+      required: false

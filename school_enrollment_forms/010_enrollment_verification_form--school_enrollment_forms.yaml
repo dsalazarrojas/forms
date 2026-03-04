@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Enrollment Verification Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: enrollment_date
+      label: Enrollment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: school_id
+      label: School ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: student_id
+      label: Student ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: verification_date
+      label: Verification Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: verification_status
+      label: Verification Status
+      hint: null
+      type: select_one
+      options:
+      - Verified
+      - Not Verified
+      - Pending
+      required: false
+    - id: 11
+      name: school_address
+      label: School Address
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: student_address
+      label: Student Address
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: school_phone
+      label: School Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: enrollment_type
+      label: Enrollment Type
+      hint: null
+      type: select_one
+      options:
+      - Full-time
+      - Part-time
+      - Other
+      required: false

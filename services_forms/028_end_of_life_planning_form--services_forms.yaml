@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: end_of_life_planning_form
+    pages:
+    - id: 1
+      name: end_of_life_planning_form
+      label: end-of-life-planning-form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: relationship_status
+      label: relationship-status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 4
+      name: name_of_deceased
+      label: name of deceased
+      hint: Name of deceased
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: date of birth
+      hint: Date of birth
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: fitness_studio_music_preference_survey
+    pages:
+    - id: 1
+      name: survey_header
+      label: Survey Header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: genre
+      label: music_genre
+      hint: null
+      type: select_multiple
+      options:
+      - Jazz
+      - Rock
+      - Pop
+      - Hip Hop
+      - Electronic
+      - Classical
+      - R&B
+      - Reggae
+      required: false
+    - id: 3
+      name: favorite_artist
+      label: favorite_artist
+      hint: null
+      type: select_one
+      options:
+      - The Beatles
+      - Michael Jackson
+      - The Rolling Stones
+      - The Who
+      - Taylor Swift
+      - Justin Bieber
+      - Kanye West
+      - Beyoncé
+      required: false
+    - id: 4
+      name: music_channels
+      label: music_channels
+      hint: null
+      type: select_multiple
+      options:
+      - Apple Music
+      - Spotify
+      - Amazon Music
+      - Google Play Music
+      - Tidal
+      - YouTube Music
+      required: false
+    - id: 5
+      name: favorite_time_of_day
+      label: favorite_time_of_day
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: music_preference
+      label: music_preference
+      hint: null
+      type: select_multiple
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      - Night
+      required: false
+    - id: 7
+      name: favorite_volume
+      label: favorite_volume
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: music_preferred
+      label: music_preferred
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 9
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: form_footer
+      label: Form Footer
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,133 @@
+inputSchema:
+  type: object
+  properties:
+    title: Skilled Trade Service Request
+    pages:
+    - id: 1
+      name: service_request
+      label: Service Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_one
+      options:
+      - Electrician
+      - Plumber
+      - HVAC
+      required: false
+    - id: 3
+      name: contact_first_name
+      label: Contact First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_last_name
+      label: Contact Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: service_location
+      label: Service Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: service_date
+      label: Service Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: service_time
+      label: Service Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: service_description
+      label: Service Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: attachment
+      label: Attachment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: scheduling_date
+      label: Scheduling Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: scheduling_time
+      label: Scheduling Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: assigned_trades
+      label: Assigned Trades
+      hint: null
+      type: select_multiple
+      options:
+      - Electrician
+      - Plumber
+      - HVAC
+      required: false
+    - id: 16
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Save for Later
+      - Cancel
+      required: false
+    - id: 17
+      name: upload_file
+      label: Upload File
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Domestic Violence Survey
+    pages:
+    - id: 1
+      name: student_surveyed
+      label: Student Surveyed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: victimized_family
+      label: Victimized Family
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: perpetrator
+      label: Perpetrator
+      hint: null
+      type: select_one
+      options:
+      - Victim's father
+      - Victim's mother
+      - Other
+      required: true
+    - id: 4
+      name: religion
+      label: Religion
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: perpetrator_location
+      label: Perpetrator Location
+      hint: null
+      type: select_multiple
+      options:
+      - Home
+      - Other
+      required: true
+    - id: 6
+      name: school_location
+      label: School Location
+      hint: null
+      type: select_multiple
+      options:
+      - School
+      - Home
+      - Other
+      required: true
+    - id: 7
+      name: other_info
+      label: Other Info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: perpetrator_location_2
+      label: Perpetrator Location 2
+      hint: null
+      type: text
+      options: []
+      required: false

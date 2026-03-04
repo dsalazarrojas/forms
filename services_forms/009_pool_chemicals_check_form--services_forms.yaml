@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pool Chemicals Check Form
+    pages:
+    - id: 1
+      name: pool_chemicals_check_form
+      label: pool_chemicals_check
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: chemicals
+      label: chemicals
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: water_test_results
+      label: water_test_results
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: recommended_products
+      label: recommended_products
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false

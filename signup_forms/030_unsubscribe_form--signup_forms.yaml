@@ -1,0 +1,88 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Unsubscribe Form
+    pages:
+    - id: 1
+      name: form_title
+      label: form_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_description
+      label: form_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: Enter your email address
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: confirm_email
+      label: confirm_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: reason
+      label: reason
+      hint: Why are you leaving?
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: unsubscribe
+      label: unsubscribe
+      hint: null
+      type: select_multiple
+      options:
+      - Spam
+      - Unrelated to my interests
+      - I made a mistake when I signed up
+      - I changed my email
+      - Other (please specify)
+      required: false
+    - id: 7
+      name: other_reason
+      label: other_reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: confirm_unsubscribe
+      label: confirm_unsubscribe
+      hint: null
+      type: select_one
+      options:
+      - Yes, remove me
+      - No, do not remove me
+      required: false
+    - id: 9
+      name: remove_account
+      label: remove_account
+      hint: null
+      type: select_multiple
+      options:
+      - Remove me from all lists
+      - Remove me from this list only
+      required: false

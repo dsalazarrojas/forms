@@ -1,0 +1,211 @@
+inputSchema:
+  type: object
+  properties:
+    title: Audit Preparation Data Sharing Consent Form
+    pages:
+    - id: 1
+      name: data_subject_name
+      label: Data Subject Name
+      hint: Name of person or entity whose data is being shared
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: data_subject_email
+      label: Email Address
+      hint: Contact email address
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: data_subject_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: organization_name
+      label: Organization Name
+      hint: Name of organization
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: consent_date
+      label: Consent Date
+      hint: Date of this consent
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: audit_name
+      label: Audit Name
+      hint: Name or reference of the audit
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: audit_period
+      label: Audit Period
+      hint: Period covered by the audit
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: data_categories
+      label: Data Categories
+      hint: What categories of data will be shared?
+      type: select_multiple
+      options:
+      - Financial records
+      - Employee data
+      - Customer data
+      - Vendor information
+      - Operational data
+      - IT system logs
+      - Compliance documents
+      - Contracts and agreements
+      required: true
+    - id: 9
+      name: data_sensitivity_level
+      label: Data Sensitivity Level
+      hint: Classification of data being shared
+      type: select_one
+      options:
+      - Public
+      - Internal
+      - Confidential
+      - Highly Confidential
+      - Restricted
+      required: true
+    - id: 10
+      name: sharing_purpose
+      label: Sharing Purpose
+      hint: What is the purpose of data sharing?
+      type: select_one
+      options:
+      - Audit preparation
+      - Audit execution
+      - Regulatory compliance
+      - Risk assessment
+      - Internal review
+      - External review
+      required: true
+    - id: 11
+      name: data_recipients
+      label: Data Recipients
+      hint: Who will receive the data?
+      type: select_multiple
+      options:
+      - Internal audit team
+      - External auditors
+      - Regulatory bodies
+      - Legal counsel
+      - Consultants
+      - IT support vendors
+      required: true
+    - id: 12
+      name: sharing_method
+      label: Sharing Method
+      hint: How will data be shared?
+      type: select_one
+      options:
+      - Secure email
+      - Encrypted file transfer
+      - Secure portal
+      - Physical media
+      - Direct system access
+      required: true
+    - id: 13
+      name: access_duration
+      label: Access Duration
+      hint: How long will recipients have access?
+      type: select_one
+      options:
+      - Until audit completion
+      - 30 days
+      - 60 days
+      - 90 days
+      - 1 year
+      - Indefinite
+      required: true
+    - id: 14
+      name: data_retention
+      label: Data Retention
+      hint: How long will data be retained?
+      type: select_one
+      options:
+      - Return after audit
+      - 1 year
+      - 3 years
+      - 5 years
+      - 7 years
+      - As required by law
+      required: true
+    - id: 15
+      name: security_measures
+      label: Security Measures
+      hint: What security measures are in place?
+      type: select_multiple
+      options:
+      - Encryption at rest
+      - Encryption in transit
+      - Access controls
+      - Audit logging
+      - Data masking
+      - Secure deletion
+      required: true
+    - id: 16
+      name: third_party_sharing
+      label: Third Party Sharing
+      hint: Will data be shared with third parties?
+      type: select_one
+      options:
+      - Yes, with consent
+      - Yes, as required
+      - No, internal only
+      - Unsure
+      required: true
+    - id: 17
+      name: international_transfer
+      label: International Transfer
+      hint: Will data be transferred internationally?
+      type: select_one
+      options:
+      - Yes, with safeguards
+      - No, domestic only
+      - Unsure
+      required: true
+    - id: 18
+      name: rights_acknowledged
+      label: Rights Acknowledged
+      hint: I understand my data protection rights
+      type: select_one
+      options:
+      - Yes, I understand my rights
+      - No, I need clarification
+      required: true
+    - id: 19
+      name: consent_voluntary
+      label: Consent Voluntary
+      hint: I confirm this consent is given voluntarily
+      type: select_one
+      options:
+      - Yes, voluntary consent
+      - No, under duress
+      required: true
+    - id: 20
+      name: data_subject_signature
+      label: Data Subject Signature
+      hint: Type your full name as electronic signature
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: signature_date
+      label: Signature Date
+      hint: Date of consent
+      type: date
+      options: []
+      required: true

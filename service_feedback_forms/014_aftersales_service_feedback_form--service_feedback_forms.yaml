@@ -1,0 +1,179 @@
+inputSchema:
+  type: object
+  properties:
+    title: Aftersales Service Feedback Form
+    pages:
+    - id: 1
+      name: customer_full_name
+      label: Customer Full Name
+      hint: Enter your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_email
+      label: Email Address
+      hint: Enter your email for follow-up if needed
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: customer_phone
+      label: Phone Number
+      hint: Enter your phone number for contact if needed
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: purchase_date
+      label: Date of Purchase
+      hint: When did you make your purchase?
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: product_service_purchased
+      label: Product or Service Purchased
+      hint: What product or service did you purchase?
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: service_interaction_header
+      label: -- Service Interaction Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: service_received_date
+      label: Date Service Was Received
+      hint: When did you receive the aftersales service?
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: service_type
+      label: Type of Aftersales Service
+      hint: What type of service did you receive?
+      type: select_one
+      options:
+      - Installation
+      - Repair
+      - Maintenance
+      - Technical Support
+      - Training
+      - Warranty Service
+      - Returns/Exchanges
+      - Other
+      required: true
+    - id: 9
+      name: service_provider
+      label: Service Provider
+      hint: Who provided the service?
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: service_quality_rating
+      label: Overall Service Quality Rating
+      hint: How would you rate the overall quality of the service?
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very Poor
+      required: true
+    - id: 11
+      name: staff_professionalism_rating
+      label: Staff Professionalism Rating
+      hint: How would you rate the professionalism of the staff?
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very Poor
+      required: true
+    - id: 12
+      name: response_time_rating
+      label: Response Time Rating
+      hint: How would you rate the response time?
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very Poor
+      required: true
+    - id: 13
+      name: service_resolution_satisfaction
+      label: Service Resolution Satisfaction
+      hint: Were you satisfied with how your issue was resolved?
+      type: select_one
+      options:
+      - Completely Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Completely Dissatisfied
+      required: true
+    - id: 14
+      name: communication_effectiveness
+      label: Communication Effectiveness
+      hint: How effective was the communication during the service?
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very Poor
+      required: true
+    - id: 15
+      name: service_recommendation_likelihood
+      label: Likelihood to Recommend Service
+      hint: How likely are you to recommend our aftersales service to others?
+      type: select_one
+      options:
+      - Very Likely
+      - Likely
+      - Neutral
+      - Unlikely
+      - Very Unlikely
+      required: true
+    - id: 16
+      name: positive_aspects
+      label: Positive Aspects
+      hint: What did you like most about the service?
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: improvement_areas
+      label: Areas for Improvement
+      hint: What could we improve in our service?
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other feedback or comments about the service
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: future_service_interest
+      label: Interest in Future Services
+      hint: Would you be interested in our future services or updates?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Maybe
+      required: false

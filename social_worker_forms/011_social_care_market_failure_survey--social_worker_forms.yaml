@@ -1,0 +1,229 @@
+inputSchema:
+  type: object
+  properties:
+    title: Social Care Market Failure Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: social_care_services
+      label: What are the social care services you have access to?
+      hint: null
+      type: select_multiple
+      options:
+      - Childcare Services
+      - Housing Services
+      - Financial Assistance
+      - Health Services
+      - Education Services
+      - Transportation Services
+      - Food Services
+      - Other
+      required: true
+    - id: 3
+      name: service_accessibility
+      label: How often do you access these services?
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
+      - Never
+      required: true
+    - id: 4
+      name: service_gaps
+      label: Are there service gaps in any of the social care services you need?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: service_gaps_description
+      label: If yes, which services have gaps?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: service_gaps_impact
+      label: How has the gap impacted you?
+      hint: null
+      type: select_multiple
+      options:
+      - Significant
+      - Somewhat Significant
+      - Not Significant
+      required: true
+    - id: 7
+      name: policy_effectiveness
+      label: How effective do you find the current social care policies to be?
+      hint: null
+      type: select_multiple
+      options:
+      - Effective
+      - Somewhat Effective
+      - Not Effective
+      required: true
+    - id: 8
+      name: policy_suggestions
+      label: What would you suggest to improve the policies?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: policy_suggestions_other
+      label: Other suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submission_comments
+      label: Submission Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: survey_completion
+      label: How did you find this survey?
+      hint: null
+      type: select_multiple
+      options:
+      - Easy
+      - Somewhat Easy
+      - Hard
+      - Very Hard
+      required: true
+    - id: 18
+      name: survey_satisfaction
+      label: How satisfied are you with this survey?
+      hint: null
+      type: select_multiple
+      options:
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Neutral
+      - Somewhat Dissatisfied
+      - Very Dissatisfied
+      required: true
+    - id: 19
+      name: survey_completion_time
+      label: How long did it take to complete?
+      hint: null
+      type: select_multiple
+      options:
+      - Less than 5 minutes
+      - 5-10 minutes
+      - More than 10 minutes
+      required: false
+    - id: 20
+      name: survey_completion_device
+      label: What device did you use to complete the survey?
+      hint: null
+      type: select_multiple
+      options:
+      - Mobile
+      - Desktop
+      - Tablet
+      - Other
+      required: false
+    - id: 21
+      name: survey_completion_location
+      label: Where did you complete the survey?
+      hint: null
+      type: select_multiple
+      options:
+      - Home
+      - Work
+      - Public Internet Terminal
+      - Other
+      required: false
+    - id: 22
+      name: survey_completion_internet_speed
+      label: What is your internet speed?
+      hint: null
+      type: select_multiple
+      options:
+      - Fast
+      - Medium
+      - Slow
+      required: false
+    - id: 23
+      name: survey_completion_language
+      label: What language did you use to complete the survey?
+      hint: null
+      type: select_multiple
+      options:
+      - English
+      - Español
+      - Other
+      required: false
+    - id: 24
+      name: submission_confirmation
+      label: Would you like to receive a confirmation email?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: submission_confirmation_other
+      label: Other submission confirmation preferences
+      hint: null
+      type: text
+      options: []
+      required: false

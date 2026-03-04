@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: Reading Challenge Signup Form
+    pages:
+    - id: 1
+      name: sign_up_page
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: email_2
+      label: confirm_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: password
+      label: password
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: sign_up_page_2
+      label: sign_up_page_2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''option1''}'
+      - '{''value'': ''option2''}'
+      - '{''value'': ''option3''}'
+      required: true
+    - id: 6
+      name: confirm_password
+      label: confirm_password
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: note
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: cancel
+      label: cancel
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: error_message
+      label: error_message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: success_message
+      label: success_message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: sign_up_page_3
+      label: sign_up_page_3
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''option1''}'
+      - '{''value'': ''option2''}'
+      - '{''value'': ''option3''}'
+      required: true
+    - id: 16
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false

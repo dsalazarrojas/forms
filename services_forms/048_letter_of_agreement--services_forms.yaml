@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: LetterOfAgreement
+    pages:
+    - id: 1
+      name: form_header
+      label: Form Header
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_content
+      label: Form Content
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: client_details
+      label: Client Details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: doula_details
+      label: Doula Details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: agreement_terms
+      label: Agreement Terms
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: signature_date
+      label: Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Parent Roles And Responsibilities Survey
+    pages:
+    - id: 1
+      name: parent_roles
+      label: parent_roles
+      hint: null
+      type: select_multiple
+      options:
+      - father
+      - mother
+      - guardian
+      - other
+      required: false
+    - id: 2
+      name: communication
+      label: communication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: school_attendance
+      label: school_attendance
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: parent_involvement
+      label: parent_involvement
+      hint: null
+      type: select_one
+      options:
+      - high
+      - medium
+      - low
+      required: false
+    - id: 5
+      name: parent_support
+      label: parent_support
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: student_performance
+      label: student_performance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: parent_engagement
+      label: parent_engagement
+      hint: null
+      type: select_multiple
+      options:
+      - high
+      - medium
+      - low
+      required: false

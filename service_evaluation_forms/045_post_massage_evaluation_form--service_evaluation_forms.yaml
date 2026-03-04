@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Post Massage Evaluation Form
+    pages:
+    - id: 1
+      name: massage_session
+      label: Massage Session
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: therapist
+      label: Therapist
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: massage_area_worked_on
+      label: Massage Area Worked On
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: time_massage_started
+      label: Time of Massage Started
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: time_massage_finished
+      label: Time of Massage Finished
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - 1 - Excellent
+      - 2 - Good
+      - 3 - Neutral
+      - 4 - Bad
+      - 5 - Poor
+      required: false
+    - id: 7
+      name: area_improvement
+      label: Area for Improvement
+      hint: null
+      type: select_multiple
+      options:
+      - Communication
+      - Environment
+      - Technique
+      - Equipment
+      - Other
+      required: false
+    - id: 8
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false

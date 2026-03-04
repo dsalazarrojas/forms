@@ -1,0 +1,155 @@
+inputSchema:
+  type: object
+  properties:
+    title: BrowTab Pre Appointment Intake Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: client_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: client_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: appointment_date
+      label: Appointment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_one
+      options:
+      - Microblading
+      - Cosmetic Tattoo
+      - Brow Lamination
+      - Correction
+      required: true
+    - id: 7
+      name: tattoo_experience
+      label: Have you had cosmetic tattoos before
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Not sure
+      required: true
+    - id: 8
+      name: brow_type
+      label: Current Brow Type
+      hint: null
+      type: select_one
+      options:
+      - Natural Brows
+      - Previous Microblading
+      - Previous Tattoo
+      - Sparse
+      - Fully Shaved
+      required: true
+    - id: 9
+      name: skin_type
+      label: Skin Type
+      hint: null
+      type: select_one
+      options:
+      - Oily
+      - Dry
+      - Combination
+      - Sensitive
+      - Normal
+      required: true
+    - id: 10
+      name: skin_conditions
+      label: Current skin conditions
+      hint: Acne, rash, eczema, psoriasis, etc
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: allergies
+      label: Known allergies to ink or numbing agents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: medications
+      label: Current medications
+      hint: Especially blood thinners or antibiotics
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: healing_issues
+      label: Any history of poor wound healing
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Not sure
+      required: true
+    - id: 14
+      name: pregnancy
+      label: Are you pregnant or nursing
+      hint: null
+      type: select_one
+      options:
+      - Yes, pregnant
+      - Yes, nursing
+      - false
+      required: true
+    - id: 15
+      name: desired_look
+      label: Your desired brow look and shape
+      hint: Include reference photos if possible
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: color_preference
+      label: Preferred brow color
+      hint: null
+      type: select_one
+      options:
+      - Ash Brown
+      - Medium Brown
+      - Dark Brown
+      - Black
+      - Custom Blend
+      required: true
+    - id: 17
+      name: pain_tolerance
+      label: Pain tolerance level
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: true

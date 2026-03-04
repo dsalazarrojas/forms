@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Royal English Medium School Registration Form
+    pages:
+    - id: 1
+      name: student_info
+      label: Student Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: student_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: student_dob
+      label: student_dob
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: guardian_name
+      label: guardian_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: guardian_dob
+      label: guardian_dob
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: student_email
+      label: student_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: parent_phone
+      label: parent_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: student_gender
+      label: student_gender
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Male''}'
+      - '{''id'': 2, ''label'': ''Female''}'
+      required: true
+    - id: 9
+      name: student_grade
+      label: student_grade
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: guardian_grade
+      label: guardian_grade
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: student_medium
+      label: student_medium
+      hint: 'Enter your English medium preference: e.g. 1, 2, 3 etc.'
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''English Medium 1''}'
+      - '{''id'': 2, ''label'': ''English Medium 2''}'
+      - '{''id'': 3, ''label'': ''English Medium 3''}'
+      required: false
+    - id: 12
+      name: parent_medium
+      label: parent_medium
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''English Medium 1''}'
+      - '{''id'': 2, ''label'': ''English Medium 2''}'
+      - '{''id'': 3, ''label'': ''English Medium 3''}'
+      required: false
+    - id: 13
+      name: student_medium_other
+      label: student_medium_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: student_medium_other_description
+      label: student_medium_other_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: school_name
+      label: school_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: student_start_date
+      label: student_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: student_end_date
+      label: student_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: student_fee
+      label: student_fee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: student_fee_term
+      label: student_fee_term
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: student_fee_note
+      label: student_fee_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: parent_note
+      label: parent_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: school_address
+      label: school_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: school_zip
+      label: school_zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: school_phone
+      label: school_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: school_email
+      label: school_email
+      hint: null
+      type: email
+      options: []
+      required: false

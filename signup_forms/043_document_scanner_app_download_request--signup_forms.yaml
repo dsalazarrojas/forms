@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Document Scanner App Download Request
+    pages:
+    - id: 1
+      name: form_info
+      label: Document Scanner App Download Request Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: version
+      label: Version
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: operating_system
+      label: Operating System
+      hint: null
+      type: select_one
+      options:
+      - Android
+      - iOS
+      - Windows
+      - macOS
+      - Linux
+      - Chrome OS
+      - Other
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: country
+      label: Country
+      hint: null
+      type: select_one
+      options:
+      - United States
+      - Canada
+      - UK
+      - Australia
+      - Japan
+      - India
+      - Other
+      required: true
+    - id: 8
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: role
+      label: Role
+      hint: null
+      type: select_one
+      options:
+      - IT
+      - Support
+      - Software
+      - Other
+      required: true
+    - id: 10
+      name: comment
+      label: Comment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: download_type
+      label: Download Type
+      hint: null
+      type: select_one
+      options:
+      - Personal
+      - Business
+      required: true
+    - id: 12
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: team
+      label: Team
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: manager
+      label: Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: team_size
+      label: Team Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: email_domain
+      label: Email Domain
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: url
+      label: URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: app_version
+      label: App Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: app_name
+      label: App Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: operating_system_version
+      label: Operating System Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: download_url
+      label: Download URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false

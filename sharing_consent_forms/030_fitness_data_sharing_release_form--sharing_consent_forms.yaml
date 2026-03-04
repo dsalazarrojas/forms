@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fitness Data Sharing Release Form
+    pages:
+    - id: 1
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: recipient_name
+      label: Recipient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: recipient_email
+      label: Recipient Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: purpose
+      label: Purpose of Data Sharing
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: time_frame
+      label: Time Frame
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: sharing_consent
+      label: Sharing Consent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: date_shared
+      label: Date Shared
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_shared
+      label: Time Shared
+      hint: null
+      type: time
+      options: []
+      required: false

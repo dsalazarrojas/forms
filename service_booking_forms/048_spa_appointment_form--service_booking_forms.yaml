@@ -1,0 +1,134 @@
+inputSchema:
+  type: object
+  properties:
+    title: Spa Appointment Form
+    pages:
+    - id: 1
+      name: appointment_date
+      label: appointment_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: appointment_time
+      label: appointment_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: service_selected
+      label: service_selected
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: client_name
+      label: client_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: client_email
+      label: client_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: client_phone
+      label: client_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: service_name
+      label: service_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: service_description
+      label: service_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: staff
+      label: staff
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 11, ''name'': ''staff_member_1'', ''label'': ''John Doe'', ''value'':
+        ''staff_member_1''}'
+      - '{''id'': 12, ''name'': ''staff_member_2'', ''label'': ''Jane Doe'', ''value'':
+        ''staff_member_2''}'
+      required: false
+    - id: 11
+      name: appointment_status
+      label: appointment_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 14, ''name'': ''confirmed'', ''label'': ''Confirmed'', ''value'':
+        ''confirmed''}'
+      - '{''id'': 15, ''name'': ''pending'', ''label'': ''Pending'', ''value'': ''pending''}'
+      - '{''id'': 16, ''name'': ''cancelled'', ''label'': ''Cancelled'', ''value'':
+        ''cancelled''}'
+      - '{''id'': 17, ''name'': ''no_show'', ''label'': ''No Show'', ''value'': ''no_show''}'
+      required: false
+    - id: 12
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 19, ''name'': ''credit_card'', ''label'': ''Credit Card'', ''value'':
+        ''credit_card''}'
+      - '{''id'': 20, ''name'': ''cash'', ''label'': ''Cash'', ''value'': ''cash''}'
+      - '{''id'': 21, ''name'': ''bank_transfer'', ''label'': ''Bank Transfer'', ''value'':
+        ''bank_transfer''}'
+      required: false
+    - id: 13
+      name: payment_details
+      label: payment_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: appointment_booking_status
+      label: appointment_booking_status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: client_message
+      label: client_message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: staff_comment
+      label: staff_comment
+      hint: null
+      type: text
+      options: []
+      required: false

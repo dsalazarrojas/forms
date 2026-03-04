@@ -1,0 +1,182 @@
+inputSchema:
+  type: object
+  properties:
+    title: Application Developer Estimate Form
+    pages:
+    - id: 1
+      name: project_information
+      label: -- Project Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: project_name
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: client_email
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: project_description
+      label: Project Description
+      hint: Provide a detailed overview of the project
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: project_scope
+      label: -- Project Scope --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: scope_of_work
+      label: Scope of Work
+      hint: Describe what will be delivered
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: required_technologies
+      label: Required Technologies/Languages
+      hint: null
+      type: select_multiple
+      options:
+      - Python
+      - Java
+      - JavaScript
+      - C++
+      - Ruby
+      - PHP
+      - Go
+      - Other
+      required: false
+    - id: 9
+      name: complexity_level
+      label: Project Complexity Level
+      hint: null
+      type: select_one
+      options:
+      - Low - Simple features
+      - Medium - Moderate complexity
+      - High - Complex architecture
+      - Very High - Enterprise level
+      required: true
+    - id: 10
+      name: team_size_estimate
+      label: Estimated Team Size
+      hint: null
+      type: select_one
+      options:
+      - 1 - Single developer
+      - 2-3 - Small team
+      - 4-6 - Medium team
+      - 7-10 - Large team
+      - 10+ - Very large team
+      required: true
+    - id: 11
+      name: timeline_requirements
+      label: -- Timeline Requirements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: project_start_date
+      label: Expected Project Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: project_deadline
+      label: Target Completion Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: development_phases
+      label: Number of Development Phases
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: resource_requirements
+      label: -- Resource Requirements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: infrastructure_needed
+      label: Infrastructure Requirements
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Cloud hosting
+      - Database servers
+      - API integrations
+      - Third-party services
+      - Mobile deployment
+      required: false
+    - id: 17
+      name: testing_requirements
+      label: Testing Strategy
+      hint: null
+      type: select_one
+      options:
+      - Unit testing only
+      - Unit and integration testing
+      - Full QA testing
+      - Load and performance testing
+      - Custom testing approach
+      required: false
+    - id: 18
+      name: maintenance_support
+      label: Post-launch support needed?
+      hint: null
+      type: select_one
+      options:
+      - Yes - 6 months
+      - Yes - 1 year
+      - Yes - ongoing
+      - false
+      required: false
+    - id: 19
+      name: budget_constraints
+      label: Budget Range
+      hint: null
+      type: select_one
+      options:
+      - Under $10000
+      - $10000 - $25000
+      - $25000 - $50000
+      - $50000 - $100000
+      - Over $100000
+      - Flexible
+      required: false
+    - id: 20
+      name: additional_notes
+      label: Additional Notes or Requirements
+      hint: null
+      type: text
+      options: []
+      required: false

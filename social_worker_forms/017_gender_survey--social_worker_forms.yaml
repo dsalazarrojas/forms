@@ -1,0 +1,39 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gender Survey
+    pages:
+    - id: 1
+      name: gender_survey
+      label: Gender Survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: select_gender_identity
+      label: Select gender identity
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: select_gender_expression
+      label: Select gender expression
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: select_gender_role
+      label: Select gender role
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Food Assistance Application Form
+    pages:
+    - id: 1
+      name: applicant_details
+      label: Applicant Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: food_needs
+      label: Food Needs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: household_info
+      label: Household Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: income_info
+      label: Income Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: income_frequency
+      label: Income Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: food_assistance_type
+      label: Food Assistance Type
+      hint: null
+      type: select_one
+      options:
+      - Food Stamps
+      - WIC
+      - Other
+      required: true
+    - id: 9
+      name: food_bank
+      label: Food Bank
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true

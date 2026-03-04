@@ -1,0 +1,65 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Community Diagnosis Questionnaire
+    pages:
+      - id: 1
+        name: respondent_role
+        label: Respondent role in community
+        hint: e g resident service provider
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: major_challenges
+        label: Major community challenges
+        hint: List top challenges in your view
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: vulnerable_groups
+        label: Vulnerable groups in community
+        hint: Identify groups needing support
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: service_gaps
+        label: Service gaps observed
+        hint: Which services are lacking
+        type: text
+        options: []
+        required: false
+      - id: 5
+        name: existing_strengths
+        label: Existing community strengths
+        hint: Assets and resources to build on
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: priority_actions
+        label: Priority actions recommended
+        hint: Short list of recommended steps
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: contact_for_follow_up
+        label: Contact for follow up
+        hint: Optional email for additional questions
+        type: email
+        options: []
+        required: false

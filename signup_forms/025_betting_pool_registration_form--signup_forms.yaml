@@ -1,0 +1,180 @@
+inputSchema:
+  type: object
+  properties:
+    title: Betting Pool Registration Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_email
+      label: Email Address
+      hint: We will send pool updates to this email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: participant_phone
+      label: Phone Number
+      hint: Optional contact for urgent updates
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: pool_name
+      label: Betting Pool Name
+      hint: Name of the betting pool you are joining
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: pool_type
+      label: Pool Type
+      hint: What type of betting pool is this
+      type: select_one
+      options:
+      - Sports Pool
+      - March Madness Bracket
+      - Super Bowl Pool
+      - World Cup Pool
+      - Horse Racing
+      - Lottery Pool
+      - Office Pool
+      - Other
+      required: true
+    - id: 6
+      name: event_name
+      label: Event Name
+      hint: What event is the pool for
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: event_date
+      label: Event Date
+      hint: When will the event take place
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: entry_fee
+      label: Entry Fee Amount
+      hint: Amount you are paying to enter
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: payment_method
+      label: Payment Method
+      hint: How are you paying the entry fee
+      type: select_one
+      options:
+      - Cash
+      - Venmo
+      - PayPal
+      - Cash App
+      - Zelle
+      - Bank Transfer
+      - Credit Card
+      - Other
+      required: true
+    - id: 10
+      name: payment_status
+      label: Payment Status
+      hint: Has payment been completed
+      type: select_one
+      options:
+      - Paid
+      - Pending
+      - Will Pay Later
+      required: true
+    - id: 11
+      name: team_selection
+      label: Team or Player Selection
+      hint: Which team or player are you betting on
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: predicted_score
+      label: Predicted Score
+      hint: What is your predicted final score
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: bracket_submission
+      label: Bracket Submission
+      hint: Upload or describe your bracket picks if applicable
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: pool_rules_accepted
+      label: I Have Read and Accept the Pool Rules
+      hint: Do you agree to follow the pool rules
+      type: select_one
+      options:
+      - Yes, I Accept
+      - No, I Do Not Accept
+      required: true
+    - id: 15
+      name: liability_waiver
+      label: Liability Waiver
+      hint: Do you agree to the liability waiver
+      type: select_one
+      options:
+      - Yes, I Agree
+      - No, I Do Not Agree
+      required: true
+    - id: 16
+      name: emergency_contact
+      label: Emergency Contact Name
+      hint: Optional emergency contact information
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Optional emergency contact phone
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: how_heard_about
+      label: How Did You Hear About This Pool
+      hint: Who invited you or where did you find out
+      type: select_one
+      options:
+      - Friend or Colleague
+      - Social Media
+      - Email Invitation
+      - Workplace Announcement
+      - Other
+      required: false
+    - id: 19
+      name: t_shirt_size
+      label: T-Shirt Size
+      hint: If prizes include apparel, what is your size
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      - Extra Large
+      - 2XL
+      - 3XL
+      - Not Applicable
+      required: false
+    - id: 20
+      name: additional_comments
+      label: Additional Comments
+      hint: Any questions or information to share
+      type: text
+      options: []
+      required: false

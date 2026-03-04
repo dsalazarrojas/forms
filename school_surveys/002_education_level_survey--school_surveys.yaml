@@ -1,0 +1,147 @@
+inputSchema:
+  type: object
+  properties:
+    title: Education Level Survey
+    pages:
+    - id: 1
+      name: student_background
+      label: Student Background
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: education_level
+      label: Education Level
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''High School''}'
+      - '{''id'': 2, ''name'': ''College''}'
+      - '{''id'': 3, ''name'': "Master''s Degree"}'
+      required: false
+    - id: 3
+      name: educational_institution
+      label: Educational Institution
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Local High School''}'
+      - '{''id'': 2, ''name'': ''University of Chicago''}'
+      - '{''id'': 3, ''name'': ''New York University''}'
+      required: false
+    - id: 4
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Male''}'
+      - '{''id'': 2, ''name'': ''Female''}'
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Mobile''}'
+      - '{''id'': 2, ''name'': ''Home''}'
+      required: false
+    - id: 8
+      name: time_spent
+      label: Time Spent
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: date_of_survey_creation
+      label: Date of Survey Creation
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: teacher_background
+      label: Teacher Background
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: teacher_education_level
+      label: Teacher Education Level
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''High School''}'
+      - '{''id'': 2, ''name'': ''College''}'
+      - '{''id'': 3, ''name'': "Master''s Degree"}'
+      required: false
+    - id: 14
+      name: teacher_educational_institution
+      label: Teacher Educational Institution
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Local High School''}'
+      - '{''id'': 2, ''name'': ''University of Chicago''}'
+      - '{''id'': 3, ''name'': ''New York University''}'
+      required: false
+    - id: 15
+      name: teacher_educational_field
+      label: Teacher Educational Field
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: date_of_last_survey
+      label: Date of Last Survey
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: student_survey_id
+      label: Student Survey ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: total_hours_worked
+      label: Total Hours Worked
+      hint: null
+      type: number
+      options: []
+      required: false

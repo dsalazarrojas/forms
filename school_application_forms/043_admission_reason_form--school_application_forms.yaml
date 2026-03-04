@@ -1,0 +1,227 @@
+inputSchema:
+  type: object
+  properties:
+    title: Admission Reason Form
+    pages:
+    - id: 1
+      name: admission_reason_header
+      label: -- Admission Reason Form --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_full_name
+      label: Full Name
+      hint: Enter your legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: applicant_email
+      label: Email Address
+      hint: Valid email for communication
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: applicant_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: applicant_address
+      label: Address
+      hint: Current residential address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: applicant_city
+      label: City
+      hint: City of residence
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: applicant_state
+      label: State/Province
+      hint: State or province of residence
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: applicant_zip
+      label: ZIP/Postal Code
+      hint: Postal code of residence
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: applicant_country
+      label: Country
+      hint: Country of residence
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: date_of_birth
+      label: Date of Birth
+      hint: Your birth date
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: program_applying_for
+      label: Program Applying For
+      hint: What program are you applying for?
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: degree_level
+      label: Degree Level
+      hint: What level of degree are you pursuing?
+      type: select_one
+      options:
+      - Certificate
+      - Diploma
+      - Associate
+      - Bachelor's
+      - Master's
+      - Doctorate
+      - Other
+      required: true
+    - id: 13
+      name: start_term
+      label: Start Term
+      hint: Which term do you wish to start?
+      type: select_one
+      options:
+      - Fall
+      - Spring
+      - Summer
+      - Winter
+      - Other
+      required: true
+    - id: 14
+      name: start_year
+      label: Start Year
+      hint: What year do you wish to start?
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: reason_for_admission
+      label: Reason for Admission
+      hint: Why do you want to be admitted to this program?
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: career_goals
+      label: Career Goals
+      hint: What are your career goals after completing this program?
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: academic_interests
+      label: Academic Interests
+      hint: What academic areas interest you most?
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: why_this_institution
+      label: Why This Institution
+      hint: Why did you choose this particular institution?
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: special_qualities
+      label: Special Qualities
+      hint: What special qualities do you bring to this program?
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: challenges_overcome
+      label: Challenges Overcome
+      hint: Describe any challenges you have overcome
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: contribution_to_community
+      label: Contribution to Community
+      hint: How will you contribute to the school community?
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: education_background
+      label: Education Background
+      hint: Describe your educational background
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: work_experience
+      label: Work Experience
+      hint: Describe any relevant work experience
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: extracurricular_activities
+      label: Extracurricular Activities
+      hint: Describe any extracurricular activities
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: references
+      label: References
+      hint: Provide contact information for references
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Name of your emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number of your emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: Relationship to your emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 29
+      name: application_date
+      label: Application Date
+      hint: Date of submitting this application
+      type: date
+      options: []
+      required: true
+    - id: 30
+      name: applicant_signature
+      label: Applicant Signature
+      hint: Electronic signature to confirm application
+      type: text
+      options: []
+      required: true

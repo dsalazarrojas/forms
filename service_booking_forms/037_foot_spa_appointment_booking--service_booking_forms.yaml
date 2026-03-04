@@ -1,0 +1,242 @@
+inputSchema:
+  type: object
+  properties:
+    title: foot_spa_appointment_booking
+    pages:
+    - id: 1
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_one
+      options:
+      - Foot Spa
+      - Nail Spa
+      - Massage
+      - Pedicure
+      - Hair Removal
+      required: true
+    - id: 2
+      name: client_name
+      label: client_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: appointment_time
+      label: appointment_time
+      hint: null
+      type: select_multiple
+      options:
+      - 9:00-10:00
+      - 10:00-11:00
+      - 11:00-12:00
+      - 12:00-13:00
+      - 13:00-14:00
+      - 14:00-15:00
+      - 15:00-16:00
+      - 16:00-17:00
+      - 17:00-18:00
+      - 18:00-19:00
+      required: true
+    - id: 9
+      name: preferred_spa
+      label: preferred_spa
+      hint: null
+      type: select_one
+      options:
+      - Spa 1
+      - Spa 2
+      - Spa 3
+      - Spa 4
+      - Spa 5
+      - Spa 6
+      - Spa 7
+      - Spa 8
+      - Spa 9
+      - Spa 10
+      required: true
+    - id: 10
+      name: preferred_date
+      label: preferred_date
+      hint: null
+      type: select_multiple
+      options:
+      - '2024-02-20'
+      - '2024-02-21'
+      - '2024-02-23'
+      - '2024-02-24'
+      - '2024-02-25'
+      - '2024-02-26'
+      - '2024-02-27'
+      - '2024-02-28'
+      required: true
+    - id: 11
+      name: appointment_duration
+      label: appointment_duration
+      hint: null
+      type: select_one
+      options:
+      - '15'
+      - '30'
+      - '60'
+      - '90'
+      required: true
+    - id: 12
+      name: client_gender
+      label: gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: true
+    - id: 13
+      name: client_age
+      label: age
+      hint: null
+      type: select_one
+      options:
+      - 18-24
+      - 25-34
+      - 35-44
+      - 45-54
+      - 55-64
+      - 65+
+      required: false
+    - id: 14
+      name: client_notes
+      label: client_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: preferred_language
+      label: preferred_language
+      hint: null
+      type: select_one
+      options:
+      - English
+      - French
+      - German
+      - Spanish
+      - Chinese
+      - Arabic
+      required: true
+    - id: 16
+      name: preferred_time
+      label: preferred_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 17
+      name: client_address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: preferred_contact_number
+      label: preferred_contact_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: service_price
+      label: service_price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: service_price_currency
+      label: service_price_currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - GBP
+      - CNY
+      required: true
+    - id: 21
+      name: appointment_status
+      label: appointment_status
+      hint: null
+      type: select_one
+      options:
+      - Confirmed
+      - Pending
+      required: true
+    - id: 22
+      name: service_description
+      label: service_description
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 23
+      name: none
+      label: None
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: preferred_spa
+      label: preferred_spa
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 25
+      name: preferred_service_provider
+      label: preferred_service_provider
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

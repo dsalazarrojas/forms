@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Scholarship Program Expansion Request Form
+    pages:
+    - id: 1
+      name: program_name
+      label: Program Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: program_type
+      label: Program Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Type 1''}'
+      - '{''value'': ''Type 2''}'
+      - '{''value'': ''Type 3''}'
+      required: false
+    - id: 3
+      name: stakeholder_name
+      label: Stakeholder Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: stakeholder_organization
+      label: Stakeholder Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: program_description
+      label: Program Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: expansion_reason
+      label: Expansion Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: expansion_budget
+      label: Expansion Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: expansion_timeline
+      label: Expansion Timeline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false

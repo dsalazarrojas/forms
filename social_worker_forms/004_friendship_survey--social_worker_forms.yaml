@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Friendship Survey
+    pages:
+    - id: 1
+      name: survey_title
+      label: Friendship Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: friend_survey_questions
+      label: How do you feel about your friends?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: friend_support_needs
+      label: What support do you need from friends?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: friend_support_provided
+      label: What support do you provide to friends?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: student_relationships
+      label: Relationship with friends
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: student_support_needs
+      label: What support do you need from teachers?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: teacher_support_provided
+      label: What support do you provide to students?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: friend_quality
+      label: Quality of friendship
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Poor
+      required: false
+    - id: 9
+      name: survey_instructions
+      label: How can you improve the survey?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: form_submissions
+      label: Form Submissions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

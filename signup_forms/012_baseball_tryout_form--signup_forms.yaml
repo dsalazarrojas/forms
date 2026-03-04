@@ -1,0 +1,185 @@
+inputSchema:
+  type: object
+  properties:
+    title: Baseball Tryout Form
+    pages:
+    - id: 1
+      name: section_header_1
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: player_first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: player_last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_header_2
+      label: -- Parent/Guardian Information (if under 18) --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: parent_name
+      label: Parent/Guardian name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: parent_email
+      label: Parent/Guardian email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: parent_phone
+      label: Parent/Guardian phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: section_header_3
+      label: -- Tryout Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: tryout_date
+      label: Tryout date attending
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: tryout_location
+      label: Tryout location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: section_header_4
+      label: -- Baseball Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: position_primary
+      label: Primary position
+      hint: null
+      type: select_one
+      options:
+      - Pitcher
+      - Catcher
+      - Infielder
+      - Outfielder
+      - Utility
+      - Not Sure
+      required: true
+    - id: 16
+      name: position_secondary
+      label: Secondary position
+      hint: null
+      type: select_one
+      options:
+      - Pitcher
+      - Catcher
+      - Infielder
+      - Outfielder
+      - Utility
+      - None
+      required: false
+    - id: 17
+      name: years_experience
+      label: Years of baseball experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: previous_team
+      label: Previous team or league
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: section_header_5
+      label: -- Health and Agreements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: medical_clearance
+      label: Do you have medical clearance to play?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - In Progress
+      required: true
+    - id: 21
+      name: injuries
+      label: Any current injuries or medical conditions?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: liability_waiver
+      label: I agree to the liability waiver and team terms
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 23
+      name: confirmation
+      label: I confirm all information is accurate and truthful
+      hint: null
+      type: select_one
+      options:
+      - I Confirm
+      - I Need to Review
+      required: true

@@ -1,0 +1,134 @@
+inputSchema:
+  type: object
+  properties:
+    title: Calculate Arctangent2 (atan2) Form
+    pages:
+    - id: 1
+      name: intro_header
+      label: -- Arctangent2 (atan2) Calculator --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: function_description
+      label: -- Function Description --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: param_y
+      label: Y Value (numerator)
+      hint: Enter the Y coordinate or numerator value
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: param_x
+      label: X Value (denominator)
+      hint: Enter the X coordinate or denominator value
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: calculation_header
+      label: -- Calculation Options --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: output_unit
+      label: Output Unit
+      hint: null
+      type: select_one
+      options:
+      - Radians
+      - Degrees
+      required: true
+    - id: 7
+      name: decimal_places
+      label: Decimal Places in Result
+      hint: null
+      type: select_one
+      options:
+      - '2'
+      - '4'
+      - '6'
+      - '8'
+      - '10'
+      required: false
+    - id: 8
+      name: quadrant_info
+      label: -- Quadrant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: selected_quadrant
+      label: Expected Quadrant
+      hint: The quadrant where the angle should lie
+      type: select_one
+      options:
+      - Quadrant I (x > 0, y > 0)
+      - Quadrant II (x < 0, y > 0)
+      - Quadrant III (x < 0, y < 0)
+      - Quadrant IV (x > 0, y < 0)
+      - Not sure
+      required: false
+    - id: 10
+      name: additional_info
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: calculation_purpose
+      label: Purpose of Calculation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: angle_reference
+      label: Angle Reference System
+      hint: null
+      type: select_one
+      options:
+      - Standard mathematical (counterclockwise from x-axis)
+      - Navigation/bearing (clockwise from north)
+      - Other
+      required: false
+    - id: 13
+      name: notes
+      label: Additional Notes or Context
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: submit_info
+      label: -- Submission Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: submitter_email
+      label: Your Email (optional)
+      hint: For result delivery or follow-up
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: save_results
+      label: Save Results for Later Reference?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

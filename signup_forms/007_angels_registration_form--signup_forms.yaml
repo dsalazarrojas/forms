@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Angels Registration Form
+    pages:
+    - id: 1
+      name: applicant_name
+      label: Applicant Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: registration_intro
+      label: Welcome to the Angels Registration Program
+      hint: Thank you for your interest in becoming an angel mentor. Please complete
+        all fields below.
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: program_type
+      label: Which Angel Program Are You Interested In
+      hint: Select your preferred program
+      type: select_one
+      options:
+      - Youth Mentoring Angel
+      - Senior Companion Angel
+      - Special Needs Support Angel
+      - Crisis Support Angel
+      - Community Outreach Angel
+      - Undecided - Please Advise
+      required: true
+    - id: 7
+      name: motivation
+      label: What motivates you to become an Angel mentor
+      hint: Share your reasons for wanting to help others
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: availability
+      label: Availability
+      hint: When are you available to mentor
+      type: select_one
+      options:
+      - Weekdays - mornings
+      - Weekdays - afternoons
+      - Weekdays - evenings
+      - Weekends
+      - Flexible schedule
+      required: true
+    - id: 9
+      name: hours_per_week
+      label: How many hours per week can you commit
+      hint: Time commitment
+      type: select_one
+      options:
+      - 1-3 hours
+      - 4-6 hours
+      - 7-10 hours
+      - 11-15 hours
+      - More than 15 hours
+      required: true
+    - id: 10
+      name: mentoring_experience
+      label: Do you have previous mentoring or volunteering experience
+      hint: Previous experience
+      type: select_one
+      options:
+      - No - first time
+      - Yes - informal mentoring
+      - Yes - formal program volunteer
+      - Yes - professional counselor or coach
+      required: true
+    - id: 11
+      name: experience_details
+      label: Please describe your experience
+      hint: Provide details about your mentoring background
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: skills
+      label: What skills or talents can you offer
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Academic tutoring
+      - Career guidance
+      - Life skills coaching
+      - Emotional support
+      - Arts and creativity
+      - Sports and fitness
+      - Technology skills
+      - Music
+      required: false
+    - id: 13
+      name: preferred_age_group
+      label: Preferred Age Group to Mentor
+      hint: If applicable
+      type: select_one
+      options:
+      - Children (5-12 years)
+      - Teenagers (13-17 years)
+      - Young Adults (18-25 years)
+      - Adults (26-64 years)
+      - Seniors (65+ years)
+      - No preference
+      required: false
+    - id: 14
+      name: education_level
+      label: Highest Level of Education
+      hint: Your education background
+      type: select_one
+      options:
+      - High School or equivalent
+      - Some college
+      - Associate Degree
+      - Bachelor's Degree
+      - Master's Degree
+      - Doctorate or Professional Degree
+      required: true
+    - id: 15
+      name: occupation
+      label: Current Occupation
+      hint: Your current job or role
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: background_check
+      label: Are you willing to undergo a background check
+      hint: Required for all mentors
+      type: select_one
+      options:
+      - Yes - I consent
+      - false
+      required: true
+    - id: 17
+      name: references
+      label: Can you provide professional references
+      hint: References will be contacted
+      type: select_one
+      options:
+      - Yes - I can provide 2-3 references
+      - Yes - I can provide 1 reference
+      - false
+      required: true
+    - id: 18
+      name: how_heard
+      label: How did you hear about this program
+      hint: Source of referral
+      type: select_one
+      options:
+      - Website
+      - Social media
+      - Friend or family
+      - Community organization
+      - Workplace
+      - School or university
+      - Other
+      required: false
+    - id: 19
+      name: additional_comments
+      label: Additional Comments or Questions
+      hint: Anything else you would like us to know
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: agreement
+      label: I agree to abide by the program guidelines and policies
+      hint: Acknowledgment
+      type: select_one
+      options:
+      - Yes - I agree
+      - false
+      required: true

@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: level of care assessment form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_date_of_admission
+      label: patient date of admission
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: medical_diagnosis
+      label: Medical Diagnosis
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: nursing_level
+      label: Nursing Level
+      hint: Select the appropriate nursing level
+      type: select_one
+      options:
+      - High
+      - Low
+      required: true
+    - id: 5
+      name: rehabilitation_program
+      label: Rehabilitation Program
+      hint: Select one or more programs
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: current_medications
+      label: Current Medications
+      hint: List all current medications
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: medical_history
+      label: Medical History
+      hint: Include a detailed medical history
+      type: note
+      options: []
+      required: true
+    - id: 8
+      name: medical_status
+      label: Medical Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: patient_notes
+      label: Patient Notes
+      hint: Add any additional notes about the patient
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: assessment_date
+      label: Assessment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: assessor_name
+      label: Assessor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: assessor_title
+      label: Assessor Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: assessor_contact
+      label: Assessor Contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: hospital_name
+      label: Hospital Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: facility_name
+      label: Facility Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: facility_phone
+      label: Facility Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: facility_fax
+      label: Facility Fax
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: facility_email
+      label: Facility Email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: facility_address_1
+      label: Facility Address 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: facility_address_2
+      label: Facility Address 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: facility_city
+      label: Facility City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: facility_state
+      label: Facility State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: facility_zip
+      label: Facility Zip
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: facility_country
+      label: Facility Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: facility_region
+      label: Facility Region
+      hint: null
+      type: text
+      options: []
+      required: false

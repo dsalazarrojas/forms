@@ -1,0 +1,131 @@
+inputSchema:
+  type: object
+  properties:
+    title: Academic Records Request Form
+    pages:
+    - id: 1
+      name: section_requestor_info
+      label: -- Requestor Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name of Student or Alumni
+      hint: Provide name at time of enrollment
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: For verification purposes
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Contact Email Address
+      hint: Where we can reach you
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Contact Phone Number
+      hint: Mobile or landline
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_record_details
+      label: -- Record Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: records_requested
+      label: Select the records you are requesting
+      hint: You may select multiple items
+      type: select_multiple
+      options:
+      - Official Transcript
+      - Unofficial Transcript
+      - Proof of Enrollment
+      - Graduation Verification
+      - Course Descriptions
+      required: true
+    - id: 8
+      name: number_of_copies
+      label: Number of copies required
+      hint: Total count for all selected records
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: graduation_status
+      label: Are you a current student or alumni?
+      hint: Select current status
+      type: select_one
+      options:
+      - Current Student
+      - Alumni
+      - Former Student - Did not graduate
+      required: true
+    - id: 10
+      name: graduation_year
+      label: Year of Graduation or Last Attendance
+      hint: approximate if unsure
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: section_delivery
+      label: -- Delivery Method --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: delivery_preference
+      label: How should the records be delivered?
+      hint: Select preferred method
+      type: select_one
+      options:
+      - Email - PDF
+      - Standard Mail
+      - Express Mail
+      - Pickup in Person
+      required: true
+    - id: 13
+      name: delivery_address
+      label: Mailing Address - if applicable
+      hint: Full address for physical delivery
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: section_processing
+      label: -- Processing Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: rush_processing
+      label: Do you require rush processing for an additional fee?
+      hint: Standard is 5-7 business days
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 16
+      name: special_instructions
+      label: Any special instructions for this request
+      hint: Optional details
+      type: text
+      options: []
+      required: false

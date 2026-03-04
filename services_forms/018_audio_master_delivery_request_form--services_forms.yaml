@@ -1,0 +1,211 @@
+inputSchema:
+  type: object
+  properties:
+    title: Audio Master Delivery Request Form
+    pages:
+    - id: 1
+      name: artist_name
+      label: Artist Name
+      hint: Name of artist or band
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_full_name
+      label: Contact Full Name
+      hint: Name of primary contact person
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Email Address
+      hint: Contact email for delivery
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: label_or_company
+      label: Label or Company
+      hint: Record label or company (if applicable)
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: request_date
+      label: Request Date
+      hint: Date of this delivery request
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: project_title
+      label: Project Title
+      hint: Album, EP, or single title
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: project_type
+      label: Project Type
+      hint: What type of project is this?
+      type: select_one
+      options:
+      - Single Track
+      - EP (3-6 tracks)
+      - Full Album (7+ tracks)
+      - Compilation
+      - Podcast Series
+      - Audiobook
+      - Other
+      required: true
+    - id: 9
+      name: number_of_tracks
+      label: Number of Tracks
+      hint: Total number of tracks to master
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: genre
+      label: Genre
+      hint: Primary musical genre
+      type: select_one
+      options:
+      - Rock
+      - Pop
+      - Hip Hop
+      - Electronic
+      - Jazz
+      - Classical
+      - Country
+      - R and B
+      - Metal
+      - Folk
+      - Other
+      required: true
+    - id: 11
+      name: reference_tracks
+      label: Reference Tracks
+      hint: List any reference tracks for mastering style
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: mix_format
+      label: Mix Format
+      hint: Format of delivered mixes
+      type: select_one
+      options:
+      - WAV 24-bit
+      - WAV 16-bit
+      - AIFF
+      - MP3
+      - Other
+      required: true
+    - id: 13
+      name: sample_rate
+      label: Sample Rate
+      hint: Sample rate of mixes
+      type: select_one
+      options:
+      - 44.1 kHz
+      - 48 kHz
+      - 88.2 kHz
+      - 96 kHz
+      - Other
+      required: true
+    - id: 14
+      name: delivery_format
+      label: Delivery Format
+      hint: Preferred format for mastered files
+      type: select_multiple
+      options:
+      - WAV 24-bit
+      - WAV 16-bit
+      - MP3 320kbps
+      - MP3 256kbps
+      - AAC
+      - FLAC
+      - DDP (for CD)
+      required: true
+    - id: 15
+      name: delivery_method
+      label: Delivery Method
+      hint: How should masters be delivered?
+      type: select_one
+      options:
+      - Digital download link
+      - Cloud storage link
+      - Physical USB drive
+      - Physical CD
+      - FTP transfer
+      required: true
+    - id: 16
+      name: delivery_address
+      label: Delivery Address
+      hint: Address for physical delivery (if applicable)
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: deadline
+      label: Deadline
+      hint: Required delivery date
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: isrc_codes
+      label: ISRC Codes
+      hint: Do you have ISRC codes ready?
+      type: select_one
+      options:
+      - Yes, will provide
+      - No, need assistance
+      - Not applicable
+      required: true
+    - id: 19
+      name: cd_text_required
+      label: CD Text Required
+      hint: Is CD text needed for physical release?
+      type: select_one
+      options:
+      - true
+      - false
+      - Not applicable
+      required: true
+    - id: 20
+      name: special_instructions
+      label: Special Instructions
+      hint: Any specific mastering requests or notes
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: revision_rounds
+      label: Revision Rounds
+      hint: How many revision rounds are included?
+      type: select_one
+      options:
+      - 1 round
+      - 2 rounds
+      - 3 rounds
+      - Unlimited
+      required: true
+    - id: 22
+      name: rush_service
+      label: Rush Service
+      hint: Do you need rush processing?
+      type: select_one
+      options:
+      - Yes, rush service needed
+      - No, standard timeline
+      required: true

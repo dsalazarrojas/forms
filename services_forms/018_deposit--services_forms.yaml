@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Deposit
+    pages:
+    - id: 1
+      name: deposit_form
+      label: ราคา payment
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: deposit_date
+      label: ราคา date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: deposit_amount
+      label: ราคา amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: payment_method
+      label: ราคา method
+      hint: null
+      type: select_multiple
+      options:
+      - cash
+      - credit_card
+      - bank_transfer
+      required: true
+    - id: 5
+      name: customer_name
+      label: ราคา name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: customer_email
+      label: ราคา email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: customer_phone
+      label: ราคา phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: customer_address
+      label: ราคา address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: note
+      label: ราคา note
+      hint: null
+      type: note
+      options: []
+      required: false

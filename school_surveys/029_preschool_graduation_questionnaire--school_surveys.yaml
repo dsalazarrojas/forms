@@ -1,0 +1,30 @@
+inputSchema:
+  type: object
+  properties:
+    title: Preschool Graduation Questionnaire
+    pages:
+    - id: 1
+      name: teacher_feedback
+      label: Teacher Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: parent_survey
+      label: Parent Survey
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: graduation_survey
+      label: Graduation Survey
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

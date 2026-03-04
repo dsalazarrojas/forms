@@ -1,0 +1,131 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Adoption Certificate Form
+    pages:
+    - id: 1
+      name: section_id
+      label: -- Certificate Identification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: serial_number
+      label: Serial Number
+      hint: Unique identifier for this certificate
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_issued
+      label: Date Issued
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: section_parties
+      label: -- Party Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: adoptive_parent_1
+      label: Adoptive Parent 1
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: adoptive_parent_2
+      label: Adoptive Parent 2
+      hint: Full legal name - if applicable
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: adoptee_legal_name
+      label: Adoptee Legal Name
+      hint: Legal name of the child or pet being adopted
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: section_details
+      label: -- Adoption Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: type_of_adoption
+      label: Type of Adoption
+      hint: null
+      type: select_one
+      options:
+      - Child
+      - Pet
+      - Adult
+      required: true
+    - id: 10
+      name: place_of_finalization
+      label: Place of Finalization
+      hint: City and State
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: court_order_date
+      label: Court Order Date
+      hint: If applicable
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: presiding_judge
+      label: Presiding Judge
+      hint: Name of the judge who signed the decree
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: section_agency
+      label: -- Agency Verification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: authorizing_official_name
+      label: Authorizing Official Name
+      hint: Person signing on behalf of the agency
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: agency_full_name
+      label: Agency Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: contact_information
+      label: Contact Information
+      hint: Agency phone or email
+      type: text
+      options: []
+      required: true

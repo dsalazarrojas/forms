@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student COVID 19 Vaccine Attestation Form
+    pages:
+    - id: 1
+      name: student_covid_19_interest
+      label: Student Covid 19 Interest
+      hint: null
+      type: select_one
+      options:
+      - Interested
+      - Not Interested
+      - Undecided
+      required: false
+    - id: 2
+      name: covid_19_vaccine_status
+      label: Covid 19 Vaccine Status
+      hint: null
+      type: select_multiple
+      options:
+      - Vaccinated
+      - Not Vaccinated
+      - Not Applicable
+      required: false
+    - id: 3
+      name: vaccination_date
+      label: Vaccination Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: vaccination_time
+      label: Vaccination Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: reason_for_not_vaccinated
+      label: Reason For Not Vaccinated
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: reason_for_not_vaccinated_other
+      label: Reason For Not Vaccinated Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: student_signature
+      label: Student Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: counselor_signature
+      label: Counselor Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: date_submitted
+      label: Date Submitted
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: form_submitter
+      label: Form Submitter
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: form_submitter_phone
+      label: Form Submitter
+      hint: null
+      type: text
+      options: []
+      required: false

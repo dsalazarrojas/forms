@@ -1,0 +1,272 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Cleaning Checklist Form
+    pages:
+      - id: 1
+        name: section_header_date
+        label: -- Cleaning Schedule Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: cleaning_date
+        label: Cleaning Date
+        hint: Date of the cleaning session
+        type: date
+        options: []
+        required: true
+      - id: 3
+        name: cleaning_crew_name
+        label: Crew Leader/Supervisor Name
+        hint: Name of the person responsible
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: crew_members
+        label: Crew Members Present
+        hint: Names of all crew members on this job
+        type: text
+        options: []
+        required: false
+      - id: 5
+        name: location_name
+        label: Location/Property Name
+        hint: Name or address of the property
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: location_type
+        label: Location Type
+        hint: Type of property being cleaned
+        type: select_one
+        options:
+          - Residential Home
+          - Office Building
+          - Medical Facility
+          - School
+          - Retail Store
+          - Restaurant
+          - Warehouse
+          - Other
+        required: true
+      - id: 7
+        name: section_header_kitchen
+        label: -- Kitchen Cleaning --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 8
+        name: clean_countertops
+        label: Clean and sanitize countertops
+        hint: null
+        type: select_one
+        options:
+          - Complete
+          - In Progress
+          - Not Applicable
+        required: true
+      - id: 9
+        name: clean_sink
+        label: Scrub sink and faucet
+        hint: null
+        type: select_one
+        options:
+          - Complete
+          - In Progress
+          - Not Applicable
+        required: true
+      - id: 10
+        name: clean_appliances
+        label: Clean exterior of appliances
+        hint: null
+        type: select_one
+        options:
+          - Complete
+          - In Progress
+          - Not Applicable
+        required: true
+      - id: 11
+        name: clean_floor
+        label: Sweep and mop kitchen floor
+        hint: null
+        type: select_one
+        options:
+          - Complete
+          - In Progress
+          - Not Applicable
+        required: true
+      - id: 12
+        name: section_header_bathroom
+        label: -- Bathroom Cleaning --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 13
+        name: clean_toilet
+        label: Clean and disinfect toilet
+        hint: null
+        type: select_one
+        options:
+          - Complete
+          - In Progress
+          - Not Applicable
+        required: true
+      - id: 14
+        name: clean_shower_tub
+        label: Clean shower/bathtub
+        hint: null
+        type: select_one
+        options:
+          - Complete
+          - In Progress
+          - Not Applicable
+        required: true
+      - id: 15
+        name: clean_sink_bathroom
+        label: Clean sink and faucet
+        hint: null
+        type: select_one
+        options:
+          - Complete
+          - In Progress
+          - Not Applicable
+        required: true
+      - id: 16
+        name: mirrors_windows_bath
+        label: Clean mirrors and windows
+        hint: null
+        type: select_one
+        options:
+          - Complete
+          - In Progress
+          - Not Applicable
+        required: true
+      - id: 17
+        name: bathroom_floor
+        label: Clean bathroom floor
+        hint: null
+        type: select_one
+        options:
+          - Complete
+          - In Progress
+          - Not Applicable
+        required: true
+      - id: 18
+        name: section_header_living
+        label: -- Living Areas --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 19
+        name: dust_surfaces
+        label: Dust all surfaces and furniture
+        hint: null
+        type: select_one
+        options:
+          - Complete
+          - In Progress
+          - Not Applicable
+        required: true
+      - id: 20
+        name: vacuum_carpets
+        label: Vacuum carpets and rugs
+        hint: null
+        type: select_one
+        options:
+          - Complete
+          - In Progress
+          - Not Applicable
+        required: true
+      - id: 21
+        name: clean_floors_living
+        label: Clean hard floors
+        hint: null
+        type: select_one
+        options:
+          - Complete
+          - In Progress
+          - Not Applicable
+        required: true
+      - id: 22
+        name: section_header_general
+        label: -- General Tasks --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 23
+        name: empty_trash
+        label: Empty trash and replace liners
+        hint: null
+        type: select_one
+        options:
+          - Complete
+          - In Progress
+          - Not Applicable
+        required: true
+      - id: 24
+        name: restock_supplies
+        label: Restock cleaning supplies and paper products
+        hint: null
+        type: select_one
+        options:
+          - Complete
+          - In Progress
+          - Not Applicable
+        required: true
+      - id: 25
+        name: final_inspection
+        label: Conduct final walkthrough inspection
+        hint: null
+        type: select_one
+        options:
+          - Complete
+          - In Progress
+          - Not Applicable
+        required: true
+      - id: 26
+        name: section_header_completion
+        label: -- Completion Notes --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 27
+        name: issues_encountered
+        label: Any issues or damages encountered?
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 28
+        name: time_started
+        label: Start Time
+        hint: Time cleaning began
+        type: time
+        options: []
+        required: true
+      - id: 29
+        name: time_completed
+        label: Completion Time
+        hint: Time cleaning was completed
+        type: time
+        options: []
+        required: true

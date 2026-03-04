@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cubing Performance Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: What is your speedcubing skill level?
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Advanced
+      - Expert
+      - Novice
+      required: false
+    - id: 2
+      name: speed_cubing_event
+      label: Event
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: speedcubing_event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - 3x3
+      - 3x4
+      - 3x5
+      - 3x6
+      - 3x7
+      - 4x4
+      required: false
+    - id: 4
+      name: speedcubing_time
+      label: Time
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: speedcubing_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: speedcubing_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: speedcubing_score
+      label: Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: speedcubing_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: speedcubing_suggestions
+      label: Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: speedcubing_rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false

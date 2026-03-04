@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Enhancement Request Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: product_details
+      label: Product Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: enhancement_type
+      label: Enhancement Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''type1''}'
+      - '{''id'': 2, ''name'': ''type2''}'
+      - '{''id'': 3, ''name'': ''type3''}'
+      required: false
+    - id: 4
+      name: priority
+      label: Priority
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''new''}'
+      - '{''id'': 2, ''name'': ''in_progress''}'
+      - '{''id'': 3, ''name'': ''completed''}'
+      required: false
+    - id: 6
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: impact_level
+      label: Impact Level
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''high''}'
+      - '{''id'': 2, ''name'': ''medium''}'
+      - '{''id'': 3, ''name'': ''low''}'
+      required: false
+    - id: 8
+      name: due_date
+      label: Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''chatjimmy''}'
+      - '{''id'': 2, ''name'': ''not_assigned''}'
+      required: false
+    - id: 10
+      name: submit_button
+      label: Submit
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: email_input
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone_input
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

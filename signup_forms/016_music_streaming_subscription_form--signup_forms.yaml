@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Music Streaming Subscription Form
+    pages:
+    - id: 1
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: password
+      label: Password
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: password_confirmation
+      label: Password Confirmation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''credit_card''}'
+      - '{''value'': ''paypal''}'
+      - '{''value'': ''apple_pay''}'
+      required: false
+    - id: 6
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: accept_terms
+      label: Accept Terms
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''accept''}'
+      - '{''value'': ''decline''}'
+      required: false
+    - id: 9
+      name: accept_newsletter
+      label: Accept Newsletter
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: user_agreement
+      label: User Agreement
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''accept''}'
+      - '{''value'': ''decline''}'
+      required: false

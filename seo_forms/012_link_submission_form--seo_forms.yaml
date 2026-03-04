@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Link Submission Form
+    pages:
+    - id: 1
+      name: link_submission_form
+      label: Link Submission Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: link
+      label: Link URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: customer_details
+      label: Customer Details
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 5
+      name: email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false

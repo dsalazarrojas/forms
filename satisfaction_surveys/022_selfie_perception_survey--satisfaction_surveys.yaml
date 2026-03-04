@@ -1,0 +1,371 @@
+inputSchema:
+  type: object
+  properties:
+    title: Selfie Perception Survey
+    pages:
+    - id: 1
+      name: selfie_habits
+      label: Selfie Habits
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: selfie_frequency
+      label: How Often Do You Take Selfies
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: selfie_reason
+      label: Why Do You Take Selfies
+      hint: null
+      type: select_one
+      options:
+      - I am trying to look good
+      - I am trying to feel good
+      - I am trying to share with friends
+      - Other, please specify
+      required: true
+    - id: 4
+      name: selfie_image
+      label: Selfie Image
+      hint: null
+      type: select_multiple
+      options:
+      - A picture of myself in a formal setting
+      - A picture of myself in an informal setting
+      - A picture of myself with friends
+      - Other, please specify
+      required: true
+    - id: 5
+      name: selfie_emotions
+      label: What Emotions Do You Feel When You Take Selfies
+      hint: null
+      type: select_multiple
+      options:
+      - Happy
+      - Bored
+      - Anxious
+      - Other, please specify
+      required: true
+    - id: 6
+      name: selfie_frequency_time
+      label: How Often Do You Take Selfies
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: selfie_device
+      label: What Device Do You Use To Take Selfies
+      hint: null
+      type: select_one
+      options:
+      - Smartphone
+      - Camera
+      - Computer
+      - Other, please specify
+      required: true
+    - id: 8
+      name: selfie_location
+      label: Where Do You Take Selfies
+      hint: null
+      type: select_multiple
+      options:
+      - At home
+      - At work
+      - On vacation
+      - Other, please specify
+      required: true
+    - id: 9
+      name: selfie_social_media
+      label: Why Do You Share Selfies
+      hint: null
+      type: select_multiple
+      options:
+      - Facebook
+      - Instagram
+      - Twitter
+      - Other, please specify
+      required: true
+    - id: 10
+      name: selfie_self_image
+      label: How Do You View Yourself
+      hint: null
+      type: select_multiple
+      options:
+      - Confident
+      - Self-conscious
+      - Average
+      - Other, please specify
+      required: true
+    - id: 11
+      name: selfie_perception
+      label: How Do You Perceive Yourself
+      hint: null
+      type: select_multiple
+      options:
+      - Attractive
+      - Average
+      - Unattractive
+      - Other, please specify
+      required: true
+    - id: 12
+      name: selfie_frequency_of_selfies_taken
+      label: How Many Selfies Do You Take Per Week
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: selfie_average_selfie_per_week
+      label: What Is The Average Number Of Selfies You Take Per Week
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: selfie_how_do_you_feel
+      label: How Do You Feel When You Take Selfies
+      hint: null
+      type: select_multiple
+      options:
+      - Happy
+      - Bored
+      - Anxious
+      - Other, please specify
+      required: true
+    - id: 15
+      name: selfie_how_do_you_share
+      label: How Do You Share Selfies
+      hint: null
+      type: select_multiple
+      options:
+      - Facebook
+      - Instagram
+      - Twitter
+      - Other, please specify
+      required: true
+    - id: 16
+      name: selfie_perception_selfie
+      label: How Do You Perceive Selfies
+      hint: null
+      type: select_multiple
+      options:
+      - Positive
+      - Negative
+      - Neutral
+      - Other, please specify
+      required: true
+    - id: 17
+      name: selfie_image_selfie
+      label: What Image Do You Use For Selfie
+      hint: null
+      type: select_multiple
+      options:
+      - A picture of myself
+      - A picture of my friends
+      - A picture of my family
+      - Other, please specify
+      required: true
+    - id: 18
+      name: selfie_how_do_you_perceive_selfie
+      label: How Do You Perceive Selfie
+      hint: null
+      type: select_multiple
+      options:
+      - Beautiful
+      - Ugly
+      - Average
+      - Other, please specify
+      required: true
+    - id: 19
+      name: selfie_selfie_frequency
+      label: Selfie Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: selfie_perception_of_selfie
+      label: Perception Of Selfie
+      hint: null
+      type: select_multiple
+      options:
+      - Positive
+      - Negative
+      - Neutral
+      - Other, please specify
+      required: true
+    - id: 21
+      name: selfie_selfie_device
+      label: Selfie Device
+      hint: null
+      type: select_one
+      options:
+      - Smartphone
+      - Camera
+      - Computer
+      - Other, please specify
+      required: true
+    - id: 22
+      name: selfie_selfie_time
+      label: Selfie Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: selfie_selfie_date
+      label: Selfie Date
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: selfie_selfie_location
+      label: Selfie Location
+      hint: null
+      type: select_multiple
+      options:
+      - At home
+      - At work
+      - On vacation
+      - Other, please specify
+      required: true
+    - id: 25
+      name: selfie_selfie_other
+      label: Other
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: selfie_selfie_note
+      label: None
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: selfie_selfie_email
+      label: Selfie Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 28
+      name: selfie_selfie_phone
+      label: Selfie Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: selfie_selfie_note
+      label: None
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 30
+      name: selfie_selfie_file
+      label: Selfie File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: selfie_selfie_phone
+      label: Selfie Phone
+      hint: null
+      type: select_one
+      options:
+      - Mobile
+      - Desktop
+      - Laptop
+      - Other, please specify
+      required: true
+    - id: 32
+      name: selfie_selfie_email
+      label: Selfie Email
+      hint: null
+      type: select_one
+      options:
+      - Mobile
+      - Desktop
+      - Laptop
+      - Other, please specify
+      required: true
+    - id: 33
+      name: selfie_selfie_note
+      label: None
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 34
+      name: selfie_selfie_time
+      label: None
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 35
+      name: selfie_selfie_phone
+      label: None
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 36
+      name: selfie_selfie_email
+      label: None
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 37
+      name: selfie_selfie_note
+      label: None
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 38
+      name: selfie_selfie_file
+      label: None
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 39
+      name: selfie_selfie_phone
+      label: None
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 40
+      name: selfie_selfie_email
+      label: None
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 41
+      name: selfie_selfie_note
+      label: None
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 42
+      name: selfie_selfie_file
+      label: None
+      hint: null
+      type: text
+      options: []
+      required: false

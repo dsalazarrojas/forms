@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: spring_event_sign_up_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: event_time_zone
+      label: Event Time Zone
+      hint: null
+      type: select_one
+      options:
+      - EST
+      - EDT
+      - PDT
+      - MDT
+      - CST
+      - CDT
+      required: false
+    - id: 8
+      name: sign_up_type
+      label: Sign Up Type
+      hint: null
+      type: select_one
+      options:
+      - In Person
+      - Virtual
+      - Phone
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: confirm_event_date
+      label: Confirm Event Date
+      hint: null
+      type: date
+      options: []
+      required: false

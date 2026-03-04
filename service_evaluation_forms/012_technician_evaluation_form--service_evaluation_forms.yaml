@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Technician Evaluation Form
+    pages:
+    - id: 1
+      name: technician_evaluation_form_input
+      label: service_feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: technician_performance
+      label: technician_performance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: communication_skills
+      label: communication_skills
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: problem_solving_skills
+      label: problem_solving_skills
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: technician_availability
+      label: technician_availability
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: work_quality
+      label: work_quality
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: service_quality
+      label: service_quality
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 8
+      name: technician_evaluation_form_comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: technician_form_additional_info
+      label: additional_info
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,237 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: patient_satisfaction_questionnaire
+    pages:
+    - id: 1
+      name: form_intro
+      label: Patient Satisfaction Questionnaire
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Patient Contact Info''}'
+      - '{''label'': ''Family Member Contact Info''}'
+      - '{''label'': ''Healthcare Provider Contact Info''}'
+      required: false
+    - id: 3
+      name: question_1
+      label: How likely are you to recommend this healthcare provider?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Very Likely''}'
+      - '{''label'': ''Somewhat Likely''}'
+      - '{''label'': ''Not Very Likely''}'
+      - '{''label'': ''Not at All Likely''}'
+      required: false
+    - id: 4
+      name: question_2
+      label: How satisfied are you with the care you received?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Very Satisfied''}'
+      - '{''label'': ''Somewhat Satisfied''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Somewhat Dissatisfied''}'
+      - '{''label'': ''Very Dissatisfied''}'
+      required: false
+    - id: 5
+      name: question_3
+      label: How likely are you to use this healthcare provider again?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very Likely''}'
+      - '{''label'': ''Somewhat Likely''}'
+      - '{''label'': ''Not Very Likely''}'
+      - '{''label'': ''Not at All Likely''}'
+      required: false
+    - id: 6
+      name: question_4
+      label: What was the primary reason for your visit?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: question_5
+      label: How would you rate the communication with your healthcare provider?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Poor''}'
+      required: false
+    - id: 8
+      name: question_6
+      label: What time of day do you prefer for your appointment schedule?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Morning''}'
+      - '{''label'': ''Afternoon''}'
+      - '{''label'': ''Evening''}'
+      required: true
+    - id: 9
+      name: question_7
+      label: How would you rate the waiting time prior to your visit?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Less than 15 minutes''}'
+      - '{''label'': ''16-30 minutes''}'
+      - '{''label'': ''31-60 minutes''}'
+      - '{''label'': ''More than 1 hour''}'
+      required: false
+    - id: 10
+      name: question_8
+      label: Would you like to be contacted by the healthcare provider for any reason?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Yes''}'
+      - '{''label'': ''No''}'
+      required: false
+    - id: 11
+      name: question_9
+      label: Is there anything else you would like to add?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: question_10
+      label: Additional comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: question_11
+      label: How likely are you to recommend this healthcare provider to a friend
+        or family member?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very Likely''}'
+      - '{''label'': ''Somewhat Likely''}'
+      - '{''label'': ''Not Very Likely''}'
+      - '{''label'': ''Not at All Likely''}'
+      required: false
+    - id: 14
+      name: question_12
+      label: Additional comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: question_13
+      label: How likely are you to return to this healthcare provider?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very Likely''}'
+      - '{''label'': ''Somewhat Likely''}'
+      - '{''label'': ''Not Very Likely''}'
+      - '{''label'': ''Not at All Likely''}'
+      required: false
+    - id: 16
+      name: question_14
+      label: Additional comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: form_summary
+      label: Form Summary
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: question_15
+      label: How likely are you to recommend this healthcare service to others?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very Likely''}'
+      - '{''label'': ''Somewhat Likely''}'
+      - '{''label'': ''Not Very Likely''}'
+      - '{''label'': ''Not at All Likely''}'
+      required: false
+    - id: 19
+      name: question_16
+      label: Additional comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: question_17
+      label: How would you rate the overall experience?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Poor''}'
+      required: false
+    - id: 21
+      name: question_18
+      label: Additional comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: form_end
+      label: Form End
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: question_19
+      label: Is there anything else you would like to add?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: question_20
+      label: Additional comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: question_21
+      label: Thank you for taking the time to share your feedback!
+      hint: null
+      type: note
+      options: []
+      required: false

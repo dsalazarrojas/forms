@@ -1,0 +1,185 @@
+inputSchema:
+  type: object
+  properties:
+    title: Maltese English Reservation & Booking
+    pages:
+    - id: 1
+      name: first_page
+      label: first_page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: reservation_form
+      label: reservation_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: event_type
+      label: event_type
+      hint: null
+      type: select_one
+      options:
+      - Hotel
+      - Party
+      - Event
+      required: false
+    - id: 4
+      name: event_date
+      label: event_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: event_time
+      label: event_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: guest_name
+      label: guest_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: guest_email
+      label: guest_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: guest_phone
+      label: guest_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: confirm
+      label: confirm
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: booking_date
+      label: booking_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: booking_time
+      label: booking_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: guest_count
+      label: guest_count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: event_location
+      label: event_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: guest_comment
+      label: guest_comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: reservation_id
+      label: reservation_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: user_id
+      label: user_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: confirm_user
+      label: confirm_user
+      hint: null
+      type: select_one
+      options:
+      - User
+      - Other
+      required: false
+    - id: 19
+      name: other_user
+      label: other_user
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: user_email
+      label: user_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 21
+      name: user_phone
+      label: user_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: confirm_admin
+      label: confirm_admin
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: booking_status
+      label: booking_status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Rejected
+      - Pending
+      required: false

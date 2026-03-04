@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sfdc Campaign Request Form
+    pages:
+    - id: 1
+      name: campaign_name
+      label: Campaign Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: campaign_requirements
+      label: Campaign Requirements
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: media_used
+      label: Media Used
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: target_audience
+      label: Target Audience
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: target_audience_description
+      label: Target Audience Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: platform_used
+      label: Platform
+      hint: null
+      type: select_one
+      options:
+      - Facebook
+      - Google Adwords
+      - Bing Ads
+      required: true
+    - id: 7
+      name: budget_allocated
+      label: Budget
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: expected_return
+      label: Expected Return
+      hint: null
+      type: select_multiple
+      options:
+      - ROI
+      - Increased Sales
+      - Brand Awareness
+      - Conversions
+      required: true
+    - id: 9
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: contact_message
+      label: Contact Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: terms_and_conditions
+      label: Terms and Conditions
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: terms_and_conditions_agreed
+      label: Terms and Conditions Agreed
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 15
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: date_of_submission
+      label: Date of Submission
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: submission_by
+      label: Submission by
+      hint: null
+      type: select_one
+      options:
+      - Client
+      - Agency
+      required: true
+    - id: 18
+      name: submission_agreed
+      label: Submission Agreed
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 19
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: form_submission
+      label: Form Submission
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: campaign_type
+      label: Campaign Type
+      hint: null
+      type: select_multiple
+      options:
+      - Awareness
+      - Conversions
+      - Engagement
+      - Sales
+      required: false
+    - id: 22
+      name: campaign_objectives
+      label: Campaign Objectives
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: campaign_duration
+      label: Campaign Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: form_submission_date
+      label: Form Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true

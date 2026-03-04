@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Scholarship Application Portal Access Form
+    pages:
+    - id: 1
+      name: application_form
+      label: Application Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: student_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: academic_info
+      label: academic_info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: financial_info
+      label: financial_info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: scholarship_type
+      label: scholarship_type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 10
+      name: submit_button
+      label: submit_button
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: terms_and_conditions
+      label: terms_and_conditions
+      hint: Please accept the terms and conditions
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 12
+      name: confirm_terms
+      label: confirm_terms
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 13
+      name: signature
+      label: signature
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 14
+      name: confirm_signature
+      label: confirm_signature
+      hint: null
+      type: text
+      options: []
+      required: false

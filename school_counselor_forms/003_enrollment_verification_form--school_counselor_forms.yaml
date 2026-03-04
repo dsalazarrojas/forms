@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Enrollment Verification Form
+    pages:
+    - id: 1
+      name: school_counselor_form_1
+      label: school_counselor_form_1_label
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      required: false
+    - id: 2
+      name: student_id
+      label: student_id_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: student_first_name
+      label: student_first_name_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: student_last_name
+      label: student_last_name_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: student_dob
+      label: student_dob_label
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: student_grade_level
+      label: student_grade_level_label
+      hint: null
+      type: select_one
+      options:
+      - Freshman
+      - Sophomore
+      - Junior
+      - Senior
+      required: false
+    - id: 7
+      name: school_name
+      label: school_name_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: school_address
+      label: school_address_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: student_phone_number
+      label: student_phone_number_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: student_email
+      label: student_email_label
+      hint: null
+      type: email
+      options: []
+      required: false

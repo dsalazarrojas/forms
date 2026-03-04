@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: Digital Pledge
+    pages:
+    - id: 1
+      name: form_title
+      label: digital_pledge
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_description
+      label: digital_pledge_description
+      hint: Description of Digital Pledge
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: form_category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - Services
+      - Other
+      required: false
+    - id: 4
+      name: form_assigned_tool
+      label: assigned_tool
+      hint: Pledge form assigned to
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: form_user
+      label: user
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: form_dollar_amount
+      label: dollar_amount
+      hint: null
+      type: number
+      options: []
+      required: false

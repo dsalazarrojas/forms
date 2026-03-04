@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mobile Home Inspection Form
+    pages:
+    - id: 1
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: home_type
+      label: Home Type
+      hint: null
+      type: select_one
+      options:
+      - Mobile Home
+      - Single Family
+      - Townhouse
+      required: false
+    - id: 3
+      name: sqft
+      label: Square Footage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: bedrooms
+      label: Number of Bedrooms
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: bathrooms
+      label: Number of Bathrooms
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: year_built
+      label: Year Built
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: lot_size
+      label: Lot Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_multiple
+      options:
+      - Single Family
+      - Townhouse
+      - Condo
+      - Duplex
+      required: false
+    - id: 9
+      name: lot_dimensions
+      label: Lot Dimensions
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: neighborhood
+      label: Neighborhood
+      hint: null
+      type: text
+      options: []
+      required: false

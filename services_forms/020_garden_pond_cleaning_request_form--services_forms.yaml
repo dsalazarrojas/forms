@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: Garden Pond Cleaning Request Form
+    pages:
+    - id: 1
+      name: garden_pond_cleaning_request_form_1
+      label: Schedule an Appointment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: garden_pond_cleaning_request_form_2
+      label: Select a Day
+      hint: Choose a day for the pond cleaning
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: garden_pond_cleaning_request_form_3
+      label: Select a Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: garden_pond_cleaning_request_form_4
+      label: Client Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: garden_pond_cleaning_request_form_5
+      label: Select a Service
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: garden_pond_cleaning_request_form_6
+      label: Pond Details
+      hint: null
+      type: text
+      options: []
+      required: false

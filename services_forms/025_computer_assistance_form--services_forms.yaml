@@ -1,0 +1,241 @@
+inputSchema:
+  type: object
+  properties:
+    title: Computer Assistance Form
+    pages:
+    - id: 1
+      name: ticket_id
+      label: Ticket ID
+      hint: Unique support ticket identifier
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: submission_date
+      label: Submission Date
+      hint: Date of support request
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: requester_name
+      label: Requester Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: requester_email
+      label: Requester Email
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: requester_phone
+      label: Requester Phone
+      hint: Your contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: department
+      label: Department
+      hint: Select your department
+      type: select_one
+      options:
+      - Human Resources
+      - Finance
+      - Sales
+      - Marketing
+      - Operations
+      - Information Technology
+      - Customer Service
+      - Executive
+      - Other
+      required: true
+    - id: 7
+      name: location
+      label: Location
+      hint: Your office location
+      type: select_one
+      options:
+      - Main Office
+      - Branch Office A
+      - Branch Office B
+      - Remote Work
+      - Other
+      required: true
+    - id: 8
+      name: issue_category
+      label: Issue Category
+      hint: Select the category of your issue
+      type: select_one
+      options:
+      - Hardware Issue
+      - Software Issue
+      - Network Issue
+      - Email Issue
+      - Printer Issue
+      - Security Concern
+      - Account Access
+      - New Equipment Request
+      - Training Request
+      - Other
+      required: true
+    - id: 9
+      name: issue_priority
+      label: Issue Priority
+      hint: How urgent is this issue
+      type: select_one
+      options:
+      - Low - Can Wait
+      - Medium - Within 24 Hours
+      - High - Within 4 Hours
+      - Critical - Immediate Attention
+      required: true
+    - id: 10
+      name: affected_device
+      label: Affected Device
+      hint: Which device is affected
+      type: select_one
+      options:
+      - Desktop Computer
+      - Laptop Computer
+      - Tablet
+      - Mobile Phone
+      - Printer
+      - Server
+      - Network Equipment
+      - Multiple Devices
+      - Other
+      required: true
+    - id: 11
+      name: device_id
+      label: Device ID or Asset Tag
+      hint: Device identification number
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: operating_system
+      label: Operating System
+      hint: Select your operating system
+      type: select_one
+      options:
+      - Windows 11
+      - Windows 10
+      - macOS
+      - Linux
+      - iOS
+      - Android
+      - Other
+      - Not Applicable
+      required: false
+    - id: 13
+      name: software_involved
+      label: Software Involved
+      hint: Name of software with issues
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: issue_description
+      label: Issue Description
+      hint: Describe the problem in detail
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: error_message
+      label: Error Message
+      hint: Copy any error messages displayed
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: when_did_issue_start
+      label: When Did Issue Start
+      hint: When did you first notice the problem
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: frequency_of_issue
+      label: Frequency of Issue
+      hint: How often does this occur
+      type: select_one
+      options:
+      - Constant
+      - Frequent
+      - Occasional
+      - Rare
+      - One Time
+      required: true
+    - id: 18
+      name: steps_taken
+      label: Steps Already Taken
+      hint: What have you tried to fix this
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: impact_on_work
+      label: Impact on Work
+      hint: How is this affecting your work
+      type: select_one
+      options:
+      - Cannot Work
+      - Severely Impacted
+      - Moderately Impacted
+      - Slightly Impacted
+      - No Impact
+      required: true
+    - id: 20
+      name: remote_access_allowed
+      label: Remote Access Allowed
+      hint: Can technician access your computer remotely
+      type: select_one
+      options:
+      - true
+      - false
+      - Only With Appointment
+      required: true
+    - id: 21
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: How should we contact you
+      type: select_one
+      options:
+      - Email
+      - Phone Call
+      - Text Message
+      - In Person
+      - Video Call
+      required: true
+    - id: 22
+      name: availability
+      label: Availability
+      hint: When are you available for support
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: additional_information
+      label: Additional Information
+      hint: Any other relevant details
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: ticket_status
+      label: Ticket Status
+      hint: Current ticket status
+      type: select_one
+      options:
+      - Submitted
+      - In Progress
+      - Waiting for User
+      - Resolved
+      - Closed
+      required: true

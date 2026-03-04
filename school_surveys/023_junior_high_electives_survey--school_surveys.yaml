@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Junior High Electives Survey
+    pages:
+    - id: 1
+      name: user_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: user_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_id
+      label: Student ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: grade_level
+      label: Grade Level
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: current_course
+      label: Current Course
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: elective_preferences
+      label: Elective Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: past_courses
+      label: Past Courses
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: parent_email
+      label: Parent Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: parent_phone
+      label: Parent Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: student_phone
+      label: Student Phone
+      hint: null
+      type: text
+      options: []
+      required: true

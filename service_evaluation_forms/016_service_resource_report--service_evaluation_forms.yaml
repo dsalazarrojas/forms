@@ -1,0 +1,28 @@
+inputSchema:
+  type: object
+  properties:
+    title: service_resource_report
+    pages:
+    - id: 1
+      name: service_resource_report_form
+      label: Service Resource Report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: resource_availability
+      label: Resource Availability
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: service_capacity
+      label: Service Capacity
+      hint: null
+      type: number
+      options: []
+      required: false

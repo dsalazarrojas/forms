@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Educational Standards Audit Form
+    pages:
+    - id: 1
+      name: introduction
+      label: What is this form for
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: school_id
+      label: School ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: curriculum
+      label: Curriculum
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: curriculum_01
+      label: Mathematics
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: teaching
+      label: Teaching
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: facilities
+      label: Facilities
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: student_services
+      label: Student Services
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: audit_results
+      label: Audit Results
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: assigned_to
+      label: Assigned to
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: output_file
+      label: Output file
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: output_file
+      label: Output file
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: category
+      label: Category
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: title
+      label: Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: assigned_to
+      label: Assigned to
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: category
+      label: Category
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: form_id
+      label: Form ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: output_file
+      label: Output file
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: output_file_2
+      label: Output file 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: output_file_3
+      label: Output file 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: category_2
+      label: Category 2
+      hint: null
+      type: text
+      options: []
+      required: false

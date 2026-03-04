@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: route_update_form
+    pages:
+    - id: 1
+      name: route_update_form_page_1
+      label: Route Update Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: route_update_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: route_update_message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: route_update_driver_phone
+      label: Driver Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: route_update_driver_email
+      label: Driver Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: route_update_route_status
+      label: Route Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Archived
+      required: true
+    - id: 7
+      name: route_update_update_method
+      label: Update Method
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Text Message
+      required: true
+    - id: 8
+      name: route_update_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: route_update_form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: true

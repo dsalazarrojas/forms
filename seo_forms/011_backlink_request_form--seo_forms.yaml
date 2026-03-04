@@ -1,0 +1,200 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Backlink Request Form
+    pages:
+      - id: 1
+        name: section_requester
+        label: -- Requester Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: requester_name
+        label: Full Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: requester_email
+        label: Email Address
+        hint: null
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: requester_phone
+        label: Phone Number
+        hint: null
+        type: phone
+        options: []
+        required: false
+      - id: 5
+        name: company_name
+        Label: Company/Website Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: company_website
+        label: Company Website URL
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: section_target
+        label: -- Target Website Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 8
+        name: target_website
+        label: Target Website URL
+        hint: Where you want the backlink placed
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: target_website_name
+        Label: Target Website Name
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: target_contact_name
+        Label: Contact Person Name (if known)
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 11
+        name: target_contact_email
+        Label: Contact Person Email (if known)
+        hint: null
+        type: email
+        options: []
+        required: false
+      - id: 12
+        name: section_backlink_details
+        label: -- Backlink Details --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 13
+        name: anchor_text
+        label: Requested Anchor Text
+        hint: The clickable text for the link
+        type: text
+        options: []
+        required: true
+      - id: 14
+        name: landing_page
+        Label: Landing Page URL
+        hint: Where the link should point to
+        type: text
+        options: []
+        required: true
+      - id: 15
+        name: suggested_page
+        Label: Suggested Page on Target Website
+        hint: Specific page where link could fit
+        type: text
+        options: []
+        required: false
+      - id: 16
+        name: link_type
+        label: Type of Link Requested
+        hint: null
+        type: select_one
+        options:
+          - Content Link
+          - Resource Page Link
+          - Blog Post Mention
+          - Directory Listing
+          - Press Release
+          - Guest Post
+          - Other
+        required: true
+      - id: 17
+        name: relevance_explanation
+        Label: Why This Backlink is Relevant
+        hint: Explain the connection between websites
+        type: text
+        options: []
+        required: true
+      - id: 18
+        name: section_value_proposition
+        label: -- Value Proposition --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 19
+        name: what_we_offer
+        label: What We Offer in Return
+        hint: Mutual benefit, content exchange, etc.
+        type: text
+        options: []
+        required: false
+      - id: 20
+        name: unique_value
+        Label: Unique Value of Our Website
+        hint: Why would your audience benefit?
+        type: text
+        options: []
+        required: true
+      - id: 21
+        name: section_seo_info
+        label: -- SEO Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 22
+        name: our_domain_authority
+        Label: Our Domain Authority (if known)
+        hint: null
+        type: integer
+        options: []
+        required: false
+      - id: 23
+        name: target_da
+        Label: Target Website Domain Authority (if known)
+        hint: null
+        type: integer
+        options: []
+        required: false
+      - id: 24
+        name: additional_info
+        Label: Additional Information or Links
+        hint: Resources, examples, portfolio links
+        type: text
+        options: []
+        required: false
+      - id: 25
+        name: submission_confirmation
+        Label: I Confirm This Information is Accurate
+        hint: null
+        type: select_one
+        options:
+          - I Confirm
+          - I Do Not Confirm
+        required: true

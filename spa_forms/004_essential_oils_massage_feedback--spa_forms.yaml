@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Essential Oils Massage Feedback
+    pages:
+    - id: 1
+      name: form_header
+      label: Essential Oils Massage Feedback Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_rating
+      label: Client Satisfaction Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: massage_type
+      label: Massage Type
+      hint: null
+      type: select_multiple
+      options:
+      - Essential Oil Massage
+      - Aromatherapy
+      - Swedish Massage
+      - Deep Tissue Massage
+      - Other
+      required: false
+    - id: 4
+      name: massage_quality
+      label: Massage Quality
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: therapist_performance
+      label: Therapist Performance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: relaxation_level
+      label: Relaxation Level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: Please provide any comments or suggestions you may have.
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

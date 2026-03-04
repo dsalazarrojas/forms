@@ -1,0 +1,291 @@
+inputSchema:
+  type: object
+  properties:
+    title: College Admission Recommendation Form
+    pages:
+    - id: 1
+      name: recommender_name
+      label: Recommender Full Name
+      hint: Your name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: recommender_email
+      label: Email Address
+      hint: Work email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: recommender_phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: recommender_title
+      label: Job Title
+      hint: Your position
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: recommender_department
+      label: Department
+      hint: Your department
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: school_name
+      label: School Name
+      hint: Where you work
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: school_address
+      label: School Address
+      hint: School address
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: years_known_student
+      label: How Long Have You Known the Student
+      hint: Duration
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-2 years
+      - 2-3 years
+      - 3-4 years
+      - Over 4 years
+      required: true
+    - id: 9
+      name: relationship_to_student
+      label: Relationship to Student
+      hint: In what capacity
+      type: select_one
+      options:
+      - Teacher
+      - Counselor
+      - Coach
+      - Club Advisor
+      - Employer
+      - Mentor
+      - Other
+      required: true
+    - id: 10
+      name: student_name
+      label: Student Full Name
+      hint: Name of applicant
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: student_email
+      label: Student Email
+      hint: Applicant email
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: student_graduation_year
+      label: Student Graduation Year
+      hint: When they graduate
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: courses_taught
+      label: Courses Taught
+      hint: List if teacher
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: academic_performance
+      label: Academic Performance Rating
+      hint: Compared to peers
+      type: select_one
+      options:
+      - Top 5 Percent
+      - Top 10 Percent
+      - Top 25 Percent
+      - Top 50 Percent
+      - Below Average
+      required: true
+    - id: 15
+      name: intellectual_curiosity
+      label: Intellectual Curiosity Rating
+      hint: Love of learning
+      type: select_one
+      options:
+      - Exceptional
+      - Very Strong
+      - Strong
+      - Average
+      - Below Average
+      required: true
+    - id: 16
+      name: work_ethic
+      label: Work Ethic Rating
+      hint: Dedication to work
+      type: select_one
+      options:
+      - Exceptional
+      - Very Strong
+      - Strong
+      - Average
+      - Below Average
+      required: true
+    - id: 17
+      name: class_participation
+      label: Class Participation Rating
+      hint: Engagement in class
+      type: select_one
+      options:
+      - Exceptional
+      - Very Strong
+      - Strong
+      - Average
+      - Below Average
+      required: true
+    - id: 18
+      name: critical_thinking
+      label: Critical Thinking Skills Rating
+      hint: Analysis abilities
+      type: select_one
+      options:
+      - Exceptional
+      - Very Strong
+      - Strong
+      - Average
+      - Below Average
+      required: true
+    - id: 19
+      name: writing_ability
+      label: Writing Ability Rating
+      hint: Written communication
+      type: select_one
+      options:
+      - Exceptional
+      - Very Strong
+      - Strong
+      - Average
+      - Below Average
+      required: true
+    - id: 20
+      name: leadership
+      label: Leadership Qualities Rating
+      hint: Leadership potential
+      type: select_one
+      options:
+      - Exceptional
+      - Very Strong
+      - Strong
+      - Average
+      - Below Average
+      required: true
+    - id: 21
+      name: teamwork
+      label: Teamwork Rating
+      hint: Works with others
+      type: select_one
+      options:
+      - Exceptional
+      - Very Strong
+      - Strong
+      - Average
+      - Below Average
+      required: true
+    - id: 22
+      name: character
+      label: Character Rating
+      hint: Integrity and values
+      type: select_one
+      options:
+      - Exceptional
+      - Very Strong
+      - Strong
+      - Average
+      - Below Average
+      required: true
+    - id: 23
+      name: resilience
+      label: Resilience Rating
+      hint: Handles challenges
+      type: select_one
+      options:
+      - Exceptional
+      - Very Strong
+      - Strong
+      - Average
+      - Below Average
+      required: true
+    - id: 24
+      name: student_strengths
+      label: Student Top Strengths
+      hint: What are they best at
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: student_weaknesses
+      label: Areas for Growth
+      hint: Where could they improve
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: memorable_moment
+      label: Describe a Memorable Moment
+      hint: Specific example of student excellence
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: comparison_to_peers
+      label: How Does Student Compare to Peers
+      hint: In your experience
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: college_readiness
+      label: College Readiness Assessment
+      hint: Are they prepared
+      type: text
+      options: []
+      required: true
+    - id: 29
+      name: recommendation_level
+      label: Overall Recommendation Level
+      hint: How strongly do you recommend
+      type: select_one
+      options:
+      - Recommend With Highest Enthusiasm
+      - Recommend Strongly
+      - Recommend
+      - Recommend With Reservations
+      - Cannot Recommend
+      required: true
+    - id: 30
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: recommender_signature
+      label: Recommender Certification
+      hint: I certify this recommendation is accurate
+      type: select_one
+      options:
+      - Yes I Certify
+      - Other
+      required: true

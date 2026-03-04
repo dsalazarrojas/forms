@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Coterie Membership Registration
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: Enter your first name
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: Enter your last name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: Enter your email address
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: mm/dd/yyyy
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: 123-456-1234
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: membership_level
+      label: Membership Level
+      hint: null
+      type: select_one
+      options:
+      - Basic
+      - Premium
+      - VIP
+      required: false
+    - id: 8
+      name: membership_status
+      label: Membership Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      - Pending
+      required: false
+    - id: 9
+      name: application_date
+      label: Application Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: application_type
+      label: Application Type
+      hint: null
+      type: select_one
+      options:
+      - New
+      - Renewal
+      required: false
+    - id: 11
+      name: note
+      label: Note
+      hint: Additional notes
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: category
+      label: Category
+      hint: null
+      type: select_multiple
+      options:
+      - General
+      - Family
+      - Student
+      required: false

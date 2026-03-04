@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: permission_to_enter_apartment_form
+    pages:
+    - id: 1
+      name: apartment_owner
+      label: apartment_owner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: service_provider
+      label: service_provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: entry_date
+      label: entry_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: entry_time
+      label: entry_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: permission_granted
+      label: permission_granted
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: service_provider_phone
+      label: service_provider_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: service_provider_email
+      label: service_provider_email
+      hint: null
+      type: email
+      options: []
+      required: false

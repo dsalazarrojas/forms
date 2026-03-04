@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: nursery_year_end_feedback_survey
+    pages:
+    - id: 1
+      name: overall_experience
+      label: Overall Experience
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: teaching_staff
+      label: Teaching Staff
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': 4, ''value'': ''Excellent''}'
+      - '{''label'': 3, ''value'': ''Good''}'
+      - '{''label'': 2, ''value'': ''Poor''}'
+      - '{''label'': 1, ''value'': ''Very Poor''}'
+      required: false
+    - id: 3
+      name: facilities_and_resources
+      label: Facilities and Resources
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': 4, ''value'': ''Well Maintained''}'
+      - '{''label'': 3, ''value'': ''Somewhat Maintained''}'
+      - '{''label'': 2, ''value'': ''Not Well Maintained''}'
+      - '{''label'': 1, ''value'': ''Not Maintained''}'
+      required: false
+    - id: 4
+      name: communication
+      label: Communication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: suggestions_and_improvements
+      label: Suggestions and Improvements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: overall_rating
+      label: Overall Rating
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': 4, ''value'': ''Excellent''}'
+      - '{''label'': 3, ''value'': ''Good''}'
+      - '{''label'': 2, ''value'': ''Fair''}'
+      - '{''label'': 1, ''value'': ''Poor''}'
+      required: false
+    - id: 7
+      name: care_and_attention
+      label: Care and Attention
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': 4, ''value'': ''Excellent''}'
+      - '{''label'': 3, ''value'': ''Good''}'
+      - '{''label'': 2, ''value'': ''Fair''}'
+      - '{''label'': 1, ''value'': ''Poor''}'
+      required: false
+    - id: 8
+      name: teacher_student_relationship
+      label: Teacher-Student Relationship
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': 4, ''value'': ''Excellent''}'
+      - '{''label'': 3, ''value'': ''Good''}'
+      - '{''label'': 2, ''value'': ''Fair''}'
+      - '{''label'': 1, ''value'': ''Poor''}'
+      required: false
+    - id: 9
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

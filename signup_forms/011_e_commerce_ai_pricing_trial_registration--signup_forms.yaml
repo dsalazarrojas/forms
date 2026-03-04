@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: E Commerce AI Pricing Trial Registration
+    pages:
+    - id: 1
+      name: trial_signup
+      label: Trial Signup
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: merchant_info
+      label: Merchant Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: merchant_name
+      label: Merchant Name
+      hint: Enter merchant name
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: website
+      label: Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: business_type
+      label: Business Type
+      hint: null
+      type: select_one
+      options:
+      - SaaS
+      - Pricing provider
+      - Other
+      required: false
+    - id: 7
+      name: saas_details
+      label: SaaS Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: review_status
+      label: Review Status
+      hint: null
+      type: select_one
+      options:
+      - Not started
+      - In progress
+      - Completed
+      required: false

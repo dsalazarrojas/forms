@@ -1,0 +1,43 @@
+inputSchema:
+  type: object
+  properties:
+    title: personal_property_inventory_form
+    pages:
+    - id: 1
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - Automobile
+      - Real Estate
+      - Other
+      required: false
+    - id: 2
+      name: property_location
+      label: Property Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: property_description
+      label: Property Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: purchase_date
+      label: Purchase Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: purchase_price
+      label: Purchase Price
+      hint: null
+      type: number
+      options: []
+      required: false

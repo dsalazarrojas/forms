@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Karaoke Contest Judging Form
+    pages:
+    - id: 1
+      name: entry_form
+      label: Karaoke Contest Judging Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contestant_name
+      label: Contestant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: score
+      label: Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: score_scale
+      label: Score Scale
+      hint: 1-10
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: ranking
+      label: Ranking
+      hint: null
+      type: select_one
+      options:
+      - 1st
+      - 2nd
+      - 3rd
+      - 4th
+      - 5th
+      - 6th
+      - 7th
+      - 8th
+      - 9th
+      - 10th
+      required: false
+    - id: 6
+      name: award
+      label: Award
+      hint: null
+      type: select_multiple
+      options:
+      - Award 1
+      - Award 2
+      - Award 3
+      required: false
+    - id: 7
+      name: special_award
+      label: Special Award
+      hint: null
+      type: select_multiple
+      options:
+      - Special Award ประก
+      - Special Award 2
+      - Special Award 3
+      required: false
+    - id: 8
+      name: entry_number
+      label: Entry Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: entry_name
+      label: Entry Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: entry_score
+      label: Entry Score
+      hint: null
+      type: number
+      options: []
+      required: false

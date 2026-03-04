@@ -1,0 +1,336 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Case Management Statement Form
+    pages:
+      - id: 1
+        name: statement_header
+        label: Case Management Statement Form
+        hint: Essential case information and status update
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: statement_date
+        label: Statement Date
+        hint: Date of statement
+        type: date
+        options: []
+        required: true
+      - id: 3
+        name: case_number
+        label: Case Number
+        hint: Case identifier
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: client_info
+        label: Client Information
+        hint: Client details
+        type: note
+        options: []
+        required: false
+      - id: 5
+        name: client_name
+        label: Client Full Name
+        hint: Legal name
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: client_id
+        label: Client ID Number
+        hint: Case number or ID
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: date_of_birth
+        label: Date of Birth
+        hint: Client DOB
+        type: date
+        options: []
+        required: true
+      - id: 8
+        name: case_manager
+        label: Assigned Case Manager
+        hint: Primary caseworker
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: case_open_date
+        label: Case Open Date
+        hint: When case started
+        type: date
+        options: []
+        required: true
+      - id: 10
+        name: case_status
+        label: Current Case Status
+        hint: Status update
+        type: select_one
+        options:
+          - Open - active
+          - Open - pending action
+          - On hold
+          - Closing - in progress
+          - Closed
+          - Transferred
+        required: true
+      - id: 11
+        name: service_period
+        label: Service Period Covered
+        hint: Reporting timeframe
+        type: note
+        options: []
+        required: false
+      - id: 12
+        name: period_start
+        label: Period Start Date
+        hint: From date
+        type: date
+        options: []
+        required: true
+      - id: 13
+        name: period_end
+        label: Period End Date
+        hint: To date
+        type: date
+        options: []
+        required: true
+      - id: 14
+        name: services_provided
+        label: Services Provided During Period
+        hint: Interventions delivered
+        type: select_multiple
+        options:
+          - Case assessment
+          - Service planning
+          - Resource linkage
+          - Advocacy
+          - Crisis intervention
+          - Care coordination
+          - Monitoring and follow-up
+          - Transportation assistance
+          - Housing assistance
+          - Employment support
+          - Benefits enrollment
+          - Counseling
+          - Life skills training
+          - Other
+        required: true
+      - id: 15
+        name: service_frequency
+        label: Frequency of Contact
+        hint: How often seen
+        type: select_one
+        options:
+          - Daily
+          - Weekly
+          - Bi-weekly
+          - Monthly
+          - Quarterly
+          - As needed
+        required: true
+      - id: 16
+        name: last_contact_date
+        label: Date of Last Contact
+        hint: Most recent interaction
+        type: date
+        options: []
+        required: true
+      - id: 17
+        name: last_contact_type
+        label: Type of Last Contact
+        hint: Contact method
+        type: select_one
+        options:
+          - In-person office visit
+          - In-person home visit
+          - Phone call
+          - Video conference
+          - Email
+          - Text message
+          - Third party contact
+        required: true
+      - id: 18
+        name: progress_assessment
+        label: Progress Assessment
+        hint: Goal achievement
+        type: note
+        options: []
+        required: false
+      - id: 19
+        name: goals_progress
+        label: Progress Toward Goals
+        hint: Status update
+        type: select_one
+        options:
+          - Significant progress
+          - Moderate progress
+          - Minimal progress
+          - No progress
+          - Regression
+        required: true
+      - id: 20
+        name: goals_achieved
+        label: Goals Achieved This Period
+        hint: Accomplishments
+        type: text
+        options: []
+        required: false
+      - id: 21
+        name: barriers_encountered
+        label: Barriers Encountered
+        hint: Challenges faced
+        type: text
+        options: []
+        required: false
+      - id: 22
+        name: client_engagement
+        label: Level of Client Engagement
+        hint: Participation level
+        type: select_one
+        options:
+          - Very engaged - proactive
+          - Engaged - cooperative
+          - Somewhat engaged - inconsistent
+          - Minimally engaged - resistant
+          - Not engaged - non-compliant
+        required: true
+      - id: 23
+        name: client_compliance
+        label: Client Compliance with Plan
+        hint: Following service plan
+        type: select_one
+        options:
+          - Fully compliant
+          - Mostly compliant
+          - Partially compliant
+          - Non-compliant
+          - Unable to assess
+        required: true
+      - id: 24
+        name: current_needs
+        label: Current Client Needs
+        hint: Ongoing requirements
+        type: select_multiple
+        options:
+          - Housing assistance
+          - Financial assistance
+          - Employment services
+          - Healthcare access
+          - Mental health services
+          - Substance abuse treatment
+          - Childcare
+          - Transportation
+          - Legal services
+          - Educational services
+          - Food assistance
+          - Social support
+          - Other
+        required: true
+      - id: 25
+        name: unmet_needs
+        label: Unmet Needs
+        hint: Gaps in services
+        type: text
+        options: []
+        required: false
+      - id: 26
+        name: risk_status
+        label: Current Risk Status
+        hint: Safety assessment
+        type: select_one
+        options:
+          - Low risk - stable
+          - Moderate risk - some concerns
+          - High risk - significant concerns
+          - Critical risk - immediate danger
+        required: true
+      - id: 27
+        name: safety_concerns
+        label: Safety Concerns
+        hint: Risk factors
+        type: text
+        options: []
+        required: false
+      - id: 28
+        name: collateral_contacts
+        label: Collateral Contacts This Period
+        hint: Other professionals contacted
+        type: text
+        options: []
+        required: false
+      - id: 29
+        name: referrals_made
+        label: Referrals Made
+        hint: New referrals
+        type: text
+        options: []
+        required: false
+      - id: 30
+        name: pending_actions
+        label: Pending Actions
+        hint: Items awaiting completion
+        type: text
+        options: []
+        required: false
+      - id: 31
+        name: next_steps
+        label: Planned Next Steps
+        hint: Upcoming interventions
+        type: text
+        options: []
+        required: true
+      - id: 32
+        name: next_contact_date
+        label: Next Scheduled Contact
+        hint: Follow-up date
+        type: date
+        options: []
+        required: false
+      - id: 33
+        name: case_recommendations
+        label: Case Recommendations
+        hint: Professional recommendations
+        type: text
+        options: []
+        required: false
+      - id: 34
+        name: additional_comments
+        label: Additional Comments
+        hint: Other relevant information
+        type: text
+        options: []
+        required: false
+      - id: 35
+        name: case_manager_signature
+        label: Case Manager Signature Date
+        hint: Date signed
+        type: date
+        options: []
+        required: true
+      - id: 36
+        name: supervisor_review
+        label: Supervisor Review Required
+        hint: Management oversight
+        type: select_one
+        options:
+          - Yes - pending review
+          - Yes - completed
+          - No - not required
+        required: false

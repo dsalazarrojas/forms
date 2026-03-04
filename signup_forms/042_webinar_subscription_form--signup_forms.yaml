@@ -1,0 +1,43 @@
+inputSchema:
+  type: object
+  properties:
+    title: Webinar Subscription Form
+    pages:
+    - id: 1
+      name: form_control_1
+      label: Subscribe To Our Webinars
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 2
+      name: form_control_2
+      label: Name
+      hint: Enter your name here
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: form_control_3
+      label: Email
+      hint: Enter your email address here
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: form_control_4
+      label: Phone
+      hint: Enter your phone number here
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: form_control_5
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false

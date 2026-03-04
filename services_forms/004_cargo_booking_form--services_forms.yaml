@@ -1,0 +1,242 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cargo Booking Form
+    pages:
+    - id: 1
+      name: booking_header
+      label: Cargo Booking Request
+      hint: Complete all required fields for booking processing
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: booking_reference
+      label: Booking Reference Number
+      hint: Auto-generated or enter if known
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: booking_date
+      label: Booking Date
+      hint: Date of booking request
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: shipper_info
+      label: Shipper Information
+      hint: Sender details
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: shipper_name
+      label: Shipper Company Name
+      hint: Full legal company name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: shipper_contact
+      label: Shipper Contact Person
+      hint: Primary contact name
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: shipper_email
+      label: Shipper Email Address
+      hint: For booking confirmations
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: shipper_phone
+      label: Shipper Phone Number
+      hint: Direct contact number
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: pickup_address
+      label: Pickup Address
+      hint: Complete street address
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: consignee_info
+      label: Consignee Information
+      hint: Receiver details
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: consignee_name
+      label: Consignee Company Name
+      hint: Full legal company name
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: consignee_contact
+      label: Consignee Contact Person
+      hint: Primary contact name
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: consignee_email
+      label: Consignee Email Address
+      hint: For delivery notifications
+      type: email
+      options: []
+      required: true
+    - id: 14
+      name: consignee_phone
+      label: Consignee Phone Number
+      hint: Direct contact number
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: delivery_address
+      label: Delivery Address
+      hint: Complete street address
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: cargo_details
+      label: Cargo Details
+      hint: Shipment specifications
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: cargo_type
+      label: Type of Cargo
+      hint: Select primary cargo type
+      type: select_one
+      options:
+      - General merchandise
+      - Perishable goods
+      - Hazardous materials
+      - Oversized cargo
+      - Temperature controlled
+      - High value items
+      - Live animals
+      - Other
+      required: true
+    - id: 18
+      name: total_weight
+      label: Total Weight in Kilograms
+      hint: Combined weight of all items
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: total_volume
+      label: Total Volume in Cubic Meters
+      hint: Combined volume measurement
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: number_of_packages
+      label: Number of Packages
+      hint: Total package count
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: package_dimensions
+      label: Package Dimensions
+      hint: Length x Width x Height for largest packages
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: special_handling
+      label: Special Handling Requirements
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Fragile - handle with care
+      - This side up
+      - Keep dry
+      - Temperature sensitive
+      - Hazardous materials certification
+      - Customs documentation required
+      - Insurance required
+      - Signature required
+      - None
+      required: false
+    - id: 23
+      name: transport_schedule
+      label: Transportation Schedule
+      hint: Timing preferences
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: preferred_pickup_date
+      label: Preferred Pickup Date
+      hint: When should we collect cargo
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: preferred_delivery_date
+      label: Expected Delivery Date
+      hint: When delivery is needed
+      type: date
+      options: []
+      required: true
+    - id: 26
+      name: service_type
+      label: Service Type
+      hint: Select shipping speed
+      type: select_one
+      options:
+      - Standard shipping
+      - Express shipping
+      - Overnight delivery
+      - Same day delivery
+      - Scheduled delivery
+      required: true
+    - id: 27
+      name: payment_info
+      label: Payment Information
+      hint: Billing details
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Company account
+      - Credit card
+      - Invoice billing
+      - Cash on delivery
+      - Third party payment
+      required: true
+    - id: 29
+      name: account_number
+      label: Account Number
+      hint: If using company account
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: additional_instructions
+      label: Additional Instructions or Comments
+      hint: Any special requests or information
+      type: text
+      options: []
+      required: false

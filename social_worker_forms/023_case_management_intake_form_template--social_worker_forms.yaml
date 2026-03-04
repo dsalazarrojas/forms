@@ -1,0 +1,436 @@
+inputSchema:
+  type: object
+  properties:
+    title: Case Management Intake Form Template
+    pages:
+    - id: 1
+      name: intake_header
+      label: Case Management Intake Form
+      hint: Comprehensive client intake for case management services
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: intake_date
+      label: Intake Date
+      hint: Date of intake
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: intake_worker
+      label: Intake Worker Name
+      hint: Caseworker name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: client_info
+      label: Client Information
+      hint: Personal details
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: client_name
+      label: Full Name
+      hint: Legal name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: preferred_name
+      label: Preferred Name
+      hint: If different
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date_of_birth
+      label: Date of Birth
+      hint: Client DOB
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: age
+      label: Current Age
+      hint: Age in years
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: gender
+      label: Gender
+      hint: Gender identity
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Transgender
+      - Other
+      - Prefer not to say
+      required: true
+    - id: 10
+      name: race_ethnicity
+      label: Race or Ethnicity
+      hint: Self-identified
+      type: select_one
+      options:
+      - American Indian or Alaska Native
+      - Asian
+      - Black or African American
+      - Hispanic or Latino
+      - Native Hawaiian or Pacific Islander
+      - White
+      - Multiracial
+      - Other
+      - Prefer not to say
+      required: false
+    - id: 11
+      name: marital_status
+      label: Marital Status
+      hint: Current status
+      type: select_one
+      options:
+      - Single
+      - Married
+      - Divorced
+      - Separated
+      - Widowed
+      - Domestic partnership
+      required: true
+    - id: 12
+      name: contact_info
+      label: Contact Information
+      hint: How to reach client
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: address
+      label: Street Address
+      hint: Current address
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: city
+      label: City
+      hint: City name
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: zip_code
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: phone_primary
+      label: Primary Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: phone_alternate
+      label: Alternate Phone Number
+      hint: Secondary contact
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: email
+      label: Email Address
+      hint: If available
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: housing_status
+      label: Current Housing Status
+      hint: Living situation
+      type: select_one
+      options:
+      - Own home
+      - Rent apartment or house
+      - Living with family
+      - Living with friends
+      - Shelter
+      - Transitional housing
+      - Unstable housing
+      - Homeless
+      required: true
+    - id: 21
+      name: household_composition
+      label: Household Composition
+      hint: Who lives with you
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: dependents
+      label: Number of Dependents
+      hint: Children or others
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: emergency_contact
+      label: Emergency Contact Information
+      hint: Alternative contact
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: emergency_name
+      label: Emergency Contact Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: emergency_relationship
+      label: Relationship to Client
+      hint: How related
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: emergency_phone
+      label: Emergency Contact Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: presenting_problem
+      label: Presenting Problem or Reason for Referral
+      hint: Why seeking services
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: service_history
+      label: Service History
+      hint: Previous services
+      type: note
+      options: []
+      required: false
+    - id: 29
+      name: previous_case_management
+      label: Have You Received Case Management Before
+      hint: Prior services
+      type: select_one
+      options:
+      - Yes - currently
+      - Yes - in the past
+      - No - first time
+      required: true
+    - id: 30
+      name: other_agencies
+      label: Are You Working with Other Agencies
+      hint: Current services
+      type: select_one
+      options:
+      - Yes - multiple agencies
+      - Yes - one other
+      - false
+      required: true
+    - id: 31
+      name: other_agencies_list
+      label: List Other Agencies
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: needs_assessment
+      label: Needs Assessment
+      hint: Areas needing support
+      type: note
+      options: []
+      required: false
+    - id: 33
+      name: service_needs
+      label: Services Needed
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Housing assistance
+      - Employment services
+      - Healthcare access
+      - Mental health services
+      - Substance abuse treatment
+      - Financial assistance
+      - Food assistance
+      - Transportation
+      - Childcare
+      - Legal services
+      - Education services
+      - Disability services
+      - Senior services
+      - Domestic violence services
+      - Other
+      required: true
+    - id: 34
+      name: immediate_needs
+      label: Most Immediate Needs
+      hint: Priority concerns
+      type: text
+      options: []
+      required: true
+    - id: 35
+      name: income_employment
+      label: Income and Employment
+      hint: Financial situation
+      type: note
+      options: []
+      required: false
+    - id: 36
+      name: employment_status
+      label: Current Employment Status
+      hint: Work situation
+      type: select_one
+      options:
+      - Employed full-time
+      - Employed part-time
+      - Self-employed
+      - Unemployed - seeking work
+      - Unemployed - not seeking
+      - Student
+      - Retired
+      - Disabled
+      - Homemaker
+      required: true
+    - id: 37
+      name: monthly_income
+      label: Total Monthly Household Income
+      hint: All sources
+      type: select_one
+      options:
+      - No income
+      - Under 500
+      - 500 to 1000
+      - 1000 to 2000
+      - 2000 to 3000
+      - 3000 to 5000
+      - Over 5000
+      required: true
+    - id: 38
+      name: income_sources
+      label: Sources of Income
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Employment
+      - Self-employment
+      - SSI or SSDI
+      - TANF
+      - Child support
+      - Alimony
+      - Retirement benefits
+      - Veterans benefits
+      - Unemployment
+      - Other public assistance
+      - Family or friends
+      - Other
+      required: true
+    - id: 39
+      name: insurance_status
+      label: Health Insurance Status
+      hint: Coverage status
+      type: select_one
+      options:
+      - Private insurance
+      - Medicaid
+      - Medicare
+      - VA benefits
+      - State funded
+      - Uninsured
+      required: true
+    - id: 40
+      name: barriers
+      label: Barriers to Self-Sufficiency
+      hint: Challenges faced
+      type: select_multiple
+      options:
+      - None
+      - Lack of education
+      - Lack of job skills
+      - Criminal record
+      - Health problems
+      - Mental health issues
+      - Substance abuse
+      - Domestic violence
+      - Lack of childcare
+      - Lack of transportation
+      - Housing instability
+      - Language barrier
+      - Disability
+      - Other
+      required: true
+    - id: 41
+      name: strengths
+      label: Client Strengths and Resources
+      hint: Positive factors
+      type: text
+      options: []
+      required: true
+    - id: 42
+      name: goals
+      label: Client Goals
+      hint: What client wants to achieve
+      type: text
+      options: []
+      required: true
+    - id: 43
+      name: consent
+      label: Consent and Authorization
+      hint: Permission agreements
+      type: note
+      options: []
+      required: false
+    - id: 44
+      name: consent_services
+      label: I Consent to Receive Case Management Services
+      hint: Service agreement
+      type: select_one
+      options:
+      - Yes - I consent
+      - No - I do not consent
+      required: true
+    - id: 45
+      name: consent_release
+      label: I Authorize Information Release as Needed
+      hint: Release of information
+      type: select_one
+      options:
+      - Yes - I authorize
+      - No - I do not authorize
+      required: true
+    - id: 46
+      name: client_signature_date
+      label: Client Signature Date
+      hint: Date signed
+      type: date
+      options: []
+      required: true
+    - id: 47
+      name: worker_signature_date
+      label: Caseworker Signature Date
+      hint: Date signed
+      type: date
+      options: []
+      required: true

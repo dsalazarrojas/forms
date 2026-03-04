@@ -1,0 +1,212 @@
+inputSchema:
+  type: object
+  properties:
+    title: Case Closure Form
+    pages:
+    - id: 1
+      name: case_information_section
+      label: -- Case Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: case_number
+      label: Case Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: case_name
+      label: Case Name or Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: case_opened_date
+      label: Date Case Was Opened
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: case_closed_date
+      label: Date Case is Being Closed
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: case_duration
+      label: Case Duration (months)
+      hint: Calculated from open to close date
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: assigned_worker_section
+      label: -- Assigned Worker Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: assigned_worker_name
+      label: Assigned Social Worker or Case Manager Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: assigned_worker_id
+      label: Worker ID Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: assigned_worker_department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: supervising_manager
+      label: Supervising Manager Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: closure_reason_section
+      label: -- Reason for Closure --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: closure_reason
+      label: Primary Reason for Case Closure
+      hint: null
+      type: select_one
+      options:
+      - Goals Achieved
+      - Client Moved Out of Jurisdiction
+      - Lack of Cooperation
+      - Case Resolved
+      - Referral to Another Agency
+      - Client Deceased
+      - Administrative Closure
+      - Other
+      required: true
+    - id: 14
+      name: closure_reason_details
+      label: Detailed Explanation of Closure
+      hint: Provide specific circumstances
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: case_outcome_section
+      label: -- Case Outcome --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: case_outcome
+      label: Overall Case Outcome
+      hint: null
+      type: select_one
+      options:
+      - Successful
+      - Partially Successful
+      - Unsuccessful
+      - In Progress, Case Transferred
+      - Unable to Determine
+      required: true
+    - id: 17
+      name: goals_achieved
+      label: Goals Achieved
+      hint: Describe what was accomplished
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: services_provided
+      label: -- Services Provided --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: service_types
+      label: Types of Services Provided
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Crisis Intervention
+      - Counseling
+      - Financial Assistance
+      - Housing Assistance
+      - Medical Referrals
+      - Job Training
+      - Substance Abuse Treatment
+      - Childcare Support
+      - Legal Services
+      - Other
+      required: true
+    - id: 20
+      name: client_satisfaction
+      label: Client Satisfaction with Services
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      - Unknown
+      required: true
+    - id: 21
+      name: follow_up_needed
+      label: -- Follow-up and Referrals --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: follow_up_required
+      label: Is Follow-up Care Recommended?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Conditional
+      required: true
+    - id: 23
+      name: referral_agencies
+      label: Agencies or Services Referred To
+      hint: List any referrals made upon closure
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: final_notes
+      label: Final Case Notes
+      hint: Important information for file
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: closure_signature_date
+      label: Date of Case Closure
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true

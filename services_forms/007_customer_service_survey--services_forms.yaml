@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Service Survey
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - phone
+      - email
+      - chat
+      required: false
+    - id: 4
+      name: service_rating
+      label: Service Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: time_of_day
+      label: Time of Day
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_of_day
+      label: Time of Day
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: question
+      label: How often do you contact us?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: contact_frequency
+      label: How often do you contact us?
+      hint: null
+      type: select_multiple
+      options:
+      - once_a_month
+      - twice_a_month
+      - once_a_week
+      required: false
+    - id: 9
+      name: customer_service_survey_comments
+      label: Customer Service Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - phone
+      - email
+      - chat
+      required: false
+    - id: 11
+      name: time_of_day
+      label: Time of Day
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: question
+      label: How long do you usually contact us?
+      hint: null
+      type: select_one
+      options:
+      - less_than_30_minutes
+      - 30_to_60_minutes
+      - more_than_60_minutes
+      required: false
+    - id: 13
+      name: customer_service_survey_comments
+      label: Customer Service Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: question
+      label: Do you usually contact us during office hours?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 16
+      name: office_hours
+      label: Office Hours
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: question
+      label: Do you usually contact us during office hours?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 18
+      name: customer_service_survey_comments
+      label: Customer Service Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: question
+      label: How long did it take for you to contact us?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: contact_time
+      label: Contact Time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: question
+      label: How long did it take for you to get help?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: resolution_time
+      label: Resolution Time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: question
+      label: How long did it take for you to get help?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: question
+      label: Would you like to provide any additional comments or feedback?
+      hint: null
+      type: text
+      options: []
+      required: false

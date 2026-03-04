@@ -1,0 +1,141 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Alert Form
+    pages:
+    - id: 1
+      name: patient_information
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: alert_reason
+      label: Medical Alert Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: alert_level
+      label: Alert Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 7
+      name: alert_location
+      label: Alert Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: alert_date
+      label: Alert Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: medical_facility
+      label: Medical Facility
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_relationship
+      label: Contact Relationship
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: alert_details
+      label: Alert Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: follow_up_plan
+      label: Follow-up Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: follow_up_contact
+      label: Follow-up Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: follow_up_frequency
+      label: Follow-up Frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: follow_up_time
+      label: Follow-up Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: medical_staff
+      label: Medical Staff
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: medical_team
+      label: Medical Team
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: SEO Intake Form
+    pages:
+    - id: 1
+      name: client
+      label: client
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: project
+      label: project
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: seo_service
+      label: seo service
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Service 1''}'
+      - '{''label'': ''Service 2''}'
+      - '{''label'': ''Service 3''}'
+      required: true
+    - id: 4
+      name: services
+      label: services
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 7
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_of_birth
+      label: time_of_birth
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: website
+      label: website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: contact_person
+      label: contact_person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: company
+      label: company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: project_status
+      label: project_status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Active''}'
+      - '{''label'': ''Completed''}'
+      - '{''label'': ''In Progress''}'
+      required: true
+    - id: 16
+      name: project_description
+      label: project_description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: project_manager
+      label: project_manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: project_deadline
+      label: project_deadline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: project_deadline_time
+      label: project_deadline_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: project_deadline_date
+      label: project_deadline_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: services_offered
+      label: services_offered
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: services_requested
+      label: services_requested
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: services_cost
+      label: services_cost
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: services_price
+      label: services_price
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: services_terms
+      label: services_terms
+      hint: null
+      type: text
+      options: []
+      required: false

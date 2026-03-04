@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Product Demo Technician Booking Form
+    pages:
+    - id: 1
+      name: technician_id
+      label: Enter technician ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer name
+      hint: Enter your name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date
+      label: Date
+      hint: YYYY-MM-DD
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: start_time
+      label: Start time
+      hint: "HH:MM AM/PM"
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: end_time
+      label: End time
+      hint: "HH:MM AM/PM"
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: product_demo_id
+      label: Product demo ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: customer_email
+      label: Customer email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: customer_phone
+      label: Customer phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: technician_scheduling
+      label: Technician Scheduling
+      hint: null
+      type: select_multiple
+      options:
+      - option 1
+      - option 2
+      - option 3
+      required: false

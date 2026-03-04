@@ -1,0 +1,211 @@
+inputSchema:
+  type: object
+  properties:
+    title: Car Insurance Quotation Form
+    pages:
+    - id: 1
+      name: owner_information
+      label: -- OWNER INFORMATION --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: owner_name
+      label: Full name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: street_address
+      label: Street address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: zip_code
+      label: Zip code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: driving_history
+      label: Years of driving experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: accidents_violations
+      label: Any accidents or violations in past 3-5 years?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 12
+      name: violation_details
+      label: Details of accidents or violations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: vehicle_information
+      label: -- VEHICLE INFORMATION --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: vehicle_year
+      label: Vehicle year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: vehicle_make
+      label: Vehicle make
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: vehicle_model
+      label: Vehicle model
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: vehicle_type
+      label: Vehicle type
+      hint: null
+      type: select_one
+      options:
+      - Sedan
+      - SUV
+      - Truck
+      - Van
+      - Coupe
+      - Convertible
+      - Motorcycle
+      - Commercial Vehicle
+      required: true
+    - id: 18
+      name: vehicle_vin
+      label: Vehicle Identification Number (VIN)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: annual_mileage
+      label: Annual mileage
+      hint: Approximate miles driven per year
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: primary_use
+      label: Primary use of vehicle
+      hint: null
+      type: select_one
+      options:
+      - Commute to Work
+      - Pleasure
+      - Business
+      - Farming
+      - Delivery
+      required: true
+    - id: 21
+      name: number_of_drivers
+      label: Number of drivers on policy
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: coverage_type
+      label: -- COVERAGE INFORMATION --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: coverage_options
+      label: Desired coverage types (select all that apply)
+      hint: null
+      type: select_multiple
+      options:
+      - Liability
+      - Collision
+      - Comprehensive
+      - Uninsured Motorist
+      - Medical Payments
+      - Underinsured Motorist
+      required: true
+    - id: 24
+      name: liability_limits
+      label: Preferred liability limits
+      hint: null
+      type: select_one
+      options:
+      - 25/50/25
+      - 50/100/50
+      - 100/300/100
+      - 250/500/250
+      - Custom
+      required: true
+    - id: 25
+      name: deductible_preference
+      label: Preferred deductible
+      hint: null
+      type: select_one
+      options:
+      - 500
+      - 750
+      - 1000
+      - 1500
+      - 2000
+      required: true

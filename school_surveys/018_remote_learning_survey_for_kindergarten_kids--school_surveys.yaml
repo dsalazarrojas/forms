@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Remote Learning Survey For Kindergarten Kids
+    pages:
+    - id: 1
+      name: introduction
+      label: How often do your child do their remote learning sessions?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''daily''}'
+      - '{''value'': ''several times a week''}'
+      - '{''value'': ''rarely''}'
+      - '{''value'': ''never''}'
+      required: false
+    - id: 2
+      name: session_duration
+      label: How long do the remote learning sessions typically last?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: communication_channel
+      label: Which is your preferred communication channel with the teacher?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''email''}'
+      - '{''value'': ''phone''}'
+      - '{''value'': ''messaging_app''}'
+      - '{''value'': ''video_call''}'
+      required: false
+    - id: 4
+      name: feedback
+      label: What are your thoughts on the remote learning program so far?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: challenges
+      label: Are there any challenges you've faced while implementing the remote learning
+        program?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''technical_issues''}'
+      - '{''value'': ''time_management''}'
+      - '{''value'': ''lack_of_access''}'
+      required: false
+    - id: 6
+      name: effectiveness
+      label: How would you rate the effectiveness of the remote learning program?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''very_effective''}'
+      - '{''value'': ''fairly_effective''}'
+      - '{''value'': ''neutral''}'
+      - '{''value'': ''not_effective''}'
+      - '{''value'': ''very_not_effective''}'
+      required: false

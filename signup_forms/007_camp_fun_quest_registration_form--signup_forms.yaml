@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Camp Fun Quest Registration Form
+    pages:
+    - id: 1
+      name: section_camper_info
+      label: -- Camper Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: camper_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: camper_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: camper_date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: camper_age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: camper_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: camper_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: section_parent_guardian
+      label: -- Parent or Guardian Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: guardian_first_name
+      label: Guardian First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: guardian_last_name
+      label: Guardian Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: guardian_relationship
+      label: Relationship to Camper
+      hint: null
+      type: select_one
+      options:
+      - Parent
+      - Guardian
+      - Grandparent
+      - Other
+      required: true
+    - id: 12
+      name: guardian_phone
+      label: Guardian Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: guardian_email
+      label: Guardian Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 14
+      name: section_emergency_contact
+      label: -- Emergency Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: emergency_contact_phone
+      label: Emergency Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: emergency_contact_relationship
+      label: Relationship to Camper
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: section_health_medical
+      label: -- Health and Medical Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: has_allergies
+      label: Does the camper have any allergies
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 20
+      name: allergy_details
+      label: Allergy Details
+      hint: Please specify if yes
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: medical_conditions
+      label: Any significant medical conditions
+      hint: Asthma, diabetes, heart condition, etc.
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: current_medications
+      label: Current Medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: dietary_restrictions
+      label: Dietary Restrictions or Special Food Needs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: section_camp_preferences
+      label: -- Camp Session and Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: camp_session
+      label: Preferred Camp Session
+      hint: null
+      type: select_one
+      options:
+      - Session 1 - June 15-19
+      - Session 2 - June 22-26
+      - Session 3 - July 13-17
+      - Session 4 - July 20-24
+      required: true

@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Smart Key Integration Consent Form
+    pages:
+    - id: 1
+      name: smart_key_integration_consent
+      label: Smart Key Integration
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: user_details
+      label: User Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Your phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: confirm_password
+      label: Confirm Password
+      hint: Confirm your password
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: smart_lock_model
+      label: Smart Lock Model
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: lock_access_code
+      label: Lock Access Code
+      hint: 6-digit code for your smart lock
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: smart_lock_location
+      label: Smart Lock Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: smart_lock_status
+      label: Smart Lock Status
+      hint: null
+      type: select_one
+      options:
+      - active
+      - inactive
+      required: true
+    - id: 10
+      name: smart_lock_access
+      label: Smart Lock Access
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 11
+      name: smart_lock_notes
+      label: Smart Lock Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: smart_lock_email
+      label: Smart Lock Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: smart_lock_phone
+      label: Smart Lock Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: smart_lock_model
+      label: Smart Lock Model
+      hint: null
+      type: select_one
+      options:
+      - model1
+      - model2
+      - model3
+      required: true
+    - id: 15
+      name: smart_lock_access_type
+      label: Smart Lock Access Type
+      hint: null
+      type: select_one
+      options:
+      - keycard
+      - biometric
+      required: true
+    - id: 16
+      name: smart_lock_access_level
+      label: Smart Lock Access Level
+      hint: null
+      type: select_multiple
+      options:
+      - low
+      - medium
+      - high
+      required: true
+    - id: 17
+      name: smart_lock_device
+      label: Smart Lock Device
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: smart_lock_notes
+      label: Smart Lock Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: smart_key_integration
+      label: Smart Key Integration
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 20
+      name: smart_lock_access_status
+      label: Smart Lock Access Status
+      hint: null
+      type: select_one
+      options:
+      - granted
+      - denied
+      required: true
+    - id: 21
+      name: smart_lock_access_code
+      label: Smart Lock Access Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: smart_lock_access_time
+      label: Smart Lock Access Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 23
+      name: smart_lock_access_duration
+      label: Smart Lock Access Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: smart_lock_access_frequency
+      label: Smart Lock Access Frequency
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: smart_lock_access_comments
+      label: Smart Lock Access Comments
+      hint: null
+      type: text
+      options: []
+      required: true

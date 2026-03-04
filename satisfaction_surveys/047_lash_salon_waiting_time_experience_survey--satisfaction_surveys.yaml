@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lash Salon Waiting Time Experience Survey
+    pages:
+    - id: 1
+      name: client_info
+      label: How would you rate the friendliness of your experience
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: true
+    - id: 2
+      name: waiting_time
+      label: Waiting time was
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: appointment_time
+      label: Appointment time was
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: communication
+      label: How would you rate the communication with your technician
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: true
+    - id: 5
+      name: overall_experience
+      label: Overall experience was
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: feedback
+      label: Do you have any additional comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: example@example.com
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: 1234567890
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: rating
+      label: Rate our salon
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

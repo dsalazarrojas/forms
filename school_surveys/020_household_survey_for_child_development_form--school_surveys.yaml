@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: household_survey_for_child_development_form
+    pages:
+    - id: 1
+      name: household_id
+      label: household_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: household_name
+      label: household_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: number_of_children
+      label: number_of_children
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: number_of_adults
+      label: number_of_adults
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: child_id
+      label: child_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: child_name
+      label: child_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: safety_status
+      label: safety_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 0, ''label'': ''safe''}'
+      - '{''id'': 1, ''label'': ''not safe''}'
+      - '{''id'': 2, ''label'': ''unsure''}'
+      required: true
+    - id: 8
+      name: wellbeing_status
+      label: wellbeing_status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 0, ''label'': ''well''}'
+      - '{''id'': 1, ''label'': ''not well''}'
+      - '{''id'': 2, ''label'': ''unsure''}'
+      required: false
+    - id: 9
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false

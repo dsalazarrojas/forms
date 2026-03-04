@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: signup_forms
+    pages:
+    - id: 1
+      name: single_group_form
+      label: single_group_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: group_size
+      label: group_size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: group_type
+      label: group_type
+      hint: null
+      type: select_multiple
+      options:
+      - Group
+      - Single
+      required: false
+    - id: 4
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,262 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Anti Bullying Program Effectiveness Survey
+    pages:
+    - id: 1
+      name: survey_respondent
+      label: Who is completing this survey
+      hint: Select your role
+      type: select_one
+      options:
+        - Student
+        - Parent or Guardian
+        - Teacher or Faculty
+        - School Administrator
+        - Counselor
+        - Other Staff
+      required: true
+    - id: 2
+      name: school_district
+      label: School District
+      hint: Name of your school district
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: school_type
+      label: School Type
+      hint: Type of educational institution
+      type: select_one
+      options:
+        - Public elementary
+        - Public middle
+        - Public high school
+        - Private school
+        - Charter school
+        - Other
+      required: true
+    - id: 4
+      name: program_awareness
+      label: Awareness of Anti-Bullying Program
+      hint: How familiar are you with the program
+      type: select_one
+      options:
+        - Very familiar
+        - Familiar
+        - Somewhat familiar
+        - Not familiar
+      required: true
+    - id: 5
+      name: program_participation
+      label: Have you participated in program activities
+      hint: Your level of participation
+      type: select_one
+      options:
+        - Yes, actively
+        - Yes, occasionally
+        - No, but aware of them
+        - No, not aware of activities
+      required: true
+    - id: 6
+      name: bullying_observed
+      label: Have you observed bullying this school year
+      hint: In the past 6 months
+      type: select_one
+      options:
+        - Yes, frequently
+        - Yes, occasionally
+        - Yes, rarely
+        - No, never
+      required: true
+    - id: 7
+      name: bullying_types_observed
+      label: Types of Bullying Observed
+      hint: Select all that apply
+      type: select_multiple
+      options:
+        - Physical bullying
+        - Verbal bullying
+        - Social or relational bullying
+        - Cyberbullying
+        - Sexual harassment
+        - Discriminatory bullying
+        - None observed
+      required: true
+    - id: 8
+      name: program_impact
+      label: Perceived Impact of Program
+      hint: How much difference has the program made
+      type: select_one
+      options:
+        - Significant positive impact
+        - Moderate positive impact
+        - Slight positive impact
+        - No noticeable impact
+        - Negative impact
+      required: true
+    - id: 9
+      name: student_behavior_change
+      label: Change in Student Behavior
+      hint: Have you noticed changes in how students interact
+      type: select_one
+      options:
+        - Significant improvement
+        - Some improvement
+        - No change
+        - Behavior has worsened
+        - Not applicable
+      required: true
+    - id: 10
+      name: reporting_incidents
+      label: Have you reported a bullying incident
+      hint: In the past year
+      type: select_one
+      options:
+        - Yes, multiple times
+        - Yes, once
+        - No, but considered it
+        - No, never needed to
+      required: true
+    - id: 11
+      name: reporting_satisfaction
+      label: Satisfaction with Reporting Process
+      hint: If you reported, how satisfied were you
+      type: select_one
+      options:
+        - Very satisfied
+        - Satisfied
+        - Neutral
+        - Dissatisfied
+        - Very dissatisfied
+        - Did not report
+      required: true
+    - id: 12
+      name: intervention_effectiveness
+      label: Effectiveness of Interventions
+      hint: How well do interventions work
+      type: select_one
+      options:
+        - Very effective
+        - Effective
+        - Somewhat effective
+        - Ineffective
+        - Very ineffective
+        - Have not observed interventions
+      required: true
+    - id: 13
+      name: prevention_education
+      label: Quality of Prevention Education
+      hint: Rate the educational components
+      type: select_one
+      options:
+        - Excellent
+        - Good
+        - Average
+        - Poor
+        - Very poor
+      required: true
+    - id: 14
+      name: staff_responsiveness
+      label: Staff Responsiveness to Bullying
+      hint: How do staff respond to incidents
+      type: select_one
+      options:
+        - Always responsive
+        - Usually responsive
+        - Sometimes responsive
+        - Rarely responsive
+        - Never responsive
+      required: true
+    - id: 15
+      name: safety_perception
+      label: Feeling of Safety at School
+      hint: How safe do you feel
+      type: select_one
+      options:
+        - Very safe
+        - Safe
+        - Neutral
+        - Unsafe
+        - Very unsafe
+      required: true
+    - id: 16
+      name: program_components_rating
+      label: Rate These Program Components
+      hint: Educational workshops
+      type: select_one
+      options:
+        - Excellent
+        - Good
+        - Average
+        - Poor
+        - Not applicable
+      required: true
+    - id: 17
+      name: communication_quality
+      label: Communication About Program
+      hint: How well is the program communicated
+      type: select_one
+      options:
+        - Excellent communication
+        - Good communication
+        - Average communication
+        - Poor communication
+        - No communication
+      required: true
+    - id: 18
+      name: resource_availability
+      label: Availability of Support Resources
+      hint: Counseling, hotlines, etc.
+      type: select_one
+      options:
+        - Very accessible
+        - Accessible
+        - Somewhat accessible
+        - Not accessible
+        - Unaware of resources
+      required: true
+    - id: 19
+      name: program_continuation
+      label: Should the Program Continue
+      hint: Your recommendation
+      type: select_one
+      options:
+        - Yes, expand it
+        - Yes, continue as is
+        - Yes, but with modifications
+        - No, discontinue
+        - Not sure
+      required: true
+    - id: 20
+      name: suggested_improvements
+      label: Suggested Improvements
+      hint: What would make the program better
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: additional_feedback
+      label: Additional Feedback
+      hint: Any other comments or observations
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: survey_date
+      label: Survey Completion Date
+      hint: Date of submission
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,253 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Interest Survey
+    pages:
+    - id: 1
+      name: student_interest_survey_page1
+      label: school_activities
+      hint: null
+      type: select_one
+      options:
+      - School Events
+      - School Parties
+      - Class Parties
+      required: false
+    - id: 2
+      name: class_interests
+      label: class_lessons
+      hint: null
+      type: select_multiple
+      options:
+      - Biology
+      - Chemistry
+      - Math
+      - English
+      - History
+      - Physics
+      required: true
+    - id: 3
+      name: student_interest_survey_page2
+      label: school_lessons
+      hint: null
+      type: select_one
+      options:
+      - School Clubs
+      - School Sports
+      - School Music
+      - School Arts
+      required: false
+    - id: 4
+      name: student_feedback
+      label: student_feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: student_interests
+      label: student_interests
+      hint: null
+      type: select_one
+      options:
+      - School Events
+      - Class Parties
+      - School Music
+      - School Sports
+      required: false
+    - id: 6
+      name: school_year_expectations
+      label: school_year_expectations
+      hint: null
+      type: select_multiple
+      options:
+      - School Events
+      - Class Parties
+      - School Music
+      required: true
+    - id: 7
+      name: student_expectations
+      label: student_expectations
+      hint: null
+      type: select_multiple
+      options:
+      - School Events
+      - Class Parties
+      - School Music
+      required: false
+    - id: 8
+      name: school_clubs
+      label: school_clubs
+      hint: null
+      type: select_multiple
+      options:
+      - School Sports
+      - School Arts
+      required: true
+    - id: 9
+      name: student_parties
+      label: class_parties
+      hint: null
+      type: select_multiple
+      options:
+      - Class Parties
+      - School Parties
+      required: false
+    - id: 10
+      name: school_music
+      label: school_music
+      hint: null
+      type: select_one
+      options:
+      - School Music
+      - School Arts
+      required: false
+    - id: 11
+      name: student_arts
+      label: student_arts
+      hint: null
+      type: select_multiple
+      options:
+      - School Music
+      - School Arts
+      required: false
+    - id: 12
+      name: school_sports
+      label: school_sports
+      hint: null
+      type: select_one
+      options:
+      - School Sports
+      - Other
+      required: false
+    - id: 13
+      name: student_sports
+      label: student_sports
+      hint: null
+      type: select_multiple
+      options:
+      - School Sports
+      - Other
+      required: false
+    - id: 14
+      name: student_lesson_expectations
+      label: student_lesson_expectations
+      hint: null
+      type: select_multiple
+      options:
+      - Biology
+      - Chemistry
+      - Math
+      required: true
+    - id: 15
+      name: student_lesson_interests
+      label: student_lesson_interests
+      hint: null
+      type: select_multiple
+      options:
+      - Biology
+      - Chemistry
+      - Math
+      - English
+      - History
+      - Physics
+      required: false
+    - id: 16
+      name: student_arts_expectations
+      label: student_arts_expectations
+      hint: null
+      type: select_multiple
+      options:
+      - Biology
+      - Chemistry
+      - Math
+      - English
+      - History
+      required: false
+    - id: 17
+      name: student_sports_expectations
+      label: student_sports_expectations
+      hint: null
+      type: select_multiple
+      options:
+      - Biology
+      - Chemistry
+      - Math
+      - English
+      - Physics
+      required: false
+    - id: 18
+      name: student_school_clubs
+      label: student_school_clubs
+      hint: null
+      type: select_multiple
+      options:
+      - Biology
+      - Chemistry
+      - Math
+      - History
+      - Physics
+      required: false
+    - id: 19
+      name: student_clubs_expectations
+      label: student_clubs_expectations
+      hint: null
+      type: select_multiple
+      options:
+      - Biology
+      - History
+      - Physics
+      required: false
+    - id: 20
+      name: student_clubs_interests
+      label: student_clubs_interests
+      hint: null
+      type: select_multiple
+      options:
+      - School Sports
+      - Class Parties
+      required: false
+    - id: 21
+      name: student_arts_expectations
+      label: student_arts_expectations
+      hint: null
+      type: select_multiple
+      options:
+      - Biology
+      - Chemistry
+      - Math
+      required: false
+    - id: 22
+      name: student_interests_2
+      label: student_interests_2
+      hint: null
+      type: select_multiple
+      options:
+      - School Music
+      - Class Parties
+      required: false
+    - id: 23
+      name: student_music_expectations
+      label: student_music_expectations
+      hint: null
+      type: select_multiple
+      options:
+      - Physics
+      - Other
+      required: false
+    - id: 24
+      name: student_sports_expectations
+      label: student_sports_expectations
+      hint: null
+      type: select_multiple
+      options:
+      - School Sports
+      - Other
+      required: false
+    - id: 25
+      name: student_suggestions
+      label: student_suggestions
+      hint: null
+      type: text
+      options: []
+      required: false

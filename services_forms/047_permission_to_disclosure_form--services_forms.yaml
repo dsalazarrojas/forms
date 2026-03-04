@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Permission To Disclosure Form
+    pages:
+    - id: 1
+      name: user_info
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Information
+      hint: Please enter a valid phone number.
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: sharing_info
+      label: Sharing Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: permission_type
+      label: Permission Type
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 5
+      name: permission_date
+      label: Permission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: permission_time
+      label: Permission Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: permission_duration
+      label: Permission Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: organization_info
+      label: Organization Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: purpose
+      label: Purpose
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 10
+      name: terms_condition
+      label: Terms and Condition
+      hint: null
+      type: text
+      options: []
+      required: false

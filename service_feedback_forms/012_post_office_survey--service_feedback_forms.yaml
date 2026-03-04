@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Post Office Survey
+    pages:
+    - id: 1
+      name: post_office_survey
+      label: Post Office Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_information
+      label: contact_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: service_rating
+      label: service_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: staff_helpfulness
+      label: staff_helpfulness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: service_quality
+      label: service_quality
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: post_office_hours
+      label: post_office_hours
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: visit_frequency
+      label: visit_frequency
+      hint: null
+      type: select_one
+      options:
+      - Post Office
+      - Post Office 2
+      required: true
+    - id: 10
+      name: staff_helpfulness_agreement
+      label: staff_helpfulness_agreement
+      hint: null
+      type: select_one
+      options:
+      - Strongly Agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly Disagree
+      required: true
+    - id: 11
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: note
+      options: []
+      required: false

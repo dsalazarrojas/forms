@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Programming Practice Exercise Submission
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: exercise_name
+      label: exercise_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: exercise_url
+      label: exercise_url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: exercise_description
+      label: exercise_description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: solution
+      label: solution
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: mentor_feedback
+      label: mentor_feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: user_email
+      label: User Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: user_phone
+      label: User Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: user_notes
+      label: user_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: exercise_language
+      label: exercise_language
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: exercise_category
+      label: exercise_category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: exercise_tags
+      label: exercise_tags
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: exercise_tags_2
+      label: exercise_tags_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 17
+      name: mentor_reviewed
+      label: mentor_reviewed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: mentor_review
+      label: Review
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: user_reviewed
+      label: user_reviewed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: user_review
+      label: Review
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: exercise_rating
+      label: exercise_rating
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: true
+    - id: 22
+      name: rating_scale
+      label: rating_scale
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: true
+    - id: 23
+      name: mentor_rating
+      label: mentor_rating
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: true
+    - id: 24
+      name: mentor_rating_scale
+      label: mentor_rating_scale
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: true
+    - id: 25
+      name: jotform_template
+      label: Jotform Template
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

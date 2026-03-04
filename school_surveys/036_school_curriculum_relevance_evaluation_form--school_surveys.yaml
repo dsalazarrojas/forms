@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Curriculum Relevance Evaluation Form
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: purpose
+      label: Purpose
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: relevance
+      label: Relevance
+      hint: null
+      type: select_one
+      options:
+      - Curriculum aligns with educational goals
+      - Curriculum aligns with student needs
+      - Curriculum is irrelevant
+      required: false
+    - id: 5
+      name: effectiveness
+      label: Effectiveness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: evaluation
+      label: Evaluation
+      hint: null
+      type: select_multiple
+      options:
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submission
+      label: Submission
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: text
+      options: []
+      required: false

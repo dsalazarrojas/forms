@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Inclusivity Advocacy Survey
+    pages:
+    - id: 1
+      name: student_climate
+      label: Student Climate
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: discrimination_experiences
+      label: discrimination_experiences
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True, ''value'': ''Yes''}'
+      - '{''label'': False, ''value'': ''No''}'
+      required: false
+    - id: 3
+      name: advocacy_interests
+      label: advocacy_interests
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: campus_climate
+      label: campus_climate
+      hint: How does your campus environment support your well-being?
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: discrimination_support
+      label: discrimination_support
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: campus_resources
+      label: campus_resources
+      hint: What campus resources support your well-being?
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: student_organizations
+      label: student_organizations
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: campus_services
+      label: campus_services
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: student_life
+      label: student_life
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: campus_leadership
+      label: campus_leadership
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

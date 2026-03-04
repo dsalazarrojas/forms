@@ -1,0 +1,185 @@
+inputSchema:
+  type: object
+  properties:
+    title: hotel_room_booking_form
+    pages:
+    - id: 1
+      name: room_number
+      label: Room Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: room_type
+      label: Room Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: arrival_date
+      label: Arrival Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: departure_date
+      label: Departure Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: room_price
+      label: Room Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: guest_name
+      label: Guest Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: room_service
+      label: Room Service
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: extra_services
+      label: Extra Services
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: booking_note
+      label: Booking Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: guest_arrival_time
+      label: Guest Arrival Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: guest_arrival_date
+      label: Guest Arrival Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: guest_contact_number
+      label: Guest Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: guest_email
+      label: Guest Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: room_status
+      label: Room Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 18
+      name: room_status_note
+      label: Room Status Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: booking_reference
+      label: Booking Reference
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: guest_comment
+      label: Guest Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: guest_arrival_note
+      label: Guest Arrival Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: guest_departure_note
+      label: Guest Departure Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: hotel_staff_note
+      label: Hotel Staff Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: booking_status
+      label: Booking Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

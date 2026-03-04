@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: <string>
+    pages:
+    - id: 1
+      name: course_content
+      label: what_was_the_course_content
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: teaching_quality
+      label: how_good_was_the_teaching
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: learning_experience
+      label: what_was_your_learning_experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: instructor_help
+      label: how_much_help_from_instructor
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: class_size
+      label: how_satisfied_with_class_size
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: course_materials
+      label: how_satisfactory_the_course_materials
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: course_length
+      label: how_satisfactory_the_course_length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: student_satisfaction
+      label: how_satisfactory_your_experience
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: comments
+      label: what_do_you_want_to_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_name
+      label: contact_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 14
+      name: course_name
+      label: course_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: instructor_name
+      label: instructor_name
+      hint: null
+      type: text
+      options: []
+      required: false

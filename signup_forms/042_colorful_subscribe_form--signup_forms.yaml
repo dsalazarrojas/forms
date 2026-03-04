@@ -1,0 +1,97 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Colorful Subscribe Form
+    pages:
+      - id: 1
+        name: header
+        label: -- Subscribe --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: subscriber_name
+        label: Subscriber name
+        hint: Full name
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: email
+        label: Email address
+        hint: Will receive newsletters
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: interests
+        label: Interests
+        hint: Select topics you care about
+        type: select_multiple
+        options:
+          - New products
+          - Promotions
+          - Events
+          - Tips and tutorials
+        required: false
+      - id: 5
+        name: frequency
+        label: Preferred email frequency
+        hint: Choose frequency
+        type: select_one
+        options:
+          - Weekly
+          - Monthly
+          - Quarterly
+        required: false
+      - id: 6
+        name: consent
+        label: Consent to receive emails
+        hint: Confirm subscription
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 7
+        name: preferred_format
+        label: Preferred content format
+        hint: Text or rich media
+        type: select_one
+        options:
+          - Text
+          - HTML
+        required: false
+      - id: 8
+        name: referral_source
+        label: How did you hear about us
+        hint: Source of referral
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: zipcode
+        label: Zip or postal code
+        hint: For localized offers
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: additional_comments
+        label: Additional comments
+        hint: Anything else to tell us
+        type: text
+        options: []
+        required: false

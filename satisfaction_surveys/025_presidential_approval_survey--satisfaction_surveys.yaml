@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Presidential Approval Survey
+    pages:
+    - id: 1
+      name: presidential_approval_survey
+      label: Presidential Approval
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: how_do_you_approve
+      label: How Do You Approve
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: what_would_be_a_10_reason_to_support
+      label: What Would Be A 10 Reason To Support
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: why_would_you_support
+      label: Why Would You Support
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: why_not_support
+      label: Why Not Support
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: how_do_you_feel
+      label: How Do You Feel
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: why_do_you_feel
+      label: Why Do You Feel
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: date_submitted
+      label: Date Submitted
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time_submitted
+      label: Time Submitted
+      hint: null
+      type: time
+      options: []
+      required: false

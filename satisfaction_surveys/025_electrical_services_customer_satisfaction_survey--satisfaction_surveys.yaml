@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Electrical Services Customer Satisfaction Survey
+    pages:
+    - id: 1
+      name: survey_date
+      label: Survey Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: customer_first_name
+      label: Customer First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: customer_last_name
+      label: Customer Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: service_requesting_employee
+      label: Service Requesting Employee
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: service_request_type
+      label: Service Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: service_request_date
+      label: Service Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: service_request_status
+      label: Service Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 9
+      name: service_request_resolution_time
+      label: Service Resolution Time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: customer_service_rating
+      label: Customer Service Rating
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 11
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 12
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

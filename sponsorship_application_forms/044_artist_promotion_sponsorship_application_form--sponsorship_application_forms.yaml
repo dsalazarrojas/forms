@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Artist Promotion Sponsorship Application Form
+    pages:
+    - id: 1
+      name: section_header_1
+      label: -- Artist Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: artist_name
+      label: Artist or Project Name
+      hint: Your professional name or project title
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: artist_email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: artist_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: artist_website
+      label: Website or Portfolio URL
+      hint: Link to your work
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_header_2
+      label: -- Artistic Background --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: artistic_discipline
+      label: Artistic Discipline
+      hint: Primary area of artistic work
+      type: select_one
+      options:
+      - Music
+      - Visual Arts
+      - Performance
+      - Dance
+      - Theater
+      - Film or Video
+      - Digital Media
+      - Multidisciplinary
+      - Other
+      required: true
+    - id: 8
+      name: artist_biography
+      label: Artist Biography
+      hint: Professional bio (100-150 words)
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: years_active
+      label: Years Active in This Field
+      hint: How long have you been creating?
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: section_header_3
+      label: -- Project or Promotion Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: project_name
+      label: Project Name
+      hint: What specific project needs sponsorship?
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: project_description
+      label: Project Description
+      hint: Detailed overview of the project
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: promotion_goals
+      label: Promotion or Project Goals
+      hint: What are you trying to achieve?
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: target_audience
+      label: Target Audience
+      hint: Who is your audience?
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: section_header_4
+      label: -- Sponsorship Requirements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: sponsorship_amount
+      label: Sponsorship Amount Requested (GBP)
+      hint: How much funding do you need?
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: fund_usage
+      label: How Will Funds Be Used?
+      hint: Detailed breakdown of spending
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: deadline
+      label: Deadline or Timeline
+      hint: When do you need the sponsorship?
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: section_header_5
+      label: -- Impact and Reach --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: expected_reach
+      label: Expected Reach or Audience Size
+      hint: How many people will be impacted?
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: expected_outcomes
+      label: Expected Outcomes or Deliverables
+      hint: What results will sponsorship produce?
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: sponsor_exposure
+      label: Sponsor Exposure and Recognition
+      hint: How will sponsors be recognized?
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: section_header_6
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: supporting_materials
+      label: Supporting Materials Attached
+      hint: Portfolio, press kit, or proposal included?
+      type: select_one
+      options:
+      - Yes, all materials attached
+      - Partial materials attached
+      - Will provide separately
+      - No materials
+      required: false
+    - id: 25
+      name: application_confirmation
+      label: I Confirm This Application is Complete and Accurate
+      hint: Verify accuracy of the application
+      type: select_one
+      options:
+      - Yes, I Confirm
+      - No, I Need to Make Changes
+      required: true

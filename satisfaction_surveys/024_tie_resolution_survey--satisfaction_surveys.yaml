@@ -1,0 +1,40 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tie Resolution Survey
+    pages:
+    - id: 1
+      name: competition_id
+      label: Competition Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: tie_breaking_method
+      label: tieBreakingMethod
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 3
+      name: satisfaction_level
+      label: satisfactionLevel
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Somewhat Dissatisfied
+      - Very Dissatisfied
+      required: false
+    - id: 4
+      name: improvement_ideas
+      label: improvementIdeas
+      hint: null
+      type: text
+      options: []
+      required: false

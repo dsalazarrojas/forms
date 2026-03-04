@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Social Media Embed Form
+    pages:
+    - id: 1
+      name: social_media_platform
+      label: Social Media Platform
+      hint: null
+      type: select_one
+      options:
+      - Facebook
+      - Twitter
+      - Instagram
+      - LinkedIn
+      - YouTube
+      required: false
+    - id: 2
+      name: url
+      label: URL
+      hint: Enter the URL of the social media profile
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: Enter the client's email address
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: username
+      label: Username
+      hint: Enter the username of the social media profile
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: description
+      label: Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Marketing
+      - Product
+      - Services
+      - Other
+      required: false
+    - id: 8
+      name: tags
+      label: Tags
+      hint: null
+      type: select_multiple
+      options:
+      - Marketing
+      - Product
+      - Services
+      - Other
+      required: false
+    - id: 9
+      name: date_created
+      label: Date Created
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time_zone
+      label: Timezone
+      hint: null
+      type: select_one
+      options:
+      - PST
+      - EST
+      - CST
+      - MST
+      - UTC
+      required: false

@@ -1,0 +1,53 @@
+inputSchema:
+  type: object
+  properties:
+    title: Remodel Furnace Relocation
+    pages:
+    - id: 1
+      name: main_page
+      label: Upload File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: schedule_renovation
+      label: Schedule Renovation
+      hint: Required
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: select_renovation_type
+      label: What type of renovation would you like to schedule?
+      hint: null
+      type: select_one
+      options:
+      - Residential
+      - Commercial
+      - Both
+      required: false
+    - id: 4
+      name: select_renovation_type_options
+      label: Select Renovation Type
+      hint: null
+      type: select_multiple
+      options:
+      - Residential
+      - Commercial
+      - Both
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

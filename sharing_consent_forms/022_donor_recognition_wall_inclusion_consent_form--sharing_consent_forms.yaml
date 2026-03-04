@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Donor Recognition Wall Inclusion Consent Form
+    pages:
+    - id: 1
+      name: donor_recognition_wall_inclusion_consent
+      label: Donor Recognition Wall Inclusion Consent
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: organization
+      label: organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: photo
+      label: photo
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: share_with
+      label: share_with
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True, ''label'': True}'
+      - '{''value'': False, ''label'': False}'
+      required: false
+    - id: 9
+      name: share_with_who
+      label: share_with_who
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''public'', ''label'': ''Public''}'
+      - '{''value'': ''private'', ''label'': ''Private''}'
+      - '{''value'': ''internal'', ''label'': ''Internal''}'
+      required: false
+    - id: 10
+      name: share_with_who_other
+      label: share_with_who_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

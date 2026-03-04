@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: pest_control_service_request_form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: pest_type
+      label: Pest Type
+      hint: null
+      type: select_one
+      options:
+      - Ants
+      - Bed Bugs
+      - Cockroaches
+      - Fleas
+      - Rats
+      - Spiders
+      required: false
+    - id: 6
+      name: service_request_date
+      label: Service Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: service_time
+      label: Service Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: service_notes
+      label: Service Notes
+      hint: null
+      type: text
+      options: []
+      required: false

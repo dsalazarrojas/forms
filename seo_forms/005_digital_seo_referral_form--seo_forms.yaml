@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: digital_seo_referral_form
+    pages:
+    - id: 1
+      name: referral_source
+      label: Referral Source
+      hint: null
+      type: select_one
+      options:
+      - Agency
+      - Consultant
+      - Other
+      required: false
+    - id: 2
+      name: partner_name
+      label: Partner Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: partner_email
+      label: Partner Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: project_details
+      label: Project Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: project_url
+      label: Project URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: project_description
+      label: Project Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: partner_phone
+      label: Partner Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: follow_up_note
+      label: Follow-up Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: referral_status
+      label: Referral Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active_goalsประก
+      - Inactive_goals
+      - Lost
+      required: false

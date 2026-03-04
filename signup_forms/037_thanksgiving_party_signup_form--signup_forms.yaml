@@ -1,0 +1,157 @@
+inputSchema:
+  type: object
+  properties:
+    title: Thanksgiving Party Signup Form
+    pages:
+    - id: 1
+      name: host_name
+      label: Host Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: guest_name
+      label: Guest Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: example@example.com
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: attendee_name
+      label: Attendee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: attendee_email
+      label: Attendee Email
+      hint: example@example.com
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: attendee_relationship
+      label: Attendee Relationship
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: message
+      label: Message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: dishes
+      label: Dishes
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Turkey
+      - Ham
+      - Gravy
+      - Stuffing
+      - Pumpkin Pie
+      required: true
+    - id: 12
+      name: sides
+      label: Sides
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Stuffing
+      - Mashed Potatoes
+      - Green Beans
+      required: true
+    - id: 13
+      name: drinks
+      label: Drinks
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Water
+      - Soda
+      - Juice
+      - Wine
+      - Beer
+      required: true
+    - id: 14
+      name: desserts
+      label: Desserts
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Apple Pie
+      - Pumpkin Pie
+      - Cotton Candy
+      - Cheesecake
+      required: false
+    - id: 15
+      name: attends
+      label: Will Attend
+      hint: null
+      type: select_one
+      options:
+      - None
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: other_notes
+      label: Other Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: note
+      options: []
+      required: false

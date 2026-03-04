@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Restaurant Opening Manager Review
+    pages:
+    - id: 1
+      name: new_opening_performance
+      label: New Opening Performance
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: overall_rating
+      label: Overall Rating
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Very poor''}'
+      - '{''id'': 2, ''label'': ''Poor''}'
+      - '{''id'': 3, ''label'': ''Average''}'
+      - '{''id'': 4, ''label'': ''Good''}'
+      - '{''id'': 5, ''label'': ''Excellent''}'
+      required: false
+    - id: 3
+      name: restaurant_name
+      label: Restaurant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: manager_notes
+      label: Manager Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: opening_date
+      label: Opening Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: closing_date
+      label: Closing Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: manager_id
+      label: Manager ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: restaurant_id
+      label: Restaurant ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: location_id
+      label: Location ID
+      hint: null
+      type: number
+      options: []
+      required: false

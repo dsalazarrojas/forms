@@ -1,0 +1,47 @@
+inputSchema:
+  type: object
+  properties:
+    title: Weekly Clinic Activity Report
+    pages:
+    - id: 1
+      name: clinic_name
+      label: Clinic Name
+      hint: Clinic name
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: week_start_date
+      label: Week Start Date
+      hint: Week start date
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: week_end_date
+      label: Week End Date
+      hint: Week end date
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: staff_count
+      label: Staff Count
+      hint: Staff count
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: staffing_notes
+      label: Staffing Notes
+      hint: Staffing notes
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: service_activity
+      label: Service Activity
+      hint: Service activity
+      type: text
+      options: []
+      required: false

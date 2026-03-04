@@ -1,0 +1,102 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Creative Services Job Form
+    pages:
+    - id: 1
+      name: job_type
+      label: Job Type
+      hint: null
+      type: select_one
+      options:
+      - Print
+      - Design
+      - Other
+      required: false
+    - id: 2
+      name: paper_size
+      label: Paper Size
+      hint: null
+      type: select_one
+      options:
+      - 8.5 x 11
+      - 8.5 x 14
+      - Letter
+      - Legal
+      - Tabloid
+      - Folio
+      required: false
+    - id: 3
+      name: envelope_size
+      label: Envelope Size
+      hint: null
+      type: select_one
+      options:
+      - A2
+      - A3
+      - A4
+      - A5
+      - A6
+      required: false
+    - id: 4
+      name: ink_color
+      label: Ink Color
+      hint: null
+      type: select_one
+      options:
+      - Black
+      - Blue
+      - Red
+      - Green
+      required: false
+    - id: 5
+      name: paper_weight
+      label: Paper Weight
+      hint: null
+      type: select_one
+      options:
+      - Card
+      - Text
+      - Cover
+      - V-Weight
+      - Tabloid
+      required: false
+    - id: 6
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: form_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false

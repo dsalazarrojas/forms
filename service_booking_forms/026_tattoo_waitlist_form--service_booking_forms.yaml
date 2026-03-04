@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tattoo Waitlist Form
+    pages:
+    - id: 1
+      name: new_waitlist
+      label: New Waitlist
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: client
+      label: Client
+      hint: null
+      type: select_multiple
+      options:
+      - Client 1
+      - Client 2
+      - Client 3
+      required: true
+    - id: 3
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: client_count
+      label: Client Count
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: client_type
+      label: Client Type
+      hint: null
+      type: select_one
+      options:
+      - Client 1
+      - Client 2
+      - Client 3
+      required: true

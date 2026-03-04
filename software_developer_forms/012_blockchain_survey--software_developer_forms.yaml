@@ -1,0 +1,121 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Blockchain Survey
+    pages:
+      - id: 1
+        name: survey_intro
+        label: -- Blockchain Technology Survey --
+        hint: Help us understand interest in blockchain and cryptocurrency
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: respondent_name
+        label: Your Name
+        hint: Optional
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: respondent_email
+        label: Email Address
+        hint: Optional - for follow-up questions
+        type: email
+        options: []
+        required: false
+      - id: 4
+        name: professional_background
+        label: Professional Background
+        hint: null
+        type: select_one
+        options: ["Software Developer", "Finance Professional", "Business Executive", "Investor", "Student", "Other", "Prefer not to say"]
+        required: true
+      - id: 5
+        name: blockchain_knowledge
+        label: Your Blockchain Knowledge Level
+        hint: null
+        type: select_one
+        options: ["No knowledge", "Basic awareness", "Intermediate knowledge", "Advanced knowledge", "Expert"]
+        required: true
+      - id: 6
+        name: interest_in_blockchain
+        label: Interest in blockchain technology - Not Interested (1) to Very Interested (5)
+        hint: null
+        type: select_one
+        options: ["1 - Not interested", "2 - Slightly interested", "3 - Moderately interested", "4 - Very interested", "5 - Extremely interested"]
+        required: true
+      - id: 7
+        name: cryptocurrency_experience
+        label: Experience with cryptocurrency
+        hint: null
+        type: select_one
+        options: ["Never used", "Used once or twice", "Regular user", "Heavy user", "Professional involvement"]
+        required: true
+      - id: 8
+        name: blockchain_use_cases
+        label: Blockchain use cases of interest
+        hint: Select all that apply
+        type: select_multiple
+        options: ["Financial services", "Supply chain", "Healthcare", "Voting", "Smart contracts", "NFTs", "Gaming", "Other"]
+        required: true
+      - id: 9
+        name: investment_interest
+        label: Interest in blockchain investments
+        hint: null
+        type: select_one
+        options: ["No interest", "Minimal interest", "Moderate interest", "High interest", "Very high interest"]
+        required: true
+      - id: 10
+        name: regulatory_concerns
+        label: Level of concern about blockchain regulation
+        hint: null
+        type: select_one
+        options: ["No concern", "Minor concern", "Moderate concern", "High concern", "Critical concern"]
+        required: false
+      - id: 11
+        name: main_obstacles
+        label: What are the main obstacles to blockchain adoption?
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 12
+        name: expected_timeline
+        label: When will blockchain have major impact?
+        hint: null
+        type: select_one
+        options: ["Already happening", "1-2 years", "3-5 years", "5-10 years", "10+ years", "Never"]
+        required: true
+      - id: 13
+        name: company_blockchain_interest
+        label: Is your company interested in blockchain?
+        hint: null
+        type: select_one
+        options: ["Yes", "No", "Considering", "Already implementing"]
+        required: true
+      - id: 14
+        name: additional_comments
+        label: Additional comments or concerns
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 15
+        name: survey_completion_date
+        label: Survey Completion Date
+        hint: null
+        type: date
+        options: []
+        required: true

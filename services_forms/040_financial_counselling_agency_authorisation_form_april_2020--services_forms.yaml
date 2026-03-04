@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Financial Counselling Agency Authorisation Form April 2020
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: dob
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: service_type
+      label: Type of Service
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Service 1'', ''label'': ''Service 1''}'
+      - '{''id'': 2, ''name'': ''Service 2'', ''label'': ''Service 2''}'
+      - '{''id'': 3, ''name'': ''Service 3'', ''label'': ''Service 3''}'
+      required: true
+    - id: 7
+      name: goals
+      label: Goals
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 8
+      name: financial_institution
+      label: Financial Institution
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Financial 1'', ''label'': ''Financial 1''}'
+      - '{''id'': 2, ''name'': ''Institution 2'', ''label'': ''Institution 2''}'
+      - '{''id'': 3, ''name'': ''Institution 3'', ''label'': ''Institution 3''}'
+      required: true
+    - id: 9
+      name: date_of_authorisation
+      label: Date of Authorisation
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time_of_authorisation
+      label: Time of Authorisation
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false

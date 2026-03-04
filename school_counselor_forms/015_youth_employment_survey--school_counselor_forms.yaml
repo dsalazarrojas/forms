@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Youth Employment Survey
+    pages:
+    - id: 1
+      name: participant_info
+      label: What is your name?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: program_type
+      label: How did you participate in the program?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1'', ''value'': ''Option 1''}'
+      - '{''label'': ''Option 2'', ''value'': ''Option 2''}'
+      - '{''label'': ''Option 3'', ''value'': ''Option 3''}'
+      required: false
+    - id: 3
+      name: program_name
+      label: What is the name of your program?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: program_start
+      label: When did you start in the program?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: program_end
+      label: When did you end in the program?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: work_status
+      label: Are you working?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True, ''value'': True}'
+      - '{''label'': False, ''value'': False}'
+      required: false
+    - id: 7
+      name: employment_type
+      label: What is your work type?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Part-time'', ''value'': ''Part-time''}'
+      - '{''label'': ''Full-time'', ''value'': ''Full-time''}'
+      - '{''label'': ''Other'', ''value'': ''Other''}'
+      required: false
+    - id: 8
+      name: work_hours
+      label: How many hours do you work?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: job_location
+      label: Where do you work?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: job_description
+      label: What do you do in your job?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: job_type
+      label: What kind of job do you do?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Part-time'', ''value'': ''Part-time''}'
+      - '{''label'': ''Full-time'', ''value'': ''Full-time''}'
+      - '{''label'': ''Internship'', ''value'': ''Internship''}'
+      required: false
+    - id: 12
+      name: work_status_change
+      label: Has your employment status changed recently?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True, ''value'': True}'
+      - '{''label'': False, ''value'': False}'
+      required: false

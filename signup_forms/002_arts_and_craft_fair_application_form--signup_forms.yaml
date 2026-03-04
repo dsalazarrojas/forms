@@ -1,0 +1,162 @@
+inputSchema:
+  type: object
+  properties:
+    title: Arts And Craft Fair Application Form
+    pages:
+    - id: 1
+      name: vendor_name
+      label: Vendor or Business Name
+      hint: Legal name of your business or artist name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_person
+      label: Primary Contact Person
+      hint: Name of the person we should contact
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: For all communications
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Best number to reach you
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: business_address
+      label: Business Address
+      hint: Full mailing address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: craft_category
+      label: Primary Craft Category
+      hint: What type of crafts do you create
+      type: select_one
+      options:
+      - Jewelry
+      - Pottery and Ceramics
+      - Textiles and Fiber Arts
+      - Woodworking
+      - Glass Art
+      - Paper Crafts
+      - Metalwork
+      - Food and Beverages
+      - Other
+      required: true
+    - id: 7
+      name: secondary_categories
+      label: Secondary Categories
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Jewelry
+      - Pottery and Ceramics
+      - Textiles and Fiber Arts
+      - Woodworking
+      - Glass Art
+      - Paper Crafts
+      - Metalwork
+      - Food and Beverages
+      required: false
+    - id: 8
+      name: years_in_business
+      label: Years in Business
+      hint: How long have you been selling your crafts
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: booth_size_preference
+      label: Booth Size Preference
+      hint: Select your preferred booth size
+      type: select_one
+      options:
+      - 10x10 feet
+      - 10x20 feet
+      - 10x30 feet
+      - No preference
+      required: true
+    - id: 10
+      name: electricity_needed
+      label: Do You Need Electricity
+      hint: Additional fee may apply
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: website_url
+      label: Website or Online Shop URL
+      hint: Where can we see your products online
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: product_photos
+      label: Upload Product Photos
+      hint: Upload 3-5 images of your products
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: fair_dates_interested
+      label: Which Fair Dates Interest You
+      hint: Select all dates you are available
+      type: select_multiple
+      options:
+      - Spring Fair - April 15-16
+      - Summer Fair - July 20-21
+      - Fall Harvest Fair - October 5-6
+      - Holiday Market - December 7-8
+      required: true
+    - id: 14
+      name: previous_fairs
+      label: Have You Participated in Craft Fairs Before
+      hint: Briefly describe your experience
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: liability_insurance
+      label: Do You Have Liability Insurance
+      hint: Proof may be required upon acceptance
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: special_requests
+      label: Special Requests or Comments
+      hint: Any additional information for the organizers
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: application_date
+      label: Application Date
+      hint: Today date
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: terms_agreement
+      label: I Agree to Fair Rules and Regulations
+      hint: Confirm you have read and agree to all terms
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Social Worker Application Form
+    pages:
+    - id: 1
+      name: applicant_info
+      label: Applicant Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: work_experience
+      label: Work Experience
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: education_background
+      label: Education Background
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: skills
+      label: Skills
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: certifications
+      label: Certifications
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: personal_info
+      label: Personal Info
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: submit_button
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: time_of_birth
+      label: Time of Birth
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

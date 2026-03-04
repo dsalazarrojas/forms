@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Academic Decathlon Sponsorship Form
+    pages:
+    - id: 1
+      name: sponsor_information
+      label: -- Sponsor Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: sponsor_name
+      label: Sponsor organization or individual name
+      hint: Name for recognition and invoices
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_person
+      label: Contact person
+      hint: Primary contact for sponsorship coordination
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Contact email
+      hint: Email for confirmation and receipt
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: sponsorship_level
+      label: Sponsorship level
+      hint: Select preferred sponsorship tier
+      type: select_one
+      options:
+      - Platinum
+      - Gold
+      - Silver
+      - Bronze
+      required: true
+    - id: 6
+      name: amount_committed
+      label: Amount committed
+      hint: Monetary amount or in kind value
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: recognition_preferences
+      label: Recognition preferences
+      hint: How sponsor wishes to be acknowledged
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: billing_information
+      label: Billing information
+      hint: Address or invoice details
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: signature
+      label: Sponsor signature
+      hint: Typed name to confirm commitment
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: date
+      label: Date of sponsorship commitment
+      hint: Date when form is submitted
+      type: date
+      options: []
+      required: true

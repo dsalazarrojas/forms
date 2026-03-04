@@ -1,0 +1,283 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Coding Style Feedback Form
+    pages:
+      - id: 1
+        name: section_reviewer
+        label: -- Reviewer Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: reviewer_name
+        label: Reviewer Name
+        hint: Name of code reviewer
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: reviewer_email
+        label: Email Address
+        hint: null
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: section_code_review
+        label: -- Code Review Details --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 5
+        name: developer_name
+        label: Developer Name
+        hint: Name of developer whose code is being reviewed
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: code_file
+        label: File or Method Reviewed
+        hint: Name of the code being reviewed
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: programming_language
+        label: Programming Language
+        hint: null
+        type: select_one
+        options:
+          - Python
+          - JavaScript
+          - Java
+          - C++
+          - C-sharp
+          - Ruby
+          - PHP
+          - Go
+          - Rust
+          - TypeScript
+          - Other
+        required: true
+      - id: 8
+        name: review_date
+        label: Review Date
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 9
+        name: section_naming
+        label: -- Naming Conventions --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 10
+        name: variable_naming
+        label: Variable Naming Quality
+        hint: Rate from 1 - poor to 5 - excellent
+        type: select_one
+        options:
+          - "1 - Poor"
+          - "2 - Fair"
+          - "3 - Good"
+          - "4 - Very Good"
+          - "5 - Excellent"
+        required: true
+      - id: 11
+        name: function_naming
+        label: Function Naming Quality
+        hint: null
+        type: select_one
+        options:
+          - "1 - Poor"
+          - "2 - Fair"
+          - "3 - Good"
+          - "4 - Very Good"
+          - "5 - Excellent"
+        required: true
+      - id: 12
+        name: class_naming
+        label: Class or Component Naming
+        hint: null
+        type: select_one
+        options:
+          - "1 - Poor"
+          - "2 - Fair"
+          - "3 - Good"
+          - "4 - Very Good"
+          - "5 - Excellent"
+        required: false
+      - id: 13
+        name: section_formatting
+        label: -- Formatting and Structure --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 14
+        name: indentation
+        label: Indentation and Spacing
+        hint: null
+        type: select_one
+        options:
+          - "1 - Inconsistent"
+          - "2 - Mostly inconsistent"
+          - "3 - Generally consistent"
+          - "4 - Mostly consistent"
+          - "5 - Highly consistent"
+        required: true
+      - id: 15
+        name: line_length
+        label: Line Length Compliance
+        hint: Adherence to max line length standards
+        type: select_one
+        options:
+          - "1 - Many violations"
+          - "2 - Some violations"
+          - "3 - Mostly compliant"
+          - "4 - Compliant"
+          - "5 - Always compliant"
+        required: true
+      - id: 16
+        name: bracket_style
+        label: Bracket and Brace Style
+        hint: Consistent placement and formatting
+        type: select_one
+        options:
+          - "1 - Inconsistent"
+          - "2 - Mostly inconsistent"
+          - "3 - Generally consistent"
+          - "4 - Mostly consistent"
+          - "5 - Highly consistent"
+        required: true
+      - id: 17
+        name: section_comments
+        label: -- Comments and Documentation --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 18
+        name: comment_quality
+        label: Code Comments Quality
+        hint: null
+        type: select_one
+        options:
+          - "1 - None or poor"
+          - "2 - Minimal"
+          - "3 - Adequate"
+          - "4 - Good"
+          - "5 - Excellent"
+        required: true
+      - id: 19
+        name: doc_strings
+        label: Documentation Strings or JSDoc
+        hint: null
+        type: select_one
+        options:
+          - "1 - Missing"
+          - "2 - Incomplete"
+          - "3 - Present but minimal"
+          - "4 - Good documentation"
+          - "5 - Comprehensive"
+        required: true
+      - id: 20
+        name: section_complexity
+        label: -- Code Complexity --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 21
+        name: function_length
+        label: Function Length Appropriateness
+        hint: Functions are of reasonable length
+        type: select_one
+        options:
+          - "1 - Too long"
+          - "2 - Often too long"
+          - "3 - Generally appropriate"
+          - "4 - Well-sized"
+          - "5 - Excellently proportioned"
+        required: true
+      - id: 22
+        name: nesting_levels
+        label: Nesting Levels
+        hint: Appropriate nesting depth
+        type: select_one
+        options:
+          - "1 - Excessive nesting"
+          - "2 - Often nested too deep"
+          - "3 - Generally acceptable"
+          - "4 - Well-managed"
+          - "5 - Optimal nesting"
+        required: true
+      - id: 23
+        name: section_standards
+        label: -- Team Standards Compliance --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 24
+        name: style_guide_compliance
+        label: Team Style Guide Compliance
+        hint: Follows established standards
+        type: select_one
+        options:
+          - "1 - Poor compliance"
+          - "2 - Some violations"
+          - "3 - Generally compliant"
+          - "4 - Mostly compliant"
+          - "5 - Fully compliant"
+        required: true
+      - id: 25
+        name: section_feedback
+        label: -- Feedback --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 26
+        name: strengths
+        label: Code Style Strengths
+        hint: What the developer does well
+        type: text
+        options: []
+        required: false
+      - id: 27
+        name: improvements
+        label: Areas for Improvement
+        hint: Specific suggestions for better style
+        type: text
+        options: []
+        required: false
+      - id: 28
+        name: overall_rating
+        label: Overall Coding Style Rating
+        hint: null
+        type: select_one
+        options:
+          - "1 - Poor"
+          - "2 - Fair"
+          - "3 - Good"
+          - "4 - Very Good"
+          - "5 - Excellent"
+        required: true

@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Utility Consumption Dashboard Consent Form
+    pages:
+    - id: 1
+      name: user_details
+      label: User Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: utility_service
+      label: Utility Service
+      hint: null
+      type: select_one
+      options:
+      - Electricity
+      - Gas
+      - Water
+      required: false
+    - id: 4
+      name: dashboard_access
+      label: Dashboard Access
+      hint: null
+      type: select_multiple
+      options:
+      - View usage data
+      - View billing data
+      - View both usage and billing data
+      required: false
+    - id: 5
+      name: analytics_access
+      label: Analytics Access
+      hint: null
+      type: select_multiple
+      options:
+      - View analytics reports
+      - View analytics data
+      required: false
+    - id: 6
+      name: consent
+      label: Consent
+      hint: null
+      type: select_multiple
+      options:
+      - Display my data
+      - Analyze my data
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false

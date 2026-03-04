@@ -1,0 +1,126 @@
+inputSchema:
+  type: object
+  properties:
+    title: Laundry Pickup Request Form
+    pages:
+    - id: 1
+      name: customer
+      label: customer
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: pickup_date
+      label: pickup date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: pickup_time
+      label: pickup time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: pickup_location
+      label: pickup location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: wash_service_type
+      label: wash service type
+      hint: null
+      type: select_one
+      options:
+      - Dry Clean
+      - Hand Wash
+      - Steam Clean
+      required: false
+    - id: 6
+      name: pickup_address
+      label: pickup address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_number
+      label: contact number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: message
+      label: message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: preferred_contact_method
+      label: preferred contact method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Text Message
+      required: false
+    - id: 11
+      name: service_type
+      label: service type
+      hint: null
+      type: select_one
+      options:
+      - Pick up at Home
+      - Drop off at Location
+      - Self pick up
+      required: false
+    - id: 12
+      name: pickup_time_frame
+      label: pickup time frame
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: pickup_time_slot
+      label: pickup time slot
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: pickup_date_earliest
+      label: pickup date earliest
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: pickup_date_latest
+      label: pickup date latest
+      hint: null
+      type: date
+      options: []
+      required: false

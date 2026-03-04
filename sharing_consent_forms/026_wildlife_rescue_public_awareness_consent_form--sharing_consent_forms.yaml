@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: wildlife rescue public awareness consent form
+    pages:
+    - id: 1
+      name: form_header
+      label: form header
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: permission_type
+      label: permission type
+      hint: null
+      type: select_one
+      options:
+      - image
+      - video
+      - audio
+      - document
+      - other
+      required: true
+    - id: 3
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: organization
+      label: organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: terms_and_conditions
+      label: terms and conditions
+      hint: null
+      type: note
+      options: []
+      required: true

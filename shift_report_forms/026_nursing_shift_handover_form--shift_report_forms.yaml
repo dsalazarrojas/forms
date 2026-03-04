@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nursing Shift Handover Form
+    pages:
+    - id: 1
+      name: shift_handover
+      label: Handover
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: handover_status
+      label: Status
+      hint: Please select the handover status
+      type: select_one
+      options:
+      - Complete
+      - Incomplete
+      required: false
+    - id: 3
+      name: nurse_in_charge
+      label: Nurse in Charge
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: handover_note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: nurse_outgoing_id
+      label: Nurse Outgoing ID
+      hint: null
+      type: number
+      options: []
+      required: false

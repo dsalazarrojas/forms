@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: High School Senior Survey
+    pages:
+    - id: 1
+      name: school_year
+      label: School Year
+      hint: null
+      type: select_one
+      options:
+      - '2020'
+      - '2021'
+      - '2022'
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: grade_point_average
+      label: Grade Point Average
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: academic_commitment
+      label: Academic Commitment
+      hint: On a scale of 1-10, how would you rate your academic commitment to your
+        high school?
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: teachers
+      label: Teachers
+      hint: null
+      type: select_multiple
+      options:
+      - Mr. Smith
+      - Mrs. Johnson
+      - Ms. Williams
+      required: false
+    - id: 6
+      name: extracurricular_activities
+      label: Extracurricular Activities
+      hint: null
+      type: select_one
+      options:
+      - Sports
+      - Band
+      - Choir
+      required: false
+    - id: 7
+      name: college_plans
+      label: College Plans
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: college_planned_attendance
+      label: College Planned Attendance
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 9
+      name: high_school_experience
+      label: High School Experience
+      hint: How often did you participate in school events?
+      type: number
+      options: []
+      required: false

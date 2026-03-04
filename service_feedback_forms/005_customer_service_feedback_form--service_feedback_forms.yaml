@@ -1,0 +1,40 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Service Feedback Form
+    pages:
+    - id: 1
+      name: customer_service_feedback_form_1
+      label: How did you rate our service
+      hint: Rate on a scale of 1-5
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: customer_service_feedback_form_2
+      label: What did we do well
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_service_feedback_form_3
+      label: What could we do better
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: customer_service_feedback_form_4
+      label: How likely are you to recommend us
+      hint: Rate on a scale of 1-5
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: customer_service_feedback_form_5
+      label: Do you have any additional feedback
+      hint: null
+      type: text
+      options: []
+      required: false

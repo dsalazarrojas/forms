@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: University Admission Form
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: student_id
+      label: Student ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: nationality
+      label: Nationality
+      hint: null
+      type: select_multiple
+      options:
+      - International Student
+      - Domestic Student
+      required: false
+    - id: 7
+      name: level_of_study
+      label: Level of Study
+      hint: null
+      type: select_one
+      options:
+      - Bachelors
+      - Masters
+      - PhD
+      - Others
+      required: false
+    - id: 8
+      name: program_of_study
+      label: Program of Study
+      hint: null
+      type: text
+      options: []
+      required: false

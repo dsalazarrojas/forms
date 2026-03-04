@@ -1,0 +1,97 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Office Referral Form
+    pages:
+    - id: 1
+      name: student_name
+      label: student_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: parent_name
+      label: Parent Name
+      hint: Parent or guardian name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: referral_type
+      label: Referral Type
+      hint: Type of referral
+      type: select_one
+      options:
+      - Crisis Intervention
+      - Academic Support
+      - Social Support
+      - Other
+      required: false
+    - id: 4
+      name: student_id
+      label: Student ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date
+      label: Date
+      hint: Date of referral
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time
+      label: Time
+      hint: Time of referral
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: reason
+      label: Reason for Referral
+      hint: Please provide a detailed reason for the referral
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: requested_services
+      label: Requested Services
+      hint: Select all requested services
+      type: select_multiple
+      options:
+      - Counseling
+      - Academic Support
+      - Social Support
+      - Other
+      required: false
+    - id: 9
+      name: assigned_staff
+      label: Assigned Staff
+      hint: null
+      type: select_one
+      options:
+      - Jane Doe
+      - John Doe
+      - Jimmy Smith
+      required: false
+    - id: 10
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false

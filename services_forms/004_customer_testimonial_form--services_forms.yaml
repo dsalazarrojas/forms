@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Testimonial Form
+    pages:
+    - id: 1
+      name: testimonial_form
+      label: testimonial_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: client_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: testimonial_message
+      label: testimonial_message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: rating
+      label: rating
+      hint: null
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Excellent
+      required: false
+    - id: 5
+      name: recommend
+      label: recommend
+      hint: null
+      type: select_multiple
+      options:
+      - 'False'
+      - Maybe
+      - 'True'
+      required: false
+    - id: 6
+      name: email
+      label: client_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: client_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: message
+      label: testimonial_message
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Flight School Student Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: student_type
+      label: Student Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Private Pilot'', ''value'': ''Private Pilot''}'
+      - '{''id'': 2, ''name'': ''Commercial Pilot'', ''value'': ''Commercial Pilot''}'
+      - '{''id'': 3, ''name'': ''ATP'', ''value'': ''ATP''}'
+      required: true
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_of_birth
+      label: Time of Birth
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: date_of_registration
+      label: Date of Registration
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time_of_registration
+      label: Time of Registration
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: flight_school_address
+      label: Flight School Address
+      hint: null
+      type: text
+      options: []
+      required: false

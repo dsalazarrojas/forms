@@ -1,0 +1,129 @@
+inputSchema:
+  type: object
+  properties:
+    title: woozworld_hot_spot_sign_up_sheet
+    pages:
+    - id: 1
+      name: user_first_name
+      label: User First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: user_last_name
+      label: User Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: user_age
+      label: User Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: user_group
+      label: User Group
+      hint: Select a Group
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: user_email
+      label: User Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: user_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: user_notes
+      label: User Notes
+      hint: Any additional notes about the user
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: user_category
+      label: User Category
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: user_country
+      label: User Country
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: user_region
+      label: Region
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: user_language
+      label: User Language
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: user_city
+      label: User City
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: user_zip
+      label: User Zip
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false

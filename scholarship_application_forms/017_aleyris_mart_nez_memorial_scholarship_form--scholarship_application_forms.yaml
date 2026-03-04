@@ -1,0 +1,260 @@
+inputSchema:
+  type: object
+  properties:
+    title: Aleyris Martinez Memorial Scholarship Form
+    pages:
+    - id: 1
+      name: applicant_first_name
+      label: First Name
+      hint: Legal first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: applicant_last_name
+      label: Last Name
+      hint: Legal last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: gender
+      label: Gender
+      hint: Select your gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      required: false
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: mailing_address
+      label: Mailing Address
+      hint: Full address
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: high_school_name
+      label: High School Name
+      hint: Name of your high school
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: high_school_address
+      label: High School Address
+      hint: School address
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: graduation_year
+      label: Graduation Year
+      hint: Year of graduation
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: gpa
+      label: Current GPA
+      hint: Grade point average
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: class_rank
+      label: Class Rank
+      hint: Your rank in class
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: intended_college
+      label: Intended College/University
+      hint: Where will you attend?
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: intended_major
+      label: Intended Major
+      hint: Field of study
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: scholarship_reason
+      label: Why Are You Applying?
+      hint: Explain your interest
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: personal_statement
+      label: Personal Statement
+      hint: Tell us about yourself
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: connection_to_aleyris
+      label: Connection to Aleyris Martinez
+      hint: How did you know her?
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: extracurricular_activities
+      label: Extracurricular Activities
+      hint: List activities and roles
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: community_service
+      label: Community Service
+      hint: Describe volunteer work
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: leadership_experience
+      label: Leadership Experience
+      hint: Describe leadership roles
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: awards_honors
+      label: Awards and Honors
+      hint: Academic or other recognition
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: financial_need
+      label: Describe Financial Need
+      hint: How will this help?
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: other_scholarships
+      label: Other Scholarships Applied
+      hint: List other applications
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: reference_1_name
+      label: Reference 1 Name
+      hint: Teacher or counselor
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: reference_1_email
+      label: Reference 1 Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 26
+      name: reference_1_relationship
+      label: Reference 1 Relationship
+      hint: How do they know you?
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: reference_2_name
+      label: Reference 2 Name
+      hint: Second reference
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: reference_2_email
+      label: Reference 2 Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 29
+      name: reference_2_relationship
+      label: Reference 2 Relationship
+      hint: How do they know you?
+      type: text
+      options: []
+      required: true
+    - id: 30
+      name: transcript_attached
+      label: Transcript Attached
+      hint: Have you attached transcript?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 31
+      name: recommendation_letters_attached
+      label: Recommendation Letters Attached
+      hint: Have you attached letters?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 32
+      name: essay_topic
+      label: Essay Response
+      hint: How has Aleyris inspired you?
+      type: text
+      options: []
+      required: true
+    - id: 33
+      name: future_goals
+      label: Future Career Goals
+      hint: What do you want to achieve?
+      type: text
+      options: []
+      required: true
+    - id: 34
+      name: additional_information
+      label: Additional Information
+      hint: Anything else to share
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: terms_acceptance
+      label: Terms and Conditions
+      hint: I certify information is accurate
+      type: select_one
+      options:
+      - Yes, I certify all information is accurate
+      - false
+      required: true

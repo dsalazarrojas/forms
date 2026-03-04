@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: information_technology_survey
+    pages:
+    - id: 1
+      name: survey_context
+      label: Survey Context
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: software_used
+      label: software_used
+      hint: null
+      type: select_multiple
+      options:
+      - Windows
+      - macOS
+      - Linux
+      - Other
+      required: false
+    - id: 3
+      name: satisfaction
+      label: satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: needs
+      label: needs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: email
+      options: []
+      required: false

@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Catholic Funeral Planning Form
+    pages:
+    - id: 1
+      name: section_deceased_info
+      label: -- Deceased Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: deceased_full_name
+      label: Deceased Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: deceased_date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: deceased_date_of_death
+      label: Date of Death
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: section_family_contact
+      label: -- Family Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: primary_contact_name
+      label: Primary Contact Name
+      hint: Closest family member
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: primary_contact_relationship
+      label: Relationship to Deceased
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: primary_contact_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: primary_contact_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: section_service_preferences
+      label: -- Service Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: service_type
+      label: Type of Service
+      hint: null
+      type: select_one
+      options:
+      - Traditional Wake and Funeral Mass
+      - Funeral Mass Only
+      - Memorial Service
+      - Graveside Service
+      - Combination Service
+      - Other
+      required: true
+    - id: 12
+      name: service_date
+      label: Preferred Service Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: service_time
+      label: Preferred Service Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: church_name
+      label: Church Name
+      hint: Parish or church for Mass
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: section_burial_details
+      label: -- Burial Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: burial_type
+      label: Burial Type
+      hint: null
+      type: select_one
+      options:
+      - Ground Burial
+      - Entombment
+      - Cremation with Burial
+      - Scattering
+      - Not Yet Decided
+      required: true
+    - id: 17
+      name: cemetery_name
+      label: Cemetery Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: existing_plot
+      label: Cemetery Plot
+      hint: null
+      type: select_one
+      options:
+      - Already Owned
+      - Need to Purchase
+      - Family Owned
+      - Not Yet Decided
+      required: false
+    - id: 19
+      name: section_casket_selection
+      label: -- Casket Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: casket_preference
+      label: Casket Type Preference
+      hint: null
+      type: select_one
+      options:
+      - Wood
+      - Metal
+      - Eco-Friendly
+      - Cremation Container
+      - Other
+      - View Options Later
+      required: false
+    - id: 21
+      name: cremation_preference
+      label: Cremation Preference
+      hint: If selecting cremation
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: section_flowers_music
+      label: -- Flowers and Music --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: music_selections
+      label: Preferred Hymns or Music
+      hint: Favorite songs or traditional hymns
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: flowers_preference
+      label: Flowers and Floral Arrangements
+      hint: Preferred flowers or donations instead
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: special_requests
+      label: Special Requests or Instructions
+      hint: Readings, memorial details, etc.
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Health & Fitness Contact Form
+    pages:
+    - id: 1
+      name: form_title
+      label: health_fitness_contact_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: advisor
+      label: advisor
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 8
+      name: problematic_area
+      label: problematic_area
+      hint: null
+      type: select_multiple
+      options:
+      - health
+      - fitness
+      - physical
+      required: true
+    - id: 9
+      name: details
+      label: details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: submit
+      label: submit
+      hint: null
+      type: select_one
+      options:
+      - submit
+      - cancel
+      required: true

@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Free Local Assistance Request Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: request_type
+      label: Request Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Assistance with Food'', ''value'': ''assistance_with_food''}'
+      - '{''id'': 2, ''label'': ''Emergency Assistance'', ''value'': ''emergency_assistance''}'
+      required: false
+    - id: 3
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Phone'', ''value'': ''phone''}'
+      - '{''id'': 2, ''label'': ''Email'', ''value'': ''email''}'
+      - '{''id'': 3, ''label'': ''In Person'', ''value'': ''in_person''}'
+      required: false
+    - id: 4
+      name: request_details
+      label: Request Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Cash'', ''value'': ''cash''}'
+      - '{''id'': 2, ''label'': ''Credit'', ''value'': ''credit''}'
+      - '{''id'': 3, ''label'': ''Other'', ''value'': ''other''}'
+      required: false
+    - id: 6
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: request_status
+      label: Request Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Open'', ''value'': ''open''}'
+      - '{''id'': 2, ''label'': ''Closed'', ''value'': ''closed''}'
+      required: false

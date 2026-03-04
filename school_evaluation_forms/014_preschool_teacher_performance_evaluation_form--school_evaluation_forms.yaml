@@ -1,0 +1,126 @@
+inputSchema:
+  type: object
+  properties:
+    title: Preschool Teacher Performance Evaluation Form
+    pages:
+    - id: 1
+      name: teacher_name
+      label: Teacher Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: evaluation_date
+      label: Evaluation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: evaluation_time
+      label: Evaluation Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: teacher_id
+      label: Teacher ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: school_administrator
+      label: School Administrator
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: feedback_from
+      label: Feedback From
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: evaluation_area_1
+      label: Evaluation Area 1
+      hint: null
+      type: select_one
+      options:
+      - Lesson Planning and Preparation
+      - Classroom Environment
+      - Lesson Delivery
+      - Assessment and Feedback
+      - Childcare
+      - Communication
+      - Teamwork and Team Collaboration
+      - Parent-Teacher Relationship
+      required: false
+    - id: 8
+      name: evaluation_area_2
+      label: Evaluation Area 2
+      hint: null
+      type: select_multiple
+      options:
+      - Classroom Management
+      - Classroom Organisation
+      - Safety and Supervision
+      - Supervising Children
+      - Classroom Decor
+      required: false
+    - id: 9
+      name: evaluation_area_3
+      label: Evaluation Area 3
+      hint: null
+      type: select_multiple
+      options:
+      - Lesson Planning and Preparation
+      - Assessment and Feedback
+      - Classroom Environment
+      - Childcare
+      - Communication
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: overall_performance
+      label: Overall Performance
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 12
+      name: evaluation_date_2
+      label: Evaluation Date 2
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: evaluation_time_2
+      label: Evaluation Time 2
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: teacher_name_2
+      label: Teacher Name 2
+      hint: null
+      type: text
+      options: []
+      required: false

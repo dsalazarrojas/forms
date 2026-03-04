@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: free-art-book-download-request
+    pages:
+    - id: 1
+      name: form_1_name
+      label: form1name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: form_1_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: form_1_consent
+      label: consent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: form_1_message
+      label: message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: form_1_artbook_title
+      label: artbook title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: form_1_artbook_author
+      label: artbook author
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: form_1_artbook_cover_image
+      label: artbook cover image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: form_1_artbook_pub_date
+      label: artbook pub date
+      hint: null
+      type: date
+      options: []
+      required: true

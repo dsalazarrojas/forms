@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: <string>
+    pages:
+    - id: 1
+      name: snake_case_string
+      label: <text without colons>
+      hint: <text or null>
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: software_developer_role
+      label: Software Developer Role
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''<text>'', ''value'': ''<text>''}'
+      - Other
+      required: false
+    - id: 3
+      name: how
+      label: <text>
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: applications
+      label: <text>
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Home Automation'', ''value'': ''<text>''}'
+      - '{''id'': 2, ''label'': ''Health Monitoring'', ''value'': ''<text>''}'
+      - '{''id'': 3, ''label'': ''Energy Management'', ''value'': ''<text>''}'
+      - '{''id'': 4, ''label'': ''Other'', ''value'': ''<text>''}'
+      required: false
+    - id: 5
+      name: devices
+      label: <text>
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: location
+      label: <text>
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_info
+      label: <text>
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_info
+      label: <text>
+      hint: null
+      type: email
+      options: []
+      required: false

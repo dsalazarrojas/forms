@@ -1,0 +1,386 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cleaning Service Request Form Template
+    pages:
+    - id: 1
+      name: section_header_client
+      label: -- Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: Contact email address
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: alternate_phone
+      label: Alternate Phone Number
+      hint: Secondary contact number
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: section_header_location
+      label: -- Service Location --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: service_address
+      label: Service Address
+      hint: Full street address
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: city
+      label: City
+      hint: City or town
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: state
+      label: State or Province
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: zip_code
+      label: ZIP or Postal Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: property_type
+      label: Property Type
+      hint: Type of property
+      type: select_one
+      options:
+      - Residential - House
+      - Residential - Apartment
+      - Residential - Condo
+      - Residential - Townhouse
+      - Commercial - Office
+      - Commercial - Retail
+      - Commercial - Restaurant
+      - Commercial - Medical
+      - Other
+      required: true
+    - id: 13
+      name: section_header_service
+      label: -- Service Request Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: cleaning_service_type
+      label: Type of Cleaning Service
+      hint: What type of cleaning do you need
+      type: select_one
+      options:
+      - Regular Cleaning
+      - Deep Cleaning
+      - Move-In or Move-Out Cleaning
+      - Post-Construction Cleaning
+      - Spring Cleaning
+      - One-Time Cleaning
+      - Recurring Cleaning
+      - Office Cleaning
+      - Other
+      required: true
+    - id: 15
+      name: urgency
+      label: Urgency Level
+      hint: How soon do you need service
+      type: select_one
+      options:
+      - As Soon as Possible
+      - Within 3 Days
+      - Within 1 Week
+      - Within 2 Weeks
+      - Flexible Timing
+      - Planning Ahead
+      required: true
+    - id: 16
+      name: preferred_date
+      label: Preferred Service Date
+      hint: When would you like service
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: preferred_time
+      label: Preferred Time
+      hint: What time works best
+      type: select_one
+      options:
+      - Morning (8am - 12pm)
+      - Afternoon (12pm - 4pm)
+      - Evening (4pm - 8pm)
+      - Flexible
+      required: true
+    - id: 18
+      name: estimated_duration
+      label: How Long Do You Expect Cleaning to Take
+      hint: Your estimate
+      type: select_one
+      options:
+      - 1-2 Hours
+      - 2-3 Hours
+      - 3-4 Hours
+      - 4-6 Hours
+      - Full Day
+      - Not Sure
+      required: false
+    - id: 19
+      name: section_header_areas
+      label: -- Areas and Tasks --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: areas_to_clean
+      label: Areas That Need Cleaning
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Living Room
+      - Dining Room
+      - Kitchen
+      - Bedrooms
+      - Bathrooms
+      - Hallways
+      - Stairs
+      - Basement
+      - Garage
+      - Office Spaces
+      - Common Areas
+      - Windows
+      - Other
+      required: true
+    - id: 21
+      name: additional_services_requested
+      label: Additional Services Requested
+      hint: Any extra services
+      type: select_multiple
+      options:
+      - Carpet Cleaning
+      - Window Cleaning
+      - Oven Cleaning
+      - Refrigerator Cleaning
+      - Cabinet Cleaning
+      - Baseboard Cleaning
+      - Wall Washing
+      - Light Fixtures
+      - Blinds Cleaning
+      - Upholstery Cleaning
+      - Floor Waxing
+      - Pressure Washing
+      - Laundry
+      - Dishes
+      - Organization
+      - None
+      required: true
+    - id: 22
+      name: special_focus_areas
+      label: Areas Requiring Special Attention
+      hint: Any areas needing extra focus
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: section_header_household
+      label: -- Household or Business Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: pets_on_site
+      label: Do You Have Pets
+      hint: Any pets on the property
+      type: select_one
+      options:
+      - No Pets
+      - Yes - Dogs
+      - Yes - Cats
+      - Yes - Other
+      - Yes - Multiple Types
+      required: true
+    - id: 25
+      name: pet_instructions
+      label: Pet Instructions
+      hint: Any special instructions about pets
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: allergies_or_sensitivities
+      label: Allergies or Chemical Sensitivities
+      hint: Any allergies we should know about
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: cleaning_products_preference
+      label: Cleaning Products Preference
+      hint: What type of products should we use
+      type: select_one
+      options:
+      - Standard Products
+      - Eco-Friendly or Green
+      - Hypoallergenic
+      - Client Provides Products
+      - No Preference
+      required: true
+    - id: 28
+      name: section_header_access
+      label: -- Property Access --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 29
+      name: access_instructions
+      label: Access Instructions
+      hint: How will our team access the property
+      type: text
+      options: []
+      required: true
+    - id: 30
+      name: parking_instructions
+      label: Parking Instructions
+      hint: Where should our team park
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: someone_will_be_present
+      label: Will Someone Be Present During Cleaning
+      hint: Will you or someone be there
+      type: select_one
+      options:
+      - Yes - I Will Be There
+      - Yes - Someone Else Will Be There
+      - No - Property Will Be Empty
+      - Unsure
+      required: true
+    - id: 32
+      name: section_header_payment
+      label: -- Payment and Billing --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 33
+      name: payment_method_preference
+      label: Preferred Payment Method
+      hint: How would you like to pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Bank Transfer
+      - Check
+      - Cash
+      - Invoice
+      required: true
+    - id: 34
+      name: billing_address
+      label: Billing Address
+      hint: If different from service address
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: section_header_additional
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 36
+      name: special_requests
+      label: Special Requests or Notes
+      hint: Anything else we should know
+      type: text
+      options: []
+      required: false
+    - id: 37
+      name: how_did_you_hear
+      label: How Did You Hear About Us
+      hint: How did you find our services
+      type: select_one
+      options:
+      - Website
+      - Social Media
+      - Friend or Family Referral
+      - Online Search
+      - Advertisement
+      - Other
+      required: false
+    - id: 38
+      name: previous_customer
+      label: Are You a Previous Customer
+      hint: Have you used our services before
+      type: select_one
+      options:
+      - Yes - Regular Customer
+      - Yes - One-Time Customer
+      - No - First Time
+      required: true
+    - id: 39
+      name: terms_acceptance
+      label: Terms and Conditions Acceptance
+      hint: Do you agree to our terms of service
+      type: select_one
+      options:
+      - Yes - I Accept
+      - No - I Do Not Accept
+      required: true
+    - id: 40
+      name: client_signature
+      label: Client Signature (Type Full Name)
+      hint: Your electronic signature
+      type: text
+      options: []
+      required: true
+    - id: 41
+      name: request_date
+      label: Request Date
+      hint: Date of this request
+      type: date
+      options: []
+      required: true

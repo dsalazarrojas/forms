@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: Massage Booking Form
+    pages:
+    - id: 1
+      name: massage_booking_form
+      label: Massage Booking Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Spa
+      - Other
+      - Health
+      - Wellness
+      - Fitness
+      required: true
+    - id: 3
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Client Email
+      hint: 'Format: name@domain.com'
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Client Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: schedule
+      label: Schedule
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time
+      label: Time
+      hint: 'Format: 24-hour time in MM:MM format'
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: therapist
+      label: Therapist
+      hint: null
+      type: select_multiple
+      options:
+      - John
+      - Jane
+      - Bob
+      - Alice
+      required: true
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: massage_type
+      label: Massage Type
+      hint: null
+      type: select_multiple
+      options:
+      - Swedish
+      - Deep Tissue
+      - Hot Stone
+      - Aromatherapy
+      - Reflexology
+      required: true
+    - id: 11
+      name: massage_duration
+      label: Massage Duration
+      hint: 'Format: HH:MM'
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: price
+      label: Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: total_price
+      label: Total Price
+      hint: $$
+      type: number
+      options: []
+      required: false

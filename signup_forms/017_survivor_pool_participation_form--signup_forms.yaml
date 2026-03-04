@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Survivor Pool Participation Form
+    pages:
+    - id: 1
+      name: participant_info
+      label: Participant Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: weekly_picks
+      label: Weekly Picks
+      hint: null
+      type: select_one
+      options:
+      - Pick 1
+      - Pick 2
+      - Pick 3
+      - Pick 4
+      - Pick 5
+      - Pick 6
+      - Pick 7
+      - Pick 8
+      - Pick 9
+      - Pick 10
+      - Pick 11
+      - Pick 12
+      - Pick 13
+      - Pick 14
+      - Pick 15
+      - Pick 16
+      - Pick 17
+      - Pick 18
+      - Pick 19
+      - Pick 20
+      - Pick 21
+      - Pick 22
+      - Pick 23
+      - Pick 24
+      - Pick 25
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: confirm_email
+      label: Confirm Email
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 6
+      name: confirm_phone
+      label: Confirm Phone
+      hint: null
+      type: note
+      options: []
+      required: true

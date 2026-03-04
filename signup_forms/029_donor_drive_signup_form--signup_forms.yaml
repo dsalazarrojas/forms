@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: Donor Drive Signup Form
+    pages:
+    - id: 1
+      name: donor_drive_signup_form_1
+      label: First Name
+      hint: First name of the user
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: donor_type
+      label: Donor Type
+      hint: null
+      type: select_one
+      options:
+      - Individual Donor
+      - Family Donor
+      - Corporate Donor
+      - Other
+      required: true
+    - id: 8
+      name: donation_frequency
+      label: Donation Frequency
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Yearly
+      required: true
+    - id: 9
+      name: outreach_preferred
+      label: Outreach
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Phone
+      - Mail
+      required: true
+    - id: 10
+      name: campaign_id
+      label: Campaign
+      hint: null
+      type: select_one
+      options:
+      - Campaign 1
+      - Campaign 2
+      - Campaign 3
+      required: true
+    - id: 11
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: confirm
+      label: Confirm
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 13
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false

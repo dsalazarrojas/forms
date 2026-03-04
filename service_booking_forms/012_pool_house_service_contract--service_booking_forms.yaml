@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pool House Service Contract
+    pages:
+    - id: 1
+      name: service_contract
+      label: Service Contract
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: service_provider
+      label: Service Provider
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: address
+      label: Address
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: service_frequency
+      label: Service Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: service_cost
+      label: Service Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: service_start_date
+      label: Service Start Date
+      hint: null
+      type: date
+      options: []
+      required: false

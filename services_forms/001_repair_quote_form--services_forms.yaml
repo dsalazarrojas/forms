@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Repair Quote Form
+    pages:
+    - id: 1
+      name: repair_quote_form
+      label: What do you need repaired
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: cost
+      label: Cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: customer_address
+      label: Customer Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: work_agreed
+      label: Work Agreed
+      hint: null
+      type: select_one
+      options:
+      - Agreed
+      - Not Agreed
+      required: true
+    - id: 11
+      name: work_description
+      label: Work Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: work_price
+      label: Work Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: work_notes
+      label: Work Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: customer_signature
+      label: Customer Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: technician_signature
+      label: Technician Signature
+      hint: null
+      type: text
+      options: []
+      required: true

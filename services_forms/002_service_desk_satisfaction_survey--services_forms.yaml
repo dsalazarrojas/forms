@@ -1,0 +1,171 @@
+inputSchema:
+  type: object
+  properties:
+    title: Service Desk Satisfaction Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: rating
+      label: rate_the_service
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: feedback
+      label: provide_feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: resolution_time
+      label: resolution_time
+      hint: How long did it take for the issue to be resolved?
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: resolution_time_scale
+      label: resolution_time_scale
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Less than 1 hour''}'
+      - '{''id'': 2, ''label'': ''1-2 hours''}'
+      - '{''id'': 3, ''label'': ''2-4 hours''}'
+      - '{''id'': 4, ''label'': ''4-8 hours''}'
+      - '{''id'': 5, ''label'': ''More than 4 hours''}'
+      required: false
+    - id: 6
+      name: resolution_time_scale_other
+      label: resolution_time_scale_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: communication
+      label: communication
+      hint: How would you describe the communication with the support staff?
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Very clear''}'
+      - '{''id'': 2, ''label'': ''Clear''}'
+      - '{''id'': 3, ''label'': ''Somewhat clear''}'
+      - '{''id'': 4, ''label'': ''Not very clear''}'
+      - '{''id'': 5, ''label'': ''Not at all clear''}'
+      required: false
+    - id: 8
+      name: communication_scale
+      label: communication_scale
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: helpfulness
+      label: helpfulness
+      hint: How would you rate the helpfulness of the support staff?
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Very helpful''}'
+      - '{''id'': 2, ''label'': ''Helpful''}'
+      - '{''id'': 3, ''label'': ''Somewhat helpful''}'
+      - '{''id'': 4, ''label'': ''Not very helpful''}'
+      - '{''id'': 5, ''label'': ''Not at all helpful''}'
+      required: false
+    - id: 10
+      name: helpfulness_scale
+      label: helpfulness_scale
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: overall_satisfaction
+      label: overall_satisfaction
+      hint: How satisfied are you with the service?
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Very satisfied''}'
+      - '{''id'': 2, ''label'': ''Satisfied''}'
+      - '{''id'': 3, ''label'': ''Neutral''}'
+      - '{''id'': 4, ''label'': ''Dissatisfied''}'
+      - '{''id'': 5, ''label'': ''Very dissatisfied''}'
+      required: false
+    - id: 12
+      name: additional_comments
+      label: additional_comments
+      hint: Is there anything else you'd like to add about your experience?
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: contact
+      label: contact
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: department
+      label: department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: team
+      label: team
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Support team''}'
+      - '{''id'': 2, ''label'': ''Team members''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: false
+    - id: 20
+      name: manager
+      label: manager
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Was a manager involved in the case?''}'
+      - '{''id'': 2, ''label'': False}'
+      - '{''id'': 3, ''label'': True}'
+      required: false

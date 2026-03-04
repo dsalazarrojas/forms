@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Software Development Assessment
+    pages:
+    - id: 1
+      name: software_development_assessment_form
+      label: Software Development Assessment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: assessment_description
+      label: Assessment Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: software_description
+      label: Software Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: software_development_assessment_date
+      label: Software Development Assessment Date
+      hint: YYYY-MM-DD
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: software_development_assessment_time
+      label: Software Development Assessment Time
+      hint: "HH:MM"
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: software_version
+      label: Software Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: software_development_assessment_status
+      label: Software Development Assessment Status
+      hint: null
+      type: select_one
+      options:
+      - Published
+      - Under Development
+      - Retired
+      required: false
+    - id: 8
+      name: software_development_assessment_notes
+      label: Software Development Assessment Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: software_development_assessment_email
+      label: Software Development Assessment Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: software_development_assessment_phone
+      label: Software Development Assessment Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false

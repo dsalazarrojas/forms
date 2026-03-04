@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Player Sign Up Form
+    pages:
+    - id: 1
+      name: player_first_name
+      label: Player First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: player_last_name
+      label: Player Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: player_phone
+      label: Player Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: player_address
+      label: Player Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: team
+      label: Team
+      hint: null
+      type: select_multiple
+      options:
+      - Team A
+      - Team B
+      - Team C
+      required: true
+    - id: 7
+      name: player_position
+      label: Player Position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: player_number
+      label: Player Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: player_dob
+      label: Player Dob
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: player_dob_label
+      label: Player Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: player_dob_time
+      label: Player Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: player_height
+      label: Player Height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: player_weight
+      label: Player Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: player_shoe_size
+      label: Player Shoe Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: player_shoe_size_unit
+      label: Player Shoe Size Unit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: player_citizenship
+      label: Player Citizenship
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: player_english_proficiency
+      label: Player English Proficiency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: player_english_proficiency_label
+      label: Player English Proficiency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: player_language
+      label: Player Language
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: player_language_label
+      label: Player Language
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: player_country
+      label: Player Country
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 22
+      name: player_city
+      label: Player City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: player_state
+      label: Player State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: player_zip
+      label: Player Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: player_notes
+      label: Player Notes
+      hint: null
+      type: note
+      options: []
+      required: false

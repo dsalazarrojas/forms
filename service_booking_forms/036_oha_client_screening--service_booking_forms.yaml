@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: oha_client_screening
+    pages:
+    - id: 1
+      name: client_screening
+      label: client_screening
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: appointment
+      label: appointment
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: client_phone_number
+      label: client_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: oha_staff_member
+      label: oha_staff_member
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: oha_date
+      label: oha_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: oha_time
+      label: oha_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: oha_service
+      label: oha_service
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: oha_client_note
+      label: oha_client_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: oha_client_email
+      label: oha_client_email
+      hint: null
+      type: email
+      options: []
+      required: false

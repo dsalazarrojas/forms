@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Science Lab Project Consent Waiver Form
+    pages:
+    - id: 1
+      name: parent_consent
+      label: Parent Consent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: Student Name
+      hint: Enter student's name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: student_email
+      label: Student Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: student_phone
+      label: Student Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: parent_email
+      label: Parent Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: student_address
+      label: Student Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: parent_concerns
+      label: Parent Concerns
+      hint: If you have any concerns, please describe them here
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: waiver
+      label: Waiver
+      hint: null
+      type: select_one
+      options:
+      - I, the parent/guardian, hereby grant permission for my child to participate
+        in this science project.
+      - I, the parent/guardian, do not grant permission for my child to participate
+        in this science project.
+      - Other (please specify)
+      required: false

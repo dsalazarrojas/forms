@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Restaurant Order Pad
+    pages:
+    - id: 1
+      name: customer_order
+      label: Customer Order
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_email
+      label: E-mail
+      hint: Enter customer email
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: customer_name
+      label: Customer Name
+      hint: Enter customer name
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: customer_phone
+      label: Phone
+      hint: Enter customer phone
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: order_type
+      label: Order Type
+      hint: null
+      type: select_one
+      options:
+      - Burger
+      - Pizza
+      - Salad
+      required: false
+    - id: 6
+      name: order_item
+      label: Order Item
+      hint: null
+      type: select_multiple
+      options:
+      - Chicken Sandwich
+      - French Fries
+      - Coke
+      required: false
+    - id: 7
+      name: order_time
+      label: Order Time
+      hint: Enter order time
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: order_date
+      label: Order Date
+      hint: Enter order date
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: order_note
+      label: Order Note
+      hint: Add any notes about the order
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: waiter_name
+      label: Waiter Name
+      hint: Enter waiters name
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: total_amount
+      label: Total Amount
+      hint: Enter total amount
+      type: number
+      options: []
+      required: false

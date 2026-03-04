@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hair Texture Styling Comfort Survey
+    pages:
+    - id: 1
+      name: hair_texture_styling_comfort
+      label: Hair Texture Styling Comfort
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: hair_length
+      label: Hair Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: hair_width
+      label: Hair Width
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: texture_preferred
+      label: Texture Preferred
+      hint: null
+      type: select_one
+      options:
+      - fine
+      - medium
+      - coarse
+      - very coarse
+      - extremely coarse
+      required: false
+    - id: 5
+      name: styling_frequency
+      label: Styling Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: styling_time
+      label: Styling Time
+      hint: null
+      type: select_one
+      options:
+      - 30 seconds
+      - 1-2 minutes
+      - 5-10 minutes
+      - more than 10 minutes
+      required: false
+    - id: 7
+      name: styling_habits
+      label: Styling Habits
+      hint: null
+      type: select_multiple
+      options:
+      - regular
+      - occasional
+      - rare
+      required: false
+    - id: 8
+      name: comfort_level
+      label: Comfort Level
+      hint: null
+      type: select_one
+      options:
+      - very comfortable
+      - somewhat comfortable
+      - somewhat uncomfortable
+      - very uncomfortable
+      required: false
+    - id: 9
+      name: recommended_products
+      label: Recommended Products
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: recommended_services
+      label: Recommended Services
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: Shift Handoff Preferences Survey
+    pages:
+    - id: 1
+      name: shift_id
+      label: Shift
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''None''}'
+      - '{''id'': 2, ''name'': ''Primary''}'
+      - '{''id'': 3, ''name'': ''Secondary''}'
+      - '{''id'': 4, ''name'': ''Other''}'
+      required: false
+    - id: 2
+      name: handoff_method
+      label: Handoff Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Voice''}'
+      - '{''id'': 2, ''name'': ''Video''}'
+      - '{''id'': 3, ''name'': ''Text''}'
+      - '{''id'': 4, ''name'': ''Email''}'
+      required: false
+    - id: 3
+      name: shift_length
+      label: Shift Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: team_name
+      label: Team Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: communication_frequency
+      label: How Often
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Daily''}'
+      - '{''id'': 2, ''name'': ''Weekly''}'
+      - '{''id'': 3, ''name'': ''Bi-Weekly''}'
+      - '{''id'': 4, ''name'': ''Monthly''}'
+      required: false
+    - id: 6
+      name: improvement_priorities
+      label: Improvement Priorities
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Prophets''}'
+      - '{''id'': 2, ''name'': ''Shift Leader''}'
+      - '{''id'': 3, ''name'': ''Team Manager''}'
+      - '{''id'': 4, ''name'': ''Team Lead''}'
+      - '{''id'': 5, ''name'': ''Other''}'
+      required: false
+    - id: 7
+      name: feedback_frequency
+      label: Feedback Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Daily''}'
+      - '{''id'': 2, ''name'': ''Weekly''}'
+      - '{''id'': 3, ''name'': ''Bi-Weekly''}'
+      - '{''id'': 4, ''name'': ''Monthly''}'
+      required: false
+    - id: 8
+      name: feedback_type
+      label: Feedback Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Verbal''}'
+      - '{''id'': 2, ''name'': ''Written''}'
+      - '{''id'': 3, ''name'': ''Email''}'
+      - '{''id'': 4, ''name'': ''Other''}'
+      required: false
+    - id: 9
+      name: communication_type
+      label: Communication Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Phone''}'
+      - '{''id'': 2, ''name'': ''Email''}'
+      required: false
+    - id: 10
+      name: improvement_areas
+      label: Improvement Areas
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Prophets''}'
+      - '{''id'': 2, ''name'': ''Shift Leader''}'
+      - '{''id'': 3, ''name'': ''Team Manager''}'
+      - '{''id'': 4, ''name'': ''Team Lead''}'
+      - '{''id'': 5, ''name'': ''Other''}'
+      required: false
+    - id: 11
+      name: submission_status
+      label: Submission Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Approved''}'
+      - '{''id'': 2, ''name'': ''In Review''}'
+      - '{''id'': 3, ''name'': ''Rejected''}'
+      - '{''id'': 4, ''name'': ''In Progress''}'
+      required: false

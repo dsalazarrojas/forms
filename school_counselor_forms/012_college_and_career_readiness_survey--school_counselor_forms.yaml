@@ -1,0 +1,217 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: College And Career Readiness Survey
+    pages:
+      - id: 1
+        name: student_name
+        label: Student Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: student_id
+        label: Student ID
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: grade_level
+        label: Current Grade Level
+        hint: null
+        type: select_one
+        options:
+          - "9th Grade"
+          - "10th Grade"
+          - "11th Grade"
+          - "12th Grade"
+        required: true
+      - id: 4
+        name: academic_readiness
+        label: How prepared do you feel academically for college
+        hint: null
+        type: select_one
+        options:
+          - Very Prepared
+          - Prepared
+          - Somewhat Prepared
+          - Not Prepared
+        required: true
+      - id: 5
+        name: test_prep
+        label: Have you taken SAT or ACT prep courses
+        hint: null
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+          - Plan to
+        required: true
+      - id: 6
+        name: college_goals
+        label: Do you plan to attend college
+        hint: null
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+          - Unsure
+        required: true
+      - id: 7
+        name: college_timeline
+        label: When do you plan to attend college
+        hint: null
+        type: select_one
+        options:
+          - Immediately after high school
+          - 1-2 years after high school
+          - 3+ years after high school
+          - Not planning
+        required: true
+      - id: 8
+        name: college_preferences
+        label: Type of college or university preferred
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Public University
+          - Private University
+          - Community College
+          - Liberal Arts College
+          - Technical School
+          - Online Program
+        required: true
+      - id: 9
+        name: major_interest
+        label: Potential areas of study or majors
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 10
+        name: college_knowledge
+        label: How informed are you about college requirements and application process
+        hint: null
+        type: select_one
+        options:
+          - Very Informed
+          - Informed
+          - Somewhat Informed
+          - Not Informed
+        required: true
+      - id: 11
+        name: financial_aid_understanding
+        label: Understanding of financial aid and scholarships
+        hint: null
+        type: select_one
+        options:
+          - Very Knowledgeable
+          - Knowledgeable
+          - Somewhat Knowledgeable
+          - Not Knowledgeable
+        required: true
+      - id: 12
+        name: career_interests
+        label: Career field interests
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Science and Technology
+          - Healthcare
+          - Business
+          - Creative Arts
+          - Education
+          - Trades and Skilled Crafts
+          - Other
+        required: true
+      - id: 13
+        name: career_readiness
+        label: How prepared are you for career decisions
+        hint: null
+        type: select_one
+        options:
+          - Very Prepared
+          - Prepared
+          - Somewhat Prepared
+          - Not Prepared
+        required: true
+      - id: 14
+        name: work_experience
+        label: Do you have work or internship experience
+        hint: null
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+        required: true
+      - id: 15
+        name: work_description
+        label: Describe your work or internship experience
+        hint: Optional
+        type: text
+        options: []
+        required: false
+      - id: 16
+        name: soft_skills_confidence
+        label: Confidence in soft skills (communication, teamwork, problem-solving)
+        hint: null
+        type: select_one
+        options:
+          - Very Confident
+          - Confident
+          - Somewhat Confident
+          - Not Confident
+        required: true
+      - id: 17
+        name: social_emotional
+        label: How would you rate your social-emotional readiness
+        hint: null
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Fair
+          - Needs Improvement
+        required: true
+      - id: 18
+        name: support_needs
+        label: Areas where you need support or guidance
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - College preparation
+          - Career planning
+          - Academics
+          - Financial planning
+          - Social skills
+          - Mental health
+        required: false
+      - id: 19
+        name: counselor_meetings
+        label: Have you met with a school counselor about college-career plans
+        hint: null
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+        required: true
+      - id: 20
+        name: future_goals
+        label: What are your top 3 priorities for the next 2 years
+        hint: null
+        type: text
+        options: []
+        required: true

@@ -1,0 +1,222 @@
+inputSchema:
+  type: object
+  properties:
+    title: tech_product_release_lead_generation_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: job_function
+      label: Job Function
+      hint: null
+      type: select_one
+      options:
+      - Software Engineer
+      - Data Scientist
+      - Product Manager
+      required: false
+    - id: 6
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: job_level
+      label: Job Level
+      hint: null
+      type: select_multiple
+      options:
+      - Entry Level
+      - Mid Level
+      - Senior
+      required: false
+    - id: 8
+      name: company_size
+      label: Company Size
+      hint: null
+      type: select_multiple
+      options:
+      - 1-10
+      - 11-50
+      - 51-100
+      - 101-500
+      - 501-1000
+      - 1001+
+      required: false
+    - id: 9
+      name: industry
+      label: Industry
+      hint: null
+      type: select_one
+      options:
+      - Tech
+      - Finance
+      - Marketing
+      required: false
+    - id: 10
+      name: job_type
+      label: Job Type
+      hint: null
+      type: select_one
+      options:
+      - Full-time
+      - Part-time
+      - Contract
+      required: false
+    - id: 11
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Phone
+      required: false
+    - id: 12
+      name: job_status
+      label: Job Status
+      hint: null
+      type: select_multiple
+      options:
+      - Open
+      - Closed
+      required: false
+    - id: 13
+      name: job_posting_id
+      label: Job Posting ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: job_opened
+      label: Job Opened
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: job_closing
+      label: Job Closing
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: lead_source
+      label: Lead Source
+      hint: null
+      type: select_one
+      options:
+      - Social Media
+      - Referral
+      - Website
+      - Email
+      - Other
+      required: true
+    - id: 17
+      name: company_website
+      label: Company Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: linkedin
+      label: LinkedIn
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 19
+      name: github
+      label: GitHub
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 20
+      name: twitter
+      label: Twitter
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 21
+      name: company_size_2
+      label: Company Size 2
+      hint: null
+      type: select_one
+      options:
+      - 1-10
+      - 11-50
+      - 51-100
+      - 101-500
+      - 501-1000
+      - 1001+
+      required: false
+    - id: 22
+      name: job_posting_id_2
+      label: Job Posting ID 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: lead_status
+      label: Lead Status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - Closed
+      - Qualified
+      required: true
+    - id: 24
+      name: source
+      label: Source
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: follow_up
+      label: Follow up
+      hint: null
+      type: note
+      options: []
+      required: false

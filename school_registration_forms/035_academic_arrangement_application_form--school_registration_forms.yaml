@@ -1,0 +1,179 @@
+inputSchema:
+  type: object
+  properties:
+    title: Academic Arrangement Application Form
+    pages:
+    - id: 1
+      name: section_header_personal_info
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_name
+      label: Full legal name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: applicant_email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: applicant_phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: nationality
+      label: Nationality
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: home_address
+      label: Home address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: section_header_academic_background
+      label: -- Academic Background --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: current_institution
+      label: Current university or college
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: current_program
+      label: Current program of study
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: current_year_of_study
+      label: Current year of study
+      hint: null
+      type: select_one
+      options:
+      - 1st year
+      - 2nd year
+      - 3rd year
+      - 4th year
+      - Postgraduate
+      required: true
+    - id: 12
+      name: current_gpa
+      label: Current GPA or academic standing
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: section_header_arrangement_details
+      label: -- Arrangement Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: host_institution
+      label: Name of host institution you are applying to
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: arrangement_type
+      label: Type of academic arrangement
+      hint: null
+      type: select_one
+      options:
+      - Exchange program
+      - Study abroad
+      - Visiting student
+      - Joint degree program
+      - Summer school
+      - Other
+      required: true
+    - id: 16
+      name: proposed_start_date
+      label: Proposed start date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: proposed_end_date
+      label: Proposed end date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: courses_planned
+      label: List of courses you plan to take at the host institution
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: reason_for_application
+      label: Reason for applying for this academic arrangement
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: financial_support
+      label: How will you finance this arrangement
+      hint: null
+      type: select_one
+      options:
+      - Scholarship
+      - Self-funded
+      - Institutional funding
+      - Combination of sources
+      - Other
+      required: true
+    - id: 21
+      name: language_proficiency
+      label: Language proficiency for instruction at the host institution
+      hint: null
+      type: select_one
+      options:
+      - Native speaker
+      - Advanced
+      - Intermediate
+      - Basic
+      required: true
+    - id: 22
+      name: additional_info
+      label: Additional information or supporting details
+      hint: null
+      type: text
+      options: []
+      required: false

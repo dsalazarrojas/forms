@@ -1,0 +1,148 @@
+inputSchema:
+  type: object
+  properties:
+    title: Credit Services Intake Form
+    pages:
+    - id: 1
+      name: application_type
+      label: application_type
+      hint: null
+      type: select_one
+      options:
+      - Application for Loan
+      - Credit Card
+      - Other
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: None
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: address
+      label: address
+      hint: None
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: phone_number
+      hint: None
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: email
+      hint: None
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: income_range
+      label: income_range
+      hint: None
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: employment_status
+      label: employment_status
+      hint: null
+      type: select_one
+      options:
+      - Employed
+      - Unemployed
+      - Self-Employed
+      - Retired
+      required: false
+    - id: 8
+      name: employment_length
+      label: employment_length
+      hint: None
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: employment_type
+      label: employment_type
+      hint: null
+      type: select_multiple
+      options:
+      - Full-time
+      - Part-time
+      - Freelance
+      - Internship
+      required: false
+    - id: 10
+      name: investment_type
+      label: investment_type
+      hint: null
+      type: select_one
+      options:
+      - Personal
+      - Business
+      required: false
+    - id: 11
+      name: loan_type
+      label: loan_type
+      hint: null
+      type: select_multiple
+      options:
+      - Loan
+      - Credit Card
+      required: false
+    - id: 12
+      name: collateral_type
+      label: collateral_type
+      hint: null
+      type: select_one
+      options:
+      - Real Estate
+      - Vehicle
+      - Other
+      required: false
+    - id: 13
+      name: credit_score
+      label: credit_score
+      hint: None
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: credit_history
+      label: credit_history
+      hint: None
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: employment_verification
+      label: employment_verification
+      hint: null
+      type: select_one
+      options:
+      - 'False'
+      - 'True'
+      required: false
+    - id: 16
+      name: income_verification
+      label: income_verification
+      hint: null
+      type: select_one
+      options:
+      - 'False'
+      - 'True'
+      required: false
+    - id: 17
+      name: address_verification
+      label: address_verification
+      hint: null
+      type: select_one
+      options:
+      - 'False'
+      - 'True'
+      required: false

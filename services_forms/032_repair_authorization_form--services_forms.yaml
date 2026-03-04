@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Repair Authorization Form
+    pages:
+    - id: 1
+      name: customer_info
+      label: Customer Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: equipment_id
+      label: Equipment ID
+      hint: Enter the equipment ID number
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: equipment_model
+      label: Equipment Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: issue_description
+      label: Issue Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: repair_method
+      label: Repair Method
+      hint: null
+      type: select_one
+      options:
+      - Phone Call
+      - On-site Repair
+      - Email
+      - Mail
+      - Visit us
+      required: false
+    - id: 7
+      name: estimated_delivery_date
+      label: Estimated Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: assigned_technician
+      label: Assigned Technician
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false
+    - id: 9
+      name: repair_status
+      label: Repair Status
+      hint: null
+      type: select_multiple
+      options:
+      - Open
+      - In Progress
+      required: false

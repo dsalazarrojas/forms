@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Clothing Application Form
+    pages:
+    - id: 1
+      name: school_clothing_application_form
+      label: school_clothing_application_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: student_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: student_id
+      label: student_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: parent_name
+      label: parent_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: parent_address
+      label: parent_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: parent_email
+      label: parent_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: parent_phone
+      label: parent_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: student_dob
+      label: student_dob
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: student_grade_level
+      label: student_grade_level
+      hint: null
+      type: select_one
+      options:
+      - K-5
+      - 6-8
+      - 9-12
+      required: false
+    - id: 10
+      name: student_clothing_needs
+      label: student_clothing_needs
+      hint: null
+      type: select_multiple
+      options:
+      - Shoes
+      - Socks
+      - Pants
+      - Shirt
+      - Jacket
+      - Other
+      required: false
+    - id: 11
+      name: school_name
+      label: school_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: school_address
+      label: school_address
+      hint: null
+      type: text
+      options: []
+      required: false

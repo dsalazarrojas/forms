@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Teaching Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: section1
+      label: Which subjects are you teaching?
+      hint: null
+      type: select_multiple
+      options:
+      - Mathematics
+      - Science
+      - English
+      - Physical Education
+      - Arts
+      - Music
+      - Drama
+      - Physical Activity
+      required: false
+    - id: 3
+      name: section1_subjects
+      label: What subjects do you teach in section 1?
+      hint: null
+      type: select_multiple
+      options:
+      - Mathematics
+      - Science
+      - Physical Education
+      - Arts
+      - Music
+      - Drama
+      - Physical Activity
+      required: false
+    - id: 4
+      name: section2
+      label: What is your teaching role?
+      hint: null
+      type: select_one
+      options:
+      - Teacher
+      - Assistant Teacher
+      - Head of Department
+      - Principal/Head Teacher
+      - Other
+      required: false
+    - id: 5
+      name: section3
+      label: How would you rate your workload?
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 6
+      name: section3_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: section4
+      label: How would you rate your job satisfaction?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: section5
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

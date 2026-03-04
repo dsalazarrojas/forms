@@ -1,0 +1,47 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Tournament Entry Fee Satisfaction Survey
+    pages:
+    - id: 1
+      name: entry_fee_fairness
+      label: How do you feel about the entry fee fairness?
+      hint: null
+      type: select_one
+      options:
+      - Fair
+      - Not Fair
+      - Unfair
+      required: false
+    - id: 2
+      name: value_for_money
+      label: How do you feel about the value for money of this tournament?
+      hint: null
+      type: select_one
+      options:
+      - Good value
+      - Fair value
+      - Bad value
+      required: false
+    - id: 3
+      name: future_participation
+      label: How likely is it that you will participate in the future?
+      hint: null
+      type: select_one
+      options:
+      - Highly likely
+      - Somewhat likely
+      - Not likely
+      - Not at all likely
+      required: false

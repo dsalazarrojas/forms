@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: virtual_assistant_application_form
+    pages:
+    - id: 1
+      name: user_info
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: availability
+      label: Availability
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: preferred_hours
+      label: Preferred Hours
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: skills
+      label: Skills
+      hint: null
+      type: select_multiple
+      options:
+      - Customer Service
+      - Sales
+      - Marketing
+      - Social Media
+      - Digital Marketing
+      required: false
+    - id: 9
+      name: experience
+      label: Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: availability_date
+      label: Availability Date
+      hint: null
+      type: date
+      options: []
+      required: false

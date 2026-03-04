@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vehicle Deposit Form
+    pages:
+    - id: 1
+      name: vehicle_deposit_form
+      label: vehicle_deposit_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vehicle_make
+      label: vehicle_make
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: deposit_amount
+      label: deposit_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: contact_person
+      label: contact_person
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Security Service Evaluation Form
+    pages:
+    - id: 1
+      name: security_service_evaluation_form_section_1
+      label: security_service_evaluation_form_section_1_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: customer_rating
+      label: customer_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: customer_feedback
+      label: customer_feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: security_service_rating
+      label: security_service_rating
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Excellent''}'
+      - '{''value'': ''Good''}'
+      - '{''value'': ''Fair''}'
+      - '{''value'': ''Poor''}'
+      required: false
+    - id: 6
+      name: customer_suggestion
+      label: customer_suggestion
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: security_service_complaints
+      label: security_service_complaints
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: security_service_recommendation
+      label: security_service_recommendation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''chatjimmy''}'
+      - '{''value'': ''other''}'
+      required: false
+    - id: 10
+      name: other_tool
+      label: other_tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: security_service_rating_date
+      label: security_service_rating_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: security_service_rating_time
+      label: security_service_rating_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: security_service_rating_note
+      label: security_service_rating_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false

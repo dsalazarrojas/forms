@@ -1,0 +1,138 @@
+inputSchema:
+  type: object
+  properties:
+    title: social-media-engagement-audit-form
+    pages:
+    - id: 1
+      name: form_header
+      label: Form Header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: social_media_accounts
+      label: Social Media Accounts
+      hint: null
+      type: select_multiple
+      options:
+      - Facebook
+      - Instagram
+      - LinkedIn
+      - Twitter
+      - YouTube
+      - Vimeo
+      - TikTok
+      - Reddit
+      - Snapchat
+      - Pinterest
+      - Twitch
+      - Discord
+      - Twitch
+      required: true
+    - id: 3
+      name: account_type
+      label: Account Type
+      hint: null
+      type: select_one
+      options:
+      - Personal
+      - Business
+      - Organization
+      required: true
+    - id: 4
+      name: account_url
+      label: Account URL
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: social_media_manager
+      label: Social Media Manager
+      hint: null
+      type: select_one
+      options:
+      - Self-Managed
+      - Agency-Managed
+      required: true
+    - id: 6
+      name: date_created
+      label: Date Created
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: last_checked
+      label: Last Checked
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: total_followers
+      label: Total Followers
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: account_age
+      label: Account Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: post_frequency
+      label: Post Frequency
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: engagement_rate
+      label: Engagement Rate
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: total_posts
+      label: Total Posts
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: total_engagements
+      label: Total Engagements
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: account_status
+      label: Account Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Suspended
+      required: true
+    - id: 15
+      name: account_notes
+      label: Account Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: form_footer
+      label: Form Footer
+      hint: null
+      type: note
+      options: []
+      required: false

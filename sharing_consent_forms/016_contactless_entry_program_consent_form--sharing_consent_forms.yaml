@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contactless Entry Program Consent Form
+    pages:
+    - id: 1
+      name: section_occupant_info
+      label: -- Participant Details --
+      hint: Please provide your information below.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Participant Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: building_unit
+      label: Building and Unit Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_program_consent
+      label: -- Program Consent and Understanding --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: program_understanding
+      label: I understand how the contactless entry program works
+      hint: See the attached user guide for details
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 8
+      name: data_sharing_consent
+      label: I consent to my data being shared for the purpose of keyless access
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 9
+      name: privacy_policy_agreement
+      label: I have read and agree to the privacy policy regarding my data
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 10
+      name: signature_confirmation
+      label: I confirm that the information provided is accurate
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Disagree
+      required: true
+    - id: 11
+      name: date_of_consent
+      label: Date of Consent
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: additional_comments
+      label: Any questions or comments?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: access_permission
+      label: I grant permission for keyless access to my building and unit
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

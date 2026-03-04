@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: distance_learning_survey
+    pages:
+    - id: 1
+      name: virtual_class_experience
+      label: Virtual Class Experience
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: teacher_support
+      label: teacher_support
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: teacher_response_time
+      label: teacher_response_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: comments_and_suggestions
+      label: comments_and_suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: technical_issues
+      label: technical_issues
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: ease_of_use
+      label: ease_of_use
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: overall_rating
+      label: overall_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: favorite_feature
+      label: favorite_feature
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: least_improvement
+      label: least_improvement
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: suggestions
+      label: suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: teacher_rating
+      label: teacher_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: course_materials
+      label: course_materials
+      hint: null
+      type: note
+      options: []
+      required: false

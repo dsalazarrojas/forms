@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Preschool Graduation Questionnaire
+    pages:
+    - id: 1
+      name: preschool_graduation_questionnaire_form
+      label: Preschool Graduation Questionnaire
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: teachers
+      label: Teachers
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: teachers_name
+      label: Teachers Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: teachers_years
+      label: Teachers Years
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: parents
+      label: Parents
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: parents_name
+      label: Parents Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: parents_years
+      label: Parents Years
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: graduation_date
+      label: Graduation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: graduation_status
+      label: Graduation Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 10
+      name: graduation_comments
+      label: Graduation Comments
+      hint: null
+      type: note
+      options: []
+      required: false

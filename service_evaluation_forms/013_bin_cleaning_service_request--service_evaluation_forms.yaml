@@ -1,0 +1,227 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bin Cleaning Service Request
+    pages:
+    - id: 1
+      name: customer_information
+      label: Customer Information
+      hint: Enter your contact details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: customer_email
+      label: Email Address
+      hint: Email for service confirmation
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: customer_phone
+      label: Phone Number
+      hint: Contact number for scheduling
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: service_address
+      label: Service Address
+      hint: Where should we clean the bins
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: service_city
+      label: City
+      hint: City for service
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: service_zip
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: bin_details
+      label: Bin Details
+      hint: Information about your bins
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: bin_type
+      label: Bin Type
+      hint: What type of bins need cleaning
+      type: select_one
+      options:
+      - Trash Bin
+      - Recycling Bin
+      - Compost Bin
+      - Green Waste Bin
+      - Commercial Dumpster
+      - Multiple Types
+      required: true
+    - id: 11
+      name: bin_size
+      label: Bin Size
+      hint: Size of the bins
+      type: select_one
+      options:
+      - Small (20-35 gallons)
+      - Medium (60-65 gallons)
+      - Large (90-96 gallons)
+      - Extra Large (100+ gallons)
+      - Commercial Dumpster
+      - Not Sure
+      required: true
+    - id: 12
+      name: number_of_bins
+      label: Number of Bins
+      hint: How many bins need cleaning
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: bin_condition
+      label: Bin Condition
+      hint: Current condition of bins
+      type: select_one
+      options:
+      - Lightly Soiled
+      - Moderately Dirty
+      - Heavily Soiled
+      - Extremely Dirty
+      - Has Pests or Maggots
+      required: true
+    - id: 14
+      name: last_cleaning
+      label: Last Cleaning Date
+      hint: When were bins last cleaned
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: service_preferences
+      label: Service Preferences
+      hint: Specify your service needs
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: service_type
+      label: Service Type
+      hint: Type of cleaning service
+      type: select_one
+      options:
+      - One-Time Cleaning
+      - Monthly Service
+      - Bi-Monthly Service
+      - Quarterly Service
+      - Annual Deep Clean
+      required: true
+    - id: 17
+      name: preferred_date
+      label: Preferred Service Date
+      hint: When would you like service
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: preferred_time
+      label: Preferred Time Window
+      hint: Best time for service
+      type: select_one
+      options:
+      - Morning (8 AM - 12 PM)
+      - Afternoon (12 PM - 5 PM)
+      - Evening (5 PM - 8 PM)
+      - Any Time
+      required: true
+    - id: 19
+      name: bin_location
+      label: Bin Location
+      hint: Where are bins located on property
+      type: select_one
+      options:
+      - Front of House
+      - Back of House
+      - Side of House
+      - Garage
+      - Alley Access
+      - Other
+      required: true
+    - id: 20
+      name: access_instructions
+      label: Access Instructions
+      hint: Any special access instructions
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: additional_services
+      label: Additional Services
+      hint: Would you like any extras
+      type: select_multiple
+      options:
+      - Deodorizing Treatment
+      - Disinfectant Spray
+      - Pest Prevention Treatment
+      - Bin Inspection
+      - Photo Documentation
+      - None
+      required: false
+    - id: 22
+      name: water_source_available
+      label: Water Source Available
+      hint: Is there a water spigot nearby
+      type: select_one
+      options:
+      - Yes - Outside Spigot
+      - Yes - Other Water Source
+      - No Water Source Available
+      - Not Sure
+      required: true
+    - id: 23
+      name: pricing_estimate
+      label: Pricing Estimate Needed
+      hint: Do you need a price estimate
+      type: select_one
+      options:
+      - Yes - Send Estimate
+      - No - Proceed with Standard Pricing
+      - Call to Discuss Pricing
+      required: true
+    - id: 24
+      name: special_requests
+      label: Special Requests
+      hint: Any additional comments or requests
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: service_agreement
+      label: Service Agreement
+      hint: Agree to service terms
+      type: select_one
+      options:
+      - I agree to the service terms and conditions
+      - I authorize the cleaning service as described
+      required: true

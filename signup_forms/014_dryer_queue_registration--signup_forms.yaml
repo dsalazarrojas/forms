@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dryer Queue Registration
+    pages:
+    - id: 1
+      name: user_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 2
+      name: resident_status
+      label: Are you a Resident
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''resident''}'
+      - guest
+      required: false
+    - id: 3
+      name: dryer_type
+      label: What type of dryer
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''top_loader''}'
+      - front_loader
+      - other
+      required: false
+    - id: 4
+      name: start_time
+      label: Select a time
+      hint: "Choose a time between 8:00 AM and 9:00 PM"
+      type: select_multiple
+      options:
+      - '{''id'': ''8:00 AM''}'
+      - 8:30 AM
+      - 9:00 AM
+      required: false
+    - id: 5
+      name: end_time
+      label: Select an end time
+      hint: Choose an end time
+      type: select_multiple
+      options:
+      - '{''id'': ''8:15 AM''}'
+      - 8:30 AM
+      - 8:45 AM
+      required: false
+    - id: 6
+      name: dryer_queue
+      label: Select a dryer queue
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: note
+      label: Additional notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: resident_id
+      label: Resident ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: form_submission_id
+      label: Form Submission ID
+      hint: null
+      type: number
+      options: []
+      required: false

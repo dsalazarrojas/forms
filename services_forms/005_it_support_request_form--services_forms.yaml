@@ -1,0 +1,76 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: it_support_request_form
+    pages:
+    - id: 1
+      name: internet_connection
+      label: internet_connection
+      hint: null
+      type: select_one
+      options:
+      - '[''DSL'', ''Cable Modem'', ''Fiber'', ''Satellite'', ''Dialup'']'
+      - '[None]'
+      - None
+      required: true
+    - id: 2
+      name: operating_system
+      label: operating_system
+      hint: null
+      type: select_multiple
+      options:
+      - Windows
+      - Linux
+      - Mac
+      - Chrome OS
+      - Unknown
+      required: true
+    - id: 3
+      name: problem_details
+      label: problem_details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_info
+      label: contact_information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: issue_description
+      label: issue_description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: support_request
+      label: support_request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: support_status
+      label: support_status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - In Progress
+      - Resolved
+      required: true

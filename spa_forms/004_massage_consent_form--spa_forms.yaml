@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: Massage Consent Form
+    pages:
+    - id: 1
+      name: massage_consent_form
+      label: Client Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: allergies
+      label: Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: massage_type
+      label: Massage Type
+      hint: null
+      type: select_one
+      options:
+      - Swedish
+      - Deep Tissue
+      - Sports
+      - Myofascial Release
+      required: true
+    - id: 8
+      name: pressure_level
+      label: Pressure Level
+      hint: null
+      type: select_one
+      options:
+      - Light
+      - Moderate
+      - Firm
+      - Strong
+      required: true
+    - id: 9
+      name: areas_treated
+      label: Areas Treated
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: time_massage
+      label: Time of Massage
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: date_massage
+      label: Date of Massage
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: massage_length
+      label: Massage Length
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: massage_description
+      label: Massage Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: client_signature
+      label: Client Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: therapist_signature
+      label: Therapist Signature
+      hint: null
+      type: text
+      options: []
+      required: true

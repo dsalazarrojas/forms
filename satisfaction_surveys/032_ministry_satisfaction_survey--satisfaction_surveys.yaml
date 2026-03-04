@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ministry Satisfaction Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Welcome to the Ministry Satisfaction Survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: overall_satisfaction
+      label: How would you rate your overall satisfaction with the ministry?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: programs
+      label: Which programs did you participate in?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: communication
+      label: How did you like the communication from the ministry?
+      hint: null
+      type: select_one
+      options:
+      - Program 1
+      - Program 2
+      required: false
+    - id: 5
+      name: service_quality
+      label: How would you rate the quality of the ministry's services?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: community_engagement
+      label: How would you rate the community engagement from the ministry?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: staff_interaction
+      label: How would you rate your interaction with the ministry staff?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Any comments?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: What is your email address?
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone_number
+      label: What is your phone number?
+      hint: null
+      type: text
+      options: []
+      required: false

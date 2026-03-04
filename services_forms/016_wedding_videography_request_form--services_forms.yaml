@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wedding Videography Request Form
+    pages:
+    - id: 1
+      name: package_choice
+      label: Package Choice
+      hint: null
+      type: select_one
+      options:
+      - Basic Package
+      - Premium Package
+      - Elite Package
+      required: true
+    - id: 2
+      name: videographer_preference
+      label: Videographer Preference
+      hint: Choose a preferred videographer
+      type: select_multiple
+      options:
+      - John Doe
+      - Jane Doe
+      - Jim Smith
+      required: true
+    - id: 3
+      name: add_ons
+      label: Add-ons
+      hint: Select add-ons
+      type: select_multiple
+      options:
+      - Tilting
+      - Editing
+      - Montage
+      - Photo Booth
+      required: false
+    - id: 4
+      name: wedding_date
+      label: Wedding Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: ceremony_time
+      label: Ceremony Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: reception_time
+      label: Reception Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: special_request
+      label: Special Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false

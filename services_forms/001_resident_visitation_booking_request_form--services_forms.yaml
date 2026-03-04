@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: resident_visitation_booking_request_form
+    pages:
+    - id: 1
+      name: resident_visitation_booking_request_form_page_1
+      label: visitation_request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_and_time
+      label: date_and_time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: guest_details
+      label: guest_details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: guest_name
+      label: guest_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: visit_type
+      label: visit_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: visit_reason
+      label: visit_reason
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: special_instructions
+      label: special_instructions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: resident_details
+      label: resident_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: resident_id
+      label: resident_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: staff
+      label: staff
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: staff_notes
+      label: staff_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: staff_id
+      label: staff_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: status
+      label: status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 15
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: submitted_by
+      label: submitted_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: submitted_by_id
+      label: submitted_by_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: submitted_on
+      label: submitted_on
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: submitted_by_staff
+      label: submitted_by_staff
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: created_by
+      label: created_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: created_by_id
+      label: created_by_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: created_on
+      label: created_on
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: updated_by
+      label: updated_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: updated_by_id
+      label: updated_by_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: updated_on
+      label: updated_on
+      hint: null
+      type: date
+      options: []
+      required: false

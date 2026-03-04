@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Single Parent Grant Application
+    pages:
+    - id: 1
+      name: single_parent_grant_application_form
+      label: Single Parent Grant Application Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: grant_amount
+      label: Grant Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: grant_type
+      label: Grant Type
+      hint: null
+      type: select_one
+      options:
+      - financial_assistance
+      - support_funding
+      required: false
+    - id: 6
+      name: grant_status
+      label: Grant Status
+      hint: null
+      type: select_multiple
+      options:
+      - pending
+      - approved
+      - declined
+      required: false
+    - id: 7
+      name: single_parent_grant_application_date
+      label: Single Parent Grant Application Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: organization_name
+      label: Organization Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: organization_address
+      label: Organization Address
+      hint: null
+      type: text
+      options: []
+      required: false

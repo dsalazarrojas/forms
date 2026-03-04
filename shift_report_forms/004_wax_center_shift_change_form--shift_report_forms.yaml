@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wax Center Shift Change Form
+    pages:
+    - id: 1
+      name: employee_id
+      label: Employee Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: client_id
+      label: client_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: shift_date
+      label: Shift Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: shift_start_time
+      label: shift_start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: shift_end_time
+      label: shift_end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: client_notes
+      label: client_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: employee_notes
+      label: employee_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: employee_id
+      label: assigned_employees
+      hint: null
+      type: select_multiple
+      options:
+      - assigned_tool_1
+      - assigned_tool_2
+      - assigned_tool_3
+      required: false
+    - id: 9
+      name: client_id
+      label: assigned_clients
+      hint: null
+      type: select_multiple
+      options:
+      - assigned_client_1
+      - assigned_client_2
+      - assigned_client_3
+      required: false
+    - id: 10
+      name: shift
+      label: shift
+      hint: null
+      type: select_one
+      options:
+      - shift_1
+      - shift_2
+      - shift_3
+      required: false

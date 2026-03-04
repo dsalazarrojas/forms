@@ -1,0 +1,285 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Community Service Survey
+    pages:
+      - id: 1
+        name: respondent_info
+        label: Respondent Information
+        hint: Your details
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: first_name
+        label: First Name
+        hint: Optional
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: last_name
+        label: Last Name
+        hint: Optional
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: email
+        label: Email Address
+        hint: For follow-up
+        type: email
+        options: []
+        required: false
+      - id: 5
+        name: zip_code
+        label: ZIP Code
+        hint: Where you live
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: age_group
+        label: Age Group
+        hint: null
+        type: select_one
+        options:
+        - Under 18
+        - 18-24
+        - 25-34
+        - 35-44
+        - 45-54
+        - 55-64
+        - 65+
+        required: false
+      - id: 7
+        name: volunteer_status
+        label: Are You Currently Volunteering
+        hint: null
+        type: select_one
+        options:
+        - Yes - Currently Active
+        - Yes - Recently Active
+        - No - Past Volunteer
+        - No - Never Volunteered
+        required: true
+      - id: 8
+        name: service_info
+        label: Community Service Information
+        hint: Your experience
+        type: note
+        options: []
+        required: false
+      - id: 9
+        name: service_types
+        label: Types of Service You Have Done
+        hint: Select all that apply
+        type: select_multiple
+        options:
+        - Food Banks
+        - Homeless Shelters
+        - Senior Centers
+        - Youth Programs
+        - Environmental Cleanup
+        - Animal Shelters
+        - Healthcare Support
+        - Education Support
+        - Disaster Relief
+        - Religious Organizations
+        - Political Campaigns
+        - Other
+        - None
+        required: true
+      - id: 10
+        name: frequency
+        label: How Often Do You Volunteer
+        hint: null
+        type: select_one
+        options:
+        - Weekly
+        - 2-3 Times a Month
+        - Once a Month
+        - Few Times a Year
+        - Once a Year
+        - Never
+        required: true
+      - id: 11
+        name: hours_monthly
+        label: Average Hours Per Month
+        hint: null
+        type: select_one
+        options:
+        - 0 hours
+        - 1-5 hours
+        - 5-10 hours
+        - 10-20 hours
+        - 20+ hours
+        required: true
+      - id: 12
+        name: motivation
+        label: What Motivates You to Volunteer
+        hint: Select all that apply
+        type: select_multiple
+        options:
+        - Give Back to Community
+        - Personal Fulfillment
+        - Skill Development
+        - Social Connections
+        - Career Advancement
+        - School Requirement
+        - Religious Beliefs
+        - Family Tradition
+        - Other
+        required: false
+      - id: 13
+        name: satisfaction_ratings
+        label: Satisfaction Ratings
+        hint: Rate your experience
+        type: note
+        options: []
+        required: false
+      - id: 14
+        name: overall_satisfaction
+        label: Overall Satisfaction with Volunteering
+        hint: null
+        type: select_one
+        options:
+        - Very Satisfied
+        - Satisfied
+        - Neutral
+        - Dissatisfied
+        - Very Dissatisfied
+        required: false
+      - id: 15
+        name: impact_rating
+        label: How Much Impact Do You Feel You Make
+        hint: null
+        type: select_one
+        options:
+        - Very High Impact
+        - High Impact
+        - Moderate Impact
+        - Low Impact
+        - No Impact
+        required: false
+      - id: 16
+        name: organization_support
+        label: How Well Do Organizations Support Volunteers
+        hint: null
+        type: select_one
+        options:
+        - Excellent
+        - Very Good
+        - Good
+        - Fair
+        - Poor
+        required: false
+      - id: 17
+        name: barriers
+        label: Barriers to Volunteering
+        hint: Select all that apply
+        type: select_multiple
+        options:
+        - Lack of Time
+        - Lack of Information
+        - Transportation Issues
+        - Health Limitations
+        - Family Obligations
+        - Work Schedule
+        - Lack of Interest
+        - No Opportunities Available
+        - None
+        required: false
+      - id: 18
+        name: skills_contribution
+        label: Do You Feel Your Skills Are Well Utilized
+        hint: null
+        type: select_one
+        options:
+        - Yes - Very Well
+        - Yes - Somewhat
+        - Neutral
+        - No - Not Really
+        - No - Not At All
+        required: false
+      - id: 19
+        name: training
+        label: Did You Receive Adequate Training
+        hint: null
+        type: select_one
+        options:
+        - Yes - Very Adequate
+        - Yes - Mostly Adequate
+        - Neutral
+        - No - Inadequate
+        - No Training Provided
+        required: false
+      - id: 20
+        name: continue_volunteering
+        label: Do You Plan to Continue Volunteering
+        hint: null
+        type: select_one
+        options:
+        - Yes - Definitely
+        - Yes - Probably
+        - Not Sure
+        - Probably No
+        - Definitely No
+        required: true
+      - id: 21
+        name: recommend_others
+        label: Would You Recommend Volunteering
+        hint: null
+        type: select_one
+        options:
+        - Definitely Yes
+        - Probably Yes
+        - Maybe
+        - Probably No
+        - Definitely No
+        required: true
+      - id: 22
+        name: increase_volunteering
+        label: What Would Help You Volunteer More
+        hint: Select all that apply
+        type: select_multiple
+        options:
+        - More Flexible Schedules
+        - Better Transportation
+        - More Opportunities
+        - Better Training
+        - Recognition Programs
+        - Childcare Support
+        - Skill-Based Matching
+        - Nothing
+        required: false
+      - id: 23
+        name: community_impact
+        label: How Would You Rate Community Impact of Volunteering
+        hint: null
+        type: select_one
+        options:
+        - Very Positive
+        - Positive
+        - Neutral
+        - Negative
+        - Very Negative
+        required: true
+      - id: 24
+        name: additional_comments
+        label: Additional Comments
+        hint: Share your thoughts
+        type: text
+        options: []
+        required: false

@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Jackpot Entry Form
+    pages:
+    - id: 1
+      name: rider_contact
+      label: Rider Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: jackpot_date
+      label: Jackpot Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: guesses
+      label: Guesses
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: rider_name
+      label: Rider Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: rider_email
+      label: Rider Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: rider_phone
+      label: Rider Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: rider_address
+      label: Rider Address
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: related_race_guess
+      label: Related Race Guess
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: related_race_date
+      label: Related Race Date
+      hint: null
+      type: date
+      options: []
+      required: false

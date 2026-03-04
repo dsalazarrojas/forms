@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bike Registration Form
+    pages:
+    - id: 1
+      name: student_information
+      label: Student Information
+      hint: Enter student details for bike registration
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_first_name
+      label: First Name
+      hint: Student's first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_last_name
+      label: Last Name
+      hint: Student's last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: student_id
+      label: Student ID Number
+      hint: School identification number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: grade_level
+      label: Grade Level
+      hint: Current grade or year
+      type: select_one
+      options:
+      - 9th Grade
+      - 10th Grade
+      - 11th Grade
+      - 12th Grade
+      - Undergraduate
+      - Graduate
+      required: true
+    - id: 6
+      name: student_email
+      label: School Email
+      hint: Official school email address
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: student_phone
+      label: Phone Number
+      hint: Contact number for notifications
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: bike_information
+      label: Bike Information
+      hint: Register your bicycle details
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: bike_type
+      label: Bike Type
+      hint: Select the type of bicycle
+      type: select_one
+      options:
+      - Road Bike
+      - Mountain Bike
+      - Hybrid Bike
+      - BMX
+      - Electric Bike
+      - Folding Bike
+      - Other
+      required: true
+    - id: 10
+      name: bike_brand
+      label: Brand
+      hint: Manufacturer name
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: bike_model
+      label: Model
+      hint: Model name or number
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: bike_color
+      label: Color
+      hint: Primary color of the bike
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: bike_serial_number
+      label: Serial Number
+      hint: Frame serial number for security
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: bike_condition
+      label: Bike Condition
+      hint: Current condition of the bicycle
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Needs Repair
+      required: true
+    - id: 15
+      name: parking_preference
+      label: Preferred Parking Location
+      hint: Where would you like to park your bike
+      type: select_one
+      options:
+      - North Campus Rack
+      - South Campus Rack
+      - East Parking Structure
+      - West Parking Structure
+      - Any Available Spot
+      required: true
+    - id: 16
+      name: registration_purpose
+      label: Registration Purpose
+      hint: Why are you registering your bike
+      type: select_multiple
+      options:
+      - Campus Parking Permit
+      - Security Registration
+      - Event Participation
+      - Bike Safety Course
+      - Theft Prevention Program
+      required: true
+    - id: 17
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Full name of emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number for emergencies
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: safety_equipment
+      label: Safety Equipment Owned
+      hint: Select safety gear you own
+      type: select_multiple
+      options:
+      - Helmet
+      - Bike Lights
+      - Reflective Vest
+      - Bell or Horn
+      - Mirrors
+      - None
+      required: false
+    - id: 20
+      name: agreement_terms
+      label: Terms Agreement
+      hint: Acknowledge campus bike policies
+      type: select_one
+      options:
+      - I agree to follow all campus biking rules and regulations
+      - I understand bikes must be parked in designated areas only
+      required: true
+    - id: 21
+      name: registration_date
+      label: Registration Date
+      hint: Date of this registration
+      type: date
+      options: []
+      required: true

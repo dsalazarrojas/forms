@@ -1,0 +1,319 @@
+inputSchema:
+  type: object
+  properties:
+    title: Carpet Cleaning Request Form
+    pages:
+    - id: 1
+      name: request_header
+      label: Carpet Cleaning Service Request
+      hint: Schedule your professional carpet cleaning
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: request_number
+      label: Request Number
+      hint: Reference number
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: request_date
+      label: Request Date
+      hint: Date of booking
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: customer_info
+      label: Customer Information
+      hint: Contact details
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: customer_name
+      label: Full Name
+      hint: Legal name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: customer_email
+      label: Email Address
+      hint: For appointment confirmation
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: customer_phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: service_address
+      label: Service Address
+      hint: Where cleaning will occur
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: service_city
+      label: City
+      hint: City name
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: service_zip
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: property_type
+      label: Property Type
+      hint: Location type
+      type: select_one
+      options:
+      - Single family home
+      - Apartment or condo
+      - Townhouse
+      - Office or commercial
+      - Retail space
+      - Other
+      required: true
+    - id: 12
+      name: cleaning_areas
+      label: Areas Requiring Cleaning
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Living room
+      - Dining room
+      - Bedrooms
+      - Hallways
+      - Stairs
+      - Office space
+      - Other
+      required: true
+    - id: 13
+      name: carpet_info
+      label: Carpet Information
+      hint: Details about your carpets
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: total_square_footage
+      label: Approximate Square Footage
+      hint: Total area to clean
+      type: select_one
+      options:
+      - Under 500 sq ft
+      - 500 to 1000 sq ft
+      - 1000 to 2000 sq ft
+      - 2000 to 3000 sq ft
+      - Over 3000 sq ft
+      - Not sure
+      required: true
+    - id: 15
+      name: carpet_type
+      label: Carpet Type
+      hint: Fiber material
+      type: select_one
+      options:
+      - Nylon
+      - Polyester
+      - Wool
+      - Olefin or polypropylene
+      - Blend
+      - Not sure
+      required: false
+    - id: 16
+      name: carpet_age
+      label: Approximate Age of Carpet
+      hint: How old is the carpet
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1 to 3 years
+      - 3 to 5 years
+      - 5 to 10 years
+      - Over 10 years
+      - Not sure
+      required: false
+    - id: 17
+      name: cleaning_reason
+      label: Reason for Cleaning
+      hint: Primary motivation
+      type: select_one
+      options:
+      - Regular maintenance
+      - Stain removal
+      - Pet accidents or odors
+      - Before moving in
+      - After moving out
+      - Water damage
+      - Special event
+      - Other
+      required: true
+    - id: 18
+      name: stain_types
+      label: Types of Stains Present
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - None
+      - Wine or juice
+      - Coffee or tea
+      - Grease or oil
+      - Pet stains
+      - Mud or dirt
+      - Ink
+      - Food stains
+      - Other
+      required: false
+    - id: 19
+      name: pets_in_home
+      label: Do You Have Pets
+      hint: Pet ownership
+      type: select_one
+      options:
+      - Yes - dogs
+      - Yes - cats
+      - Yes - both
+      - Yes - other pets
+      - No pets
+      required: true
+    - id: 20
+      name: children_in_home
+      label: Are There Children in the Home
+      hint: Family consideration
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 21
+      name: eco_friendly
+      label: Do You Prefer Eco-Friendly Products
+      hint: Green cleaning preference
+      type: select_one
+      options:
+      - Yes - preferred
+      - Yes - required
+      - No preference
+      - false
+      required: true
+    - id: 22
+      name: service_type
+      label: Type of Service Needed
+      hint: Cleaning method
+      type: select_one
+      options:
+      - Steam cleaning
+      - Dry cleaning
+      - Shampoo
+      - Spot treatment only
+      - Deep cleaning
+      - Not sure - need recommendation
+      required: true
+    - id: 23
+      name: additional_services
+      label: Additional Services
+      hint: Add-on services
+      type: select_multiple
+      options:
+      - None
+      - Upholstery cleaning
+      - Tile and grout cleaning
+      - Pet odor treatment
+      - Stain guard application
+      - Deodorizing
+      - Sanitizing treatment
+      required: false
+    - id: 24
+      name: scheduling
+      label: Scheduling Preferences
+      hint: Appointment timing
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: preferred_date
+      label: Preferred Service Date
+      hint: First choice date
+      type: date
+      options: []
+      required: true
+    - id: 26
+      name: preferred_time
+      label: Preferred Time of Day
+      hint: Scheduling preference
+      type: select_one
+      options:
+      - Morning - 8am to 12pm
+      - Afternoon - 12pm to 4pm
+      - Evening - 4pm to 8pm
+      - Any time
+      required: true
+    - id: 27
+      name: flexible_schedule
+      label: Is Your Schedule Flexible
+      hint: Flexibility
+      type: select_one
+      options:
+      - Yes - very flexible
+      - Somewhat flexible
+      - No - specific date needed
+      required: true
+    - id: 28
+      name: access_instructions
+      label: Access Instructions
+      hint: How to enter property
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: parking_info
+      label: Parking Information
+      hint: Where to park
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: payment_method
+      label: Preferred Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Cash
+      - Credit card
+      - Debit card
+      - Check
+      - Company billing
+      required: true
+    - id: 31
+      name: how_heard
+      label: How Did You Hear About Us
+      hint: Referral source
+      type: select_one
+      options:
+      - Online search
+      - Social media
+      - Friend or family
+      - Previous customer
+      - Advertisement
+      - Other
+      required: false
+    - id: 32
+      name: special_requests
+      label: Special Requests or Concerns
+      hint: Any additional information
+      type: text
+      options: []
+      required: false

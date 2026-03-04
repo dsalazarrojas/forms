@@ -1,0 +1,173 @@
+inputSchema:
+  type: object
+  properties:
+    title: CSDOT Application Form
+    pages:
+    - id: 1
+      name: applicant_name
+      label: Full Name
+      hint: As shown on official identification
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: street_address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: city_state_zip
+      label: City, State, ZIP Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: education_level
+      label: Highest Level of Education
+      hint: null
+      type: select_one
+      options:
+      - High school diploma
+      - Associate degree
+      - Bachelor degree
+      - Master degree
+      - Professional degree
+      - Other
+      required: true
+    - id: 8
+      name: current_employment
+      label: Current Employment Status
+      hint: null
+      type: select_one
+      options:
+      - Employed full-time
+      - Employed part-time
+      - Self-employed
+      - Unemployed
+      - Student
+      - Retired
+      - Other
+      required: true
+    - id: 9
+      name: years_experience
+      label: Years of Relevant Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: skills
+      label: Key Skills or Certifications
+      hint: Relevant qualifications
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: program_interest
+      label: Program or Department Applying For
+      hint: null
+      type: select_one
+      options:
+      - Technical
+      - Administrative
+      - Operations
+      - Management
+      - Training
+      - Other
+      required: true
+    - id: 12
+      name: position_sought
+      label: Position or Role Sought
+      hint: Specific job or role
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: career_goals
+      label: Career Goals and Aspirations
+      hint: What are you working towards
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: why_interested
+      label: Why Are You Interested in This Program
+      hint: Your motivation
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: availability
+      label: Availability to Start
+      hint: When can you begin
+      type: select_one
+      options:
+      - Immediately
+      - Within 2 weeks
+      - Within 1 month
+      - Within 3 months
+      - Flexible
+      required: true
+    - id: 16
+      name: references
+      label: Professional References
+      hint: Names and contact info
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: background_check
+      label: Willing to Undergo Background Check
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 18
+      name: agreement_acknowledgment
+      label: I Certify That Information Provided Is True
+      hint: null
+      type: select_one
+      options:
+      - Yes, I certify
+      - No, I do not certify
+      required: true
+    - id: 19
+      name: applicant_signature
+      label: Electronic Signature
+      hint: Type your full name
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: application_date
+      label: Date of Application
+      hint: null
+      type: date
+      options: []
+      required: true

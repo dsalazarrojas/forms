@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nursing Home Application Form
+    pages:
+    - id: 1
+      name: user_info
+      label: User Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: medical_details
+      label: Medical Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: medical_certificate
+      label: Medical Certificate
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: medical_certificate_type
+      label: Medical Certificate Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: medical_certificate_issue_date
+      label: Medical Certificate Issue Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: medical_certificate_issuer
+      label: Medical Certificate Issuer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: nursing_home_details
+      label: Nursing Home Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: nursing_home_preferences
+      label: Nursing Home Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: family_info
+      label: Family Info
+      hint: null
+      type: text
+      options: []
+      required: false

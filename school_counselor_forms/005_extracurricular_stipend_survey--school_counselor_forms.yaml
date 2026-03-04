@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Extracurricular Stipend Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: activity_leadership
+      label: Activity Leadership
+      hint: Which extracurricular activities would you like to continue leading?
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: communication
+      label: Communication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: collaboration
+      label: Collaboration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: feedback_comments
+      label: Feedback Comments
+      hint: Additional comments or feedback
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: spring_coaches
+      label: Spring Coaches
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: spring_coaches_2
+      label: Spring Coaches
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: spring_coaches_3
+      label: Spring Coaches
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: school_club_advisors
+      label: School Club Advisors
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,263 @@
+inputSchema:
+  type: object
+  properties:
+    title: Coaching Program Interest Form
+    pages:
+    - id: 1
+      name: full_name
+      label: Full Name
+      hint: Your legal full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company_name
+      label: Company Name
+      hint: Name of your organization
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: job_title
+      label: Job Title
+      hint: Your position or title
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: industry
+      label: Industry
+      hint: What industry are you in
+      type: select_one
+      options:
+      - Technology
+      - Healthcare
+      - Finance
+      - Education
+      - Retail
+      - Manufacturing
+      - Non-Profit
+      - Government
+      - Other
+      required: false
+    - id: 7
+      name: company_size
+      label: Company Size
+      hint: Number of employees
+      type: select_one
+      options:
+      - 1-10 employees
+      - 11-50 employees
+      - 51-200 employees
+      - 201-500 employees
+      - 501-1000 employees
+      - Over 1000 employees
+      required: false
+    - id: 8
+      name: coaching_interest
+      label: Type of Coaching Interest
+      hint: What coaching are you interested in
+      type: select_one
+      options:
+      - Executive Coaching
+      - Leadership Coaching
+      - Team Coaching
+      - Career Coaching
+      - Business Coaching
+      - Life Coaching
+      - Not Sure Yet
+      required: true
+    - id: 9
+      name: coaching_goals
+      label: What Are Your Coaching Goals
+      hint: What do you want to achieve
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: current_challenges
+      label: What Challenges Are You Facing
+      hint: What issues do you want to address
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: previous_coaching
+      label: Have You Had Coaching Before
+      hint: Previous coaching experience
+      type: select_one
+      options:
+      - Yes Individual
+      - Yes Group
+      - No Never
+      required: true
+    - id: 12
+      name: previous_experience_details
+      label: Previous Experience Details
+      hint: Describe past experience
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: preferred_format
+      label: Preferred Coaching Format
+      hint: How do you want to receive coaching
+      type: select_one
+      options:
+      - One-on-One
+      - Group Coaching
+      - Team Coaching
+      - Hybrid
+      required: true
+    - id: 14
+      name: preferred_delivery
+      label: Preferred Delivery Method
+      hint: How should sessions be delivered
+      type: select_one
+      options:
+      - In Person
+      - Video Call
+      - Phone Call
+      - No Preference
+      required: true
+    - id: 15
+      name: preferred_frequency
+      label: Preferred Session Frequency
+      hint: How often do you want sessions
+      type: select_one
+      options:
+      - Weekly
+      - Bi-Weekly
+      - Monthly
+      - Intensive
+      required: true
+    - id: 16
+      name: timeline
+      label: When Do You Want to Start
+      hint: Your preferred start time
+      type: select_one
+      options:
+      - Immediately
+      - Within 2 Weeks
+      - Within 1 Month
+      - Within 3 Months
+      - Just Exploring
+      required: true
+    - id: 17
+      name: budget_range
+      label: Budget Range
+      hint: Your estimated budget
+      type: select_one
+      options:
+      - Under $1000
+      - $1000-$3000
+      - $3001-$5000
+      - $5001-$10000
+      - Over $10000
+      - Not Sure
+      required: false
+    - id: 18
+      name: decision_maker
+      label: Are You the Decision Maker
+      hint: Can you decide to purchase
+      type: select_one
+      options:
+      - Yes I Decide
+      - I Need Approval
+      - I Am Researching for Team
+      required: true
+    - id: 19
+      name: team_size_coaching
+      label: How Many People Need Coaching
+      hint: Number of coachees
+      type: select_one
+      options:
+      - Just Me
+      - 2-5 People
+      - 6-10 People
+      - 11-20 People
+      - Over 20 People
+      required: true
+    - id: 20
+      name: discovery_call_interest
+      label: Interested in Discovery Call
+      hint: Would you like a free consultation
+      type: select_one
+      options:
+      - Yes Definitely
+      - Maybe
+      - No Thanks
+      required: true
+    - id: 21
+      name: discovery_call_time
+      label: Preferred Discovery Call Time
+      hint: When works best
+      type: select_one
+      options:
+      - Morning 8AM-12PM
+      - Afternoon 12PM-5PM
+      - Evening 5PM-8PM
+      - Flexible
+      required: false
+    - id: 22
+      name: best_contact_time
+      label: Best Time to Contact You
+      hint: When should we reach out
+      type: select_one
+      options:
+      - Morning
+      - Midday
+      - Afternoon
+      - Evening
+      required: false
+    - id: 23
+      name: how_heard_about_us
+      label: How Did You Hear About Us
+      hint: How did you find us
+      type: select_one
+      options:
+      - Online Search
+      - Social Media
+      - Referral
+      - Podcast
+      - Event
+      - Advertisement
+      - Other
+      required: false
+    - id: 24
+      name: referral_name
+      label: Who Referred You
+      hint: Name of referrer
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_questions
+      label: Additional Questions or Comments
+      hint: Anything you want to ask
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: newsletter_signup
+      label: Join Our Newsletter
+      hint: Receive coaching tips and updates
+      type: select_one
+      options:
+      - Yes Subscribe Me
+      - No Thanks
+      required: false

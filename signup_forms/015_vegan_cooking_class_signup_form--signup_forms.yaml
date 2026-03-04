@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: vegan_cooking_class_signup_form
+    pages:
+    - id: 1
+      name: signup_form
+      label: Signup Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: start_time
+      label: start time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: end_time
+      label: end time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: class_duration
+      label: class duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: class_type
+      label: class type
+      hint: null
+      type: select_one
+      options:
+      - Vegan
+      - Vegetarian
+      - Omnivore
+      required: false
+    - id: 11
+      name: class_description
+      label: class description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: class_location
+      label: class location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: report_to
+      label: report to
+      hint: null
+      type: select_multiple
+      options:
+      - admin1
+      - admin2
+      - admin3
+      required: false
+    - id: 14
+      name: participant_count
+      label: participant count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: payment
+      label: payment
+      hint: null
+      type: select_one
+      options:
+      - credit card
+      - cash
+      - paypal
+      required: false

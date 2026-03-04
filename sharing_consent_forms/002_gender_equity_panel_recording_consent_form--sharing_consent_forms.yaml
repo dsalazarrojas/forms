@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: genderEquityPanelRecordingConsentForm
+    pages:
+    - id: 1
+      name: userinformation
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: recordinglocation
+      label: Recording Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: genderequitypanel
+      label: Gender Equity Panel
+      hint: null
+      type: select_one
+      options:
+      - Gender Equity Panel 1
+      - Gender Equity Panel 2
+      - Gender Equity Panel 3
+      required: false
+    - id: 4
+      name: recordingdate
+      label: Recording Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: recordingtime
+      label: Recording Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: recordingduration
+      label: Recording Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phonenumber
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: consent
+      label: Consent
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: additionalnotes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: sharingconsent
+      label: Sharing Consent
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

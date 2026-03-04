@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: rescue_home_visit_form
+    pages:
+    - id: 1
+      name: person_in_need_location
+      label: Person in need location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rescue_services_responding
+      label: Rescue services responding
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: rescue_services_arrived
+      label: Rescue services arrived
+      hint: null
+      type: select_one
+      options:
+      - 'No'
+      - 'Yes'
+      required: false
+    - id: 4
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: contact_person_in_need
+      label: Contact person in need
+      hint: null
+      type: text
+      options: []
+      required: false

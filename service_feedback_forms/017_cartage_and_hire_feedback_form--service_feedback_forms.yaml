@@ -1,0 +1,324 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cartage And Hire Feedback Form
+    pages:
+    - id: 1
+      name: feedback_header
+      label: Cartage and Hire Service Feedback
+      hint: Share your experience with our transport and hire services
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Your Name
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: customer_email
+      label: Email Address
+      hint: For response if needed
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: customer_phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: service_date
+      label: Date of Service
+      hint: When was service provided
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: service_type
+      label: Type of Service Used
+      hint: Select service category
+      type: select_one
+      options:
+      - Cartage - goods transport
+      - Equipment hire
+      - Vehicle hire
+      - Combined services
+      - Other
+      required: true
+    - id: 7
+      name: service_category
+      label: Specific Service Category
+      hint: More details
+      type: select_one
+      options:
+      - Local delivery
+      - Long distance transport
+      - Heavy equipment transport
+      - Furniture transport
+      - Construction equipment
+      - Party equipment
+      - Tools and machinery
+      - Other
+      required: true
+    - id: 8
+      name: booking_experience
+      label: Booking Experience Rating
+      hint: Reservation process
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 9
+      name: booking_method
+      label: How Did You Book the Service
+      hint: Booking channel
+      type: select_one
+      options:
+      - Online website
+      - Phone call
+      - Email
+      - In person
+      - Mobile app
+      - Third party platform
+      required: true
+    - id: 10
+      name: booking_ease
+      label: How Easy Was the Booking Process
+      hint: Booking simplicity
+      type: select_one
+      options:
+      - Very easy
+      - Easy
+      - Neutral
+      - Difficult
+      - Very difficult
+      required: true
+    - id: 11
+      name: staff_interaction
+      label: Staff Interaction Rating
+      hint: Customer service quality
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      - No interaction
+      required: true
+    - id: 12
+      name: staff_professionalism
+      label: Staff Professionalism
+      hint: Conduct and behavior
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 13
+      name: punctuality
+      label: Punctuality Rating
+      hint: On-time performance
+      type: select_one
+      options:
+      - Arrived early
+      - Arrived on time
+      - Slightly late - under 15 minutes
+      - Late - 15 to 30 minutes
+      - Very late - over 30 minutes
+      required: true
+    - id: 14
+      name: equipment_condition
+      label: Condition of Equipment or Vehicle
+      hint: Quality assessment
+      type: select_one
+      options:
+      - Excellent - like new
+      - Very Good - well maintained
+      - Good - acceptable condition
+      - Fair - showing wear
+      - Poor - needs maintenance
+      required: true
+    - id: 15
+      name: equipment_suitability
+      label: Was the Equipment Suitable for Your Needs
+      hint: Fitness for purpose
+      type: select_one
+      options:
+      - Yes - perfectly suitable
+      - Yes - adequate
+      - Partially - some limitations
+      - No - not suitable
+      required: true
+    - id: 16
+      name: service_quality
+      label: Overall Service Quality
+      hint: Service delivery
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 17
+      name: handling_care
+      label: Care in Handling Goods or Equipment
+      hint: Handling quality
+      type: select_one
+      options:
+      - Excellent care taken
+      - Good care taken
+      - Adequate care
+      - Careless handling
+      - Damaging handling
+      required: true
+    - id: 18
+      name: communication
+      label: Communication During Service
+      hint: Updates and notifications
+      type: select_one
+      options:
+      - Excellent - well informed
+      - Good - adequately informed
+      - Fair - some gaps
+      - Poor - poorly informed
+      - No communication
+      required: true
+    - id: 19
+      name: pricing
+      label: Pricing Fairness
+      hint: Value for money
+      type: select_one
+      options:
+      - Excellent value
+      - Good value
+      - Fair value
+      - Poor value
+      - Very overpriced
+      required: true
+    - id: 20
+      name: pricing_transparency
+      label: Pricing Transparency
+      hint: Clarity of charges
+      type: select_one
+      options:
+      - Very transparent
+      - Transparent
+      - Somewhat clear
+      - Unclear
+      - Hidden charges found
+      required: true
+    - id: 21
+      name: safety_measures
+      label: Safety Measures Observed
+      hint: Safety protocols
+      type: select_one
+      options:
+      - Excellent safety practices
+      - Good safety practices
+      - Adequate safety measures
+      - Poor safety practices
+      - Unsafe practices observed
+      required: true
+    - id: 22
+      name: issues_encountered
+      label: Did You Experience Any Issues
+      hint: Problems during service
+      type: select_one
+      options:
+      - No issues
+      - Minor issues - resolved
+      - Minor issues - unresolved
+      - Major issues
+      - Critical issues
+      required: true
+    - id: 23
+      name: issue_description
+      label: Describe Any Issues
+      hint: Problem details
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: resolution_satisfaction
+      label: How Well Were Issues Resolved
+      hint: Resolution quality
+      type: select_one
+      options:
+      - Resolved excellently
+      - Resolved satisfactorily
+      - Partially resolved
+      - Not resolved
+      - No issues to resolve
+      required: true
+    - id: 25
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: General satisfaction
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 26
+      name: likelihood_return
+      label: How Likely Are You to Use Our Services Again
+      hint: Return intention
+      type: select_one
+      options:
+      - Very likely
+      - Likely
+      - Neutral
+      - Unlikely
+      - Very unlikely
+      required: true
+    - id: 27
+      name: recommend_to_others
+      label: How Likely Are You to Recommend Us
+      hint: Net promoter score
+      type: select_one
+      options:
+      - Very likely
+      - Likely
+      - Neutral
+      - Unlikely
+      - Very unlikely
+      required: true
+    - id: 28
+      name: best_aspect
+      label: What Was the Best Aspect of the Service
+      hint: Positive highlight
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: improvement_areas
+      label: What Areas Need Improvement
+      hint: Suggestions
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other feedback
+      type: text
+      options: []
+      required: false

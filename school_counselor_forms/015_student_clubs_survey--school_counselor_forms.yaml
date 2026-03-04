@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Clubs Survey
+    pages:
+    - id: 1
+      name: school_club_name
+      label: club name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: meeting_days
+      label: meeting days
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: meeting_time
+      label: meeting time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: meeting_location
+      label: meeting location
+      hint: null
+      type: select_one
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      required: false
+    - id: 5
+      name: club_purpose
+      label: club purpose
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: student_count
+      label: student count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: advisor_name
+      label: advisor name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: advisor_email
+      label: advisor email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: advisor_phone
+      label: advisor phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: club_status
+      label: club status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 11
+      name: reason_inactive
+      label: reason inactive
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: club_sponsor
+      label: club sponsor
+      hint: null
+      type: select_one
+      options:
+      - School
+      - Student
+      required: false
+    - id: 13
+      name: club_type
+      label: club type
+      hint: null
+      type: select_one
+      options:
+      - School Club
+      - Student Organization
+      required: false
+    - id: 14
+      name: club_formation
+      label: club formation
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: club_founded
+      label: club founded
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: club_formation_date
+      label: club formation date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: club_founding_member
+      label: club founding member
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: club_sponsorship
+      label: club sponsorship
+      hint: null
+      type: select_one
+      options:
+      - Self-funded
+      - School-funded
+      required: false
+    - id: 19
+      name: club_advisor
+      label: club advisor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: club_sponsorship_justification
+      label: club sponsor justification
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: club_termination
+      label: club termination
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 22
+      name: reason_termination
+      label: reason termination
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: club_formation_year
+      label: club formation year
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: club_status_date
+      label: club status date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: club_notes
+      label: club notes
+      hint: null
+      type: text
+      options: []
+      required: false

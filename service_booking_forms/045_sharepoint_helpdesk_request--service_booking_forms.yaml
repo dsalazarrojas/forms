@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: sharepoint_helpdesk_request
+    pages:
+    - id: 1
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: subject
+      label: Subject
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: sharepoint_site_update
+      label: Sharepoint Site Update
+      hint: null
+      type: select_one
+      options:
+      - 'Sharepoint Site Update: Add User to Group'
+      - 'Sharepoint Site Update: Remove User from Group'
+      - 'Sharepoint Site Update: Update User Permissions'
+      - 'Sharepoint Site Update: Create Site'
+      - 'Sharepoint Site Update: Delete Site'
+      required: true
+    - id: 7
+      name: sharepoint_site_update_details
+      label: Sharepoint Site Update Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: sharepoint_site_update_details
+      label: Add Personnel
+      hint: null
+      type: select_multiple
+      options:
+      - IT Department
+      - Sharepoint Admin
+      required: true
+    - id: 9
+      name: remove_personnel
+      label: Remove Personnel
+      hint: null
+      type: select_multiple
+      options:
+      - IT Department
+      - Sharepoint Admin
+      required: true

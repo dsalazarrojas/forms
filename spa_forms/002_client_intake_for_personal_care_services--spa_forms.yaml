@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Intake For Personal Care Services
+    pages:
+    - id: 1
+      name: section_personal_information
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: full name
+      hint: Enter client name as it appears on ID
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: date of birth
+      hint: Use format YYYY-MM-DD
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: phone number
+      hint: Primary contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email_address
+      label: email address
+      hint: For appointment confirmations and receipts
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: appointment_type
+      label: appointment type
+      hint: Choose the service you are booking
+      type: select_one
+      options:
+      - Facial
+      - Massage
+      - Manicure
+      - Pedicure
+      - Hair Service
+      - Other
+      required: true
+    - id: 7
+      name: skin_allergies_or_sensitivities
+      label: known allergies or skin sensitivities
+      hint: List products or ingredients if known
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: current_medications
+      label: current medications or topical treatments
+      hint: Include prescriptions and over the counter
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: preferred_therapist
+      label: preferred therapist or technician
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: appointment_date
+      label: appointment date
+      hint: Select preferred date
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: appointment_time
+      label: appointment time
+      hint: Select preferred time
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: additional_requests
+      label: additional requests or notes
+      hint: e g preferred pressure, music, allergies
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: consent_for_services
+      label: consent for treatment communication and follow up
+      hint: Select your consent option
+      type: select_one
+      options:
+      - Yes I consent to the treatment and communication
+      - No I do not consent at this time
+      - Contact me to discuss consent options
+      required: true

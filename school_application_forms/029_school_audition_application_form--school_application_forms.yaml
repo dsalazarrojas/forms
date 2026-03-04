@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Application_Form
+    pages:
+    - id: 1
+      name: contact_information
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: contact_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: audition_date
+      label: Audition Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: audition_time
+      label: Audition Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: contact_address
+      label: Contact Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: audition_location
+      label: Audition Location
+      hint: null
+      type: select_one
+      options:
+      - Audition Room 1
+      - Audition Room 2
+      - Audition Room 3
+      - Audition Room 4
+      required: false
+    - id: 8
+      name: contact_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

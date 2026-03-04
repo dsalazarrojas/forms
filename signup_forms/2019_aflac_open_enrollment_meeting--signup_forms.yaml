@@ -1,0 +1,232 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: 2019 AFLAC Open Enrollment Meeting
+    pages:
+    - id: 1
+      name: section_header_welcome
+      label: '--- Welcome to AFLAC Open Enrollment ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: Please enter your legal name as it appears on your ID
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_id
+      label: Employee ID Number
+      hint: 6-digit identifier from your employee badge
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email address
+      hint: We'll send confirmation to this address
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone number
+      hint: Include area code for contact purposes
+      type: phone
+      options: []
+      required: false
+    - id: 6
+      name: date_of_birth
+      label: Date of birth
+      hint: Used for policy verification
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: age
+      label: Age
+      hint: Calculated from date of birth
+      type: integer
+      options: []
+      required: false
+    - id: 8
+      name: address
+      label: Home address
+      hint: Current residential address
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: department
+      label: Department
+      hint: Select your current department
+      type: select_one
+      options:
+      - Sales
+      - Marketing
+      - Human Resources
+      - Finance
+      - Operations
+      - IT
+      - Customer Service
+      required: true
+    - id: 10
+      name: employment_status
+      label: Employment status
+      hint: Current employment classification
+      type: select_one
+      options:
+      - Full-time
+      - Part-time
+      - Contract
+      - Seasonal
+      required: true
+    - id: 11
+      name: years_with_company
+      label: Years with company
+      hint: Total years of service
+      type: integer
+      options: []
+      required: false
+    - id: 12
+      name: current_health_coverage
+      label: Current health coverage
+      hint: What insurance do you currently have?
+      type: select_one
+      options:
+      - AFLAC only
+      - Employer-sponsored
+      - Private insurance
+      - No coverage
+      - Other
+      required: true
+    - id: 13
+      name: dependents_count
+      label: Number of dependents
+      hint: How many family members will be covered?
+      type: integer
+      options: []
+      required: false
+    - id: 14
+      name: spouse_info
+      label: Spouse name (if applicable)
+      hint: Enter if spouse will be included in coverage
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: children_count
+      label: Number of children
+      hint: How many children will be covered?
+      type: integer
+      options: []
+      required: false
+    - id: 16
+      name: previous_aflac_experience
+      label: Previous experience with AFLAC
+      hint: Have you had AFLAC coverage before?
+      type: select_one
+      options:
+      - Never had AFLAC
+      - Had AFLAC previously
+      - Currently have AFLAC
+      - Family member has AFLAC
+      required: true
+    - id: 17
+      name: interested_in_supplemental
+      label: Interested in supplemental coverage
+      hint: Check all that apply
+      type: select_multiple
+      options:
+      - Accident insurance
+      - Critical illness
+      - Hospital indemnity
+      - Life insurance
+      - Disability insurance
+      - Dental/vision
+      required: false
+    - id: 18
+      name: budget_for_insurance
+      label: Monthly budget for insurance premiums
+      hint: Approximate amount you can allocate
+      type: decimal
+      options: []
+      required: false
+    - id: 19
+      name: emergency_contact
+      label: Emergency contact name
+      hint: Person to contact in case of emergency
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: emergency_phone
+      label: Emergency contact phone
+      hint: Include area code
+      type: phone
+      options: []
+      required: false
+    - id: 21
+      name: special_needs
+      label: Any special requirements or accommodations?
+      hint: Please specify any special needs for enrollment
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: how_heard
+      label: How did you hear about this meeting?
+      hint: How were you informed about this enrollment meeting?
+      type: select_one
+      options:
+      - HR announcement
+      - Email notification
+      - Manager referral
+      - Colleague
+      - Company newsletter
+      - Other
+      required: false
+    - id: 23
+      name: additional_comments
+      label: Additional comments or notes
+      hint: Any other information about your coverage needs
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: meeting_attendance
+      label: Will you attend the full meeting?
+      hint: We recommend staying for the entire presentation
+      type: select_one
+      options:
+      - Yes, full meeting
+      - Part of meeting
+      - Cannot attend
+      required: true
+    - id: 25
+      name: signature_consent
+      label: Electronic signature consent
+      hint: By checking this box, you consent to electronic processing
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true

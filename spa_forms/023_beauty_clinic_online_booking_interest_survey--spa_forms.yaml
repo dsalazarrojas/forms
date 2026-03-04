@@ -1,0 +1,238 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beauty Clinic Online Booking Interest Survey
+    pages:
+    - id: 1
+      name: client_header
+      label: -- Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: customer_status
+      label: Are You a Current Client
+      hint: null
+      type: select_one
+      options:
+      - Yes - Regular
+      - Yes - Occasional
+      - No - First Time Interested
+      required: true
+    - id: 6
+      name: visit_frequency
+      label: Current Visit Frequency
+      hint: null
+      type: select_one
+      options:
+      - Weekly
+      - Bi-weekly
+      - Monthly
+      - Quarterly
+      - Yearly
+      - Not Applicable
+      required: true
+    - id: 7
+      name: booking_header
+      label: -- Online Booking Interests --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: online_booking_interest
+      label: Interest in Online Booking
+      hint: null
+      type: select_one
+      options:
+      - Very Uninterested
+      - Uninterested
+      - Neutral
+      - Interested
+      - Very Interested
+      required: true
+    - id: 9
+      name: booking_ease_importance
+      label: Importance of Easy Online Booking
+      hint: null
+      type: select_one
+      options:
+      - Not Important
+      - Slightly Important
+      - Moderately Important
+      - Very Important
+      - Critical
+      required: true
+    - id: 10
+      name: preferred_booking_method
+      label: Preferred Booking Method
+      hint: null
+      type: select_one
+      options:
+      - Phone Call
+      - In-Person
+      - Online Portal
+      - Mobile App
+      - Email
+      - Text Message
+      required: true
+    - id: 11
+      name: service_header
+      label: -- Services of Interest --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: interested_services
+      label: Services You Would Book Online
+      hint: null
+      type: select_multiple
+      options:
+      - Facials
+      - Massages
+      - Hair Services
+      - Nail Services
+      - Waxing
+      - Consultations
+      - Other
+      required: true
+    - id: 13
+      name: primary_service
+      label: Primary Service of Interest
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: features_header
+      label: -- Desired Features --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: real_time_availability
+      label: Real-time Availability View
+      hint: See open slots immediately
+      type: select_one
+      options:
+      - Not Important
+      - Somewhat Important
+      - Very Important
+      required: true
+    - id: 16
+      name: instant_confirmation
+      label: Instant Booking Confirmation
+      hint: null
+      type: select_one
+      options:
+      - Not Important
+      - Somewhat Important
+      - Very Important
+      required: true
+    - id: 17
+      name: automated_reminders
+      label: Automated Appointment Reminders
+      hint: null
+      type: select_one
+      options:
+      - Not Important
+      - Somewhat Important
+      - Very Important
+      required: true
+    - id: 18
+      name: payment_online
+      label: Online Payment Option
+      hint: null
+      type: select_one
+      options:
+      - Not Important
+      - Somewhat Important
+      - Very Important
+      required: true
+    - id: 19
+      name: therapist_selection
+      label: Ability to Select Specific Therapist
+      hint: null
+      type: select_one
+      options:
+      - Not Important
+      - Somewhat Important
+      - Very Important
+      required: true
+    - id: 20
+      name: mobile_app
+      label: Mobile App Preference
+      hint: null
+      type: select_one
+      options:
+      - Not Important
+      - Somewhat Important
+      - Very Important
+      required: true
+    - id: 21
+      name: barriers_header
+      label: -- Barriers and Concerns --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: booking_barriers
+      label: Barriers to Online Booking
+      hint: Security concerns, complexity, etc.
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: privacy_concern
+      label: Privacy Concerns
+      hint: null
+      type: select_one
+      options:
+      - No Concern
+      - Minor Concern
+      - Moderate Concern
+      - Major Concern
+      required: true
+    - id: 24
+      name: tech_comfort
+      label: Comfort Level with Technology
+      hint: null
+      type: select_one
+      options:
+      - Not Comfortable
+      - Slightly Comfortable
+      - Moderately Comfortable
+      - Very Comfortable
+      required: true
+    - id: 25
+      name: additional_feedback
+      label: Additional Feedback or Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false

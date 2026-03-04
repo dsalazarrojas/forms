@@ -1,0 +1,62 @@
+inputSchema:
+  type: object
+  properties:
+    title: Digital Library Resource Case Consent Form
+    pages:
+    - id: 1
+      name: digital_library_resource_case_consent_form
+      label: Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: digital_library_resource_case_consent_form_fields
+      label: Fields
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: fields_to_share_with_which_team_or_group
+      label: Share with which team or group
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: fields_to_share_with_specific_organisations
+      label: Share with specific organisations
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: fields_to_share_with_specific_individuals
+      label: Share with specific individuals
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

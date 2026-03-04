@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nail Salon Social Media Engagement Survey
+    pages:
+    - id: 1
+      name: form_header
+      label: Form Header
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: salon_name
+      label: salon_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: social_media
+      label: Social Media
+      hint: null
+      type: select_one
+      options:
+      - Facebook
+      - Instagram
+      - Twitter
+      - LinkedIn
+      - Pinterest
+      required: true
+    - id: 6
+      name: post_type
+      label: Post Type
+      hint: null
+      type: select_multiple
+      options:
+      - Facebook post
+      - Instagram post
+      - Twitter post
+      - Email newsletter
+      - Text message
+      required: true
+    - id: 7
+      name: engagement_score
+      label: Engagement Score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: form_footer
+      label: Form Footer
+      hint: null
+      type: text
+      options: []
+      required: false

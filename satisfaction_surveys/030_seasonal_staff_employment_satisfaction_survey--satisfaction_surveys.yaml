@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Seasonal Staff Employment Satisfaction Survey
+    pages:
+    - id: 1
+      name: seasonal_employer_name
+      label: Seasonal Employer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: seasonal_employer_name
+      label: Seasonal Employer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: seasonal_employment_start_date
+      label: Seasonal Employment Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: seasonal_employment_end_date
+      label: Seasonal Employment End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: seasonal_employment_hours
+      label: Seasonal Employment Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: seasonal_employment_rate
+      label: Seasonal Employment Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Very Satisfied''}'
+      - '{''option2'': ''Somewhat Satisfied''}'
+      - '{''option3'': ''Somewhat Dissatisfied''}'
+      - '{''option4'': ''Very Dissatisfied''}'
+      required: false
+    - id: 9
+      name: seasonal_employment_recommend
+      label: Seasonal Employment Recommend
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': True}'
+      - '{''option2'': False}'
+      required: false
+    - id: 10
+      name: seasonal_employer_comments
+      label: Seasonal Employer Comments
+      hint: null
+      type: note
+      options: []
+      required: false

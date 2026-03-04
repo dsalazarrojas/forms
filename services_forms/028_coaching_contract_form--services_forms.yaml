@@ -1,0 +1,258 @@
+inputSchema:
+  type: object
+  properties:
+    title: Coaching Contract Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Full Name
+      hint: Your legal full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_email
+      label: Email Address
+      hint: Contact email address
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: client_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: client_address
+      label: Mailing Address
+      hint: Your full address
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: For identification
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: coach_name
+      label: Coach Name
+      hint: Name of your coach
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: coaching_type
+      label: Type of Coaching
+      hint: What coaching service
+      type: select_one
+      options:
+      - Life Coaching
+      - Career Coaching
+      - Executive Coaching
+      - Health Coaching
+      - Business Coaching
+      - Relationship Coaching
+      required: true
+    - id: 8
+      name: contract_start_date
+      label: Contract Start Date
+      hint: When does coaching begin
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: contract_end_date
+      label: Contract End Date
+      hint: When does coaching end
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: session_frequency
+      label: Session Frequency
+      hint: How often will you meet
+      type: select_one
+      options:
+      - Weekly
+      - Bi-Weekly
+      - Monthly
+      - As Needed
+      required: true
+    - id: 11
+      name: preferred_appointment_time
+      label: Preferred Appointment Time
+      hint: What time works best
+      type: select_one
+      options:
+      - Morning 8AM-12PM
+      - Afternoon 12PM-5PM
+      - Evening 5PM-8PM
+      - Weekend
+      - Flexible
+      required: true
+    - id: 12
+      name: session_format
+      label: Session Format
+      hint: How will sessions be held
+      type: select_one
+      options:
+      - In Person
+      - Video Conference
+      - Phone Call
+      required: true
+    - id: 13
+      name: number_of_sessions
+      label: Number of Sessions
+      hint: Total sessions in contract
+      type: select_one
+      options:
+      - 1 Session
+      - 3 Sessions
+      - 6 Sessions
+      - 12 Sessions
+      - Ongoing
+      required: true
+    - id: 14
+      name: session_fee
+      label: Fee Per Session
+      hint: Cost per session
+      type: select_one
+      options:
+      - $50-$100
+      - $101-$200
+      - $201-$300
+      - $301-$500
+      - Over $500
+      required: true
+    - id: 15
+      name: total_contract_value
+      label: Total Contract Value
+      hint: Total cost of all sessions
+      type: select_one
+      options:
+      - Under $500
+      - $500-$1000
+      - $1001-$2500
+      - $2501-$5000
+      - Over $5000
+      required: true
+    - id: 16
+      name: payment_schedule
+      label: Payment Schedule
+      hint: When will you pay
+      type: select_one
+      options:
+      - Upfront Full Payment
+      - 50 Percent Deposit
+      - Pay Per Session
+      - Monthly Payments
+      required: true
+    - id: 17
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Bank Transfer
+      - PayPal
+      - Check
+      - Cash
+      required: true
+    - id: 18
+      name: coaching_objectives
+      label: Coaching Objectives
+      hint: What do you want to achieve
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: health_information
+      label: Relevant Health Information
+      hint: Any conditions coach should know
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: cancellation_terms
+      label: I Understand Cancellation Terms
+      hint: You understand cancellation policy
+      type: select_one
+      options:
+      - Yes I Understand
+      - false
+      required: true
+    - id: 21
+      name: cancellation_notice
+      label: Cancellation Notice Required
+      hint: How much notice is needed
+      type: select_one
+      options:
+      - 12 Hours
+      - 24 Hours
+      - 48 Hours
+      - 72 Hours
+      required: true
+    - id: 22
+      name: refund_terms
+      label: I Understand Refund Terms
+      hint: You understand refund policy
+      type: select_one
+      options:
+      - Yes I Understand
+      - false
+      required: true
+    - id: 23
+      name: confidentiality_agreement
+      label: Confidentiality Agreement
+      hint: Both parties agree to privacy
+      type: select_one
+      options:
+      - Yes I Agree
+      - false
+      required: true
+    - id: 24
+      name: liability_waiver
+      label: Liability Waiver
+      hint: You release coach from certain liabilities
+      type: select_one
+      options:
+      - Yes I Sign
+      - false
+      required: true
+    - id: 25
+      name: terms_and_conditions
+      label: I Accept Terms and Conditions
+      hint: You agree to all contract terms
+      type: select_one
+      options:
+      - Yes I Accept
+      - false
+      required: true
+    - id: 26
+      name: client_signature_date
+      label: Client Signature Date
+      hint: Today date
+      type: date
+      options: []
+      required: true
+    - id: 27
+      name: coach_signature_date
+      label: Coach Signature Date
+      hint: Coach signs on this date
+      type: date
+      options: []
+      required: true
+    - id: 28
+      name: additional_notes
+      label: Additional Notes or Terms
+      hint: Any special agreements
+      type: text
+      options: []
+      required: false

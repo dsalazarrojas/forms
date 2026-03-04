@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Industrial Equipment Health Log Report
+    pages:
+    - id: 1
+      name: main_form
+      label: main_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: equipment_details
+      label: equipment_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: issue_reported
+      label: issue_reported
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: issue_description
+      label: issue_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: issue_cause
+      label: issue_cause
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: issue_effect
+      label: issue_effect
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: repair_status
+      label: repair_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 8
+      name: issue_priority
+      label: issue_priority
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: issue_category
+      label: issue_category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: issue_resolution
+      label: issue_resolution
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: issue_reporter
+      label: issue_reporter
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

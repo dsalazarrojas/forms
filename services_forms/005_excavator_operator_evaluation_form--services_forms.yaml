@@ -1,0 +1,61 @@
+inputSchema:
+  type: object
+  properties:
+    title: excavator_operator_evaluation_form
+    pages:
+    - id: 1
+      name: operator_name
+      label: Operator Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: site_location
+      label: site_location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: operator_rating
+      label: operator_rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: date_of_evaluation
+      label: date_of_evaluation
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: time_of_evaluation
+      label: time_of_evaluation
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: observation
+      label: observation
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: evaluation_comments
+      label: evaluation_comments
+      hint: null
+      type: text
+      options: []
+      required: false

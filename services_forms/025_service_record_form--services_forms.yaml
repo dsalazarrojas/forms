@@ -1,0 +1,61 @@
+inputSchema:
+  type: object
+  properties:
+    title: Service Record Form
+    pages:
+    - id: 1
+      name: service_record_form
+      label: Service Record Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: vehicle_number
+      label: Vehicle Number
+      hint: VIN number of the vehicle
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: make_and_model
+      label: Make and Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: service_date
+      label: Service Date
+      hint: Date of service
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: odometer_reading
+      label: Odometer Reading
+      hint: Odometer reading at time of service
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: mileage
+      label: Mileage
+      hint: Mileage at time of service
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: service_cost
+      label: Service Cost
+      hint: Cost of service
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

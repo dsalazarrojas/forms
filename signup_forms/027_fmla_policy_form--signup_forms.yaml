@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: fmla_policy_form
+    pages:
+    - id: 1
+      name: company_policies
+      label: Company Policies
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: company_name
+      label: company_name
+      hint: Company name is required.
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: policy_details
+      label: Policy Details
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 4
+      name: effective_date
+      label: Effective Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: last_updated
+      label: Last Updated
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: company_phone
+      label: Company Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: company_email
+      label: Company Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_address
+      label: Contact Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: policy_revision_date
+      label: Policy Revision Date
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Social Media Photo Release Form
+    pages:
+    - id: 1
+      name: name
+      label: Client's Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Client's Email
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Client's Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date
+      label: Date of Photo Release
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: photo_count
+      label: Number of Photos
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: photo_release
+      label: Photo Release Agreement
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: photo_release_date
+      label: Release Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: contact
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false

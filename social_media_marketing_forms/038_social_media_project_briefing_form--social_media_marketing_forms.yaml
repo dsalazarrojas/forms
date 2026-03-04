@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: social_media_project_briefing_form
+    pages:
+    - id: 1
+      name: project_title
+      label: Project Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_description
+      label: Project Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: project_lead_id
+      label: Project Lead
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: project_start_date
+      label: Project Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: project_deadline
+      label: Project Deadline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: project_budget
+      label: Project Budget
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: target_audience
+      label: Target Audience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: project_goal
+      label: Project Goal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - In Progress
+      - On Hold
+      - Cancelled
+      required: false
+    - id: 10
+      name: project_category
+      label: Project Category
+      hint: null
+      type: select_multiple
+      options:
+      - Social Media Marketing
+      - Social Media Advertising
+      - Social Media Promotion
+      - Social Media Contest
+      required: false
+    - id: 11
+      name: team_members
+      label: Team Members
+      hint: null
+      type: number
+      options: []
+      required: false

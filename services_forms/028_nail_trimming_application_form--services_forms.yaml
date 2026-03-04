@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nail Trimming Application Form
+    pages:
+    - id: 1
+      name: nail_artist_form_data
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: pet_name
+      label: Pet Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: pet_type
+      label: Pet Type
+      hint: null
+      type: select_one
+      options:
+      - Cat
+      - Dog
+      - Other
+      required: false
+    - id: 4
+      name: nail_length
+      label: Nail Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: appointment_date
+      label: Appointment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: appointment_time
+      label: Appointment Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: nail_trimming_frequency
+      label: Nail Trimming Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: special_instructions
+      label: Special Instructions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: nail_history
+      label: Nail History
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 12
+      name: confirm_nail_history
+      label: Confirm Nail History
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

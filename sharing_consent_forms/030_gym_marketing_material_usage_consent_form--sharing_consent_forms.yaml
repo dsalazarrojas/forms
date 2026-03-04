@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gym Marketing Material Usage Consent Form
+    pages:
+    - id: 1
+      name: user_info
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: consent_given
+      label: Consent Given
+      hint: null
+      type: select_multiple
+      options:
+      - I consent to receive marketing communications from the gym
+      - I do not consent to receive marketing communications from the gym
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: marketing_content
+      label: Marketing Content
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      required: true
+    - id: 7
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: agreement
+      label: Agreement
+      hint: null
+      type: select_multiple
+      options:
+      - I agree to receive marketing communications from the gym
+      - I do not agree to receive marketing communications from the gym
+      required: true
+    - id: 9
+      name: other_notes
+      label: Other Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: marketing_materials
+      label: Marketing Materials
+      hint: null
+      type: select_multiple
+      options:
+      - Brochures
+      - Newsletters
+      - Website
+      - Social media
+      required: true
+    - id: 11
+      name: other_marketing_materials
+      label: Other Marketing Materials
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: other_marketing_materials_details
+      label: Other Marketing Materials Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: marketing_agreement
+      label: Marketing Agreement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: other_agreement
+      label: Other Agreement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: other_notes_2
+      label: Other Notes 2
+      hint: null
+      type: text
+      options: []
+      required: false

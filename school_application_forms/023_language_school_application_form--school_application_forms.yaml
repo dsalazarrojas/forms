@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Language School Application Form
+    pages:
+    - id: 1
+      name: language_school_form
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: language_school_form_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: language_school_form_last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: language_school_form_email
+      label: email
+      hint: A valid email address is required.
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: language_school_form_language
+      label: language
+      hint: Which language do you want to learn?
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - French
+      - German
+      - Chinese
+      - Italian
+      - Portuguese
+      - Other (please specify)
+      required: false
+    - id: 6
+      name: language_school_form_english_level
+      label: english_level
+      hint: Please select your level of English.
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: false
+    - id: 7
+      name: language_school_form_start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: language_school_form_duration
+      label: duration
+      hint: How long do you want to study?
+      type: select_multiple
+      options:
+      - 1 month
+      - 3 months
+      - 6 months
+      - 1 year
+      - 2 years
+      - Other (please specify)
+      required: false
+    - id: 9
+      name: language_school_form_schedule
+      label: schedule
+      hint: What time of day is best for you?
+      type: select_multiple
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      required: false
+    - id: 10
+      name: language_school_form_notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: language_school_form_phone
+      label: phone
+      hint: A valid phone number is required.
+      type: text
+      options: []
+      required: false

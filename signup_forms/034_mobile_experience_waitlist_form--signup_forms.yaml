@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mobile Experience Waitlist Form
+    pages:
+    - id: 1
+      name: mobile_experience_waitlist_form_1
+      label: signup_form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: mobile_experience_waitlist_form_2
+      label: device_selection
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: mobile_experience_waitlist_form_3
+      label: waitlist
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: mobile_experience_waitlist_form_4
+      label: early_access
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: mobile_experience_waitlist_form_5
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: mobile_experience_waitlist_form_6
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: mobile_experience_waitlist_form_7
+      label: device_type
+      hint: null
+      type: select_one
+      options:
+      - apple
+      - samsung
+      - google
+      required: true
+    - id: 8
+      name: mobile_experience_waitlist_form_8
+      label: preferred_platform
+      hint: null
+      type: select_one
+      options:
+      - android
+      - ios
+      - desktop
+      required: false
+    - id: 9
+      name: mobile_experience_waitlist_form_9
+      label: waitlist_message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: mobile_experience_waitlist_form_10
+      label: terms_agreement
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 11
+      name: mobile_experience_waitlist_form_11
+      label: privacy_policy
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 12
+      name: mobile_experience_waitlist_form_12
+      label: early_access_list
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 13
+      name: mobile_experience_waitlist_form_13
+      label: early_access
+      hint: null
+      type: number
+      options: []
+      required: true

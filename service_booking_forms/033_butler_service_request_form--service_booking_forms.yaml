@@ -1,0 +1,177 @@
+inputSchema:
+  type: object
+  properties:
+    title: Butler Service Request Form
+    pages:
+    - id: 1
+      name: guest_name
+      label: Guest Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: guest_email
+      label: Email Address
+      hint: Your contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: guest_phone
+      label: Phone Number
+      hint: Your contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: room_number
+      label: Room Number or Suite
+      hint: Your accommodation details
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: service_type
+      label: Type of Service Requested
+      hint: What service do you need?
+      type: select_one
+      options:
+      - Room service or refreshments
+      - Housekeeping or tidying
+      - Laundry or garment care
+      - Food and beverage service
+      - Guest preparation or dressing assistance
+      - Travel or transportation arrangement
+      - Special arrangements or event setup
+      - Errands or shopping
+      - Guest relations assistance
+      - Other service
+      required: true
+    - id: 6
+      name: service_description
+      label: Detailed Description of Service Needed
+      hint: Please explain specifically what you need
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: urgency_level
+      label: Urgency Level
+      hint: How soon do you need this?
+      type: select_one
+      options:
+      - Immediate - within 15 minutes
+      - Urgent - within 1 hour
+      - Soon - within 3 hours
+      - Standard - within 24 hours
+      - Flexible
+      required: true
+    - id: 8
+      name: preferred_date
+      label: Preferred Service Date
+      hint: What date would you prefer?
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: preferred_time
+      label: Preferred Service Time
+      hint: What time is best for you?
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: special_requests
+      label: Special Requests or Preferences
+      hint: Any specific preferences or requirements?
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: dietary_restrictions
+      label: Dietary Restrictions or Allergies
+      hint: If requesting food service
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: guest_preferences
+      label: Guest Preferences or Habits
+      hint: Things we should know to assist better
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: number_of_people
+      label: Number of People Involved
+      hint: How many people need assistance?
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: specific_items
+      label: Specific Items or Materials Needed
+      hint: List any specific items required
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: budget_estimate
+      label: Budget Range (if applicable)
+      hint: Estimated cost preference
+      type: select_one
+      options:
+      - Budget conscious
+      - Standard service
+      - Premium service
+      - No budget constraints
+      - Not applicable
+      required: false
+    - id: 16
+      name: staff_preference
+      label: Staff Preference
+      hint: Any specific butler or staff member?
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: privacy_level
+      label: Privacy or Discretion Level
+      hint: null
+      type: select_one
+      options:
+      - Standard service
+      - High discretion required
+      - Completely private arrangement
+      - No specific requirement
+      required: false
+    - id: 18
+      name: contact_preference
+      label: Preferred Contact Method
+      hint: How should we confirm the service?
+      type: select_one
+      options:
+      - Phone call
+      - Text message
+      - Email
+      - In-person visit
+      - At door knock
+      required: true
+    - id: 19
+      name: cancellation_policy
+      label: Acknowledge Cancellation Policy
+      hint: Review cancellation terms
+      type: select_one
+      options:
+      - Yes, I understand
+      - Need clarification
+      - false
+      required: true
+    - id: 20
+      name: additional_notes
+      label: Additional Notes or Comments
+      hint: Anything else we should know?
+      type: text
+      options: []
+      required: false

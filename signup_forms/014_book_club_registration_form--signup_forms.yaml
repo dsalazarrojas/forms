@@ -1,0 +1,223 @@
+inputSchema:
+  type: object
+  properties:
+    title: Book Club Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: We will send meeting updates here
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: For urgent communications
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: Your birth date
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: address_line_1
+      label: Address Line 1
+      hint: Your street address
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: city
+      label: City
+      hint: Your city
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: state
+      label: State
+      hint: Your state
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: zip_code
+      label: ZIP Code
+      hint: Your ZIP code
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: how_did_you_hear
+      label: How Did You Hear About Us
+      hint: How did you find out about this club
+      type: select_one
+      options:
+      - Friend or Family Referral
+      - Social Media
+      - Library Website
+      - Community Event
+      - Flyer or Poster
+      - Search Engine
+      - Other
+      required: false
+    - id: 11
+      name: reading_preferences
+      label: Favorite Reading Genres
+      hint: Select genres you enjoy
+      type: select_multiple
+      options:
+      - Fiction
+      - Mystery
+      - Thriller
+      - Romance
+      - Science Fiction
+      - Fantasy
+      - Historical Fiction
+      - Non-Fiction
+      - Biography
+      - Self-Help
+      - Classic Literature
+      - Poetry
+      required: true
+    - id: 12
+      name: current_reads
+      label: What Are You Currently Reading
+      hint: List any books you are reading now
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: reading_goal
+      label: How Many Books Do You Read Per Year
+      hint: Your approximate reading rate
+      type: select_one
+      options:
+      - 1-5 books
+      - 6-10 books
+      - 11-20 books
+      - 21-30 books
+      - Over 30 books
+      required: true
+    - id: 14
+      name: preferred_format
+      label: Preferred Book Format
+      hint: How do you prefer to read
+      type: select_one
+      options:
+      - Physical Book
+      - eBook
+      - Audiobook
+      - No preference
+      required: true
+    - id: 15
+      name: meeting_preference
+      label: Preferred Meeting Type
+      hint: How would you like to meet
+      type: select_one
+      options:
+      - In Person Only
+      - Virtual Only
+      - Hybrid Either Works
+      required: true
+    - id: 16
+      name: availability
+      label: Your Availability
+      hint: When can you attend meetings
+      type: select_multiple
+      options:
+      - Weekday Mornings
+      - Weekday Afternoons
+      - Weekday Evenings
+      - Weekend Mornings
+      - Weekend Afternoons
+      - Weekend Evenings
+      required: true
+    - id: 17
+      name: discussion_comfort
+      label: Comfort Level Sharing in Groups
+      hint: How comfortable are you sharing opinions
+      type: select_one
+      options:
+      - Very Comfortable
+      - Comfortable
+      - Neutral
+      - Somewhat Uncomfortable
+      - Very Uncomfortable
+      required: false
+    - id: 18
+      name: previous_experience
+      label: Previous Book Club Experience
+      hint: Have you been in a book club before
+      type: select_one
+      options:
+      - Yes currently in one
+      - Yes in the past
+      - No this is my first
+      required: false
+    - id: 19
+      name: volunteer_interest
+      label: Interested in Volunteering
+      hint: Would you help organize or facilitate
+      type: select_one
+      options:
+      - Yes definitely
+      - Maybe someday
+      - No thanks
+      required: true
+    - id: 20
+      name: special_needs
+      label: Accessibility Needs or Accommodations
+      hint: Any accommodations we should provide
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Full name of emergency contact
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number for emergency contact
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: terms_agreement
+      label: I Agree to Book Club Guidelines
+      hint: By selecting yes you agree to participate respectfully
+      type: select_one
+      options:
+      - Yes I agree
+      - No I do not agree
+      required: true
+    - id: 24
+      name: registration_date
+      label: Registration Date
+      hint: Date of registration
+      type: date
+      options: []
+      required: true

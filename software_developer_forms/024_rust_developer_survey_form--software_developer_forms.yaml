@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: Rust Developer Survey Form
+    pages:
+    - id: 1
+      name: introduction
+      label: Rust Developer Survey Form Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: adoption
+      label: How long have you been using Rust?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Less than 6 months''}'
+      - '{''label'': ''6-12 months''}'
+      - '{''label'': ''1-2 years''}'
+      - '{''label'': ''More than 2 years''}'
+      required: false
+    - id: 3
+      name: satisfaction
+      label: How satisfied are you with Rust?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Very Satisfied''}'
+      - '{''label'': ''Satisfied''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Dissatisfied''}'
+      required: false
+    - id: 4
+      name: teams
+      label: What team or organization do you work for?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: communities
+      label: Which Rust communities or teams are you part of?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Rust Project''}'
+      - '{''label'': ''Rust Community Forum''}'
+      - '{''label'': ''Reddit (r/rust)''}'
+      - '{''label'': ''Other (specify)''}'
+      required: false
+    - id: 6
+      name: research
+      label: Is there any specific feature you would like to see in Rust?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: other_needs
+      label: Other needs for Rust?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: feedback
+      label: Any further feedback about Rust?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Would you like to share your email address with us?
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Would you like to share your phone number with us?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: Any other comments?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: agreement
+      label: By clicking submit, I agree to the terms of service
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''I agree''}'
+      - '{''label'': ''I disagree''}'
+      required: true

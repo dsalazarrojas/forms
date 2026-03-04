@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Patient Education Animation Voiceover Consent Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: consent_status
+      label: consent_status
+      hint: null
+      type: select_one
+      options:
+      - Given
+      - Declined
+      - Unknown
+      required: false
+    - id: 3
+      name: contact_information
+      label: contact_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: consent_date
+      label: consent_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: animation_title
+      label: animation_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: animation_video
+      label: animation_video
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: animation_audio
+      label: animation_audio
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: animation_image
+      label: animation_image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: consent_to_use_audio
+      label: consent_to_use_audio
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: consent_to_share_audio
+      label: consent_to_share_audio
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: consent_to_use_image
+      label: consent_to_use_image
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: consent_to_share_image
+      label: consent_to_share_image
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

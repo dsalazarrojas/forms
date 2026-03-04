@@ -1,0 +1,79 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: placenta_encapsulation_agreement_form
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_information
+      label: Patient Information
+      hint: Please provide all required patient information.
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: encapsulation_procedure
+      label: Encapsulation Procedure
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: informed_consent
+      label: Informed Consent
+      hint: Please sign below to acknowledge that you have read and understood the
+        information provided.
+      type: select_one
+      options:
+      - I have read and understood the information provided
+      - I have not read the information provided
+      - I have read but do not understand the information provided
+      required: true
+    - id: 5
+      name: encapsulation_services
+      label: Encapsulation Services
+      hint: null
+      type: select_multiple
+      options:
+      - Encapsulation of Blood
+      - Encapsulation of Tissue
+      - Encapsulation of Placenta
+      required: false
+    - id: 6
+      name: encapsulation_services_other
+      label: Other Encapsulation Services (if any)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact
+      label: Emergency Contact
+      hint: Please list the name and phone number of an emergency contact.
+      type: text
+      options: []
+      required: false

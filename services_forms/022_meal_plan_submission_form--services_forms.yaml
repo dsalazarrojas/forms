@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: Meal Plan Submission Form
+    pages:
+    - id: 1
+      name: meal_plan_1
+      label: Meal Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: total_days
+      label: Total Days
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: meal_plan_details
+      label: Meal Plan Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: breakfasts
+      label: Breakfasts
+      hint: null
+      type: select_multiple
+      options:
+      - Breakfast
+      - Lunch
+      - Dinner
+      - Snacks
+      required: false
+    - id: 10
+      name: lunches
+      label: Lunches
+      hint: null
+      type: select_multiple
+      options:
+      - Breakfast
+      - Lunch
+      - Dinner
+      - Snacks
+      required: false
+    - id: 11
+      name: dinners
+      label: Dinners
+      hint: null
+      type: select_multiple
+      options:
+      - Breakfast
+      - Lunch
+      - Dinner
+      - Snacks
+      required: false
+    - id: 12
+      name: snacks
+      label: Snacks
+      hint: null
+      type: select_multiple
+      options:
+      - Breakfast
+      - Lunch
+      - Dinner
+      - Snacks
+      required: false

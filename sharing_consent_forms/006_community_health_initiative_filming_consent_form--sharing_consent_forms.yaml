@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Health Initiative Filming Consent Form
+    pages:
+    - id: 1
+      name: consent_header
+      label: -- Filming Consent --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact email
+      hint: For notification about media use
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone number
+      hint: Optional contact number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: consent_to_record
+      label: Consent to be recorded
+      hint: Agree to audio and video recording
+      type: select_one
+      options:
+      - I consent
+      - I do not consent
+      required: true
+    - id: 6
+      name: usage_permission
+      label: Permission for use of recordings
+      hint: How recordings may be used
+      type: select_multiple
+      options:
+      - Educational materials
+      - Promotional materials
+      - Research archives
+      - Internal training
+      required: true
+    - id: 7
+      name: duration_of_use
+      label: Duration of use
+      hint: Specify time period or permanent
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: withdraw_process
+      label: Process to withdraw consent
+      hint: Explain how participant can withdraw consent
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: signature_name
+      label: Signature name
+      hint: Print name as signature confirmation
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: signature_date
+      label: Signature date
+      hint: Date consent was given
+      type: date
+      options: []
+      required: true

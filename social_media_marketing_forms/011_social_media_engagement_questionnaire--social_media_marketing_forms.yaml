@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: Social Media Engagement Questionnaire
+    pages:
+    - id: 1
+      name: platform_used
+      label: Facebook
+      hint: null
+      type: select_one
+      options:
+      - Facebook
+      - Twitter
+      - Instagram
+      - TikTok
+      - Other
+      required: false
+    - id: 2
+      name: engagement_level
+      label: Engagement Level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: audience_preference
+      label: Audience Preferences
+      hint: What do you prefer?
+      type: select_multiple
+      options:
+      - Demographic
+      - Psychographic
+      - Behavioral
+      required: false
+    - id: 4
+      name: interaction_preference
+      label: Preferred Interactions
+      hint: What type of interaction do you prefer?
+      type: select_multiple
+      options:
+      - Comments
+      - Messages
+      - Videos
+      - Photos
+      - Posts
+      required: false
+    - id: 5
+      name: frequency_of_use
+      label: Frequency of Use
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
+      required: false
+    - id: 6
+      name: interaction_frequency
+      label: Interaction Frequency
+      hint: How often do you interact with our social media platforms?
+      type: select_multiple
+      options:
+      - Less than 1 time
+      - 1-2 times
+      - 3-5 times
+      - More than 5 times
+      required: false
+    - id: 7
+      name: post_type
+      label: Post Type
+      hint: null
+      type: select_one
+      options:
+      - Text
+      - Image
+      - Video
+      - Link
+      required: false
+    - id: 8
+      name: engagement_reason
+      label: Engagement Reason
+      hint: Why do you engage with our posts?
+      type: select_multiple
+      options:
+      - Interesting
+      - Instructive
+      - Entertaining
+      - Educational
+      - Informative
+      required: false
+    - id: 9
+      name: post_schedule
+      label: Post Schedule
+      hint: When do you usually see our posts?
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: interaction_schedule
+      label: Interaction Schedule
+      hint: When do you usually interact with our posts?
+      type: time
+      options: []
+      required: false

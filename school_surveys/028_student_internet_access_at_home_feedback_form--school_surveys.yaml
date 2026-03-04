@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Internet Access At Home Feedback Form
+    pages:
+    - id: 1
+      name: internet_access_at_home
+      label: internet_access_at_home
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: feel
+      label: how_i_feel
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: time_spent
+      label: time_spent
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: internet_at_school
+      label: internet_at_school
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      - '{''value'': ''Not sure''}'
+      required: false
+    - id: 5
+      name: parent_involvement
+      label: parent_involvement
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 6
+      name: device
+      label: device
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Laptop/Desktop''}'
+      - '{''value'': ''Smartphone''}'
+      - '{''value'': ''Tablet''}'
+      required: false
+    - id: 7
+      name: network_speed
+      label: network_speed
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Fast''}'
+      - '{''value'': ''Slow''}'
+      required: false
+    - id: 8
+      name: internet_access
+      label: internet_access
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      - '{''value'': ''Not enough''}'
+      required: false
+    - id: 9
+      name: feel_important
+      label: feel_important
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Important''}'
+      - '{''value'': ''Not important''}'
+      - '{''value'': ''Not at all important''}'
+      required: false
+    - id: 10
+      name: parent_knowledge
+      label: parent_knowledge
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''High''}'
+      - '{''value'': ''Low''}'
+      - '{''value'': ''No answer''}'
+      required: false

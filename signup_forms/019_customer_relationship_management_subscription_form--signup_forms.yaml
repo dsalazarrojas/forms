@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: customer_relationship_management_subscription_form
+    pages:
+    - id: 1
+      name: customer
+      label: Customer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: subscription_type
+      label: Subscription type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Option 1''}'
+      - '{''id'': 2, ''name'': ''Option 2''}'
+      - '{''id'': 3, ''name'': ''Option 3''}'
+      required: false
+    - id: 7
+      name: subscription_date
+      label: Subscription date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: subscription_duration
+      label: Subscription duration
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Month''}'
+      - '{''id'': 2, ''name'': ''Month to Month''}'
+      - '{''id'': 3, ''name'': ''Year''}'
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: assigned_tool
+      label: Assigned tool
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''chatjimmy''}'
+      - Other
+      required: false
+    - id: 11
+      name: created_by
+      label: Created by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: updated_by
+      label: Updated by
+      hint: null
+      type: text
+      options: []
+      required: false

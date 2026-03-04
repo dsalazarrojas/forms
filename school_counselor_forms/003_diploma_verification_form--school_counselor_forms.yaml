@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: Diploma Verification Form
+    pages:
+    - id: 1
+      name: applicant_information
+      label: Applicant Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: school_location
+      label: School Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_graduation
+      label: Date of Graduation
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: degree_received
+      label: Degree Received
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: field_of_study
+      label: Field of Study
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: major
+      label: Major
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: gpa
+      label: GPA
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: graduation_date
+      label: Graduation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: verification
+      label: Verification
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 11
+      name: verification_date
+      label: Verification Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: verification_by
+      label: Verification by
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: verification_status
+      label: Verification Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 14
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: verified_by
+      label: Verified By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: verified_date
+      label: Verified Date
+      hint: null
+      type: date
+      options: []
+      required: false

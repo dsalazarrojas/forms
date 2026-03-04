@@ -1,0 +1,97 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: indoor_climate_control_data_consent_form
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: consent
+      label: I
+      hint: null
+      type: select_multiple
+      options:
+      - I
+      - do
+      - not
+      required: false
+    - id: 3
+      name: monitoring
+      label: Monitoring
+      hint: null
+      type: select_one
+      options:
+      - Research
+      - Monitoring
+      - Optimization
+      required: false
+    - id: 4
+      name: monitoring_period
+      label: Monitoring
+      hint: Select a period for monitoring
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: data_sharing
+      label: Share
+      hint: null
+      type: select_multiple
+      options:
+      - Research
+      - Optimization
+      - Both
+      required: false
+    - id: 6
+      name: data_sharing_with
+      label: Who
+      hint: null
+      type: select_multiple
+      options:
+      - Occupants
+      - Property
+      - Both
+      required: false
+    - id: 7
+      name: data_sharing_with_others
+      label: Others
+      hint: null
+      type: select_multiple
+      options:
+      - Research
+      - Optimization
+      - Both
+      required: false
+    - id: 8
+      name: notes
+      label: Additional
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: form_completion
+      label: Complete
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - Partial
+      - None
+      required: false

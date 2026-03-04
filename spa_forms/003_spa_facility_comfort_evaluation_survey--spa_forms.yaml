@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Spa Facility Comfort Evaluation Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: facility_rating
+      label: What's your overall rating of the facility?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: ambiance_rating
+      label: How would you rate the ambiance?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: cleanliness_rating
+      label: How would you rate the cleanliness?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: comfort_rating
+      label: How would you rate the comfort?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: service_rating
+      label: How would you rate the service?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: facilities
+      label: What's your favorite facility?
+      hint: null
+      type: select_one
+      options:
+      - Spa
+      - Sauna
+      - Pool
+      - Fitness Center
+      - Other
+      required: false
+    - id: 8
+      name: services
+      label: Which services did you use?
+      hint: null
+      type: select_multiple
+      options:
+      - Massage
+      - Facial
+      - Haircut
+      - Nail
+      - Other
+      required: false
+    - id: 9
+      name: suggestions
+      label: Do you have any suggestions or comments?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: Enter a real email address
+      type: email
+      options: []
+      required: false

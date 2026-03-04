@@ -1,0 +1,159 @@
+inputSchema:
+  type: object
+  properties:
+    title: Voiceover Studio Session Booking Form
+    pages:
+    - id: 1
+      name: booking_info
+      label: booking_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: client_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: studio_address
+      label: studio_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: start_date
+      label: start_date
+      hint: Select a date
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: start_time
+      label: start_time
+      hint: Select a time
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: voice_actor
+      label: voice_actor
+      hint: Select a voice actor
+      type: select_one
+      options:
+      - '{''id'': 10, ''label'': ''Voice Actor 1''}'
+      - '{''id'': 11, ''label'': ''Voice Actor 2''}'
+      - '{''id'': 12, ''label'': ''Voice Actor 3''}'
+      required: false
+    - id: 7
+      name: end_date
+      label: end_date
+      hint: Select a date
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: end_time
+      label: end_time
+      hint: Select a time
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: client_email
+      label: client_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: studio_email
+      label: studio_email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: booking_status
+      label: booking_status
+      hint: Select a status
+      type: select_multiple
+      options:
+      - '{''id'': 14, ''label'': ''Pending''}'
+      - '{''id'': 15, ''label'': ''Approved''}'
+      - '{''id'': 16, ''label'': ''Declined''}'
+      - '{''id'': 17, ''label'': ''Cancelled''}'
+      required: false
+    - id: 14
+      name: studio_contact
+      label: studio_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: additional_info
+      label: additional_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: assigned_user
+      label: assigned_user
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: studio_name
+      label: studio_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: studio_address
+      label: studio_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: studio_phone
+      label: studio_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: studio_email
+      label: studio_email
+      hint: null
+      type: email
+      options: []
+      required: false

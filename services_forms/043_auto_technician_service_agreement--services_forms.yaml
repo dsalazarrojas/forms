@@ -1,0 +1,126 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Auto Technician Service Agreement
+    pages:
+      - id: 1
+        name: client_vehicle_header
+        label: -- Client and Vehicle Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: client_full_name
+        label: Client Full Name
+        hint: Legal name for the service record
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: billing_address
+        label: Billing Address
+        hint: Street, City, State, Zip
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: vehicle_vin
+        label: Vehicle VIN
+        hint: 17-digit ID number
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: vehicle_desc
+        label: Vehicle Description
+        hint: Year, Make, and Model
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: requested_services_header
+        label: -- Requested Services --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: service_list
+        label: Services to be Performed
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Engine Diagnostic
+          - Suspension Repair
+          - Brake Service
+          - AC Recharge
+          - Electrical System
+          - Transmission Flush
+        required: true
+      - id: 8
+        name: client_instructions
+        label: Specific Client Instructions
+        hint: Any other details for the technician
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: service_date
+        label: Service Appointment Date
+        hint: Scheduled date for the work
+        type: date
+        options: []
+        required: true
+      - id: 10
+        name: consent_terms_header
+        label: -- Consent and Terms --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 11
+        name: auth_testing
+        label: Authorize Standard Diagnostic Testing
+        hint: Required for troubleshooting
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 12
+        name: agree_estimate
+        label: Agree to Estimate and Cost Policies
+        hint: I acknowledge that additional repairs may require new estimates
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 13
+        name: signature_consent
+        label: Electronic Signature Consent
+        hint: I agree to sign this agreement digitally
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 14
+        name: signature_name
+        label: Signature (Printed Name)
+        hint: Typed name acts as a legal signature
+        type: text
+        options: []
+        required: true

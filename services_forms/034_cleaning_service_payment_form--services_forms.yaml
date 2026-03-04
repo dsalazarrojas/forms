@@ -1,0 +1,268 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cleaning Service Payment Form
+    pages:
+    - id: 1
+      name: section_header_billing
+      label: -- Billing Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: billing_name
+      label: Full Name
+      hint: Name on the billing account
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: billing_email
+      label: Email Address
+      hint: For payment receipts and confirmation
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: billing_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: billing_address
+      label: Billing Address
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: billing_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: billing_state
+      label: State/Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: billing_zip
+      label: ZIP/Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: section_header_service
+      label: -- Service Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: service_date
+      label: Service Date
+      hint: Date of the cleaning service
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: service_type
+      label: Type of Service
+      hint: What cleaning service was provided?
+      type: select_one
+      options:
+      - Regular Cleaning
+      - Deep Cleaning
+      - Move-In/Move-Out
+      - Window Cleaning
+      - Carpet Cleaning
+      - Post-Construction
+      - Other
+      required: true
+    - id: 12
+      name: property_address
+      label: Property Address
+      hint: Address where service was provided
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: section_header_charges
+      label: -- Service Charges --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: base_service_charge
+      label: Base Service Charge
+      hint: Cost of the cleaning service
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: additional_services
+      label: Additional Services
+      hint: Description of any extra services
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: additional_charge
+      label: Additional Services Charge
+      hint: Cost of extra services
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: discount_applied
+      label: Discount or Promo Code
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: discount_amount
+      label: Discount Amount
+      hint: Amount to be deducted
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: tax_amount
+      label: Tax Amount
+      hint: Applicable taxes
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: total_amount
+      label: Total Amount Due
+      hint: Complete payment amount
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: section_header_payment
+      label: -- Payment Method --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: payment_method
+      label: Payment Method
+      hint: How would you like to pay?
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Bank Transfer
+      - Check
+      - PayPal
+      - Other
+      required: true
+    - id: 23
+      name: recurring_payment
+      label: Is This a Recurring Payment?
+      hint: Will you be billed regularly?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 24
+      name: recurring_frequency
+      label: Recurring Payment Frequency
+      hint: How often will you be charged?
+      type: select_one
+      options:
+      - Weekly
+      - Bi-weekly
+      - Monthly
+      - Quarterly
+      - Not Applicable
+      required: true
+    - id: 25
+      name: payment_authorization
+      label: Payment Authorization
+      hint: Authorization for payment processing
+      type: select_one
+      options:
+      - I Authorize Payment
+      - I Do Not Authorize
+      required: true
+    - id: 26
+      name: auto_renewal
+      label: Auto-Renewal Authorization
+      hint: Authorize automatic recurring payments?
+      type: select_one
+      options:
+      - I Authorize Auto-Renewal
+      - One-Time Payment Only
+      required: true
+    - id: 27
+      name: section_header_terms
+      label: -- Terms and Conditions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: agree_terms
+      label: I agree to the payment terms and conditions
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 29
+      name: cancellation_policy
+      label: I understand the cancellation policy
+      hint: null
+      type: select_one
+      options:
+      - I Understand
+      - I Do Not Agree
+      required: true
+    - id: 30
+      name: privacy_consent
+      label: I consent to collect and process my payment information
+      hint: null
+      type: select_one
+      options:
+      - I Consent
+      - I Do Not Consent
+      required: true
+    - id: 31
+      name: section_header_confirmation
+      label: -- Payment Confirmation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 32
+      name: confirm_amount
+      label: I confirm the amount due is correct
+      hint: null
+      type: select_one
+      options:
+      - Yes, Confirmed
+      - No, I Need Changes
+      required: true
+    - id: 33
+      name: payment_date
+      label: Payment Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true

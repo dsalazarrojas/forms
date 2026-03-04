@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: moving_quote_request_form
+    pages:
+    - id: 1
+      name: submitter_info
+      label: submitter info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: moving_details
+      label: moving details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: moving_date
+      label: moving date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: moving_time
+      label: moving time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: files
+      label: files
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: file_name
+      label: file name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: file_description
+      label: file description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: file_size
+      label: file size
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: file_type
+      label: file type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submitter_email
+      label: submitter email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: submitter_phone
+      label: submitter phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submitter_company
+      label: submitter company
+      hint: null
+      type: text
+      options: []
+      required: false

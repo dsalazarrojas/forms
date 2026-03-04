@@ -1,0 +1,216 @@
+inputSchema:
+  type: object
+  properties:
+    title: Car Service Booking Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Your name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: customer_phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: vehicle_information
+      label: -- VEHICLE INFORMATION --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: vehicle_year
+      label: Vehicle year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: vehicle_make
+      label: Vehicle make
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: vehicle_model
+      label: Vehicle model
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: vehicle_registration_number
+      label: Registration number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: vehicle_mileage
+      label: Current mileage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: service_booking_details
+      label: -- SERVICE BOOKING DETAILS --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: preferred_service_date
+      label: Preferred service date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: preferred_service_time
+      label: Preferred service time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 13
+      name: service_type
+      label: Type of service needed
+      hint: null
+      type: select_one
+      options:
+      - Regular Maintenance
+      - Oil Change
+      - Tire Service
+      - Brake Service
+      - Engine Diagnostics
+      - Transmission
+      - Electrical
+      - Air Conditioning
+      - Inspection
+      - Other
+      required: true
+    - id: 14
+      name: service_description
+      label: Describe the service you need
+      hint: Any problems or concerns with your vehicle
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: service_urgency
+      label: Service urgency
+      hint: null
+      type: select_one
+      options:
+      - Routine Maintenance
+      - Standard
+      - Urgent
+      - Emergency
+      required: false
+    - id: 16
+      name: preferred_mechanic
+      label: Preferred mechanic or service center
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: warranty_coverage
+      label: Does the vehicle have warranty coverage?
+      hint: null
+      type: select_one
+      options:
+      - Yes - Manufacturer Warranty
+      - Yes - Extended Warranty
+      - false
+      - Not Sure
+      required: false
+    - id: 18
+      name: loaner_vehicle_required
+      label: Do you need a loaner vehicle?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Sure
+      required: false
+    - id: 19
+      name: drop_off_option
+      label: Drop-off or mobile service?
+      hint: null
+      type: select_one
+      options:
+      - Drop-off at Service Center
+      - Mobile Service at My Location
+      - Pick-up Service
+      required: true
+    - id: 20
+      name: service_address
+      label: Service address (if not at center)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: service_history
+      label: Has your vehicle been serviced here before?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - First Time
+      required: false
+    - id: 22
+      name: special_requests
+      label: Special requests or requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: estimated_cost_awareness
+      label: Are you aware of estimated service cost?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Needs Quote
+      required: false
+    - id: 24
+      name: payment_method
+      label: Preferred payment method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Credit Card
+      - Debit Card
+      - Online Transfer
+      - Check
+      - Corporate Account
+      required: false
+    - id: 25
+      name: additional_notes
+      label: Additional notes or comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: injector_service_feedback_form
+    pages:
+    - id: 1
+      name: injector_service_feedback_form
+      label: What was the quality of the service?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: rating
+      label: How would you rate the service?
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: true
+    - id: 3
+      name: comments
+      label: Do you have any comments?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: contact_number
+      label: What is your contact number?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: What is your e-mail address?
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: vehicle_make
+      label: What is your vehicle make?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: vehicle_year
+      label: What is your vehicle year?
+      hint: null
+      type: number
+      options: []
+      required: false

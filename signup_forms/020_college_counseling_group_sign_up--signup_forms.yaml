@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: College Counseling Group Sign Up
+    pages:
+    - id: 1
+      name: student_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: student_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_id
+      label: Student ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: student_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: student_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: class_year
+      label: Class Year or Grade Level
+      hint: null
+      type: select_one
+      options:
+      - Freshman
+      - Sophomore
+      - Junior
+      - Senior
+      - Graduate
+      required: true
+    - id: 7
+      name: group_counseling_interest
+      label: Interested in Group Counseling
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: group_preference
+      label: Type of Group Counseling of Interest
+      hint: Select primary interest
+      type: select_one
+      options:
+      - Stress and Anxiety Management
+      - Depression Support
+      - Social Skills and Relationships
+      - Academic Success
+      - Identity and Self-esteem
+      - Substance Use Prevention
+      - Grief and Loss
+      - Other
+      required: true
+    - id: 9
+      name: other_groups_interested
+      label: Other Groups Interested In
+      hint: Select any additional groups
+      type: select_multiple
+      options:
+      - Stress and Anxiety Management
+      - Depression Support
+      - Social Skills and Relationships
+      - Academic Success
+      - Identity and Self-esteem
+      - Substance Use Prevention
+      - Grief and Loss
+      required: false
+    - id: 10
+      name: previous_counseling
+      label: Have you received counseling before
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unsure
+      required: true
+    - id: 11
+      name: previous_group_experience
+      label: Have you participated in group counseling before
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: schedule_preference
+      label: Preferred Meeting Days and Times
+      hint: Select available days
+      type: select_multiple
+      options:
+      - Monday morning
+      - Monday afternoon
+      - Tuesday morning
+      - Tuesday afternoon
+      - Wednesday morning
+      - Wednesday afternoon
+      - Thursday morning
+      - Thursday afternoon
+      - Friday morning
+      - Friday afternoon
+      required: true
+    - id: 13
+      name: availability_constraints
+      label: Schedule Constraints or Limitations
+      hint: Any days or times you cannot attend
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: commitment_level
+      label: Expected Commitment Level
+      hint: How long are you willing to commit
+      type: select_one
+      options:
+      - 4 weeks
+      - 8 weeks
+      - 12 weeks
+      - Full semester
+      - As long as needed
+      required: true
+    - id: 15
+      name: mental_health_concerns
+      label: Primary Mental Health Concerns or Challenges
+      hint: What brings you to group counseling
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: goals_for_counseling
+      label: Goals for Group Counseling
+      hint: What do you hope to achieve
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: communication_preferences
+      label: Communication Preferences
+      hint: How do you prefer to be contacted
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Text Message
+      - In-person
+      required: true
+    - id: 18
+      name: confidentiality_understanding
+      label: I understand group confidentiality guidelines
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: consent_to_participate
+      label: I consent to participate in group counseling
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: additional_information
+      label: Additional Information or Comments
+      hint: Anything else we should know
+      type: text
+      options: []
+      required: false

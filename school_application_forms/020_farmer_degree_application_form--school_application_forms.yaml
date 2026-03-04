@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Farmer Degree Application Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: farm_name
+      label: Farm Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: farm_location
+      label: Farm Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: farm_size
+      label: Farm Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: farm_type
+      label: Farm Type
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      required: false
+    - id: 8
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: farm_experience
+      label: Farm Experience
+      hint: null
+      type: note
+      options: []
+      required: false

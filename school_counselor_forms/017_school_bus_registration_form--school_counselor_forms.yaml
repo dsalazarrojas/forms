@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: school_bus_registration_form
+    pages:
+    - id: 1
+      name: student_id
+      label: Student ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: student_name
+      hint: Enter student name here
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: school_id
+      label: school_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: trip_dates
+      label: trip_dates
+      hint: Select dates for trip
+      type: select_multiple
+      options:
+      - Date 1
+      - Date 2
+      - Date 3
+      - Date 4
+      - Date 5
+      required: false
+    - id: 5
+      name: bus_number
+      label: bus_number
+      hint: Enter bus number here
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: route_number
+      label: route_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: stop_number
+      label: stop_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: student_type
+      label: student_type
+      hint: null
+      type: select_one
+      options:
+      - Student A
+      - Student B
+      - Student C
+      required: false
+    - id: 9
+      name: student_notes
+      label: student_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: school_contact
+      label: school_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: student_email
+      label: student_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: student_phone
+      label: student_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: school_bus_phone
+      label: school_bus_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: student_parents
+      label: student_parents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: student_address
+      label: student_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: student_notes
+      label: student_notes
+      hint: null
+      type: note
+      options: []
+      required: false

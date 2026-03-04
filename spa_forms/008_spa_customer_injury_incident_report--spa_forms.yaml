@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Spa Customer Injury Incident Report
+    pages:
+    - id: 1
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: location
+      label: Location
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Spa''}'
+      - '{''id'': 2, ''name'': ''Other''}'
+      - '{''id'': 3, ''name'': ''Unspecified''}'
+      required: true
+    - id: 3
+      name: incident_type
+      label: Incident Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Injury''}'
+      - '{''id'': 2, ''name'': ''Illness''}'
+      - '{''id'': 3, ''name'': ''Other''}'
+      required: true
+    - id: 4
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: customer_signature
+      label: Customer Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: staff_name
+      label: Staff Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: staff_email
+      label: Staff Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: staff_phone
+      label: Staff Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: incident_reporter
+      label: Incident Reporter
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: incident_date_reported
+      label: Incident Date Reported
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: follow_up_status
+      label: Follow-up Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Done''}'
+      - '{''id'': 2, ''name'': ''Not Done''}'
+      - '{''id'': 3, ''name'': ''Not Applicable''}'
+      required: false
+    - id: 15
+      name: internal_notes
+      label: Internal Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: follow_up_notes
+      label: Follow-up Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: customer_injuries
+      label: Customer Injuries
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: staff_injuries
+      label: Staff Injuries
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: staff_first_aids
+      label: Staff First Aid
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: staff_first_aids_notes
+      label: Staff First Aid Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: customer_first_aids
+      label: Customer First Aid
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: customer_first_aids_notes
+      label: Customer First Aid Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: incident_report_date
+      label: Incident Report Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: incident_reporter_signature
+      label: Incident Reporter Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: spa_reviewed_by
+      label: Spa Reviewed By
+      hint: null
+      type: text
+      options: []
+      required: true

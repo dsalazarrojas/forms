@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Spa Relaxation Therapy Appointment Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: appointment_date
+      label: appointment_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: appointment_time
+      label: appointment_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: therapist
+      label: select_therapist
+      hint: Choose a Therapist
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: duration
+      label: duration
+      hint: How long would you like to schedule your appointment for?
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: message
+      label: message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: available_therapists
+      label: available_therapists
+      hint: Choose an available Therapist
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      required: false

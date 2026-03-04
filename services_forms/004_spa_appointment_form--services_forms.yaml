@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Spa Appointment Form
+    pages:
+    - id: 1
+      name: appointment_time
+      label: Start Time
+      hint: null
+      type: select_one
+      options:
+      - 09:00 AM - 10:00 AM
+      - 10:00 AM - 11:00 AM
+      - 11:00 AM - 12:00 PM
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: Enter client's name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: appointment_date
+      label: Select Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: services_chosen
+      label: Services Chosen
+      hint: null
+      type: select_multiple
+      options:
+      - Massage
+      - Facial
+      - Haircut
+      required: false
+    - id: 5
+      name: appointment_note
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: spa_location
+      label: Spa Location
+      hint: Enter spa location
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: employee_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: employee_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

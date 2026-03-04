@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: prospective_travel_client_vacation_form
+    pages:
+    - id: 1
+      name: travel_dates_start
+      label: Travel Dates Start
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: travel_dates_end
+      label: Travel Dates End
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: travel_destination
+      label: travel_destination
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: number_of_people
+      label: number_of_people
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: travel_agent
+      label: travel_agent
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: travel_agent_phone
+      label: travel_agent_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: accommodation_type
+      label: accommodation_type
+      hint: null
+      type: select_one
+      options:
+      - Hotel
+      - Cottage
+      - House
+      - Other
+      required: false
+    - id: 8
+      name: accommodation_other
+      label: accommodation_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: accommodation_note
+      label: accommodation_note
+      hint: null
+      type: note
+      options: []
+      required: false

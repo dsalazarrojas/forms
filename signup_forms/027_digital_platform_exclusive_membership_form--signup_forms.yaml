@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Digital Platform Exclusive Membership Form
+    pages:
+    - id: 1
+      name: member_info
+      label: Member Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: platform_type
+      label: Platform Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Website''}'
+      - '{''id'': 2, ''label'': ''Mobile App''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: false
+    - id: 3
+      name: platform_url
+      label: Platform URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: membership_level
+      label: Membership Level
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Free''}'
+      - '{''id'': 2, ''label'': ''Premium''}'
+      - '{''id'': 3, ''label'': ''VIP''}'
+      required: false
+    - id: 5
+      name: member_since
+      label: Member Since
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: confirm_email
+      label: Confirm Email
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false
+    - id: 9
+      name: confirm_phone
+      label: Confirm Phone
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: review_status
+      label: Review Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''In Progress''}'
+      - '{''id'': 2, ''label'': ''Approved''}'
+      - '{''id'': 3, ''label'': ''Rejected''}'
+      required: false
+    - id: 13
+      name: onboarding_status
+      label: Onboarding Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Onboarding''}'
+      - '{''id'': 2, ''label'': ''Not Onboarding''}'
+      - '{''id'': 3, ''label'': ''Pending''}'
+      required: false

@@ -1,0 +1,128 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Aesthetic Procedures Delegation Form
+    pages:
+    - id: 1
+      name: provider_information
+      label: Provider Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: procedure_description
+      label: Procedure Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: provider_notes
+      label: Provider Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: client_information
+      label: Client Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: client_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: client_dob
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: medical_record_number
+      label: Medical Record Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: medical_provider
+      label: Medical Provider
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: medical_aesthetic_procedure
+      label: Medical Aesthetic Procedure
+      hint: null
+      type: select_one
+      options:
+      - Botox
+      - Chemical Peel
+      - Dermal Filler
+      - Laser
+      - Microdermabrasion
+      - Other
+      - Photodynamic Therapy
+      - Skin Tightening
+      - Tattoo Removal
+      required: false
+    - id: 12
+      name: date_of_procedure
+      label: Date of Procedure
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: time_of_procedure
+      label: Time of Procedure
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: medical_aesthetic_procedure_description
+      label: Medical Aesthetic Procedure Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: client_signature
+      label: Client Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: provider_signature
+      label: Provider Signature
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,180 @@
+inputSchema:
+  type: object
+  properties:
+    title: Unemployment Insurance Fraud Reporting Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: Enter employee's name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: reason_for_report
+      label: Reason for Report
+      hint: Explain reason for reporting
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: suspect_employee_name
+      label: Suspect Employee Name
+      hint: Enter suspect employee's name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: suspect_employee_id
+      label: Suspect Employee ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: suspect_reason
+      label: Suspect Reason
+      hint: Explain reason for suspecting
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: suspect_last_date
+      label: Suspect Last Date
+      hint: Enter last date of suspect's employment
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: suspect_first_date
+      label: Suspect First Date
+      hint: Enter first date of suspect's employment
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: suspect_job_title
+      label: Suspect Job Title
+      hint: Enter suspect's job title
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: suspect_department
+      label: Suspect Department
+      hint: Enter suspect's department
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: suspect_work_location
+      label: Suspect Work Location
+      hint: Enter suspect's work location
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: suspect_supervisor
+      label: Suspect Supervisor
+      hint: Enter suspect's supervisor
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: suspect_manager
+      label: Suspect Manager
+      hint: Enter suspect's manager
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: suspect_reported_by
+      label: Suspect Reported By
+      hint: Enter suspect's reported by
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: suspect_other
+      label: Suspect Other
+      hint: Enter suspect's other
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: employer_name
+      label: Employer Name
+      hint: Enter employer's name
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: employer_id
+      label: Employer ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: employer_address
+      label: Employer Address
+      hint: Enter employer's address
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: employer_city
+      label: Employer City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: employer_state
+      label: Employer State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: employer_zip
+      label: Employer Zip
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: report_date
+      label: Report Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: reported_by
+      label: Reported By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

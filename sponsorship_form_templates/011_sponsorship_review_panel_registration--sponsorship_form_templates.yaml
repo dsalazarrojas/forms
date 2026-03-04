@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sponsorship Review Panel Registration
+    pages:
+    - id: 1
+      name: sponsorship_review_panel_registration_page
+      label: Sponsorship Review Panel Registration
+      hint: This form helps recruit qualified panelists
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: sponsorship_review_panelist_details
+      label: Sponsorship Review Panelist Details
+      hint: null
+      type: select_one
+      options:
+      - Expert
+      - Non-expert
+      - Both
+      required: false
+    - id: 3
+      name: sponsorship_reviewer_availability
+      label: Sponsorship Reviewer Availability
+      hint: Capture reviewer availability
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: sponsorship_reviewer_expertise
+      label: Sponsorship Reviewer Expertise
+      hint: Capture reviewer expertise
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: sponsorship_reviewer_application
+      label: Sponsorship Reviewer Application
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: sponsorship_reviewer_phone
+      label: Sponsorship Reviewer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: sponsorship_reviewer_email
+      label: Sponsorship Reviewer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

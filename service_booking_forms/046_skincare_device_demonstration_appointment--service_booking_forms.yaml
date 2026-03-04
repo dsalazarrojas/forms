@@ -1,0 +1,90 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Skincare Device Demonstration Appointment
+    pages:
+    - id: 1
+      name: intro_page
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: demo_request_page
+      label: Make a demo request
+      hint: null
+      type: select_one
+      options:
+      - Facial
+      - Body Treatment
+      - Lashes
+      - Makeup
+      - Skincare
+      required: false
+    - id: 3
+      name: contact_page
+      label: Contact Information
+      hint: First and Last name, email and phone number are required
+      type: select_multiple
+      options:
+      - First Name
+      - Last Name
+      - Email
+      - Phone
+      required: false
+    - id: 4
+      name: demo_date_page
+      label: Demo Date and Time
+      hint: Select a date and time for the demo
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: demo_time_page
+      label: Demo Time
+      hint: Select a time for the demo
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: notes_page
+      label: Notes
+      hint: Write any notes about the client
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: follow_up_page
+      label: Follow Up
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: follow_up_time_page
+      label: Follow Up Time
+      hint: Select a time for the follow up
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: confirm_page
+      label: Confirm
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mandatory Vaccination Survey
+    pages:
+    - id: 1
+      name: mandatory_vaccination_survey
+      label: mandatory vaccination survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_compliance
+      label: patient compliance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: doctor_confirmation
+      label: doctor confirmation
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': True}'
+      - '{''id'': 2, ''name'': False}'
+      required: false
+    - id: 4
+      name: vaccination_date
+      label: vaccination date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: vaccination_dose
+      label: vaccination dose
+      hint: null
+      type: number
+      options: []
+      required: false

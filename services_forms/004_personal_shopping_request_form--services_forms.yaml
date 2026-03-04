@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: Personal Shopping Request Form
+    pages:
+    - id: 1
+      name: form_name
+      label: form_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_description
+      label: form_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: customer_address
+      label: customer_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: customer_note
+      label: customer_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: product_name
+      label: product_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: product_type
+      label: product_type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Clothing''}'
+      - '{''value'': ''Accessories''}'
+      - '{''value'': ''Shoes''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 10
+      name: product_size
+      label: product_size
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Small''}'
+      - '{''value'': ''Medium''}'
+      - '{''value'': ''Large''}'
+      - '{''value'': ''X-Large''}'
+      required: false
+    - id: 11
+      name: product_color
+      label: product_color
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Red''}'
+      - '{''value'': ''Blue''}'
+      - '{''value'': ''Green''}'
+      - '{''value'': ''Yellow''}'
+      required: false
+    - id: 12
+      name: product_color
+      label: product_color
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: delivery_date
+      label: delivery_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: desired_ship_date
+      label: desired_ship_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: store_name
+      label: store_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: store_email
+      label: store_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: store_phone
+      label: store_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: store_address
+      label: store_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: store_note
+      label: store_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: order_id
+      label: order_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: order_date
+      label: order_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: shipping_type
+      label: shipping_type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''FedEx''}'
+      - '{''value'': ''USPS''}'
+      - '{''value'': ''UPS''}'
+      required: false
+    - id: 23
+      name: shipping_method
+      label: shipping_method
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Free Shipping''}'
+      - '{''value'': ''Paid Shipping''}'
+      required: false
+    - id: 24
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Credit Card''}'
+      - '{''value'': ''Bank Transfer''}'
+      - '{''value'': ''Cash''}'
+      required: false

@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Travel Quote Request Form
+    pages:
+    - id: 1
+      name: travel_quote_request_form_first_page
+      label: Travel Quote Request
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: travel_quote_request_form_destination
+      label: destination
+      hint: Where are you looking to travel?
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Europe''}'
+      - '{''id'': 2, ''name'': ''Asia''}'
+      - '{''id'': 3, ''name'': ''Americas''}'
+      required: true
+    - id: 3
+      name: travel_quote_request_form_start_date
+      label: Start Date
+      hint: When do you want to travel?
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: travel_quote_request_form_return_date
+      label: Return Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: travel_quote_request_form_travelers
+      label: Number of Travelers
+      hint: How many people are traveling?
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: travel_quote_request_form_traveler_names
+      label: Traveler Names
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: travel_quote_request_form_traveler_emails
+      label: Traveler Emails
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: travel_quote_request_form_additional_info
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Designer Satisfaction Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: rating
+      label: rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: design_process
+      label: design_process
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: overall_satisfaction
+      label: overall_satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 6
+      name: suggestions
+      label: suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: submission_confirmation
+      label: submission_confirmation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: submission_comments
+      label: submission_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: submission_date
+      label: submission_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: submission_time
+      label: submission_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 14
+      name: submission_ip
+      label: submission_ip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submission_country
+      label: submission_country
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: submission_region
+      label: submission_region
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: submission_city
+      label: submission_city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: submission_street
+      label: submission_street
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: submission_postal
+      label: submission_postal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: submission_comments
+      label: submission_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: submission_latitude
+      label: submission_latitude
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: submission_longitude
+      label: submission_longitude
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: submission_accuracy
+      label: submission_accuracy
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: submission_zip
+      label: submission_zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submission_notes
+      label: submission_notes
+      hint: null
+      type: note
+      options: []
+      required: false

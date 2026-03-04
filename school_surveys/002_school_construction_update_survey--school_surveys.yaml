@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Construction Update Survey
+    pages:
+    - id: 1
+      name: project_name
+      label: School Project Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_location
+      label: Project Location
+      hint: null
+      type: select_one
+      options:
+      - 'A: School A'
+      - 'B: School B'
+      - 'C: School C'
+      required: false
+    - id: 3
+      name: project_start_date
+      label: Project Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: project_end_date
+      label: Project End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: school_administrators
+      label: School Administrators
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: construction_suppliers
+      label: Construction Suppliers
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: construction_suppliers_other
+      label: Construction Supplier Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: budget_authorized_officials
+      label: Budget Authorized Officials
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - Not Started
+      - In Progress
+      - Completed
+      - On Hold
+      required: false
+    - id: 10
+      name: project_status_other
+      label: Project Status Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: project_comments
+      label: Project Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: contact_department
+      label: Contact Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: contact_position
+      label: Contact Position
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: contact_office
+      label: Contact Office
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: contact_ext
+      label: Contact Ext
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: contact_ext2
+      label: Contact Ext 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: contact_other
+      label: Contact Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: building_name
+      label: Building Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: room_name
+      label: Room Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: floor_number
+      label: Floor Number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: floor_area
+      label: Floor Area
+      hint: null
+      type: number
+      options: []
+      required: true

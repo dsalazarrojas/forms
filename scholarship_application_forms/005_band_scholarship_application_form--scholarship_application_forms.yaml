@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Band Scholarship Application Form
+    pages:
+    - id: 1
+      name: section_applicant_information
+      label: -- Applicant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_full_name
+      label: Student full name
+      hint: As it appears on school records
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of birth
+      hint: Student date of birth
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: graduating_school
+      label: Graduating school name
+      hint: High school name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: instrument_primary
+      label: Primary instrument
+      hint: Instrument played for scholarship consideration
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: years_in_band
+      label: Years participating in band
+      hint: Total years in school band programs
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: gpa
+      label: Current GPA
+      hint: Use standard 0 to 4 scale, decimals allowed
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Applicant email address
+      hint: Preferred contact email
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: phone
+      label: Applicant phone number
+      hint: Optional contact number
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: essay_submission
+      label: Scholarship essay summary
+      hint: Brief essay describing musical background and goals
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: teacher_recommendation_contact
+      label: Teacher recommendation contact
+      hint: Name and email of band teacher or mentor
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submission_date
+      label: Submission date
+      hint: Date application is submitted
+      type: date
+      options: []
+      required: true

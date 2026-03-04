@@ -1,0 +1,215 @@
+inputSchema:
+  type: object
+  properties:
+    title: Travel Agency Feedback Form
+    pages:
+    - id: 1
+      name: guest_name
+      label: Guest Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_email
+      label: E-Mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: feedback_message
+      label: How was your stay?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: rating
+      label: Rating
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 5
+      name: rating_score
+      label: Rate our service
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: rating_comment
+      label: Rating comment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: how_was_it
+      label: How was your stay?
+      hint: null
+      type: select_multiple
+      options:
+      - '5'
+      - '4'
+      - '3'
+      - '2'
+      - '1'
+      required: false
+    - id: 8
+      name: what_was_it
+      label: What was it?
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fine
+      - Bad
+      required: false
+    - id: 9
+      name: what_did_it
+      label: What did it?
+      hint: null
+      type: select_multiple
+      options:
+      - Good job
+      - Fine service
+      - Bad service
+      required: false
+    - id: 10
+      name: what_would_improve
+      label: What would improve?
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fine
+      - Bad
+      required: false
+    - id: 11
+      name: what_didnt_improve
+      label: What didn't improve?
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fine
+      - Bad
+      required: false
+    - id: 12
+      name: will_visit_again
+      label: Will visit again?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 13
+      name: how_well_hosted
+      label: How well hosted?
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fine
+      - Bad
+      required: false
+    - id: 14
+      name: comments
+      label: Any comments?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: how_did_you_hear
+      label: How did you hear?
+      hint: null
+      type: select_multiple
+      options:
+      - Social media
+      - Google
+      - Friend
+      - Other
+      required: false
+    - id: 22
+      name: how_did_you_find_us
+      label: How did you find us?
+      hint: null
+      type: select_multiple
+      options:
+      - Online search
+      - Referral
+      - Facebook
+      - Other
+      required: false
+    - id: 23
+      name: why_didnt_visit
+      label: Why didn't you visit?
+      hint: null
+      type: select_multiple
+      options:
+      - Not available
+      - Not interested
+      - Other
+      required: false
+    - id: 24
+      name: how_many_visited
+      label: How many visited?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: visit_duration
+      label: Visit duration
+      hint: null
+      type: time
+      options: []
+      required: false

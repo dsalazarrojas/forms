@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Retail Loyalty Program Consent Form
+    pages:
+    - id: 1
+      name: customer_details
+      label: Customer Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_preferences
+      label: Contact Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Phone
+      - SMS
+      - Mail
+      - In-app
+      required: false
+    - id: 3
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: communication_preferences
+      label: How often would you like to be contacted?
+      hint: null
+      type: select_one
+      options:
+      - Once
+      - Weekly
+      - Bi-Weekly
+      - Monthly
+      - Quarterly
+      required: false
+    - id: 5
+      name: enroll_preferences
+      label: How do you want to enroll in the loyalty program?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 6
+      name: rewards_program
+      label: Rewards Program Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: rewards_email
+      label: Rewards Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: rewards_phone
+      label: Rewards Phone
+      hint: null
+      type: text
+      options: []
+      required: false

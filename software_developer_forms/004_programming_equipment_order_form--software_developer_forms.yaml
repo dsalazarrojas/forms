@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: Programming Equipment Order Form
+    pages:
+    - id: 1
+      name: order_form
+      label: Order form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer
+      label: Customer
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_person
+      label: Contact person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: equipment_ordered
+      label: Equipment ordered
+      hint: null
+      type: select_multiple
+      options:
+      - laptop
+      - software
+      - hardware
+      - monitor
+      required: true
+    - id: 7
+      name: quantity_ordered
+      label: Quantity ordered
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: date_ordered
+      label: Date ordered
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: equipment_requested
+      label: Equipment requested
+      hint: null
+      type: select_one
+      options:
+      - Laptop
+      - Software
+      - Hardware
+      required: true
+    - id: 11
+      name: programming_language
+      label: Programming language
+      hint: null
+      type: select_one
+      options:
+      - Python
+      - Java
+      - C++
+      required: true
+    - id: 12
+      name: operating_system
+      label: Operating system
+      hint: null
+      type: select_one
+      options:
+      - Windows
+      - Linux
+      - MacOS
+      required: true
+    - id: 13
+      name: equipment_status
+      label: Equipment status
+      hint: null
+      type: select_one
+      options:
+      - New
+      - Refurbished
+      - Used
+      required: true
+    - id: 14
+      name: total_cost
+      label: Total cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: assigned_tool
+      label: Assigned tool
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: form_id
+      label: Form id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: submitted_at
+      label: Submitted at
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: updated_at
+      label: Updated at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: user
+      label: User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: created_at
+      label: Created at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: assigned_to
+      label: Assigned to
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: updated_by
+      label: Updated by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: equipment_ordered_status
+      label: Equipment ordered status
+      hint: null
+      type: select_one
+      options:
+      - Ordered
+      - In progress
+      - Shipped prophets
+      required: true
+    - id: 25
+      name: form_version
+      label: Form version
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,61 @@
+inputSchema:
+  type: object
+  properties:
+    title: Police Complaint Form
+    pages:
+    - id: 1
+      name: description
+      label: Description
+      hint: Briefly describe the incident
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: witness_details
+      label: Witness Details
+      hint: List witness names and contact information
+      type: note
+      options: []
+      required: true
+    - id: 5
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: incident_time
+      label: Incident Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: suspect_details
+      label: Suspect Details
+      hint: Provide suspect names and descriptions
+      type: note
+      options: []
+      required: true
+    - id: 8
+      name: crime_description
+      label: Crime Description
+      hint: null
+      type: text
+      options: []
+      required: true

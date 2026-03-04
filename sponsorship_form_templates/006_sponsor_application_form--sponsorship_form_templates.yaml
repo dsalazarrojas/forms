@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sponsor Application Form
+    pages:
+    - id: 1
+      name: main
+      label: Main
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: sponsor_info
+      label: Sponsor Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: event_info
+      label: Event Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: sponsor_relationship
+      label: Sponsor Relationship
+      hint: This is a numerical value.
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: sponsor_level
+      label: Sponsor Level
+      hint: null
+      type: select_one
+      options:
+      - Level 1
+      - Level 2
+      - Level 3
+      - Level 4
+      - Level 5
+      required: true
+    - id: 7
+      name: sponsor_type
+      label: Sponsor Type
+      hint: null
+      type: select_multiple
+      options:
+      - Type 1
+      - Type 2
+      - Type 3
+      required: true
+    - id: 8
+      name: sponsor_message
+      label: Sponsor Message
+      hint: Enter a message to the sponsor
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: sponsor_email
+      label: Sponsor Email
+      hint: Enter a sponsor email
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: sponsor_phone
+      label: Sponsor Phone
+      hint: Enter a sponsor phone number
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: event_description
+      label: Event Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: event_venue
+      label: Event Venue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: event_address
+      label: Event Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: event_city
+      label: Event City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: event_postal
+      label: Event Postal
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: event_country
+      label: Event Country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: sponsor_agreement
+      label: Sponsor Agreement
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: agreement_date
+      label: Agreement Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: agreement_version
+      label: Agreement Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: sponsor_signature
+      label: Sponsor Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: sponsor_logo
+      label: Sponsor Logo
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: sponsor_agreement_terms
+      label: Sponsor Agreement Terms
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: sponsor_terms_agreed
+      label: Sponsor Terms Agreed
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true

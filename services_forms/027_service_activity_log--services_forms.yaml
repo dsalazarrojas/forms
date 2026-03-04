@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Service Activity Log
+    pages:
+    - id: 1
+      name: job_id
+      label: Job ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: job_name
+      label: Job Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: activity_date
+      label: Activity Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: activity_time
+      label: Activity Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: service_area
+      label: Service Area
+      hint: null
+      type: select_one
+      options:
+      - Service Area 1
+      - Service Area 2
+      - Service Area 3
+      required: false
+    - id: 6
+      name: job_type
+      label: Job Type
+      hint: null
+      type: select_one
+      options:
+      - Job Type 1
+      - Job Type 2
+      - Job Type 3
+      required: false
+    - id: 7
+      name: service_team
+      label: Service Team
+      hint: null
+      type: select_multiple
+      options:
+      - Team Member 1
+      - Team Member 2
+      - Team Member 3
+      required: false
+    - id: 8
+      name: activity_comments
+      label: Activity Comments
+      hint: null
+      type: note
+      options: []
+      required: false

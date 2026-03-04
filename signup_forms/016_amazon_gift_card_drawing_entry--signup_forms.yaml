@@ -1,0 +1,369 @@
+inputSchema:
+  type: object
+  properties:
+    title: Amazon Gift Card Drawing Entry
+    pages:
+    - id: 1
+      name: section_welcome
+      label: -- Amazon Gift Card Drawing Entry --
+      hint: Enter now for a chance to win an Amazon Gift Card. Fill out all required
+        fields to enter.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: section_personal_info
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email Address
+      hint: We will notify winners via email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone Number
+      hint: For winner verification
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: date_of_birth
+      label: Date of Birth
+      hint: Must be 18 or older to enter
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: section_address
+      label: -- Address Information --
+      hint: For prize delivery if you win
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: street_address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: apartment_suite
+      label: Apartment/Suite Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: state
+      label: State
+      hint: null
+      type: select_one
+      options:
+      - Alabama
+      - Alaska
+      - Arizona
+      - Arkansas
+      - California
+      - Colorado
+      - Connecticut
+      - Delaware
+      - Florida
+      - Georgia
+      - Hawaii
+      - Idaho
+      - Illinois
+      - Indiana
+      - Iowa
+      - Kansas
+      - Kentucky
+      - Louisiana
+      - Maine
+      - Maryland
+      - Massachusetts
+      - Michigan
+      - Minnesota
+      - Mississippi
+      - Missouri
+      - Montana
+      - Nebraska
+      - Nevada
+      - New Hampshire
+      - New Jersey
+      - New Mexico
+      - New York
+      - North Carolina
+      - North Dakota
+      - Ohio
+      - Oklahoma
+      - Oregon
+      - Pennsylvania
+      - Rhode Island
+      - South Carolina
+      - South Dakota
+      - Tennessee
+      - Texas
+      - Utah
+      - Vermont
+      - Virginia
+      - Washington
+      - West Virginia
+      - Wisconsin
+      - Wyoming
+      - District of Columbia
+      required: true
+    - id: 13
+      name: zip_code
+      label: ZIP Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: section_entry_details
+      label: -- Entry Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: drawing_name
+      label: Drawing/Contest Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: entry_source
+      label: How did you hear about this drawing
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Social Media
+      - Website
+      - Friend/Family
+      - In Store
+      - Advertisement
+      - Other
+      required: true
+    - id: 17
+      name: previous_entries
+      label: Have you entered this drawing before
+      hint: null
+      type: select_one
+      options:
+      - No - First time entry
+      - Yes - This is my second entry
+      - Yes - I have entered multiple times
+      required: true
+    - id: 18
+      name: section_preferences
+      label: -- Communication Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: newsletter_signup
+      label: Sign up for our newsletter
+      hint: Receive updates on future promotions
+      type: select_one
+      options:
+      - Yes - Sign me up
+      - No - Thank you
+      required: true
+    - id: 20
+      name: promotional_emails
+      label: Receive promotional emails from partners
+      hint: null
+      type: select_one
+      options:
+      - Yes - I agree
+      - No - Thank you
+      required: true
+    - id: 21
+      name: text_notifications
+      label: Receive text message notifications
+      hint: null
+      type: select_one
+      options:
+      - Yes - I agree
+      - No - Thank you
+      required: false
+    - id: 22
+      name: section_social_media
+      label: -- Social Media --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: social_media_follow
+      label: Do you follow us on social media
+      hint: null
+      type: select_one
+      options:
+      - Yes - All platforms
+      - Yes - Some platforms
+      - No - But I will
+      - No - Not interested
+      required: false
+    - id: 24
+      name: social_platforms
+      label: Which platforms do you use
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Facebook
+      - Instagram
+      - Twitter/X
+      - TikTok
+      - YouTube
+      - LinkedIn
+      - Pinterest
+      - None
+      required: false
+    - id: 25
+      name: section_agreements
+      label: -- Terms and Agreements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: age_verification
+      label: Age Verification
+      hint: I confirm I am 18 years or older
+      type: select_one
+      options:
+      - Yes - I am 18 or older
+      - Other
+      required: true
+    - id: 27
+      name: terms_acceptance
+      label: Terms and Conditions
+      hint: I have read and agree to the official rules
+      type: select_one
+      options:
+      - I agree to the official rules and terms
+      - Other
+      required: true
+    - id: 28
+      name: privacy_policy
+      label: Privacy Policy Acknowledgment
+      hint: I acknowledge the privacy policy
+      type: select_one
+      options:
+      - I have read and accept the privacy policy
+      - Other
+      required: true
+    - id: 29
+      name: eligibility_confirmation
+      label: Eligibility Confirmation
+      hint: I am eligible to participate
+      type: select_one
+      options:
+      - Yes - I am eligible to enter
+      - Other
+      required: true
+    - id: 30
+      name: section_additional
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 31
+      name: amazon_account
+      label: Do you have an Amazon account
+      hint: Required to claim prize
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 32
+      name: shopping_frequency
+      label: How often do you shop on Amazon
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Several times a week
+      - Weekly
+      - Monthly
+      - Rarely
+      - Never
+      required: false
+    - id: 33
+      name: favorite_categories
+      label: Favorite Shopping Categories
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Electronics
+      - Books
+      - Clothing
+      - Home and Kitchen
+      - Beauty
+      - Sports and Outdoors
+      - Toys and Games
+      - Grocery
+      - Other
+      required: false
+    - id: 34
+      name: referral_code
+      label: Referral Code
+      hint: If you were referred by someone
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: additional_comments
+      label: Additional Comments
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 36
+      name: entry_date
+      label: Entry Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 37
+      name: entry_time
+      label: Entry Time
+      hint: null
+      type: time
+      options: []
+      required: false

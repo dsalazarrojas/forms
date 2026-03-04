@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dropbox Scholarship Document Upload Form
+    pages:
+    - id: 1
+      name: application_form
+      label: Application Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: documents_to_upload
+      label: Documents to Upload
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: uploaded_documents
+      label: Uploaded Documents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: document_name
+      label: Document Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: document_type
+      label: Document Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: uploaded_file
+      label: Upload File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: uploaded_document_link
+      label: Uploaded Document Link
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: document_size
+      label: Document Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: uploaded_on
+      label: Uploaded On
+      hint: null
+      type: date
+      options: []
+      required: false

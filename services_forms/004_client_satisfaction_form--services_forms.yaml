@@ -1,0 +1,165 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Satisfaction Form
+    pages:
+    - id: 1
+      name: client_details_section
+      label: -- Client Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Your Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: service_date
+      label: Date of Service
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: service_type
+      label: Type of Service Received
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: satisfaction_section
+      label: -- Service Satisfaction --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: overall_satisfaction
+      label: Overall satisfaction with the service
+      hint: null
+      type: select_one
+      options:
+      - Very Dissatisfied
+      - Dissatisfied
+      - Neutral
+      - Satisfied
+      - Very Satisfied
+      required: true
+    - id: 8
+      name: quality_rating
+      label: Quality of service provided
+      hint: Rate 1 to 5
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: professionalism
+      label: Professionalism of service provider
+      hint: null
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Excellent
+      required: true
+    - id: 10
+      name: timeliness
+      label: Service was completed in a timely manner
+      hint: null
+      type: select_one
+      options:
+      - Strongly Disagree
+      - Disagree
+      - Neutral
+      - Agree
+      - Strongly Agree
+      required: true
+    - id: 11
+      name: communication_section
+      label: -- Communication --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: communication_quality
+      label: Communication throughout the service
+      hint: null
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Excellent
+      required: true
+    - id: 13
+      name: understood_expectations
+      label: Service provider understood your needs
+      hint: null
+      type: select_one
+      options:
+      - Not at all
+      - Somewhat
+      - Mostly
+      - Completely
+      required: true
+    - id: 14
+      name: feedback_section
+      label: -- Feedback --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: positive_aspects
+      label: What did you like most about the service?
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: improvement_areas
+      label: What could be improved?
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: recommendation
+      label: Would you recommend this service to others?
+      hint: null
+      type: select_one
+      options:
+      - Definitely Not
+      - Probably Not
+      - Unsure
+      - Probably Yes
+      - Definitely Yes
+      required: true
+    - id: 18
+      name: future_service
+      label: Likelihood of using this service again
+      hint: null
+      type: select_one
+      options:
+      - Very Unlikely
+      - Unlikely
+      - Neutral
+      - Likely
+      - Very Likely
+      required: true

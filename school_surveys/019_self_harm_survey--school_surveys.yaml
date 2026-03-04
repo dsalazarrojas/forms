@@ -1,0 +1,147 @@
+inputSchema:
+  type: object
+  properties:
+    title: Self Harm Survey
+    pages:
+    - id: 1
+      name: self_harm_knowledge
+      label: Do you know what self-harm means?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: self_harm_experiences
+      label: Have you ever self-harmed?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: self_harm_frequency
+      label: How often do you self-harm?
+      hint: null
+      type: select_multiple
+      options:
+      - Never
+      - Rarely
+      - Sometimes
+      - Often
+      required: false
+    - id: 4
+      name: self_harm_methods
+      label: What methods have you used to self-harm?
+      hint: null
+      type: select_multiple
+      options:
+      - Cutting
+      - Burning
+      - Scratching
+      - Hitting
+      - Punching
+      - Pulling hair
+      - Other (please specify)
+      required: false
+    - id: 5
+      name: self_harm_age
+      label: How old were you when you first self-harmed?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: self_harm_age_start
+      label: What age did you first start self-harming?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: self_harm_age_end
+      label: What age did you stop self-harming?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: self_harm_support
+      label: Who have you talked to about self-harming?
+      hint: null
+      type: select_multiple
+      options:
+      - Parent(s)
+      - Friend(s)
+      - Teacher(s)
+      - Counselor/Therapist
+      - Other (please specify)
+      required: false
+    - id: 9
+      name: self_harm_support_sources
+      label: What source(s) did you seek help from about self-harming?
+      hint: null
+      type: select_multiple
+      options:
+      - School counselor
+      - Therapist
+      - Psychologist
+      - Doctor
+      - Other (please specify)
+      required: false
+    - id: 10
+      name: self_harm_prevent
+      label: Can you think about ways to prevent self-harming in the future?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: self_harm_prevent_methods
+      label: What methods do you think can help prevent self-harming?
+      hint: null
+      type: select_multiple
+      options:
+      - Self-care
+      - Talk to a friend
+      - Talk to a teacher
+      - Call 911
+      - Other (please specify)
+      required: false
+    - id: 12
+      name: self_harm_prevent_methods_specify
+      label: Other methods that might help prevent self-harming?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: self_harm_note
+      label: Is there anything else you want to tell us about self-harming?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: self_harm_phone
+      label: Do you have a preferred method of contact for support?
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Text
+      - Email
+      - Chat
+      - Other (please specify)
+      required: false
+    - id: 15
+      name: self_harm_email
+      label: Do you have a preferred method of email for support?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,178 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fitness Class Instructor Energy Survey
+    pages:
+    - id: 1
+      name: instructor_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: instructor_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: instructor_phone
+      label: Phone
+      hint: Your phone number (including area code)
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: favorite_instructor
+      label: favorite_instructor
+      hint: null
+      type: select_one
+      options:
+      - Love them
+      - Like them
+      - Neutral
+      - Dislike them
+      - Hate them
+      required: false
+    - id: 5
+      name: instructor_attitude
+      label: How would you rate the instructor's attitude?
+      hint: null
+      type: select_multiple
+      options:
+      - Positive
+      - Negative
+      - Unsure
+      required: false
+    - id: 6
+      name: energy_level
+      label: Energy Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 7
+      name: instruction_quality
+      label: Instructional Quality
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: communication_effectiveness
+      label: Communication Effectiveness
+      hint: null
+      type: select_multiple
+      options:
+      - Positive
+      - Negative
+      - Neutral
+      - Unsure
+      required: false
+    - id: 9
+      name: class_environment
+      label: Class Environment
+      hint: null
+      type: select_multiple
+      options:
+      - Positive
+      - Negative
+      - Neutral
+      - Unsure
+      required: false
+    - id: 10
+      name: equipment_and_supplies
+      label: Equipment and Supplies
+      hint: null
+      type: select_one
+      options:
+      - Well-stocked
+      - Moderately stocked
+      - Poorly stocked
+      required: false
+    - id: 11
+      name: music_and_sound_system
+      label: Music and Sound System
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 12
+      name: temperature_and_air
+      label: Temperature and Air Quality
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 13
+      name: water_and_shower
+      label: Water and Shower
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 14
+      name: locker_and_restroom
+      label: Locker and Rm
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 15
+      name: parking_facilities
+      label: Parking Facilities
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 16
+      name: facilities_and_amenities
+      label: Facilities and Amenities
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 17
+      name: overall_experience
+      label: Overall Experience
+      hint: null
+      type: select_multiple
+      options:
+      - Positive
+      - Negative
+      - Neutral
+      - Unsure
+      required: false
+    - id: 18
+      name: recommend
+      label: Recommend
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Unsure
+      required: false

@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: Graduate Student Application Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: Your date of birth (mm/dd/yyyy)
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: student_status
+      label: Student Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Active (Non-Degree)
+      - Active (Non-Degree, International)
+      - Active (International)
+      - Deferred
+      - Inactive
+      - Other
+      required: false
+    - id: 7
+      name: program_type
+      label: Program Type
+      hint: null
+      type: select_multiple
+      options:
+      - MA
+      - PhD
+      - Other
+      required: false
+    - id: 8
+      name: program_start_date
+      label: Program Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: expected_graduation_date
+      label: Expected Graduation Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: university
+      label: University
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: graduate_level
+      label: Graduate Level
+      hint: null
+      type: select_one
+      options:
+      - Bachelor
+      - Master
+      - PhD
+      required: true
+    - id: 16
+      name: field_of_study
+      label: Field of Study
+      hint: null
+      type: select_multiple
+      options:
+      - Accounting
+      - Biology
+      - Business
+      - Chemistry
+      - Computer Science
+      - Engineering
+      - Geography
+      - History
+      - Mathematics
+      - Other
+      - Physics
+      - Psychology
+      - Statistics
+      - Other
+      required: false
+    - id: 17
+      name: research_interests
+      label: Research Interests
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: personal_statement
+      label: Personal Statement
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: references
+      label: References
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: resume
+      label: Resume
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: transcripts
+      label: Transcripts
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: proof_of_enrollment
+      label: Proof of Enrollment
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: proof_of_degree
+      label: Proof of Degree
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: language_proficiency
+      label: Language Proficiency
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

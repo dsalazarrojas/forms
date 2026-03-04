@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Counselling Referral Form
+    pages:
+    - id: 1
+      name: student_info
+      label: Student Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_behaviour
+      label: Student Behaviour
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: privacy_concerns
+      label: Privacy And Confidentiality
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: referrer_name
+      label: Referrer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: referrer_email
+      label: Referrer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: referrer_phone
+      label: Referrer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: signature
+      label: Signature
+      hint: null
+      type: select_one
+      options:
+      - Student/Parent/Guardian
+      - School Staff/Teacher
+      - Other
+      required: false
+    - id: 8
+      name: date_last_contacted
+      label: Date Last Contacted
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: date_reported
+      label: Date Reported
+      hint: null
+      type: date
+      options: []
+      required: false

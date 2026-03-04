@@ -1,0 +1,232 @@
+inputSchema:
+  type: object
+  properties:
+    title: Class Pass Membership Inquiry Form
+    pages:
+    - id: 1
+      name: full_name
+      label: Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: For membership information
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: For membership eligibility
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: mailing_address
+      label: Mailing Address
+      hint: Street, city, state, ZIP
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: membership_type
+      label: Membership Type Interested In
+      hint: Select your preference
+      type: select_one
+      options:
+      - Monthly Unlimited
+      - Monthly 10 Classes
+      - Quarterly Unlimited
+      - Annual Unlimited
+      - Class Pack 20
+      - Class Pack 50
+      - Drop-in Rate
+      required: true
+    - id: 7
+      name: fitness_goals
+      label: What Are Your Fitness Goals
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Weight loss
+      - Build muscle
+      - Improve flexibility
+      - Increase stamina
+      - Stress relief
+      - General fitness
+      - Athletic training
+      - Rehabilitation
+      - Social connection
+      required: true
+    - id: 8
+      name: preferred_classes
+      label: Which Classes Interest You
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Yoga
+      - Pilates
+      - HIIT
+      - Spin or Cycling
+      - Boxing
+      - Dance
+      - Strength Training
+      - Barre
+      - CrossFit
+      - Zumba
+      - Meditation
+      - Other
+      required: true
+    - id: 9
+      name: experience_level
+      label: What Is Your Fitness Experience Level
+      hint: Be honest
+      type: select_one
+      options:
+      - Beginner - new to fitness
+      - Intermediate - some experience
+      - Advanced - very experienced
+      - Professional - certified trainer
+      required: true
+    - id: 10
+      name: class_schedule
+      label: Preferred Class Schedule
+      hint: When can you attend
+      type: select_multiple
+      options:
+      - Early morning (5AM-8AM)
+      - Morning (8AM-12PM)
+      - Afternoon (12PM-4PM)
+      - Evening (4PM-8PM)
+      - Late evening (8PM-10PM)
+      - Weekends
+      required: true
+    - id: 11
+      name: gym_location
+      label: Preferred Location
+      hint: Which studio
+      type: select_one
+      options:
+      - Downtown location
+      - Uptown location
+      - Westside location
+      - Eastside location
+      - Any location
+      - Online classes only
+      required: true
+    - id: 12
+      name: current_membership
+      label: Do You Currently Have a Gym Membership
+      hint: Anywhere
+      type: select_one
+      options:
+      - Yes, active
+      - Yes, but expired
+      - No, never had one
+      - No, had one before
+      required: true
+    - id: 13
+      name: previous_gym
+      label: Previous Gym or Studio
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: how_heard
+      label: How Did You Hear About Us
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Social media
+      - Website
+      - Friend or family referral
+      - Google search
+      - Advertisement
+      - Walked by location
+      - Email newsletter
+      - Other
+      required: true
+    - id: 15
+      name: referral_name
+      label: Who Referred You
+      hint: Member name if applicable
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: medical_conditions
+      label: Do You Have Any Medical Conditions
+      hint: We should know about
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 17
+      name: medical_details
+      label: Please Describe Medical Conditions
+      hint: If yes, provide details
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: injuries
+      label: Do You Have Any Current or Past Injuries
+      hint: That may affect workouts
+      type: select_one
+      options:
+      - Yes, current injury
+      - Yes, past injury
+      - No injuries
+      required: true
+    - id: 19
+      name: budget_range
+      label: What Is Your Monthly Budget
+      hint: For fitness membership
+      type: select_one
+      options:
+      - Under 50 dollars
+      - 50-100 dollars
+      - 100-150 dollars
+      - 150-200 dollars
+      - Over 200 dollars
+      required: false
+    - id: 20
+      name: start_date
+      label: When Would You Like to Start
+      hint: Your preferred start date
+      type: select_one
+      options:
+      - Immediately
+      - Within a week
+      - Within a month
+      - Just exploring
+      - Specific date
+      required: true
+    - id: 21
+      name: trial_class
+      label: Would You Like a Free Trial Class
+      hint: First class on us
+      type: select_one
+      options:
+      - Yes, interested
+      - No, thank you
+      required: true
+    - id: 22
+      name: additional_comments
+      label: Additional Comments or Questions
+      hint: Anything else to share
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Class Officer Speech Submission
+    pages:
+    - id: 1
+      name: candidate_info_header
+      label: -- Candidate Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_id
+      label: Student ID Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: grade_level
+      label: Grade Level
+      hint: null
+      type: select_one
+      options:
+      - Freshman
+      - Sophomore
+      - Junior
+      - Senior
+      - Other
+      required: true
+    - id: 5
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone Number
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: position_header
+      label: -- Position Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: position_sought
+      label: Position Sought
+      hint: null
+      type: select_one
+      options:
+      - Class President
+      - Vice President
+      - Secretary
+      - Treasurer
+      - Social Chair
+      - Other
+      required: true
+    - id: 9
+      name: position_experience
+      label: Previous Student Government or Leadership Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: motivation
+      label: Why are you running for this position
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: speech_header
+      label: -- Speech Submission --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: speech_text
+      label: Campaign Speech or Statement
+      hint: Type your speech here
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: speech_length
+      label: Approximate Length of Speech
+      hint: In seconds
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: speech_format
+      label: Format of Speech Delivery
+      hint: null
+      type: select_one
+      options:
+      - In-person presentation
+      - Video recording
+      - Written statement
+      - Virtual presentation
+      - Other
+      required: true
+    - id: 15
+      name: campaign_header
+      label: -- Campaign Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: campaign_theme
+      label: Campaign Theme or Slogan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: key_promises
+      label: Key Promises or Initiatives if Elected
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: platform_goals
+      label: Platform Goals for Your Class
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: qualifications
+      label: Your Qualifications for This Position
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: media_header
+      label: -- Media and Visual Elements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: campaign_photo
+      label: Candidate Photo Provided
+      hint: For campaign materials
+      type: select_one
+      options:
+      - true
+      - false
+      - To be provided later
+      required: true
+    - id: 22
+      name: additional_materials
+      label: Additional Campaign Materials or Links
+      hint: Website, social media, flyers, etc.
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: agreement_header
+      label: -- Agreement and Confirmation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: policy_agreement
+      label: I agree to follow school election policies and conduct rules
+      hint: null
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, I do not agree
+      required: true
+    - id: 25
+      name: submission_confirmation
+      label: I certify this speech and information are my own work
+      hint: null
+      type: select_one
+      options:
+      - Yes, I certify
+      - false
+      required: true

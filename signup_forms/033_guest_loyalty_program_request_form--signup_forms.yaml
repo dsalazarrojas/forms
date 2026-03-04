@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Guest Loyalty Program Request Form
+    pages:
+    - id: 1
+      name: form_info
+      label: form_info
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 2
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: loyalty_program
+      label: loyalty_program
+      hint: null
+      type: select_one
+      options:
+      - Silver
+      - Gold
+      - Diamond
+      required: true
+    - id: 7
+      name: communication_preferred
+      label: preferred_communication_method
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Phone
+      - Text message
+      required: true
+    - id: 8
+      name: preferred_time
+      label: preferred_communication_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: special_request
+      label: special_request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: additional_info
+      label: additional_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: team_request
+      label: team_request
+      hint: null
+      type: select_one
+      options:
+      - Marketing
+      - Sales
+      - Support
+      required: true
+    - id: 12
+      name: followup
+      label: followup
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: signature
+      label: signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: form_submitted
+      label: form_submitted
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: form_submitted_datetime
+      label: form_submitted_datetime
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: form_created_datetime
+      label: form_created_datetime
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: form_last_updated_datetime
+      label: form_last_updated_datetime
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: form_viewed_datetime
+      label: form_viewed_datetime
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: form_completed_datetime
+      label: form_completed_datetime
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: submission_count
+      label: submission_count
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: form_length
+      label: form_length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: user_ip
+      label: user_ip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: user_agent
+      label: user_agent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: user_country
+      label: user_country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: user_os
+      label: user_os
+      hint: null
+      type: text
+      options: []
+      required: false

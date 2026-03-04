@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Service Quality Feedback Form
+    pages:
+    - id: 1
+      name: feedback_type
+      label: What type of feedback is this about?
+      hint: null
+      type: select_one
+      options:
+      - Service Quality
+      - Service Delivery
+      - Customer Experience
+      required: true
+    - id: 2
+      name: service_quality_level
+      label: How would you rate the service quality?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: pain_points
+      label: What are the pain points that we have missed?
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 4
+      name: suggestion
+      label: Do you have any suggestions?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: contact_information
+      label: How did we contact you?
+      hint: null
+      type: select_multiple
+      options:
+      - Phone
+      - Email
+      - In-person
+      required: true
+    - id: 6
+      name: contact_channel
+      label: Through which channel do you contact us?
+      hint: null
+      type: select_multiple
+      options:
+      - Phone
+      - Email
+      - Social Media
+      - In-person
+      required: true

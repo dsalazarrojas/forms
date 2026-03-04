@@ -1,0 +1,146 @@
+inputSchema:
+  type: object
+  properties:
+    title: Academic Transformation Fund Application Form
+    pages:
+    - id: 1
+      name: section_applicant_info
+      label: -- Applicant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_name
+      label: Lead Applicant or Researcher Name
+      hint: Primary investigator for the project
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: academic_department
+      label: Academic Department
+      hint: Department where the project is based
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: position_title
+      label: Position or Title
+      hint: e.g. Associate Professor, Research Fellow
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: professional_email
+      label: Institutional Email
+      hint: Official university email address
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: section_project_details
+      label: -- Project Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: project_title
+      label: Proposed Project Title
+      hint: Short, descriptive title
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: transformation_category
+      label: Category of Transformation
+      hint: Select the primary focus area
+      type: select_one
+      options:
+      - Pedagogical Innovation
+      - Technological Integration
+      - Curriculum Overhaul
+      - Research Infrastructure
+      required: true
+    - id: 9
+      name: project_abstract
+      label: Executive Summary or Abstract
+      hint: Max 250 words
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: project_objectives
+      label: Key Project Objectives
+      hint: List main goals
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: section_budget
+      label: -- Budget and Timeline --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: total_funds_requested
+      label: Total Funds Requested in USD
+      hint: Enter numerical value
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: budget_justification
+      label: Brief Budget Justification
+      hint: Summary of major expenses
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: project_start_date
+      label: Estimated Project Start Date
+      hint: When activities will begin
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: project_end_date
+      label: Estimated Project Completion Date
+      hint: When final report is due
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: section_docs
+      label: -- Documentation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: files_ready_for_upload
+      label: Are your supporting documents ready for attachment?
+      hint: check institutional guidelines
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 18
+      name: section_review
+      label: -- Review Process --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: institutional_approval
+      label: Has your department head approved this application?
+      hint: Departmental clearance
+      type: select_one
+      options:
+      - true
+      - Pending
+      required: true

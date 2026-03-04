@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: High School Sports Participation Survey
+    pages:
+    - id: 1
+      name: general_info
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: sports_participation
+      label: sports_participation
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''None''}'
+      - '{''label'': ''Basketball''}'
+      - '{''label'': ''Baseball''}'
+      - '{''label'': ''Soccer''}'
+      - '{''label'': ''Football''}'
+      - '{''label'': ''Volleyball''}'
+      - '{''label'': ''Tennis''}'
+      - '{''label'': ''Track''}'
+      - '{''label'': ''Cross''}'
+      required: false
+    - id: 3
+      name: sports_barriers
+      label: sports_barriers
+      hint: If you have any barriers that keep you from participating, please list
+        them.
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: future_interest
+      label: future_interest
+      hint: What sports would you like to participate in?
+      type: select_multiple
+      options:
+      - '{''label'': ''None''}'
+      - '{''label'': ''Basketball''}'
+      - '{''label'': ''Baseball''}'
+      - '{''label'': ''Soccer''}'
+      - '{''label'': ''Football''}'
+      - '{''label'': ''Volleyball''}'
+      - '{''label'': ''Tennis''}'
+      - '{''label'': ''Track''}'
+      - '{''label'': ''Cross''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 5
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: school_id
+      label: school_id
+      hint: School ID
+      type: number
+      options: []
+      required: false

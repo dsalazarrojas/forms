@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: College Counselor Recommendation Form
+    pages:
+    - id: 1
+      name: counselor_name
+      label: Counselor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: counselor_title
+      label: Counselor Title
+      hint: School Counselor, College Advisor, etc.
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: school_name
+      label: School or Institution Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: counselor_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: counselor_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: student_first_name
+      label: Student First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: student_last_name
+      label: Student Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: student_id
+      label: Student ID Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: relationship_length
+      label: How long have you known this student
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-2 years
+      - 2-3 years
+      - 3+ years
+      required: true
+    - id: 10
+      name: context_of_relationship
+      label: Context of Your Relationship with Student
+      hint: Academic advisor, dorm counselor, etc.
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: academic_performance
+      label: Student Academic Performance
+      hint: null
+      type: select_one
+      options:
+      - Exceptional
+      - Strong
+      - Satisfactory
+      - Developing
+      required: true
+    - id: 12
+      name: intellectual_curiosity
+      label: Intellectual Curiosity and Engagement
+      hint: null
+      type: select_one
+      options:
+      - Outstanding
+      - Very Good
+      - Good
+      - Adequate
+      required: true
+    - id: 13
+      name: personal_characteristics
+      label: Key Personal Strengths
+      hint: Describe the student's positive qualities
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: leadership_potential
+      label: Leadership Potential
+      hint: null
+      type: select_one
+      options:
+      - Exceptional
+      - Strong
+      - Developing
+      - Limited
+      required: true
+    - id: 15
+      name: leadership_examples
+      label: Leadership Examples
+      hint: Specific instances of leadership
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: extracurricular_involvement
+      label: Extracurricular Involvement
+      hint: Clubs, sports, volunteer work, etc.
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: interpersonal_skills
+      label: Interpersonal and Social Skills
+      hint: null
+      type: select_one
+      options:
+      - Exceptional
+      - Strong
+      - Good
+      - Needs Development
+      required: true
+    - id: 18
+      name: resilience_adaptability
+      label: Resilience and Adaptability
+      hint: How does student handle challenges
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Adequate
+      - Needs Support
+      required: true
+    - id: 19
+      name: areas_for_growth
+      label: Areas for Growth or Development
+      hint: Where could student improve
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: overall_recommendation
+      label: Overall Recommendation
+      hint: null
+      type: select_one
+      options:
+      - Enthusiastically Recommend
+      - Recommend
+      - Recommend with Reservations
+      - Cannot Recommend
+      required: true
+    - id: 21
+      name: recommendation_statement
+      label: Additional Recommendation Statement
+      hint: Summary of recommendation and key points
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: submission_date
+      label: Date of Recommendation
+      hint: null
+      type: date
+      options: []
+      required: true

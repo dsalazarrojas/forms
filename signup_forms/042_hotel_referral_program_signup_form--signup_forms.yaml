@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hotel Referral Program Signup Form
+    pages:
+    - id: 1
+      name: user
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: referral_name
+      label: Referral name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: referrer_name
+      label: Referrer name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: referrer_email
+      label: Referrer email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: referrer_phone
+      label: Referrer phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: referral_consent
+      label: Referral consent
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: referral_date
+      label: Referral date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: referral_time
+      label: Referrer time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: confirm_referral
+      label: Confirm referral
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 13
+      name: confirm_email
+      label: Confirm email
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true

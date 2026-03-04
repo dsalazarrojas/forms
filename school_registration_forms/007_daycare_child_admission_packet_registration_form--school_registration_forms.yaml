@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daycare Child Admission Packet Registration Form
+    pages:
+    - id: 1
+      name: daycare_child_registration_form
+      label: Registration Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: parent_details
+      label: Parent Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: child_details
+      label: Child Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: allergy_or_medical_condition
+      label: Allergies or Medical Conditions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: medical_info
+      label: Medical Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: review
+      label: Review
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: review_time
+      label: Review Time
+      hint: null
+      type: time
+      options: []
+      required: false

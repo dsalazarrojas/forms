@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: lash_length_enhancement_interest_survey
+    pages:
+    - id: 1
+      name: mainpage
+      label: Main Page
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: category
+      label: what_is_a_lash
+      hint: null
+      type: select_one
+      options:
+      - Lash Length Enhancement
+      - Eyelashes
+      - False Lashes
+      required: true
+    - id: 3
+      name: interest
+      label: what_are_you_interested_in
+      hint: null
+      type: select_multiple
+      options:
+      - Lash Length
+      - Lash Lift
+      - Lash Tint
+      required: true
+    - id: 4
+      name: preference
+      label: what_do_you_prefer
+      hint: null
+      type: select_one
+      options:
+      - Lash Length
+      - Lash Lift
+      - Lash Tint
+      required: true
+    - id: 5
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: contact
+      label: contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: submitted_by
+      label: submitted_by
+      hint: null
+      type: select_one
+      options:
+      - Self
+      - Beauty Professional
+      required: false
+    - id: 11
+      name: submitted_for
+      label: submitted_for
+      hint: null
+      type: select_one
+      options:
+      - Yourself
+      - A Friend
+      required: false
+    - id: 12
+      name: submitted_at
+      label: submitted_at
+      hint: null
+      type: select_one
+      options:
+      - Today
+      - Tomorrow
+      required: false
+    - id: 13
+      name: lash_length_enhancement_interest_survey_terms_and_conditions
+      label: lash_length_enhancement_interest_survey_terms_and_conditions
+      hint: null
+      type: select_one
+      options:
+      - I have read and agree to the terms and conditions
+      - Not interested
+      required: true
+    - id: 14
+      name: submitted_to
+      label: submitted_to
+      hint: null
+      type: select_one
+      options:
+      - You
+      - My Salon
+      required: false

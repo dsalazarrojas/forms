@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: easter_meal_order_form
+    pages:
+    - id: 1
+      name: easter_meal_details
+      label: easter_meal_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: easter_meal_delivery_address
+      label: easter_meal_delivery_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: easter_meal_payment_method
+      label: easter_meal_payment_method
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''credit_card''}'
+      - '{''name'': ''paypal''}'
+      - '{''name'': ''bank_transfer''}'
+      required: false
+    - id: 4
+      name: easter_meal_special_requests
+      label: easter_meal_special_requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: easter_meal_delivery_date
+      label: easter_meal_delivery_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: easter_meal_delivery_time
+      label: easter_meal_delivery_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: easter_meal_delivery_phone
+      label: easter_meal_delivery_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: easter_meal_delivery_email
+      label: easter_meal_delivery_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: easter_meal_special_instructions
+      label: easter_meal_special_instructions
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: keyword_monitoring_tracker
+    pages:
+    - id: 1
+      name: keyword_monitoring
+      label: keyword_monitoring
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: brand_monitoring
+      label: brand_monitoring
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Google''}'
+      - Facebook
+      - YouTube
+      - Amazon
+      required: false
+    - id: 3
+      name: platforms
+      label: monitored_platforms
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''Google''}'
+      - Facebook
+      - YouTube
+      - Amazon
+      required: true
+    - id: 4
+      name: alert_preferences
+      label: alert_preferences
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: keyword_preferences
+      label: keyword_preferences
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''Google''}'
+      - Amazon
+      required: false
+    - id: 6
+      name: data_collection
+      label: data_collection_frequency
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: collection_frequency
+      label: data_collection_frequency
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: keyword_monitoring_preferences
+      label: keyword_monitoring_preferences
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Google''}'
+      - Facebook
+      - YouTube
+      - Amazon
+      required: false
+    - id: 9
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: agency
+      label: agency
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Agency A''}'
+      - Agency B
+      required: false
+    - id: 12
+      name: team
+      label: team
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''Team A''}'
+      - Team B
+      required: false
+    - id: 13
+      name: request_type
+      label: request_type
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''New keyword''}'
+      - Existing keyword
+      required: false
+    - id: 14
+      name: keyword
+      label: keyword
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: keyword_url
+      label: keyword_url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: keyword_url_2
+      label: url_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: keyword_url_3
+      label: url_3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: keyword_url_4
+      label: url_4
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: keyword_url_5
+      label: url_5
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: keyword_url_6
+      label: url_6
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: keyword_url_7
+      label: url_7
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: keyword_url_8
+      label: url_8
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: keyword_url_9
+      label: url_9
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: keyword_url_10
+      label: url_10
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Government Satisfaction Survey
+    pages:
+    - id: 1
+      name: government_satisfaction_survey_title
+      label: What is your title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: government_satisfaction_survey_category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - goals_
+      - public service
+      - government programs
+      required: false
+    - id: 3
+      name: government_satisfaction_survey_description
+      label: What do you think we do well
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: government_satisfaction_survey_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: government_satisfaction_survey_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: government_satisfaction_survey_province
+      label: Province
+      hint: null
+      type: select_multiple
+      options:
+      - Province 1
+      - Province 2
+      - Province 3
+      required: false
+    - id: 7
+      name: government_satisfaction_survey_program
+      label: Programs
+      hint: null
+      type: select_multiple
+      options:
+      - Program 1
+      - Program 2
+      - Program 3
+      required: false
+    - id: 8
+      name: government_satisfaction_survey_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: government_satisfaction_survey_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: government_satisfaction_survey_note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: government_satisfaction_survey_province_2
+      label: Province 2
+      hint: null
+      type: select_multiple
+      options:
+      - Province 1
+      - Province 2
+      - Province 3
+      required: false
+    - id: 12
+      name: government_satisfaction_survey_program_2
+      label: Program 2
+      hint: null
+      type: select_multiple
+      options:
+      - Program 1
+      - Program 2
+      - Program 3
+      required: false
+    - id: 13
+      name: government_satisfaction_survey_province_3
+      label: Province 3
+      hint: null
+      type: select_multiple
+      options:
+      - Province 1
+      - Province 2
+      - Province 3
+      required: false

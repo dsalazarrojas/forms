@@ -1,0 +1,117 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Counselor Certification Program Enrollment Form
+    pages:
+    - id: 1
+      name: applicant_info
+      label: Applicant Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: school_location
+      label: School Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: program_start_date
+      label: Program Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: program_end_date
+      label: Program End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: certification_type
+      label: Certification Type
+      hint: null
+      type: select_one
+      options:
+      - School Counselor
+      - School Counselor Assistant
+      - School Counselor Supervisor
+      required: false
+    - id: 10
+      name: certification_level
+      label: Certification Level
+      hint: null
+      type: select_multiple
+      options:
+      - Level 1
+      - Level 2
+      - Level 3
+      required: false
+    - id: 11
+      name: application_fee
+      label: Application Fee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Online Payment
+      - Offline Payment
+      required: false
+    - id: 13
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_multiple
+      options:
+      - Paid
+      - Partially Paid
+      - Not Paid
+      required: false
+    - id: 14
+      name: submission_status
+      label: Submission Status
+      hint: null
+      type: select_multiple
+      options:
+      - Approved
+      - Rejected
+      - Pending
+      required: false

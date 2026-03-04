@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: social_media_profile_sharing_consent_form
+    pages:
+    - id: 1
+      name: social_media_profiles
+      label: Social media profiles
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: marketing_campaigns
+      label: Marketing campaigns
+      hint: null
+      type: select_one
+      options:
+      - Facebook
+      - Instagram
+      - Twitter
+      - Other
+      required: false
+    - id: 3
+      name: sharing_consent
+      label: Sharing consent
+      hint: null
+      type: select_multiple
+      options:
+      - Share my profile information with other users
+      - Share my profile picture
+      - Share my posts
+      - Share my messages
+      required: false
+    - id: 4
+      name: sharing_scope
+      label: Sharing scope
+      hint: null
+      type: select_multiple
+      options:
+      - Everyone
+      - Friends
+      - Only specific users
+      required: false
+    - id: 5
+      name: sharing_frequency
+      label: Sharing frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Once
+      - Often
+      - Daily
+      - Multiple times a week
+      required: false
+    - id: 6
+      name: sharing_details
+      label: Sharing details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: sharing_preferences
+      label: Sharing preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: assigned_tool
+      label: Assigned tool
+      hint: null
+      type: select_one
+      options:
+      - Chatjimmy
+      - Other
+      required: false
+    - id: 9
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: output_file
+      label: Output file
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: Task Participation Sign Up
+    pages:
+    - id: 1
+      name: task_participation_sign_up_form
+      label: Task Participation Sign Up Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: task_preferences
+      label: Task Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: availability
+      label: Availability
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

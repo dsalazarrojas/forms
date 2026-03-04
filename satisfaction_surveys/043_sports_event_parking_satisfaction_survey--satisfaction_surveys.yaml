@@ -1,0 +1,261 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Sports Event Parking Satisfaction Survey
+    pages:
+    - id: 1
+      name: intro_page
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: parking_accessibility
+      label: How easy was it to access the parking?
+      hint: null
+      type: select_one
+      options:
+      - '5'
+      - '4'
+      - '3'
+      - '2'
+      - '1'
+      required: false
+    - id: 3
+      name: parking_accessibility_how_did
+      label: How did you access the parking?
+      hint: null
+      type: select_multiple
+      options:
+      - Walking
+      - Taxi
+      - Uber/Lyft
+      - Private Vehicle
+      - Other
+      required: false
+    - id: 4
+      name: parking_access_time
+      label: How long did it take for you to find a parking spot?
+      hint: null
+      type: select_one
+      options:
+      - Less than 2 minutes
+      - 2-5 minutes
+      - 5-10 minutes
+      - More than 10 minutes
+      required: false
+    - id: 5
+      name: parking_friendly
+      label: How friendly was the parking staff?
+      hint: null
+      type: select_one
+      options:
+      - Extremely Friendly
+      - Very Friendly
+      - Neutral
+      - Not very friendly
+      - Not at all friendly
+      required: false
+    - id: 6
+      name: parking_friendly_staff
+      label: Did you encounter any parking staff during your visit?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 7
+      name: parking_friendly_staff_comments
+      label: If yes, what was their attitude towards you?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: parking_friendly_staff_help
+      label: Did they help you with parking?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 9
+      name: parking_friendly_staff_tips
+      label: Did they provide you with any parking tips?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: parking_friendly_staff_directions
+      label: Did they provide you with clear directions?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 11
+      name: parking_convenience
+      label: How convenient was parking?
+      hint: null
+      type: select_one
+      options:
+      - Very convenient
+      - Fairly convenient
+      - Not very convenient
+      - Not at all convenient
+      required: false
+    - id: 12
+      name: parking_convenience_comments
+      label: Any additional comments on parking convenience?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: parking_value
+      label: How important is parking to you?
+      hint: null
+      type: select_one
+      options:
+      - Extremely important
+      - Somewhat important
+      - Not very important
+      - Not at all important
+      required: false
+    - id: 14
+      name: parking_parking_cost
+      label: How much did you pay for parking?
+      hint: null
+      type: select_one
+      options:
+      - Free
+      - $0-$5
+      - $6-$10
+      - $11-$15
+      - $16 or more
+      required: false
+    - id: 15
+      name: parking_value_parkingistency
+      label: Would you pay to park here again?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 16
+      name: additional_comments
+      label: Additional comments?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: parking_survey_completion
+      label: How likely are you to complete this survey?
+      hint: null
+      type: select_one
+      options:
+      - Extremely likely
+      - Somewhat likely
+      - Not very likely
+      - Not at all likely
+      required: false
+    - id: 18
+      name: parking_survey_completion_comments
+      label: Why or why not?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: parking_survey_length
+      label: How long did it take to complete this survey?
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 minute
+      - 1-2 minutes
+      - 2-5 minutes
+      - More than 5 minutes
+      required: false
+    - id: 20
+      name: parking_survey_length_comments
+      label: Why?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: parking_survey_satisfaction
+      label: How satisfied are you with the survey?
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Somewhat satisfied
+      - Neutral
+      - Somewhat dissatisfied
+      - Very dissatisfied
+      required: false
+    - id: 22
+      name: parking_survey_satisfaction_comments
+      label: Why?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: survey_admin
+      label: Who administered the survey?
+      hint: null
+      type: select_one
+      options:
+      - Event staff
+      - Volunteers
+      - Self-administered
+      required: false
+    - id: 24
+      name: survey_admin_comments
+      label: Comments?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: survey_admin_support
+      label: Were you satisfied with the survey adminstrator's support?
+      hint: null
+      type: select_one
+      options:
+      - Extremely satisfied
+      - Somewhat satisfied
+      - Neutral
+      - Somewhat dissatisfied
+      - Not at all satisfied
+      required: false
+    - id: 26
+      name: survey_admin_support_comments
+      label: Why or why not?
+      hint: null
+      type: text
+      options: []
+      required: false

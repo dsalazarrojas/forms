@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pedagogical Reflection Collection Consent Form
+    pages:
+    - id: 1
+      name: pedagogical_reflection_collection_consent_form
+      label: Consent For Using
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date Of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: date_of_completion
+      label: Date Of Completion
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: time_of_completion
+      label: Time Of Completion
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: consent
+      label: Consent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: consent_date
+      label: Date Of Consent
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: consent_time
+      label: Time Of Consent
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: agreement
+      label: Agreement
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: consent_status
+      label: Consent Status
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: date_signed
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: time_signed
+      label: Time Signed
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: notes_signed
+      label: Signed Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: signature
+      label: Signature
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: signed_by
+      label: Signed By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: signature_date
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: signature_time
+      label: Time Signed
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: signature_image
+      label: Signature
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: signature_location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: signed_by_title
+      label: Title
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 24
+      name: signed_by_initials
+      label: Initials
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: signature_image_url
+      label: Signature Image URL
+      hint: null
+      type: text
+      options: []
+      required: true

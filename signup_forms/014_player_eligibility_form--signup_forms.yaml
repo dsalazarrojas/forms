@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Player Eligibility Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: has_health_problems
+      label: Have Health Problems
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: has_sports_history
+      label: Have Sports History
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: terms_conditions_form
+      label: Terms and Conditions
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': ''agree'', ''label'': ''Agree''}'
+      - '{''option'': ''disagree'', ''label'': ''Disagree''}'
+      required: true

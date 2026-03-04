@@ -1,0 +1,216 @@
+inputSchema:
+  type: object
+  properties:
+    title: Winery Customer Information Collection Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: wine_preference
+      label: Wine Preference
+      hint: null
+      type: select_multiple
+      options:
+      - Chardonnay
+      - Merlot
+      - Cabernet
+      - Sauvignon Blanc
+      - Pinot Noir
+      - Rosé
+      required: false
+    - id: 6
+      name: preferred_wine_type
+      label: Preferred Wine Type
+      hint: null
+      type: select_one
+      options:
+      - Red
+      - White
+      - Sparkling
+      - Dessert
+      required: false
+    - id: 7
+      name: preferred_wine_region
+      label: Preferred Wine Region
+      hint: null
+      type: select_one
+      options:
+      - California
+      - Washington
+      - New York
+      - Oregon
+      required: false
+    - id: 8
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time_of_visit
+      label: Time of Visit
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: assigned_agent
+      label: Assigned Agent
+      hint: null
+      type: select_one
+      options:
+      - Jimmy
+      - Jane
+      - John
+      required: false
+    - id: 12
+      name: winery_address
+      label: Winery Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: winery_notes
+      label: Winery Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: customer_type
+      label: Customer Type
+      hint: null
+      type: select_one
+      options:
+      - Individual
+      - Couple
+      - Group
+      required: false
+    - id: 15
+      name: number_of_guests
+      label: Number of Guests
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: number_of_children
+      label: Number of Children
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: is_wine_member
+      label: Is Wine Member
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Member
+      required: false
+    - id: 18
+      name: membership_type
+      label: Membership Type
+      hint: null
+      type: select_one
+      options:
+      - Individual
+      - Group
+      - None
+      required: false
+    - id: 19
+      name: membership_start_date
+      label: Membership Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: membership_end_date
+      label: Membership End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: is_responsible_drinker
+      label: Is Responsible Drinker
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 22
+      name: is_responsible_parent
+      label: Is Responsible Parent
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 23
+      name: is_responsible_guardian
+      label: Is Responsible Guardian
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 24
+      name: is_responsible_guardian2
+      label: Is Responsible Guardian 2
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 25
+      name: is_responsible_guardian3
+      label: Is Responsible Guardian 3
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

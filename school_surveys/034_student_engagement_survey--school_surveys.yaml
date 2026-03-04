@@ -1,0 +1,238 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Engagement Survey
+    pages:
+    - id: 1
+      name: intro_page
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: experience_level
+      label: What is your current level of experience?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Novice''}'
+      - '{''value'': ''Intermediate''}'
+      - '{''value'': ''Advanced''}'
+      required: false
+    - id: 3
+      name: time_commitment
+      label: How many hours a week do you spend on this subject?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: learning_goals
+      label: What are your learning goals for this subject?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: feedback
+      label: Please provide any feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: experience_type
+      label: How do you usually learn this subject?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Online''}'
+      - '{''value'': ''In-person''}'
+      - '{''value'': ''Hybrid''}'
+      required: false
+    - id: 7
+      name: classroom_environment
+      label: What type of classroom environment do you usually have?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''In-person''}'
+      - '{''value'': ''Online''}'
+      - '{''value'': ''Hybrid''}'
+      required: false
+    - id: 8
+      name: teacher_support
+      label: How much support do you usually get from your teachers?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''A lot''}'
+      - '{''value'': ''A moderate amount''}'
+      - '{''value'': ''Not much''}'
+      required: false
+    - id: 9
+      name: student_support
+      label: How much support do you usually get from your classmates?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''A lot''}'
+      - '{''value'': ''A moderate amount''}'
+      - '{''value'': ''Not much''}'
+      required: false
+    - id: 10
+      name: class_size
+      label: How large is your class size?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''10-20''}'
+      - '{''value'': ''21-30''}'
+      - '{''value'': ''31-40''}'
+      - '{''value'': ''41-50''}'
+      - '{''value'': ''51 or more''}'
+      required: false
+    - id: 11
+      name: teacher_response_time
+      label: How quickly do teachers usually respond to your questions?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Immediately''}'
+      - '{''value'': ''Within a few hours''}'
+      - '{''value'': ''Within a day''}'
+      - '{''value'': ''Within a few days''}'
+      required: false
+    - id: 12
+      name: course_materials
+      label: How would you rate the quality of course materials?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Excellent''}'
+      - '{''value'': ''Good''}'
+      - '{''value'': ''Fair''}'
+      - '{''value'': ''Poor''}'
+      required: false
+    - id: 13
+      name: class_participation
+      label: How would you rate class participation?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''High''}'
+      - '{''value'': ''Medium''}'
+      - '{''value'': ''Low''}'
+      required: false
+    - id: 14
+      name: class_clarity
+      label: How clear is the class presentation?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Clear''}'
+      - '{''value'': ''Fair''}'
+      - '{''value'': ''Poor''}'
+      required: false
+    - id: 15
+      name: student_interaction
+      label: How would you rate student-teacher interaction?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''High''}'
+      - '{''value'': ''Medium''}'
+      - '{''value'': ''Low''}'
+      required: false
+    - id: 16
+      name: student_help
+      label: How often do you need help from teachers or classmates?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Frequently''}'
+      - '{''value'': ''Occasionally''}'
+      - '{''value'': ''Rarely''}'
+      required: false
+    - id: 17
+      name: student_satisfaction
+      label: What do you think about your level of satisfaction with the course?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''High''}'
+      - '{''value'': ''Medium''}'
+      - '{''value'': ''Low''}'
+      required: false
+    - id: 18
+      name: teacher_satisfaction
+      label: What do you think about your teacher's level of satisfaction with the
+        course?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''High''}'
+      - '{''value'': ''Medium''}'
+      - '{''value'': ''Low''}'
+      required: false
+    - id: 19
+      name: teacher_frustration
+      label: How often do you think teachers get frustrated with students?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Frequently''}'
+      - '{''value'': ''Occasionally''}'
+      - '{''value'': ''Rarely''}'
+      required: false
+    - id: 20
+      name: student_frustration
+      label: How often do you feel frustrated with the course?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Frequently''}'
+      - '{''value'': ''Occasionally''}'
+      - '{''value'': ''Rarely''}'
+      required: false
+    - id: 21
+      name: student_motivation
+      label: What motivates you to continue taking this course?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''The content of the course''}'
+      - '{''value'': ''The instructor''}'
+      - '{''value'': ''Both''}'
+      required: false
+    - id: 22
+      name: student_engagement
+      label: How would you rate your current engagement in the course?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''High''}'
+      - '{''value'': ''Medium''}'
+      - '{''value'': ''Low''}'
+      required: false
+    - id: 23
+      name: student_expectations
+      label: How would you rate your expectations for this course?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''High''}'
+      - '{''value'': ''Medium''}'
+      - '{''value'': ''Low''}'
+      required: false
+    - id: 24
+      name: course_difficulty
+      label: How would you rate the course difficulty?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''High''}'
+      - '{''value'': ''Medium''}'
+      - '{''value'': ''Low''}'
+      required: false

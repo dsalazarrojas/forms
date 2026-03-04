@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Funeral Preferences Form
+    pages:
+    - id: 1
+      name: preferred_coffin_type
+      label: Coffin Type
+      hint: null
+      type: select_one
+      options:
+      - Casket
+      - Wooden Coffin
+      - Eco-Friendly Coffin
+      required: false
+    - id: 2
+      name: preferred_coffin_description
+      label: Coffin Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: preferred_funeral_date
+      label: Funeral Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: preferred_time
+      label: Funeral Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: preferred_coffin_color
+      label: Coffin Color
+      hint: null
+      type: select_multiple
+      options:
+      - Black
+      - White
+      - Red
+      - Blue
+      required: false
+    - id: 6
+      name: preferred_coffin_shape
+      label: Coffin Shape
+      hint: null
+      type: select_one
+      options:
+      - Rectangular
+      - Square
+      - Round
+      required: false
+    - id: 7
+      name: preferred_coffin_size
+      label: Coffin Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: preferred_location
+      label: Location
+      hint: null
+      type: select_multiple
+      options:
+      - Church
+      - Graveyard
+      - Park
+      required: false
+    - id: 9
+      name: preferred_funeral_service
+      label: Funeral Service
+      hint: null
+      type: select_one
+      options:
+      - Traditional
+      - Memorial
+      - Cremation
+      required: false

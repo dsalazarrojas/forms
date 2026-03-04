@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: Elder Of The Month Sign Up
+    pages:
+    - id: 1
+      name: sign_up_page
+      label: Sign Up
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: nominee_name
+      label: Nominee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: nominee_email
+      label: Nominee E-mail
+      hint: Enter the nominee's e-mail address
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: nominee_story
+      label: Nominee Story
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: review_candidate
+      label: Review Candidate
+      hint: Select the nominee you want to review
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: submit_button
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Other
+      required: false

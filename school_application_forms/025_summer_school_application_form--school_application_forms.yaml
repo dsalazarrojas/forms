@@ -1,0 +1,211 @@
+inputSchema:
+  type: object
+  properties:
+    title: Summer School Application Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: student_id
+      label: Student ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: tuition_fees
+      label: Tuition Fees
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: select_one
+      label: Select one
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''option1''}'
+      - '{''label'': ''option2''}'
+      - '{''label'': ''option3''}'
+      - '{''label'': ''option4''}'
+      - '{''label'': ''option5''}'
+      required: true
+    - id: 7
+      name: select_multiple
+      label: Select Multiple
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''option1''}'
+      - '{''label'': ''option2''}'
+      - '{''label'': ''option3''}'
+      - '{''label'': ''option4''}'
+      - '{''label'': ''option5''}'
+      required: false
+    - id: 8
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Category 1''}'
+      - '{''label'': ''Category 2''}'
+      - '{''label'': ''Category 3''}'
+      - '{''label'': ''Category 4''}'
+      - '{''label'': ''Category 5''}'
+      required: true
+    - id: 13
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: tuition_fees_via
+      label: Tuition Fees via
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Square''}'
+      - '{''label'': ''PayPal''}'
+      required: true
+    - id: 16
+      name: amount
+      label: Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: accept_date
+      label: Accept Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: status
+      label: Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''pending''}'
+      - '{''label'': ''accepted''}'
+      - '{''label'': ''declined''}'
+      required: false
+    - id: 19
+      name: accept_date_status
+      label: Accept Date Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''pending''}'
+      - '{''label'': ''accepted''}'
+      - '{''label'': ''declined''}'
+      required: false
+    - id: 20
+      name: application_type
+      label: Application Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''new_application''}'
+      - '{''label'': ''edit_application''}'
+      required: true
+    - id: 21
+      name: application_date
+      label: Application Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''cash''}'
+      - '{''label'': ''online''}'
+      required: true
+    - id: 23
+      name: application_status
+      label: Application Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''new_application''}'
+      - '{''label'': ''edit_application''}'
+      required: false
+    - id: 24
+      name: tuition_fees_method
+      label: Tuition Fees Method
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''paid''}'
+      - '{''label'': ''not_paid''}'
+      required: true
+    - id: 25
+      name: school_application_id
+      label: School Application ID
+      hint: null
+      type: text
+      options: []
+      required: false

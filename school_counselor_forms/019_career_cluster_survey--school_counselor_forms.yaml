@@ -1,0 +1,487 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Career Cluster Survey
+    pages:
+      - id: 1
+        name: student_name
+        label: Student Name
+        hint: Full name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: grade_level
+        label: Grade Level
+        hint: null
+        type: select_one
+        options:
+          - 6th Grade
+          - 7th Grade
+          - 8th Grade
+          - 9th Grade
+          - 10th Grade
+          - 11th Grade
+          - 12th Grade
+        required: true
+      - id: 3
+        name: school_name
+        label: School Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: survey_date
+        label: Date Completed
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 5
+        name: teacher_name
+        label: Teacher or Counselor Name
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: cluster_agriculture
+        label: Agriculture, Food, and Natural Resources Interest
+        hint: Rate your interest level
+        type: select_one
+        options:
+          - Very interested
+          - Somewhat interested
+          - Neutral
+          - Not very interested
+          - Not interested at all
+        required: true
+      - id: 7
+        name: cluster_agriculture_jobs
+        label: Agriculture Cluster Careers
+        hint: Select any that sound interesting
+        type: select_multiple
+        options:
+          - Farmer or rancher
+          - Veterinarian
+          - Agricultural scientist
+          - Landscape architect
+          - Conservationist
+          - None interest me
+        required: true
+      - id: 8
+        name: cluster_architecture
+        label: Architecture and Construction Interest
+        hint: Rate your interest level
+        type: select_one
+        options:
+          - Very interested
+          - Somewhat interested
+          - Neutral
+          - Not very interested
+          - Not interested at all
+        required: true
+      - id: 9
+        name: cluster_architecture_jobs
+        label: Architecture Cluster Careers
+        hint: Select any that sound interesting
+        type: select_multiple
+        options:
+          - Architect
+          - Civil engineer
+          - Construction manager
+          - Carpenter
+          - Interior designer
+          - None interest me
+        required: true
+      - id: 10
+        name: cluster_arts
+        label: Arts, Audio/Video Technology, and Communications Interest
+        hint: Rate your interest level
+        type: select_one
+        options:
+          - Very interested
+          - Somewhat interested
+          - Neutral
+          - Not very interested
+          - Not interested at all
+        required: true
+      - id: 11
+        name: cluster_arts_jobs
+        label: Arts Cluster Careers
+        hint: Select any that sound interesting
+        type: select_multiple
+        options:
+          - Graphic designer
+          - Journalist
+          - Film producer
+          - Musician
+          - Public relations specialist
+          - None interest me
+        required: true
+      - id: 12
+        name: cluster_business
+        label: Business, Management, and Administration Interest
+        hint: Rate your interest level
+        type: select_one
+        options:
+          - Very interested
+          - Somewhat interested
+          - Neutral
+          - Not very interested
+          - Not interested at all
+        required: true
+      - id: 13
+        name: cluster_business_jobs
+        label: Business Cluster Careers
+        hint: Select any that sound interesting
+        type: select_multiple
+        options:
+          - Business manager
+          - Human resources specialist
+          - Administrative assistant
+          - Project manager
+          - Entrepreneur
+          - None interest me
+        required: true
+      - id: 14
+        name: cluster_education
+        label: Education and Training Interest
+        hint: Rate your interest level
+        type: select_one
+        options:
+          - Very interested
+          - Somewhat interested
+          - Neutral
+          - Not very interested
+          - Not interested at all
+        required: true
+      - id: 15
+        name: cluster_education_jobs
+        label: Education Cluster Careers
+        hint: Select any that sound interesting
+        type: select_multiple
+        options:
+          - Teacher
+          - School counselor
+          - Principal
+          - Training coordinator
+          - Librarian
+          - None interest me
+        required: true
+      - id: 16
+        name: cluster_finance
+        label: Finance Interest
+        hint: Rate your interest level
+        type: select_one
+        options:
+          - Very interested
+          - Somewhat interested
+          - Neutral
+          - Not very interested
+          - Not interested at all
+        required: true
+      - id: 17
+        name: cluster_finance_jobs
+        label: Finance Cluster Careers
+        hint: Select any that sound interesting
+        type: select_multiple
+        options:
+          - Accountant
+          - Financial analyst
+          - Banker
+          - Insurance agent
+          - Investment advisor
+          - None interest me
+        required: true
+      - id: 18
+        name: cluster_government
+        label: Government and Public Administration Interest
+        hint: Rate your interest level
+        type: select_one
+        options:
+          - Very interested
+          - Somewhat interested
+          - Neutral
+          - Not very interested
+          - Not interested at all
+        required: true
+      - id: 19
+        name: cluster_government_jobs
+        label: Government Cluster Careers
+        hint: Select any that sound interesting
+        type: select_multiple
+        options:
+          - Politician
+          - Urban planner
+          - Foreign service officer
+          - Postal worker
+          - Military officer
+          - None interest me
+        required: true
+      - id: 20
+        name: cluster_health_science
+        label: Health Science Interest
+        hint: Rate your interest level
+        type: select_one
+        options:
+          - Very interested
+          - Somewhat interested
+          - Neutral
+          - Not very interested
+          - Not interested at all
+        required: true
+      - id: 21
+        name: cluster_health_science_jobs
+        label: Health Science Cluster Careers
+        hint: Select any that sound interesting
+        type: select_multiple
+        options:
+          - Doctor
+          - Nurse
+          - Physical therapist
+          - Medical technician
+          - Pharmacist
+          - None interest me
+        required: true
+      - id: 22
+        name: cluster_hospitality
+        label: Hospitality and Tourism Interest
+        hint: Rate your interest level
+        type: select_one
+        options:
+          - Very interested
+          - Somewhat interested
+          - Neutral
+          - Not very interested
+          - Not interested at all
+        required: true
+      - id: 23
+        name: cluster_hospitality_jobs
+        label: Hospitality Cluster Careers
+        hint: Select any that sound interesting
+        type: select_multiple
+        options:
+          - Hotel manager
+          - Chef
+          - Travel agent
+          - Event planner
+          - Tour guide
+          - None interest me
+        required: true
+      - id: 24
+        name: cluster_human_services
+        label: Human Services Interest
+        hint: Rate your interest level
+        type: select_one
+        options:
+          - Very interested
+          - Somewhat interested
+          - Neutral
+          - Not very interested
+          - Not interested at all
+        required: true
+      - id: 25
+        name: cluster_human_services_jobs
+        label: Human Services Cluster Careers
+        hint: Select any that sound interesting
+        type: select_multiple
+        options:
+          - Social worker
+          - Counselor
+          - Childcare worker
+          - Elder care provider
+          - Non-profit director
+          - None interest me
+        required: true
+      - id: 26
+        name: cluster_it
+        label: Information Technology Interest
+        hint: Rate your interest level
+        type: select_one
+        options:
+          - Very interested
+          - Somewhat interested
+          - Neutral
+          - Not very interested
+          - Not interested at all
+        required: true
+      - id: 27
+        name: cluster_it_jobs
+        label: Information Technology Cluster Careers
+        hint: Select any that sound interesting
+        type: select_multiple
+        options:
+          - Software developer
+          - Network administrator
+          - IT support specialist
+          - Web developer
+          - Data scientist
+          - None interest me
+        required: true
+      - id: 28
+        name: cluster_law
+        label: Law, Public Safety, Corrections, and Security Interest
+        hint: Rate your interest level
+        type: select_one
+        options:
+          - Very interested
+          - Somewhat interested
+          - Neutral
+          - Not very interested
+          - Not interested at all
+        required: true
+      - id: 29
+        name: cluster_law_jobs
+        label: Law Cluster Careers
+        hint: Select any that sound interesting
+        type: select_multiple
+        options:
+          - Lawyer
+          - Police officer
+          - Firefighter
+          - Paralegal
+          - Security specialist
+          - None interest me
+        required: true
+      - id: 30
+        name: cluster_manufacturing
+        label: Manufacturing Interest
+        hint: Rate your interest level
+        type: select_one
+        options:
+          - Very interested
+          - Somewhat interested
+          - Neutral
+          - Not very interested
+          - Not interested at all
+        required: true
+      - id: 31
+        name: cluster_manufacturing_jobs
+        label: Manufacturing Cluster Careers
+        hint: Select any that sound interesting
+        type: select_multiple
+        options:
+          - Production manager
+          - Quality control inspector
+          - Machine operator
+          - Industrial engineer
+          - Welder
+          - None interest me
+        required: true
+      - id: 32
+        name: cluster_marketing
+        label: Marketing, Sales, and Service Interest
+        hint: Rate your interest level
+        type: select_one
+        options:
+          - Very interested
+          - Somewhat interested
+          - Neutral
+          - Not very interested
+          - Not interested at all
+        required: true
+      - id: 33
+        name: cluster_marketing_jobs
+        label: Marketing Cluster Careers
+        hint: Select any that sound interesting
+        type: select_multiple
+        options:
+          - Marketing manager
+          - Sales representative
+          - Advertising specialist
+          - Retail manager
+          - Market researcher
+          - None interest me
+        required: true
+      - id: 34
+        name: cluster_stem
+        label: Science, Technology, Engineering, and Mathematics Interest
+        hint: Rate your interest level
+        type: select_one
+        options:
+          - Very interested
+          - Somewhat interested
+          - Neutral
+          - Not very interested
+          - Not interested at all
+        required: true
+      - id: 35
+        name: cluster_stem_jobs
+        label: STEM Cluster Careers
+        hint: Select any that sound interesting
+        type: select_multiple
+        options:
+          - Scientist
+          - Engineer
+          - Mathematician
+          - Researcher
+          - Lab technician
+          - None interest me
+        required: true
+      - id: 36
+        name: cluster_transportation
+        label: Transportation, Distribution, and Logistics Interest
+        hint: Rate your interest level
+        type: select_one
+        options:
+          - Very interested
+          - Somewhat interested
+          - Neutral
+          - Not very interested
+          - Not interested at all
+        required: true
+      - id: 37
+        name: cluster_transportation_jobs
+        label: Transportation Cluster Careers
+        hint: Select any that sound interesting
+        type: select_multiple
+        options:
+          - Pilot
+          - Truck driver
+          - Ship captain
+          - Logistics manager
+          - Air traffic controller
+          - None interest me
+        required: true
+      - id: 38
+        name: top_three_clusters
+        label: Your Top Three Career Clusters
+        hint: List the clusters you are most interested in
+        type: text
+        options: []
+        required: true
+      - id: 39
+        name: career_exploration_activities
+        label: Which Career Exploration Activities Interest You
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Career fairs
+          - Job shadowing
+          - Internships
+          - Career assessments
+          - Industry tours
+          - Guest speaker presentations
+          - Career clubs
+          - None
+        required: true
+      - id: 40
+        name: additional_comments
+        label: Additional Comments About Your Career Interests
+        hint: Optional
+        type: text
+        options: []
+        required: false

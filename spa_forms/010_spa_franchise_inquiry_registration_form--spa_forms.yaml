@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: spa_franchise_inquiry_registration_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: Enter your email address
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: franchise_interest
+      label: Franchise interest
+      hint: How much do you know about franchising?
+      type: select_one
+      options:
+      - Franchising 101
+      - Limited liability
+      - Business partnership
+      - Corporate
+      required: true
+    - id: 8
+      name: contact_person
+      label: Contact person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_email
+      label: Contact email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: contact_phone
+      label: Contact phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: franchise_location
+      label: Franchise location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: website
+      label: Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: franchise_interests
+      label: Interests
+      hint: null
+      type: select_multiple
+      options:
+      - Spa business
+      - Salon
+      - Wellness center
+      - Medical spa
+      - Other
+      required: true
+    - id: 14
+      name: spa_type
+      label: Spa type
+      hint: What type of spa do you want to open?
+      type: select_one
+      options:
+      - Day spa
+      - Medical spa
+      - Salon
+      - Wellness center
+      - Other
+      required: true
+    - id: 15
+      name: franchise_experience
+      label: Franchise experience
+      hint: How do you know about franchising?
+      type: select_multiple
+      options:
+      - None
+      - Some
+      - Extensive
+      required: true
+    - id: 16
+      name: business_plan
+      label: Business plan
+      hint: Have you prepared a business plan?
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 17
+      name: marketing_budget
+      label: Marketing budget
+      hint: How much are you prepared to invest in marketing?
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: location_details
+      label: Location details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: franchise_lead_source
+      label: Franchise lead source
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: franchise_lead_status
+      label: Franchise lead status
+      hint: null
+      type: select_one
+      options:
+      - New
+      - Active
+      - Converted
+      - Lost
+      required: true
+    - id: 21
+      name: follow_up
+      label: Follow up
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - Email and phone
+      - Never
+      required: true
+    - id: 22
+      name: follow_up_time
+      label: Follow up time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: follow_up_frequency
+      label: Follow up frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: submitted_date
+      label: Submitted date
+      hint: null
+      type: date
+      options: []
+      required: false

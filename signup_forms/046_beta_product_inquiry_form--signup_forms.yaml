@@ -1,0 +1,172 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beta Product Inquiry Form
+    pages:
+    - id: 1
+      name: applicant_info_header
+      label: -- Applicant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: inquiry_user_name
+      label: Your Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: inquiry_user_email
+      label: Your Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: inquiry_user_occupation
+      label: Your Occupation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: inquiry_user_industry
+      label: Your Industry
+      hint: null
+      type: select_one
+      options:
+      - Technology and Software
+      - Finance and Banking
+      - Education and Research
+      - Healthcare and Pharmaceuticals
+      - Creative and Media
+      - Retail and E-commerce
+      - Other
+      required: true
+    - id: 6
+      name: program_interest_header
+      label: -- Beta Program Inquiry --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: program_interest_reason
+      label: Why are you interested in this beta program
+      hint: Describe your motivation for testing our product
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: referral_source_select
+      label: How did you hear about us
+      hint: null
+      type: select_one
+      options:
+      - Social Media (X, LinkedIn, etc.)
+      - Friend or Colleague
+      - Search Engine (Google, Bing)
+      - Online Advertisement
+      - Other
+      required: true
+    - id: 9
+      name: similar_product_experience
+      label: Experience with Similar Products
+      hint: Describe any other beta testing you have done
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: technical_details_header
+      label: -- Technical Details and Environment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: testing_device_choice
+      label: Primary Device for Testing
+      hint: Which device will you use most
+      type: select_one
+      options:
+      - iPhone or iOS Device
+      - Android Phone or Tablet
+      - Mac Computer
+      - Windows PC
+      - Linux Workstation
+      - Other
+      required: true
+    - id: 12
+      name: os_version_input
+      label: Operating System Version
+      hint: E.g., iOS 17.2 or Windows 11
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: tech_savviness_rating
+      label: Tech-savviness Level
+      hint: 1 being low, 5 being expert
+      type: select_one
+      options:
+      - 1 - Low
+      - 2
+      - 3
+      - 4
+      - 5 - Expert
+      required: true
+    - id: 14
+      name: commitment_header
+      label: -- Availability and Commitment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: testing_hours_weekly
+      label: Hours per Week for Testing
+      hint: Approximate time you can dedicate
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: bug_report_willingness
+      label: Are you willing to provide detailed bug reports
+      hint: Includes logs and screenshots if needed
+      type: select_one
+      options:
+      - Yes - I am willing
+      - false
+      required: true
+    - id: 17
+      name: nda_agreement_status
+      label: Do you agree to the Non-Disclosure Agreement (NDA)
+      hint: You must keep the product confidential
+      type: select_one
+      options:
+      - Yes - I agree
+      - false
+      required: true
+    - id: 18
+      name: submission_final_header
+      label: -- Final Submission --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: beta_team_questions
+      label: Any questions for the beta team
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: inquiry_date_stamp
+      label: Date of Inquiry
+      hint: null
+      type: date
+      options: []
+      required: true

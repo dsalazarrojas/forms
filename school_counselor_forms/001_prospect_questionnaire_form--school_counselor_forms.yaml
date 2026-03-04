@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Prospect Questionnaire Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: example@example.com
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: birthdate
+      label: Birth date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: school_name
+      label: School name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: graduation_date
+      label: Graduation date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: select_one
+      label: Select one
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''One'', ''value'': ''One''}'
+      - '{''id'': 2, ''label'': ''Two'', ''value'': ''Two''}'
+      - '{''id'': 3, ''label'': ''Three'', ''value'': ''Three''}'
+      required: true
+    - id: 11
+      name: select_multiple
+      label: Select multiple
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''A'', ''value'': ''A''}'
+      - '{''id'': 2, ''label'': ''B'', ''value'': ''B''}'
+      - '{''id'': 3, ''label'': ''C'', ''value'': ''C''}'
+      required: true
+    - id: 12
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

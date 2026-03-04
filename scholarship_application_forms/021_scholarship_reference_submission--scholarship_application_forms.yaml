@@ -1,0 +1,212 @@
+inputSchema:
+  type: object
+  properties:
+    title: Scholarship Reference Submission
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: rating_scale
+      label: Rating Scale
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      required: true
+    - id: 10
+      name: rating_scale_other
+      label: Other Rating
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      required: false
+    - id: 11
+      name: referee_type
+      label: Referee Type
+      hint: null
+      type: select_multiple
+      options:
+      - School
+      - University
+      - Foundation
+      required: true
+    - id: 12
+      name: relationship
+      label: Relationship
+      hint: null
+      type: select_one
+      options:
+      - Parent
+      - Family Friend
+      - Mentor
+      - Teacher
+      - Colleague
+      - Other
+      required: true
+    - id: 13
+      name: years_known
+      label: Years Known
+      hint: null
+      type: select_multiple
+      options:
+      - Less than 1 year
+      - 1-2 years
+      - 3-5 years
+      - 6-10 years
+      - More than 10 years
+      required: true
+    - id: 14
+      name: how_known
+      label: How Known
+      hint: null
+      type: select_multiple
+      options:
+      - Social Media
+      - Work
+      - School/University
+      - Family
+      - Other
+      required: true
+    - id: 15
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: submission_status
+      label: Submission Status
+      hint: null
+      type: select_multiple
+      options:
+      - Pending
+      - Approved
+      - Rejected
+      required: true
+    - id: 17
+      name: submission_id
+      label: Submission ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: user_id
+      label: User ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: referee_id
+      label: Referee ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: referee_url
+      label: Referee URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: referee_email
+      label: Referee Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 22
+      name: referee_phone
+      label: Referee Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: false

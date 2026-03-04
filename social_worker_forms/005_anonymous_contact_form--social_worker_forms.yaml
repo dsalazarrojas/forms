@@ -1,0 +1,78 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Anonymous Contact Form
+    pages:
+    - id: 1
+      name: section_intro
+      label: -- Contact Submission --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: subject
+      label: Subject
+      hint: Brief description of your message
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: message
+      label: Message or inquiry
+      hint: Provide details of your inquiry or feedback
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: preferred_contact_method
+      label: Preferred contact method
+      hint: Leave blank to remain anonymous
+      type: select_one
+      options:
+        - No contact please
+        - Email follow up
+        - Phone follow up
+      required: false
+    - id: 5
+      name: best_time_to_contact
+      label: Best time to contact
+      hint: If you selected a contact method above
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: department_or_service
+      label: Department or service of interest
+      hint: Optional to help direct your request
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: urgency_level
+      label: Urgency level
+      hint: Helps prioritize responses
+      type: select_one
+      options:
+        - Low
+        - Medium
+        - High
+      required: false
+    - id: 8
+      name: additional_notes
+      label: Additional notes
+      hint: Any further information to help respond
+      type: text
+      options: []
+      required: false

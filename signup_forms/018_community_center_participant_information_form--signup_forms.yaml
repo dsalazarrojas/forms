@@ -1,0 +1,74 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Community Center Participant Information
+    pages:
+      - id: 1
+        name: participant_name
+        label: Participant name
+        hint: Full name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: date_of_birth
+        label: Date of birth
+        hint: For program eligibility
+        type: date
+        options: []
+        required: false
+      - id: 3
+        name: primary_contact
+        label: Primary contact phone or email
+        hint: Best way to reach the participant
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: emergency_contact
+        label: Emergency contact name and phone
+        hint: Provide contact details
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: program_enrolled
+        label: Program enrolled
+        hint: Name of class or program
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: medical_conditions
+        label: Medical conditions or allergies
+        hint: List any important health notes
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: photo_consent
+        label: Photo consent for promotional use
+        hint: Allow use of photos in materials
+        type: select_one
+        options:
+          - Yes allow
+          - No do not allow
+        required: false
+      - id: 8
+        name: special_accommodations
+        label: Special accommodations required
+        hint: Accessibility or support needs
+        type: text
+        options: []
+        required: false

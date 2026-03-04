@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Teacher Observation Form
+    pages:
+    - id: 1
+      name: teacher_observation_form
+      label: Teacher Observation Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: teacher_observation_form_rating
+      label: Rating (1-5)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: teacher_observation_form_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: teacher_observation_form_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: teacher_observation_form_teacher_observed
+      label: Who was being observed?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: teacher_observation_form_teacher_observing
+      label: By whom?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: teacher_observation_form_teacher_assistant
+      label: Was a teaching assistant present?
+      hint: null
+      type: select_one
+      options:
+      - Assistant
+      - No Assistant
+      required: false
+    - id: 8
+      name: teacher_observation_form_classes_held
+      label: What classes were observed?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: teacher_observation_form_num_classes
+      label: How many classes did you observe?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: teacher_observation_form_duration
+      label: How long did you observe this class?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: teacher_observation_form_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

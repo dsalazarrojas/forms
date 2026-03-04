@@ -1,0 +1,134 @@
+inputSchema:
+  type: object
+  properties:
+    title: Content Optimization Checklist
+    pages:
+    - id: 1
+      name: general_info_header
+      label: -- Content Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: content_url
+      label: Content URL
+      hint: Link to the page being optimized
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: primary_keyword
+      label: Primary Focus Keyword
+      hint: The main keyword this page should rank for
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: secondary_keywords
+      label: Secondary Keywords
+      hint: Related terms to include in the content
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: on_page_seo_header
+      label: -- On-Page SEO Elements --
+      hint: Check off each item as it is completed
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: meta_title_optimized
+      label: Meta Title contains primary keyword
+      hint: Character count should be 50-60
+      type: select_one
+      options:
+      - true
+      - false
+      - N/A
+      required: true
+    - id: 7
+      name: meta_description_set
+      label: Meta Description is compelling and has CTA
+      hint: Character count should be 150-160
+      type: select_one
+      options:
+      - true
+      - false
+      - N/A
+      required: true
+    - id: 8
+      name: h1_h2_structure
+      label: H1 and H2 tags correctly structured
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 9
+      name: internal_links_count
+      label: Number of Internal Links Added
+      hint: Link to other relevant pages on our site
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: image_alt_text
+      label: All images have descriptive Alt Text
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 11
+      name: quality_checks_header
+      label: -- Readability and Engagement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: readability_score
+      label: Flesch-Kincaid Readability Score
+      hint: Goal is usually 60 or higher
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: call_to_action_present
+      label: Clear Call-to-Action (CTA) included
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: mobile_friendly_test
+      label: Content displays correctly on mobile
+      hint: null
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      required: true
+    - id: 15
+      name: completion_status
+      label: Overall Optimization Status
+      hint: null
+      type: select_one
+      options:
+      - Draft
+      - Ready for Review
+      - Fully Optimized
+      required: true
+    - id: 16
+      name: checklist_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: true

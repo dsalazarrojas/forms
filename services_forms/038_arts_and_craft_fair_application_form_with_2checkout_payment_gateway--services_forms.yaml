@@ -1,0 +1,165 @@
+inputSchema:
+  type: object
+  properties:
+    title: Arts And Craft Fair Application Form With 2Checkout Payment Gateway
+    pages:
+    - id: 1
+      name: vendor_name
+      label: Vendor or Business Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_person
+      label: Contact Person Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: business_address
+      label: Business Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: state
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: zip_code
+      label: Zip or Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: craft_type
+      label: Type of Craft or Art
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: craft_description
+      label: Detailed Craft Description
+      hint: What do you create and sell
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: product_images
+      label: Product Images or Samples
+      hint: Attach photos of your work
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: booth_size_preference
+      label: Booth Size Preference
+      hint: null
+      type: select_one
+      options:
+      - 4x4 feet - 75
+      - 6x6 feet - 125
+      - 8x8 feet - 175
+      - 10x10 feet - 225
+      required: true
+    - id: 13
+      name: booth_cost
+      label: Booth Fee (displayed for payment)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: electricity_needed
+      label: Electricity or Water Needed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: fair_date
+      label: Fair or Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: previous_experience
+      label: Previous Fair Participation
+      hint: null
+      type: select_one
+      options:
+      - Yes - Frequently
+      - Yes - A Few Times
+      - No - First Time
+      required: false
+    - id: 17
+      name: how_heard
+      label: How Did You Hear About This Fair
+      hint: null
+      type: select_one
+      options:
+      - Website
+      - Social Media
+      - Email List
+      - Word of Mouth
+      - Advertisement
+      - Other
+      required: false
+    - id: 18
+      name: agree_terms
+      label: I Agree to Fair Terms and Payment Policy
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: payment_method
+      label: Payment Method via 2Checkout
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - PayPal
+      - Bank Transfer
+      required: true
+    - id: 20
+      name: additional_notes
+      label: Additional Notes or Requests
+      hint: null
+      type: text
+      options: []
+      required: false

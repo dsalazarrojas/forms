@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Host Family Application Form
+    pages:
+    - id: 1
+      name: host_family_info
+      label: Host Family Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: family_member_info
+      label: Family Members
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: family_background
+      label: Family Background
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: host_family_support
+      label: Host Family Support
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: host_family_language
+      label: Host Family Language
+      hint: null
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - French
+      - Chinese
+      - Arabic
+      required: false
+    - id: 6
+      name: host_family_education
+      label: Host Family Education
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: host_family_experience
+      label: Host Family Experience
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: host_family_culture
+      label: Host Family Culture
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: host_family_financial
+      label: Host Family Financial
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: host_family_employment
+      label: Host Family Employment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: host_family_references
+      label: Host Family References
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

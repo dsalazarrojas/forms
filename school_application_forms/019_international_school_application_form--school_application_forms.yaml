@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: International School Application Form
+    pages:
+    - id: 1
+      name: international_school_application_form_1
+      label: school_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: parent_name
+      label: parent_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_id
+      label: student_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: student_dob
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: parent_email
+      label: parent_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: student_grade_level
+      label: grade_level
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      required: true
+    - id: 7
+      name: student_language
+      label: student_language
+      hint: null
+      type: select_multiple
+      options:
+      - English
+      - Spanish
+      - French
+      - Mandarin
+      required: false
+    - id: 8
+      name: parent_phone
+      label: parent_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: school_type
+      label: school_type
+      hint: null
+      type: select_one
+      options:
+      - Public
+      - Private
+      - Charter
+      required: false
+    - id: 10
+      name: application_reason
+      label: application_reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: student_address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: student_city
+      label: city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: student_state
+      label: state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: student_zip
+      label: zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: guardian1_name
+      label: guardian1_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: guardian1_phone
+      label: guardian1_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: guardian1_email
+      label: guardian1_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: guardian2_name
+      label: guardian2_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: guardian2_phone
+      label: guardian2_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: guardian2_email
+      label: guardian2_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 21
+      name: emergency_contact_name
+      label: emergency_contact_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: emergency_contact_phone
+      label: emergency_contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: emergency_contact_email
+      label: emergency_contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 24
+      name: student_medical_history
+      label: medical_history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: student_allergies
+      label: allergies
+      hint: null
+      type: text
+      options: []
+      required: false

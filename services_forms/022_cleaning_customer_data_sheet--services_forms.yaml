@@ -1,0 +1,270 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cleaning Customer Data Sheet
+    pages:
+    - id: 1
+      name: section_header_contact
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_id
+      label: Customer ID
+      hint: Internal identifier or account number
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: customer_name
+      label: Customer Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company_name
+      label: Company Name
+      hint: Business name if applicable
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email Address
+      hint: Primary email contact
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: primary_phone
+      label: Primary Phone
+      hint: Main contact number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: secondary_phone
+      label: Secondary Phone
+      hint: Alternate contact number
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: section_header_address
+      label: -- Address and Location --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: service_address
+      label: Service Address
+      hint: Street address for cleaning service
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: state
+      label: State/Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: zip_code
+      label: ZIP/Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: section_header_service
+      label: -- Service Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: service_frequency
+      label: Service Frequency
+      hint: How often do they need service?
+      type: select_one
+      options:
+      - Weekly
+      - Bi-weekly
+      - Monthly
+      - Quarterly
+      - As Needed
+      required: true
+    - id: 15
+      name: preferred_day
+      label: Preferred Day of Week
+      hint: Which day works best?
+      type: select_one
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      - Flexible
+      required: false
+    - id: 16
+      name: preferred_time
+      label: Preferred Time of Day
+      hint: Morning, afternoon, or evening?
+      type: select_one
+      options:
+      - Early Morning (6-9 AM)
+      - Morning (9 AM - 12 PM)
+      - Afternoon (12-5 PM)
+      - Evening (5-8 PM)
+      - Flexible
+      required: false
+    - id: 17
+      name: service_type
+      label: Type of Cleaning Service
+      hint: Primary service being requested
+      type: select_one
+      options:
+      - General House Cleaning
+      - Deep Cleaning
+      - Office Cleaning
+      - Commercial Cleaning
+      - Carpet Cleaning
+      - Window Cleaning
+      - Post-Move Cleaning
+      - Other
+      required: true
+    - id: 18
+      name: property_size
+      label: Property Size
+      hint: Approximate square footage
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: number_rooms
+      label: Number of Rooms
+      hint: Total rooms to be cleaned
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: section_header_preferences
+      label: -- Cleaning Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: areas_to_clean
+      label: Areas to Clean
+      hint: Select applicable areas
+      type: select_multiple
+      options:
+      - Kitchen
+      - Bathrooms
+      - Bedrooms
+      - Living Areas
+      - Dining Areas
+      - Hallways
+      - Floors
+      - Windows
+      - Carpets
+      required: true
+    - id: 22
+      name: product_preferences
+      label: Cleaning Product Preferences
+      hint: null
+      type: select_one
+      options:
+      - Green/Eco-Friendly Only
+      - Hypoallergenic Products
+      - Standard Products
+      - Customer Supplies Own Products
+      - No Preference
+      required: false
+    - id: 23
+      name: fragrance_preference
+      label: Fragrance Preference
+      hint: null
+      type: select_one
+      options:
+      - Unscented
+      - Light Scent
+      - Strong Scent
+      - Customer Preference
+      - No Preference
+      required: false
+    - id: 24
+      name: section_header_access
+      label: -- Access and Special Notes --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: access_method
+      label: How We Will Access the Property
+      hint: null
+      type: select_one
+      options:
+      - Customer Home
+      - Hidden Key
+      - Keypad/Code
+      - Smart Lock
+      - Building Entrance
+      - Other
+      required: true
+    - id: 26
+      name: pets
+      label: Pets in Home
+      hint: null
+      type: select_one
+      options:
+      - No Pets
+      - Dogs
+      - Cats
+      - Other
+      required: true
+    - id: 27
+      name: special_instructions
+      label: Special Instructions
+      hint: Any special requests or concerns
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: billing_name
+      label: Billing Contact Name
+      hint: Person responsible for payment
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: billing_email
+      label: Billing Email
+      hint: Email for invoices
+      type: email
+      options: []
+      required: false
+    - id: 30
+      name: date_established
+      label: Customer Since Date
+      hint: When did service begin?
+      type: date
+      options: []
+      required: false

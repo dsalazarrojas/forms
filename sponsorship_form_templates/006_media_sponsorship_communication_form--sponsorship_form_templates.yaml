@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Media Sponsorship Communication Form
+    pages:
+    - id: 1
+      name: media_sponsorship_communication_form_1
+      label: form_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_media_type
+      label: media_type
+      hint: Choose the type of media to sponsor
+      type: select_one
+      options:
+      - radio_buttons
+      - digital_media
+      - print_media
+      required: false
+    - id: 3
+      name: form_sponsor_name
+      label: sponsor_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: form_sponsor_email
+      label: sponsor_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: form_sponsor_phone
+      label: sponsor_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: form_sponsor_website
+      label: sponsor_website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: form_media_sponsorship_details
+      label: media_sponsorship_details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: form_agreement
+      label: agreement
+      hint: null
+      type: select_one
+      options:
+      - radio_buttons
+      - non_radio_buttons
+      required: false
+    - id: 9
+      name: form_additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: form_agreement_signed
+      label: agreement_signed
+      hint: null
+      type: date
+      options: []
+      required: false

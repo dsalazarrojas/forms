@@ -1,0 +1,52 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Satisfaction Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: questions
+      label: Questions
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''very_satisfied'', ''label'': ''Very Satisfied''}'
+      - '{''value'': ''somewhat_satisfied'', ''label'': ''Somewhat Satisfied''}'
+      - '{''value'': ''neutral'', ''label'': ''Neutral''}'
+      - '{''value'': ''dissatisfied'', ''label'': ''Dissatisfied''}'
+      - '{''value'': ''very_dissatisfied'', ''label'': ''Very Dissatisfied''}'
+      required: false
+    - id: 3
+      name: comments
+      label: Comments
+      hint: Share your thoughts
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: false

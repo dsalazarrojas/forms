@@ -1,0 +1,191 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: 2021 Swfc Unit Master Prize Worksheet
+    pages:
+    - id: 1
+      name: section_header_personal
+      label: '--- Personal Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: Enter your legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email address
+      hint: Must be a valid email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone number
+      hint: Include country code if outside the US
+      type: phone
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of birth
+      hint: For age verification
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: age
+      label: Age
+      hint: Optional if DOB provided
+      type: integer
+      options: []
+      required: false
+    - id: 7
+      name: address
+      label: Mailing address
+      hint: Street, city, state, zip
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact_name
+      label: Emergency contact name
+      hint: Person to contact in case of emergency
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergency_contact_phone
+      label: Emergency contact phone
+      hint: Include country code if outside the US
+      type: phone
+      options: []
+      required: false
+    - id: 10
+      name: section_header_order
+      label: '--- Order Details ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: popcorn_quantity
+      label: Number of popcorn bags
+      hint: Enter the quantity you wish to order
+      type: integer
+      options: []
+      required: true
+    - id: 12
+      name: popcorn_flavor
+      label: Preferred popcorn flavor
+      hint: Choose one
+      type: select_one
+      options:
+      - Butter
+      - Caramel
+      - Cheese
+      - Sweet Corn
+      - Sea Salt
+      - Mixed
+      required: true
+    - id: 13
+      name: special_requests
+      label: Special requests
+      hint: e.g., gluten‑free packaging, extra seasoning
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: order_date
+      label: Desired delivery date
+      hint: Select the date you wish to receive your popcorn
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: delivery_address_same_as_mail
+      label: Is delivery address the same as mailing address?
+      hint: Select yes if the address matches
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 16
+      name: delivery_address
+      label: Delivery address
+      hint: Enter the address where popcorn should be delivered
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: section_header_experience
+      label: '--- Experience & Referral ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: experience_level
+      label: Experience level
+      hint: How would you rate your experience with popcorn ordering?
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Professional
+      required: true
+    - id: 19
+      name: how_heard
+      label: How did you hear about us?
+      hint: Select the primary source
+      type: select_one
+      options:
+      - Social media
+      - Friend/Family
+      - Website
+      - Flyer/Poster
+      - Other
+      required: true
+    - id: 20
+      name: special_needs
+      label: Any special requirements or accommodations?
+      hint: e.g., dietary restrictions, accessibility needs
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: section_header_comments
+      label: '--- Additional Comments ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: additional_comments
+      label: Additional comments or notes
+      hint: Any other information you'd like to share
+      type: text
+      options: []
+      required: false

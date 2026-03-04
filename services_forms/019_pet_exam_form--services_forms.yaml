@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pet Exam Form
+    pages:
+    - id: 1
+      name: pet_exam_form
+      label: Pet Exam Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: pet_name
+      label: Pet Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: pet_type
+      label: Pet Type
+      hint: null
+      type: select_one
+      options:
+      - Cat
+      - Dog
+      - Other
+      required: false
+    - id: 4
+      name: pet_breed
+      label: Pet Breed
+      hint: null
+      type: select_multiple
+      options:
+      - Labrador
+      - Poodle
+      - Golden
+      - Other
+      required: false
+    - id: 5
+      name: pet_weight
+      label: Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: pet_age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: pet_color
+      label: Color
+      hint: null
+      type: select_one
+      options:
+      - Black
+      - White
+      - Grey
+      - Other
+      required: false
+    - id: 8
+      name: pet_health
+      label: Health
+      hint: null
+      type: select_multiple
+      options:
+      - Heart
+      - Lungs
+      - Liver
+      - Other
+      - Kidney
+      required: false
+    - id: 9
+      name: pet_vaccinations
+      label: Vaccinations
+      hint: null
+      type: select_multiple
+      options:
+      - Up-to-date
+      - Not Up-to-date
+      - Partially Up-to-date
+      required: false
+    - id: 10
+      name: pet_medication
+      label: Medication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: medical_notes
+      label: Medical Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: doctor_name
+      label: Doctor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: doctor_phone
+      label: Doctor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: doctor_email
+      label: Doctor Email
+      hint: null
+      type: email
+      options: []
+      required: false

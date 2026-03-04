@@ -1,0 +1,107 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Dating App Referral Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: referral_source
+      label: Referral Source
+      hint: null
+      type: select_one
+      options:
+      - Referral from Website
+      - Referral from Social Media
+      - Referral from Event
+      required: false
+    - id: 3
+      name: friend_email
+      label: Friend Email
+      hint: Enter your friend's email address
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: friend_name
+      label: Friend Name
+      hint: Enter your friend's name
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: referrer_name
+      label: Referrer Name
+      hint: Enter your name
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: referrer_email
+      label: Referrer Email
+      hint: Enter your email
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: referral_context
+      label: Referral Context
+      hint: Describe the reason of the referral
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date_of_referral
+      label: Date of Referral
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: referrer_phone
+      label: Referrer Phone
+      hint: Enter your phone number
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: consent
+      label: Consent
+      hint: null
+      type: select_multiple
+      options:
+      - Explicit Consent
+      - Implied Consent
+      required: false
+    - id: 11
+      name: follow_up
+      label: Follow up
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 12
+      name: referrer_comment
+      label: Referrer Comment
+      hint: Enter a message to send to your referrer
+      type: text
+      options: []
+      required: false

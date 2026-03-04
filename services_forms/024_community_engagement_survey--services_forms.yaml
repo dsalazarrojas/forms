@@ -1,0 +1,176 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Community Engagement Survey
+    pages:
+      - id: 1
+        name: respondent_name
+        label: Name (Optional)
+        hint: Your name if you wish to share
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: email_address
+        label: Email Address
+        hint: For follow-up
+        type: email
+        options: []
+        required: false
+      - id: 3
+        name: zip_code
+        label: ZIP Code
+        hint: Your ZIP code
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: years_in_community
+        label: Years in Community
+        hint: How long have you lived here?
+        type: select_one
+        options:
+          - Less than 1 year
+          - 1-3 years
+          - 3-5 years
+          - 5-10 years
+          - More than 10 years
+        required: true
+      - id: 5
+        name: community_pride
+        label: Sense of Community Pride
+        hint: How proud are you to live here?
+        type: select_one
+        options:
+          - Very Proud
+          - Proud
+          - Neutral
+          - Not Very Proud
+          - Not Proud at All
+        required: true
+      - id: 6
+        name: community_involvement
+        label: Level of Community Involvement
+        hint: How involved are you?
+        type: select_one
+        options:
+          - Very Involved
+          - Somewhat Involved
+          - Not Very Involved
+          - Not Involved at All
+        required: true
+      - id: 7
+        name: participation_activities
+        label: Activities You Participate In
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Community Events
+          - Local Meetings
+          - Volunteer Work
+          - Neighborhood Associations
+          - Sports Leagues
+          - Arts and Culture
+          - None
+        required: true
+      - id: 8
+        name: community_services_rating
+        label: Community Services Rating
+        hint: Rate local services
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 9
+        name: safety_rating
+        label: Safety Rating
+        hint: How safe do you feel?
+        type: select_one
+        options:
+          - Very Safe
+          - Safe
+          - Neutral
+          - Unsafe
+          - Very Unsafe
+        required: true
+      - id: 10
+        name: quality_of_life
+        label: Quality of Life Rating
+        hint: Rate your quality of life here
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 11
+        name: community_communication
+        label: Community Communication Rating
+        hint: How well does the community communicate?
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 12
+        name: favorite_aspects
+        label: Favorite Aspects of Community
+        hint: What do you love most?
+        type: text
+        options: []
+        required: false
+      - id: 13
+        name: least_favorite_aspects
+        label: Least Favorite Aspects
+        hint: What needs improvement?
+        type: text
+        options: []
+        required: false
+      - id: 14
+        name: barriers_to_engagement
+        label: Barriers to Engagement
+        hint: What prevents you from being more involved?
+        type: select_multiple
+        options:
+          - Lack of Time
+          - Lack of Information
+          - Lack of Interest
+          - Transportation Issues
+          - Childcare Issues
+          - Health Issues
+          - None
+        required: true
+      - id: 15
+        name: future_involvement
+        label: Interest in Future Involvement
+        hint: Would you like to be more involved?
+        type: select_one
+        options:
+          - Yes, Definitely
+          - Maybe
+          - No
+        required: true
+      - id: 16
+        name: suggestions
+        label: Suggestions for Improvement
+        hint: Your ideas for the community
+        type: text
+        options: []
+        required: false

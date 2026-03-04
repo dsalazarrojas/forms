@@ -1,0 +1,224 @@
+inputSchema:
+  type: object
+  properties:
+    title: Boat Service Questionnaire
+    pages:
+    - id: 1
+      name: owner_name
+      label: Owner Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: owner_email
+      label: Owner Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: owner_phone
+      label: Owner Phone
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: boat_name
+      label: Boat Name
+      hint: Name of vessel
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: boat_make
+      label: Boat Make
+      hint: Manufacturer
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: boat_model
+      label: Boat Model
+      hint: Model name
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: boat_year
+      label: Boat Year
+      hint: Year of manufacture
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: boat_hull_id
+      label: Boat Hull ID
+      hint: HIN number
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: engine_make
+      label: Engine Make
+      hint: Engine manufacturer
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: engine_model
+      label: Engine Model
+      hint: Engine model
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: engine_hours
+      label: Engine Hours
+      hint: Total hours on engine
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: last_service_date
+      label: Last Service Date
+      hint: When was last service?
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: last_service_type
+      label: Last Service Type
+      hint: What was done?
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: service_provider
+      label: Previous Service Provider
+      hint: Who performed last service?
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: current_issues
+      label: Current Issues
+      hint: Describe any problems
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: service_needed
+      label: Service Needed
+      hint: Select type of service
+      type: select_one
+      options:
+      - Routine Maintenance
+      - Oil Change
+      - Winterization
+      - De-winterization
+      - Engine Tune-Up
+      - Hull Cleaning
+      - Bottom Paint
+      - Electrical Repair
+      - Plumbing Repair
+      - Full Service
+      - Other
+      required: true
+    - id: 17
+      name: preferred_service_date
+      label: Preferred Service Date
+      hint: When do you want service?
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: boat_location
+      label: Boat Location
+      hint: Where is the boat stored?
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: storage_type
+      label: Storage Type
+      hint: How is it stored?
+      type: select_one
+      options:
+      - In Water - Marina Slip
+      - In Water - Mooring
+      - Dry Stack
+      - Trailered
+      - Indoor Storage
+      - Outdoor Storage
+      required: true
+    - id: 20
+      name: haul_out_needed
+      label: Haul-Out Needed
+      hint: Does boat need to be hauled?
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: false
+    - id: 21
+      name: parts_replacement
+      label: Parts Replacement Expected
+      hint: Any known parts needed?
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: warranty_work
+      label: Warranty Work
+      hint: Is this warranty service?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 23
+      name: insurance_claim
+      label: Insurance Claim
+      hint: Is this an insurance repair?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 24
+      name: budget_range
+      label: Budget Range
+      hint: Expected cost range
+      type: select_one
+      options:
+      - Under $500
+      - $500 - $1,000
+      - $1,001 - $2,500
+      - $2,501 - $5,000
+      - Over $5,000
+      - Need Estimate
+      required: false
+    - id: 25
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other information
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: how_did_you_hear
+      label: How Did You Hear About Us?
+      hint: Referral source
+      type: select_one
+      options:
+      - Website
+      - Social Media
+      - Friend/Family Referral
+      - Marina Recommendation
+      - Advertisement
+      - Previous Customer
+      - Other
+      required: false

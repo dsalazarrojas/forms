@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: Domestic Pet Transport Booking Form
+    pages:
+    - id: 1
+      name: destination_from
+      label: Pickup Destination
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: destination_to
+      label: Delivery Destination
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: date_of_travel
+      label: Date of Travel
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: time_of_travel
+      label: Time of Travel
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: pet_type
+      label: Pet Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: pet_size
+      label: Pet Size
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: transport_method
+      label: Transport Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: transport_cost
+      label: Transport Cost
+      hint: Enter transport cost in dollars
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: pickup_contact
+      label: Pickup Contact
+      hint: Owner Name or Phone Number
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: owner_email
+      label: Owner Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: owner_phone
+      label: Owner Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: transport_service
+      label: Transport Service
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

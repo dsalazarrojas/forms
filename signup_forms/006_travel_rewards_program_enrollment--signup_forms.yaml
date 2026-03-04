@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: Travel Rewards Program Enrollment
+    pages:
+    - id: 1
+      name: enrollment
+      label: Enrollment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: member_info
+      label: Member Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: travel_preferences
+      label: Travel Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: segment
+      label: Segment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: preferences
+      label: Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

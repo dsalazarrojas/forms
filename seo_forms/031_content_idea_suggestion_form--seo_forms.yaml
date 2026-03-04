@@ -1,0 +1,175 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Content Idea Suggestion Form
+    pages:
+      - id: 1
+        name: suggester_name
+        label: Your Name
+        hint: Your full name (optional)
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: suggester_email
+        label: Your Email
+        hint: Email for follow-up questions
+        type: email
+        options: []
+        required: false
+      - id: 3
+        name: suggestion_date
+        label: Suggestion Date
+        hint: Date of this suggestion
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: topic_title
+        label: Topic Title
+        hint: Brief title for your suggested topic
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: topic_category
+        label: Topic Category
+        hint: What category does this fall under?
+        type: select_one
+        options:
+          - Technology
+          - Business
+          - Health and Wellness
+          - Lifestyle
+          - Education
+          - Finance
+          - Marketing
+          - Science
+          - Entertainment
+          - Other
+        required: true
+      - id: 6
+        name: topic_description
+        label: Topic Description
+        hint: Describe your topic idea in detail
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: why_this_topic
+        label: Why This Topic?
+        hint: Why should we write about this?
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: target_audience
+        label: Target Audience
+        hint: Who would benefit from this content?
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: content_type_suggestion
+        label: Suggested Content Type
+        hint: What format should this be?
+        type: select_one
+        options:
+          - Blog Post
+          - Video
+          - Podcast
+          - Infographic
+          - Case Study
+          - How-To Guide
+          - List Article
+          - Interview
+        required: true
+      - id: 10
+        name: related_keywords
+        label: Related Keywords
+        hint: What keywords are relevant?
+        type: text
+        options: []
+        required: false
+      - id: 11
+        name: search_intent
+        label: Search Intent
+        hint: What are readers searching for?
+        type: select_one
+        options:
+          - Informational
+          - Navigational
+          - Transactional
+          - Commercial Investigation
+        required: false
+      - id: 12
+        name: competitor_content
+        label: Competitor Content
+        hint: Have you seen similar content elsewhere?
+        type: text
+        options: []
+        required: false
+      - id: 13
+        name: questions_to_answer
+        label: Questions to Answer
+        hint: What questions should the content address?
+        type: text
+        options: []
+        required: false
+      - id: 14
+        name: urgency
+        label: Urgency
+        hint: How timely is this topic?
+        type: select_one
+        options:
+          - Evergreen
+          - Somewhat Time-Sensitive
+          - Very Time-Sensitive
+          - Trending Now
+        required: true
+      - id: 15
+        name: additional_resources
+        label: Additional Resources
+        hint: Links or references to include
+        type: text
+        options: []
+        required: false
+      - id: 16
+        name: would_like_contribution
+        label: Would You Like to Contribute?
+        hint: Are you interested in writing this content?
+        type: select_one
+        options:
+          - Yes, I would like to contribute
+          - No, just suggesting
+          - Maybe, let's discuss
+        required: false
+      - id: 17
+        name: expertise_level
+        label: Your Expertise Level
+        hint: How knowledgeable are you on this topic?
+        type: select_one
+        options:
+          - Expert
+          - Very Knowledgeable
+          - Somewhat Knowledgeable
+          - Interested Learner
+        required: false
+      - id: 18
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other thoughts or suggestions
+        type: text
+        options: []
+        required: false

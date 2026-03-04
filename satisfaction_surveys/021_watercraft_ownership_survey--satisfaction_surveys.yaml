@@ -1,0 +1,209 @@
+inputSchema:
+  type: object
+  properties:
+    title: Watercraft Ownership Survey
+    pages:
+    - id: 1
+      name: usage_frequency
+      label: Usage frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: insurance_coverage
+      label: insurance coverage
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      - '{''id'': 3, ''label'': ''Not sure''}'
+      required: true
+    - id: 3
+      name: engine_oil
+      label: Engine Oil
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: maintenance_habits
+      label: maintenance habits
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: boat_type
+      label: Boat type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''sail''}'
+      - '{''id'': 2, ''label'': ''power''}'
+      - '{''id'': 3, ''label'': ''other''}'
+      required: true
+    - id: 6
+      name: boat_age
+      label: Boat age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: registration
+      label: Registration
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: survey_date
+      label: Survey Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: insurance_provider
+      label: Insurance Provider
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Provider 1''}'
+      - '{''id'': 2, ''label'': ''Provider 2''}'
+      - '{''id'': 3, ''label'': ''Provider 3''}'
+      required: true
+    - id: 14
+      name: boat_maintenance
+      label: Boat Maintenance
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      - '{''id'': 3, ''label'': ''Not sure''}'
+      required: true
+    - id: 15
+      name: boat_warranty
+      label: Boat Warranty
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: true
+    - id: 16
+      name: boat_license
+      label: Boat License
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      - '{''id'': 3, ''label'': ''Not sure''}'
+      required: true
+    - id: 17
+      name: boat_registration_status
+      label: Boat Registration Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Registered''}'
+      - '{''id'': 2, ''label'': ''Not registered''}'
+      - '{''id'': 3, ''label'': ''Unknown''}'
+      required: true
+    - id: 18
+      name: boat_insurance_status
+      label: Boat Insurance Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Active''}'
+      - '{''id'': 2, ''label'': ''Inactive''}'
+      - '{''id'': 3, ''label'': ''Not insured''}'
+      required: true
+    - id: 19
+      name: boat_safety_equipment
+      label: Boat Safety Equipment
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      - '{''id'': 3, ''label'': ''Not applicable''}'
+      required: false
+    - id: 20
+      name: boat_must_haves
+      label: Boat Must Haves
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Engine''}'
+      - '{''id'': 2, ''label'': ''Propeller''}'
+      - '{''id'': 3, ''label'': ''Anchor''}'
+      required: false
+    - id: 21
+      name: boat_worth
+      label: Boat Worth
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: boat_size
+      label: Boat size
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: owner_name
+      label: Owner Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: owner_address
+      label: Owner Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: owner_phone
+      label: Owner Phone
+      hint: null
+      type: text
+      options: []
+      required: false

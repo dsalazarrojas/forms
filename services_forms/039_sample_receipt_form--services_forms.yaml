@@ -1,0 +1,54 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sample Receipt Form
+    pages:
+    - id: 1
+      name: form_header
+      label: Form Header
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: receipt_date
+      label: Receipt Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: receipt_time
+      label: Receipt Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: receipt_note
+      label: Receipt Note
+      hint: null
+      type: note
+      options: []
+      required: false

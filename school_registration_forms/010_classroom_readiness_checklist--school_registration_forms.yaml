@@ -1,0 +1,159 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Classroom Readiness Checklist
+    pages:
+      - id: 1
+        name: checklist_header
+        label: -- Classroom Readiness Checklist --
+        hint: Perform this check before the first day of school
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: teacher_name
+        label: Teacher Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: room_number
+        label: Room Number
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: check_date
+        label: Inspection Date
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 5
+        name: furniture_ready
+        label: All desks and chairs are accounted for and in good repair
+        hint: Physical Environment
+        type: select_one
+        options:
+          - Completed
+          - In Progress
+          - Needs Attention
+        required: true
+      - id: 6
+        name: supplies_stocked
+        label: Basic classroom supplies (markers, paper, etc.) are stocked
+        hint: null
+        type: select_one
+        options:
+          - Completed
+          - In Progress
+          - Needs Attention
+        required: true
+      - id: 7
+        name: tech_check
+        label: Computer, projector, and speakers are functioning
+        hint: Technology
+        type: select_one
+        options:
+          - Completed
+          - In Progress
+          - Needs Attention
+        required: true
+      - id: 8
+        name: safety_items
+        label: Fire extinguisher, first aid kit, and emergency maps are present
+        hint: Safety
+        type: select_one
+        options:
+          - Completed
+          - In Progress
+          - Needs Attention
+        required: true
+      - id: 9
+        name: displays_ready
+        label: Bulletin boards and wall displays are updated
+        hint: null
+        type: select_one
+        options:
+          - Completed
+          - In Progress
+          - Needs Attention
+        required: true
+      - id: 10
+        name: student_materials
+        label: Name tags and cubby labels are prepared
+        hint: null
+        type: select_one
+        options:
+          - Completed
+          - In Progress
+          - Needs Attention
+        required: true
+      - id: 11
+        name: curriculum_ready
+        label: First week lesson plans and materials are organized
+        hint: Instruction
+        type: select_one
+        options:
+          - Completed
+          - In Progress
+          - Needs Attention
+        required: true
+      - id: 12
+        name: cleaning_verified
+        label: Floors are clean and trash bins are empty
+        hint: Custodial
+        type: select_one
+        options:
+          - Completed
+          - In Progress
+          - Needs Attention
+        required: true
+      - id: 13
+        name: overall_readiness
+        label: Overall Classroom Readiness Level
+        hint: null
+        type: select_one
+        options:
+          - 100% Ready
+          - 75% Ready - minor issues
+          - 50% Ready - work needed
+          - Not ready
+        required: true
+      - id: 14
+        name: items_needed
+        label: List any specific items or repairs still needed
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 15
+        name: maintenance_ticket
+        label: Was a maintenance ticket submitted for any repairs?
+        hint: null
+        type: select_one
+        options:
+          - Yes
+          - No
+          - Not Applicable
+        required: true
+      - id: 16
+        name: principal_review_date
+        label: Principal Review Date
+        hint: null
+        type: date
+        options: []
+        required: false

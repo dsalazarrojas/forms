@@ -1,0 +1,216 @@
+inputSchema:
+  type: object
+  properties:
+    title: Car Rental Form
+    pages:
+    - id: 1
+      name: renter_first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: renter_last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: renter_email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: renter_phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: renter_address
+      label: Street address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: renter_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: renter_state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: renter_zip
+      label: Zip code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: driver_license_number
+      label: Driver license number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: driver_license_state
+      label: Driver license state
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: rental_information
+      label: -- RENTAL INFORMATION --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: pickup_location
+      label: Pickup location
+      hint: null
+      type: select_one
+      options:
+      - Airport
+      - Downtown Office
+      - Suburban Branch
+      - Hotel Delivery
+      - Home Delivery
+      - Mobile Service
+      required: true
+    - id: 14
+      name: pickup_date
+      label: Pickup date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: pickup_time
+      label: Pickup time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 16
+      name: dropoff_location
+      label: Dropoff location
+      hint: null
+      type: select_one
+      options:
+      - Same as Pickup
+      - Airport
+      - Downtown Office
+      - Suburban Branch
+      - Hotel Delivery
+      - One-Way Drop-off
+      required: true
+    - id: 17
+      name: dropoff_date
+      label: Dropoff date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: dropoff_time
+      label: Dropoff time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 19
+      name: vehicle_type
+      label: Vehicle type needed
+      hint: null
+      type: select_one
+      options:
+      - Economy
+      - Compact
+      - Mid-Size
+      - Full-Size
+      - SUV
+      - Minivan
+      - Luxury
+      - Premium
+      - Sports Car
+      required: true
+    - id: 20
+      name: transmission_preference
+      label: Transmission preference
+      hint: null
+      type: select_one
+      options:
+      - Manual
+      - Automatic
+      - No Preference
+      required: false
+    - id: 21
+      name: additional_driver
+      label: Additional driver needed?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 22
+      name: additional_driver_name
+      label: Additional driver name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: insurance_option
+      label: Insurance option
+      hint: null
+      type: select_one
+      options:
+      - Company Insurance
+      - Rental Company Insurance
+      - My Own Insurance
+      - Decline Coverage
+      required: true
+    - id: 24
+      name: special_requests
+      label: Special requests or requirements
+      hint: GPS, child seat, accessible vehicle, etc.
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: payment_preference
+      label: Payment method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Cash
+      - Corporate Account
+      - Check
+      - Online Booking
+      required: true

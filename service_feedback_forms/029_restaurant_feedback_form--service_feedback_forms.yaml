@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: Restaurant Feedback Form
+    pages:
+    - id: 1
+      name: rating
+      label: Overall
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: food_quality
+      label: Food Quality
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Poor
+      required: false
+    - id: 3
+      name: service_quality
+      label: Service Quality
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Poor
+      required: false
+    - id: 4
+      name: cleanliness
+      label: Cleanliness
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: food_service
+      label: Food Service
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: food_value
+      label: Food Value
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: service_value
+      label: Service Value
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: time_waited
+      label: Time Waited
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: comment
+      label: Comment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: rating
+      label: Recommend
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''Very likely''}'
+      - '{''text'': ''Likely''}'
+      - '{''text'': ''Not likely''}'
+      - '{''text'': ''Not at all likely''}'
+      required: true
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

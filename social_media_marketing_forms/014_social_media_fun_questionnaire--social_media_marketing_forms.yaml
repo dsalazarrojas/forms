@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Social Media Fun Questionnaire
+    pages:
+    - id: 1
+      name: social_media_platforms
+      label: Social Media Platforms
+      hint: null
+      type: select_multiple
+      options:
+      - Facebook
+      - Instagram
+      - TikTok
+      - Twitter
+      - YouTube
+      required: false
+    - id: 2
+      name: age_range
+      label: What is your age?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: social_media_usage
+      label: How often do you use social media?
+      hint: null
+      type: select_one
+      options:
+      - Often
+      - Sometimes
+      - Rarely
+      required: false
+    - id: 4
+      name: favorite_social_media
+      label: What is your favorite social media platform?
+      hint: null
+      type: select_one
+      options:
+      - Facebook
+      - Instagram
+      - TikTok
+      - Twitter
+      - YouTube
+      required: false
+    - id: 5
+      name: social_media_posting_frequency
+      label: How often do you post on social media?
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 6
+      name: social_media_posting_time
+      label: At what time do you usually post on social media?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: social_media_posting_content_type
+      label: What type of content do you usually post on social media?
+      hint: null
+      type: select_one
+      options:
+      - Text
+      - Image
+      - Video
+      required: false
+    - id: 8
+      name: social_media_target_audience
+      label: Who do you usually post for on social media?
+      hint: null
+      type: select_multiple
+      options:
+      - Friends
+      - Family
+      - Followers
+      required: false
+    - id: 9
+      name: social_media_posting_goals
+      label: What are your social media posting goals?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: social_media_usage_frequency
+      label: How often do you check your social media?
+      hint: null
+      type: select_one
+      options:
+      - Often
+      - Sometimes
+      - Rarely
+      required: false
+    - id: 11
+      name: email_address
+      label: What is your email address?
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone_number
+      label: What is your phone number?
+      hint: null
+      type: text
+      options: []
+      required: false

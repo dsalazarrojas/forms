@@ -1,0 +1,222 @@
+inputSchema:
+  type: object
+  properties:
+    title: Freshman Welcome Registration Form
+    pages:
+    - id: 1
+      name: student_name
+      label: First Name
+      hint: Enter your first name
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: Enter your last name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: Enter your date of birth
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: Enter your email
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: Enter your phone number
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: student_id
+      label: Student ID
+      hint: Enter your student ID
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: orientation_date
+      label: Orientation Date
+      hint: Select the orientation date
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: select_orientation_time
+      label: Orientation Time
+      hint: Select the orientation time
+      type: select_one
+      options:
+      - 10:00 am
+      - 11:00 am
+      - 12:00 pm
+      required: false
+    - id: 9
+      name: parent_name
+      label: Parent Name
+      hint: Enter parent name
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: parent_email
+      label: Parent Email
+      hint: Enter parent email
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: student_goals
+      label: Student Goal
+      hint: What are your goals?
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: parent_phone
+      label: Parent Phone
+      hint: Enter parent phone number
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Enter emergency contact name
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: emergency_contact_number
+      label: Emergency Contact Number
+      hint: Enter emergency contact number
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: relationship
+      label: Relationship
+      hint: null
+      type: select_one
+      options:
+      - Father
+      - Mother
+      - Friend
+      - Relative
+      - Other
+      required: false
+    - id: 16
+      name: student_type
+      label: Student Type
+      hint: null
+      type: select_multiple
+      options:
+      - Freshman
+      - Sophomore
+      - Junior
+      - Senior
+      - Other
+      required: false
+    - id: 17
+      name: student_program
+      label: Student Program
+      hint: null
+      type: select_multiple
+      options:
+      - Arts
+      - Business
+      - Engineering
+      - Other
+      required: false
+    - id: 18
+      name: student_interests
+      label: Student Interests
+      hint: null
+      type: select_multiple
+      options:
+      - Art
+      - Music
+      - Sports
+      - Other
+      required: false
+    - id: 19
+      name: student_aptitude
+      label: Student Aptitude
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 20
+      name: student_attendance
+      label: Student Attendance
+      hint: null
+      type: select_multiple
+      options:
+      - Regular
+      - Irregular
+      - Absent
+      required: false
+    - id: 21
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: null
+      type: select_one
+      options:
+      - Father
+      - Mother
+      - Relative
+      - Friend
+      - Other
+      required: false
+    - id: 22
+      name: student_attendance_frequency
+      label: Student Attendance
+      hint: Select student attendance frequency
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Yearly
+      required: false
+    - id: 23
+      name: student_attendance_reason
+      label: Student Attendance
+      hint: Select student attendance reason
+      type: select_multiple
+      options:
+      - Academic_goals
+      - Family_obligations
+      - Medical
+      - Personal_preferences
+      - Other
+      required: false
+    - id: 24
+      name: student_notes
+      label: Student Notes
+      hint: Additional notes about student
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: student_phone
+      label: Student Phone
+      hint: Enter student phone number
+      type: text
+      options: []
+      required: false

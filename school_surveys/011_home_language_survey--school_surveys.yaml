@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Home Language Survey
+    pages:
+    - id: 1
+      name: student_language_proficiency
+      label: student language proficiency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: mother_tongue
+      label: mother tongue
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: family_background
+      label: family background
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: language_proficiency_scale
+      label: language proficiency scale
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: mother_language
+      label: mother language
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: father_language
+      label: father language
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: siblings_languages
+      label: siblings languages
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: parents_languages
+      label: parents languages
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: home_language_survey_comments
+      label: home language survey comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: home_language_survey_additional_comments
+      label: home language survey additional comments
+      hint: null
+      type: note
+      options: []
+      required: false

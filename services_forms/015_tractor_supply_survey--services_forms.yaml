@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tractor Supply Survey
+    pages:
+    - id: 1
+      name: store_name
+      label: store_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: store_address
+      label: store_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: merchandise_quality
+      label: merchandise_quality
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Poor
+      required: true
+    - id: 4
+      name: merchandise_pricing
+      label: merchandise_pricing
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: store_location
+      label: store_location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: store_service
+      label: store_service
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: store_facilities
+      label: store_facilities
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: store_atmosphere
+      label: store_atmosphere
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: store_staff
+      label: store_staff
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: store_hours
+      label: store_hours
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: store_phone
+      label: store_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: store_email
+      label: store_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: store_website
+      label: store_website
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: store_facebook
+      label: store_facebook
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: store_twitter
+      label: store_twitter
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: store_instagram
+      label: store_instagram
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: store_other_comments
+      label: store_other_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: store_suggestions
+      label: store_suggestions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: store_rating
+      label: store_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: store_recommend
+      label: store_recommend
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: store_comments
+      label: store_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: merchandise_suggestions
+      label: merchandise_suggestions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: merchandise_comments
+      label: merchandise_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: customer_suggestions
+      label: customer_suggestions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: customer_comments
+      label: customer_comments
+      hint: null
+      type: note
+      options: []
+      required: false

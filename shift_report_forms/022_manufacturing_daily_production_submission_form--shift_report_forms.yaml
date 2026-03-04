@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: manufacturing_daily_production_submission_form
+    pages:
+    - id: 1
+      name: manufacturing_daily
+      label: Daily Production
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: manufacturing_defects
+      label: Defects
+      hint: List any defects or issues encountered.
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: manufacturing_downtime
+      label: Downtime
+      hint: List any downtime events.
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: manufacturing_lines
+      label: Lines
+      hint: Select the production lines involved.
+      type: select_multiple
+      options:
+      - Line 1
+      - Line 2
+      - Line 3
+      - Line 4
+      required: false
+    - id: 5
+      name: manufacturing_shift
+      label: Shift
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: manufacturing_shift_start_time
+      label: Shift Start Time
+      hint: "Enter the start time of the shift in 24 hour format (e.g., 08:00)."
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: manufacturing_shift_end_time
+      label: Shift End Time
+      hint: "Enter the end time of the shift in 24 hour format (e.g., 17:00)."
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: manufacturing_output
+      label: Output
+      hint: Enter the total output for the shift.
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: manufacturing_defect_description
+      label: Defect Description
+      hint: Enter a brief description of the defect.
+      type: text
+      options: []
+      required: false

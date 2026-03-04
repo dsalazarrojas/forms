@@ -1,0 +1,253 @@
+inputSchema:
+  type: object
+  properties:
+    title: Consent For AI Use In Services
+    pages:
+    - id: 1
+      name: consent_date
+      label: Consent Date
+      hint: Date of consent decision
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: Full name of client or service recipient
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_email
+      label: Email Address
+      hint: Contact email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: client_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: client_id
+      label: Client ID Number
+      hint: Unique identifier if applicable
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: service_type
+      label: Type of Service
+      hint: What service will utilize AI
+      type: select_one
+      options:
+      - Healthcare Consultation
+      - Legal Services
+      - Financial Advisory
+      - Educational Services
+      - Customer Support
+      - Content Creation
+      - Data Analysis
+      - Other
+      required: true
+    - id: 7
+      name: ai_description
+      label: AI Technology Description
+      hint: Description of AI tools to be used
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: ai_purpose
+      label: Purpose of AI Use
+      hint: Why AI is being used in your service
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: data_collected
+      label: Data That Will Be Processed
+      hint: What data will AI process
+      type: select_multiple
+      options:
+      - Personal Information
+      - Health Information
+      - Financial Information
+      - Communication Records
+      - Behavioral Data
+      - Biometric Data
+      - None
+      required: true
+    - id: 10
+      name: ai_involvement_level
+      label: Level of AI Involvement
+      hint: How will AI be used
+      type: select_one
+      options:
+      - Full AI Analysis
+      - AI-Assisted Human Decision
+      - AI for Administrative Tasks Only
+      - AI for Initial Screening
+      - AI for Ongoing Monitoring
+      required: true
+    - id: 11
+      name: human_oversight
+      label: Human Oversight Description
+      hint: How humans supervise AI decisions
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: benefits_explained
+      label: Benefits of AI Use Explained
+      hint: Have benefits been explained to you
+      type: select_one
+      options:
+      - Yes - Fully Understood
+      - Yes - Partially Understood
+      - false
+      required: true
+    - id: 13
+      name: risks_explained
+      label: Risks and Limitations Explained
+      hint: Have risks been explained to you
+      type: select_one
+      options:
+      - Yes - Fully Understood
+      - Yes - Partially Understood
+      - false
+      required: true
+    - id: 14
+      name: data_storage
+      label: Data Storage Information Provided
+      hint: Do you know how data will be stored
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: data_retention
+      label: Data Retention Period
+      hint: How long will data be kept
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: data_sharing
+      label: Will Data Be Shared with Third Parties
+      hint: Information about data sharing
+      type: select_one
+      options:
+      - Yes - With Named Partners
+      - Yes - With Anonymous Partners
+      - false
+      - Unsure
+      required: true
+    - id: 17
+      name: third_party_details
+      label: Third Party Details
+      hint: List any third parties if applicable
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: security_measures
+      label: Security Measures Explained
+      hint: Do you understand security protections
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 19
+      name: right_to_withdraw
+      label: Right to Withdraw Understood
+      hint: Do you know you can withdraw consent
+      type: select_one
+      options:
+      - Yes - Fully Understood
+      - Yes - Partially Understood
+      - false
+      required: true
+    - id: 20
+      name: withdrawal_process
+      label: Withdrawal Process Explained
+      hint: Do you know how to withdraw consent
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 21
+      name: alternative_options
+      label: Alternative Options Available
+      hint: Are there non-AI alternatives
+      type: select_one
+      options:
+      - Yes - Full Alternative Available
+      - Yes - Partial Alternative
+      - No - AI Required for Service
+      required: true
+    - id: 22
+      name: questions_answered
+      label: Were Your Questions Answered
+      hint: Did you have opportunity to ask questions
+      type: select_one
+      options:
+      - Yes - All Questions Answered
+      - Yes - Some Questions Answered
+      - No - No Questions Asked
+      required: true
+    - id: 23
+      name: consent_decision
+      label: Your Consent Decision
+      hint: Do you consent to AI use
+      type: select_one
+      options:
+      - Yes - I Consent
+      - No - I Do Not Consent
+      - I Need More Information
+      required: true
+    - id: 24
+      name: consent_scope
+      label: Scope of Consent
+      hint: What does your consent cover
+      type: select_one
+      options:
+      - All AI Uses Described
+      - Specific Uses Only
+      - One-Time Use Only
+      - Ongoing Until Withdrawn
+      required: false
+    - id: 25
+      name: client_signature
+      label: Client Signature
+      hint: Type your full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: witness_name
+      label: Witness Name
+      hint: Name of witness if applicable
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: provider_name
+      label: Service Provider Name
+      hint: Name of provider explaining consent
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: provider_signature
+      label: Provider Signature
+      hint: Name of provider
+      type: text
+      options: []
+      required: true

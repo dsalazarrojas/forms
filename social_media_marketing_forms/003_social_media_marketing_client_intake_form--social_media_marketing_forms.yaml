@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Social Media Marketing Client Intake Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Social Media Marketing Client Intake Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: social_media_platforms
+      label: Social Media Platforms
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: services
+      label: Services
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: budget
+      label: Budget
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: expectations
+      label: Expectations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: requirements
+      label: Requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: goals
+      label: Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: timeline
+      label: Timeline
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: review_time
+      label: Review Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: form_submission_status
+      label: Form Submission Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 18
+      name: notes_form_submission_status
+      label: Notes Form Submission Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 19
+      name: form_completion_date
+      label: Form Completion Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: form_completion_time
+      label: Form Completion Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: form_completion_note
+      label: Form Completion Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: notes_form_completion_status
+      label: Notes Form Completion Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 23
+      name: form_review_status
+      label: Form Review Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 24
+      name: form_revisions
+      label: Form Revisions
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: form_revision_comments
+      label: Form Revision Comments
+      hint: null
+      type: text
+      options: []
+      required: false

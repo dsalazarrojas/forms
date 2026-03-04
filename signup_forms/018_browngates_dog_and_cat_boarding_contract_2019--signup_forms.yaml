@@ -1,0 +1,174 @@
+inputSchema:
+  type: object
+  properties:
+    title: Browngates Dog And Cat Boarding Contract 2019
+    pages:
+    - id: 1
+      name: owner_full_name
+      label: Owner Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: owner_address
+      label: Home Address
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: owner_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: owner_state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: owner_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: owner_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: pet_name
+      label: Pet Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: pet_type
+      label: Pet Type
+      hint: null
+      type: select_one
+      options:
+      - Dog
+      - Cat
+      - Both
+      required: true
+    - id: 9
+      name: pet_breed
+      label: Breed
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: pet_age
+      label: Age
+      hint: In years
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: pet_weight
+      label: Weight
+      hint: In pounds
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: pet_color
+      label: Color or Markings
+      hint: For identification
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: boarding_dates
+      label: Boarding Check-In Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: boarding_checkout
+      label: Boarding Check-Out Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: vaccination_status
+      label: Current on All Vaccinations
+      hint: Rabies and DHPP required
+      type: select_one
+      options:
+      - Yes, current
+      - No, not current
+      - Not sure
+      required: true
+    - id: 16
+      name: special_needs
+      label: Special Diet or Medical Needs
+      hint: Medications, feeding schedule, allergies
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: behavior_notes
+      label: Behavioral Notes or Temperament
+      hint: Any aggression, anxiety, or special considerations
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: emergency_contact
+      label: Emergency Contact Name
+      hint: Other than owner
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: emergency_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: veterinarian_name
+      label: Veterinarian Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: veterinarian_phone
+      label: Veterinarian Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: daily_rate
+      label: Daily Boarding Rate
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: agree_to_terms
+      label: I agree to the boarding contract terms
+      hint: null
+      type: select_one
+      options:
+      - Yes, I agree
+      - false
+      required: true

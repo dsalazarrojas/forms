@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wedding Hair & Makeup Service Order Form
+    pages:
+    - id: 1
+      name: wedding_details
+      label: wedding_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: brides_info
+      label: brides_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: hair_services
+      label: hair_services
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: makeup_services
+      label: makeup_services
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: further_data
+      label: further_data
+      hint: null
+      type: text
+      options: []
+      required: false

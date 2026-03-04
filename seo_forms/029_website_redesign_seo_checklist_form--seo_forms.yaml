@@ -1,0 +1,109 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: website_redesign_seo_checklist_form
+    pages:
+    - id: 1
+      name: project_name
+      label: project_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: project_url
+      label: project_url
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: seo_issues
+      label: SEO Issues
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 5, ''name'': ''none'', ''label'': ''none'', ''value'': ''none''}'
+      - '{''id'': 6, ''name'': ''minor'', ''label'': ''minor'', ''value'': ''minor''}'
+      - '{''id'': 7, ''name'': ''major'', ''label'': ''major'', ''value'': ''major''}'
+      - '{''id'': 8, ''name'': ''critical'', ''label'': ''critical'', ''value'': ''critical''}'
+      required: true
+    - id: 4
+      name: workflow_stage
+      label: Workflow Stage
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 11, ''name'': ''planning'', ''label'': ''planning'', ''value'':
+        ''planning''}'
+      - '{''id'': 12, ''name'': ''design'', ''label'': ''design'', ''value'': ''design''}'
+      - '{''id'': 13, ''name'': ''development'', ''label'': ''development'', ''value'':
+        ''development''}'
+      - '{''id'': 14, ''name'': ''launch'', ''label'': ''launch'', ''value'': ''launch''}'
+      - '{''id'': 15, ''name'': ''post_launch'', ''label'': ''post_launch'', ''value'':
+        ''post_launch''}'
+      required: true
+    - id: 5
+      name: next_steps
+      label: None
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: team
+      label: Team
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 18, ''name'': ''agency'', ''label'': ''Agency'', ''value'': ''Agency''}'
+      - '{''id'': 19, ''name'': ''client'', ''label'': ''Client'', ''value'': ''client''}'
+      - '{''id'': 20, ''name'': ''internal'', ''label'': ''Internal'', ''value'':
+        ''internal''}'
+      required: true
+    - id: 7
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

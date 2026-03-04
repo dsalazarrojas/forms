@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: school_trip_consent_form
+    pages:
+    - id: 1
+      name: parent_name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: trip_date
+      label: trip_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: trip_duration
+      label: trip_duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: trip_destination
+      label: trip_destination
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: student_name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: student_class
+      label: class
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: student_grade
+      label: grade
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: consent
+      label: Consent
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 4.1, ''name'': ''consent1'', ''label'': ''I agree to my child attending
+        the school trip''}'
+      - '{''id'': 4.2, ''name'': ''consent2'', ''label'': ''I agree to the school
+        trip being held on the specified date''}'
+      - '{''id'': 4.3, ''name'': ''consent3'', ''label'': ''I agree to my child attending
+        the trip without parental accompaniment''}'
+      required: true

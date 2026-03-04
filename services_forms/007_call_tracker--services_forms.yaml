@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: Call Tracker
+    pages:
+    - id: 1
+      name: call_log_header
+      label: -- Service Call Log --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: call_date
+      label: Date of Call
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: call_start_time
+      label: Call Start Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: caller_name
+      label: Caller Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_number
+      label: Phone Number
+      hint: Format - XXX-XXX-XXXX
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email_address
+      label: Email Address
+      hint: Optional
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: call_type
+      label: Nature of Call
+      hint: Select the primary reason for the call
+      type: select_one
+      options:
+      - Inquiry - General
+      - New Service Request
+      - Billing Inquiry
+      - Technical Support
+      - Complaint
+      - Other
+      required: true
+    - id: 8
+      name: call_priority
+      label: Priority Level
+      hint: Urgency of the request
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      - Critical
+      required: true
+    - id: 9
+      name: detailed_notes
+      label: Detailed Call Notes
+      hint: Summary of the conversation and concerns
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: call_outcome
+      label: Call Outcome
+      hint: Result of the interaction
+      type: select_one
+      options:
+      - Resolved
+      - Pending Follow-up
+      - Escalated to Manager
+      - Referred to Third Party
+      - Closed - No action needed
+      required: true
+    - id: 11
+      name: next_action_items
+      label: Next Action Items
+      hint: What needs to happen next?
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: follow_up_date
+      label: Required Follow-up Date
+      hint: If applicable
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: representative_id
+      label: Representative ID - Name
+      hint: Person who took the call
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: call_duration_est
+      label: Estimated Call Duration (Minutes)
+      hint: null
+      type: number
+      options: []
+      required: false

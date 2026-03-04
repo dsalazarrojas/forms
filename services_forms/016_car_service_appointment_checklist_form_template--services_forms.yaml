@@ -1,0 +1,214 @@
+inputSchema:
+  type: object
+  properties:
+    title: Car Service Appointment Checklist Form Template
+    pages:
+    - id: 1
+      name: customer_information
+      label: -- CUSTOMER INFORMATION --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: customer_email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: vehicle_information
+      label: -- VEHICLE INFORMATION --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: vehicle_year
+      label: Vehicle year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: vehicle_make
+      label: Vehicle make
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: vehicle_model
+      label: Vehicle model
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: vehicle_license_plate
+      label: License plate number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: vehicle_mileage
+      label: Current mileage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: appointment_details
+      label: -- APPOINTMENT DETAILS --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: appointment_date
+      label: Appointment date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: appointment_time
+      label: Appointment time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 14
+      name: appointment_duration
+      label: Estimated duration
+      hint: null
+      type: select_one
+      options:
+      - 30 minutes
+      - 1 hour
+      - 1.5 hours
+      - 2 hours
+      - 2+ hours
+      required: false
+    - id: 15
+      name: service_type
+      label: Service type needed
+      hint: null
+      type: select_one
+      options:
+      - Regular Maintenance
+      - Oil Change
+      - Tire Service
+      - Brake Service
+      - Electrical
+      - Transmission
+      - Engine Diagnostics
+      - Full Inspection
+      - Custom Service
+      required: true
+    - id: 16
+      name: service_description
+      label: Service description or concerns
+      hint: Describe what needs to be serviced
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: pre_appointment_checklist
+      label: -- PRE-APPOINTMENT CHECKLIST --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: appointment_confirmed
+      label: Appointment confirmed with customer?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Pending
+      required: true
+    - id: 19
+      name: customer_notified
+      label: Customer notified of time?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Email Sent
+      - Text Sent
+      required: true
+    - id: 20
+      name: service_parts_ready
+      label: Required parts available?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - On Order
+      - To Be Determined
+      required: false
+    - id: 21
+      name: technician_assigned
+      label: Technician assigned?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - To Be Assigned
+      required: false
+    - id: 22
+      name: work_authorization
+      label: Customer authorization for work obtained?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Pending
+      required: false
+    - id: 23
+      name: estimated_cost
+      label: Estimated service cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: special_instructions
+      label: Special instructions or notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: loaner_vehicle_needed
+      label: Loaner vehicle needed?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Available
+      required: false

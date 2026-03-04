@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Poverty Survey
+    pages:
+    - id: 1
+      name: household_income
+      label: household_income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: household_members
+      label: household_members
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: family_structure
+      label: family_structure
+      hint: null
+      type: select_one
+      options:
+      - Single Person
+      - Married
+      - Single Parent
+      - Cohabiting
+      required: true
+    - id: 4
+      name: family_type
+      label: family_type
+      hint: null
+      type: select_one
+      options:
+      - Family
+      - Non-Family
+      - Non-family living with family member
+      - Other
+      required: true
+    - id: 5
+      name: household_income_source
+      label: household_income_source
+      hint: null
+      type: select_multiple
+      options:
+      - Job
+      - Investment
+      - Pension
+      - Other
+      - Government assistance
+      - Non-governmental organization
+      required: true
+    - id: 6
+      name: household_expense
+      label: household_expense
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: household_expense_source
+      label: household_expense_source
+      hint: null
+      type: select_multiple
+      options:
+      - Rent
+      - Utilities
+      - Transportation
+      - Food
+      - Other
+      - Government assistance
+      - Non-governmental organization
+      required: true
+    - id: 8
+      name: household_expense_other
+      label: household_expense_other
+      hint: null
+      type: text
+      options: []
+      required: false

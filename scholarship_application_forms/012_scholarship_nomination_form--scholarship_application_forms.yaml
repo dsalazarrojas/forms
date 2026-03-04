@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Scholarship Nomination Form
+    pages:
+    - id: 1
+      name: scholarship_nominator
+      label: Nominee
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: scholarship_nominator_institution
+      label: nominating_institution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: scholarship_nominator_title
+      label: Nominee title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: scholarships
+      label: scholarship
+      hint: null
+      type: select_multiple
+      options:
+      - Scholarship A
+      - Scholarship B
+      - Scholarship C
+      required: false
+    - id: 5
+      name: nomination_period
+      label: Nomination Period
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: nomination_date
+      label: Nomination Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: reason_for_nomination
+      label: Reason for Nomination
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: nominee_contact_information
+      label: Nominee Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: nominator_contact_information
+      label: Nominator Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: nominator_institutional_affiliation
+      label: Nominator Institution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: nominator_email
+      label: Nominator Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: nominator_comments
+      label: Nominator Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: nominator_signature
+      label: Nominator Signature
+      hint: null
+      type: note
+      options: []
+      required: false

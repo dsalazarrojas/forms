@@ -1,0 +1,266 @@
+inputSchema:
+  type: object
+  properties:
+    title: English Survey
+    pages:
+    - id: 1
+      name: surveyor_info
+      label: surveyor_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: general_english_proficiency_level
+      label: general_english_proficiency_level
+      hint: null
+      type: select_multiple
+      options:
+      - English Language Proficiency Level
+      - Basic
+      - Intermediate
+      - Advanced
+      - Excellent
+      required: false
+    - id: 3
+      name: can_understand_english_audio
+      label: can_understand_english_audio
+      hint: null
+      type: select_one
+      options:
+      - Can understand audio in English
+      - Can understand audio in other languages but can speak in English
+      - Can only understand English in writing but not in spoken form
+      - None
+      - Other
+      required: false
+    - id: 4
+      name: can_understand_english_video
+      label: can_understand_english_video
+      hint: null
+      type: select_one
+      options:
+      - Can understand video in English
+      - Can understand video in other languages but can speak in English
+      - Can only understand English in writing but not in spoken form
+      - None
+      - Other
+      required: false
+    - id: 5
+      name: can_understand_english_text
+      label: can_understand_english_text
+      hint: null
+      type: select_one
+      options:
+      - Can understand text in English
+      - Can understand text in other languages but can speak in English
+      - Can only understand English in writing but not in spoken form
+      - None
+      - Other
+      required: false
+    - id: 6
+      name: can_understand_english_spoken
+      label: can_understand_english_spoken
+      hint: null
+      type: select_one
+      options:
+      - Can understand English when spoken
+      - Can understand English in writing but not when spoken
+      - None
+      - Other
+      required: false
+    - id: 7
+      name: can_understand_english_phone
+      label: can_understand_english_phone
+      hint: null
+      type: select_one
+      options:
+      - Can understand phone calls in English
+      - Can understand phone calls in other languages but can speak in English
+      - Can only understand English in writing but not in spoken form
+      - None
+      - Other
+      required: false
+    - id: 8
+      name: can_write_in_english
+      label: can_write_in_english
+      hint: null
+      type: select_one
+      options:
+      - Can write in English
+      - Can write in other languages
+      - None
+      - Other
+      required: false
+    - id: 9
+      name: can_speak_in_english
+      label: can_speak_in_english
+      hint: null
+      type: select_one
+      options:
+      - Can speak in English
+      - Can speak in other languages
+      - None
+      - Other
+      required: false
+    - id: 10
+      name: can_read_in_english
+      label: can_read_in_english
+      hint: null
+      type: select_one
+      options:
+      - Can read in English
+      - Can read in other languages
+      - None
+      - Other
+      required: false
+    - id: 11
+      name: can_write_a_story_in_english
+      label: can_write_a_story_in_english
+      hint: null
+      type: select_one
+      options:
+      - Can write a story in English
+      - Can write a story in other languages
+      - None
+      - Other
+      required: false
+    - id: 12
+      name: english_is_language_at_work
+      label: english_is_language_at_work
+      hint: null
+      type: select_one
+      options:
+      - English is language at work
+      - English not language at work
+      - None
+      - Other
+      required: false
+    - id: 13
+      name: can_speak_with_native_language
+      label: can_speak_with_native_language
+      hint: null
+      type: select_one
+      options:
+      - Can speak with native language
+      - Can speak with other languages
+      - None
+      - Other
+      required: false
+    - id: 14
+      name: can_communicate_with_english
+      label: can_communicate_with_english
+      hint: null
+      type: select_one
+      options:
+      - Can communicate in English
+      - Can communicate in other languages
+      - None
+      - Other
+      required: false
+    - id: 15
+      name: can_understand_english_conversation
+      label: can_understand_english_conversation
+      hint: null
+      type: select_one
+      options:
+      - Can understand English conversation
+      - Can understand other languages conversation
+      - None
+      - Other
+      required: false
+    - id: 16
+      name: native_language
+      label: native_language
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: preferred_language
+      label: preferred_language
+      hint: null
+      type: select_one
+      options:
+      - English
+      - Other
+      required: false
+    - id: 18
+      name: years_of_english_language
+      label: years_of_english_language
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: how_long_did_you_study_english
+      label: how_long_did_you_study_english
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1 to 2 years
+      - 2 to 5 years
+      - 5 to 10 years
+      - More than 10 years
+      - Other
+      required: false
+    - id: 20
+      name: how_long_do_you_spend_on_english
+      label: how_long_do_you_spend_on_english
+      hint: null
+      type: select_one
+      options:
+      - Less than 30 minutes
+      - 30 minutes to 1 hour
+      - 1 to 2 hours
+      - 2 to 5 hours
+      - More than 5 hours
+      - Other
+      required: false
+    - id: 21
+      name: how_long_have_you_been_using_english
+      label: how_long_have_you_been_using_english
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1 to 2 years
+      - 2 to 5 years
+      - 5 to 10 years
+      - More than 10 years
+      - Other
+      required: false
+    - id: 22
+      name: english_as_language
+      label: english_as_language
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: native_country
+      label: native_country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: current_english_level
+      label: current_english_level
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Elementary
+      - Intermediate
+      - Advanced
+      - Excellent
+      required: false
+    - id: 25
+      name: other_english_language
+      label: other_english_language
+      hint: null
+      type: text
+      options: []
+      required: false

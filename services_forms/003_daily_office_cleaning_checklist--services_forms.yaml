@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daily Office Cleaning Checklist
+    pages:
+    - id: 1
+      name: office_location
+      label: Office Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: cleaning_areas
+      label: Cleaning Areas
+      hint: null
+      type: select_multiple
+      options:
+      - Carpets
+      - Furniture
+      - Windows
+      required: false
+    - id: 3
+      name: tasks_completed
+      label: Tasks Completed
+      hint: null
+      type: select_one
+      options:
+      - Task 1
+      - Task 2
+      - Task 3
+      - Task 4
+      - Task 5
+      required: true
+    - id: 4
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - chatjimmy
+      required: true
+    - id: 10
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - User 1
+      - User 2
+      - User 3
+      required: true
+    - id: 11
+      name: submitted_at
+      label: Submitted At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: submitted_time
+      label: Submitted Time
+      hint: null
+      type: time
+      options: []
+      required: false

@@ -1,0 +1,162 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bloxburg Variety Show Talk Show Sign Up
+    pages:
+    - id: 1
+      name: signup_intro
+      label: -- Variety Show Sign Up --
+      hint: Join us as a guest creator
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: creator_username
+      label: Creator Username
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: creator_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: creator_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: creator_platform
+      label: Primary Content Platform
+      hint: null
+      type: select_one
+      options:
+      - YouTube
+      - Twitch
+      - TikTok
+      - Instagram
+      - Twitter/X
+      - Other
+      required: true
+    - id: 6
+      name: content_type
+      label: Type of Content You Create
+      hint: null
+      type: select_multiple
+      options:
+      - Comedy
+      - Gaming
+      - Music
+      - Drama
+      - Educational
+      - Lifestyle
+      - Other
+      required: true
+    - id: 7
+      name: follower_count
+      label: Approximate Follower Count
+      hint: null
+      type: select_one
+      options:
+      - < 1,000
+      - 1,000 - 10,000
+      - 10,000 - 50,000
+      - 50,000 - 100,000
+      - 100,000+
+      required: false
+    - id: 8
+      name: bloxburg_experience
+      label: Bloxburg Experience Level
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Expert creator
+      required: true
+    - id: 9
+      name: show_segment_interest
+      label: Interested Show Segments
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Comedy sketches
+      - Talent showcase
+      - Interview segment
+      - Gaming demo
+      - Music performance
+      - Interactive games
+      required: true
+    - id: 10
+      name: performance_length
+      label: Preferred Performance Length
+      hint: null
+      type: select_one
+      options:
+      - 5 minutes
+      - 10 minutes
+      - 15 minutes
+      - Flexible
+      required: true
+    - id: 11
+      name: special_props_needed
+      label: Any special props or setup needed?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: co_creators
+      label: Any co-creators joining?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: available_dates
+      label: Available Performance Dates
+      hint: null
+      type: select_multiple
+      options:
+      - This weekend
+      - Next weekend
+      - Next week
+      - Flexible/TBD
+      required: true
+    - id: 14
+      name: technical_requirements
+      label: Technical Requirements
+      hint: Microphone, special effects, etc.
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: social_links
+      label: Social Media Links
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: previous_shows
+      label: Have you performed in shows before?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: signup_date
+      label: Signup Date
+      hint: null
+      type: date
+      options: []
+      required: true

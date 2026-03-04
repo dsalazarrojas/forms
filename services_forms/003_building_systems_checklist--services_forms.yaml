@@ -1,0 +1,222 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Building Systems Checklist
+    pages:
+      - id: 1
+        name: inspection_details
+        label: -- Inspection Details --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: inspection_date
+        label: Inspection Date
+        hint: Date of building systems inspection
+        type: date
+        options: []
+        required: true
+      - id: 3
+        name: inspector_name
+        label: Inspector Name
+        hint: Name of person conducting inspection
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: building_location
+        label: Building Location
+        hint: Address or identifier of building being inspected
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: shift_time
+        label: Inspection Shift
+        hint: Which shift is this inspection for
+        type: select_one
+        options:
+          - Morning
+          - Afternoon
+          - Evening
+          - Night
+        required: true
+      - id: 6
+        name: security_systems
+        label: -- Security Systems --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: security_cameras
+        label: Security Cameras Operational
+        hint: Are all security cameras functioning properly
+        type: select_one
+        options:
+          - Operational
+          - Partially Operational
+          - Non-functional
+          - Not Applicable
+        required: true
+      - id: 8
+        name: door_contacts
+        label: Door and Window Contacts
+        hint: Status of door and window contact sensors
+        type: select_one
+        options:
+          - Operational
+          - Partially Operational
+          - Non-functional
+          - Not Applicable
+        required: true
+      - id: 9
+        name: entry_gate
+        label: Entry Gate System
+        hint: Entry gate functionality
+        type: select_one
+        options:
+          - Operational
+          - Partially Operational
+          - Non-functional
+          - Not Applicable
+        required: true
+      - id: 10
+        name: exit_gate
+        label: Exit Gate System
+        hint: Exit gate functionality
+        type: select_one
+        options:
+          - Operational
+          - Partially Operational
+          - Non-functional
+          - Not Applicable
+        required: true
+      - id: 11
+        name: safety_systems
+        label: -- Safety and Fire Systems --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 12
+        name: fire_extinguishers
+        label: Fire Extinguishers Status
+        hint: Condition and availability of fire extinguishers
+        type: select_one
+        options:
+          - Fully Stocked and Accessible
+          - Present but Needs Inspection
+          - Missing or Non-functional
+          - Not Applicable
+        required: true
+      - id: 13
+        name: fire_alarms
+        label: Fire Alarm Systems
+        hint: Fire detection and alarm systems operational
+        type: select_one
+        options:
+          - Operational
+          - Partially Operational
+          - Non-functional
+          - Not Applicable
+        required: true
+      - id: 14
+        name: emergency_lights
+        label: Emergency Lighting
+        hint: Emergency exit lights operational
+        type: select_one
+        options:
+          - All Operational
+          - Some Non-functional
+          - None Operational
+          - Not Applicable
+        required: true
+      - id: 15
+        name: emergency_exits
+        label: Emergency Exits Accessible
+        hint: All emergency exits clear and accessible
+        type: select_one
+        options:
+          - Clear and Accessible
+          - Partially Blocked
+          - Blocked
+          - Not Applicable
+        required: true
+      - id: 16
+        name: external_systems
+        label: -- External Systems --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 17
+        name: external_lighting
+        label: External Sign Lighting
+        hint: Outdoor signage and security lighting
+        type: select_one
+        options:
+          - Operational
+          - Partially Operational
+          - Non-functional
+          - Not Applicable
+        required: true
+      - id: 18
+        name: landscaping_maintenance
+        label: Landscaping and Grounds
+        hint: Exterior grounds maintained and safe
+        type: select_one
+        options:
+          - Good Condition
+          - Acceptable
+          - Needs Maintenance
+          - Poor Condition
+        required: true
+      - id: 19
+        name: parking_areas
+        label: Parking Areas Condition
+        hint: Parking lot surfaces and lighting
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 20
+        name: issues_found
+        label: Issues or Deficiencies Found
+        hint: Describe any problems or maintenance needs
+        type: text
+        options: []
+        required: false
+      - id: 21
+        name: action_required
+        label: Action Required
+        hint: What maintenance or repairs are needed
+        type: select_one
+        options:
+          - None
+          - Minor Maintenance
+          - Urgent Repairs
+          - Follow-up Inspection Needed
+        required: true
+      - id: 22
+        name: notes
+        label: Additional Notes
+        hint: Any other observations or comments
+        type: text
+        options: []
+        required: false

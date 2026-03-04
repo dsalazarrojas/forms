@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pest Control Service Report
+    pages:
+    - id: 1
+      name: on_site_treatments
+      label: On site treatments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_info
+      label: Customer Info
+      hint: Customer name, address and contact
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: treatment_type
+      label: Treatment Type
+      hint: null
+      type: select_one
+      options:
+      - Baiting
+      - Trapping
+      - Fumigation
+      - Other
+      required: false
+    - id: 4
+      name: date_of_treatment
+      label: Date of treatment
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: pest_type
+      label: Pest Type
+      hint: null
+      type: select_multiple
+      options:
+      - Cockroaches
+      - Rodents
+      - Termites
+      - Other
+      required: false
+    - id: 6
+      name: pest_control_method
+      label: Pest control method
+      hint: null
+      type: select_multiple
+      options:
+      - Baiting
+      - Trapping
+      - Fumigation
+      - Other
+      required: false
+    - id: 7
+      name: treatment_area
+      label: Treatment area
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: customer_signature
+      label: Customer signature
+      hint: null
+      type: text
+      options: []
+      required: false

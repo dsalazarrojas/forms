@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Damage Claim Form
+    pages:
+    - id: 1
+      name: business_name
+      label: Business Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: damage_type
+      label: Damage Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: asset_description
+      label: Asset Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: value
+      label: Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Assets
+      - Property
+      - Items
+      required: false
+    - id: 14
+      name: status
+      label: Status
+      hint: null
+      type: select_multiple
+      options:
+      - Pending
+      - Resolved
+      - In Progress
+      required: false
+    - id: 15
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

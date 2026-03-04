@@ -1,0 +1,126 @@
+inputSchema:
+  type: object
+  properties:
+    title: the_car_laundry_job_card
+    pages:
+    - id: 1
+      name: job_card
+      label: Job Card
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_info
+      label: Client Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: work_order
+      label: Work Order
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: services
+      label: Services
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: job_card_description
+      label: Job Card Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: job_card_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: services_description
+      label: Services Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: accessories
+      label: Accessories
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: final_cost
+      label: Final Cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: client_phone
+      label: Client Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: client_email
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: job_status
+      label: Job Status
+      hint: null
+      type: select_one
+      options:
+      - In Progress
+      - Complete
+      - Overdue
+      required: true
+    - id: 13
+      name: job_due_date
+      label: Job Due Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: job_completed_date
+      label: Job Completed Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: job_updated_date
+      label: Job Updated Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: job_assigned_tool
+      label: Job Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: true

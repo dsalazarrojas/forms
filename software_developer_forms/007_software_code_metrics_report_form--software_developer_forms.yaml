@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Software Code Metrics Report Form
+    pages:
+    - id: 1
+      name: project_name
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: project_id
+      label: Project ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: metric_categories
+      label: Metric Categories
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: metric_category_1
+      label: Code Complexity
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Low''}'
+      - '{''id'': 2, ''label'': ''Medium''}'
+      - '{''id'': 3, ''label'': ''High''}'
+      required: true
+    - id: 5
+      name: metric_category_2
+      label: Comment Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Low''}'
+      - '{''id'': 2, ''label'': ''Medium''}'
+      - '{''id'': 3, ''label'': ''High''}'
+      required: false
+    - id: 6
+      name: metric_category_3
+      label: Code Duplication
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Low''}'
+      - '{''id'': 2, ''label'': ''Medium''}'
+      - '{''id'': 3, ''label'': ''High''}'
+      required: false
+    - id: 7
+      name: project_manager
+      label: Project Manager
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: project_manager_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Not Started''}'
+      - '{''id'': 2, ''label'': ''In Progress''}'
+      - '{''id'': 3, ''label'': ''Done''}'
+      required: true
+    - id: 10
+      name: project_status_comments
+      label: Status Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: code_review_date
+      label: Code Review Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: code_review_time
+      label: Code Review Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: reviewer_name
+      label: Reviewer
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: review_comments
+      label: Review Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: reviewer_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: metric1
+      label: Metrics 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: metric2
+      label: Metrics 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: metric3
+      label: Metrics 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: metric4
+      label: Metrics 4
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: metric5
+      label: Metrics 5
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: metric6
+      label: Metrics 6
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: metric7
+      label: Metrics 7
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: metric8
+      label: Metrics 8
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: metric9
+      label: Metrics 9
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: metric10
+      label: Metrics 10
+      hint: null
+      type: text
+      options: []
+      required: false

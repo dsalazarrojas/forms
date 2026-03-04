@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: seo-agreement-extension-form
+    pages:
+    - id: 1
+      name: seo_agreement_extension_form
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: seo_agreement_extension_form_client_agreement_date
+      label: Client Agreement Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: seo_agreement_extension_form_client_approval_date
+      label: Client Approval Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: seo_agreement_extension_form_client_agreement_version
+      label: Client Agreement Version
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: seo_agreement_extension_form_client_contract_url
+      label: Client Contract URL
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: seo_agreement_extension_form_client_contract_url_2
+      label: Contract File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: seo_agreement_extension_form_reviewer_name
+      label: Reviewer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: seo_agreement_extension_form_reviewer_role
+      label: Reviewer Role
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: seo_agreement_extension_form_reviewer_approval_date
+      label: Reviewer Approval Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: seo_agreement_extension_form_reviewer_comments
+      label: Reviewer Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: seo_agreement_extension_form_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Draft
+      - Reviewing
+      - Approved
+      - Rejected
+      required: true
+    - id: 12
+      name: seo_agreement_extension_form_status_2
+      label: Extension Status
+      hint: null
+      type: select_multiple
+      options:
+      - Draft
+      - Approved
+      required: true
+    - id: 13
+      name: seo_agreement_extension_form_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: seo_agreement_extension_form_extensions
+      label: Extensions
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: seo_agreement_extension_form_agreement_duration
+      label: Agreement Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: seo_agreement_extension_form_agreement_date
+      label: Agreement Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: seo_agreement_extension_form_reminder_emails
+      label: Reminder Emails
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: seo_agreement_extension_form_reminder_emails_2
+      label: Reminder Email Period
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: seo_agreement_extension_form_agreement_reminder_date
+      label: Agreement Reminder Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: seo_agreement_extension_form_agreement_extension_duration
+      label: Agreement Extension Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: seo_agreement_extension_form_agreement_extension_date
+      label: Agreement Extension Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: seo_agreement_extension_form_client_notice_date
+      label: Client Notice Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: seo_agreement_extension_form_reviewer_notice_date
+      label: Reviewer Notice Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: seo_agreement_extension_form_agreement_extension_status
+      label: Agreement Extension Status
+      hint: null
+      type: select_one
+      options:
+      - Draft
+      - Approved
+      required: true
+    - id: 25
+      name: seo_agreement_extension_form_agreement_extension_reminder_emails
+      label: Agreement Extension Reminder Emails
+      hint: null
+      type: number
+      options: []
+      required: false

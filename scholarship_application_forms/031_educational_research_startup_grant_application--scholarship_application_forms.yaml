@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Educational Research Startup Grant Application
+    pages:
+    - id: 1
+      name: researcher
+      label: researcher
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: university
+      label: university
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: budget
+      label: budget
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: documents
+      label: documents
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: proposal
+      label: proposal
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_address
+      label: contact_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: subcategory
+      label: subcategory
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: grant_amount
+      label: grant_amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: grant_period
+      label: grant_period
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 13
+      name: grant_start
+      label: grant_start
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: grant_end
+      label: grant_end
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: grant_status
+      label: grant_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 16
+      name: institution_name
+      label: institution_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: institution_address
+      label: institution_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: institution_country
+      label: institution_country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: institution_state
+      label: institution_state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: institution_city
+      label: institution_city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: institution_zip
+      label: institution_zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: institution_phone
+      label: institution_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: institution_email
+      label: institution_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 24
+      name: project_title
+      label: project_title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: project_description
+      label: project_description
+      hint: null
+      type: text
+      options: []
+      required: true

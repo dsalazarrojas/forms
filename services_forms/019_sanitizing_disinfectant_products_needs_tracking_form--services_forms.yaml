@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: sanitizing_disinfectant_products_needs_tracking_form
+    pages:
+    - id: 1
+      name: sanitizing_disinfectant_products_needs_tracking_form_page
+      label: Sanitizing Disinfectant Products Needs Tracking Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - Services Forms
+      - Other
+      required: false
+    - id: 3
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: product_name
+      label: product_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: product_description
+      label: product_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: product_quantity
+      label: product_quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: vendor_name
+      label: vendor_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: vendor_contact
+      label: vendor_contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: date_requested
+      label: date_requested
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: time_requested
+      label: time_requested
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: submit_button
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,173 @@
+inputSchema:
+  type: object
+  properties:
+    title: BRS Quote Sheet
+    pages:
+    - id: 1
+      name: section_quote_info
+      label: -- Quote Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: quote_date
+      label: Quote Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: quote_number
+      label: Quote Number
+      hint: Unique identifier for this quote
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: section_customer_info
+      label: -- Customer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: customer_name
+      label: Customer Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: address
+      label: Address
+      hint: Full street address
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: city_state_zip
+      label: City, State, ZIP
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: section_service_details
+      label: -- Service Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: service_description
+      label: Service Description
+      hint: What service or product is being quoted?
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: scope_of_work
+      label: Scope of Work
+      hint: Detailed description of work to be performed
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: quantity
+      label: Quantity
+      hint: Amount of service or units
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: unit_price
+      label: Unit Price
+      hint: In dollars
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: labor_hours
+      label: Estimated Labor Hours
+      hint: How many hours of work?
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: labor_rate
+      label: Labor Rate per Hour
+      hint: In dollars
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: materials_cost
+      label: Materials Cost
+      hint: In dollars
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: subtotal
+      label: Subtotal
+      hint: Before taxes and fees
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: tax_rate
+      label: Tax Rate
+      hint: Percentage
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: tax_amount
+      label: Tax Amount
+      hint: In dollars
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: total_amount
+      label: Total Amount
+      hint: Complete quote amount
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: validity_period
+      label: Quote Valid Until
+      hint: Expiration date of quote
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: terms_conditions
+      label: Terms and Conditions
+      hint: Any special conditions?
+      type: text
+      options: []
+      required: false

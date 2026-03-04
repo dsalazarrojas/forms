@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: raffle_ticket_form
+    pages:
+    - id: 1
+      name: raffle_entry
+      label: Raffle Entry
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: raffle_details
+      label: raffle_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: user_details
+      label: user_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: payment_confirmation
+      label: payment_confirmation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: raffle_winner
+      label: raffle_winner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: raffle_details_2
+      label: winner_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: ticket_price
+      label: Ticket Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: ticket_price_total
+      label: Ticket Price Total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: payment_method_1
+      label: Payment Method 1
+      hint: Select a payment option
+      type: select_one
+      options:
+      - '{''name'': ''Stripe''}'
+      - '{''name'': ''Stripe''}'
+      - '{''name'': ''PayPal''}'
+      - '{''name'': ''Bank Transfer''}'
+      required: false
+    - id: 12
+      name: payment_method_2
+      label: Payment Method 2
+      hint: Select a payment option
+      type: select_one
+      options:
+      - '{''name'': ''Stripe''}'
+      - '{''name'': ''PayPal''}'
+      - '{''name'': ''Bank Transfer''}'
+      required: false

@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: Theater Script Sign Out Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: time_in
+      label: Time In
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: script_name
+      label: Script Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: script_type
+      label: Script Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Stage Play''}'
+      - '{''id'': 2, ''label'': ''Movie''}'
+      - '{''id'': 3, ''label'': ''TV Show''}'
+      required: true
+    - id: 9
+      name: script_status
+      label: Script Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''In Progress''}'
+      - '{''id'': 2, ''label'': ''Complete''}'
+      - '{''id'': 3, ''label'': ''Approved''}'
+      - '{''id'': 4, ''label'': ''Rejected''}'
+      required: true
+    - id: 10
+      name: user_id
+      label: User ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: user_email
+      label: User Email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: user_phone
+      label: User Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: user_note
+      label: User Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: script_out_time
+      label: Script Out Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 17
+      name: script_out_date
+      label: Script Out Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: script_out_user
+      label: Script Out User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: script_out_note
+      label: Script Out Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: assigned_tool_id
+      label: Assigned Tool ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: assigned_tool_name
+      label: Assigned Tool Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: assigned_tool_email
+      label: Assigned Tool Email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: assigned_tool_phone
+      label: Assigned Tool Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: assigned_tool_note
+      label: Assigned Tool Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: form_id
+      label: Form ID
+      hint: null
+      type: text
+      options: []
+      required: false

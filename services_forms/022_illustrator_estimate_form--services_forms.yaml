@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: Illustrator Estimate Form
+    pages:
+    - id: 1
+      name: project_name
+      label: project_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: client_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: client_email
+      label: client_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: project_start_date
+      label: project_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: project_end_date
+      label: project_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: project_location
+      label: project_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: project_type
+      label: project_type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: artist_rate
+      label: artist_rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: time_needed
+      label: time_needed
+      hint: null
+      type: select_one
+      options:
+      - 5-10
+      - 11-20
+      - 21-30
+      - 31-40
+      - 41-50
+      required: false
+    - id: 10
+      name: rate_hour
+      label: rate_hour
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 11
+      name: project_notes
+      label: project_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: assigned_artist
+      label: assigned_artist
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 13
+      name: client_notes
+      label: client_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: project_status
+      label: project_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

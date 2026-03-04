@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: responsive_share_your_story_form
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: experience
+      label: experience
+      hint: How long have you been working with us?
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: story
+      label: your_story
+      hint: Your story will help us improve our services
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: services
+      label: services
+      hint: What services did you use?
+      type: select_multiple
+      options:
+      - Service 1
+      - Service 2
+      - Service 3
+      required: false
+    - id: 6
+      name: date
+      label: date_of_experience
+      hint: When did you experience this?
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time
+      label: time_of_experience
+      hint: Time of experience (optional)
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: note
+      label: any_other_info
+      hint: null
+      type: note
+      options: []
+      required: false

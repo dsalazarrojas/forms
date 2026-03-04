@@ -1,0 +1,221 @@
+inputSchema:
+  type: object
+  properties:
+    title: Saffron Usage Feedback Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: saffron_use
+      label: How often do you use saffron?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: saffron_benefit
+      label: What benefits do you get from using saffron?
+      hint: null
+      type: select_multiple
+      options:
+      - Weight loss
+      - Improved digestion
+      - Increased energy
+      - Reduced inflammation
+      - Improved skin health
+      - Improved heart health
+      required: true
+    - id: 4
+      name: saffron_satisfaction
+      label: What do you think about your overall satisfaction with saffron?
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 5
+      name: saffron_challenge
+      label: What challenges do you face with using saffron?
+      hint: null
+      type: select_multiple
+      options:
+      - Limited availability
+      - High cost
+      - Difficulty finding quality products
+      - Preparation and usage complexities
+      - Other
+      required: false
+    - id: 6
+      name: saffron_frequency
+      label: How often do you use saffron?
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
+      - Never
+      required: false
+    - id: 7
+      name: saffron_reason
+      label: Why do you use saffron?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: saffron_brand
+      label: Which brand(s) do you usually buy?
+      hint: null
+      type: select_multiple
+      options:
+      - Brand A
+      - Brand B
+      - Brand C
+      - Brand D
+      - Other
+      required: false
+    - id: 9
+      name: saffron_purchasing
+      label: How do you usually purchase saffron?
+      hint: null
+      type: select_multiple
+      options:
+      - Online
+      - Physical store
+      - Online store
+      - Other
+      required: false
+    - id: 10
+      name: saffron_recommend
+      label: Would you recommend saffron to a friend?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: saffron_comment
+      label: Any comments?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: saffron_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: saffron_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: saffron_location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: saffron_frequency_location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: saffron_usage
+      label: Saffron usage
+      hint: null
+      type: select_multiple
+      options:
+      - Supplement
+      - Cooking
+      - Beauty routine
+      - Other
+      required: false
+    - id: 17
+      name: saffron_ingredients
+      label: Saffron ingredients
+      hint: null
+      type: select_multiple
+      options:
+      - Saffron threads
+      - Saffron powder
+      - Saffron oil
+      - Saffron salt
+      - Other
+      required: false
+    - id: 18
+      name: saffron_ingredients_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: saffron_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: saffron_frequency_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: saffron_purpose
+      label: Saffron purpose
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: saffron_reason_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: saffron_purchasing_frequency
+      label: Saffron purchasing frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: saffron_purpose_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: saffron_purchase
+      label: Saffron purchase
+      hint: null
+      type: text
+      options: []
+      required: false

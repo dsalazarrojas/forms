@@ -1,0 +1,126 @@
+inputSchema:
+  type: object
+  properties:
+    title: online_study_recording_reuse_consent_form
+    pages:
+    - id: 1
+      name: participant_information
+      label: Participant Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: participant_consents
+      label: Participant Consents
+      hint: null
+      type: select_one
+      options:
+      - I consent to the reuse of the recording
+      - I do not consent to the reuse of the recording
+      required: false
+    - id: 4
+      name: recording_id
+      label: Recording ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: research_purpose
+      label: Research Purpose
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: data_sharing
+      label: Data Sharing
+      hint: null
+      type: select_multiple
+      options:
+      - Publicly
+      - Privately
+      required: false
+    - id: 7
+      name: storage_duration
+      label: Storage Duration
+      hint: null
+      type: select_one
+      options:
+      - Long term
+      - Short term
+      - Indeterminate
+      required: false
+    - id: 8
+      name: access_control
+      label: Access Control
+      hint: null
+      type: select_multiple
+      options:
+      - Public
+      - Private
+      required: false
+    - id: 9
+      name: access_users
+      label: Access Users
+      hint: null
+      type: select_multiple
+      options:
+      - Researchers
+      - Participants
+      - Both
+      required: false
+    - id: 10
+      name: access_groups
+      label: Access Groups
+      hint: null
+      type: select_multiple
+      options:
+      - Researchers Group
+      - Participant Group
+      - Both Group
+      required: false
+    - id: 11
+      name: access_location
+      label: Access Location
+      hint: null
+      type: select_one
+      options:
+      - Online
+      - Offline
+      required: false
+    - id: 12
+      name: access_medium
+      label: Access Medium
+      hint: null
+      type: select_multiple
+      options:
+      - Video
+      - Audio
+      - Text
+      required: false
+    - id: 13
+      name: access_time
+      label: Access Time
+      hint: null
+      type: select_one
+      options:
+      - Immediately
+      - Delayed
+      - Indeterminate
+      required: false
+    - id: 14
+      name: consent_date
+      label: Consent Date
+      hint: null
+      type: date
+      options: []
+      required: false

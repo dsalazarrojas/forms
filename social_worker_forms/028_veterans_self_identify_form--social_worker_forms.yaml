@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Veterans Self Identify Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: service_connected
+      label: Service Connected
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: veteran_id_document
+      label: Veteran ID Document
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: veteran_id_number
+      label: Veteran ID Number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: veteran_id_type
+      label: Veteran ID Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: veteran_id_location
+      label: Veteran ID Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: veteran_id_expiration
+      label: Veteran ID Expiration
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: veteran_id_issuer
+      label: Veteran ID Issuer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: veteran_id_issued_by
+      label: Veteran ID Issuer By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: veteran_id_replaces
+      label: Veteran ID Replaces
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: service_connected_how
+      label: How Connected to Service
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: veteran_id_replaces_with
+      label: Veteran ID Replaces With
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: veteran_id_replaces_date
+      label: Veteran ID Replaces Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: veteran_id_replaces_reason
+      label: Veteran ID Replaces Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: veteran_id_is_active
+      label: Veteran ID Active
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: service_connected_date
+      label: Service Connected Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: service_connected_years
+      label: Service Connected Years
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: service_connected_months
+      label: Service Connected Months
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: veteran_id_last_four
+      label: Last Four Digits
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: contact_language
+      label: Contact Language
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: service_connected_other
+      label: Other Service Connected
+      hint: null
+      type: text
+      options: []
+      required: false

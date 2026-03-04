@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Design Approval Form
+    pages:
+    - id: 1
+      name: design_approval_form
+      label: Design Approval
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: design_files
+      label: Design Files
+      hint: Upload design files for review
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: design_approvals
+      label: Approvals
+      hint: Select approvals for design
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: client_response
+      label: Client Response
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: design_status
+      label: Design Status
+      hint: Select status for design
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 7
+      name: design_notes
+      label: Notes
+      hint: Optional notes for design
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: due_date
+      label: Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: due_time
+      label: Due Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: assignee
+      label: Assignee
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: custom
+      label: Custom
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: design_id
+      label: Design ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: design_url
+      label: Design URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: client_url
+      label: Client URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: category
+      label: Category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: tags
+      label: Tags
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: custom_tags
+      label: Custom Tags
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 23
+      name: custom_status
+      label: Custom Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 24
+      name: submitter
+      label: Submitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submitted_at
+      label: Submitter
+      hint: null
+      type: date
+      options: []
+      required: false

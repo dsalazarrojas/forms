@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: social_media_support_request_for_developers
+    pages:
+    - id: 1
+      name: form_header
+      label: Form Header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: user_info
+      label: User Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: issue_description
+      label: Issue Description
+      hint: What's your issue?
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: issue_details
+      label: Issue Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: social_media_channels
+      label: Social Media Channels
+      hint: null
+      type: select_one
+      options:
+      - Facebook
+      - Twitter
+      - Instagram
+      - Reddit
+      - LinkedIn
+      - Twitch
+      - YouTube
+      - Discord
+      - Other
+      required: false
+    - id: 6
+      name: issue_priority
+      label: Issue Priority
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: expected_resolution_time
+      label: Expected Resolution Time
+      hint: When do you expect the issue to be resolved?
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: developer_info
+      label: Developer Info
+      hint: null
+      type: select_multiple
+      options:
+      - Front-End Developer
+      - Back-End Developer
+      - Full-Stack Developer
+      - DevOps Engineer
+      - Quality Assurance
+      - Other
+      required: false
+    - id: 9
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other details about the issue?
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: attachment_files
+      label: Attachment Files
+      hint: null
+      type: select_multiple
+      options:
+      - Image
+      - Video
+      - Document
+      - Code
+      - Other
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: developer_response
+      label: Developer Response
+      hint: null
+      type: time
+      options: []
+      required: false

@@ -1,0 +1,140 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Satisfaction Form
+    pages:
+    - id: 1
+      name: intro_section
+      label: -- Tell Us About Your Experience --
+      hint: Your feedback is important to us
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: respondent_name
+      label: Your Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: respondent_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: service_received
+      label: What Service or Product Did You Use?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_service
+      label: Date You Received Service
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: likelihood_recommend
+      label: How Likely Are You to Recommend Us?
+      hint: On a scale of 1-10
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: product_service_quality
+      label: Quality of Product or Service
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Fair
+      - Poor
+      required: true
+    - id: 8
+      name: customer_service_quality
+      label: Quality of Customer Service
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Fair
+      - Poor
+      required: true
+    - id: 9
+      name: value_for_money
+      label: Value for Money
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very poor
+      required: true
+    - id: 10
+      name: timeliness_of_service
+      label: Timeliness of Service
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Fair
+      - Poor
+      required: true
+    - id: 11
+      name: overall_experience
+      label: Overall Experience
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Fair
+      - Poor
+      required: true
+    - id: 12
+      name: biggest_strength
+      label: What Was the Biggest Strength?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: areas_for_improvement
+      label: Areas for Improvement
+      hint: What could we do better?
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: would_return
+      label: Would You Use Our Services Again?
+      hint: null
+      type: select_one
+      options:
+      - Definitely yes
+      - Probably yes
+      - Uncertain
+      - Probably not
+      - Definitely not
+      required: true
+    - id: 15
+      name: comments
+      label: Additional Comments or Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false

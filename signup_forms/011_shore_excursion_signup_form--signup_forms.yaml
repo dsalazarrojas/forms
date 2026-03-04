@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: shore_excursion_signup_form
+    pages:
+    - id: 1
+      name: tour_details
+      label: Tour Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_details
+      label: Participant Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: tour_group
+      label: Tour Group
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Tour Group 1'', ''value'': ''Tour Group 1''}'
+      - '{''name'': ''Tour Group 2'', ''value'': ''Tour Group 2''}'
+      - '{''name'': ''Tour Group 3'', ''value'': ''Tour Group 3''}'
+      - '{''name'': ''Tour Group 4'', ''value'': ''Tour Group 4''}'
+      required: true
+    - id: 5
+      name: tour_date
+      label: Tour Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: tour_time
+      label: Tour Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: port_of_call
+      label: Port of Call
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''Sydney'', ''value'': ''Sydney''}'
+      - '{''name'': ''Singapore'', ''value'': ''Singapore''}'
+      - '{''name'': ''Melbourne'', ''value'': ''Melbourne''}'
+      - '{''name'': ''Cairns'', ''value'': ''Cairns''}'
+      - '{''name'': ''Hobart'', ''value'': ''Hobart''}'
+      required: true
+    - id: 8
+      name: shore_excursion
+      label: Shore Excursion
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''Tour 1'', ''value'': ''Tour 1''}'
+      - '{''name'': ''Tour 2'', ''value'': ''Tour 2''}'
+      - '{''name'': ''Tour 3'', ''value'': ''Tour 3''}'
+      - '{''name'': ''Tour 4'', ''value'': ''Tour 4''}'
+      - '{''name'': ''Tour 5'', ''value'': ''Tour 5''}'
+      required: true
+    - id: 9
+      name: participant_number
+      label: Participant Number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: tour_notes
+      label: Tour Notes
+      hint: null
+      type: text
+      options: []
+      required: true

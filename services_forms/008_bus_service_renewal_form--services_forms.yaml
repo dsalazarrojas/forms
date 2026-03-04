@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bus Service Renewal Form
+    pages:
+    - id: 1
+      name: operator_information
+      label: -- Operator Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: operator_name
+      label: Operator Company Name
+      hint: Legal name of bus service operator
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: operator_id
+      label: Operator License ID
+      hint: State license or permit number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_person
+      label: Contact Person Name
+      hint: Primary contact for renewal
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Contact Phone
+      hint: Phone number of contact person
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contact_email
+      label: Contact Email
+      hint: Email for renewal correspondence
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: service_information
+      label: -- Service Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: service_type
+      label: Type of Bus Service
+      hint: Category of transportation service
+      type: select_one
+      options:
+      - School Bus Service
+      - Public Transit
+      - Charter Bus Service
+      - Shuttle Service
+      - Intercity Bus Service
+      - Tour/Travel Service
+      required: true
+    - id: 9
+      name: current_contract_number
+      label: Current Contract Number
+      hint: Existing contract identifier
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: contract_start_date
+      label: Current Contract Start Date
+      hint: When current contract began
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: contract_end_date
+      label: Current Contract End Date
+      hint: Expiration date of current contract
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: renewal_term
+      label: Requested Renewal Term
+      hint: How long for renewal period
+      type: select_one
+      options:
+      - 1 Year
+      - 2 Years
+      - 3 Years
+      - 5 Years
+      required: true
+    - id: 13
+      name: fleet_information
+      label: -- Fleet Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: current_fleet_size
+      label: Current Fleet Size
+      hint: Number of buses currently operating
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: planned_fleet_size
+      label: Planned Fleet Size for Renewal
+      hint: Expected number of buses during renewal
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: vehicle_maintenance
+      label: Vehicle Maintenance Status
+      hint: Overall condition of fleet
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Needs Attention
+      - Poor
+      required: true
+    - id: 17
+      name: safety_compliance
+      label: Safety Compliance Record
+      hint: Status of safety standards compliance
+      type: select_one
+      options:
+      - Fully Compliant
+      - Generally Compliant
+      - Needs Improvement
+      - Non-compliant
+      required: true
+    - id: 18
+      name: financial_information
+      label: -- Financial Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: annual_revenue
+      label: Annual Revenue
+      hint: Estimated annual revenue in USD
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: insurance_current
+      label: Current Insurance Status
+      hint: Insurance is current and valid
+      type: select_one
+      options:
+      - true
+      - false
+      - Needs Renewal
+      required: true
+    - id: 21
+      name: insurance_provider
+      label: Insurance Provider
+      hint: Name of insurance company
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: pending_claims
+      label: Pending Insurance Claims
+      hint: Any outstanding claims or liabilities
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: operational_changes
+      label: Operational Changes
+      hint: Any changes planned for renewal period
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: renewal_signature
+      label: Authorized Signature
+      hint: Name of person authorized to sign
+      type: text
+      options: []
+      required: true

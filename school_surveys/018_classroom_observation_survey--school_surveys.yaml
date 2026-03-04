@@ -1,0 +1,254 @@
+inputSchema:
+  type: object
+  properties:
+    title: Classroom Observation Survey
+    pages:
+    - id: 1
+      name: section_header_observer
+      label: -- Observer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: reviewer_name
+      label: Reviewer Name
+      hint: Full name of the external reviewer
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: reviewer_organization
+      label: Organization/Agency
+      hint: Name of reviewing organization
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: observation_date
+      label: Observation Date
+      hint: Date of the classroom observation
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: section_header_classroom
+      label: -- Classroom Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: school_name
+      label: School Name
+      hint: Name of the school visited
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: teacher_name
+      label: Teacher Name
+      hint: Name of the teacher being observed
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: grade_level
+      label: Grade Level
+      hint: Grade of the class observed
+      type: select_one
+      options:
+      - Kindergarten
+      - Grade 1
+      - Grade 2
+      - Grade 3
+      - Grade 4
+      - Grade 5
+      - Grade 6
+      - Grade 7-8
+      - Grade 9-10
+      - Grade 11-12
+      required: true
+    - id: 9
+      name: subject_taught
+      label: Subject Taught
+      hint: What subject was being taught?
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: number_students
+      label: Number of Students Present
+      hint: How many students in the class?
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: section_header_environment
+      label: -- Classroom Environment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: physical_environment
+      label: Physical classroom environment rating
+      hint: Cleanliness, organization, and resources
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 13
+      name: learning_atmosphere
+      label: Learning atmosphere and climate
+      hint: Positive, supportive, safe environment
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 14
+      name: student_behavior
+      label: Student behavior and conduct
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 15
+      name: section_header_academic
+      label: -- Academic Knowledge and Skills --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: content_knowledge
+      label: Teacher content knowledge and expertise
+      hint: Mastery of subject matter
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 17
+      name: instructional_methods
+      label: Quality of instructional methods
+      hint: Variety and effectiveness of teaching strategies
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 18
+      name: student_engagement_level
+      label: Student engagement and participation
+      hint: Level of active learning and involvement
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 19
+      name: section_header_management
+      label: -- Classroom Management --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: behavior_management
+      label: Classroom behavior management
+      hint: Handling of discipline and expectations
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 21
+      name: time_management
+      label: Time management and pacing
+      hint: Efficient use of class period
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 22
+      name: student_interactions
+      label: Teacher-student interactions
+      hint: Quality of relationships and respect
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 23
+      name: section_header_overall
+      label: -- Overall Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: overall_impression
+      label: Overall impression of the class
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 25
+      name: strengths_observed
+      label: Key Strengths Observed
+      hint: What did the teacher do exceptionally well?
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: areas_for_development
+      label: Areas for Professional Development
+      hint: Suggestions for improvement
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: recommendations
+      label: Recommendations for the School
+      hint: Any systemic or programmatic suggestions?
+      type: text
+      options: []
+      required: false

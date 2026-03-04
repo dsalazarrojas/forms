@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: Calf Waitlist Registration Form
+    pages:
+    - id: 1
+      name: buyer_info_header
+      label: -- Buyer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: buyer_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: farm_name
+      label: Farm or Business Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: calf_preferences_header
+      label: -- Calf Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: calf_gender
+      label: Preferred Calf Gender
+      hint: null
+      type: select_one
+      options:
+      - Male (Bull)
+      - Female (Heifer)
+      - No preference
+      required: true
+    - id: 12
+      name: breed
+      label: Preferred Breed
+      hint: null
+      type: select_one
+      options:
+      - Angus
+      - Hereford
+      - Simmental
+      - Charolais
+      - Brahman
+      - Mixed
+      - Other
+      required: true
+    - id: 13
+      name: age_at_purchase
+      label: Preferred Age at Purchase
+      hint: null
+      type: select_one
+      options:
+      - Newborn
+      - Weaned (under 1 year)
+      - Yearling (1-2 years)
+      - No preference
+      required: false
+    - id: 14
+      name: quantity
+      label: Number of Calves Needed
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: desired_timing_header
+      label: -- Desired Timing --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: desired_delivery_date
+      label: Desired Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: flexibility
+      label: How Flexible Are You on Timing?
+      hint: null
+      type: select_one
+      options:
+      - Very flexible
+      - Somewhat flexible
+      - Not flexible - exact date needed
+      required: false
+    - id: 18
+      name: usage_purpose_header
+      label: -- Usage Purpose --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: usage_purpose
+      label: Purpose for Calf Purchase
+      hint: null
+      type: select_multiple
+      options:
+      - Breeding stock
+      - Beef production
+      - Dairy production
+      - Show animal
+      - Pet/hobby farm
+      - Other
+      required: true
+    - id: 20
+      name: health_certificates
+      label: Do You Require Health Certificates?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: transport_arrangement
+      label: Transport Arrangement
+      hint: null
+      type: select_one
+      options:
+      - Seller arranges
+      - Buyer arranges
+      - Shared responsibility
+      required: false
+    - id: 22
+      name: special_requests
+      label: Special Requests or Requirements
+      hint: null
+      type: text
+      options: []
+      required: false

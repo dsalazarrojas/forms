@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: Spa Operations Licensing Form
+    pages:
+    - id: 1
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: business_ownership
+      label: Business Ownership
+      hint: null
+      type: select_one
+      options:
+      - Owner
+      - Partner
+      - Sole
+      required: true
+    - id: 3
+      name: business_address
+      label: Business Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: services_offered
+      label: Services Offered
+      hint: null
+      type: select_multiple
+      options:
+      - Massage
+      - Facials
+      - Pedicures
+      - Other
+      required: true
+    - id: 5
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: select_one
+      options:
+      - Jane
+      - John
+      - Doe
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: business_name
+      label: Business Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: date_established
+      label: Date Established
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: business_hours
+      label: Business Hours
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: business_description
+      label: Business Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: licenses_required
+      label: Licenses Required
+      hint: null
+      type: select_multiple
+      options:
+      - License 1
+      - License 2
+      - License 3
+      required: true
+    - id: 13
+      name: license_numbers
+      label: License Numbers
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: application_fee
+      label: Application Fee
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: submit
+      label: Submit
+      hint: null
+      type: note
+      options: []
+      required: true

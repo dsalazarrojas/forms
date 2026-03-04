@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: vessel_service_report
+    pages:
+    - id: 1
+      name: vessel_type
+      label: vessel_type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: service_date
+      label: service_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: service_time
+      label: service_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: vessel_status
+      label: vessel_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 5
+      name: remarks
+      label: remarks
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: remarks
+      label: remarks
+      hint: null
+      type: note
+      options: []
+      required: false

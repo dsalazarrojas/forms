@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: TYC Documents Adult
+    pages:
+    - id: 1
+      name: enrollment_process
+      label: adult_enrollment_process
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: document
+      label: adult_document
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: select_one
+      label: select_one
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: select_multiple
+      label: select_multiple
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: date_range
+      label: date_range
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: time_range
+      label: time_range
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: email_list
+      label: email_list
+      hint: null
+      type: text
+      options: []
+      required: false

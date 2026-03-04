@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: high_school_counselor_information_form
+    pages:
+    - id: 1
+      name: school_year
+      label: School Year
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_grade
+      label: Student Grade
+      hint: Grade Level
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: student_email
+      label: Student Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: student_phone
+      label: Student Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: student_address
+      label: Student Address
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: parent_name
+      label: Parent Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: parent_phone
+      label: Parent Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: parent_email
+      label: Parent Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: parent_address
+      label: Parent Address
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: student_birthdate
+      label: Student Birthdate
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: counselor_name
+      label: Counselor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: counselor_phone
+      label: Counselor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: counselor_email
+      label: Counselor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: student_notes
+      label: Student Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: counselor_notes
+      label: Counselor Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: student_goals
+      label: Student Goals
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: student_objectives
+      label: Student Objectives
+      hint: e.g. Academic Success, Personal Development, Social Development, Career
+        Development
+      type: select_multiple
+      options:
+      - Academic Success
+      - Personal Development
+      - Social Development
+      - Career Development
+      required: true
+    - id: 21
+      name: school_goals
+      label: School Goals
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: school_objectives
+      label: School Objectives
+      hint: e.g. Academic Success, Personal Development, Social Development, Career
+        Development
+      type: select_multiple
+      options:
+      - Academic Success
+      - Personal Development
+      - Social Development
+      - Career Development
+      required: true
+    - id: 23
+      name: parent_goal
+      label: Parent Goal
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: parent_objectives
+      label: Parent Objectives
+      hint: e.g. Academic Success, Personal Development, Social Development, Career
+        Development
+      type: select_multiple
+      options:
+      - Academic Success
+      - Personal Development
+      - Social Development
+      - Career Development
+      required: true
+    - id: 25
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - Submit and Save
+      - Other
+      required: true

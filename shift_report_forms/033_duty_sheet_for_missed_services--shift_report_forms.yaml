@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Duty Sheet For Missed Services
+    pages:
+    - id: 1
+      name: missed_services
+      label: Missed Services
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: staff
+      label: Staff
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 3
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: reason
+      label: Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: follow_up_actions
+      label: Follow-up Actions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: follow_up_date
+      label: Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: follow_up_time
+      label: Follow-up Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: supervisor_report
+      label: Supervisor Report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: staff_comments
+      label: Staff Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: supervisor_comments
+      label: Supervisor Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: text
+      options: []
+      required: false

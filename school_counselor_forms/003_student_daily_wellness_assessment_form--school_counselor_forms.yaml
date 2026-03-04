@@ -1,0 +1,61 @@
+inputSchema:
+  type: object
+  properties:
+    title: student daily wellness assessment form
+    pages:
+    - id: 1
+      name: student_daily_wellness_form
+      label: Student Daily Wellness Form
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 2
+      name: student_name
+      label: student name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_email
+      label: student email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: school_email
+      label: school email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: school_phone
+      label: school phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: parent_contact_info
+      label: parent contact info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: student_comments
+      label: student comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: teacher_comments
+      label: teacher comments
+      hint: null
+      type: text
+      options: []
+      required: false

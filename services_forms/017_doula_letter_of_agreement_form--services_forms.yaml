@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Doula Letter Of Agreement Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Doula Letter Of Agreement Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: client_email
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: service_duration
+      label: Service Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: service_start_date
+      label: Service Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: service_finish_date
+      label: Service Finish Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: payment_terms_frequency
+      label: Payment Terms Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: doula_agreement
+      label: Doula Agreement
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,399 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Cleaning Inspection Checklist
+    pages:
+      - id: 1
+        name: property_name
+        label: Property Name
+        hint: Name of the property being inspected
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: property_address
+        label: Property Address
+        hint: Full address of the property
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: inspection_date
+        label: Inspection Date
+        hint: Date of inspection
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: inspection_time
+        label: Inspection Time
+        hint: Time of inspection
+        type: time
+        options: []
+        required: true
+      - id: 5
+        name: inspector_name
+        label: Inspector Name
+        hint: Name of the inspector
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: inspector_title
+        label: Inspector Title
+        hint: Job title or position
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: property_type
+        label: Property Type
+        hint: Type of property
+        type: select_one
+        options:
+          - Residential Home
+          - Apartment Complex
+          - Office Building
+          - Retail Space
+          - Restaurant
+          - Medical Facility
+          - School or Educational
+          - Industrial or Warehouse
+          - Other Commercial
+        required: true
+      - id: 8
+        name: inspection_type
+        label: Inspection Type
+        hint: What type of inspection is this
+        type: select_one
+        options:
+          - Routine Inspection
+          - Pre-Service Inspection
+          - Post-Service Inspection
+          - Quality Assurance Check
+          - Client Complaint Follow-Up
+          - Move-In or Move-Out
+          - Deep Cleaning Verification
+        required: true
+      - id: 9
+        name: section_header_entrance
+        label: -- Entrance and Common Areas --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 10
+        name: entrance_cleanliness
+        label: Entrance Area Cleanliness
+        hint: Rate the cleanliness
+        type: select_one
+        options:
+          - Excellent - Spotless
+          - Good - Clean
+          - Fair - Needs improvement
+          - Poor - Dirty
+        required: true
+      - id: 11
+        name: floors_condition
+        label: Floors Condition
+        hint: Rate floor cleanliness
+        type: select_one
+        options:
+          - Excellent - Clean and polished
+          - Good - Clean
+          - Fair - Some spots or debris
+          - Poor - Dirty or stained
+        required: true
+      - id: 12
+        name: walls_baseboards_condition
+        label: Walls and Baseboards Condition
+        hint: Rate cleanliness
+        type: select_one
+        options:
+          - Excellent - No marks or dust
+          - Good - Minor dust
+          - Fair - Visible dust or marks
+          - Poor - Dirty or marked
+        required: true
+      - id: 13
+        name: windows_glass_condition
+        label: Windows and Glass Condition
+        hint: Rate cleanliness
+        type: select_one
+        options:
+          - Excellent - Streak-free and clean
+          - Good - Mostly clean
+          - Fair - Some streaks or spots
+          - Poor - Dirty or streaked
+        required: true
+      - id: 14
+        name: lighting_fixtures_condition
+        label: Lighting Fixtures Condition
+        hint: Rate cleanliness
+        type: select_one
+        options:
+          - Excellent - Dust-free
+          - Good - Minor dust
+          - Fair - Visible dust
+          - Poor - Dirty or cobwebs
+        required: true
+      - id: 15
+        name: trash_receptacles_condition
+        label: Trash Receptacles Condition
+        hint: Are they empty and clean
+        type: select_one
+        options:
+          - Excellent - Empty and sanitized
+          - Good - Empty
+          - Fair - Need emptying
+          - Poor - Overflowing or dirty
+        required: true
+      - id: 16
+        name: section_header_rooms
+        label: -- Individual Rooms --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 17
+        name: rooms_dusting
+        label: Dusting Quality in Rooms
+        hint: Rate dusting quality
+        type: select_one
+        options:
+          - Excellent - All surfaces dust-free
+          - Good - Most surfaces clean
+          - Fair - Some dusty areas
+          - Poor - Significant dust accumulation
+        required: true
+      - id: 18
+        name: rooms_floors
+        label: Room Floors Cleanliness
+        hint: Rate floor cleanliness
+        type: select_one
+        options:
+          - Excellent - Thoroughly cleaned
+          - Good - Well cleaned
+          - Fair - Adequately cleaned
+          - Poor - Poorly cleaned
+        required: true
+      - id: 19
+        name: rooms_furniture
+        label: Furniture Cleanliness
+        hint: Rate furniture cleaning
+        type: select_one
+        options:
+          - Excellent - Clean and arranged
+          - Good - Clean
+          - Fair - Some dust or disarray
+          - Poor - Dirty or disorganized
+        required: true
+      - id: 20
+        name: section_header_kitchen
+        label: -- Kitchen Areas --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 21
+        name: kitchen_counters
+        label: Kitchen Counters
+        hint: Rate cleanliness
+        type: select_one
+        options:
+          - Excellent - Clean and sanitized
+          - Good - Clean
+          - Fair - Some residue
+          - Poor - Dirty or sticky
+        required: true
+      - id: 22
+        name: kitchen_appliances
+        label: Kitchen Appliances
+        hint: Rate cleanliness
+        type: select_one
+        options:
+          - Excellent - Clean inside and out
+          - Good - Clean exterior
+          - Fair - Some grime
+          - Poor - Dirty
+        required: true
+      - id: 23
+        name: kitchen_sink
+        label: Kitchen Sink
+        hint: Rate cleanliness
+        type: select_one
+        options:
+          - Excellent - Clean and shiny
+          - Good - Clean
+          - Fair - Some stains
+          - Poor - Dirty or clogged
+        required: true
+      - id: 24
+        name: kitchen_floors
+        label: Kitchen Floors
+        hint: Rate cleanliness
+        type: select_one
+        options:
+          - Excellent - Clean and sanitized
+          - Good - Clean
+          - Fair - Some spots
+          - Poor - Dirty or greasy
+        required: true
+      - id: 25
+        name: section_header_restrooms
+        label: -- Restrooms --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 26
+        name: restroom_toilets
+        label: Toilets
+        hint: Rate cleanliness
+        type: select_one
+        options:
+          - Excellent - Sanitized and odor-free
+          - Good - Clean
+          - Fair - Needs attention
+          - Poor - Dirty or odorous
+        required: true
+      - id: 27
+        name: restroom_sinks
+        label: Sinks and Counters
+        hint: Rate cleanliness
+        type: select_one
+        options:
+          - Excellent - Clean and polished
+          - Good - Clean
+          - Fair - Some water spots
+          - Poor - Dirty
+        required: true
+      - id: 28
+        name: restroom_mirrors
+        label: Mirrors
+        hint: Rate cleanliness
+        type: select_one
+        options:
+          - Excellent - Streak-free
+          - Good - Mostly clean
+          - Fair - Some streaks
+          - Poor - Dirty or streaked
+        required: true
+      - id: 29
+        name: restroom_showers
+        label: Showers or Tubs
+        hint: Rate cleanliness
+        type: select_one
+        options:
+          - Excellent - Sanitized and shiny
+          - Good - Clean
+          - Fair - Some soap scum
+          - Poor - Dirty or moldy
+        required: true
+      - id: 30
+        name: restroom_floors
+        label: Restroom Floors
+        hint: Rate cleanliness
+        type: select_one
+        options:
+          - Excellent - Clean and dry
+          - Good - Clean
+          - Fair - Some spots
+          - Poor - Dirty or wet
+        required: true
+      - id: 31
+        name: restroom_supplies
+        label: Restroom Supplies
+        hint: Are supplies stocked
+        type: select_one
+        options:
+          - Excellent - Fully stocked
+          - Good - Adequately stocked
+          - Fair - Running low
+          - Poor - Depleted
+        required: true
+      - id: 32
+        name: section_header_overall
+        label: -- Overall Assessment --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 33
+        name: overall_cleanliness
+        label: Overall Cleanliness Rating
+        hint: Rate the overall property cleanliness
+        type: select_one
+        options:
+          - Excellent - Exceeds standards
+          - Good - Meets standards
+          - Fair - Below standards
+          - Poor - Unacceptable
+        required: true
+      - id: 34
+        name: standards_compliance
+        label: Compliance with Cleaning Standards
+        hint: Does the property meet cleaning standards
+        type: select_one
+        options:
+          - Fully Compliant
+          - Mostly Compliant
+          - Partially Compliant
+          - Non-Compliant
+        required: true
+      - id: 35
+        name: areas_of_concern
+        label: Areas of Concern
+        hint: List any areas needing attention
+        type: text
+        options: []
+        required: true
+      - id: 36
+        name: corrective_actions_needed
+        label: Corrective Actions Needed
+        hint: What actions are required
+        type: text
+        options: []
+        required: true
+      - id: 37
+        name: follow_up_required
+        label: Follow-Up Required
+        hint: Is a follow-up inspection needed
+        type: select_one
+        options:
+          - Yes - Schedule follow-up
+          - Yes - Immediate re-cleaning needed
+          - No - Satisfactory
+        required: true
+      - id: 38
+        name: follow_up_date
+        label: Follow-Up Date
+        hint: When should follow-up occur
+        type: date
+        options: []
+        required: false
+      - id: 39
+        name: inspector_comments
+        label: Inspector Comments
+        hint: Any additional observations
+        type: text
+        options: []
+        required: false
+      - id: 40
+        name: inspector_signature
+        label: Inspector Signature (Type Full Name)
+        hint: Inspector electronic signature
+        type: text
+        options: []
+        required: true

@@ -1,0 +1,211 @@
+inputSchema:
+  type: object
+  properties:
+    title: Insurance Quote Form
+    pages:
+    - id: 1
+      name: insurance_quote_form
+      label: Insurance Quote Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: policy_type
+      label: Policy Type
+      hint: null
+      type: select_one
+      options:
+      - Home
+      - Auto
+      - Other
+      required: false
+    - id: 3
+      name: coverage_area
+      label: Coverage Area
+      hint: Where would you like to cover?
+      type: select_multiple
+      options:
+      - Home
+      - Auto
+      - Other
+      required: true
+    - id: 4
+      name: rate
+      label: Rate
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: coverage_start_date
+      label: Coverage Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: coverage_end_date
+      label: Coverage End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: coverage_length
+      label: Coverage Length
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: rate_amount
+      label: Rate Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: coverage_frequency
+      label: Coverage Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Monthly
+      - Yearly
+      required: true
+    - id: 10
+      name: policy_status
+      label: Policy Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 11
+      name: coverage_type
+      label: Coverage Type
+      hint: null
+      type: select_multiple
+      options:
+      - Home
+      - Auto
+      - Other
+      required: false
+    - id: 12
+      name: coverage_start_date_time
+      label: Coverage Start Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 13
+      name: coverage_end_date_time
+      label: Coverage End Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 14
+      name: coverage_start_date_duration
+      label: Coverage Start Date Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: coverage_end_date_duration
+      label: Coverage End Date Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: coverage_start_date_frequency
+      label: Coverage Start Date Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: true
+    - id: 17
+      name: coverage_end_date_frequency
+      label: Coverage End Date Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: true
+    - id: 18
+      name: policy_start_date
+      label: Policy Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: policy_end_date
+      label: Policy End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: policy_frequency
+      label: Policy Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: true
+    - id: 21
+      name: coverage_status
+      label: Coverage Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 22
+      name: rate_frequency
+      label: Rate Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: true
+    - id: 23
+      name: coverage_rate
+      label: Coverage Rate
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: policy_rate
+      label: Policy Rate
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: coverage_type
+      label: Coverage Type
+      hint: null
+      type: select_multiple
+      options:
+      - Home
+      - Auto
+      - Other
+      required: false

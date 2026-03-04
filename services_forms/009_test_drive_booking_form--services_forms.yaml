@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: test_drive_booking_form
+    pages:
+    - id: 1
+      name: booking_date
+      label: Booking Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: vehicle_id
+      label: Vehicle Select
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Vehicle 1''}'
+      - '{''id'': 2, ''name'': ''Vehicle 2''}'
+      - '{''id'': 3, ''name'': ''Vehicle 3''}'
+      required: true
+    - id: 3
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: notification
+      label: Notify Me
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': True}'
+      - '{''id'': 2, ''name'': False}'
+      required: true
+    - id: 8
+      name: notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: customer_id
+      label: Customer ID
+      hint: null
+      type: number
+      options: []
+      required: true

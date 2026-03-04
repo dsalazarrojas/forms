@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daily Shift Report Template
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: shift_start_time
+      label: Shift Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: shift_end_time
+      label: Shift End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: shift_date
+      label: Shift Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: shift_type
+      label: Shift Type
+      hint: null
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      - Night
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_multiple
+      options:
+      - John
+      - Jane
+      - Alice
+      - Bob
+      required: false
+    - id: 9
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: shift_status
+      label: Shift Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Pending
+      - Rejected
+      required: false
+    - id: 11
+      name: shift_hours
+      label: Shift Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: shift_report_date
+      label: Shift Report Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: comments_text
+      label: Comments Text
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: assigned_tool_id
+      label: Assigned Tool ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: tool_type
+      label: Tool Type
+      hint: null
+      type: select_one
+      options:
+      - Tool 1
+      - Tool 2
+      - Tool 3
+      required: false
+    - id: 18
+      name: tool_status
+      label: Tool Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Available
+      required: false
+    - id: 19
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: assigned_tool_status
+      label: Assigned Tool Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Rejected
+      - Pending
+      required: false
+    - id: 21
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: assigned_shift
+      label: Assigned Shift
+      hint: null
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      - Night
+      required: false
+    - id: 23
+      name: shift_report_status
+      label: Shift Report Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Rejected
+      - Pending
+      required: false
+    - id: 24
+      name: shift_date2
+      label: Shift Date 2
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: shift_report_date2
+      label: Shift Report Date 2
+      hint: null
+      type: date
+      options: []
+      required: false

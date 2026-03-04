@@ -1,0 +1,274 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Base Code Assessment Form
+    pages:
+      - id: 1
+        name: developer_name
+        label: Developer Name
+        hint: Full name of the developer
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: assessment_date
+        label: Assessment Date
+        hint: Date of code review
+        type: date
+        options: []
+        required: true
+      - id: 3
+        name: reviewer_name
+        label: Reviewer Name
+        hint: Person conducting the assessment
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: project_name
+        label: Project Name
+        hint: Name of the project or repository
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: code_type
+        label: Type of Code Assessed
+        hint: What kind of code is this
+        type: select_one
+        options:
+          - Frontend
+          - Backend
+          - Full stack
+          - Mobile
+          - Database
+          - API
+          - Script or utility
+        required: true
+      - id: 6
+        name: programming_language
+        label: Primary Programming Language
+        hint: Main language used
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: code_purpose
+        label: Purpose of Code Submission
+        hint: Why is this code being assessed
+        type: select_one
+        options:
+          - Hiring evaluation
+          - Code review
+          - Student assignment
+          - Promotion consideration
+          - Quality audit
+          - Other
+        required: true
+      - id: 8
+        name: code_readability
+        label: Code Readability
+        hint: How easy is the code to read and understand
+        type: select_one
+        options:
+          - Excellent - very clear
+          - Good - mostly clear
+          - Acceptable - some confusion
+          - Poor - difficult to follow
+          - Very poor - unreadable
+        required: true
+      - id: 9
+        name: code_structure
+        label: Code Structure and Organization
+        hint: Is the code well organized
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Acceptable
+          - Poor
+          - Very poor
+        required: true
+      - id: 10
+        name: naming_conventions
+        label: Naming Conventions
+        hint: Are variables and functions named properly
+        type: select_one
+        options:
+          - Consistent and clear
+          - Mostly consistent
+          - Inconsistent
+          - Poor naming
+          - No conventions followed
+        required: true
+      - id: 11
+        name: documentation
+        label: Documentation and Comments
+        hint: Is the code well documented
+        type: select_one
+        options:
+          - Excellent documentation
+          - Good documentation
+          - Minimal documentation
+          - Poor documentation
+          - No documentation
+        required: true
+      - id: 12
+        name: error_handling
+        label: Error Handling
+        hint: How well are errors handled
+        type: select_one
+        options:
+          - Comprehensive
+          - Good
+          - Adequate
+          - Minimal
+          - None
+        required: true
+      - id: 13
+        name: code_efficiency
+        label: Code Efficiency
+        hint: Is the code optimized for performance
+        type: select_one
+        options:
+          - Highly optimized
+          - Well optimized
+          - Acceptable
+          - Needs optimization
+          - Very inefficient
+        required: true
+      - id: 14
+        name: reusability
+        label: Code Reusability
+        hint: Can code components be reused
+        type: select_one
+        options:
+          - Highly reusable
+          - Somewhat reusable
+          - Limited reusability
+          - Not reusable
+          - Tightly coupled
+        required: true
+      - id: 15
+        name: testing_coverage
+        label: Testing Coverage
+        hint: Are there adequate tests
+        type: select_one
+        options:
+          - Comprehensive tests
+          - Good coverage
+          - Minimal tests
+          - No tests
+          - Not applicable
+        required: true
+      - id: 16
+        name: security_practices
+        label: Security Practices
+        hint: Are security best practices followed
+        type: select_one
+        options:
+          - Excellent security
+          - Good security
+          - Basic security
+          - Security concerns
+          - Major vulnerabilities
+        required: true
+      - id: 17
+        name: scalability
+        label: Scalability Considerations
+        hint: Can the code scale with growth
+        type: select_one
+        options:
+          - Highly scalable
+          - Somewhat scalable
+          - Limited scalability
+          - Not scalable
+          - Unknown
+        required: true
+      - id: 18
+        name: follows_standards
+        label: Follows Coding Standards
+        hint: Adherence to industry or team standards
+        type: select_one
+        options:
+          - Fully compliant
+          - Mostly compliant
+          - Partially compliant
+          - Non compliant
+          - No standards followed
+        required: true
+      - id: 19
+        name: version_control
+        label: Version Control Usage
+        hint: Is version control used properly
+        type: select_one
+        options:
+          - Excellent practices
+          - Good practices
+          - Basic usage
+          - Poor practices
+          - No version control
+        required: true
+      - id: 20
+        name: overall_quality
+        label: Overall Code Quality
+        hint: Your overall assessment
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Acceptable
+          - Needs improvement
+          - Unsatisfactory
+        required: true
+      - id: 21
+        name: recommendation
+        label: Recommendation
+        hint: What is your recommendation
+        type: select_one
+        options:
+          - Approve as is
+          - Approve with minor changes
+          - Revise and resubmit
+          - Major revision needed
+          - Reject
+        required: true
+      - id: 22
+        name: strengths
+        label: Code Strengths
+        hint: What did the code do well
+        type: text
+        options: []
+        required: true
+      - id: 23
+        name: weaknesses
+        label: Areas for Improvement
+        hint: What needs to be improved
+        type: text
+        options: []
+        required: true
+      - id: 24
+        name: specific_issues
+        label: Specific Issues Found
+        hint: List any bugs or problems
+        type: text
+        options: []
+        required: false
+      - id: 25
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other feedback
+        type: text
+        options: []
+        required: false

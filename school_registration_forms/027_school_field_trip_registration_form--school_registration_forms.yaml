@@ -1,0 +1,131 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Field Trip Registration Form
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: student_email
+      label: Student Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: student_contact
+      label: Student Contact
+      hint: Please enter student contact information
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: teacher_name
+      label: Teacher Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: teacher_email
+      label: Teacher Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: student_consent
+      label: Student Consent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: emergency_contact_1
+      label: Emergency Contact 1
+      hint: Please enter emergency contact information 1
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact_2
+      label: Emergency Contact 2
+      hint: Please enter emergency contact information 2
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Visa
+      - Mastercard
+      - American Express
+      required: false
+    - id: 10
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: school_address
+      label: School Address
+      hint: Please enter school address information
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: school_city
+      label: School City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: school_province
+      label: School Province
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: school_postal
+      label: School Postal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: school_contact
+      label: School Contact
+      hint: Please enter school contact information
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: teacher_consent
+      label: Teacher Consent
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 17
+      name: teacher_notes
+      label: Teacher Notes
+      hint: Please enter teacher notes
+      type: note
+      options: []
+      required: false

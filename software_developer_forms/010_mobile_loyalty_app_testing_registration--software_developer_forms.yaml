@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mobile Loyalty App Testing Registration
+    pages:
+    - id: 1
+      name: user_input
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: device_type
+      label: android_or_iPhone
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: operating_system
+      label: operating_system
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 7
+      name: app_version
+      label: app_version
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: test_date
+      label: test_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: start_time
+      label: start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: test_duration
+      label: test_duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: available_days
+      label: available_days
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: message
+      label: message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: comments
+      label: prophets_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,221 @@
+inputSchema:
+  type: object
+  properties:
+    title: Back To School Parent Survey
+    pages:
+    - id: 1
+      name: parent_name
+      label: Parent or Guardian Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: student_name
+      label: Student Name
+      hint: Your child name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: student_grade
+      label: Student Grade Level
+      hint: Current grade
+      type: select_one
+      options:
+      - Kindergarten
+      - Grade 1
+      - Grade 2
+      - Grade 3
+      - Grade 4
+      - Grade 5
+      - Grade 6
+      - Grade 7
+      - Grade 8
+      - Grade 9
+      - Grade 10
+      - Grade 11
+      - Grade 12
+      required: true
+    - id: 6
+      name: remote_learning_experience
+      label: Remote Learning Experience Rating
+      hint: How would you rate remote learning experience
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      - Poor
+      - Not applicable
+      required: true
+    - id: 7
+      name: child_readiness
+      label: Child Readiness for School
+      hint: How ready is your child to return
+      type: select_one
+      options:
+      - Very Ready
+      - Somewhat Ready
+      - Neutral
+      - Somewhat Not Ready
+      - Not Ready At All
+      required: true
+    - id: 8
+      name: parent_readiness
+      label: Parent Readiness for School Year
+      hint: How ready are you for school year
+      type: select_one
+      options:
+      - Very Ready
+      - Somewhat Ready
+      - Neutral
+      - Somewhat Not Ready
+      - Not Ready At All
+      required: true
+    - id: 9
+      name: learning_concerns
+      label: Learning Concerns
+      hint: Select any areas of concern
+      type: select_multiple
+      options:
+      - Reading level
+      - Math skills
+      - Writing ability
+      - Attention and focus
+      - Social skills
+      - Technology skills
+      - None
+      required: true
+    - id: 10
+      name: school_safety_concerns
+      label: School Safety Concerns
+      hint: How concerned are you about safety
+      type: select_one
+      options:
+      - Very Concerned
+      - Somewhat Concerned
+      - Neutral
+      - Somewhat Not Concerned
+      - Not Concerned At All
+      required: true
+    - id: 11
+      name: health_protocols
+      label: Health Protocol Satisfaction
+      hint: Are you satisfied with health measures
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      required: true
+    - id: 12
+      name: communication_preference
+      label: Preferred Communication Method
+      hint: How do you want school to contact you
+      type: select_multiple
+      options:
+      - Email
+      - Phone calls
+      - Text messages
+      - Mobile app notifications
+      - Paper newsletters
+      - Parent portal
+      required: true
+    - id: 13
+      name: involvement_level
+      label: Desired Involvement Level
+      hint: How involved do you want to be
+      type: select_one
+      options:
+      - Very involved
+      - Moderately involved
+      - Minimally involved
+      - Unable to be involved
+      required: true
+    - id: 14
+      name: support_at_home
+      label: Support Available at Home
+      hint: What support can you provide
+      type: select_multiple
+      options:
+      - Help with homework
+      - Technology access
+      - Quiet study space
+      - Reading together
+      - Limited availability
+      - Other caregivers available
+      required: true
+    - id: 15
+      name: technology_access
+      label: Technology Access at Home
+      hint: What devices does your child have
+      type: select_multiple
+      options:
+      - Personal computer or laptop
+      - Tablet
+      - Shared family computer
+      - Smartphone only
+      - Limited or no access
+      required: true
+    - id: 16
+      name: internet_reliability
+      label: Internet Reliability
+      hint: How reliable is your internet
+      type: select_one
+      options:
+      - Very reliable
+      - Mostly reliable
+      - Sometimes unreliable
+      - Often unreliable
+      - No internet access
+      required: true
+    - id: 17
+      name: biggest_challenge
+      label: Biggest Challenge for Coming Year
+      hint: What is your main concern
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: school_support_needed
+      label: Support Needed from School
+      hint: What help do you need
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: reopening_opinion
+      label: Opinion on School Reopening
+      hint: What is your preference
+      type: select_one
+      options:
+      - Full in-person learning
+      - Hybrid model
+      - Full remote learning
+      - Flexible option
+      required: true
+    - id: 20
+      name: additional_feedback
+      label: Additional Feedback
+      hint: Any other thoughts to share
+      type: text
+      options: []
+      required: false

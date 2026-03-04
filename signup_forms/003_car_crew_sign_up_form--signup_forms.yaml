@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Car Crew Sign Up Form
+    pages:
+    - id: 1
+      name: section_overview
+      label: -- Crew Overview --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant name
+      hint: Full name of crew member
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact email
+      hint: For event communications
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Contact phone
+      hint: Mobile preferred
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: role_interest
+      label: Role interest
+      hint: Select primary crew role
+      type: select_one
+      options:
+      - Driver
+      - Mechanic
+      - Marshal
+      - Support
+      - Media
+      required: true
+    - id: 6
+      name: availability
+      label: Availability
+      hint: Choose days available
+      type: select_multiple
+      options:
+      - Friday
+      - Saturday
+      - Sunday
+      - Weekdays
+      required: true
+    - id: 7
+      name: experience_summary
+      label: Prior experience details
+      hint: Brief summary of relevant experience
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: vehicle_details
+      label: Vehicle details
+      hint: Make, model, year if applicable
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergency_contact
+      label: Emergency contact information
+      hint: Name and phone
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,151 @@
+inputSchema:
+  type: object
+  properties:
+    title: HVAC Equipment Survey Form
+    pages:
+    - id: 1
+      name: heating_ventilating
+      label: Heating and Ventilating
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: hvac_units
+      label: Hvac Units
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: equipment_status
+      label: Equipment Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 4
+      name: maintenance_status
+      label: Maintenance Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: facility_id
+      label: Facility ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: date_installed
+      label: Date Installed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: last_updated
+      label: Last Updated
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: model_number
+      label: Model Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: manufacturer_name
+      label: Manufacturer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: serial_number
+      label: Serial Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: equipment_location
+      label: Equipment Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: equipment_type
+      label: Equipment Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: installed_by
+      label: Installed By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: survey_status
+      label: Survey Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

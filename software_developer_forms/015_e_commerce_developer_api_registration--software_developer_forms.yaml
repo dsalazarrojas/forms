@@ -1,0 +1,28 @@
+inputSchema:
+  type: object
+  properties:
+    title: e-commerce_developer_api_registration
+    pages:
+    - id: 1
+      name: platform
+      label: platform
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: developer_details
+      label: developer details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: review
+      label: review
+      hint: null
+      type: note
+      options: []
+      required: false

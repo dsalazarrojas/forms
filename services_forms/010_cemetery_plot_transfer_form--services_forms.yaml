@@ -1,0 +1,165 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cemetery Plot Transfer Form
+    pages:
+    - id: 1
+      name: current_owner_header
+      label: -- Current Owner Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: current_owner_name
+      label: Current Owner Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: current_owner_address
+      label: Current Owner Address
+      hint: Full mailing address
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: current_owner_phone
+      label: Current Owner Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: current_owner_email
+      label: Current Owner Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: plot_identification_header
+      label: -- Plot Identification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: cemetery_name
+      label: Cemetery Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: plot_location_details
+      label: Section - Lot - Plot Number
+      hint: Exact location as per the deed
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: certificate_ownership_number
+      label: Certificate of Ownership Number
+      hint: Unique ID on your ownership document
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: new_owner_details_header
+      label: -- New Owner Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: new_owner_name
+      label: New Owner Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: new_owner_address
+      label: New Owner Address
+      hint: Full mailing address
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: new_owner_phone
+      label: New Owner Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: new_owner_email
+      label: New Owner Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: relationship_to_owner
+      label: Relationship Between Owners
+      hint: How is the new owner related to the current owner
+      type: select_one
+      options:
+      - Parent - Child
+      - Siblings
+      - Spousal
+      - Heir
+      - None - Private Sale
+      - Other
+      required: true
+    - id: 16
+      name: transfer_auth_header
+      label: -- Transfer Authorization --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: reason_for_transfer
+      label: Reason for Transfer
+      hint: Select the primary reason for this request
+      type: select_one
+      options:
+      - Gift
+      - Inherited
+      - Private Sale
+      - Relocation
+      - Other
+      required: true
+    - id: 18
+      name: authorize_transfer_confirmation
+      label: Do you authorize this transfer
+      hint: Confirm that both parties agree to the change of ownership
+      type: select_one
+      options:
+      - Yes - I authorize this transfer
+      - No - I am just inquiring
+      required: true
+    - id: 19
+      name: transfer_request_date
+      label: Date of Transfer Request
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: final_notes_header
+      label: -- Final Notes --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: additional_transfer_instructions
+      label: Additional Information or Special Instructions
+      hint: Any other details to consider
+      type: text
+      options: []
+      required: false

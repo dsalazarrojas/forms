@@ -1,0 +1,274 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Code Repository Upload Form
+    pages:
+      - id: 1
+        name: section_contributor
+        label: -- Contributor Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: contributor_name
+        label: Full Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: email
+        label: Email Address
+        hint: null
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: organization
+        label: Organization or Institution
+        hint: Company or school name
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: role
+        label: Your Role
+        hint: Developer, educator, student, etc
+        type: select_one
+        options:
+          - Software Developer
+          - Educator
+          - Student
+          - Researcher
+          - DevOps Engineer
+          - Other
+        required: true
+      - id: 6
+        name: github_username
+        label: GitHub Username
+        hint: For repository reference
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: section_repository
+        label: -- Repository Details --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 8
+        name: repository_name
+        label: Repository Name
+        hint: Name of the code repository
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: repository_url
+        label: Repository URL
+        hint: Link to the repository
+        type: text
+        options: []
+        required: true
+      - id: 10
+        name: repository_type
+        label: Repository Type
+        hint: What kind of code project
+        type: select_one
+        options:
+          - Application
+          - Library
+          - Framework
+          - Tool
+          - Sample Code
+          - Educational Material
+          - Other
+        required: true
+      - id: 11
+        name: primary_language
+        label: Primary Programming Language
+        hint: Main language used
+        type: select_one
+        options:
+          - Python
+          - JavaScript
+          - Java
+          - C++
+          - C-sharp
+          - Ruby
+          - Go
+          - Rust
+          - PHP
+          - Other
+        required: true
+      - id: 12
+        name: section_description
+        label: -- Project Description --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 13
+        name: project_description
+        label: Project Description
+        hint: What does this code do
+        type: text
+        options: []
+        required: true
+      - id: 14
+        name: project_purpose
+        label: Purpose of Submission
+        hint: Why are you submitting this
+        type: select_one
+        options:
+          - General sharing
+          - Seeking feedback
+          - Contribution to project
+          - Educational purposes
+          - Portfolio
+          - Other
+        required: true
+      - id: 15
+        name: key_features
+        label: Key Features
+        hint: Main functionalities or features
+        type: text
+        options: []
+        required: false
+      - id: 16
+        name: section_documentation
+        label: -- Documentation --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 17
+        name: readme_included
+        label: README documentation included
+        hint: null
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+          - "Partially"
+        required: true
+      - id: 18
+        name: api_documentation
+        label: API or code documentation included
+        hint: null
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+          - "Partially"
+        required: false
+      - id: 19
+        name: code_comments
+        label: Code is well-commented
+        hint: null
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+          - "Partially"
+        required: true
+      - id: 20
+        name: section_license
+        label: -- Licensing --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 21
+        name: license_type
+        label: License Type
+        hint: Intellectual property license
+        type: select_one
+        options:
+          - MIT
+          - Apache 2.0
+          - GPL
+          - BSD
+          - Proprietary
+          - Other
+          - None
+        required: true
+      - id: 22
+        name: section_testing
+        label: -- Testing and Quality --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 23
+        name: test_coverage
+        label: Unit tests included
+        hint: null
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+          - "Partial"
+        required: true
+      - id: 24
+        name: ci_cd
+        label: CI/CD pipeline configured
+        hint: null
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+        required: false
+      - id: 25
+        name: section_dependencies
+        label: -- Dependencies --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 26
+        name: dependencies_listed
+        label: All dependencies documented
+        hint: null
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+          - "Partially"
+        required: true
+      - id: 27
+        name: installation_instructions
+        label: Installation instructions provided
+        hint: null
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+        required: true
+      - id: 28
+        name: section_additional
+        label: -- Additional Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 29
+        name: additional_notes
+        label: Additional Notes or Comments
+        hint: Anything else we should know
+        type: text
+        options: []
+        required: false

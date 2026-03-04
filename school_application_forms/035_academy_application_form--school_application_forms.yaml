@@ -1,0 +1,174 @@
+inputSchema:
+  type: object
+  properties:
+    title: Academy Application Form
+    pages:
+    - id: 1
+      name: form_header
+      label: -- Academy Application Form --
+      hint: Complete this form to apply for admission. All required fields must be
+        filled before submission.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: applicant_last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: applicant_email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: applicant_phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: mailing_address
+      label: Mailing address
+      hint: Street, City, State, Zip Code
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      required: false
+    - id: 9
+      name: guardian_section
+      label: -- Parent or Guardian Information --
+      hint: Required for applicants under 18
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: guardian_name
+      label: Parent or guardian full name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: guardian_phone
+      label: Parent or guardian phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: guardian_email
+      label: Parent or guardian email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: academic_section
+      label: -- Academic Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: previous_school
+      label: Name of previous or current school
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: grade_level_applying
+      label: Grade level applying for
+      hint: null
+      type: select_one
+      options:
+      - Kindergarten
+      - 1st Grade
+      - 2nd Grade
+      - 3rd Grade
+      - 4th Grade
+      - 5th Grade
+      - 6th Grade
+      - 7th Grade
+      - 8th Grade
+      required: true
+    - id: 16
+      name: academic_interests
+      label: Areas of academic interest (select all that apply)
+      hint: null
+      type: select_multiple
+      options:
+      - Science and Technology
+      - Mathematics
+      - Language Arts
+      - Social Studies
+      - Visual and Performing Arts
+      - Physical Education
+      required: false
+    - id: 17
+      name: special_needs
+      label: Does the applicant have any special educational needs or accommodations
+      hint: Please describe if applicable
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: how_did_you_hear
+      label: How did you hear about our academy
+      hint: null
+      type: select_one
+      options:
+      - School website
+      - Friend or family referral
+      - Social media
+      - Open house or school event
+      - Online search
+      - Other
+      required: false
+    - id: 19
+      name: reason_for_applying
+      label: Why are you interested in attending this academy
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: agreement
+      label: I certify that the information provided is accurate and complete to the
+        best of my knowledge
+      hint: null
+      type: select_one
+      options:
+      - Yes - I certify
+      - Other
+      required: true

@@ -1,0 +1,179 @@
+inputSchema:
+  type: object
+  properties:
+    title: Service Non Renewal Feedback Survey
+    pages:
+    - id: 1
+      name: non_renewal_reason
+      label: Non Renewal Reason
+      hint: null
+      type: select_one
+      options:
+      - Not Satisfied
+      - Not Needed
+      - Other (Please specify)
+      required: true
+    - id: 2
+      name: non_renewal_why
+      label: Non Renewal Why
+      hint: Please select one or more reasons for non-renewal
+      type: select_multiple
+      options:
+      - Not Satisfied
+      - Service not available
+      - Price not competitive
+      - Other
+      required: true
+    - id: 3
+      name: suggestion
+      label: Suggestion
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: feedback
+      label: Feedback
+      hint: Provide additional feedback
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: satisfaction_level
+      label: Satisfaction Level
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Not Satisfied
+      - Not Interested
+      required: true
+    - id: 7
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: non_renewal_employer
+      label: Non Renewal Employer
+      hint: null
+      type: select_one
+      options:
+      - Self Employed
+      - Employed By Others
+      required: false
+    - id: 9
+      name: non_renewal_dependent
+      label: Non Renewal Dependent
+      hint: null
+      type: select_one
+      options:
+      - Single
+      - Married
+      required: false
+    - id: 10
+      name: non_renewal_income
+      label: Non Renewal Income
+      hint: null
+      type: select_one
+      options:
+      - Less than 20000
+      - 20000-40000
+      - 40000-60000
+      - 60000-80000
+      - More than 80000
+      required: false
+    - id: 11
+      name: non_renewal_employed_by
+      label: Non Renewal Employed By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: non_renewal_other
+      label: Non Renewal Other
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: satisfaction_level_why
+      label: Satisfaction Level Why
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: rating_why
+      label: Rating Why
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: rating_satisfaction_difference
+      label: Rating Satisfaction Difference
+      hint: How much did your rating satisfaction change
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: non_renewal_other_reason
+      label: Non Renewal Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: contact_info_2
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: email_2
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: non_renewal_employed_by_other
+      label: Non Renewal Employed By Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: non_renewal_employed_by_other_reason
+      label: Non Renewal Employed By Other Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: non_renewal_employed_by_other_other
+      label: Non Renewal Employed By Other Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: non_renewal_employed_by_other_other_why
+      label: Non Renewal Employed By Other Other Why
+      hint: null
+      type: text
+      options: []
+      required: false

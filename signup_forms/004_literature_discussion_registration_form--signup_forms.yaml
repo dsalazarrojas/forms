@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: Literature Discussion Registration Form
+    pages:
+    - id: 1
+      name: session_date
+      label: Session Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: session_time
+      label: Session Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: participants
+      label: Participants
+      hint: Enter the number of participants
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: session_duration
+      label: Session Duration
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: session_note
+      label: Session Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: group_name
+      label: Group Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: group_description
+      label: Group Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: group_type
+      label: Group Type
+      hint: null
+      type: select_one
+      options:
+      - Book Club
+      - Literature Discussion Group
+      - Book Study Group
+      required: false
+    - id: 12
+      name: session_availability
+      label: Session Availability
+      hint: null
+      type: select_multiple
+      options:
+      - Mon
+      - Tue
+      - Wed
+      - Thu
+      - Fri
+      - Sat
+      - Sun
+      - Any
+      required: false
+    - id: 13
+      name: participant_age_range
+      label: Participant Age Range
+      hint: null
+      type: select_multiple
+      options:
+      - 0-10
+      - 11-20
+      - 21-30
+      - 31-40
+      - 41-50
+      - 51+
+      required: false
+    - id: 14
+      name: outreach_method
+      label: Outreach Method
+      hint: null
+      type: select_one
+      options:
+      - Social Media
+      - Email
+      - Phone
+      required: false
+    - id: 15
+      name: participant_gender
+      label: Participant Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      required: false
+    - id: 16
+      name: session_frequency
+      label: Session Frequency
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Bi-Monthly
+      - Quarterly
+      - Annually
+      required: false
+    - id: 17
+      name: group_leaders
+      label: Group Leaders
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: group_leaders_phone
+      label: Group Leaders Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: group_leaders_email
+      label: Group Leaders Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: library_outreach
+      label: Library Outreach
+      hint: null
+      type: select_one
+      options:
+      - School
+      - Library
+      - Community
+      - Public Space
+      required: false
+    - id: 21
+      name: session_capacity
+      label: Session Capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: session_start_date
+      label: Session Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: session_end_date
+      label: Session End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: session_notes
+      label: Session Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: library_outreach_note
+      label: Library Outreach Note
+      hint: null
+      type: note
+      options: []
+      required: false

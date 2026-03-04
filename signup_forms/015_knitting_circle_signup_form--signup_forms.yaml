@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Knitting Circle Signup Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: preferred_meeting_time
+      label: Preferred Meeting Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: member_since
+      label: Member Since
+      hint: When did you join the knitting circle?
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: frequency_of_meetings
+      label: Frequency of Meetings
+      hint: How often do you want to meet with the group?
+      type: select_one
+      options:
+      - Meeting once a week
+      - Meeting every two weeks
+      - Meeting once a month
+      - Meeting less than once a month
+      required: true
+    - id: 8
+      name: meeting_day
+      label: Meeting Day
+      hint: Which day of the week do you prefer?
+      type: select_one
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: true
+    - id: 9
+      name: frequency_of_knitting
+      label: Frequency of Knitting
+      hint: How often do you knit?
+      type: select_one
+      options:
+      - Almost every day
+      - Several times a week
+      - Once a week
+      - Less than once a week
+      required: true
+    - id: 10
+      name: primary_knitting_tool
+      label: Primary Knitting Tool
+      hint: What is your go-to tool for knitting?
+      type: select_one
+      options:
+      - Knitting needles
+      - Knitting needles with cable
+      - Knitting needles with lace
+      - Other
+      required: true
+    - id: 11
+      name: primary_knitting_material
+      label: Primary Knitting Material
+      hint: What type of yarn do you prefer?
+      type: select_one
+      options:
+      - Wool
+      - Acrylic
+      - Cotton
+      - Other
+      required: true
+    - id: 12
+      name: other_knitting_tools
+      label: Other Knitting Tools
+      hint: Do you have any other tools?
+      type: text
+      options: []
+      required: false

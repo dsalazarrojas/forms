@@ -1,0 +1,53 @@
+inputSchema:
+  type: object
+  properties:
+    title: Translator Availability Reminder 2
+    pages:
+    - id: 1
+      name: translator_availability
+      label: Translator Availability
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: availability_1
+      label: Availability 1
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Available''}'
+      - '{''id'': 2, ''name'': ''Not Available''}'
+      - '{''id'': 3, ''name'': ''Busy''}'
+      required: false
+    - id: 3
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: number_of_words
+      label: Number of Words
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: availability_2
+      label: Availability 2
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Available''}'
+      - '{''id'': 2, ''name'': ''Not Available''}'
+      - '{''id'': 3, ''name'': ''Busy''}'
+      required: false

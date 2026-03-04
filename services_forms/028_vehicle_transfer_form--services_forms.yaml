@@ -1,0 +1,75 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: vehicle_transfer_form
+    pages:
+    - id: 1
+      name: vehicle_transfer_form_page_1
+      label: vehicle_transfer_form_page_1_label
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: seller_info
+      label: seller_info_label
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''seller_name'', ''label'': ''seller_name_label''}'
+      - '{''id'': 2, ''name'': ''seller_phone'', ''label'': ''seller_phone_label''}'
+      - '{''id'': 3, ''name'': ''seller_email'', ''label'': ''seller_email_label''}'
+      - '{''id'': 4, ''name'': ''seller_address'', ''label'': ''seller_address_label''}'
+      required: true
+    - id: 3
+      name: buyer_info
+      label: buyer_info_label
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: vehicle_details
+      label: vehicle_details_label
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''vehicle_license_plate'', ''label'': ''vehicle_license_plate_label''}'
+      - '{''id'': 2, ''name'': ''vehicle_year'', ''label'': ''vehicle_year_label''}'
+      - '{''id'': 3, ''name'': ''vehicle_make'', ''label'': ''vehicle_make_label''}'
+      - '{''id'': 4, ''name'': ''vehicle_model'', ''label'': ''vehicle_model_label''}'
+      required: true
+    - id: 5
+      name: transfer_details
+      label: transfer_details_label
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''transfer_type'', ''label'': ''transfer_type_label''}'
+      - '{''id'': 2, ''name'': ''transfer_reason'', ''label'': ''transfer_reason_label''}'
+      required: true
+    - id: 6
+      name: transfer_date
+      label: transfer_date_label
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: witness_statement
+      label: witness_statement_label
+      hint: null
+      type: note
+      options: []
+      required: false

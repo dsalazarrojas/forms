@@ -1,0 +1,150 @@
+inputSchema:
+  type: object
+  properties:
+    title: Intermediate Honors String Ensemble Registration
+    pages:
+    - id: 1
+      name: student_name
+      label: student name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_email
+      label: contact email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: contact_phone
+      label: contact phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone_ext
+      label: contact phone extension
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: parent_consent
+      label: parent consent
+      hint: null
+      type: select_multiple
+      options:
+      - Parent 1
+      - Parent 2
+      - Parent 3
+      required: false
+    - id: 6
+      name: instrument
+      label: instrument
+      hint: null
+      type: select_one
+      options:
+      - Violin
+      - Cello
+      - Guitar
+      - Drums
+      required: false
+    - id: 7
+      name: instrument_other
+      label: other instrument
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: rehearsal_days
+      label: rehearsal days
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: practice_times
+      label: practice times
+      hint: null
+      type: select_one
+      options:
+      - 2 days
+      - 3 days
+      - 4 days
+      - 5 days
+      required: false
+    - id: 10
+      name: teacher_comments
+      label: teacher comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: parent_comments
+      label: parent comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: teacher_confirmation
+      label: teacher confirmation
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 13
+      name: ensemble_placement
+      label: ensemble placement
+      hint: null
+      type: select_multiple
+      options:
+      - Ensemble 1
+      - Ensemble 2
+      - Ensemble 3
+      required: false
+    - id: 14
+      name: student_consent
+      label: student consent
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 15
+      name: teacher_confirmation
+      label: teacher confirmation
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 16
+      name: performance_days
+      label: performance days
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      required: false
+    - id: 17
+      name: teacher_consent
+      label: teacher consent
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

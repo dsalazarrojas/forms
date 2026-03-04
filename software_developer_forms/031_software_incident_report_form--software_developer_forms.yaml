@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: software_incident_report_form
+    pages:
+    - id: 1
+      name: software_incident_report_form_page_1
+      label: incident_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: incident_description
+      label: incident_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: incident_date
+      label: incident_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: incident_time
+      label: incident_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: incident_location
+      label: incident_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: incident_type
+      label: incident_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: incident_type_other
+      label: incident_type_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: incident_severity
+      label: incident_severity
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: incident_severity_other
+      label: incident_severity_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: affected_users
+      label: affected_users
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: affected_users_other
+      label: affected_users_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: incident_impact
+      label: incident_impact
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: incident_impact_other
+      label: incident_impact_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: incident_reporter_name
+      label: incident_reporter_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: incident_reporter_email
+      label: incident_reporter_email
+      hint: null
+      type: email
+      options: []
+      required: false

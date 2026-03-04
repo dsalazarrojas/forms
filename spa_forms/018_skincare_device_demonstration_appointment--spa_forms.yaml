@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: Skincare Device Demonstration Appointment
+    pages:
+    - id: 1
+      name: demo_details
+      label: Demo Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_info
+      label: Client Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: time_of_day
+      label: Time of Day
+      hint: null
+      type: select_one
+      options:
+      - '{''09'': ''09:00''}'
+      - '{10: 600}'
+      - '{11: 660}'
+      - '{12: 720}'
+      - '{780: 780}'
+      - '{840: 840}'
+      - '{900: 900}'
+      - '{960: 960}'
+      - '{1020: 1020}'
+      required: false
+    - id: 6
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: appointment_duration
+      label: Appointment Duration
+      hint: null
+      type: select_multiple
+      options:
+      - '30'
+      - '60'
+      - '90'
+      - '120'
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: form_id
+      label: Form ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: category
+      label: Category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: output_file
+      label: Output File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false

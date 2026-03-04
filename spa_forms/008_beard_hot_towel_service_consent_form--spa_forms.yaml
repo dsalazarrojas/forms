@@ -1,0 +1,180 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beard Hot Towel Service Consent Form
+    pages:
+    - id: 1
+      name: client_header
+      label: -- Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: health_header
+      label: -- Health Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: skin_conditions
+      label: Current Skin Conditions
+      hint: Sensitive skin, eczema, psoriasis, etc.
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: facial_hair_type
+      label: Facial Hair Type
+      hint: null
+      type: select_one
+      options:
+      - Coarse
+      - Medium
+      - Fine
+      - Curly
+      - Straight
+      required: true
+    - id: 10
+      name: burn_sensitivity
+      label: Sensitivity to Heat
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Mild
+      - Moderate
+      - High
+      required: true
+    - id: 11
+      name: recent_shaving
+      label: Recently Shaved or Cut
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: open_cuts
+      label: Open Cuts or Wounds on Face
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: allergies
+      label: Known Allergies to Products
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: service_header
+      label: -- Service Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: service_date
+      label: Scheduled Service Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: service_time
+      label: Service Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 17
+      name: understand_service
+      label: I understand the hot towel beard treatment process
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: acknowledge_risks
+      label: I acknowledge potential risks including burns, irritation, or redness
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: consent_to_service
+      label: I consent to the hot towel beard service
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: follow_aftercare
+      label: I will follow aftercare instructions provided
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: client_signature
+      label: Client Signature
+      hint: By typing here you consent to treatment
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: consent_date
+      label: Consent Date
+      hint: null
+      type: date
+      options: []
+      required: true

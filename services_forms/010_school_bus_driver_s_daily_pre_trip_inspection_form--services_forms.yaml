@@ -1,0 +1,159 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Bus Driver's Daily Pre Trip Inspection Form
+    pages:
+    - id: 1
+      name: vehicle_status
+      label: Vehicle Status
+      hint: null
+      type: select_one
+      options:
+      - Safety
+      - Not safe
+      required: true
+    - id: 2
+      name: driver_info
+      label: Driver Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: trip_number
+      label: Trip Number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: vehicle_equipment
+      label: Vehicle Equipment
+      hint: null
+      type: select_multiple
+      options:
+      - Seat belts are in good working condition
+      - All lights are functioning
+      - All reflective devices are in good condition
+      - All safety chains are in good condition
+      - All mirrors are clean and clear
+      required: true
+    - id: 5
+      name: bus_body
+      label: Bus Body
+      hint: null
+      type: select_one
+      options:
+      - Normal
+      - Normal, but with minor defects
+      - Not Normal
+      required: true
+    - id: 6
+      name: tires
+      label: Tires
+      hint: null
+      type: select_multiple
+      options:
+      - Normal
+      - Normal, but with minor defects
+      - Not Normal
+      required: true
+    - id: 7
+      name: brakes
+      label: Brakes
+      hint: null
+      type: select_multiple
+      options:
+      - Normal
+      - Normal, but with minor defects
+      - Not Normal
+      required: true
+    - id: 8
+      name: lights_system
+      label: Lights System
+      hint: null
+      type: select_multiple
+      options:
+      - Normal
+      - Normal, but with minor defects
+      - Not Normal
+      required: true
+    - id: 9
+      name: suspension_system
+      label: Suspension System
+      hint: null
+      type: select_multiple
+      options:
+      - Normal
+      - Normal, but with minor defects
+      - Not Normal
+      required: true
+    - id: 10
+      name: steering_system
+      label: Steering System
+      hint: null
+      type: select_multiple
+      options:
+      - Normal
+      - Normal, but with minor defects
+      - Not Normal
+      required: true
+    - id: 11
+      name: horn
+      label: Horn
+      hint: null
+      type: select_one
+      options:
+      - Normal
+      - Not working
+      required: true
+    - id: 12
+      name: mirrors
+      label: Mirrors
+      hint: null
+      type: select_one
+      options:
+      - Normal
+      - Not Normal
+      required: true
+    - id: 13
+      name: parking_brakes
+      label: Parking Brakes
+      hint: null
+      type: select_one
+      options:
+      - Normal
+      - Not working
+      required: true
+    - id: 14
+      name: fuel_leaks
+      label: Fuel Leaks
+      hint: null
+      type: select_one
+      options:
+      - Normal
+      - Not Normal
+      required: false
+    - id: 15
+      name: fire_supression_system
+      label: Fire Suppression System
+      hint: null
+      type: select_one
+      options:
+      - Normal
+      - Not working
+      required: false
+    - id: 16
+      name: driver_log
+      label: Driver Log
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: vehicle_status_notes
+      label: Vehicle Status Notes
+      hint: null
+      type: note
+      options: []
+      required: true

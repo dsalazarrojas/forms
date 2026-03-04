@@ -1,0 +1,137 @@
+inputSchema:
+  type: object
+  properties:
+    title: Article Writing Guide Form
+    pages:
+    - id: 1
+      name: article_title
+      label: Article Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: target_audience
+      label: Target Audience
+      hint: Who is this article written for
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: content_type
+      label: Content Type
+      hint: null
+      type: select_one
+      options:
+      - Blog Post
+      - News Article
+      - Guide
+      - Tutorial
+      - Case Study
+      - Opinion Piece
+      - Research Paper
+      required: true
+    - id: 4
+      name: primary_keyword
+      label: Primary Keyword or Topic
+      hint: Main SEO focus
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: related_keywords
+      label: Related Keywords
+      hint: Comma-separated list
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: target_word_count
+      label: Target Word Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: author_name
+      label: Author Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: writer_role
+      label: Writer Role or Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: content_direction
+      label: Content Direction and Goals
+      hint: What should this article accomplish
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: tone_style
+      label: Tone and Style
+      hint: null
+      type: select_one
+      options:
+      - Formal
+      - Conversational
+      - Technical
+      - Inspirational
+      - Educational
+      - Humorous
+      required: false
+    - id: 11
+      name: formatting_requirements
+      label: Formatting Requirements
+      hint: null
+      type: select_multiple
+      options:
+      - Headings and Subheadings
+      - Bullet Points
+      - Code Blocks
+      - Tables
+      - Images
+      - Links
+      - Pull Quotes
+      required: false
+    - id: 12
+      name: deadline
+      label: Publication Deadline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: internal_links
+      label: Internal Links to Include
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: external_resources
+      label: External Resources or References
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: revision_notes
+      label: Special Revision Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: contact_email
+      label: Contact Email for Feedback
+      hint: null
+      type: email
+      options: []
+      required: true

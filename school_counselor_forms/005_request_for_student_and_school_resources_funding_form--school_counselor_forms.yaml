@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Request For Student And School Resources Funding Form
+    pages:
+    - id: 1
+      name: school_enrollment
+      label: school_enrollment
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: financial_situation
+      label: financial_sitution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: student_resources
+      label: student_resources
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: school_funding
+      label: school_funding
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: school_financial_resources
+      label: school_financial_resources
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: student_resources_allocation
+      label: student_resources_allocation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: school_funding_status
+      label: school_funding_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 10
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false

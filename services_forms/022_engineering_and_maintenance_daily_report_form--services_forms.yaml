@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: Engineering And Maintenance Daily Report Form
+    pages:
+    - id: 1
+      name: daily_tasks
+      label: Daily Tasks
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: task_id
+      label: Task ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: task_description
+      label: Task Description
+      hint: Describe the task, issue or solution
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: task_status
+      label: Task Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Not Started''}'
+      - '{''id'': 2, ''name'': ''In Progress''}'
+      - '{''id'': 3, ''name'': ''Complete''}'
+      required: false
+    - id: 5
+      name: maintenance_tasks
+      label: Maintenance Tasks
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 4, ''name'': True}'
+      - '{''id'': 5, ''name'': False}'
+      required: false
+    - id: 6
+      name: issues
+      label: Issues
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: issue_description
+      label: Issue Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: solutions
+      label: Solutions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: solution_description
+      label: Solution Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: solutions_used
+      label: Solutions Used
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: date_completed
+      label: Date Completed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: time_completed
+      label: Time Completed
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: completed_by
+      label: Completed By
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 6, ''name'': ''Jane Doe''}'
+      - '{''id'': 7, ''name'': ''John Doe''}'
+      required: false
+    - id: 15
+      name: completed_date
+      label: Completed Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: completed_time
+      label: Completed Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: completed_by_user
+      label: Completed By User
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 6, ''name'': ''Jane Doe''}'
+      - '{''id'': 7, ''name'': ''John Doe''}'
+      required: false
+    - id: 18
+      name: comments
+      label: Comments
+      hint: Add any comments or feedback
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: attachments
+      label: Attachments
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: task_number
+      label: Task Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: report_date
+      label: Report Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: report_time
+      label: Report Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 6, ''name'': ''Jane Doe''}'
+      - '{''id'': 8, ''name'': ''Jim Smith''}'
+      required: false
+    - id: 24
+      name: report_id
+      label: Report ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: reporting_frequency
+      label: Reporting Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Daily''}'
+      - '{''id'': 2, ''name'': ''Weekly''}'
+      - '{''id'': 3, ''name'': ''Monthly''}'
+      required: true
+    - id: 26
+      name: reporting_period
+      label: Reporting Period
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

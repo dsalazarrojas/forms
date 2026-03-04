@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mobile App Approval Form
+    pages:
+    - id: 1
+      name: app_name
+      label: App Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: developer_name
+      label: Developer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Apple
+      - Google
+      required: false
+    - id: 6
+      name: version
+      label: Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: upload_date
+      label: Upload Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: release_date
+      label: Release Date
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: Request A Photoshoot Form
+    pages:
+    - id: 1
+      name: request_a_photoshoot_form
+      label: Request A Photoshoot
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: photographer_website
+      label: Photographer Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: get_a_quote
+      label: Get A Quote
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: services_forms_description
+      label: Services Forms Description
+      hint: null
+      type: note
+      options: []
+      required: false

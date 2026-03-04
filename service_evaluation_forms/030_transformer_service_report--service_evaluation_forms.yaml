@@ -1,0 +1,169 @@
+inputSchema:
+  type: object
+  properties:
+    title: Transformer Service Report
+    pages:
+    - id: 1
+      name: transformer_service_report
+      label: service_report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: service_category
+      label: service_category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: technician_name
+      label: technician_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: maintenance_activity
+      label: maintenance_activity
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: transformer_model
+      label: transformer_model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: maintenance_date
+      label: maintenance_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: maintenance_time
+      label: maintenance_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: transformer_status
+      label: transformer_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 10
+      name: service_requestor
+      label: service_requestor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: transformer_location
+      label: transformer_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: transformer_capacity
+      label: transformer_capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: transformer_voltage
+      label: transformer_voltage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: transformer_amperege
+      label: amperege
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: transformer_phase
+      label: transformer_phase
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: transformer_service_type
+      label: transformer_service_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: service_manager
+      label: service_manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: transformer_condition
+      label: transformer_condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: maintenance_cost
+      label: maintenance_cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: transformer_rating
+      label: transformer_rating
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 21
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: transformer_remarks
+      label: remarks
+      hint: null
+      type: text
+      options: []
+      required: false

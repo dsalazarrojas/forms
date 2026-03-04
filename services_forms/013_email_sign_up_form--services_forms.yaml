@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: email_sign_up_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: Enter your first name
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: Enter your last name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: Enter your email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: confirm_email
+      label: Confirm Email
+      hint: Confirm your email address
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: Enter your phone number
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: organization
+      label: Organization
+      hint: Enter your organization
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: confirm_organization
+      label: Confirm Organization
+      hint: Confirm your organization
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: service_id
+      label: Service Id
+      hint: Enter your service id
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: confirm_service_id
+      label: Confirm Service Id
+      hint: Confirm your service id
+      type: text
+      options: []
+      required: false

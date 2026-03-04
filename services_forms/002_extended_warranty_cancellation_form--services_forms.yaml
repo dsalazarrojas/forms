@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: extendedWarrantyCancellationForm
+    pages:
+    - id: 1
+      name: warrantyinformation
+      label: warrantyInformation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: reasonforcancellation
+      label: reasonForCancellation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: dateofcancellation
+      label: dateOfCancellation
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: cancellationconfirmation
+      label: cancellationConfirmation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: contactinformation
+      label: contactInformation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: additionalcomments
+      label: additionalComments
+      hint: null
+      type: text
+      options: []
+      required: false

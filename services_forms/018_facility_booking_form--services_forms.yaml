@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: facility_booking_form
+    pages:
+    - id: 1
+      name: facility_booking_details
+      label: facility_booking_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: facility_booking_description
+      label: facility_booking_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: facility_usage_duration
+      label: facility_usage_duration
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''1 day''}'
+      - '{''value'': 2, ''label'': ''2 days''}'
+      - '{''value'': 3, ''label'': ''4 days''}'
+      required: false
+    - id: 4
+      name: start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: end_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: contact_details
+      label: contact_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false

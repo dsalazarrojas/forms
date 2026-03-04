@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hotel Sales Lead Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: services
+      label: Services
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': ''Hotel Stay''}'
+      - '{''option'': ''Hotel Booking''}'
+      - '{''option'': ''Hotel Inquiry''}'
+      required: false
+    - id: 6
+      name: date_of_stay
+      label: Date of Stay
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: check_in
+      label: Check In
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: check_out
+      label: Check Out
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: message
+      label: Message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: assigned_to
+      label: Assigned to
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': ''chatjimmy''}'
+      - '{''option'': ''another_user''}'
+      required: false
+    - id: 11
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: false

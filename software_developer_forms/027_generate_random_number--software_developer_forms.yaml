@@ -1,0 +1,46 @@
+inputSchema:
+  type: object
+  properties:
+    title: Generate Random Number
+    pages:
+    - id: 1
+      name: random_number
+      label: Random Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: formula
+      label: Formula
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: generate_button
+      label: Generate Random Number
+      hint: null
+      type: select_one
+      options:
+      - Random Number
+      - Another Number
+      - Even More
+      required: false
+    - id: 4
+      name: result
+      label: Result
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: reload
+      label: Reload
+      hint: null
+      type: select_one
+      options:
+      - 'False'
+      - Yes - Random
+      - 'True'
+      required: false

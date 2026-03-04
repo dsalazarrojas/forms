@@ -1,0 +1,253 @@
+inputSchema:
+  type: object
+  properties:
+    title: Child Speech Evaluation Survey
+    pages:
+    - id: 1
+      name: evaluation_date
+      label: Evaluation Date
+      hint: Date of speech evaluation
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: parent_guardian_first_name
+      label: Parent or Guardian First Name
+      hint: Legal first name of parent or guardian
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: parent_guardian_last_name
+      label: Parent or Guardian Last Name
+      hint: Legal last name of parent or guardian
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: parent_guardian_email
+      label: Parent or Guardian Email
+      hint: Primary email address for contact
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: parent_guardian_phone
+      label: Parent or Guardian Phone
+      hint: Primary phone number for contact
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: child_first_name
+      label: Child First Name
+      hint: Legal first name of the child
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: child_last_name
+      label: Child Last Name
+      hint: Legal last name of the child
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: child_date_of_birth
+      label: Child Date of Birth
+      hint: Please provide the child's birth date
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: child_age
+      label: Child Age
+      hint: Current age of the child in years
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: primary_language
+      label: Primary Language Spoken at Home
+      hint: What is the primary language spoken in your home?
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - Mandarin
+      - French
+      - Arabic
+      - Other
+      required: true
+    - id: 11
+      name: multilingual_household
+      label: Multilingual Household
+      hint: Is more than one language spoken in your home?
+      type: select_one
+      options:
+      - Yes, two languages
+      - Yes, three or more languages
+      - No, one language only
+      required: true
+    - id: 12
+      name: speech_concerns_noticed
+      label: Speech Concerns Noticed
+      hint: Have you noticed any speech or language concerns?
+      type: select_one
+      options:
+      - Yes, significant concerns
+      - Yes, mild concerns
+      - Unsure
+      - No concerns
+      required: true
+    - id: 13
+      name: concern_description
+      label: Concern Description
+      hint: Describe your speech or language concerns
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: concern_first_noticed
+      label: When Concerns First Noticed
+      hint: When did you first notice these concerns?
+      type: select_one
+      options:
+      - Within the last month
+      - 1 to 6 months ago
+      - 6 months to 1 year ago
+      - More than 1 year ago
+      - Since child began speaking
+      required: false
+    - id: 15
+      name: articulation_difficulty
+      label: Articulation Difficulty
+      hint: Does your child have difficulty pronouncing certain sounds?
+      type: select_one
+      options:
+      - Yes, frequently
+      - Yes, occasionally
+      - Rarely
+      - false
+      - Unsure
+      required: true
+    - id: 16
+      name: fluency_concerns
+      label: Fluency Concerns
+      hint: Does your child stutter or have difficulty with fluency?
+      type: select_one
+      options:
+      - Yes, frequently
+      - Yes, occasionally
+      - Rarely
+      - false
+      - Unsure
+      required: true
+    - id: 17
+      name: voice_concerns
+      label: Voice Concerns
+      hint: Does your child have voice quality concerns (hoarseness, pitch)?
+      type: select_one
+      options:
+      - Yes, frequently
+      - Yes, occasionally
+      - Rarely
+      - false
+      - Unsure
+      required: true
+    - id: 18
+      name: understanding_of_language
+      label: Understanding of Language
+      hint: How well does your child understand spoken language?
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very poor
+      required: true
+    - id: 19
+      name: expressive_language
+      label: Expressive Language Ability
+      hint: How well does your child express thoughts and needs?
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very poor
+      required: true
+    - id: 20
+      name: vocabulary_development
+      label: Vocabulary Development
+      hint: How would you rate your child's vocabulary for their age?
+      type: select_one
+      options:
+      - Above average
+      - Average
+      - Below average
+      - Significantly below average
+      - Unsure
+      required: true
+    - id: 21
+      name: social_communication
+      label: Social Communication
+      hint: How well does your child communicate in social situations?
+      type: select_one
+      options:
+      - Very well
+      - Well
+      - Adequately
+      - With difficulty
+      - Very poorly
+      required: true
+    - id: 22
+      name: previous_evaluations
+      label: Previous Speech Evaluations
+      hint: Has your child had a speech evaluation before?
+      type: select_one
+      options:
+      - Yes, within the last year
+      - Yes, more than a year ago
+      - No, never evaluated
+      required: true
+    - id: 23
+      name: previous_services
+      label: Previous Speech Services
+      hint: Has your child received speech therapy before?
+      type: select_one
+      options:
+      - Yes, currently receiving
+      - Yes, previously received
+      - No, never received
+      required: true
+    - id: 24
+      name: hearing_concerns
+      label: Hearing Concerns
+      hint: Have you noticed any hearing difficulties?
+      type: select_one
+      options:
+      - Yes, frequent concerns
+      - Yes, occasional concerns
+      - No concerns
+      - Hearing tested and normal
+      required: true
+    - id: 25
+      name: family_history
+      label: Family History of Speech or Language Issues
+      hint: Is there a family history of speech or language difficulties?
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 26
+      name: additional_comments
+      label: Additional Comments
+      hint: Any additional information about your child's speech or language
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,320 @@
+inputSchema:
+  type: object
+  properties:
+    title: Care Provider Application Form
+    pages:
+    - id: 1
+      name: applicant_full_name
+      label: Full Name
+      hint: First, middle, and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: social_security_number
+      label: Social Security Number
+      hint: For background check purposes
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: current_address
+      label: Current Address
+      hint: Full street address
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: zip_code
+      label: ZIP Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: phone_number
+      label: Phone Number
+      hint: Primary contact number
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: position_applied_for
+      label: Position Applied For
+      hint: null
+      type: select_one
+      options:
+      - Home Health Aide
+      - Personal Care Assistant
+      - Certified Nursing Assistant
+      - Companion Caregiver
+      - Respite Care Provider
+      - Live-in Caregiver
+      - Pediatric Care Provider
+      - Geriatric Care Provider
+      - Disability Care Specialist
+      required: true
+    - id: 11
+      name: availability
+      label: Availability
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Weekdays - mornings
+      - Weekdays - afternoons
+      - Weekdays - evenings
+      - Weekends - mornings
+      - Weekends - afternoons
+      - Weekends - evenings
+      - Overnight shifts
+      - Live-in available
+      - Flexible schedule
+      required: true
+    - id: 12
+      name: certifications
+      label: Certifications Held
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - CNA Certification
+      - HHA Certification
+      - CPR Certified
+      - First Aid Certified
+      - Medication Administration
+      - Dementia Care Certification
+      - Hospice Care Training
+      - Disability Care Training
+      - None
+      required: true
+    - id: 13
+      name: certification_numbers
+      label: Certification Numbers
+      hint: List certification numbers and expiration dates
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: years_of_experience
+      label: Years of Care Experience
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-2 years
+      - 3-5 years
+      - 6-10 years
+      - More than 10 years
+      required: true
+    - id: 15
+      name: previous_employers
+      label: Previous Care Experience
+      hint: List employers and dates
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: education_level
+      label: Highest Level of Education
+      hint: null
+      type: select_one
+      options:
+      - Less than high school
+      - High school diploma or GED
+      - Some college
+      - Associate degree
+      - Bachelor's degree
+      - Graduate degree
+      required: true
+    - id: 17
+      name: specialized_training
+      label: Specialized Training or Skills
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Alzheimer's and dementia care
+      - Parkinson's disease care
+      - Diabetes management
+      - Mobility assistance
+      - Tube feeding
+      - Catheter care
+      - Wound care
+      - Medication management
+      - Pediatric care
+      - Mental health support
+      - None
+      required: true
+    - id: 18
+      name: population_served
+      label: Populations You Have Served
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Elderly clients
+      - Adults with disabilities
+      - Children with special needs
+      - Post-surgical patients
+      - Chronically ill patients
+      - Terminal illness patients
+      - Mental health clients
+      - Newborns and infants
+      required: true
+    - id: 19
+      name: transportation
+      label: Do You Have Reliable Transportation
+      hint: null
+      type: select_one
+      options:
+      - Yes - own vehicle
+      - Yes - access to vehicle
+      - No - rely on public transportation
+      - No - need transportation assistance
+      required: true
+    - id: 20
+      name: drivers_license
+      label: Do You Have a Valid Driver's License
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 21
+      name: background_check_consent
+      label: I Consent to a Background Check
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 22
+      name: drug_screening_consent
+      label: I Consent to Drug Screening
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 23
+      name: health_screening
+      label: Health Screening Status
+      hint: TB test, physical, etc.
+      type: select_one
+      options:
+      - Current - within past year
+      - Will obtain upon hire
+      - Not completed
+      required: true
+    - id: 24
+      name: vaccination_status
+      label: Vaccination Status
+      hint: Including flu, COVID-19, etc.
+      type: select_one
+      options:
+      - Fully vaccinated
+      - Partially vaccinated
+      - Not vaccinated
+      - Medical exemption
+      - Religious exemption
+      required: true
+    - id: 25
+      name: references
+      label: Professional References
+      hint: List 3 references with contact information
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 29
+      name: why_interested
+      label: Why Are You Interested in This Position
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 30
+      name: strengths_as_caregiver
+      label: What Are Your Greatest Strengths as a Caregiver
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 31
+      name: challenging_situations
+      label: Describe How You Handle Challenging Care Situations
+      hint: Brief example
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: terms_and_conditions
+      label: I Agree to the Terms and Conditions
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 33
+      name: application_date
+      label: Application Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 34
+      name: signature
+      label: Electronic Signature
+      hint: Type full name as signature
+      type: text
+      options: []
+      required: true

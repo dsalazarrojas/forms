@@ -1,0 +1,77 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Gun Transfer Form
+    pages:
+    - id: 1
+      name: gun_transfer_form
+      label: Gun Transfer Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: Enter the name of the person transferring the gun
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: transferor_name
+      label: Transferor's Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: relationship
+      label: Relationship
+      hint: How do you know the person you are transferring the gun to?
+      type: select_one
+      options:
+      - First
+      - Last
+      - Family Member
+      - Friend
+      - Other
+      required: false
+    - id: 5
+      name: reason_for_transfer
+      label: Reason for Transfer
+      hint: Why are you transferring the gun to this person?
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: transfer_date
+      label: Transfer Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: transfer_time
+      label: Transfer Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: transfer_time_zone
+      label: Transfer Time Zone
+      hint: Time Zone (e.g. EST, CST, etc.)
+      type: text
+      options: []
+      required: false

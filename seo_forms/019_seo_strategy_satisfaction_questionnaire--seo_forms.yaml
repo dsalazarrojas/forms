@@ -1,0 +1,80 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: SEO Strategy Satisfaction Questionnaire
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: agency
+      label: Agency
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: Enter your email address
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: performance
+      label: Performance
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''text'': ''Excellent''}'
+      - '{''id'': 2, ''text'': ''Good''}'
+      - '{''id'': 3, ''text'': ''Poor''}'
+      required: false
+    - id: 5
+      name: service_quality
+      label: Service Quality
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''text'': ''On time''}'
+      - '{''id'': 2, ''text'': ''On budget''}'
+      - '{''id'': 3, ''text'': ''Communication''}'
+      - '{''id'': 4, ''text'': ''Support''}'
+      - '{''id'': 5, ''text'': ''Professionalism''}'
+      required: false
+    - id: 6
+      name: time_management
+      label: Time Management
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: follow_up
+      label: Follow up after submission
+      hint: This will help us to follow up on your issue
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,97 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Civic Debate Video Distribution Consent Form
+    pages:
+      - id: 1
+        name: participant_name
+        label: Participant name
+        hint: Full name as recorded
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: event_date
+        label: Event date
+        hint: Date of debate recording
+        type: date
+        options: []
+        required: true
+      - id: 3
+        name: consent_to_record
+        label: Consent to be recorded
+        hint: Agreement for recording
+        type: select_one
+        options:
+          - I consent
+          - I do not consent
+        required: true
+      - id: 4
+        name: consent_to_distribute
+        label: Consent to distribute recording
+        hint: Agreement for sharing video publicly
+        type: select_one
+        options:
+          - I consent
+          - I do not consent
+        required: true
+      - id: 5
+        name: distribution_channels
+        label: Approved distribution channels
+        hint: Select channels you allow
+        type: select_multiple
+        options:
+          - Social media
+          - Local TV
+          - Website
+          - Educational partners
+        required: false
+      - id: 6
+        name: compensation_agreement
+        label: Compensation agreement
+        hint: Indicate if any compensation applies
+        type: select_one
+        options:
+          - No compensation
+          - Honorarium
+          - Other
+        required: false
+      - id: 7
+        name: signature_acknowledgement
+        label: Signature acknowledgement
+        hint: Typed name acts as signature
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: contact_for_questions
+        label: Contact for questions
+        hint: Email or phone for follow up
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: privacy_note
+        label: Privacy and data usage note
+        hint: Details on how recordings are stored
+        type: note
+        options: []
+        required: true
+      - id: 10
+        name: submission_date
+        label: Submission date
+        hint: Use current date
+        type: date
+        options: []
+        required: true

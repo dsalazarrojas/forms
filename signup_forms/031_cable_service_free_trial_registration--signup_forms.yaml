@@ -1,0 +1,77 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Cable Service Free Trial Registration
+    pages:
+      - id: 1
+        name: full_name
+        label: Full name
+        hint: For trial sign up
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: email
+        label: Email address
+        hint: Trial activation will use this
+        type: email
+        options: []
+        required: true
+      - id: 3
+        name: address
+        label: Service address
+        hint: Where trial service will be provided
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: preferred_start_date
+        label: Preferred start date
+        hint: When you want trial to begin
+        type: date
+        options: []
+        required: false
+      - id: 5
+        name: equipment_required
+        label: Equipment required
+        hint: Modem router or installation
+        type: select_multiple
+        options:
+          - Modem
+          - Router
+          - Professional installation
+        required: false
+      - id: 6
+        name: acceptance_terms
+        label: Acceptance of trial terms
+        hint: Agree to service terms and conditions
+        type: select_one
+        options:
+          - I agree
+          - I do not agree
+        required: true
+      - id: 7
+        name: referral_code
+        label: Referral code
+        hint: Optional
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: comments
+        label: Comments or questions
+        hint: Any additional information
+        type: text
+        options: []
+        required: false

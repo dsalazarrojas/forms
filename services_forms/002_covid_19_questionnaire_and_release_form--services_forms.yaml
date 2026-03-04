@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: covid-19-questionnaire-and-release-form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_email
+      label: Patient Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: patient_phone
+      label: Patient Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: medical_professional
+      label: Medical Professional
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: vaccine_dose_one
+      label: Vaccine Dose 1 Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: vaccine_dose_one_date_time
+      label: Vaccine Dose 1 Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: vaccine_dose_two
+      label: Vaccine Dose 2 Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: vaccine_dose_two_date_time
+      label: Vaccine Dose 2 Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: vaccination_site
+      label: Vaccination Site
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: allergies
+      label: Allergies
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: medication
+      label: Medication
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: release_from
+      label: Release From
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: consent
+      label: Consent
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 17
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: patient_signature
+      label: Patient Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 21
+      name: physician
+      label: Physician
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 22
+      name: medical_institution
+      label: Medical Institution
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 23
+      name: release_date
+      label: Release Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: reason_for_release
+      label: Reason For Release
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 25
+      name: reason_for_non_release
+      label: Reason For Non-Release
+      hint: null
+      type: text
+      options: []
+      required: true

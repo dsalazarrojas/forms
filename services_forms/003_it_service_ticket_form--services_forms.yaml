@@ -1,0 +1,88 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: it_service_ticket_form
+    pages:
+    - id: 1
+      name: submit_ticket
+      label: Submit Ticket
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: priority
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Low''}'
+      - '{''id'': 2, ''name'': ''Medium''}'
+      - '{''id'': 3, ''name'': ''High''}'
+      required: false
+    - id: 3
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''New''}'
+      - '{''id'': 2, ''name'': ''In Progress''}'
+      - '{''id'': 3, ''name'': ''Closed''}'
+      required: false
+    - id: 4
+      name: ticket_type
+      label: Ticket Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Hardware''}'
+      - '{''id'': 2, ''name'': ''Software''}'
+      - '{''id'': 3, ''name'': ''General''}'
+      required: false
+    - id: 5
+      name: issue_description
+      label: Issue Description
+      hint: A detailed description of the issue
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: reporter
+      label: Reporter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: assignee
+      label: Assignee
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: description
+      label: Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: attachments
+      label: Attachments
+      hint: null
+      type: text
+      options: []
+      required: false

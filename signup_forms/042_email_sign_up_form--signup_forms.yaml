@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: email_sign_up_form
+    pages:
+    - id: 1
+      name: name
+      label: email_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: user_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: name
+      label: user_name
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: name
+      label: user_name
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

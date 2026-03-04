@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sponsor Letter Of Recommendation Confirmation
+    pages:
+    - id: 1
+      name: confirm_sponsor
+      label: Confirm Sponsor
+      hint: null
+      type: select_one
+      options:
+      - Sponsor
+      - Do not sponsor
+      required: false
+    - id: 2
+      name: sponsor_name
+      label: sponsor_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: sponsor_name_2
+      label: sponsor Name 2
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 4
+      name: sponsor_email
+      label: sponsor email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: sponsor_phone
+      label: sponsor phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: confirm_sponsor_name
+      label: Confirm Sponsor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: confirm_sponsor_email
+      label: Confirm Sponsor Email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: confirm_sponsor_phone
+      label: Confirm Sponsor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: confirm_sponsor
+      label: Confirm Sponsor
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: confirm_sponsor_comments
+      label: confirm sponsor comments
+      hint: null
+      type: note
+      options: []
+      required: false

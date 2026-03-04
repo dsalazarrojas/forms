@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: Early Admission Application Form
+    pages:
+    - id: 1
+      name: application_form
+      label: Application Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: studentname
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: birthdate
+      label: birthdate
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: grade_completed
+      label: grade_completed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: select_one_program
+      label: select_one_program
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Program 1'', ''value'': 1}'
+      - '{''id'': 2, ''label'': ''Program 2'', ''value'': 2}'
+      - '{''id'': 3, ''label'': ''Program 3'', ''value'': 3}'
+      required: false
+    - id: 9
+      name: select_multiple_programs
+      label: select_multiple_programs
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Option 1'', ''value'': 1}'
+      - '{''id'': 2, ''label'': ''Option 2'', ''value'': 2}'
+      - '{''id'': 3, ''label'': ''Option 3'', ''value'': 3}'
+      - '{''id'': 4, ''label'': ''Option 4'', ''value'': 4}'
+      required: false
+    - id: 10
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: time_of_application
+      label: time_of_application
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: academic_level
+      label: academic_level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: student_status
+      label: student_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Active'', ''value'': 1}'
+      - '{''id'': 2, ''label'': ''Inactive'', ''value'': 2}'
+      required: false
+    - id: 15
+      name: select_multiple_programs2
+      label: select_multiple_programs2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Option 1'', ''value'': 1}'
+      - '{''id'': 2, ''label'': ''Option 2'', ''value'': 2}'
+      required: false
+    - id: 16
+      name: school_name
+      label: school_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: school_email
+      label: school_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: school_phone
+      label: school_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: school_website
+      label: school_website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: upload_documents
+      label: upload_documents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: upload_additional_documents
+      label: upload_additional_documents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: upload_other_documents
+      label: upload_other_documents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: upload_transcripts
+      label: upload_transcripts
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: upload_additional_info
+      label: upload_additional_info
+      hint: null
+      type: text
+      options: []
+      required: false

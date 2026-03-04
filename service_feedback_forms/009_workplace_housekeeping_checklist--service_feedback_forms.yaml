@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: workplace_housekeeping_checklist
+    pages:
+    - id: 1
+      name: work_place_name
+      label: Workplace Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: frequency_1
+      label: Frequency 1
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: frequency_2
+      label: Frequency 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: last_checkup
+      label: Last Checkup
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: next_checkup
+      label: Next Checkup
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: cleanliness_standards
+      label: Cleanliness Standards
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: frequency_3
+      label: Frequency 3
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: next_checkup_time
+      label: Next Checkup Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: user_position
+      label: User Position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: date_checked
+      label: Date Checked
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: checked_by
+      label: Checked By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: completed
+      label: Completed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: frequency_4
+      label: Frequency 4
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: checked_at
+      label: Checked At
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: user_email
+      label: User Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 20
+      name: user_phone
+      label: User Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: user_location
+      label: User Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: assigned_jimmy
+      label: Assigned Jimmy
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: user_comments
+      label: User Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: frequency_5
+      label: Frequency 5
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 25
+      name: frequency_6
+      label: Frequency 6
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

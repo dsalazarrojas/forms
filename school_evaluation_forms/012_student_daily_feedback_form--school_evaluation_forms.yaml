@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Daily Feedback Form
+    pages:
+    - id: 1
+      name: student_id
+      label: Student Id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: feedback_date
+      label: Feedback Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: subject
+      label: Subject
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: question1
+      label: Question 1
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: question1_answer
+      label: Question 1 Answer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: question2
+      label: Question 2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: question2_answer
+      label: Question 2 Answer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: question3
+      label: Question 3
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: question3_answer
+      label: Question 3 Answer
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Criminal Justice Reform Petition Form
+    pages:
+    - id: 1
+      name: criminal_justice_reform_petition_form
+      label: criminal-justice-reform-petition-form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: contact_name
+      label: contact-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: contact-email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_telephone
+      label: contact-telephone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_address
+      label: contact-address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_city
+      label: contact-city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_state
+      label: contact-state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_zip
+      label: contact-zip
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: petition_message
+      label: petition-message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: criminal_justice_issue
+      label: criminal-justice-issue
+      hint: null
+      type: select_one
+      options:
+      - Racial Profiling
+      - Mandatory Minimum Sentences
+      - Police Misconduct
+      - False Imprisonment
+      - Overly Broad Sentencing
+      required: false
+    - id: 11
+      name: additional_information
+      label: additional-information
+      hint: null
+      type: note
+      options: []
+      required: false

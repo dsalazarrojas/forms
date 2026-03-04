@@ -1,0 +1,287 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animal Care App Developer Partnership Application Form
+    pages:
+    - id: 1
+      name: applicant_name
+      label: Contact Person Full Name
+      hint: Primary contact name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: Business email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Direct contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company_name
+      label: Company or Organization Name
+      hint: Developer company name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company_website
+      label: Company Website
+      hint: URL
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: application_intro
+      label: Developer Partnership Application
+      hint: Thank you for your interest in partnering with us. Please complete all
+        sections.
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: company_address
+      label: Company Address
+      hint: Street, city, state, country
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: company_size
+      label: Company Size
+      hint: Number of employees
+      type: select_one
+      options:
+      - Solo developer
+      - 2-10 employees
+      - 11-50 employees
+      - 51-200 employees
+      - More than 200 employees
+      required: true
+    - id: 9
+      name: years_in_business
+      label: Years in Business
+      hint: Company age
+      type: select_one
+      options:
+      - Startup - less than 1 year
+      - 1-3 years
+      - 4-7 years
+      - 8-15 years
+      - More than 15 years
+      required: true
+    - id: 10
+      name: partnership_type
+      label: Type of Partnership Sought
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - API integration partner
+      - Feature development
+      - White label solution
+      - Data sharing agreement
+      - Co-marketing partnership
+      - Referral partnership
+      - Technology licensing
+      required: true
+    - id: 11
+      name: development_expertise
+      label: Development Expertise
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Mobile app development - iOS
+      - Mobile app development - Android
+      - Web application development
+      - Backend systems
+      - API development
+      - Database management
+      - Cloud infrastructure
+      - AI and machine learning
+      - IoT integration
+      required: true
+    - id: 12
+      name: animal_care_experience
+      label: Experience in Animal Care or Veterinary Technology
+      hint: Relevant experience
+      type: select_one
+      options:
+      - Extensive - 5+ years
+      - Moderate - 2-5 years
+      - Limited - less than 2 years
+      - None - new to this space
+      required: true
+    - id: 13
+      name: experience_details
+      label: Please describe your animal care technology experience
+      hint: Details
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: portfolio_apps
+      label: Relevant Apps or Products Developed
+      hint: List and describe
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: technical_capabilities
+      label: Technical Capabilities
+      hint: What can your team build
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: platforms_supported
+      label: Platforms You Can Support
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - iOS native
+      - Android native
+      - React Native
+      - Flutter
+      - Web - responsive
+      - Desktop applications
+      - Wearable integration
+      required: false
+    - id: 17
+      name: security_certifications
+      label: Security Certifications or Compliance
+      hint: HIPAA, SOC2, etc.
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: integration_experience
+      label: Experience with Third-Party Integrations
+      hint: API integrations
+      type: select_one
+      options:
+      - Extensive experience
+      - Moderate experience
+      - Limited experience
+      - No experience
+      required: true
+    - id: 19
+      name: proposed_solution
+      label: Describe Your Proposed Solution or Partnership Idea
+      hint: What do you propose
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: value_proposition
+      label: What Value Does Your Solution Provide
+      hint: Benefits
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: target_users
+      label: Who Are the Target Users
+      hint: User demographics
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: development_timeline
+      label: Estimated Development Timeline
+      hint: Project duration
+      type: select_one
+      options:
+      - Less than 3 months
+      - 3-6 months
+      - 6-12 months
+      - More than 12 months
+      required: false
+    - id: 23
+      name: budget_range
+      label: Budget Range
+      hint: Investment level
+      type: select_one
+      options:
+      - Less than $25,000
+      - $25,000 to $50,000
+      - $50,000 to $100,000
+      - $100,000 to $250,000
+      - More than $250,000
+      required: false
+    - id: 24
+      name: funding_status
+      label: Funding Status
+      hint: Company funding
+      type: select_one
+      options:
+      - Bootstrapped
+      - Seed funded
+      - Series A or later
+      - Profitable
+      - Seeking funding
+      required: false
+    - id: 25
+      name: references
+      label: Client References
+      hint: Names and contact info
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: team_members
+      label: Key Team Members
+      hint: Bios of key personnel
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: why_partner
+      label: Why Do You Want to Partner With Us
+      hint: Motivation
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: success_metrics
+      label: How Would You Measure Partnership Success
+      hint: KPIs
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: additional_info
+      label: Additional Information
+      hint: Anything else
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: nda_required
+      label: Do you require an NDA before detailed discussions
+      hint: NDA
+      type: select_one
+      options:
+      - Yes - please send NDA
+      - No - not required
+      required: false
+    - id: 31
+      name: applicant_signature
+      label: Applicant Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: true
+    - id: 32
+      name: signature_date
+      label: Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true

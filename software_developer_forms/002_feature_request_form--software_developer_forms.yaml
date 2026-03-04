@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Feature Request Form
+    pages:
+    - id: 1
+      name: form_submission
+      label: Form Submission
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: feature_request
+      label: Feature Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: feature_description
+      label: Feature Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: requested_by
+      label: Requested By
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''text'': ''Customer''}'
+      - '{''id'': 2, ''text'': ''Team''}'
+      - '{''id'': 3, ''text'': ''Both''}'
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date_of_request
+      label: Date of Request
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_of_request
+      label: Time of Request
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: priority
+      label: Priority
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''text'': ''High''}'
+      - '{''id'': 2, ''text'': ''Medium''}'
+      - '{''id'': 3, ''text'': ''Low''}'
+      required: false
+    - id: 10
+      name: feature_status
+      label: Feature Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''text'': ''In Development''}'
+      - '{''id'': 2, ''text'': ''In Progress''}'
+      - '{''id'': 3, ''text'': ''Done''}'
+      - '{''id'': 4, ''text'': ''Not Planned''}'
+      required: false
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

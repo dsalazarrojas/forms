@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: email_verification_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: First name of user
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: Last name of user
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: confirm_email
+      label: Confirm email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: confirm_email
+      label: Confirm email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone_number
+      label: Phone number
+      hint: Phone number of user
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: country
+      label: Country
+      hint: Country of user
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''us'', ''label'': ''United States''}'
+      - '{''id'': 2, ''name'': ''ca'', ''label'': ''Canada''}'
+      - '{''id'': 3, ''name'': ''mx'', ''label'': ''Mexico''}'
+      required: false
+    - id: 8
+      name: confirm_phone_number
+      label: Confirm phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: confirm_phone_number
+      label: Confirm phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: verify_email
+      label: Verify email
+      hint: null
+      type: note
+      options: []
+      required: false

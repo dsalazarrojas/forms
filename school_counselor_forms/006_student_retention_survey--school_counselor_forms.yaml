@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Retention Survey
+    pages:
+    - id: 1
+      name: student_retention_survey
+      label: what_do_you_think_is_most_important
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: student_retention_survey_1
+      label: what_is_the_main_reason_for_leaving
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''financial_aid''}'
+      - '{''label'': ''family_circumstances''}'
+      - '{''label'': ''academic_standards''}'
+      - '{''label'': ''bullying''}'
+      - '{''label'': ''other''}'
+      required: false
+    - id: 3
+      name: student_retention_survey_2
+      label: what_do_you_enroll_in_next_semester
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': ''maybe''}'
+      - '{''label'': False}'
+      required: false
+    - id: 4
+      name: student_retention_survey_3
+      label: who_did_you_talk_to_before_making_decision
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''teacher''}'
+      - '{''label'': ''parent''}'
+      - '{''label'': ''counselor''}'
+      - '{''label'': ''other''}'
+      required: false
+    - id: 5
+      name: student_retention_survey_4
+      label: how_long_have_you_been_thinking_about_leaving
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: student_retention_survey_5
+      label: do_you_have_any_previous_education
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 7
+      name: student_retention_survey_6
+      label: if_yes_what_previous_school_attended
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: student_retention_survey_7
+      label: what_is_your_education_level
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''high_school''}'
+      - '{''label'': ''vocational''}'
+      - '{''label'': ''college''}'
+      - '{''label'': ''post_bachelor''}'
+      - '{''label'': ''other''}'
+      required: false
+    - id: 9
+      name: student_retention_survey_8
+      label: what_program
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''career''}'
+      - '{''label'': ''technical''}'
+      - '{''label'': ''vocational''}'
+      required: false
+    - id: 10
+      name: student_retention_survey_9
+      label: what_grade
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''9th''}'
+      - '{''label'': ''10th''}'
+      - '{''label'': ''11th''}'
+      - '{''label'': ''12th''}'
+      required: false
+    - id: 11
+      name: student_retention_survey_10
+      label: what_subjects
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''math''}'
+      - '{''label'': ''science''}'
+      - '{''label'': ''english''}'
+      required: false
+    - id: 12
+      name: student_retention_survey_11
+      label: what_other_schools
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

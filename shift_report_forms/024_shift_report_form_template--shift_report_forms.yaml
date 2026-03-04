@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Shift Report Form Template
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: shift_start_time
+      label: shift_start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: shift_end_time
+      label: shift_end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: shift_duration
+      label: shift_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: work_description
+      label: work_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: issues_encountered
+      label: Issues Encountered
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: action_taken
+      label: action_taken
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - 'No'
+      - 'Yes'
+      required: true
+    - id: 10
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: true

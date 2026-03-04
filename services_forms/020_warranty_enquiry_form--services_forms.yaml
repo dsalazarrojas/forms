@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Warranty Enquiry Form
+    pages:
+    - id: 1
+      name: warranty_enquiry_form
+      label: Warranty Enquiry Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: product_details
+      label: Product Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: product_serial_number
+      label: Product Serial Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: product_purchase_date
+      label: Product Purchase Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: product_return_date
+      label: Product Return Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: product_condition
+      label: Product Condition
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''new'', ''value'': ''New''}'
+      - '{''id'': 2, ''name'': ''used'', ''value'': ''Used''}'
+      - '{''id'': 3, ''name'': ''refurbished'', ''value'': ''Refurbished''}'
+      required: false
+    - id: 11
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: category
+      label: Category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: tags
+      label: Tags
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''warranty'', ''value'': ''Warranty''}'
+      - '{''id'': 2, ''name'': ''claim'', ''value'': ''Claim''}'
+      - '{''id'': 3, ''name'': ''service'', ''value'': ''Service''}'
+      required: false
+    - id: 15
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false

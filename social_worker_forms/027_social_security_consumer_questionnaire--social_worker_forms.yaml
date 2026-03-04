@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Social Security Consumer Questionnaire
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: demographics
+      label: demographics
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: awareness
+      label: awareness
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: usage
+      label: usage
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: benefits
+      label: benefits
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: concerns
+      label: concerns
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: satisfaction
+      label: satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 8
+      name: contact_info
+      label: contact information
+      hint: null
+      type: email
+      options: []
+      required: false

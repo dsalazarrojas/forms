@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Funeral Wishes Form
+    pages:
+    - id: 1
+      name: first_page
+      label: funeral_wishes
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: family_preferences
+      label: family_preferences
+      hint: null
+      type: select_multiple
+      options:
+      - family_name
+      - family_relationship
+      required: true
+    - id: 3
+      name: funeral_services
+      label: funeral_services
+      hint: null
+      type: select_one
+      options:
+      - cremation
+      - burial
+      - donation
+      required: true
+    - id: 4
+      name: donation_details
+      label: donation_details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: executor_details
+      label: executor_details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: final_wishes
+      label: final_wishes
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: medical_info
+      label: medical_info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: funeral_arrangements
+      label: funeral_arrangements
+      hint: null
+      type: select_one
+      options:
+      - traditional
+      - green
+      - cremation
+      required: true
+    - id: 10
+      name: burial_location
+      label: burial_location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: burial_date
+      label: burial_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: burial_time
+      label: burial_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 13
+      name: final_message
+      label: final_message
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: funeral_home
+      label: funeral_home
+      hint: null
+      type: select_one
+      options:
+      - 'yes'
+      - 'no'
+      required: true
+    - id: 15
+      name: organ_donation
+      label: organ_donation
+      hint: null
+      type: select_one
+      options:
+      - 'yes'
+      - 'no'
+      required: true
+    - id: 16
+      name: autopsy
+      label: autopsy
+      hint: null
+      type: select_one
+      options:
+      - 'yes'
+      - 'no'
+      required: true
+    - id: 17
+      name: embalming
+      label: embalming
+      hint: null
+      type: select_one
+      options:
+      - 'yes'
+      - 'no'
+      required: true
+    - id: 18
+      name: burial_certificate
+      label: burial_certificate
+      hint: null
+      type: select_one
+      options:
+      - 'yes'
+      - 'no'
+      required: true
+    - id: 19
+      name: viewing
+      label: viewing
+      hint: null
+      type: select_one
+      options:
+      - 'yes'
+      - 'no'
+      required: true
+    - id: 20
+      name: funeral_services_cost
+      label: funeral_services_cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: executor_benefits
+      label: executor_benefits
+      hint: null
+      type: select_multiple
+      options:
+      - 'yes'
+      - 'no'
+      - both
+      required: true
+    - id: 22
+      name: funeral_location
+      label: funeral_location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: funeral_date
+      label: funeral_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: final_fund
+      label: final_fund
+      hint: null
+      type: select_multiple
+      options:
+      - traditional
+      - green
+      required: true

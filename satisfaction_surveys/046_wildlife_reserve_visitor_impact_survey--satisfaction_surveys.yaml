@@ -1,0 +1,87 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Wildlife Reserve Visitor Impact Survey
+    pages:
+    - id: 1
+      name: user_input_1
+      label: Visitor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: user_input_2
+      label: wildlife-area-visited
+      hint: null
+      type: select_one
+      options:
+      - '{''option-1'': ''Park A''}'
+      - '{''option-2'': ''Park B''}'
+      - '{''option-3'': ''Park C''}'
+      required: true
+    - id: 3
+      name: user_input_3
+      label: Visit Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option-1'': ''Rarely''}'
+      - '{''option-2'': ''Occasionally''}'
+      - '{''option-3'': ''Frequently''}'
+      required: true
+    - id: 4
+      name: user_input_4
+      label: Time Spent in Park
+      hint: Enter time in hours
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: user_input_5
+      label: Impact on Wildlife
+      hint: null
+      type: select_one
+      options:
+      - '{''option-1'': ''Negligible''}'
+      - '{''option-2'': ''Low''}'
+      - '{''option-3'': ''Medium''}'
+      - '{''option-4'': ''High''}'
+      required: true
+    - id: 6
+      name: user_input_6
+      label: Contact Information
+      hint: Enter your email or phone number
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: user_input_7
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: user_input_8
+      label: How likely are you to visit this park again?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option-1'': ''Very Unlikely''}'
+      - '{''option-2'': ''Somewhat Unlikely''}'
+      - '{''option-3'': ''Neither''}'
+      - '{''option-4'': ''Somewhat Likely''}'
+      - '{''option-5'': ''Very Likely''}'
+      required: true

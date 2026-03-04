@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gym Sign Up Form
+    pages:
+    - id: 1
+      name: first_name
+      label: first name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: date of birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: membership_duration
+      label: membership duration
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''month to month''}'
+      - '{''id'': 2, ''label'': ''ongoing''}'
+      required: false
+    - id: 7
+      name: payment_method
+      label: payment method
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''credit card''}'
+      - '{''id'': 2, ''label'': ''bank transfer''}'
+      - '{''id'': 3, ''label'': ''check''}'
+      required: false
+    - id: 8
+      name: emergency_contact_name
+      label: emergency contact name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergency_contact_phone
+      label: emergency contact phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: emergency_contact_relationship
+      label: emergency contact relationship
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''parent''}'
+      - '{''id'': 2, ''label'': ''sibling''}'
+      - '{''id'': 3, ''label'': ''spouse''}'
+      - '{''id'': 4, ''label'': ''other''}'
+      required: false
+    - id: 11
+      name: membership_status
+      label: membership status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''active''}'
+      - '{''id'': 2, ''label'': ''inactive''}'
+      - '{''id'': 3, ''label'': ''pending''}'
+      - '{''id'': 4, ''label'': ''cancelled''}'
+      required: false
+    - id: 12
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: assigned_tool
+      label: assigned tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: form_id
+      label: form id
+      hint: null
+      type: number
+      options: []
+      required: false

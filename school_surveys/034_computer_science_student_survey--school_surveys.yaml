@@ -1,0 +1,265 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Computer Science Student Survey
+    pages:
+      - id: 1
+        name: survey_id
+        label: Survey ID
+        hint: Unique survey identifier
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: survey_date
+        label: Survey Date
+        hint: Date of survey
+        type: date
+        options: []
+        required: true
+      - id: 3
+        name: student_name
+        label: Student Name
+        hint: Your full name
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: student_id
+        label: Student ID
+        hint: Student identification number
+        type: text
+        options: []
+        required: false
+      - id: 5
+        name: email_address
+        label: Email Address
+        hint: Your student email
+        type: email
+        options: []
+        required: false
+      - id: 6
+        name: academic_year
+        label: Academic Year
+        hint: Select your year
+        type: select_one
+        options:
+          - Freshman
+          - Sophomore
+          - Junior
+          - Senior
+          - Graduate Student
+          - Doctoral Candidate
+          - Other
+        required: true
+      - id: 7
+        name: major
+        label: Major
+        hint: Select your major
+        type: select_one
+        options:
+          - Computer Science
+          - Software Engineering
+          - Data Science
+          - Cybersecurity
+          - Information Technology
+          - Computer Engineering
+          - Other
+        required: true
+      - id: 8
+        name: course_name
+        label: Course Name
+        hint: Which course is this survey for
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: course_code
+        label: Course Code
+        hint: Course code or number
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: instructor_name
+        label: Instructor Name
+        hint: Name of instructor
+        type: text
+        options: []
+        required: true
+      - id: 11
+        name: semester
+        label: Semester
+        hint: Select semester
+        type: select_one
+        options:
+          - Spring 2026
+          - Fall 2025
+          - Spring 2025
+          - Fall 2024
+          - Summer 2025
+          - Other
+        required: true
+      - id: 12
+        name: course_content_rating
+        label: Course Content Rating
+        hint: Rate the course content
+        type: select_one
+        options:
+          - 5 - Excellent
+          - 4 - Good
+          - 3 - Average
+          - 2 - Poor
+          - 1 - Very Poor
+        required: true
+      - id: 13
+        name: instructor_effectiveness
+        label: Instructor Effectiveness
+        hint: Rate instructor effectiveness
+        type: select_one
+        options:
+          - 5 - Excellent
+          - 4 - Good
+          - 3 - Average
+          - 2 - Poor
+          - 1 - Very Poor
+        required: true
+      - id: 14
+        name: course_difficulty
+        label: Course Difficulty
+        hint: How would you rate course difficulty
+        type: select_one
+        options:
+          - Too Easy
+          - Easy
+          - Just Right
+          - Challenging
+          - Too Difficult
+        required: true
+      - id: 15
+        name: workload_rating
+        label: Workload Rating
+        hint: Rate the workload
+        type: select_one
+        options:
+          - Too Light
+          - Light
+          - Appropriate
+          - Heavy
+          - Too Heavy
+        required: true
+      - id: 16
+        name: materials_quality
+        label: Course Materials Quality
+        hint: Rate the quality of materials
+        type: select_one
+        options:
+          - 5 - Excellent
+          - 4 - Good
+          - 3 - Average
+          - 2 - Poor
+          - 1 - Very Poor
+        required: true
+      - id: 17
+        name: lab_sessions_rating
+        label: Lab Sessions Rating
+        hint: Rate the lab sessions
+        type: select_one
+        options:
+          - 5 - Excellent
+          - 4 - Good
+          - 3 - Average
+          - 2 - Poor
+          - 1 - Very Poor
+          - Not Applicable
+        required: false
+      - id: 18
+        name: programming_languages_learned
+        label: Programming Languages Learned
+        hint: Select languages covered in course
+        type: select_multiple
+        options:
+          - Python
+          - Java
+          - C Plus Plus
+          - JavaScript
+          - C Sharp
+          - Ruby
+          - Go
+          - Rust
+          - Swift
+          - Other
+        required: false
+      - id: 19
+        name: skills_gained
+        label: Skills Gained
+        hint: What skills have you gained
+        type: select_multiple
+        options:
+          - Programming
+          - Problem Solving
+          - Algorithm Design
+          - Data Structures
+          - Database Management
+          - Web Development
+          - Mobile Development
+          - Machine Learning
+          - Version Control
+          - Debugging
+        required: true
+      - id: 20
+        name: course_pace
+        label: Course Pace
+        hint: How was the pace of the course
+        type: select_one
+        options:
+          - Too Slow
+          - Slow
+          - Just Right
+          - Fast
+          - Too Fast
+        required: true
+      - id: 21
+        name: would_recommend
+        label: Would Recommend Course
+        hint: Would you recommend this course
+        type: select_one
+        options:
+          - Definitely Yes
+          - Probably Yes
+          - Neutral
+          - Probably No
+          - Definitely No
+        required: true
+      - id: 22
+        name: best_aspect
+        label: Best Aspect of Course
+        hint: What was the best part
+        type: text
+        options: []
+        required: false
+      - id: 23
+        name: areas_for_improvement
+        label: Areas for Improvement
+        hint: What could be improved
+        type: text
+        options: []
+        required: false
+      - id: 24
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other feedback
+        type: text
+        options: []
+        required: false

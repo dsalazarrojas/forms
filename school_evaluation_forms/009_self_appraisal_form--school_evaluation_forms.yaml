@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Self Appraisal Form
+    pages:
+    - id: 1
+      name: self_appraisal_form
+      label: self_appraisal_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: self_appraisal_form_section_1
+      label: self_appraisal_form_section_1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: employee_name
+      label: employee_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: employee_title
+      label: employee_title
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: performance_level
+      label: performance_level
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: false
+    - id: 6
+      name: evaluation_date
+      label: evaluation_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: self_appraisal_form_section_2
+      label: self_appraisal_form_section_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: areas_of_growth
+      label: areas_of_growth
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: action_items
+      label: action_items
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: next_steps
+      label: next_steps
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: final_rating
+      label: final_rating
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 12
+      name: final_comment
+      label: final_comment
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,131 @@
+inputSchema:
+  type: object
+  properties:
+    title: Service Status Record
+    pages:
+    - id: 1
+      name: service_status_record_form
+      label: Service Status Record Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: status
+      label: status
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: request_number
+      label: request_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: service_request_date
+      label: service_request_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: service_request_time
+      label: service_request_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: service_request_details
+      label: service_request_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: service_request_status
+      label: service_request_status
+      hint: null
+      type: select_multiple
+      options:
+      - Open
+      - In Progress
+      - Closed
+      - Cancelled
+      required: false
+    - id: 9
+      name: service_request_comments
+      label: service_request_comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - John
+      - Jane
+      required: true
+    - id: 11
+      name: follow_up_date
+      label: follow_up_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: follow_up_time
+      label: follow_up_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: follow_up_details
+      label: follow_up_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: follow_up_status
+      label: follow_up_status
+      hint: null
+      type: select_multiple
+      options:
+      - Open
+      - In Progress
+      - Closed
+      - Cancelled
+      required: false
+    - id: 15
+      name: follow_up_comments
+      label: follow_up_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: updated_by
+      label: updated_by
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - John
+      - Jane
+      required: true

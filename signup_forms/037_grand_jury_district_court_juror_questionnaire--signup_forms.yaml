@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: grand_jury_district_court_juror_questionnaire
+    pages:
+    - id: 1
+      name: juror_information
+      label: Juror Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: juror_duty
+      label: Juror Duty
+      hint: null
+      type: select_one
+      options:
+      - '{''option_1'': ''A''}'
+      - '{''option_2'': ''B''}'
+      - '{''option_3'': ''C''}'
+      - '{''option_4'': ''D''}'
+      required: false
+    - id: 7
+      name: juror_duty_other
+      label: Other (please specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: juror_duty_other_text
+      label: Juror Duty Other
+      hint: null
+      type: text
+      options: []
+      required: false

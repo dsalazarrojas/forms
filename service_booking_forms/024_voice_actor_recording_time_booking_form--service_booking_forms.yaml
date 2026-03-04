@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Voice Actor Recording Time Booking Form
+    pages:
+    - id: 1
+      name: session_details
+      label: Session Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: session_time
+      label: Session Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: session_duration
+      label: Session Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: project_details
+      label: Project Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: script_reference
+      label: Script Reference
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: voice_sessions
+      label: Voice Sessions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: recording_location
+      label: Recording Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: recording_equipment
+      label: Recording Equipment
+      hint: null
+      type: select_one
+      options:
+      - Studios
+      - Home Studio
+      - Mobile Recording
+      required: false
+    - id: 9
+      name: recording_type
+      label: Recording Type
+      hint: null
+      type: select_one
+      options:
+      - Live Recording
+      - Voiceover Recording
+      - Audiobook Recording
+      required: false
+    - id: 10
+      name: booking_date
+      label: Booking Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: booking_time
+      label: Booking Time
+      hint: null
+      type: time
+      options: []
+      required: false

@@ -1,0 +1,226 @@
+inputSchema:
+  type: object
+  properties:
+    title: Child Adoption Application Form
+    pages:
+    - id: 1
+      name: application_intro
+      label: -- Child Adoption Application Form --
+      hint: Apply to become a foster or adoptive parent
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: applicant_last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: email_address
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: marital_status
+      label: Marital status
+      hint: null
+      type: select_one
+      options:
+      - Single
+      - Married
+      - Divorced
+      - Widowed
+      - Domestic partnership
+      required: true
+    - id: 8
+      name: spouse_name
+      label: Spouse or partner name (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: children_count
+      label: Number of children currently in household
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: children_ages
+      label: Ages of current children
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: preferred_age
+      label: Preferred age of child to adopt
+      hint: null
+      type: select_one
+      options:
+      - Infant
+      - Toddler (1-3)
+      - Preschool (4-5)
+      - School age (6-12)
+      - Teenager (13-18)
+      - Flexible
+      required: true
+    - id: 12
+      name: gender_preference
+      label: Gender preference
+      hint: null
+      type: select_one
+      options:
+      - Boy
+      - Girl
+      - No preference
+      required: true
+    - id: 13
+      name: special_needs_openness
+      label: Openness to children with special needs
+      hint: null
+      type: select_one
+      options:
+      - Yes, very open
+      - Somewhat open
+      - Limited openness
+      - false
+      required: true
+    - id: 14
+      name: sibling_placement
+      label: Willing to take sibling groups
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Possibly
+      required: true
+    - id: 15
+      name: home_ownership
+      label: Home ownership status
+      hint: null
+      type: select_one
+      options:
+      - Own home
+      - Rent/lease
+      - Live with family
+      - Other
+      required: true
+    - id: 16
+      name: home_bedrooms
+      label: Number of bedrooms for child
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: employment_status
+      label: Employment status
+      hint: null
+      type: select_one
+      options:
+      - Full-time employed
+      - Part-time employed
+      - Self-employed
+      - Stay-at-home parent
+      - Retired
+      - Other
+      required: true
+    - id: 18
+      name: household_income
+      label: Approximate household income
+      hint: null
+      type: select_one
+      options:
+      - Under 25000
+      - 25000-50000
+      - 50000-100000
+      - 100000-150000
+      - 150000-200000
+      - Over 200000
+      - Prefer not to answer
+      required: false
+    - id: 19
+      name: financial_stability
+      label: Financial stability assessment
+      hint: null
+      type: select_one
+      options:
+      - Very stable
+      - Stable
+      - Somewhat stable
+      - Unstable
+      required: true
+    - id: 20
+      name: references_provided
+      label: Personal and professional references
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: motivation
+      label: Why do you want to adopt?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: parenting_experience
+      label: Previous parenting or caregiving experience
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: challenges_commitment
+      label: How will you handle challenges and support the child?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: background_check_consent
+      label: I consent to background check and home study
+      hint: null
+      type: select_one
+      options:
+      - I consent
+      - I do not consent
+      required: true
+    - id: 25
+      name: truth_declaration
+      label: I declare all information is truthful and accurate
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true

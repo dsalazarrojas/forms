@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Complaint Form
+    pages:
+    - id: 1
+      name: customer_complaint_form_1
+      label: What is your complaint about?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_complaint_form_2
+      label: How long have you had to wait?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: customer_complaint_form_3
+      label: What is the estimated time of the incident?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: customer_complaint_form_4
+      label: What was the resolution outcome?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: customer_complaint_form_5
+      label: Was the solution satisfactory?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: customer_complaint_form_6
+      label: How satisfied were you with the solution?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: customer_complaint_form_7
+      label: How satisfied were you with the service?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: customer_complaint_form_8
+      label: What was the problem with the solution?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: customer_complaint_form_9
+      label: Would you like to provide any additional comments?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: customer_complaint_form_10
+      label: Do you have any further complaints?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: customer_complaint_form_11
+      label: What is the name of your service provider?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: customer_complaint_form_12
+      label: What is the contact information for the service provider?
+      hint: null
+      type: text
+      options: []
+      required: false

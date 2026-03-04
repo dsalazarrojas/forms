@@ -1,0 +1,217 @@
+inputSchema:
+  type: object
+  properties:
+    title: Astrology Chart
+    pages:
+    - id: 1
+      name: client_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: client_phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: Your birth date
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: birth_time
+      label: Time of Birth
+      hint: What time were you born?
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: birth_location_city
+      label: Birth City
+      hint: City where you were born
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: birth_location_state
+      label: Birth State/Province
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: birth_location_country
+      label: Birth Country
+      hint: Country where you were born
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: birth_latitude
+      label: Birth Latitude (if known)
+      hint: Geographic latitude
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: birth_longitude
+      label: Birth Longitude (if known)
+      hint: Geographic longitude
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: sun_sign
+      label: Sun Sign (calculated or known)
+      hint: Zodiac sun sign
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: moon_sign
+      label: Moon Sign (if known)
+      hint: Zodiac moon sign
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: rising_sign
+      label: Rising Sign or Ascendant (if known)
+      hint: Zodiac rising sign
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: chart_type_requested
+      label: Type of Chart Requested
+      hint: Which chart do you need?
+      type: select_one
+      options:
+      - Birth Chart (Natal Chart)
+      - Transit Chart
+      - Progressed Chart
+      - Synastry Chart (Relationship)
+      - Composite Chart
+      - Solar Return
+      - Lunar Return
+      - Other
+      required: true
+    - id: 16
+      name: chart_focus
+      label: Focus or Purpose of Chart
+      hint: What do you want to explore?
+      type: select_multiple
+      options:
+      - Career and Finances
+      - Love and Relationships
+      - Health and Wellness
+      - Life Purpose
+      - Personality Traits
+      - Challenges and Obstacles
+      - Spiritual Growth
+      - Current Transits
+      required: true
+    - id: 17
+      name: additional_person_name
+      label: Additional Person Name (for synastry)
+      hint: If comparing charts
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: additional_person_birthdate
+      label: Additional Person Birth Date
+      hint: For relationship comparison
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: consultation_type
+      label: Consultation Type
+      hint: What kind of reading?
+      type: select_one
+      options:
+      - Chart Interpretation
+      - Telephone Consultation
+      - Email Consultation
+      - Video Reading
+      - In-Person Session
+      - Written Report
+      required: true
+    - id: 20
+      name: consultation_duration
+      label: Preferred Consultation Duration
+      hint: How long should reading be?
+      type: select_one
+      options:
+      - 30 minutes
+      - 45 minutes
+      - 60 minutes
+      - 90 minutes
+      - 2 hours
+      - Extended Report
+      required: true
+    - id: 21
+      name: prior_astrology_experience
+      label: Prior Experience with Astrology
+      hint: Familiar with astrology?
+      type: select_one
+      options:
+      - New to Astrology
+      - Some Knowledge
+      - Moderately Familiar
+      - Very Familiar
+      required: true
+    - id: 22
+      name: specific_questions
+      label: Specific Questions or Concerns
+      hint: What would you like to know?
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: preferred_reading_date
+      label: Preferred Reading Date
+      hint: When would you like the reading?
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay?
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Bank Transfer
+      - Cash
+      required: true
+    - id: 25
+      name: chart_request_date
+      label: Request Date
+      hint: Date chart was requested
+      type: date
+      options: []
+      required: true

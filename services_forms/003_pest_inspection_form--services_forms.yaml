@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pest Inspection Form
+    pages:
+    - id: 1
+      name: first_page
+      label: first_page
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: pest_type
+      label: pest_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: first_page_3
+      label: treatment_area
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: first_page_4
+      label: date_visited
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: first_page_5
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: first_page_6
+      label: treatment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: first_page_7
+      label: treatment_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: first_page_8
+      label: first_page
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: first_page_9
+      label: contact_info_2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: first_page_10
+      label: pest_inspector
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: first_page_11
+      label: first_page_2
+      hint: null
+      type: text
+      options: []
+      required: false

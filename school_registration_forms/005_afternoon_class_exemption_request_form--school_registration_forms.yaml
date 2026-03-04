@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Afternoon Class Exemption Request Form
+    pages:
+    - id: 1
+      name: header
+      label: -- Exemption Request --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: Student name
+      hint: Full name of the student
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_id
+      label: Student ID number
+      hint: School identification number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: class_name
+      label: Class name
+      hint: Name of the afternoon class requested for exemption
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: exemption_reason
+      label: Reason for exemption
+      hint: Explain circumstances for requesting exemption
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: supporting_documents
+      label: Supporting documents description
+      hint: Describe documents attached or to be provided
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: parent_contact
+      label: Parent or guardian contact number
+      hint: Phone number for follow up
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: preferred_outcome
+      label: Preferred outcome
+      hint: e.g., excused absence, alternate assignment
+      type: select_one
+      options:
+      - Excused
+      - Alternate assignment
+      - Deferred decision
+      required: true
+    - id: 9
+      name: date_submitted
+      label: Date submitted
+      hint: Date of request submission
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: administrator_notes
+      label: Administrator notes
+      hint: For school use only
+      type: text
+      options: []
+      required: false

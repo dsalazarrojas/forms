@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Homeschool Co Op Registration Form
+    pages:
+    - id: 1
+      name: parent_info
+      label: parent_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_info
+      label: student_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: student_name
+      label: student_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: student_grade
+      label: student_grade
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: school_year
+      label: school_year
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''1st''}'
+      - '{''value'': ''2nd''}'
+      - '{''value'': ''3rd''}'
+      - '{''value'': ''4th''}'
+      - '{''value'': ''5th''}'
+      - '{''value'': ''6th''}'
+      - '{''value'': ''7th''}'
+      - '{''value'': ''8th''}'
+      - '{''value'': ''9th''}'
+      - '{''value'': ''10th''}'
+      - '{''value'': ''11th''}'
+      - '{''value'': ''12th''}'
+      required: false
+    - id: 6
+      name: co_op_name
+      label: co_op_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: co_op_address
+      label: co_op_address
+      hint: null
+      type: text
+      options: []
+      required: false

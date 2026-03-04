@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daycare Cleaning Checklist
+    pages:
+    - id: 1
+      name: daycare_facility_cleanliness_check
+      label: General Facility
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: bathroom_hyggiene
+      label: Bathroom Hygiene
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: kitchen_cleanliness
+      label: Kitchen Cleanliness
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: outdoor_space_cleanliness
+      label: Outdoor Space Cleanliness
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: laundry_facility_cleanliness
+      label: Laundry Facilities
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: toy_area_cleanliness
+      label: Toy Area
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: office_cleanliness
+      label: Office
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: dining_room_cleanliness
+      label: Dining Room
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: outdoor_play_area_cleanliness
+      label: Outdoor Play Area
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: storage_areas_cleanliness
+      label: Storage Areas
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

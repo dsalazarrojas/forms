@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Class Media Center Visit Schedule
+    pages:
+    - id: 1
+      name: teacher_info_header
+      label: -- Teacher Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: teacher_name
+      label: Teacher Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: teacher_email
+      label: Teacher Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: teacher_phone
+      label: Teacher Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: department
+      label: Department or Grade Level
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: class_info_header
+      label: -- Class Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: class_name
+      label: Class Name or Section
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: number_of_students
+      label: Number of Students in Class
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: grade_level
+      label: Grade Level
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: class_period
+      label: Class Period or Time Slot
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: visit_info_header
+      label: -- Visit Request Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: visit_purpose
+      label: Purpose of Media Center Visit
+      hint: null
+      type: select_one
+      options:
+      - Research project
+      - Book selection and checkout
+      - Library orientation
+      - Technology instruction
+      - Multimedia project work
+      - Author study
+      - Reading promotion
+      - Other educational activity
+      required: true
+    - id: 13
+      name: preferred_dates
+      label: Preferred Dates for Visit
+      hint: Provide several options
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: visit_frequency
+      label: Frequency of Visits Requested
+      hint: null
+      type: select_one
+      options:
+      - One-time visit
+      - Weekly
+      - Bi-weekly
+      - Monthly
+      - As needed
+      required: true
+    - id: 15
+      name: visit_duration
+      label: Expected Duration of Visit
+      hint: null
+      type: select_one
+      options:
+      - 30 minutes
+      - 45 minutes
+      - 1 hour
+      - 1.5 hours
+      - Longer - flexible
+      - Other
+      required: true
+    - id: 16
+      name: activity_header
+      label: -- Planned Activities --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: planned_activities
+      label: Planned Activities or Instruction Topics
+      hint: What will students be doing
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: material_needs
+      label: Specific Books or Materials Needed
+      hint: Titles, authors, subjects, or themes
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: technology_needs
+      label: Technology or Equipment Needed
+      hint: Computers, projector, etc.
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: special_requests
+      label: Special Requests or Librarian Support
+      hint: Library instruction, research guidance, etc.
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: student_accessibility
+      label: Any Special Needs or Accessibility Requirements
+      hint: For students in the class
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: additional_info_header
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: prior_visits
+      label: Have you visited the media center before with this class
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - First time this semester
+      required: false
+    - id: 24
+      name: additional_notes
+      label: Additional Notes or Comments
+      hint: null
+      type: text
+      options: []
+      required: false

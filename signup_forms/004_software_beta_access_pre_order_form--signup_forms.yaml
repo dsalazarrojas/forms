@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: software_beta_access_pre_order_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: software
+      label: Software
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: category
+      label: Category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: role
+      label: Role
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: beta_version
+      label: Beta Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: operating_system
+      label: Operating System
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Windows''}'
+      - '{''id'': 2, ''label'': ''macOS''}'
+      - '{''id'': 3, ''label'': ''Linux''}'
+      - '{''id'': 4, ''label'': ''Unknown''}'
+      required: false
+    - id: 11
+      name: operating_system_other
+      label: Other (Operating System)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: operating_system_details
+      label: Operating System Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: beta_access
+      label: Beta Access
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Early Access''}'
+      - '{''id'': 2, ''label'': ''Limited Access''}'
+      - '{''id'': 3, ''label'': ''Closed Beta''}'
+      - '{''id'': 4, ''label'': ''Public Access''}'
+      required: false
+    - id: 14
+      name: beta_access_details
+      label: Beta Access Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: agree_terms
+      label: I have read and agree to the Terms and Conditions
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false
+    - id: 17
+      name: agree_terms_details
+      label: Agree Terms and Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: comments_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: contact_number_details
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: beta_group
+      label: Join Beta Group
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false
+    - id: 21
+      name: beta_group_details
+      label: Beta Group
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: email_confirmation
+      label: Confirm Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 23
+      name: contact_number_confirmation
+      label: Confirm Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: beta_access_confirmation
+      label: Beta Access Confirmation
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false
+    - id: 25
+      name: comments_confirmation
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

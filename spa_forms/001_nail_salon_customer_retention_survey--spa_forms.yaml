@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nail Salon Customer Retention Survey
+    pages:
+    - id: 1
+      name: salon_id
+      label: salon_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: visit_date
+      label: visit date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: service_type
+      label: service type
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''Basic Manicure''}'
+      - '{''text'': ''Gel Manicure''}'
+      - '{''text'': ''Spa Day''}'
+      required: false
+    - id: 4
+      name: nail_technician
+      label: nail technician
+      hint: null
+      type: select_multiple
+      options:
+      - '{''text'': ''John''}'
+      - '{''text'': ''Jane''}'
+      - '{''text'': ''Jim''}'
+      required: false
+    - id: 5
+      name: satisfaction
+      label: satisfaction
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''Satisfied''}'
+      - '{''text'': ''Dissatisfied''}'
+      - '{''text'': ''N/A''}'
+      required: false
+    - id: 6
+      name: service_quality
+      label: service quality
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''Excellent''}'
+      - '{''text'': ''Good''}'
+      - '{''text'': ''Fair''}'
+      required: false
+    - id: 7
+      name: visit_habits
+      label: visit habits
+      hint: null
+      type: select_multiple
+      options:
+      - '{''text'': ''Regularly''}'
+      - '{''text'': ''Occasionally''}'
+      - '{''text'': ''Rarely''}'
+      required: false
+    - id: 8
+      name: feedback
+      label: feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: recommended
+      label: recommended
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': True}'
+      - '{''text'': False}'
+      - '{''text'': ''N/A''}'
+      required: false

@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: haulout_service_agreement
+    pages:
+    - id: 1
+      name: form_heading
+      label: Form Heading
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vessel_type
+      label: What Type of Vessel
+      hint: null
+      type: select_one
+      options:
+      - Boat
+      - Yacht
+      - Sailboat
+      - Ship
+      - Vessel
+      required: false
+    - id: 3
+      name: vessel_length
+      label: Vessel Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: vessel_draft
+      label: Draft
+      hint: null
+      type: select_multiple
+      options:
+      - Less than 10 feet
+      - 10-20 feet
+      - 20-30 feet
+      - 30-40 feet
+      - More than 40 feet
+      required: false
+    - id: 5
+      name: vessel_width
+      label: Vessel Width
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: vessel_beam
+      label: Vessel Beam
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: vessel_draft_displacement
+      label: Vessel Draft Displacement
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: haulout_location
+      label: Haulout Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: haulout_date
+      label: Haulout Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: haulout_time
+      label: Haulout Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: haulout_duration
+      label: Haulout Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: haulout_rate
+      label: Haulout Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: haulout_services
+      label: Haulout Services
+      hint: null
+      type: select_multiple
+      options:
+      - Haulout and Launching
+      - Haulout and Launching and Painting
+      - Haulout and Painting
+      - Haulout and Storage
+      - Haulout and Launching and Painting
+      required: false
+    - id: 14
+      name: haulout_comments
+      label: Haulout Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: contact_email
+      label: Contact E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: contact_address
+      label: Contact Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: additional_services
+      label: Additional Services
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: haulout_service_agreement
+      label: Haulout Service Agreement
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 21
+      name: vessel_status
+      label: Vessel Status
+      hint: null
+      type: select_one
+      options:
+      - In Haulout Process
+      - In Storage
+      - Under Contract
+      - Under Survey
+      - Out of Contract
+      required: false
+    - id: 22
+      name: haulout_status
+      label: Haulout Status
+      hint: null
+      type: select_one
+      options:
+      - In Progress
+      - Complete
+      - Pending
+      required: false
+    - id: 23
+      name: haulout_comments
+      label: Haulout Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: vessel_type_2
+      label: Vessel Type
+      hint: null
+      type: select_multiple
+      options:
+      - Boat
+      - Yacht
+      - Sailboat
+      - Ship
+      - Vessel
+      required: false
+    - id: 25
+      name: vessel_width_2
+      label: Vessel Width
+      hint: null
+      type: number
+      options: []
+      required: false

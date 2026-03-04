@@ -1,0 +1,30 @@
+inputSchema:
+  type: object
+  properties:
+    title: University Preferences Survey
+    pages:
+    - id: 1
+      name: choose_university_label
+      label: Choose University
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: reasons_choose_university_label
+      label: Reasons choose university
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: future_plans_label
+      label: Future plans
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,124 @@
+inputSchema:
+  type: object
+  properties:
+    title: Adoption Certificate
+    pages:
+    - id: 1
+      name: section_certificate_info
+      label: -- Certificate Issuance Information --
+      hint: For official agency use
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: certificate_number
+      label: Certificate Number
+      hint: Unique tracking ID
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_adoption_finalization
+      label: Date of Adoption Finalization
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: section_parent_details
+      label: -- Parent Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: adoptive_father_full_name
+      label: Adoptive Father Full Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: adoptive_mother_full_name
+      label: Adoptive Mother Full Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: home_address
+      label: Home Address
+      hint: Street, City, State, Zip
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: contact_phone_number
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: section_child_details
+      label: -- Child Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: childs_legal_name_post_adoption
+      label: Childs Legal Name Post-Adoption
+      hint: New legal name as per court order
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: childs_name_at_birth
+      label: Childs Name at Birth
+      hint: If different from above
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: childs_date_of_birth
+      label: Childs Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: place_of_birth
+      label: Place of Birth
+      hint: City and State/Country
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: section_authorization
+      label: -- Authorization --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: social_worker_name
+      label: Social Worker Name
+      hint: Official overseeing the case
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: agency_name
+      label: Agency Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: agency_seal_number
+      label: Agency Seal Number
+      hint: Registered seal ID
+      type: text
+      options: []
+      required: false

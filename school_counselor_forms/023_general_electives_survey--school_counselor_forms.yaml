@@ -1,0 +1,761 @@
+inputSchema:
+  type: object
+  properties:
+    title: General Electives Survey
+    pages:
+    - id: 1
+      name: general_electives_survey
+      label: General Electives Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: elective_1
+      label: elective_1
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Art''}'
+      - '{''value'': ''Music''}'
+      - '{''value'': ''Physical Education''}'
+      required: false
+    - id: 3
+      name: elective_2
+      label: elective_2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''English''}'
+      - '{''value'': ''French''}'
+      - '{''value'': ''History''}'
+      - '{''value'': ''Spanish''}'
+      required: false
+    - id: 4
+      name: elective_3
+      label: elective_3
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Drama''}'
+      - '{''value'': ''Science''}'
+      - '{''value'': ''Technology''}'
+      - '{''value'': ''Visual Arts''}'
+      required: false
+    - id: 5
+      name: elective_4
+      label: elective_4
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Band''}'
+      - '{''value'': ''Chorus''}'
+      - '{''value'': ''Orchestra''}'
+      - '{''value'': ''Sports''}'
+      required: false
+    - id: 6
+      name: elective_5
+      label: elective_5
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Physical Education''}'
+      - '{''value'': ''Dance''}'
+      - '{''value'': ''Music''}'
+      required: true
+    - id: 7
+      name: elective_6
+      label: elective_6
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Choir''}'
+      - '{''value'': ''Drama''}'
+      - '{''value'': ''Orchestra''}'
+      required: false
+    - id: 8
+      name: elective_7
+      label: elective_7
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Art''}'
+      - '{''value'': ''Band''}'
+      - '{''value'': ''Technology''}'
+      required: false
+    - id: 9
+      name: elective_8
+      label: elective_8
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''English''}'
+      - '{''value'': ''French''}'
+      - '{''value'': ''History''}'
+      required: false
+    - id: 10
+      name: elective_9
+      label: elective_9
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Science''}'
+      - '{''value'': ''Physical Education''}'
+      - '{''value'': ''Dance''}'
+      required: false
+    - id: 11
+      name: elective_10
+      label: elective_10
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Spanish''}'
+      - '{''value'': ''Music''}'
+      required: false
+    - id: 12
+      name: elective_11
+      label: elective_11
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Technology''}'
+      - '{''value'': ''Sports''}'
+      - '{''value'': ''Chorus''}'
+      required: false
+    - id: 13
+      name: elective_12
+      label: elective_12
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Band''}'
+      - '{''value'': ''Orchestra''}'
+      required: false
+    - id: 14
+      name: elective_13
+      label: elective_13
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Drama''}'
+      - '{''value'': ''Dance''}'
+      - '{''value'': ''Choir''}'
+      required: false
+    - id: 15
+      name: elective_14
+      label: elective_14
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''History''}'
+      - '{''value'': ''Physical Education''}'
+      required: false
+    - id: 16
+      name: elective_15
+      label: elective_15
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Visual Arts''}'
+      - '{''value'': ''English''}'
+      required: false
+    - id: 17
+      name: elective_16
+      label: elective_16
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Spanish''}'
+      - '{''value'': ''French''}'
+      - '{''value'': ''Physical Education''}'
+      required: false
+    - id: 18
+      name: elective_17
+      label: elective_17
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Physical Education''}'
+      - '{''value'': ''Dance''}'
+      required: false
+    - id: 19
+      name: elective_18
+      label: elective_18
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''English''}'
+      - '{''value'': ''History''}'
+      - '{''value'': ''Spanish''}'
+      required: false
+    - id: 20
+      name: elective_19
+      label: elective_19
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Science''}'
+      - '{''value'': ''Music''}'
+      required: false
+    - id: 21
+      name: elective_20
+      label: elective_20
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Physical Education''}'
+      - '{''value'': ''Dance''}'
+      - '{''value'': ''Band''}'
+      required: true
+    - id: 22
+      name: elective_21
+      label: elective_21
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Orchestra''}'
+      - '{''value'': ''Spanish''}'
+      required: false
+    - id: 23
+      name: elective_22
+      label: elective_22
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Chorus''}'
+      - '{''value'': ''Dance''}'
+      required: false
+    - id: 24
+      name: elective_23
+      label: elective_23
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: elective_24
+      label: elective_24
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Drama''}'
+      - '{''value'': ''English''}'
+      required: false
+    - id: 26
+      name: elective_25
+      label: elective_25
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Dance''}'
+      - '{''value'': ''Band''}'
+      - '{''value'': ''Chorus''}'
+      required: false
+    - id: 27
+      name: elective_26
+      label: elective_26
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Dance''}'
+      - '{''value'': ''English''}'
+      required: false
+    - id: 28
+      name: elective_27
+      label: elective_27
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 29
+      name: elective_28
+      label: elective_28
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Visual Arts''}'
+      - '{''value'': ''Orchestra''}'
+      required: false
+    - id: 30
+      name: elective_29
+      label: elective_29
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Dance''}'
+      - '{''value'': ''Chorus''}'
+      - '{''value'': ''English''}'
+      required: false
+    - id: 31
+      name: elective_30
+      label: elective_30
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Technology''}'
+      - '{''value'': ''Spanish''}'
+      required: false
+    - id: 32
+      name: elective_31
+      label: elective_31
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''English''}'
+      - '{''value'': ''Band''}'
+      - '{''value'': ''Visual Arts''}'
+      required: false
+    - id: 33
+      name: elective_32
+      label: elective_32
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''History''}'
+      - '{''value'': ''Dance''}'
+      required: false
+    - id: 34
+      name: elective_33
+      label: elective_33
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Spanish''}'
+      - '{''value'': ''Drama''}'
+      - '{''value'': ''Dance''}'
+      required: false
+    - id: 35
+      name: elective_34
+      label: elective_34
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Technology''}'
+      - '{''value'': ''Physical Education''}'
+      required: false
+    - id: 36
+      name: elective_35
+      label: elective_35
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''English''}'
+      - '{''value'': ''Chorus''}'
+      - '{''value'': ''Spanish''}'
+      required: false
+    - id: 37
+      name: elective_36
+      label: elective_36
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 38
+      name: elective_37
+      label: elective_37
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Physical Education''}'
+      - '{''value'': ''Drama''}'
+      required: false
+    - id: 39
+      name: elective_38
+      label: elective_38
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''History''}'
+      - '{''value'': ''Orchestra''}'
+      required: false
+    - id: 40
+      name: elective_39
+      label: elective_39
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Dance''}'
+      - '{''value'': ''Spanish''}'
+      - '{''value'': ''Technology''}'
+      required: false
+    - id: 41
+      name: elective_40
+      label: elective_40
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Dance''}'
+      - '{''value'': ''English''}'
+      required: false
+    - id: 42
+      name: elective_41
+      label: elective_41
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Band''}'
+      - '{''value'': ''English''}'
+      - '{''value'': ''Physical Education''}'
+      required: false
+    - id: 43
+      name: elective_42
+      label: elective_42
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Technology''}'
+      - '{''value'': ''Drama''}'
+      required: false
+    - id: 44
+      name: elective_43
+      label: elective_43
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 45
+      name: elective_44
+      label: elective_44
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''History''}'
+      - '{''value'': ''Orchestra''}'
+      required: false
+    - id: 46
+      name: elective_45
+      label: elective_45
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Visual Arts''}'
+      - '{''value'': ''Chorus''}'
+      - '{''value'': ''Physical Education''}'
+      required: false
+    - id: 47
+      name: elective_46
+      label: elective_46
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''English''}'
+      - '{''value'': ''Dance''}'
+      required: false
+    - id: 48
+      name: elective_47
+      label: elective_47
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Dance''}'
+      - '{''value'': ''Band''}'
+      - '{''value'': ''Technology''}'
+      required: false
+    - id: 49
+      name: elective_48
+      label: elective_48
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 50
+      name: elective_49
+      label: elective_49
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Spanish''}'
+      - '{''value'': ''Orchestra''}'
+      required: false
+    - id: 51
+      name: elective_50
+      label: elective_50
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Dance''}'
+      - '{''value'': ''Chorus''}'
+      - '{''value'': ''Technology''}'
+      required: false
+    - id: 52
+      name: elective_51
+      label: elective_51
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Technology''}'
+      - '{''value'': ''Spanish''}'
+      required: false
+    - id: 53
+      name: elective_52
+      label: elective_52
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''English''}'
+      - '{''value'': ''Visual Arts''}'
+      - '{''value'': ''Physical Education''}'
+      required: false
+    - id: 54
+      name: elective_53
+      label: elective_53
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Spanish''}'
+      - '{''value'': ''English''}'
+      required: false
+    - id: 55
+      name: elective_54
+      label: elective_54
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 56
+      name: elective_55
+      label: elective_55
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''History''}'
+      - '{''value'': ''Drama''}'
+      - '{''value'': ''Technology''}'
+      required: false
+    - id: 57
+      name: elective_56
+      label: elective_56
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Visual Arts''}'
+      - '{''value'': ''Physical Education''}'
+      required: false
+    - id: 58
+      name: elective_57
+      label: elective_57
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Physical Education''}'
+      - '{''value'': ''English''}'
+      - '{''value'': ''Dance''}'
+      required: false
+    - id: 59
+      name: elective_58
+      label: elective_58
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Chorus''}'
+      - '{''value'': ''Spanish''}'
+      required: false
+    - id: 60
+      name: elective_59
+      label: elective_59
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 61
+      name: elective_60
+      label: elective_60
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Technology''}'
+      - '{''value'': ''Orchestra''}'
+      required: false
+    - id: 62
+      name: elective_61
+      label: elective_61
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Spanish''}'
+      - '{''value'': ''English''}'
+      - '{''value'': ''History''}'
+      required: false
+    - id: 63
+      name: elective_62
+      label: elective_62
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Physical Education''}'
+      - '{''value'': ''Drama''}'
+      required: false
+    - id: 64
+      name: elective_63
+      label: elective_63
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Dance''}'
+      - '{''value'': ''Visual Arts''}'
+      - '{''value'': ''Chorus''}'
+      required: false
+    - id: 65
+      name: elective_64
+      label: elective_64
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''History''}'
+      - '{''value'': ''Orchestra''}'
+      required: false
+    - id: 66
+      name: elective_65
+      label: elective_65
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Technology''}'
+      - '{''value'': ''Physical Education''}'
+      - '{''value'': ''English''}'
+      required: false
+    - id: 67
+      name: elective_66
+      label: elective_66
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Visual Arts''}'
+      - '{''value'': ''Band''}'
+      required: false
+    - id: 68
+      name: elective_67
+      label: elective_67
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Spanish''}'
+      - '{''value'': ''English''}'
+      - '{''value'': ''Dance''}'
+      required: false
+    - id: 69
+      name: elective_68
+      label: elective_68
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''English''}'
+      - '{''value'': ''Chorus''}'
+      required: false
+    - id: 70
+      name: elective_69
+      label: elective_69
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 71
+      name: elective_70
+      label: elective_70
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Spanish''}'
+      - '{''value'': ''Orchestra''}'
+      required: false
+    - id: 72
+      name: elective_71
+      label: elective_71
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Dance''}'
+      - '{''value'': ''Band''}'
+      - '{''value'': ''Visual Arts''}'
+      required: false
+    - id: 73
+      name: elective_72
+      label: elective_72
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''History''}'
+      - '{''value'': ''Spanish''}'
+      required: false
+    - id: 74
+      name: elective_73
+      label: elective_73
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''English''}'
+      - '{''value'': ''Technology''}'
+      required: false
+    - id: 75
+      name: elective_74
+      label: elective_74
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Visual Arts''}'
+      - '{''value'': ''Drama''}'
+      - '{''value'': ''Chorus''}'
+      required: false
+    - id: 76
+      name: elective_75
+      label: elective_75
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 77
+      name: elective_76
+      label: elective_76
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Spanish''}'
+      - '{''value'': ''English''}'
+      required: false
+    - id: 78
+      name: elective_77
+      label: elective_77
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''English''}'
+      - '{''value'': ''Orchestra''}'
+      - '{''value'': ''History''}'
+      required: false
+    - id: 79
+      name: elective_78
+      label: elective_78
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''English''}'
+      - '{''value'': ''Dance''}'
+      required: false
+    - id: 80
+      name: elective_79
+      label: elective_79
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Technology''}'
+      - '{''value'': ''Chorus''}'
+      - '{''value'': ''Drama''}'
+      required: false

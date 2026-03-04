@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: RBT Fidelity Checklist
+    pages:
+    - id: 1
+      name: service_name
+      label: Service Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rbt_name
+      label: rbt_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_service
+      label: date_of_service
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time_of_service
+      label: time_of_service
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: client_name
+      label: client_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: rbt_fidelity
+      label: rbt_fidelity
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: rbt_fidelity_score
+      label: rbt_fidelity_score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: rbt_fidelity_comments
+      label: rbt_fidelity_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: service_notes
+      label: service_notes
+      hint: null
+      type: text
+      options: []
+      required: false

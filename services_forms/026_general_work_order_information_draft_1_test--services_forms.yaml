@@ -1,0 +1,133 @@
+inputSchema:
+  type: object
+  properties:
+    title: prophets pracy general_work_order_information_draft_1_test
+    pages:
+    - id: 1
+      name: first_name
+      label: first name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: job_title
+      label: job title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: department
+      label: department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: job_number
+      label: job number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: equipment
+      label: equipment
+      hint: null
+      type: select_one
+      options:
+      - crane
+      - excavator
+      - bobcat
+      - skid steer
+      - telehandler
+      - telehandler 2
+      required: true
+    - id: 9
+      name: job_start_date
+      label: job start date
+      hint: mm/dd/yyyy
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: job_start_time
+      label: job start time
+      hint: "hh:mm AM/PM"
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: job_end_date
+      label: job end date
+      hint: mm/dd/yyyy
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: job_end_time
+      label: job end time
+      hint: "hh:mm AM/PM"
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: segment
+      label: segment
+      hint: null
+      type: select_multiple
+      options:
+      - segment 1
+      - segment 2
+      - segment 3
+      required: true
+    - id: 14
+      name: segment_1
+      label: segment 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: segment_2
+      label: segment 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: segment_3
+      label: segment 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false

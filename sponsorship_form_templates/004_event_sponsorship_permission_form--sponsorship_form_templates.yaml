@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: event_sponsorship_permission_form
+    pages:
+    - id: 1
+      name: event_sponsorship_permission_form_page_1
+      label: Event Sponsorship Permission Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_sponsorship_permission_form_page_2
+      label: Sponsor Details
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Sponsor A''}'
+      - '{''id'': 2, ''label'': ''Sponsor B''}'
+      - '{''id'': 3, ''label'': ''Sponsor C''}'
+      required: true
+    - id: 3
+      name: event_sponsorship_permission_form_page_3
+      label: Sponsorship Agreement
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: event_sponsorship_permission_form_page_4
+      label: Sponsorship Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Platinum''}'
+      - '{''id'': 2, ''label'': ''Gold''}'
+      - '{''id'': 3, ''label'': ''Silver''}'
+      required: false
+    - id: 5
+      name: event_sponsorship_permission_form_page_5
+      label: event_sponsorship_permission_form_page_5
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: event_sponsorship_permission_form_page_6
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: event_sponsorship_permission_form_page_7
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: event_sponsorship_permission_form_page_8
+      label: event_sponsorship_permission_form_page_8
+      hint: null
+      type: text
+      options: []
+      required: false

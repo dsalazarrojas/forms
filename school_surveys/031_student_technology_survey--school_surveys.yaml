@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Technology Survey
+    pages:
+    - id: 1
+      name: uses_technology_at_home
+      label: Uses Technology At Home
+      hint: null
+      type: select_multiple
+      options:
+      - Laptop/Desktop
+      - Mobile
+      - Tablet
+      - Other
+      required: false
+    - id: 2
+      name: favorite_website
+      label: Favorite Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: favorite_social_media
+      label: Favorite Social Media
+      hint: null
+      type: select_one
+      options:
+      - Facebook
+      - Instagram
+      - Snapchat
+      - TikTok
+      - Twitter
+      - Other
+      required: false
+    - id: 4
+      name: technology_used_for_learning
+      label: Technology Used For Learning
+      hint: null
+      type: select_multiple
+      options:
+      - Google Drive
+      - Online Quizzes
+      - Educational Videos
+      - Online Assignments
+      - Other
+      required: false
+    - id: 5
+      name: technology_used_for_leisure
+      label: Technology Used For Leisure
+      hint: null
+      type: select_multiple
+      options:
+      - YouTube
+      - Netflix
+      - Music Streaming
+      - Other
+      required: false
+    - id: 6
+      name: how_many_hours_per_day_spent_on_devices
+      label: How Many Hours Per Day Spent On Devices
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: favorite_device
+      label: Favorite Device
+      hint: null
+      type: select_one
+      options:
+      - Smartphone
+      - Laptop
+      - Tablet
+      - Other
+      required: false
+    - id: 8
+      name: technology_used_for_homework
+      label: Technology Used For Homework
+      hint: null
+      type: select_multiple
+      options:
+      - Google Drive
+      - Microsoft Word
+      - Online Quizzes
+      - Other
+      required: false
+    - id: 9
+      name: technology_used_for_classwork
+      label: Technology Used For Classwork
+      hint: null
+      type: select_multiple
+      options:
+      - Google Drive
+      - Online Quizzes
+      - Educational Videos
+      - Other
+      required: false
+    - id: 10
+      name: favorite_device_for_classwork
+      label: Favorite Device For Classwork
+      hint: null
+      type: select_one
+      options:
+      - Smartphone
+      - Laptop
+      - Tablet
+      - Other
+      required: false

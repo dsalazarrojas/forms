@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: Scholarship Claim Form
+    pages:
+    - id: 1
+      name: student_name
+      label: Enter Student Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: course_enrolled
+      label: Course Enrolled In
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_id_number
+      label: Student ID Number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: program_name
+      label: Program Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: semester_enrolled
+      label: Semester Enrolled In
+      hint: null
+      type: select_one
+      options:
+      - Fall
+      - Spring
+      required: true
+    - id: 6
+      name: award_year
+      label: Award Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: award_amount
+      label: Award Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: award_currency
+      label: Award Currency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: award_date
+      label: Award Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: award_recipient_name
+      label: Award Recipient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: institution_name
+      label: Institution Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: department_name
+      label: Department Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: award_type
+      label: Award Type
+      hint: null
+      type: select_one
+      options:
+      - Type A
+      - Type B
+      - Type C
+      required: true
+    - id: 14
+      name: award_description
+      label: Award Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: claim_status
+      label: Claim Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 16
+      name: claim_date
+      label: Claim Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: reason_for_ineligibility
+      label: Reason for Ineligibility
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: uploaded_documents
+      label: Uploaded Documents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: uploaded_files
+      label: Uploaded Files
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: uploaded_images
+      label: Uploaded Images
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: uploaded_videos
+      label: Uploaded Videos
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: uploaded_screenshots
+      label: Uploaded Screenshots
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: uploaded_audio
+      label: Uploaded Audio
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: true

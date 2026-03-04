@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vape Support Network Registration
+    pages:
+    - id: 1
+      name: participant_info
+      label: Participant Information
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: support_needs
+      label: Support Needs
+      hint: What are your support needs?
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: location
+      label: Location
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Home''}'
+      - '{''label'': ''School''}'
+      - '{''label'': ''Work''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_zone
+      label: Time Zone
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''EST''}'
+      - '{''label'': ''CST''}'
+      - '{''label'': ''MST''}'
+      - '{''label'': ''PST''}'
+      required: false
+    - id: 8
+      name: how_did_you_hear
+      label: How did you hear about us?
+      hint: null
+      type: text
+      options: []
+      required: false

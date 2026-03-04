@@ -1,0 +1,70 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Handbag Sewing Interest Survey
+    pages:
+    - id: 1
+      name: user_details
+      label: User Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: workshop_frequency
+      label: What is your workshop frequency?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Once a month''}'
+      - '{''id'': 2, ''label'': ''2-3 times a month''}'
+      - '{''id'': 3, ''label'': ''Weekly''}'
+      - '{''id'': 4, ''label'': ''Daily''}'
+      required: false
+    - id: 3
+      name: preferred_techniques
+      label: What techniques do you want to learn?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''handbag design''}'
+      - '{''id'': 2, ''label'': ''pattern making''}'
+      - '{''id'': 3, ''label'': ''bag construction''}'
+      - '{''id'': 4, ''label'': ''embellishment''}'
+      - '{''id'': 5, ''label'': ''pattern alteration''}'
+      required: false
+    - id: 4
+      name: schedule_preference
+      label: When do you prefer to schedule your classes?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Morning''}'
+      - '{''id'': 2, ''label'': ''Afternoon''}'
+      - '{''id'': 3, ''label'': ''Evening''}'
+      required: false
+    - id: 5
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

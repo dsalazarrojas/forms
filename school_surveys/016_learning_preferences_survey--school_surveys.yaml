@@ -1,0 +1,247 @@
+inputSchema:
+  type: object
+  properties:
+    title: Learning Preferences Survey
+    pages:
+    - id: 1
+      name: general_preferences
+      label: General Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: communication
+      label: Communication
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''In-person'', ''value'': ''in-person''}'
+      - '{''id'': 2, ''label'': ''Online'', ''value'': ''online''}'
+      required: false
+    - id: 3
+      name: time_management
+      label: Time Management
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: feedback
+      label: Feedback
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Positive'', ''value'': ''positive''}'
+      - '{''id'': 2, ''label'': ''Negative'', ''value'': ''negative''}'
+      required: false
+    - id: 5
+      name: learning_styles
+      label: Learning Styles
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Hands-on'', ''value'': ''hands-on''}'
+      - '{''id'': 2, ''label'': ''Lecture'', ''value'': ''lecture''}'
+      - '{''id'': 3, ''label'': ''Reading'', ''value'': ''reading''}'
+      required: false
+    - id: 6
+      name: task_completion
+      label: Task Completion
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Complete tasks as soon as possible'', ''value'':
+        ''task-completion''}'
+      - '{''id'': 2, ''label'': ''Break tasks down into smaller tasks'', ''value'':
+        ''task-breakdown''}'
+      required: false
+    - id: 7
+      name: collaboration
+      label: Collaboration
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Prefer to work alone'', ''value'': ''individual''}'
+      - '{''id'': 2, ''label'': ''Prefer to work with others'', ''value'': ''team''}'
+      required: false
+    - id: 8
+      name: learning_speed
+      label: Learning Speed
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Fast'', ''value'': ''fast''}'
+      - '{''id'': 2, ''label'': ''Average'', ''value'': ''average''}'
+      - '{''id'': 3, ''label'': ''Slow'', ''value'': ''slow''}'
+      required: false
+    - id: 9
+      name: learning_frequency
+      label: Learning Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Daily'', ''value'': ''daily''}'
+      - '{''id'': 2, ''label'': ''Weekly'', ''value'': ''weekly''}'
+      - '{''id'': 3, ''label'': ''Monthly'', ''value'': ''monthly''}'
+      - '{''id'': 4, ''label'': ''Quarterly'', ''value'': ''quarterly''}'
+      - '{''id'': 5, ''label'': ''Periodically'', ''value'': ''periodic''}'
+      required: false
+    - id: 10
+      name: learning_frequency_2
+      label: Learning Frequency 2
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Daily'', ''value'': ''daily''}'
+      - '{''id'': 2, ''label'': ''Weekly'', ''value'': ''weekly''}'
+      - '{''id'': 3, ''label'': ''Monthly'', ''value'': ''monthly''}'
+      required: false
+    - id: 11
+      name: communication_method
+      label: Communication Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''In-person'', ''value'': ''in-person''}'
+      - '{''id'': 2, ''label'': ''Online'', ''value'': ''online''}'
+      required: false
+    - id: 12
+      name: communication_type
+      label: Communication Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Synchronous'', ''value'': ''synchronous''}'
+      - '{''id'': 2, ''label'': ''Asynchronous'', ''value'': ''asynchronous''}'
+      required: false
+    - id: 13
+      name: time_preference
+      label: Time Preference
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Morning'', ''value'': ''morning''}'
+      - '{''id'': 2, ''label'': ''Afternoon'', ''value'': ''afternoon''}'
+      - '{''id'': 3, ''label'': ''Evening'', ''value'': ''evening''}'
+      required: false
+    - id: 14
+      name: time_preference_2
+      label: Time Preference 2
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Morning'', ''value'': ''morning''}'
+      - '{''id'': 2, ''label'': ''Afternoon'', ''value'': ''afternoon''}'
+      - '{''id'': 3, ''label'': ''Evening'', ''value'': ''evening''}'
+      required: false
+    - id: 15
+      name: time_preference_3
+      label: Time Preference 3
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Morning'', ''value'': ''morning''}'
+      - '{''id'': 2, ''label'': ''Afternoon'', ''value'': ''afternoon''}'
+      required: false
+    - id: 16
+      name: feedback_method
+      label: Feedback Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Email'', ''value'': ''email''}'
+      - '{''id'': 2, ''label'': ''Phone'', ''value'': ''phone''}'
+      required: false
+    - id: 17
+      name: feedback_frequency
+      label: Feedback Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Daily'', ''value'': ''daily''}'
+      - '{''id'': 2, ''label'': ''Weekly'', ''value'': ''weekly''}'
+      - '{''id'': 3, ''label'': ''Monthly'', ''value'': ''monthly''}'
+      required: false
+    - id: 18
+      name: communication_preference
+      label: Communication Preference
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''In-person'', ''value'': ''in-person''}'
+      - '{''id'': 2, ''label'': ''Online'', ''value'': ''online''}'
+      required: false
+    - id: 19
+      name: collaboration_method
+      label: Collaboration Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''In-person'', ''value'': ''in-person''}'
+      - '{''id'': 2, ''label'': ''Online'', ''value'': ''online''}'
+      required: false
+    - id: 20
+      name: collaboration_type
+      label: Collaboration Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Synchronous'', ''value'': ''synchronous''}'
+      - '{''id'': 2, ''label'': ''Asynchronous'', ''value'': ''asynchronous''}'
+      required: false
+    - id: 21
+      name: time_management_2
+      label: Time Management 2
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Fast'', ''value'': ''fast''}'
+      - Other
+      required: false
+    - id: 22
+      name: general_preferences_2
+      label: General Preferences 2
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Synchronous'', ''value'': ''synchronous''}'
+      - '{''id'': 2, ''label'': ''Asynchronous'', ''value'': ''asynchronous''}'
+      required: false
+    - id: 23
+      name: collaboration_2
+      label: Collaboration 2
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''In-person'', ''value'': ''in-person''}'
+      - '{''id'': 2, ''label'': ''Online'', ''value'': ''online''}'
+      required: false
+    - id: 24
+      name: time_management
+      label: Time Management
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Fast'', ''value'': ''fast''}'
+      - '{''id'': 2, ''label'': ''Average'', ''value'': ''average''}'
+      - '{''id'': 3, ''label'': ''Slow'', ''value'': ''slow''}'
+      required: false
+    - id: 25
+      name: collaboration_3
+      label: Collaboration 3
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''In-person'', ''value'': ''in-person''}'
+      - '{''id'': 2, ''label'': ''Online'', ''value'': ''online''}'
+      required: false
+    - id: 26
+      name: learning_preferences_2
+      label: Learning Preferences 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

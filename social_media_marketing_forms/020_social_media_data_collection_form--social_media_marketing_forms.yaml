@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Social Media Data Collection Form
+    pages:
+    - id: 1
+      name: social_media_platform
+      label: Social Media Platform
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: platform_url
+      label: Platform URL
+      hint: Enter a URL for the social media platform
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: account_handles
+      label: Account Handles
+      hint: Enter a comma-separated list of handles.reported in the format of username1,username2,etc.
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: follower_count
+      label: Follower Count
+      hint: Enter the number of followers
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: account_purpose
+      label: Account Purpose
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: account_type
+      label: Account Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: account_owners
+      label: Account Owners
+      hint: List all account owners separated by commas
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: additional_info
+      label: Additional Info
+      hint: Enter any additional information you have about this form
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: social_media_data_collection_form_submit
+      label: Submit
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: Your email address (used for follow-up)
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone_number
+      label: Phone Number
+      hint: Your phone number
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,97 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Psa Form
+    pages:
+    - id: 1
+      name: form_submission
+      label: Form Submission
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 2
+      name: media_declaration
+      label: Media Declaration
+      hint: Please declare media that will be used by the swim academy.
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: terms_and_conditions
+      label: Terms and Conditions
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''agree'', ''label'': ''I agree to the terms and conditions''}'
+      - '{''id'': 2, ''name'': ''disagree'', ''label'': ''I disagree''}'
+      required: false
+    - id: 4
+      name: parent_agreement
+      label: Parent Agreement
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''agree'', ''label'': ''I agree''}'
+      - '{''id'': 2, ''name'': ''disagree'', ''label'': ''I disagree''}'
+      required: false
+    - id: 5
+      name: swim_academy_details
+      label: Swim Academy Details
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''swim_academy_name'', ''label'': ''Swim Academy Name''}'
+      - '{''id'': 2, ''name'': ''swim_academy_phone'', ''label'': ''Swim Academy Phone''}'
+      - '{''id'': 3, ''name'': ''swim_academy_email'', ''label'': ''Swim Academy Email''}'
+      - '{''id'': 4, ''name'': ''swim_academy_address'', ''label'': ''Swim Academy
+        Address''}'
+      - '{''id'': 5, ''name'': ''swim_academy_website'', ''label'': ''Swim Academy
+        Website''}'
+      required: false
+    - id: 6
+      name: kid_info_1
+      label: Kid
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: kid_info_2
+      label: Kid
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: kid_info_3
+      label: Kid
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: kid_info_4
+      label: Kid
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: kid_info_5
+      label: Kid
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,251 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bartender Service Booking Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Full Name
+      hint: Person booking the service
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: For booking confirmation
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company_name
+      label: Company Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: event_type
+      label: Event Type
+      hint: What type of event is this
+      type: select_one
+      options:
+      - Wedding
+      - Corporate event
+      - Private party
+      - Birthday celebration
+      - Anniversary
+      - Holiday party
+      - Graduation
+      - Other
+      required: true
+    - id: 6
+      name: event_date
+      label: Event Date
+      hint: Date of your event
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: event_start_time
+      label: Event Start Time
+      hint: When service begins
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: event_end_time
+      label: Event End Time
+      hint: When service ends
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: event_location
+      label: Event Location
+      hint: Complete address
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: venue_name
+      label: Venue Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: expected_guests
+      label: Expected Number of Guests
+      hint: Approximate headcount
+      type: select_one
+      options:
+      - 1 to 25 guests
+      - 26 to 50 guests
+      - 51 to 100 guests
+      - 101 to 200 guests
+      - More than 200 guests
+      required: true
+    - id: 12
+      name: bartender_count
+      label: Number of Bartenders Needed
+      hint: How many bartenders do you want
+      type: select_one
+      options:
+      - 1 bartender
+      - 2 bartenders
+      - 3 bartenders
+      - 4 or more
+      - Not sure, recommend
+      required: true
+    - id: 13
+      name: service_type
+      label: Service Type
+      hint: What type of bar service
+      type: select_one
+      options:
+      - Full bar service
+      - Beer and wine only
+      - Signature cocktails only
+      - Champagne toast only
+      - Non alcoholic bar
+      required: true
+    - id: 14
+      name: alcohol_provided_by
+      label: Alcohol Provided By
+      hint: Who is supplying the alcohol
+      type: select_one
+      options:
+      - Client provides all
+      - Bartender service provides
+      - Partial - client has some
+      - Venue provides
+      required: true
+    - id: 15
+      name: mixers_needed
+      label: Mixers and Garnishes Needed
+      hint: Do you need us to provide
+      type: select_one
+      options:
+      - Yes, full service
+      - No, client provides
+      - Partial
+      required: true
+    - id: 16
+      name: glassware_rental
+      label: Glassware Rental Needed
+      hint: Do you need glasses provided
+      type: select_one
+      options:
+      - Yes, full rental
+      - Yes, partial rental
+      - No, venue has glasses
+      - No, client has glasses
+      required: true
+    - id: 17
+      name: bar_equipment_needed
+      label: Bar Equipment Needed
+      hint: Do you need equipment provided
+      type: select_one
+      options:
+      - Yes, full bar setup
+      - Yes, portable bar only
+      - No, venue has equipment
+      required: true
+    - id: 18
+      name: specialty_cocktails
+      label: Specialty Cocktails Requested
+      hint: Number of signature drinks
+      type: select_one
+      options:
+      - None
+      - 1 signature cocktail
+      - 2 signature cocktails
+      - 3 or more
+      required: true
+    - id: 19
+      name: cocktail_names
+      label: Signature Cocktail Names
+      hint: Names of your custom drinks
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: setup_time_required
+      label: Setup Time Needed
+      hint: How early do bartenders arrive
+      type: select_one
+      options:
+      - 30 minutes before
+      - 1 hour before
+      - 2 hours before
+      - Other
+      required: true
+    - id: 21
+      name: cleanup_included
+      label: Cleanup Service Included
+      hint: Post event cleanup
+      type: select_one
+      options:
+      - Yes, full cleanup
+      - Yes, bar area only
+      - No, venue handles
+      required: true
+    - id: 22
+      name: liability_insurance
+      label: Liability Insurance Required
+      hint: Do you need certificate of insurance
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 23
+      name: budget_range
+      label: Budget Range
+      hint: Estimated budget for service
+      type: select_one
+      options:
+      - Under 500 dollars
+      - 500 to 1000 dollars
+      - 1001 to 2000 dollars
+      - 2001 to 5000 dollars
+      - More than 5000 dollars
+      required: true
+    - id: 24
+      name: deposit_paid
+      label: Deposit Payment
+      hint: Ready to pay deposit
+      type: select_one
+      options:
+      - Yes, ready now
+      - Not yet
+      - Have questions first
+      required: true
+    - id: 25
+      name: special_requests
+      label: Special Requests or Notes
+      hint: Any additional information
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: how_did_you_hear
+      label: How Did You Hear About Us
+      hint: We appreciate knowing
+      type: select_one
+      options:
+      - Online search
+      - Social media
+      - Friend referral
+      - Venue referral
+      - Previous client
+      - Other
+      required: true

@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Transport Survey
+    pages:
+    - id: 1
+      name: school_transport_survey_school_transport_survey
+      label: School Transport Survey
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: school_transport_survey_school_category
+      label: School Category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: school_transport_survey_school_description
+      label: School Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: school_transport_survey_admin_name
+      label: Admin Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: school_transport_survey_admin_email
+      label: Admin Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: school_transport_survey_admin_phone
+      label: Admin Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: school_transport_survey_school_transport
+      label: School Transport
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: school_transport_survey_transport_frequency
+      label: Transport Frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: school_transport_survey_transport_cost
+      label: Transport Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: school_transport_survey_school_transport_comment
+      label: School Transport Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: school_transport_survey_survey_date
+      label: Survey Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: school_transport_survey_survey_time
+      label: Survey Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: school_transport_survey_survey_comments
+      label: Survey Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: school_transport_survey_survey_notes
+      label: Survey Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: school_transport_survey_survey_vehicles
+      label: Survey Vehicles
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: school_transport_survey_vehicle_capacity
+      label: Vehicle Capacity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: school_transport_survey_survey_location
+      label: Survey Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: school_transport_survey_location_details
+      label: Location Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: school_transport_survey_survey_type
+      label: Survey Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: school_transport_survey_survey_status
+      label: Survey Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 21
+      name: school_transport_survey_survey_status_details
+      label: Survey Status Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: school_transport_survey_survey_comments
+      label: Survey Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: school_transport_survey_survey_vehicle_count
+      label: Survey Vehicle Count
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: school_transport_survey_survey_vehicle_details
+      label: Vehicle Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: school_transport_survey_survey_submit
+      label: Survey Submit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

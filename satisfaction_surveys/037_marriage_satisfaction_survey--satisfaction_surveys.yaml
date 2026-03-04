@@ -1,0 +1,274 @@
+inputSchema:
+  type: object
+  properties:
+    title: Marriage Satisfaction Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Marriage Satisfaction Survey Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: partner_satisfaction
+      label: How satisfied are you with your partner
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very satisfied''}'
+      - '{''label'': ''Somewhat satisfied''}'
+      - '{''label'': ''Not satisfied''}'
+      - '{''label'': ''Not at all satisfied''}'
+      required: false
+    - id: 3
+      name: communication
+      label: How would you rate your communication with your partner
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Strongly disagree''}'
+      - '{''label'': ''Somewhat agree''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Somewhat disagree''}'
+      - '{''label'': ''Strongly disagree''}'
+      required: false
+    - id: 4
+      name: love
+      label: How satisfied are you with the love you have with your partner
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: conflicts
+      label: How often do you experience conflicts with your partner
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Almost never''}'
+      - '{''label'': ''Less than once a week''}'
+      - '{''label'': ''1-2 times a week''}'
+      - '{''label'': ''3-4 times a week''}'
+      - '{''label'': ''Almost always''}'
+      required: false
+    - id: 6
+      name: conflict_resolution
+      label: How satisfied are you with how conflicts are resolved
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very satisfied''}'
+      - '{''label'': ''Somewhat satisfied''}'
+      - '{''label'': ''Not satisfied''}'
+      - '{''label'': ''Not at all satisfied''}'
+      required: false
+    - id: 7
+      name: relationship_health
+      label: How would you rate the health of your relationship
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Poor''}'
+      required: false
+    - id: 8
+      name: partner_involvement
+      label: How important is it for you that your partner is involved in decision
+        making
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very important''}'
+      - '{''label'': ''Somewhat important''}'
+      - '{''label'': ''Not very important''}'
+      - '{''label'': ''Not at all important''}'
+      required: false
+    - id: 9
+      name: decision_making
+      label: How satisfied are you with decision making in your relationship
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very satisfied''}'
+      - '{''label'': ''Somewhat satisfied''}'
+      - '{''label'': ''Not satisfied''}'
+      - '{''label'': ''Not at all satisfied''}'
+      required: false
+    - id: 10
+      name: partner_support
+      label: How satisfied are you that your partner supports your goals
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very satisfied''}'
+      - '{''label'': ''Somewhat satisfied''}'
+      - '{''label'': ''Not satisfied''}'
+      - '{''label'': ''Not at all satisfied''}'
+      required: false
+    - id: 11
+      name: relationship_stability
+      label: How would you rate the stability of your relationship
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Very stable''}'
+      - '{''label'': ''Somewhat stable''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Somewhat unstable''}'
+      - '{''label'': ''Very unstable''}'
+      required: false
+    - id: 12
+      name: future_expectations
+      label: What are your expectations for your relationship in the next 5 years
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: partner_expectations
+      label: What are your partner's expectations for your relationship in the next
+        5 years
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: conflict_resolution_strategy
+      label: What strategies do you use to resolve conflicts
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Active listening''}'
+      - '{''label'': ''Compromise''}'
+      - '{''label'': ''Avoidance''}'
+      - '{''label'': ''Anger''}'
+      - '{''label'': ''Give up''}'
+      required: false
+    - id: 15
+      name: partner_participation
+      label: How often does your partner participate in activities with you
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Almost always''}'
+      - '{''label'': ''Often''}'
+      - '{''label'': ''Occasionally''}'
+      - '{''label'': ''Rarely''}'
+      - '{''label'': ''Never''}'
+      required: false
+    - id: 16
+      name: shared_responsibilities
+      label: What are shared responsibilities in your relationship
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Financial''}'
+      - '{''label'': ''Emotional''}'
+      - '{''label'': ''Household''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 17
+      name: partner_satisfaction_2
+      label: How satisfied are you with your partner's level of satisfaction
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very satisfied''}'
+      - '{''label'': ''Somewhat satisfied''}'
+      - '{''label'': ''Not satisfied''}'
+      - '{''label'': ''Not at all satisfied''}'
+      required: false
+    - id: 18
+      name: partner_satisfaction_3
+      label: How satisfied are you with your partner's level of happiness
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very satisfied''}'
+      - '{''label'': ''Somewhat satisfied''}'
+      - '{''label'': ''Not satisfied''}'
+      - '{''label'': ''Not at all satisfied''}'
+      required: false
+    - id: 19
+      name: communication_quality
+      label: What is the quality of your communication with your partner
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Poor''}'
+      required: false
+    - id: 20
+      name: partner_happiness
+      label: How would you rate your partner's happiness
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Very happy''}'
+      - '{''label'': ''Somewhat happy''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Somewhat unhappy''}'
+      - '{''label'': ''Very unhappy''}'
+      required: false
+    - id: 21
+      name: relationship_growth
+      label: How would you rate the growth of your relationship
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Very grown''}'
+      - '{''label'': ''Somewhat grown''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Somewhat ungrown''}'
+      - '{''label'': ''Very ungrown''}'
+      required: false
+    - id: 22
+      name: conflict_frequency
+      label: How often do you experience conflicts with your partner
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Almost never''}'
+      - '{''label'': ''Less than once a week''}'
+      - '{''label'': ''1-2 times a week''}'
+      - '{''label'': ''3-4 times a week''}'
+      - '{''label'': ''Almost always''}'
+      required: false
+    - id: 23
+      name: partner_involvement_frequency
+      label: How often does your partner participate in decision making
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very often''}'
+      - '{''label'': ''Somewhat often''}'
+      - '{''label'': ''Not very often''}'
+      - '{''label'': ''Never''}'
+      required: false
+    - id: 24
+      name: partner_satisfaction_4
+      label: How satisfied are you that your partner is satisfied with you
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very satisfied''}'
+      - '{''label'': ''Somewhat satisfied''}'
+      - '{''label'': ''Not satisfied''}'
+      - '{''label'': ''Not at all satisfied''}'
+      required: false
+    - id: 25
+      name: partner_satisfaction_5
+      label: How satisfied are you with your partner's satisfaction
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very satisfied''}'
+      - '{''label'': ''Somewhat satisfied''}'
+      - '{''label'': ''Not satisfied''}'
+      - '{''label'': ''Not at all satisfied''}'
+      required: false

@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: web_development_inquiry
+    pages:
+    - id: 1
+      name: customer_details
+      label: Customer Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_website
+      label: customer_website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: development_skills
+      label: development_skills
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: services_offered
+      label: services_offered
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: company_size
+      label: company_size
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: project_deadline
+      label: project_deadline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: project_budget
+      label: project_budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: Email address is required
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: phone
+      hint: Phone number is required
+      type: text
+      options: []
+      required: false

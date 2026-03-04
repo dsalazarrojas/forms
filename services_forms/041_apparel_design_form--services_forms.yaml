@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Apparel Design Form
+    pages:
+    - id: 1
+      name: client_info_header
+      label: -- Client and Project Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: garment_type
+      label: Type of Apparel or Item
+      hint: null
+      type: select_one
+      options:
+      - T-Shirt
+      - Hoodie / Sweatshirt
+      - Hat / Cap
+      - Banner / Signage
+      - Tote Bag
+      - Other
+      required: true
+    - id: 6
+      name: design_description
+      label: Design Concept and Description
+      hint: Describe the placement - colors - and style
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: material_preference
+      label: Preferred Material / Fabric
+      hint: e.g. 100% Cotton, Tri-blend, Vinyl for banners
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: primary_garment_color
+      label: Garment or Base Color
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: size_distribution
+      label: Approximate Size Distribution
+      hint: e.g. 10S - 20M - 10L
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: print_method
+      label: Preferred Printing / Production Method
+      hint: null
+      type: select_one
+      options:
+      - Screen Printing
+      - Embroidery
+      - Heat Transfer
+      - DTG (Direct to Garment)
+      - Large Format Digital (Banners)
+      required: true
+    - id: 11
+      name: ink_color_count
+      label: Number of Colors in Design
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: deadline_date
+      label: Required Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: estimated_budget
+      label: Estimated Budget
+      hint: null
+      type: number
+      options: []
+      required: false

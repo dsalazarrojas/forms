@@ -1,0 +1,278 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Bartender Opening Checklist
+    pages:
+      - id: 1
+        name: bartender_name
+        label: Bartender Name
+        hint: Your full name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: shift_date
+        label: Shift Date
+        hint: Date of this opening shift
+        type: date
+        options: []
+        required: true
+      - id: 3
+        name: shift_start_time
+        label: Shift Start Time
+        hint: Time you arrived
+        type: time
+        options: []
+        required: true
+      - id: 4
+        name: bar_section
+        label: Bar Section
+        hint: Which area are you opening
+        type: select_one
+        options:
+          - Main bar
+          - Side bar
+          - Patio bar
+          - Full bar
+          - All sections
+        required: true
+      - id: 5
+        name: alarm_disarmed
+        label: Alarm System Disarmed
+        hint: Security alarm turned off
+        type: select_one
+        options:
+          - Yes
+          - No
+          - Not applicable
+        required: true
+      - id: 6
+        name: lights_turned_on
+        label: Lights Turned On
+        hint: All bar areas lit
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 7
+        name: equipment_powered_on
+        label: Equipment Powered On
+        hint: POS, registers, appliances
+        type: select_one
+        options:
+          - Yes, all on
+          - Some issues
+          - No
+        required: true
+      - id: 8
+        name: refrigerators_checked
+        label: Refrigerators Checked
+        hint: Temperature and contents verified
+        type: select_one
+        options:
+          - Yes, all good
+          - Temperature issue
+          - Inventory issue
+        required: true
+      - id: 9
+        name: ice_supply_adequate
+        label: Ice Supply Adequate
+        hint: Enough ice for service
+        type: select_one
+        options:
+          - Yes, fully stocked
+          - Need more
+          - Machine running
+        required: true
+      - id: 10
+        name: liquor_inventory_checked
+        label: Liquor Inventory Checked
+        hint: All bottles present and filled
+        type: select_one
+        options:
+          - Yes, fully stocked
+          - Some items low
+          - Missing items
+        required: true
+      - id: 11
+        name: beer_inventory_checked
+        label: Beer Inventory Checked
+        hint: Kegs and bottles verified
+        type: select_one
+        options:
+          - Yes, adequate
+          - Running low
+          - Need reorder
+        required: true
+      - id: 12
+        name: wine_inventory_checked
+        label: Wine Inventory Checked
+        hint: Wine selection verified
+        type: select_one
+        options:
+          - Yes, adequate
+          - Running low
+          - Need reorder
+        required: true
+      - id: 13
+        name: garnishes_prepared
+        label: Garnishes Prepared
+        hint: Fresh garnishes cut and stored
+        type: select_one
+        options:
+          - Yes, all ready
+          - Partially prepared
+          - No
+        required: true
+      - id: 14
+        name: mixers_stocked
+        label: Mixers Stocked
+        hint: Juices, sodas, syrups available
+        type: select_one
+        options:
+          - Yes, fully stocked
+          - Some items low
+          - Need restock
+        required: true
+      - id: 15
+        name: glassware_available
+        label: Glassware Available
+        hint: Clean glasses in sufficient quantity
+        type: select_one
+        options:
+          - Yes, plenty
+          - Adequate
+          - Need to wash
+        required: true
+      - id: 16
+        name: bar_tools_available
+        label: Bar Tools Available
+        hint: Shakers, strainers, jiggers ready
+        type: select_one
+        options:
+          - Yes, all ready
+          - Some missing
+          - Need to locate
+        required: true
+      - id: 17
+        name: bar_counters_clean
+        label: Bar Counters Clean
+        hint: All surfaces wiped
+        type: select_one
+        options:
+          - Yes
+          - Needs cleaning
+        required: true
+      - id: 18
+        name: bar_stools_arranged
+        label: Bar Stools Arranged
+        hint: Seating properly positioned
+        type: select_one
+        options:
+          - Yes
+          - Needs adjustment
+        required: true
+      - id: 19
+        name: floors_clean
+        label: Floors Clean
+        hint: Bar area swept and mopped
+        type: select_one
+        options:
+          - Yes
+          - Needs cleaning
+        required: true
+      - id: 20
+        name: restrooms_checked
+        label: Restrooms Checked
+        hint: Clean and stocked
+        type: select_one
+        options:
+          - Yes, ready
+          - Needs attention
+          - Not applicable
+        required: true
+      - id: 21
+        name: pos_system_ready
+        label: POS System Ready
+        hint: Register operational with cash
+        type: select_one
+        options:
+          - Yes, ready
+          - Issue noted
+          - Needs manager
+        required: true
+      - id: 22
+        name: cash_drawer_counted
+        label: Cash Drawer Counted
+        hint: Starting bank verified
+        type: select_one
+        options:
+          - Yes, correct
+          - Discrepancy found
+          - Not yet counted
+        required: true
+      - id: 23
+        name: menus_available
+        label: Menus Available
+        hint: Drink menus clean and present
+        type: select_one
+        options:
+          - Yes
+          - Need to print
+          - Not applicable
+        required: true
+      - id: 24
+        name: music_system_on
+        label: Music System On
+        hint: Background music set
+        type: select_one
+        options:
+          - Yes
+          - No
+          - Not applicable
+        required: true
+      - id: 25
+        name: tvs_functioning
+        label: TVs Functioning
+        hint: All screens working
+        type: select_one
+        options:
+          - Yes, all working
+          - Some issues
+          - Not applicable
+        required: true
+      - id: 26
+        name: manager_notified
+        label: Manager Notified of Readiness
+        hint: Bar ready for service
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 27
+        name: issues_found
+        label: Any Issues Found
+        hint: Problems that need attention
+        type: text
+        options: []
+        required: false
+      - id: 28
+        name: bartender_signature
+        label: Bartender Signature
+        hint: Type your full name
+        type: text
+        options: []
+        required: true

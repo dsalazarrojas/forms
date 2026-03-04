@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Math Alarm Setup Form
+    pages:
+    - id: 1
+      name: user_preferences
+      label: User Preferences
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: alarm_preferences
+      label: Alarm Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Alarm 1
+      - Alarm 2
+      - Alarm 3
+      required: false
+    - id: 3
+      name: alarm_settings
+      label: Alarm Settings
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: coach_preferences
+      label: Coach Preferences
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: math_challenge
+      label: Math Challenge
+      hint: null
+      type: select_one
+      options:
+      - Math Challenge 3
+      - Other
+      required: false
+    - id: 6
+      name: productivity_program
+      label: Productivity Program
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: math_challenge_2
+      label: Math Challenge 2
+      hint: null
+      type: note
+      options: []
+      required: false

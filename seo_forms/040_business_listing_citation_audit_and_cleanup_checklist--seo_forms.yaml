@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Listing Citation Audit And Cleanup Checklist
+    pages:
+    - id: 1
+      name: header
+      label: -- Listing Audit Checklist --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: business_name
+      label: Business name
+      hint: Name used in listings
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: listing_platforms_reviewed
+      label: Listing platforms reviewed
+      hint: Platforms checked during audit
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: duplicate_listings_found
+      label: Duplicate listings found
+      hint: Count of duplicates if any
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: inconsistent_information_found
+      label: Inconsistent information found
+      hint: Describe inconsistencies across listings
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: suggested_corrections
+      label: Suggested corrections
+      hint: Recommended changes to fix listings
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: priority_items
+      label: Priority items
+      hint: Items that should be fixed first
+      type: select_multiple
+      options:
+      - Name
+      - Address
+      - Phone
+      - Website
+      required: false
+    - id: 8
+      name: follow_up_actions
+      label: Follow up actions
+      hint: Tasks to complete for cleanup
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: auditor_name
+      label: Auditor name
+      hint: Person completing the audit
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: audit_date
+      label: Audit date
+      hint: Date the audit was completed
+      type: date
+      options: []
+      required: false

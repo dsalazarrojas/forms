@@ -1,0 +1,224 @@
+inputSchema:
+  type: object
+  properties:
+    title: emotional_resilience_program_filming_consent
+    pages:
+    - id: 1
+      name: participant_identifier
+      label: Participant Identifier
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: filming_permission
+      label: Filming Permission
+      hint: null
+      type: select_one
+      options:
+      - Filming
+      - Not Filming
+      - No Preference
+      required: true
+    - id: 4
+      name: photo_permission
+      label: Photo Permission
+      hint: null
+      type: select_one
+      options:
+      - Photos
+      - No Photos
+      - No Preference
+      required: true
+    - id: 5
+      name: recording_permission
+      label: Recording Permission
+      hint: null
+      type: select_one
+      options:
+      - Recording
+      - No Recording
+      - No Preference
+      required: true
+    - id: 6
+      name: video_permission
+      label: Video
+      hint: null
+      type: select_one
+      options:
+      - Video
+      - No Video
+      - No Preference
+      required: true
+    - id: 7
+      name: audio_permission
+      label: Audio
+      hint: null
+      type: select_one
+      options:
+      - Audio
+      - No Audio
+      - No Preference
+      required: true
+    - id: 8
+      name: filming_location
+      label: Filming Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: filming_purpose
+      label: Filming Purpose
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: filming_duration
+      label: Filming Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: filming_frequency
+      label: Filming Frequency
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: recording_location
+      label: Recording Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: recording_purpose
+      label: Recording Purpose
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: recording_duration
+      label: Recording Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: recording_frequency
+      label: Recording Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: video_recording_format
+      label: Video Recording Format
+      hint: null
+      type: select_multiple
+      options:
+      - 360 degree video
+      - 2D Video
+      - 3D Video
+      - Audio Recording
+      required: false
+    - id: 17
+      name: photo_recording_format
+      label: Photo Recording Format
+      hint: null
+      type: select_multiple
+      options:
+      - 2D Photos
+      - 3D Photos
+      required: false
+    - id: 18
+      name: audio_recording_format
+      label: Audio Recording Format
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: video_release
+      label: Video Release
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - No Preference
+      required: true
+    - id: 20
+      name: photo_release
+      label: Photo Release
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - No Preference
+      required: true
+    - id: 21
+      name: audio_release
+      label: Audio Release
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - No Preference
+      required: true
+    - id: 22
+      name: recording_agreement
+      label: Recording Agreement
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - No Preference
+      required: true
+    - id: 23
+      name: filming_agreement
+      label: Filming Agreement
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - No Preference
+      required: true
+    - id: 24
+      name: photo_agreement
+      label: Photo Agreement
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - No Preference
+      required: true
+    - id: 25
+      name: audio_agreement
+      label: Audio Agreement
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - No Preference
+      required: true

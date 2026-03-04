@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: Request For Student And School Resources Funding Form
+    pages:
+    - id: 1
+      name: request_for_student_and_school_resources_funding_form
+      label: Request for Student and School Resources Funding Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: enrollment
+      label: enrollment
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: student_funding
+      label: Student Funding
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: school_funding
+      label: School Funding
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: enrollment_type
+      label: Enrollment Type
+      hint: null
+      type: select_multiple
+      options:
+      - Student
+      - Teacher
+      required: false
+    - id: 6
+      name: student_age_range
+      label: Student Age Range
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: teacher_age_range
+      label: Teacher Age Range
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: enrollment_status
+      label: Enrollment Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 9
+      name: funding_status
+      label: Funding Status
+      hint: null
+      type: select_one
+      options:
+      - Fully Funded
+      - Partially Funded
+      - Unfunded
+      required: false
+    - id: 10
+      name: financial_situation
+      label: Financial Situation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: total_funding_requested
+      label: Total Funding Requested
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: financial_aid
+      label: Financial Aid
+      hint: null
+      type: select_multiple
+      options:
+      - Full
+      - Partial
+      required: false
+    - id: 13
+      name: financial_situation_details
+      label: Financial Situation Details
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,162 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daycare Feedback Form
+    pages:
+    - id: 1
+      name: first_page
+      label: feedback_form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: feedback_title
+      label: feedback_title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: feedback_question
+      label: what_do_parents_see_first
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: feedback_answer
+      label: what_parents_see_first
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: first_page_break
+      label: first_page_break
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: feedback_question
+      label: what_do_parents_see_next
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: feedback_answer
+      label: what_parents_see_next
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: feedback_question
+      label: what_do_parents_see_at_end
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: feedback_answer
+      label: what_parents_see_at_end
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: submit
+      label: submit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: rating
+      label: overall_rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: suggestion
+      label: suggestion
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 14
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: first_page_break
+      label: first_page_break
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: second_page
+      label: second_page
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      - option5
+      required: true
+    - id: 18
+      name: rating
+      label: rating
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      - option5
+      - option6
+      - option7
+      - option8
+      - option9
+      - option10
+      required: true
+    - id: 19
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: true

@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daycare Application Form
+    pages:
+    - id: 1
+      name: parent_info
+      label: Parent Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: child_info
+      label: Child Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: service_preferences
+      label: Service Preferences
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Early Childhood Program''}'
+      - '{''label'': ''Preschool Program''}'
+      - '{''label'': ''School Age Program''}'
+      required: false
+    - id: 5
+      name: availability
+      label: Availability
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: schedule
+      label: Schedule
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: contact
+      label: Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submitted_on
+      label: Submitted On
+      hint: null
+      type: date
+      options: []
+      required: false

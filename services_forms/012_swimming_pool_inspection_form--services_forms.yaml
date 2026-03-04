@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: swimming_pool_inspection_form
+    pages:
+    - id: 1
+      name: general_info
+      label: general_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: pool_wall
+      label: pool_wall
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: pool_floor
+      label: pool_floor
+      hint: null
+      type: select_multiple
+      options:
+      - Pool Wall 1
+      - Pool Wall 2
+      - Pool Wall 3
+      required: false
+    - id: 4
+      name: pool_deck
+      label: pool_deck
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: pool_stairs
+      label: pool_stairs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: pool_furniture
+      label: pool_furniture
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: pool_electrical
+      label: pool_electrical
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: pool_pumps
+      label: pool_pumps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: pool_filter
+      label: pool_filter
+      hint: null
+      type: select_one
+      options:
+      - Pool Filter 1
+      - Pool Filter 2
+      - Pool Filter 3
+      required: false
+    - id: 10
+      name: pool_cover
+      label: pool_cover
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: pool_water_quality
+      label: pool_water_quality
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: pool_equipment
+      label: pool_equipment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: pool_safety
+      label: pool_safety
+      hint: null
+      type: select_multiple
+      options:
+      - Safety 1
+      - Safety 2
+      - Safety 3
+      required: false

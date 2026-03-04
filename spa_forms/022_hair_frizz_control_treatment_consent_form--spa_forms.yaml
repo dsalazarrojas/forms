@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: hair_frizz_control_treatment_consent_form
+    pages:
+    - id: 1
+      name: client_details
+      label: Client Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: health_info
+      label: Health Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: treatment_consent
+      label: Treatment Consent
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: true

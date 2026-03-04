@@ -1,0 +1,138 @@
+inputSchema:
+  type: object
+  properties:
+    title: referee_availability_schedule
+    pages:
+    - id: 1
+      name: week_0
+      label: monday
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: week_1
+      label: tuesday
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: week_2
+      label: wednesday
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: week_3
+      label: thursday
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: week_4
+      label: friday
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: week_5
+      label: saturday
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: week_6
+      label: sunday
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: morning
+      label: morning
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: afternoon
+      label: afternoon
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: evening
+      label: evening
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: morning_end
+      label: end_time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: start_time
+      label: start_time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: available_time
+      label: available_time
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: comment
+      label: comment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false

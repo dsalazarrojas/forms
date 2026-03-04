@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: Extracurricular Stipend Survey
+    pages:
+    - id: 1
+      name: school_club_advisors
+      label: School Club Advisors
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: mentors
+      label: Mentors
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1}'
+      - '{''value'': 2}'
+      - '{''value'': 3}'
+      required: true
+    - id: 3
+      name: spring_coaches
+      label: Spring Coaches
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1}'
+      - '{''value'': 2}'
+      - '{''value'': 3}'
+      required: true
+    - id: 4
+      name: extracurricular_activities
+      label: Extracurricular Activities
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1}'
+      - '{''value'': 2}'
+      - '{''value'': 3}'
+      required: true
+    - id: 5
+      name: stipend_amount
+      label: Stipend Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: stipend_frequency
+      label: Stipend Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1}'
+      - '{''value'': 2}'
+      - '{''value'': 3}'
+      required: true
+    - id: 7
+      name: stipend_payout_method
+      label: Stipend Payout Method
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1}'
+      - '{''value'': 2}'
+      - '{''value'': 3}'
+      required: true
+    - id: 8
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: extra_comments
+      label: Extra Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: additional_notes
+      label: Additional Notes
+      hint: null
+      type: text
+      options: []
+      required: false

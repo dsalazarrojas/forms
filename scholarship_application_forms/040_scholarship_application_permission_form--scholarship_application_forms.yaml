@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: scholarship_application_permission_form
+    pages:
+    - id: 1
+      name: application_details
+      label: Application Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: applicant_name
+      label: applicant_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: applicant_email
+      label: applicant_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: applicant_phone
+      label: applicant_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: application_date
+      label: application_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: application_time
+      label: application_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: permissions
+      label: permissions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: permission_1
+      label: parent_permission
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      required: false
+    - id: 10
+      name: permission_2
+      label: guardian_permission
+      hint: null
+      type: select_one
+      options:
+      - Option 3
+      - Option 4
+      required: false
+    - id: 11
+      name: other_permission
+      label: other_permission
+      hint: null
+      type: select_one
+      options:
+      - Option 5
+      - Option 6
+      required: false
+    - id: 12
+      name: other_permission
+      label: other_permission
+      hint: null
+      type: select_one
+      options:
+      - Option 7
+      - Option 8
+      required: false

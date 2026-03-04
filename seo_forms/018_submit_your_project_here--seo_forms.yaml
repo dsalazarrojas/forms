@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Submit Your Project Here
+    pages:
+    - id: 1
+      name: submit_your_project_form_1
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: project_status_1
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - New
+      - Active
+      - Completed
+      required: false
+    - id: 4
+      name: project_status_2
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Draft
+      - Active
+      - Completed
+      required: false
+    - id: 5
+      name: project_status_3
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Completed
+      required: false
+    - id: 6
+      name: project_status_4
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 7
+      name: submitter
+      label: Submitter
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Zoom Webinar Sign Up Form
+    pages:
+    - id: 1
+      name: registrant_name
+      label: Registrant name
+      hint: Enter the name of the registrant
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: registrant_number
+      label: Number of guests
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: time_zone
+      label: Time zone
+      hint: null
+      type: select_one
+      options:
+      - Pacific Standard Time (UTC-8)
+      - New York
+      - London
+      required: false
+    - id: 6
+      name: registrant_message
+      label: Message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: registrant_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: registrant_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: registrant_number
+      label: Number of guests
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: registrant_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: registrant_timezone
+      label: Time zone
+      hint: null
+      type: select_one
+      options:
+      - Pacific Standard Time (UTC-8)
+      - New York
+      - London
+      required: false

@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: Spa Session
+    pages:
+    - id: 1
+      name: spa_session_form
+      label: Spa Session Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_one
+      options:
+      - Client
+      - Therapist
+      - Spa
+      required: false
+    - id: 4
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: duration
+      label: Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: spa_session_form_repeat
+      label: Spa Session Form Repeat
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - None
+      - None
+      - None
+      required: false
+    - id: 12
+      name: session_price
+      label: Session Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Pending
+      - Unpaid
+      required: false
+    - id: 14
+      name: total_time
+      label: Total Time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: tip
+      label: Tip
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: client_status
+      label: Client Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - New
+      required: false
+    - id: 17
+      name: payment_type
+      label: Payment Type
+      hint: null
+      type: select_one
+      options:
+      - Online
+      - Offline
+      required: false
+    - id: 18
+      name: service_notes
+      label: Service Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: therapist_notes
+      label: Therapist Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: cancellation_type
+      label: Cancellation Type
+      hint: null
+      type: select_one
+      options:
+      - Client
+      - Therapist
+      - Management
+      required: false
+    - id: 21
+      name: cancellation_status
+      label: Cancellation Status
+      hint: null
+      type: select_one
+      options:
+      - Confirmed
+      - Pending
+      - Cancelled
+      required: false
+    - id: 22
+      name: session_status
+      label: Session Status
+      hint: null
+      type: select_one
+      options:
+      - Scheduled
+      - Active
+      - Done
+      required: false
+    - id: 23
+      name: session_status_2
+      label: Session Status 2
+      hint: null
+      type: select_one
+      options:
+      - Scheduled
+      - Active
+      - Done
+      required: false
+    - id: 24
+      name: session_status_3
+      label: Session Status 3
+      hint: null
+      type: select_one
+      options:
+      - Scheduled
+      - Active
+      - Done
+      required: false
+    - id: 25
+      name: cancellation_reason
+      label: Cancellation Reason
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Flight Reservation Form
+    pages:
+    - id: 1
+      name: passenger_name
+      label: Passenger Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: flight_number
+      label: Flight Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: travel_date
+      label: Travel Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: travel_time
+      label: Travel Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: flight_class
+      label: Flight Class
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: seat_number
+      label: Seat Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: contact_phone
+      label: Contact Phone
+      hint: Please enter your phone number
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: note
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false

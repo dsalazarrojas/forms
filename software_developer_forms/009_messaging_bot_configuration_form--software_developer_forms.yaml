@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Messaging Bot Configuration Form
+    pages:
+    - id: 1
+      name: messaging_bot_configuration_form_page_1
+      label: Page 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: team_selection
+      label: Team Select
+      hint: null
+      type: select_one
+      options:
+      - Support
+      - Product
+      - Operations
+      required: false
+    - id: 3
+      name: routing_options
+      label: Routing Options
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 4
+      name: request_destination
+      label: request_destination
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: request_destination_hint
+      label: None
+      hint: Enter destination URL
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: request_priority
+      label: request_priority
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: request_timeout
+      label: request_timeout
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: request_timeout_hint
+      label: None
+      hint: In minutes, 0 for no timeout
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: request_timeout_unit
+      label: Unit
+      hint: null
+      type: select_one
+      options:
+      - minutes
+      - seconds
+      required: false
+    - id: 10
+      name: messaging_bot_configuration_form_page_2
+      label: Page 2
+      hint: null
+      type: text
+      options: []
+      required: false

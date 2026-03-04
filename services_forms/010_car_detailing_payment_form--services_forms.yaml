@@ -1,0 +1,249 @@
+inputSchema:
+  type: object
+  properties:
+    title: Car Detailing Payment Form
+    pages:
+    - id: 1
+      name: customer_information
+      label: Customer Information
+      hint: Please provide your contact details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Your Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_email
+      label: Email Address
+      hint: For receipt and communications
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: customer_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: vehicle_information
+      label: Vehicle Information
+      hint: Details about your vehicle
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: vehicle_year
+      label: Vehicle Year
+      hint: Year of your vehicle
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: vehicle_make
+      label: Vehicle Make
+      hint: Manufacturer
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: vehicle_model
+      label: Vehicle Model
+      hint: Model name
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: vehicle_color
+      label: Vehicle Color
+      hint: Exterior color
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: vehicle_size
+      label: Vehicle Size
+      hint: Size category of your vehicle
+      type: select_one
+      options:
+      - Compact Car
+      - Sedan
+      - SUV/Crossover
+      - Truck
+      - Van
+      - Luxury/Exotic
+      required: true
+    - id: 11
+      name: vehicle_condition
+      label: Vehicle Condition
+      hint: Current condition of your vehicle
+      type: select_one
+      options:
+      - Excellent - very clean
+      - Good - lightly soiled
+      - Fair - moderately dirty
+      - Poor - heavily soiled
+      - Extreme - requires deep cleaning
+      required: true
+    - id: 12
+      name: service_selection
+      label: Service Selection
+      hint: Choose your detailing package
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: detailing_package
+      label: Detailing Package
+      hint: Select your package
+      type: select_one
+      options:
+      - Basic Wash - $25
+      - Silver Package - $75
+      - Gold Package - $125
+      - Platinum Package - $200
+      - Interior Only - $50
+      - Exterior Only - $60
+      - Custom Package
+      required: true
+    - id: 14
+      name: add_on_services
+      label: Add-On Services
+      hint: Additional services
+      type: select_multiple
+      options:
+      - Wax Application - $30
+      - Clay Bar Treatment - $40
+      - Leather Conditioning - $25
+      - Engine Bay Cleaning - $35
+      - Headlight Restoration - $50
+      - Pet Hair Removal - $20
+      - Odor Elimination - $30
+      - Paint Protection - $100
+      - None
+      required: false
+    - id: 15
+      name: service_date
+      label: Service Date
+      hint: When do you need the service?
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: service_time
+      label: Service Time
+      hint: Preferred time
+      type: time
+      options: []
+      required: true
+    - id: 17
+      name: service_location
+      label: Service Location
+      hint: Where should we detail your vehicle?
+      type: select_one
+      options:
+      - At our shop
+      - Mobile service - your home
+      - Mobile service - your office
+      - Other location
+      required: true
+    - id: 18
+      name: payment_information
+      label: Payment Information
+      hint: Payment details
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay?
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Cash
+      - Check
+      - Digital Wallet
+      required: true
+    - id: 20
+      name: card_type
+      label: Card Type
+      hint: Type of card
+      type: select_one
+      options:
+      - Visa
+      - MasterCard
+      - American Express
+      - Discover
+      required: false
+    - id: 21
+      name: card_number
+      label: Card Number
+      hint: Card number
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: card_expiry
+      label: Expiration Date
+      hint: MM/YY
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: cvv
+      label: CVV
+      hint: Security code
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: billing_address
+      label: Billing Address
+      hint: Address on card
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: tip_amount
+      label: Tip Amount
+      hint: Optional tip for our technicians
+      type: select_one
+      options:
+      - No tip
+      - $5
+      - $10
+      - $15
+      - $20
+      - Custom amount
+      required: false
+    - id: 26
+      name: special_instructions
+      label: Special Instructions
+      hint: Any specific requests or concerns
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: terms_agreement
+      label: Terms Agreement
+      hint: Do you agree to our terms?
+      type: select_one
+      options:
+      - I agree to the terms and conditions
+      - I do not agree
+      required: true
+    - id: 28
+      name: authorization_date
+      label: Authorization Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true

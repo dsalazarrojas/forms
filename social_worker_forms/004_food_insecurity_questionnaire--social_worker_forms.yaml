@@ -1,0 +1,117 @@
+inputSchema:
+  type: object
+  properties:
+    title: Food Insecurity Questionnaire
+    pages:
+    - id: 1
+      name: household_members
+      label: Household Members
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: household_type
+      label: Household Type
+      hint: null
+      type: select_multiple
+      options:
+      - Household
+      - Institution
+      required: false
+    - id: 3
+      name: how_many_members_live_in_household
+      label: How many members live in the household?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: head_of_household_age
+      label: Age of Head of Household
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: head_of_household_income_range
+      label: Household Income Range
+      hint: null
+      type: select_one
+      options:
+      - Less than $25
+      - '0'
+      - $25
+      - 000-49
+      - '999'
+      - $50
+      - 000 or more
+      required: false
+    - id: 6
+      name: household_food_security_level
+      label: Household Food Security Level
+      hint: null
+      type: select_one
+      options:
+      - Very Low
+      - Low
+      - Moderate
+      - High
+      required: false
+    - id: 7
+      name: household_food_security_level_other
+      label: If other, describe
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: household_food_security_level_reason
+      label: Reason for food insecurity level
+      hint: null
+      type: select_multiple
+      options:
+      - Not enough money
+      - No food access
+      - Food prices too high
+      - Not enough food options
+      - Other
+      required: false
+    - id: 9
+      name: household_food_security_level_other_reason
+      label: If other, describe
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: household_food_security_level_other
+      label: If other, describe
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: household_food_security_programs_served
+      label: Programs or services received
+      hint: null
+      type: select_multiple
+      options:
+      - SNAP
+      - WIC
+      - Other
+      required: false
+    - id: 12
+      name: household_food_security_programs_served_other
+      label: If other, describe
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: household_food_security_programs_served_other
+      label: If other, describe
+      hint: null
+      type: text
+      options: []
+      required: false

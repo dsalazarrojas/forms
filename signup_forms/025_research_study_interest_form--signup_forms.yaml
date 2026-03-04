@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: Research Study Interest Form
+    pages:
+    - id: 1
+      name: research_study_interest_form
+      label: research_studies_interest
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_requests
+      label: contact_requests
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Other
+      required: true
+    - id: 3
+      name: follow_up_requests
+      label: follow_up_requests
+      hint: Follow up requests can be in the form of phone call, email or mail.
+      type: select_multiple
+      options:
+      - Phone call
+      - Email
+      - Mail
+      required: true
+    - id: 4
+      name: additional_comments
+      label: additional_comments
+      hint: Additional comments about participant interest or interest in specific
+        studies.
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: study_area
+      label: study_area
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: participant_name
+      label: participant_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: participant_email
+      label: participant_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: participant_phone
+      label: participant_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: study_institution
+      label: study_institution
+      hint: null
+      type: select_one
+      options:
+      - Academic
+      - Non-academic
+      - Both
+      required: true
+    - id: 10
+      name: research_team
+      label: research_team
+      hint: null
+      type: select_one
+      options:
+      - Lead Researcher
+      - Research Assistant
+      - Both
+      required: true
+    - id: 11
+      name: study_status
+      label: study_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Recruiting
+      - Completed
+      required: true
+    - id: 12
+      name: follow_up_timeframe
+      label: follow_up_timeframe
+      hint: null
+      type: select_one
+      options:
+      - Within a week
+      - Within two weeks
+      - More than two weeks
+      required: true
+    - id: 13
+      name: contact_request_timeframe
+      label: contact_request_timeframe
+      hint: null
+      type: select_one
+      options:
+      - Immediately
+      - Within a week
+      - More than a week
+      required: true
+    - id: 14
+      name: additional_notes
+      label: additional_notes
+      hint: Additional information that will be shared with the participant.
+      type: text
+      options: []
+      required: false

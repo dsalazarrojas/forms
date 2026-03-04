@@ -1,0 +1,90 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Academic Planning Form
+    pages:
+    - id: 1
+      name: student_profile
+      label: -- Student Profile --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: Student name
+      hint: Full name of student
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_id
+      label: Student id
+      hint: Institutional identifier
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: academic_goals
+      label: Academic goals
+      hint: Short term and long term goals
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: strengths
+      label: Student strengths
+      hint: Academic strengths and achievements
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: challenges
+      label: Current challenges
+      hint: Areas needing support
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: action_plan
+      label: Action plan and milestones
+      hint: Steps and timelines for goals
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: supports_needed
+      label: Supports needed from school
+      hint: Tutoring, counseling, accommodations
+      type: select_multiple
+      options:
+        - Tutoring
+        - Counseling
+        - Accessibility accommodations
+        - Career advising
+      required: false
+    - id: 9
+      name: review_date
+      label: Planned review date
+      hint: When progress will be reviewed
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: counselor_signature
+      label: Counselor name and confirmation
+      hint: Counselor initials or typed name
+      type: text
+      options: []
+      required: false

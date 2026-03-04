@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Service Directory Submission Form
+    pages:
+    - id: 1
+      name: submission_form
+      label: Service Directory Submission Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name_of_organization
+      label: Name of Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: name_of_service
+      label: Name of Service
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: category
+      label: Category
+      hint: null
+      type: select_multiple
+      options:
+      - Association
+      - Non-Profit
+      - Network
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: 'Format: name@domain.com'
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: description
+      label: Description
+      hint: Please describe the service offered
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: review_status
+      label: Review Status
+      hint: null
+      type: select_one
+      options:
+      - Awaiting Review
+      - Approved
+      - Rejected
+      - Removed
+      required: false
+    - id: 10
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

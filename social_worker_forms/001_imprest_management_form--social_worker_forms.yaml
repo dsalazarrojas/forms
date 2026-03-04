@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: Imprest Management Form
+    pages:
+    - id: 1
+      name: imprest_form
+      label: Imprest Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: employee_id
+      label: Employee Id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: account_number
+      label: Account Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: amount
+      label: Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: imprest_account_type
+      label: Imprest Account Type
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Accrual
+      - Expense
+      required: true
+    - id: 8
+      name: account_balance
+      label: Account Balance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: account_balance_amount
+      label: Account Balance Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: account_balance_date
+      label: Account Balance Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: account_notes
+      label: Account Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: account_status
+      label: Account Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      - Overdue
+      required: true
+    - id: 13
+      name: account_type
+      label: Account Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: imprest_account_balance
+      label: Imprest Account Balance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: imprest_total_amount
+      label: Imprest Total Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: imprest_balance_date
+      label: Imprest Balance Date
+      hint: null
+      type: date
+      options: []
+      required: false

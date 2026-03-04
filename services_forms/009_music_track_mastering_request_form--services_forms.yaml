@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Music Track Mastering Request Form
+    pages:
+    - id: 1
+      name: music_track_mastering_request_form_page_1
+      label: submit_mixes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: submit_audio_files
+      label: upload_audio_files
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: mastering_preferences
+      label: mastering_preferences
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: share_mastering_deadlines
+      label: share_mastering_deadlines
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: share_mastering_preferences
+      label: share_mastering_preferences
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: artist_name
+      label: artist_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: artist_email
+      label: artist_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: studio_name
+      label: studio_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: studio_email
+      label: studio_email
+      hint: null
+      type: email
+      options: []
+      required: true

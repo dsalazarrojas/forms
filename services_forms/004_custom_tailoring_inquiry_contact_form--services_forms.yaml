@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Custom Tailoring Inquiry Contact Form
+    pages:
+    - id: 1
+      name: custom_tailoring_inquiry_contact_form
+      label: custom_tailoring_inquiry
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: customer_message
+      label: customer_message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: custom_tailoring_inquiry_type
+      label: custom_tailoring_inquiry_type
+      hint: null
+      type: select_one
+      options:
+      - Alteration
+      - Alteration - Alter
+      - Alteration - Add
+      - Repair
+      - Repair - Alter
+      - Other
+      required: false
+    - id: 7
+      name: custom_tailoring_inquiry_type_other
+      label: custom_tailoring_inquiry_type_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: custom_tailoring_inquiry_description
+      label: custom_tailoring_inquiry_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: custom_tailoring_inquiry_attachment
+      label: custom_tailoring_inquiry_attachment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: custom_tailoring_inquiry_attachment_comment
+      label: custom_tailoring_inquiry_attachment_comment
+      hint: null
+      type: text
+      options: []
+      required: false

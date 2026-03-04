@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Center Admission Form
+    pages:
+    - id: 1
+      name: applicant_name
+      label: Applicant name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date of birth
+      hint: For age verification
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: address
+      label: Home address
+      hint: Street city state and postal code
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email address
+      hint: Preferred contact email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone number
+      hint: Preferred contact number
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: program_interest
+      label: Program or service of interest
+      hint: Select primary program of interest
+      type: select_one
+      options:
+      - Youth programs
+      - Senior services
+      - Recreational classes
+      - Facility rental
+      - Volunteer opportunities
+      required: true
+    - id: 7
+      name: emergency_contact
+      label: Emergency contact name and phone
+      hint: Provide name and phone
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: special_needs
+      label: Special needs or accessibility requirements
+      hint: Describe any accommodations needed
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: consent_terms
+      label: Consent to terms and policies
+      hint: Agree to community center policies
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true

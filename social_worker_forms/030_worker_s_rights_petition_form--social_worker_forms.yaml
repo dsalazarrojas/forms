@@ -1,0 +1,141 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workers Rights Petition Form
+    pages:
+    - id: 1
+      name: worker_name
+      label: Worker Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: workplace_address
+      label: Workplace Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: employer_name
+      label: Employer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: workplace_phone
+      label: Workplace Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: workplace_email
+      label: Workplace Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: workplace_date
+      label: Date of Last Pay
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: workplace_time
+      label: Time of Last Pay
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: workplace_wage
+      label: Last Pay Wage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: workplace_hours
+      label: Last Pay Period
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: workplace_type
+      label: Type of Work
+      hint: null
+      type: select_one
+      options:
+      - Hourly
+      - Salaried
+      - Contract
+      - Freelance
+      required: false
+    - id: 11
+      name: workplace_union
+      label: Union Affilation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: workplace_benefits
+      label: Benefits Received
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: workplace_safety_measures
+      label: Workplace Safety Measures
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: workplace_justification
+      label: Justification
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: workplace_resolution
+      label: Resolution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: workplace_recommendations
+      label: Recommendations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: workplace_signature
+      label: Employee Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: workplace_agreement
+      label: Employer Agreement
+      hint: null
+      type: text
+      options: []
+      required: false

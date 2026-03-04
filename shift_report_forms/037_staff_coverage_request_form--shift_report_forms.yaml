@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Staff Coverage Request Form
+    pages:
+    - id: 1
+      name: shift_date
+      label: shift_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: shift_start
+      label: start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: staff_id
+      label: staff_member
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: coverage_type
+      label: coverage_type
+      hint: null
+      type: select_one
+      options:
+      - Regular
+      - Emergency
+      - Vacation
+      - Sick
+      required: false
+    - id: 5
+      name: shift_length
+      label: shift_length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: shift_note
+      label: shift_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: approval_status
+      label: approval_status
+      hint: null
+      type: select_one
+      options:
+      - Approve
+      - Decline
+      - Request More Info
+      required: false
+    - id: 8
+      name: manager_approval
+      label: manager_approval
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: manager_comment
+      label: manager_comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: requester_comment
+      label: requester_comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: shift_requester
+      label: shift_requester
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

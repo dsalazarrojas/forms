@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contact Hire A Host
+    pages:
+    - id: 1
+      name: header
+      label: -- Hire a Host Inquiry --
+      hint: Use this form to request hosting services for your event
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requester_name
+      label: Requester name
+      hint: Full name of the person requesting service
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email address
+      hint: Email for booking confirmation
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone number
+      hint: Contact number for scheduling
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: event_date
+      label: Event date
+      hint: Date of the event you need hosting for
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: event_location
+      label: Event location
+      hint: Venue address or online details
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: event_type
+      label: Event type
+      hint: Type of event to be hosted
+      type: select_one
+      options:
+      - Corporate
+      - Social
+      - Virtual
+      - Other
+      required: false
+    - id: 8
+      name: number_of_guests
+      label: Number of guests
+      hint: Estimated headcount
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: special_requirements
+      label: Special requirements
+      hint: Any special requests or accommodations
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_notes
+      label: Additional notes
+      hint: Any other information for the booking
+      type: text
+      options: []
+      required: false

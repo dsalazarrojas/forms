@@ -1,0 +1,110 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Career Choice Survey
+    pages:
+      - id: 1
+        name: student_information
+        label: -- Student Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: student_name
+        label: Student name
+        hint: Optional for anonymous surveys
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: current_year
+        label: Current academic year
+        hint: Grade or year of study
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: subjects_enjoyed
+        label: Subjects enjoyed most
+        hint: Select up to three subjects
+        type: select_multiple
+        options:
+          - Mathematics
+          - Science
+          - Arts
+          - Languages
+          - Social studies
+        required: false
+      - id: 5
+        name: preferred_career_areas
+        label: Preferred career areas
+        hint: Choose areas of interest
+        type: select_multiple
+        options:
+          - Engineering
+          - Healthcare
+          - Education
+          - Business
+          - Creative arts
+        required: true
+      - id: 6
+        name: influence_factors
+        label: Factors influencing career choice
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Family
+          - Job prospects
+          - Personal interest
+          - Salary
+        required: false
+      - id: 7
+        name: career_counseling_interest
+        label: Interest in career counseling
+        hint: Would student like guidance
+        type: select_one
+        options:
+          - Yes
+          - No
+          - Maybe
+        required: true
+      - id: 8
+        name: preferred_support_types
+        label: Preferred support types
+        hint: Which supports would be helpful
+        type: select_multiple
+        options:
+          - Workshops
+          - One on one counseling
+          - Online resources
+          - Job shadowing
+        required: false
+      - id: 9
+        name: expected_timeline
+        label: Expected timeline for career decision
+        hint: When student plans to decide
+        type: select_one
+        options:
+          - Within this year
+          - Within two years
+          - After graduation
+        required: false
+      - id: 10
+        name: additional_comments
+        label: Additional comments
+        hint: Any other information to share
+        type: text
+        options: []
+        required: false

@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Temporary Guardianship Form
+    pages:
+    - id: 1
+      name: temporary_guardianship_form_1_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: temporary_guardianship_form_1_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: temporary_guardianship_form_1_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: temporary_guardianship_form_1_date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: temporary_guardianship_form_1_guardianship_type
+      label: Guardianship Type
+      hint: null
+      type: select_multiple
+      options:
+      - Adult
+      - Emergency
+      - Limited
+      - Standby
+      required: false
+    - id: 6
+      name: temporary_guardianship_form_1_guardianship_reason
+      label: Reason for Guardianship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: temporary_guardianship_form_1_guardianship_start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: temporary_guardianship_form_1_guardianship_end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false

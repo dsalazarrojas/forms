@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Air Conditioning Call Out Form
+    pages:
+    - id: 1
+      name: client_details_header
+      label: -- Client Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: address
+      label: Service Address
+      hint: Street, City, Zip
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email Address
+      hint: For confirmation
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: property_type
+      label: Type of Property
+      hint: null
+      type: select_one
+      options:
+      - Residential
+      - Commercial
+      - Industrial
+      - Rental Property
+      required: true
+    - id: 7
+      name: request_details_header
+      label: -- Request Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: urgency
+      label: Urgency Level
+      hint: How soon do you need us?
+      type: select_one
+      options:
+      - Emergency (ASAP)
+      - Next Day
+      - Within 3 Days
+      - Routine Maintenance
+      required: true
+    - id: 9
+      name: issue_description
+      label: Issue Description
+      hint: What is the problem?
+      type: select_one
+      options:
+      - No Cooling
+      - No Heating
+      - Strange Noise
+      - Water Leaking
+      - Bad Smell
+      - System Won't Turn On
+      - Routine Service
+      required: true
+    - id: 10
+      name: system_age
+      label: Approximate System Age
+      hint: e.g. 5 years
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: preferred_time
+      label: Preferred Visit Time
+      hint: Morning or Afternoon?
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: access_instructions
+      label: Access Instructions
+      hint: Gate codes, key location, etc.
+      type: text
+      options: []
+      required: false

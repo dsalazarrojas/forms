@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: IT Service Ticket Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: request_type
+      label: Request Type
+      hint: null
+      type: select_one
+      options:
+      - IT Request
+      - Service Request
+      - Other
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: status
+      label: Status
+      hint: Please select one of the following
+      type: select_one
+      options:
+      - Open
+      - In Progress
+      - Closed
+      - Rejected
+      required: false
+    - id: 5
+      name: priority
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 6
+      name: assigned_to
+      label: Assigned to
+      hint: null
+      type: select_multiple
+      options:
+      - chatjimmy
+      - Other
+      required: true
+    - id: 7
+      name: due_date
+      label: Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: created_at
+      label: Created
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: updated_at
+      label: Updated
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: closed_at
+      label: Closed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: created_by
+      label: Created by
+      hint: null
+      type: select_multiple
+      options:
+      - chatjimmy
+      - Other
+      required: true
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

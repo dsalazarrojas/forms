@@ -1,0 +1,227 @@
+inputSchema:
+  type: object
+  properties:
+    title: phone_interaction_assessment_form
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 2
+      name: interaction_rating
+      label: Interaction Rating
+      hint: Select the rating for the interaction.
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: interaction_rating_description
+      label: Interaction Rating Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: tone_of_the_caller
+      label: Tone of the Caller
+      hint: How was the tone of the caller?
+      type: select_one
+      options:
+      - Pleasant
+      - Unpleasant
+      - Neutral
+      required: true
+    - id: 5
+      name: tone_of_the_customer_service_representative
+      label: Tone of the Customer Service Representative
+      hint: How was the tone of the customer service representative?
+      type: select_one
+      options:
+      - Professional
+      - Unprofessional
+      - Neutral
+      required: true
+    - id: 6
+      name: communication_effectiveness
+      label: Communication Effectiveness
+      hint: How was the communication effectiveness?
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 7
+      name: customer_service_representative_skills
+      label: Customer Service Representative Skills
+      hint: How would you rate the customer service representative's skills?
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 8
+      name: call_length
+      label: Call Length
+      hint: Length of the call
+      type: select_one
+      options:
+      - Under 5 minutes
+      - 5-15 minutes
+      - 16-30 minutes
+      - Over 30 minutes
+      required: true
+    - id: 9
+      name: call_quality
+      label: Call Quality
+      hint: Call quality
+      type: select_multiple
+      options:
+      - Clear
+      - Clear with some background noise
+      - Distorted
+      - Very Distorted
+      - Not Clear at All
+      required: true
+    - id: 10
+      name: customer_service_representative_response_time
+      label: Customer Service Representative Response Time
+      hint: Time to respond to caller
+      type: select_one
+      options:
+      - Less than 1 minute
+      - 1-2 minutes
+      - 2-5 minutes
+      - More than 5 minutes
+      required: true
+    - id: 11
+      name: customer_satisfaction
+      label: Customer Satisfaction
+      hint: How satisfied are you with the customer service?
+      type: select_multiple
+      options:
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Neutral
+      - Somewhat Dissatisfied
+      - Very Dissatisfied
+      required: true
+    - id: 12
+      name: customer_service_representative_satisfaction
+      label: Customer Service Representative Satisfaction
+      hint: How satisfied are you with the customer service representative?
+      type: select_multiple
+      options:
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Neutral
+      - Somewhat Dissatisfied
+      - Very Dissatisfied
+      required: true
+    - id: 13
+      name: follow_up_action
+      label: Follow-up Action
+      hint: What would be the follow-up action for this call?
+      type: select_multiple
+      options:
+      - No Follow-up
+      - Follow-up Required
+      - Follow-up Recommended
+      - Follow-up Not Required
+      required: true
+    - id: 14
+      name: follow_up_description
+      label: Follow-up Description
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Not Sure
+      required: true
+    - id: 15
+      name: customer_service_representative_comments
+      label: Customer Service Representative Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: customer_comments
+      label: Customer Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: follow_up_status
+      label: Follow-up Status
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - Not Completed
+      - In Progress
+      required: true
+    - id: 18
+      name: issue
+      label: Issue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: resolution
+      label: Resolution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: customer_service_representative_notes
+      label: Customer Service Representative Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: customer_service_representative_additional_comments
+      label: Customer Service Representative Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: customer_service_representative_follow_up_notes
+      label: Customer Service Representative Follow-up Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: customer_service_representative_follow_up_comments
+      label: Customer Service Representative Follow-up Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: customer_service_representative_follow_up_additional_comments
+      label: Customer Service Representative Follow-up Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

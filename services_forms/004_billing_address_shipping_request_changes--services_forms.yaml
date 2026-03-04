@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Billing Address Shipping Request Changes
+    pages:
+    - id: 1
+      name: section_account_information
+      label: -- Account Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: account_number
+      label: Account Number
+      hint: Your customer account number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_email
+      label: Email Address
+      hint: Email associated with account
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: customer_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_change_type
+      label: -- What Would You Like to Change --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: change_type
+      label: Type of Change
+      hint: Select what information you want to update
+      type: select_multiple
+      options:
+      - Billing Address
+      - Shipping Address
+      - Both Addresses
+      - Billing Name
+      - Contact Information
+      required: true
+    - id: 7
+      name: section_current_billing
+      label: -- Current Billing Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: current_billing_name
+      label: Current Billing Name
+      hint: Name on current billing account
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: current_billing_address
+      label: Current Billing Address
+      hint: Current address on file
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: section_new_billing
+      label: -- New Billing Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: new_billing_name
+      label: New Billing Name
+      hint: New name for billing address
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: new_billing_street
+      label: New Billing Street Address
+      hint: Street address for billing
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: new_billing_city
+      label: City
+      hint: City for billing address
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: new_billing_state
+      label: State or Province
+      hint: State or province for billing
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: new_billing_zip
+      label: ZIP or Postal Code
+      hint: Billing area postal code
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: new_billing_country
+      label: Country
+      hint: Country for billing address
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: section_current_shipping
+      label: -- Current Shipping Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: current_shipping_address
+      label: Current Shipping Address
+      hint: Current shipping address on file
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: section_new_shipping
+      label: -- New Shipping Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: new_shipping_name
+      label: Recipient Name
+      hint: Name for shipping recipient
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: new_shipping_street
+      label: New Shipping Street Address
+      hint: Street address for shipping
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: new_shipping_city
+      label: City
+      hint: City for shipping address
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: new_shipping_state
+      label: State or Province
+      hint: State or province for shipping
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: new_shipping_zip
+      label: ZIP or Postal Code
+      hint: Shipping area postal code
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: new_shipping_country
+      label: Country
+      hint: Country for shipping address
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: effective_date
+      label: Effective Date for Changes
+      hint: When should these changes take effect
+      type: date
+      options: []
+      required: false
+    - id: 27
+      name: confirmation
+      label: I confirm the above information is accurate
+      hint: Check to verify information
+      type: select_one
+      options:
+      - Yes, Confirm
+      - No, I Need to Make Changes
+      required: true

@@ -1,0 +1,174 @@
+inputSchema:
+  type: object
+  properties:
+    title: membership_club_join_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Card
+      - Bank Transfer
+      - PayPal
+      required: false
+    - id: 6
+      name: payment_card_brand
+      label: Card Brand
+      hint: Visa, Mastercard, Amex
+      type: select_multiple
+      options:
+      - Visa
+      - Mastercard
+      - Amex
+      required: false
+    - id: 7
+      name: payment_card_number
+      label: Card Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: amount
+      label: Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: terms_of_service
+      label: Terms of Service
+      hint: Read and accept the terms of service.
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: time_of_birth
+      label: Time of Birth
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: address
+      label: Address
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: country_of_residence
+      label: Country of Residence
+      hint: null
+      type: select_multiple
+      options:
+      - United States
+      - Canada
+      - Mexico
+      required: false
+    - id: 16
+      name: state_of_residence
+      label: State of Residence
+      hint: null
+      type: select_multiple
+      options:
+      - Alabama
+      - Alaska
+      - Arizona
+      - Arkansas
+      required: false
+    - id: 17
+      name: city_of_residence
+      label: City of Residence
+      hint: null
+      type: select_multiple
+      options:
+      - New York City
+      - Los Angeles
+      - Chicago
+      required: false
+    - id: 18
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: country_of_residence
+      label: Country of Residence
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: state_of_residence
+      label: State of Residence
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: city_of_residence
+      label: City of Residence
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,131 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cultural Night Performer Signup
+    pages:
+    - id: 1
+      name: performer_name
+      label: Performer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Drama
+      - Music
+      - Dance
+      - Other
+      required: false
+    - id: 6
+      name: performer_experience
+      label: Performer Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: performance_dates
+      label: Performance Dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: performance_time
+      label: Performance Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: venue
+      label: Venue
+      hint: null
+      type: select_one
+      options:
+      - school
+      - community_venue
+      - public_stage
+      required: false
+    - id: 10
+      name: organizer
+      label: Organizer
+      hint: null
+      type: select_multiple
+      options:
+      - School A
+      - School B
+      - Community Organizer
+      - Public Organizer
+      required: false
+    - id: 11
+      name: follow_up_method
+      label: Follow-up Method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - In-person
+      required: false
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: submitter_name
+      label: Submitter Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: submitter_organization
+      label: Submitter Organization
+      hint: null
+      type: text
+      options: []
+      required: false

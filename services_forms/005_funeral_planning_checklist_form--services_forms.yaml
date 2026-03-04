@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Funeral Planning Checklist Form
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: funeral_planning_goals
+      label: Funeral Planning Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: planning_process
+      label: Planning Process
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: family_involvement
+      label: Family Involvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: funeral_director
+      label: Funeral Director
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: death_certificate
+      label: Death Certificate
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: body_donation
+      label: Body Donation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: casket_selection
+      label: Casket Selection
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: headstone_selection
+      label: Headstone Selection
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: burial_site
+      label: Burial Site
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

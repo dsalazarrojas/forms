@@ -1,0 +1,91 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: AI Project Beta Test Registration
+    pages:
+    - id: 1
+      name: --participant_details--
+      label: -- Participant Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: company
+      label: Company or organization
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email address
+      hint: Required for invitations
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: role
+      label: Role at organization
+      hint: Example Product Manager, Engineer
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: use_case_description
+      label: Description of intended use case
+      hint: Briefly describe how you will test the project
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: technical_readiness
+      label: Technical readiness to integrate beta
+      hint: Select one
+      type: select_one
+      options:
+      - Ready to integrate
+      - Some development required
+      - Need support from team
+      required: true
+    - id: 8
+      name: availability_window
+      label: Availability window for testing
+      hint: Dates or general timeframe
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: nda_required
+      label: NDA required for participation
+      hint: Select one
+      type: select_one
+      options:
+      - Yes
+      - No
+      required: true
+    - id: 10
+      name: additional_requirements
+      label: Additional requirements or notes
+      hint: Optional
+      type: text
+      options: []
+      required: false

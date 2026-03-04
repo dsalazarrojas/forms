@@ -1,0 +1,230 @@
+inputSchema:
+  type: object
+  properties:
+    title: Catering Order Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Your contact phone
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company_name
+      label: Company Name
+      hint: Your company if applicable
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: event_name
+      label: Event Name
+      hint: Name of your event
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: event_type
+      label: Event Type
+      hint: What type of event
+      type: select_one
+      options:
+      - Wedding
+      - Corporate Event
+      - Birthday Party
+      - Anniversary
+      - Graduation
+      - Conference
+      - Private Party
+      - Holiday Party
+      - Other
+      required: true
+    - id: 7
+      name: event_date
+      label: Event Date
+      hint: Date of your event
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: event_time
+      label: Event Time
+      hint: Start time of event
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: guest_count
+      label: Number of Guests
+      hint: Expected guest count
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: venue_name
+      label: Venue Name
+      hint: Where is the event
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: venue_address
+      label: Venue Address
+      hint: Complete address
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: delivery_method
+      label: Delivery Method
+      hint: How will you receive the order
+      type: select_one
+      options:
+      - Delivery with Setup
+      - Delivery Only
+      - Pickup
+      - Full Service
+      required: true
+    - id: 13
+      name: menu_package
+      label: Menu Package
+      hint: Selected menu package
+      type: select_one
+      options:
+      - Breakfast Package
+      - Lunch Package
+      - Dinner Package
+      - Appetizer Package
+      - Dessert Package
+      - Custom Menu
+      required: true
+    - id: 14
+      name: main_course
+      label: Main Course Selection
+      hint: Your choice of main course
+      type: select_one
+      options:
+      - Chicken
+      - Beef
+      - Fish
+      - Vegetarian
+      - Vegan
+      - Mixed
+      required: true
+    - id: 15
+      name: appetizers
+      label: Appetizers
+      hint: Select appetizers
+      type: select_multiple
+      options:
+      - Bruschetta
+      - Caprese Skewers
+      - Meatballs
+      - Spring Rolls
+      - Cheese Platter
+      - Fruit Platter
+      - None
+      required: false
+    - id: 16
+      name: desserts
+      label: Desserts
+      hint: Select desserts
+      type: select_multiple
+      options:
+      - Cake
+      - Cookies
+      - Fruit Tart
+      - Chocolate Mousse
+      - Ice Cream
+      - None
+      required: false
+    - id: 17
+      name: beverages
+      label: Beverages
+      hint: Select beverages
+      type: select_multiple
+      options:
+      - Coffee
+      - Tea
+      - Soft Drinks
+      - Juice
+      - Water
+      - Beer and Wine
+      - Full Bar
+      required: false
+    - id: 18
+      name: dietary_requirements
+      label: Dietary Requirements
+      hint: Any dietary restrictions
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: special_requests
+      label: Special Requests
+      hint: Any special requirements
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: rental_items
+      label: Rental Items Needed
+      hint: Tables - chairs - linens - etc
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: order_total
+      label: Order Total
+      hint: Total cost
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: deposit_required
+      label: Deposit Required
+      hint: Deposit amount
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Check
+      - Cash
+      - Invoice
+      required: true
+    - id: 24
+      name: order_date
+      label: Order Date
+      hint: Date of this order
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

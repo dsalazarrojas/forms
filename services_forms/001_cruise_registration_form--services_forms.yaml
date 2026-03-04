@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cruise Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: EMail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: cruise_line
+      label: Cruise Line
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: ship_name
+      label: Ship Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: departure_date
+      label: Departure Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: arrival_date
+      label: Arrival Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: travel_agency
+      label: Travel Agency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: travel_agent
+      label: Travel Agent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: cabin_number
+      label: Cabin Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: roommates
+      label: Roommates
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: travel_document
+      label: Travel Document
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: travel_notes
+      label: Travel Notes
+      hint: null
+      type: note
+      options: []
+      required: false

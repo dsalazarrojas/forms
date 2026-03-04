@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: CHILDREN'S MAD HATTERS PHOTO COMPETITION Photo Upload Form
+    pages:
+    - id: 1
+      name: section_competition_info
+      label: -- Competition Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: child_first_name
+      label: Child First Name
+      hint: Enter the first name of the child entering the competition
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: child_last_name
+      label: Child Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: child_age
+      label: Child Age
+      hint: Competition is open to children of all school ages
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: school_name
+      label: School Name
+      hint: The winning school receives 1000 pounds
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_contact_details
+      label: -- Contact Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: parent_guardian_name
+      label: Parent or Guardian Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: contact_email
+      label: Contact Email
+      hint: We will use this to notify winners
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: contact_phone
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: section_entry_details
+      label: -- Entry Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: hat_design_description
+      label: Hat Design Description
+      hint: Tell us about your outrageous hat design
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: photo_upload_instruction
+      label: Photo Upload Instructions
+      hint: Please ensure the photo clearly shows the child wearing the hat
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: photo_link
+      label: Link to Photo
+      hint: Please provide a link to your uploaded photo (e.g. Google Drive, Dropbox)
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: terms_agreement
+      label: I agree to the competition terms and conditions
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

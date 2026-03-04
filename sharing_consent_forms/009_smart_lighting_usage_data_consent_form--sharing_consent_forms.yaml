@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Smart Lighting Usage Data Consent Form
+    pages:
+    - id: 1
+      name: participant_information
+      label: Participant Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: consent_participant
+      label: Participant Consent
+      hint: Provide detailed consent of participants for smart lighting usage data
+        collection
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: consent_parent
+      label: Parent Consent
+      hint: Provide consent from parent/guardian
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: participant_email
+      label: Participant Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: participant_phone
+      label: Participant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: utility_name
+      label: Utility Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: installer_name
+      label: Installer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: property_manager_name
+      label: Property Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: smart_home_program
+      label: Smart Home Program
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: participant_note
+      label: Participant Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: participant_agreement
+      label: Participant Agreement
+      hint: null
+      type: text
+      options: []
+      required: false

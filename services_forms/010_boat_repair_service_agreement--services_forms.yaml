@@ -1,0 +1,218 @@
+inputSchema:
+  type: object
+  properties:
+    title: Boat Repair Service Agreement
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: customer_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: customer_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: customer_city_state_zip
+      label: City - State - Zip
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: boat_name
+      label: Boat Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: boat_manufacturer
+      label: Boat Manufacturer
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: boat_model
+      label: Boat Model
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: boat_year
+      label: Year of Manufacture
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: boat_hull_number
+      label: Hull Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: service_type
+      label: Type of Repair Needed
+      hint: null
+      type: select_multiple
+      options:
+      - Engine Repair
+      - Electrical System
+      - Fuel System
+      - Cooling System
+      - Hull Repair
+      - Propeller Service
+      - Steering System
+      - Plumbing
+      - Upholstery
+      - Other
+      required: true
+    - id: 12
+      name: detailed_issue_description
+      label: Detailed Description of Issues
+      hint: Describe the problems with the boat
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: service_date_needed
+      label: Requested Service Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: service_urgency
+      label: Service Urgency
+      hint: null
+      type: select_one
+      options:
+      - Emergency - ASAP
+      - Urgent - Within 1 week
+      - Standard - Within 2 weeks
+      - Can Wait - No specific timeframe
+      required: true
+    - id: 15
+      name: estimated_duration
+      label: Estimated Service Duration
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 day
+      - 1-2 days
+      - 3-5 days
+      - 1-2 weeks
+      - More than 2 weeks
+      - Unknown
+      required: true
+    - id: 16
+      name: authorization_amount
+      label: Maximum Authorization Amount
+      hint: Dollar amount you authorize for repairs
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: approval_process
+      label: How should we proceed with estimates
+      hint: null
+      type: select_one
+      options:
+      - Proceed with repairs up to approved amount
+      - Call me for estimates over 500 dollars
+      - Call me for any estimate
+      - Provide written estimate first
+      required: true
+    - id: 18
+      name: insurance_coverage
+      label: Is this repair covered by insurance
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Sure
+      required: true
+    - id: 19
+      name: insurance_claim_number
+      label: Insurance Claim Number if Applicable
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: warranty_option
+      label: Do you want a warranty on repairs
+      hint: null
+      type: select_one
+      options:
+      - Yes - Warranty requested
+      - No warranty needed
+      - Unsure
+      required: true
+    - id: 21
+      name: warranty_period
+      label: Preferred Warranty Period
+      hint: If warranty requested
+      type: select_one
+      options:
+      - 30 days
+      - 60 days
+      - 90 days
+      - 1 year
+      - Other
+      required: false
+    - id: 22
+      name: parts_preference
+      label: Parts Preference
+      hint: null
+      type: select_one
+      options:
+      - OEM - Original Manufacturer
+      - Aftermarket
+      - Whatever is recommended
+      - Customer supplied parts
+      required: true
+    - id: 23
+      name: contact_preference
+      label: Preferred Contact Method
+      hint: How we should contact you
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - Text Message
+      - In Person
+      required: true
+    - id: 24
+      name: terms_acceptance
+      label: I accept the service agreement terms
+      hint: null
+      type: select_one
+      options:
+      - I Accept
+      - I Do Not Accept
+      required: true

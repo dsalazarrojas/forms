@@ -1,0 +1,124 @@
+inputSchema:
+  type: object
+  properties:
+    title: Aesthetics Renewal Signatures Form
+    pages:
+    - id: 1
+      name: client_id_header
+      label: -- Client Identification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: dob
+      label: Date of Birth
+      hint: For verification.
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: health_update_header
+      label: -- Health Status Update --
+      hint: Since your last visit.
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: health_changes
+      label: Any changes to your health?
+      hint: New diagnoses, surgeries, etc.
+      type: select_one
+      options:
+      - No changes
+      - Yes (Describe below)
+      required: true
+    - id: 7
+      name: health_changes_desc
+      label: Description of Changes
+      hint: If yes, please explain.
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: med_changes
+      label: Any changes to medications?
+      hint: New prescriptions or supplements.
+      type: select_one
+      options:
+      - No changes
+      - Yes (List below)
+      required: true
+    - id: 9
+      name: med_list
+      label: Updated Medication List
+      hint: If yes, please list.
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: pregnancy_check
+      label: Pregnancy/Breastfeeding Status
+      hint: Confirm current status.
+      type: select_one
+      options:
+      - Not Pregnant/Breastfeeding
+      - Pregnant
+      - Breastfeeding
+      - Trying to conceive
+      required: true
+    - id: 11
+      name: renewal_consent_header
+      label: -- Consent Renewal --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: consent_renewal
+      label: Renew Treatment Consent
+      hint: I reaffirm my original consent for ongoing treatments.
+      type: select_one
+      options:
+      - I Reaffirm
+      - Other
+      required: true
+    - id: 13
+      name: policy_acknowledgment
+      label: Clinic Policy Acknowledgment
+      hint: I have read and agree to the current cancellation and payment policies.
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 14
+      name: signature_date
+      label: Today's Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: signature
+      label: Client Signature
+      hint: Sign to renew.
+      type: select_one
+      options:
+      - Signed
+      - Other
+      required: true

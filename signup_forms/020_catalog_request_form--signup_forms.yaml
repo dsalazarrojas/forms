@@ -1,0 +1,141 @@
+inputSchema:
+  type: object
+  properties:
+    title: Catalog Request Form
+    pages:
+    - id: 1
+      name: personal_info_header
+      label: -- Your Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: company_name
+      label: Company Name
+      hint: Optional for individual requests
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_shipping
+      label: -- Mailing Address --
+      hint: Where should we send the physical catalog
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: street_address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: city_state_zip
+      label: City, State, and Zip Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: catalog_details_header
+      label: -- Catalog Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: catalog_type
+      label: Which catalog version would you like to receive
+      hint: null
+      type: select_one
+      options:
+      - Spring/Summer Collection
+      - Fall/Winter Collection
+      - Full Annual Catalog
+      - Digital Only Catalog
+      required: true
+    - id: 12
+      name: delivery_method
+      label: Preferred Delivery Method
+      hint: null
+      type: select_one
+      options:
+      - Physical Copy by Mail
+      - Digital Copy by Email
+      - Both
+      required: true
+    - id: 13
+      name: interest_areas
+      label: Areas of Interest
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Outdoor Furniture
+      - Interior Decor
+      - Kitchenware
+      - Gardening Tools
+      - Holiday Items
+      required: false
+    - id: 14
+      name: industry_type
+      label: Your Industry
+      hint: null
+      type: select_one
+      options:
+      - Interior Design
+      - Real Estate
+      - Hospitality
+      - Retailer
+      - Homeowner/Consumer
+      required: true
+    - id: 15
+      name: hearing_source
+      label: How did you hear about our products
+      hint: null
+      type: select_one
+      options:
+      - Social Media
+      - Google Search
+      - Magazine Ad
+      - Friend Recommendation
+      - Trade Show
+      required: false
+    - id: 16
+      name: submission_consent
+      label: I agree to receive marketing updates from the company
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

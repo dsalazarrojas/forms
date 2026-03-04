@@ -1,0 +1,293 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chiller Service Feedback Survey
+    pages:
+    - id: 1
+      name: respondent_information
+      label: Respondent Information
+      hint: Tell us about yourself
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: respondent_name
+      label: Your Name
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email Address
+      hint: For follow-up if needed
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: service_details
+      label: Service Details
+      hint: Information about the service received
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: service_date
+      label: Date of Service
+      hint: Approximate date
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: service_type
+      label: Type of Service Received
+      hint: null
+      type: select_one
+      options:
+      - Routine maintenance
+      - Emergency repair
+      - Installation
+      - Inspection
+      - Consultation
+      - Other
+      required: true
+    - id: 9
+      name: technician_name
+      label: Technician Name
+      hint: If you remember
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: location_serviced
+      label: Location of Serviced Equipment
+      hint: Building or facility
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: scheduling_experience
+      label: Scheduling Experience
+      hint: How easy was it to schedule
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: scheduling_ease
+      label: How easy was it to schedule the service
+      hint: null
+      type: select_one
+      options:
+      - Very easy
+      - Somewhat easy
+      - Neutral
+      - Somewhat difficult
+      - Very difficult
+      required: true
+    - id: 13
+      name: appointment_time
+      label: Was the appointment time convenient
+      hint: null
+      type: select_one
+      options:
+      - Yes, very convenient
+      - Yes, acceptable
+      - Neutral
+      - No, inconvenient
+      - No, very inconvenient
+      required: true
+    - id: 14
+      name: technician_arrival
+      label: Did the technician arrive on time
+      hint: null
+      type: select_one
+      options:
+      - Yes, early
+      - Yes, on time
+      - No, slightly late
+      - No, very late
+      - No show
+      required: true
+    - id: 15
+      name: technician_performance
+      label: Technician Performance
+      hint: Rate the technician
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: technician_professionalism
+      label: Technician Professionalism
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 17
+      name: technician_knowledge
+      label: Technician Knowledge and Expertise
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 18
+      name: technician_courtesy
+      label: Technician Courtesy and Respect
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 19
+      name: work_area_cleanliness
+      label: Work Area Cleanliness
+      hint: Did technician maintain clean work area
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 20
+      name: service_quality
+      label: Service Quality
+      hint: Overall service assessment
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: problem_resolved
+      label: Was your problem fully resolved
+      hint: null
+      type: select_one
+      options:
+      - Yes, completely
+      - Yes, mostly
+      - Partially
+      - No, issue persists
+      - Too soon to tell
+      required: true
+    - id: 22
+      name: service_quality_rating
+      label: Overall Service Quality Rating
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 23
+      name: value_for_money
+      label: Value for Money
+      hint: null
+      type: select_one
+      options:
+      - Excellent value
+      - Good value
+      - Fair value
+      - Poor value
+      - Not sure
+      required: true
+    - id: 24
+      name: communication
+      label: Communication and Explanation
+      hint: How well did technician explain the work
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 25
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: Your overall experience
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: overall_satisfaction_rating
+      label: Overall Satisfaction Rating
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      required: true
+    - id: 27
+      name: would_recommend
+      label: Would you recommend our services to others
+      hint: null
+      type: select_one
+      options:
+      - Definitely yes
+      - Probably yes
+      - Not sure
+      - Probably no
+      - Definitely no
+      required: true
+    - id: 28
+      name: would_use_again
+      label: Would you use our services again
+      hint: null
+      type: select_one
+      options:
+      - Definitely yes
+      - Probably yes
+      - Not sure
+      - Probably no
+      - Definitely no
+      required: true
+    - id: 29
+      name: additional_feedback
+      label: Additional Comments or Suggestions
+      hint: We value your feedback
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: contact_permission
+      label: May we contact you for follow-up
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false

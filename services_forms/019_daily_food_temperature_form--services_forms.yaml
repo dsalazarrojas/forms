@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daily Food Temperature Form
+    pages:
+    - id: 1
+      name: daily_food_temperature_form_1
+      label: Food Item
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Apple Pie''}'
+      - '{''id'': 2, ''label'': ''Banana''}'
+      required: false
+    - id: 2
+      name: food_temperature_1
+      label: Initial Temperature
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: food_temperature_2
+      label: Final Temperature
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: monitor_start_time_1
+      label: Monitor Start
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: monitor_end_time_1
+      label: Monitor End
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: storage_condition_1
+      label: Storage Condition
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Frozen''}'
+      - '{''id'': 2, ''label'': ''Refrigerated''}'
+      - '{''id'': 3, ''label'': ''Ambient''}'
+      required: false
+    - id: 7
+      name: notes_1
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: assigned_to_1
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''chatjimmy''}'
+      - Other
+      required: true
+    - id: 9
+      name: submitted_by_1
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''chatjimmy''}'
+      - Other
+      required: true
+    - id: 10
+      name: submitted_at_1
+      label: Submitted At
+      hint: null
+      type: date
+      options: []
+      required: true

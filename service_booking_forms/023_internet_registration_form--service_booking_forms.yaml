@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Internet Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: Enter your email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: zip
+      label: Zip
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_one
+      options:
+      - DSL
+      - Cable
+      - Fiber
+      required: false
+    - id: 9
+      name: speed
+      label: Speed
+      hint: null
+      type: select_multiple
+      options:
+      - '50'
+      - '100'
+      - '200'
+      - '500'
+      - '1000'
+      - '2000'
+      - '3000'
+      required: false
+    - id: 10
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true

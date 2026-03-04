@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: College Entrance Exam Form
+    pages:
+    - id: 1
+      name: candidate_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: candidate_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: candidate_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: candidate_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: exam_type
+      label: Entrance Exam Type
+      hint: Which exam are you taking
+      type: select_one
+      options:
+      - SAT
+      - ACT
+      - GRE
+      - GMAT
+      - LSAT
+      - Other
+      required: true
+    - id: 7
+      name: exam_date_preference
+      label: Preferred Exam Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: test_location_preference
+      label: Test Location Preference
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: current_high_school
+      label: Current High School or Institution
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: expected_graduation_year
+      label: Expected Graduation Year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: cumulative_gpa
+      label: Cumulative GPA
+      hint: On 4.0 scale if available
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: prior_test_attempts
+      label: Prior Test Attempts
+      hint: How many times have you taken this exam
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: prior_score_submit
+      label: Submit Prior Test Scores
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: prior_score_value
+      label: Prior Test Score
+      hint: Your best previous score
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: intended_major
+      label: Intended Major or Program
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: college_choice_primary
+      label: Primary College or University Choice
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: college_choice_secondary
+      label: Secondary College Choices
+      hint: Other schools you are considering
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: test_prep_status
+      label: Test Preparation Status
+      hint: null
+      type: select_one
+      options:
+      - Not Started
+      - Self-Studying
+      - Taking Prep Course
+      - With Private Tutor
+      - Ready to Test
+      required: true
+    - id: 19
+      name: accommodations_needed
+      label: Testing Accommodations Needed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: accommodation_details
+      label: Accommodation Details
+      hint: Extra time, specific location, etc.
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: financial_aid_need
+      label: Financial Aid Needed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 22
+      name: english_language_learner
+      label: English Language Learner
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 23
+      name: english_test_language
+      label: English Proficiency Test Score Submitted
+      hint: TOEFL, IELTS, etc. if applicable
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: score_recipients
+      label: Schools to Send Scores To
+      hint: List institutions
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: consent_to_exam
+      label: I consent to testing and score reporting
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

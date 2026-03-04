@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Consent To Conduct Background Check
+    pages:
+    - id: 1
+      name: section_individual_info
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_legal_name
+      label: Full Legal Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: ssn_full
+      label: Social Security Number
+      hint: For background verification purposes
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: current_residential_address
+      label: Current Residential Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_background_auth
+      label: -- Background Check Authorization --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: permission_to_investigate
+      label: I give The Youth Connection permission to conduct a background check
+        on me
+      hint: null
+      type: select_one
+      options:
+      - I give permission
+      - Other
+      required: true
+    - id: 9
+      name: types_of_checks_authorized
+      label: I understand this check may include
+      hint: null
+      type: select_multiple
+      options:
+      - Criminal Records
+      - Sex Offender Registry
+      - Employment History
+      - Education Verification
+      required: true
+    - id: 10
+      name: purpose_acknowledgment
+      label: I understand this check is a requirement of the process
+      hint: null
+      type: select_one
+      options:
+      - I understand
+      - Other
+      required: true
+    - id: 11
+      name: section_final_step
+      label: -- Signature --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: applicant_signature
+      label: Applicant Electronic Signature (Type Full Name)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: date_signed
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: witness_name
+      label: Witness Name (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false

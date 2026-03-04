@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Facility Safety Inspection Checklist
+    pages:
+    - id: 1
+      name: facility_safety_inspection_checklist
+      label: Facility Safety Inspection Checklist
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: facility_name
+      label: facility_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_person
+      label: contact_person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: facility_location
+      label: facility_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: facility_type
+      label: facility_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: facility_address
+      label: facility_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date_of_inspection
+      label: date_of_inspection
+      hint: null
+      type: date
+      options: []
+      required: false

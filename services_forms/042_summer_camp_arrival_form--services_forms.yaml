@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Summer Camp Arrival Form
+    pages:
+    - id: 1
+      name: camper_arrival_time
+      label: Camper Arrival Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 2
+      name: pick_up_location
+      label: Pick up Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: pick_up_time
+      label: Pick up Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: transportation_method
+      label: Transportation Method
+      hint: null
+      type: select_one
+      options:
+      - Walking
+      - Driving
+      - Bus
+      - Train
+      - Other
+      required: false
+    - id: 5
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: special_requirements
+      label: Special Requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: campsite
+      label: Campsite
+      hint: null
+      type: text
+      options: []
+      required: false

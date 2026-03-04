@@ -1,0 +1,161 @@
+inputSchema:
+  type: object
+  properties:
+    title: Appointment Booking For Monika's Open House
+    pages:
+    - id: 1
+      name: booking_date
+      label: Booking Date
+      hint: Date when booking is made
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: visitor_name
+      label: Visitor Name
+      hint: Full name of visitor
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: visitor_email
+      label: Visitor Email
+      hint: Email address for confirmation
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: visitor_phone
+      label: Visitor Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: number_of_guests
+      label: Number of Guests
+      hint: Total number of people attending
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: guest_names
+      label: Guest Names
+      hint: Names of all guests attending
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: preferred_date
+      label: Preferred Date
+      hint: Preferred date for open house visit
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: preferred_time
+      label: Preferred Time
+      hint: Preferred time slot
+      type: select_one
+      options:
+      - 9:00 AM - 10:00 AM
+      - 10:00 AM - 11:00 AM
+      - 11:00 AM - 12:00 PM
+      - 12:00 PM - 1:00 PM
+      - 1:00 PM - 2:00 PM
+      - 2:00 PM - 3:00 PM
+      - 3:00 PM - 4:00 PM
+      - 4:00 PM - 5:00 PM
+      required: true
+    - id: 9
+      name: property_interest
+      label: Property Interest
+      hint: What type of property are you interested in
+      type: select_one
+      options:
+      - Single Family Home
+      - Condominium
+      - Townhouse
+      - Multi-Family
+      - Investment Property
+      - Just Looking
+      required: true
+    - id: 10
+      name: budget_range
+      label: Budget Range
+      hint: Your budget range for purchase
+      type: select_one
+      options:
+      - Under $500K
+      - $500K - $750K
+      - $750K - $1M
+      - $1M - $1.5M
+      - $1.5M - $2M
+      - Over $2M
+      required: false
+    - id: 11
+      name: currently_own_home
+      label: Currently Own Home
+      hint: Do you currently own a home
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 12
+      name: financing_status
+      label: Financing Status
+      hint: Your financing situation
+      type: select_one
+      options:
+      - Pre-Approved
+      - Pre-Qualified
+      - Need Financing
+      - Cash Buyer
+      - Not Sure
+      required: false
+    - id: 13
+      name: agent_name
+      label: Agent Name
+      hint: Are you working with a real estate agent
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: special_requirements
+      label: Special Requirements
+      hint: Any special requirements or accessibility needs
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: how_heard
+      label: How Heard
+      hint: How did you hear about this open house
+      type: select_one
+      options:
+      - Online Listing
+      - Social Media
+      - Sign in Yard
+      - Friend or Family
+      - Real Estate Agent
+      - Email Invitation
+      - Other
+      required: false
+    - id: 16
+      name: additional_comments
+      label: Additional Comments
+      hint: Any questions or comments
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: confirm_attendance
+      label: Confirm Attendance
+      hint: Confirm you will attend the open house
+      type: select_one
+      options:
+      - Yes - Confirmed
+      - Maybe
+      - No - Cancel
+      required: true

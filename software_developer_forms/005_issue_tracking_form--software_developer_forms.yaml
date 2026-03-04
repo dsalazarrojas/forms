@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Issue Tracking Form
+    pages:
+    - id: 1
+      name: issue_tracking_form
+      label: issue_tracking_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: company_member
+      label: company_member
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: report_date
+      label: report_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: report_time
+      label: report_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: sync_apps
+      label: sync_apps
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: view_responses
+      label: view_responses
+      hint: null
+      type: note
+      options: []
+      required: false

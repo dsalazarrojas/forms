@@ -1,0 +1,131 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sustainable Education Leadership Survey
+    pages:
+    - id: 1
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category_name
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: school_location
+      label: School Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: sustainability_ratings
+      label: Sustainability Ratings
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 7
+      name: sustainability_challenges
+      label: Sustainability Challenges
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: leadership_perspectives
+      label: Leadership Perspectives
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: rating_scale
+      label: Rating Scale
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: rating_scale_range
+      label: Rating Scale Range
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: rating_scale_description
+      label: Rating Scale Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: school_population
+      label: School Population
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: school_type
+      label: School Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: school_level
+      label: School Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 15
+      name: school_size
+      label: School Size
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: school_region
+      label: School Region
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

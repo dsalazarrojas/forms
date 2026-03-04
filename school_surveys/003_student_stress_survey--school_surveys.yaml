@@ -1,0 +1,238 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Stress Survey
+    pages:
+    - id: 1
+      name: student_stress_survey
+      label: student_stress_survey
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: false
+    - id: 2
+      name: demographic_info
+      label: demographic_info
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: false
+    - id: 3
+      name: school_work
+      label: school_work
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: school_work_days
+      label: school_work_days
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: school_work_hours
+      label: school_work_hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: free_time_activities
+      label: free_time_activities
+      hint: null
+      type: select_multiple
+      options:
+      - Reading
+      - Sports
+      - Socializing
+      - Other
+      required: false
+    - id: 7
+      name: family_support
+      label: family_support
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 8
+      name: school_support
+      label: school_support
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 9
+      name: teacher_support
+      label: teacher_support
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: student_support_group
+      label: student_support_group
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 11
+      name: sleep
+      label: sleep
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: exercise
+      label: exercise
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 13
+      name: exercise_frequency
+      label: exercise_frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Several times a week
+      - Rarely
+      required: false
+    - id: 14
+      name: stress_level
+      label: stress_level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 15
+      name: school_climate
+      label: school_climate
+      hint: null
+      type: select_one
+      options:
+      - Positive
+      - Negative
+      - Neutral
+      required: false
+    - id: 16
+      name: academic_pressure
+      label: academic_pressure
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 17
+      name: time_management
+      label: time_management
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 18
+      name: self_confidence
+      label: self_confidence
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 19
+      name: teacher_support_frequency
+      label: teacher_support_frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Several times a week
+      - Rarely
+      required: false
+    - id: 20
+      name: student_support_group_frequency
+      label: student_support_group_frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Several times a week
+      - Rarely
+      required: false
+    - id: 21
+      name: student_support_group_quality
+      label: student_support_group_quality
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 22
+      name: teacher_support_quality
+      label: teacher_support_quality
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 23
+      name: school_workload
+      label: school_workload
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 24
+      name: free_time_activities_frequency
+      label: free_time_activities_frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Several times a week
+      - Rarely
+      required: false
+    - id: 25
+      name: school_climate_quality
+      label: school_climate_quality
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false

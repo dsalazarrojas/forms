@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Technician Evaluation Form Westmin Area 22
+    pages:
+    - id: 1
+      name: main_page
+      label: main_page
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: rating
+      label: rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_visit
+      label: date_of_visit
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: time_of_visit
+      label: time_of_visit
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: technician_name
+      label: technician_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: technician_email
+      label: technician_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: service_provided
+      label: service_provided
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: areas_served
+      label: areas_served
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: rating_score
+      label: rating_score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: recommended_for_training
+      label: recommended_for_training
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: assigned_manager
+      label: assigned_manager
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: evaluation_type
+      label: evaluation_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: evaluation_frequency
+      label: evaluation_frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: evaluation_date
+      label: evaluation_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: evaluation_time
+      label: evaluation_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 19
+      name: technician_level
+      label: technician_level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: true
+    - id: 20
+      name: westmin_area_22
+      label: westmin_area_22
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: technician_id
+      label: technician_id
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: form_id
+      label: form_id
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: technician_status
+      label: technician_status
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: supervisor_comment
+      label: supervisor_comment
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: supervisor_approval
+      label: supervisor_approval
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

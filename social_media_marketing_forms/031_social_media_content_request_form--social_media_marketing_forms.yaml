@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: social_media_content_request_form
+    pages:
+    - id: 1
+      name: social_media_platform
+      label: Social Media Platform
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Facebook''}'
+      - '{''label'': ''Twitter''}'
+      - '{''label'': ''Instagram''}'
+      required: false
+    - id: 2
+      name: content_type
+      label: Content Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Post''}'
+      - '{''label'': ''Story''}'
+      - '{''label'': ''Reels''}'
+      required: false
+    - id: 3
+      name: content_description
+      label: Content Description
+      hint: Please provide a brief description of the content you would like to see
+        on social media.
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: content_tags
+      label: Content Tags
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Tag 1''}'
+      - '{''label'': ''Tag 2''}'
+      - '{''label'': ''Tag 3''}'
+      required: false
+    - id: 7
+      name: social_media_manager
+      label: Social Media Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''chatjimmy''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 9
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Social Media Marketing Forms''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 11
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: output_file
+      label: Output File
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''031_social_media_content_request_form--social_media_marketing_forms''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 13
+      name: assigned_tool_name
+      label: Assigned Tool Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: required
+      label: Required
+      hint: null
+      type: text
+      options: []
+      required: true

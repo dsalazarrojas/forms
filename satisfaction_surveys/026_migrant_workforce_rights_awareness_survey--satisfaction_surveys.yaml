@@ -1,0 +1,61 @@
+inputSchema:
+  type: object
+  properties:
+    title: Migrant Workforce Rights Awareness Survey
+    pages:
+    - id: 1
+      name: migrant_workforce_rights_awareness_survey_questions
+      label: migrant workforce rights awareness survey questions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: migrant_workforce_rights_awareness_survey_questions_1
+      label: Do you know that you have the right to access clean drinking water?
+      hint: null
+      type: select_one
+      options:
+      - Migrant workers have the right to access clean drinking water
+      - Migrant workers do not have the right to access clean drinking water
+      - Not sure
+      required: false
+    - id: 3
+      name: migrant_workforce_rights_awareness_survey_questions_2
+      label: What is your primary occupation or industry?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''AgriculturechartInstance'': [''Construction'', ''Manufacturing'', ''Services'',
+        ''Other'']}'
+      - Other
+      required: false
+    - id: 4
+      name: migrant_workforce_rights_awareness_survey_questions_3
+      label: Have you experienced any issues with your employer related to your rights?
+      hint: Provide more details.
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: migrant_workforce_rights_awareness_survey_questions_4
+      label: Have you been provided with a clear understanding of your rights?
+      hint: Provide more details.
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: migrant_workforce_rights_awareness_survey_notes
+      label: migrant workforce rights awareness survey notes
+      hint: Please provide any further comments or explanations regarding the above
+        questions.
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: migrant_workforce_rights_awareness_survey_comments
+      label: migrant workforce rights awareness survey comments
+      hint: Please add any comments regarding your rights awareness.
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Recycling Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: household_recycling
+      label: household_recycling
+      hint: null
+      type: select_multiple
+      options:
+      - Paper
+      - Plastic
+      - Glass
+      - Metal
+      required: false
+    - id: 3
+      name: community_recycling
+      label: community_recycling
+      hint: null
+      type: select_one
+      options:
+      - Local Recycling Facility
+      - Curbside Pickup
+      - Both
+      required: false
+    - id: 4
+      name: education
+      label: education
+      hint: null
+      type: select_one
+      options:
+      - Public Awareness
+      - Personal Efforts
+      required: false
+    - id: 5
+      name: organization
+      label: organization
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: participation
+      label: participation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: knowledge
+      label: knowledge
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 8
+      name: concern
+      label: concern
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 9
+      name: suggestions
+      label: suggestions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: demographic
+      label: demographic
+      hint: Age Group
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false

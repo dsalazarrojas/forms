@@ -1,0 +1,219 @@
+inputSchema:
+  type: object
+  properties:
+    title: Anxiety Support Group Registration
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: age_group
+      label: Age group
+      hint: null
+      type: select_one
+      options:
+      - 18-25
+      - 26-35
+      - 36-45
+      - 46-55
+      - 56-65
+      - 65+
+      - Prefer not to answer
+      required: true
+    - id: 6
+      name: anxiety_experience
+      label: How long have you been experiencing anxiety?
+      hint: null
+      type: select_one
+      options:
+      - Less than 6 months
+      - 6 months to 1 year
+      - 1-3 years
+      - 3-5 years
+      - More than 5 years
+      required: true
+    - id: 7
+      name: anxiety_severity
+      label: Severity of anxiety symptoms
+      hint: null
+      type: select_one
+      options:
+      - Severe - significantly impacts life
+      - Moderate - interferes with daily activities
+      - Mild - bothersome but manageable
+      - Varies
+      required: true
+    - id: 8
+      name: primary_concerns
+      label: Primary anxiety concerns
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - General worry and stress
+      - Social anxiety
+      - Panic attacks
+      - Health anxiety
+      - Work or career stress
+      - Financial worries
+      - Relationship issues
+      - Other
+      required: true
+    - id: 9
+      name: previous_support
+      label: Have you participated in support groups before?
+      hint: null
+      type: select_one
+      options:
+      - Yes, support groups
+      - Yes, therapy or counseling
+      - Yes, both
+      - No, first time seeking support
+      required: true
+    - id: 10
+      name: current_treatment
+      label: Are you currently in treatment for anxiety?
+      hint: null
+      type: select_one
+      options:
+      - Yes, therapy
+      - Yes, medication
+      - Yes, both
+      - No treatment currently
+      - false
+      required: true
+    - id: 11
+      name: group_preference
+      label: Preferred meeting format
+      hint: null
+      type: select_one
+      options:
+      - In-person meetings
+      - Virtual meetings
+      - No preference
+      - Flexible depending on schedule
+      required: true
+    - id: 12
+      name: preferred_day
+      label: Preferred meeting day
+      hint: Select best day for you
+      type: select_one
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      - Flexible
+      required: true
+    - id: 13
+      name: preferred_time
+      label: Preferred meeting time
+      hint: null
+      type: select_one
+      options:
+      - Morning (before noon)
+      - Afternoon (noon-5pm)
+      - Evening (after 5pm)
+      - Flexible
+      required: true
+    - id: 14
+      name: commitment_level
+      label: How often can you commit to attend?
+      hint: null
+      type: select_one
+      options:
+      - Weekly
+      - Bi-weekly
+      - Monthly
+      - As schedule allows
+      required: true
+    - id: 15
+      name: group_size_preference
+      label: Preferred group size
+      hint: null
+      type: select_one
+      options:
+      - Small group (5-8 people)
+      - Medium group (8-15 people)
+      - Large group (15+ people)
+      - No preference
+      required: true
+    - id: 16
+      name: facilitator_type
+      label: Preference for group facilitator
+      hint: null
+      type: select_one
+      options:
+      - Professional therapist
+      - Peer-led support
+      - No preference
+      required: true
+    - id: 17
+      name: group_goals
+      label: What are your goals for attending?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: privacy_comfort
+      label: Comfort level sharing in a group setting
+      hint: null
+      type: select_one
+      options:
+      - Very comfortable
+      - Somewhat comfortable
+      - Neutral
+      - Somewhat uncomfortable
+      - Not comfortable
+      required: true
+    - id: 19
+      name: accessibility_needs
+      label: Any accessibility or accommodation needs?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: emergency_contact
+      label: Emergency contact name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: terms_agreement
+      label: I agree to group confidentiality and code of conduct
+      hint: null
+      type: select_one
+      options:
+      - Yes, I agree
+      - false
+      required: true

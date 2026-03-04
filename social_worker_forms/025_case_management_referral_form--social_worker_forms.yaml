@@ -1,0 +1,452 @@
+inputSchema:
+  type: object
+  properties:
+    title: Case Management Referral Form
+    pages:
+    - id: 1
+      name: referral_header
+      label: Case Management Referral Form
+      hint: Structured referral for case management services
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: referral_date
+      label: Referral Date
+      hint: Date of referral
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: referral_source
+      label: Referral Source Information
+      hint: Who is making referral
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: referrer_name
+      label: Referrer Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: referrer_title
+      label: Referrer Title
+      hint: Job title
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: referrer_organization
+      label: Referrer Organization
+      hint: Agency or company
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: referrer_email
+      label: Referrer Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: referrer_phone
+      label: Referrer Phone
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: referral_type
+      label: Type of Referral
+      hint: Referral category
+      type: select_one
+      options:
+      - Self-referral
+      - Professional referral
+      - Agency referral
+      - Court-ordered
+      - Family referral
+      - Community referral
+      - Other
+      required: true
+    - id: 10
+      name: urgency_level
+      label: Urgency Level
+      hint: Priority status
+      type: select_one
+      options:
+      - Routine - within 30 days
+      - Priority - within 14 days
+      - Urgent - within 72 hours
+      - Emergency - within 24 hours
+      - Crisis - immediate
+      required: true
+    - id: 11
+      name: client_info
+      label: Client Information
+      hint: Person being referred
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: client_name
+      label: Client Full Name
+      hint: Legal name
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: client_dob
+      label: Client Date of Birth
+      hint: DOB
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: client_gender
+      label: Client Gender
+      hint: Gender identity
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Transgender
+      - Other
+      - Prefer not to say
+      required: true
+    - id: 15
+      name: client_address
+      label: Client Address
+      hint: Current address
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: client_city
+      label: City
+      hint: City name
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: client_state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: client_zip
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: client_phone
+      label: Client Phone
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: client_email
+      label: Client Email
+      hint: If available
+      type: email
+      options: []
+      required: false
+    - id: 21
+      name: preferred_language
+      label: Preferred Language
+      hint: Communication language
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - Chinese
+      - Vietnamese
+      - Korean
+      - Tagalog
+      - Arabic
+      - Russian
+      - French
+      - Other
+      required: true
+    - id: 22
+      name: interpreter_needed
+      label: Is Interpreter Needed
+      hint: Language assistance
+      type: select_one
+      options:
+      - No - English proficient
+      - Yes - for meetings
+      - Yes - for documents
+      - Yes - for both
+      required: true
+    - id: 23
+      name: referral_reason
+      label: Reason for Referral
+      hint: Why referring
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: presenting_issues
+      label: Presenting Issues
+      hint: Current concerns
+      type: select_multiple
+      options:
+      - Housing instability
+      - Financial difficulties
+      - Unemployment
+      - Healthcare access
+      - Mental health concerns
+      - Substance use
+      - Domestic violence
+      - Child welfare
+      - Elder care
+      - Disability services
+      - Legal issues
+      - Immigration
+      - Education needs
+      - Food insecurity
+      - Transportation
+      - Social isolation
+      - Other
+      required: true
+    - id: 25
+      name: current_services
+      label: Current Services Received
+      hint: Active services
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: service_history
+      label: Relevant Service History
+      hint: Past interventions
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: medical_conditions
+      label: Relevant Medical Conditions
+      hint: Health status
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: mental_health_diagnosis
+      label: Mental Health Diagnoses
+      hint: If any
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: medications
+      label: Current Medications
+      hint: Prescription list
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: risk_factors
+      label: Known Risk Factors
+      hint: Safety concerns
+      type: select_multiple
+      options:
+      - None known
+      - Suicide risk
+      - Self-harm
+      - Violence risk
+      - Substance abuse
+      - Domestic violence
+      - Child safety
+      - Elder abuse
+      - Neglect
+      - Exploitation
+      - Homelessness
+      - Medical vulnerability
+      - Other
+      required: true
+    - id: 31
+      name: protective_factors
+      label: Known Protective Factors
+      hint: Client strengths
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: support_system
+      label: Support System Description
+      hint: Family and friends
+      type: select_one
+      options:
+      - Strong support network
+      - Moderate support
+      - Limited support
+      - No support system
+      - Unknown
+      required: true
+    - id: 33
+      name: housing_status
+      label: Current Housing Status
+      hint: Living situation
+      type: select_one
+      options:
+      - Own home
+      - Renting
+      - Living with family
+      - Temporary housing
+      - Shelter
+      - Unstably housed
+      - Homeless
+      - Unknown
+      required: true
+    - id: 34
+      name: income_status
+      label: Income Status
+      hint: Financial situation
+      type: select_one
+      options:
+      - Stable income
+      - Irregular income
+      - No income
+      - Public assistance only
+      - Unknown
+      required: true
+    - id: 35
+      name: insurance_status
+      label: Health Insurance Status
+      hint: Coverage
+      type: select_one
+      options:
+      - Private insurance
+      - Medicaid
+      - Medicare
+      - VA benefits
+      - Uninsured
+      - Unknown
+      required: true
+    - id: 36
+      name: legal_issues
+      label: Active Legal Issues
+      hint: Court involvement
+      type: select_one
+      options:
+      - None
+      - Civil matter
+      - Criminal charges
+      - Family court
+      - Immigration court
+      - Probation or parole
+      - Other
+      required: true
+    - id: 37
+      name: requested_services
+      label: Services Being Requested
+      hint: Specific needs
+      type: select_multiple
+      options:
+      - Case management
+      - Care coordination
+      - Resource linkage
+      - Advocacy
+      - Crisis intervention
+      - Safety planning
+      - Benefits enrollment
+      - Housing assistance
+      - Employment support
+      - Transportation assistance
+      - Life skills training
+      - Supportive counseling
+      - Other
+      required: true
+    - id: 38
+      name: goals
+      label: Client Goals
+      hint: Desired outcomes
+      type: text
+      options: []
+      required: false
+    - id: 39
+      name: consent_status
+      label: Consent Status
+      hint: Permission for services
+      type: select_one
+      options:
+      - Consent obtained
+      - Consent pending
+      - Client lacks capacity
+      - Guardian consent needed
+      required: true
+    - id: 40
+      name: attachments
+      label: Documents Attached
+      hint: Supporting materials
+      type: select_multiple
+      options:
+      - None
+      - ID documents
+      - Medical records
+      - Psychological evaluation
+      - School records
+      - Court documents
+      - Income verification
+      - Housing documents
+      - Other
+      required: false
+    - id: 41
+      name: additional_information
+      label: Additional Information
+      hint: Anything else relevant
+      type: text
+      options: []
+      required: false
+    - id: 42
+      name: referrer_signature
+      label: Referrer Signature Date
+      hint: Date signed
+      type: date
+      options: []
+      required: true
+    - id: 43
+      name: intake_followup
+      label: Intake Follow-Up
+      hint: Next steps
+      type: note
+      options: []
+      required: false
+    - id: 44
+      name: intake_assigned
+      label: Intake Worker Assigned
+      hint: Caseworker name
+      type: text
+      options: []
+      required: false
+    - id: 45
+      name: intake_date
+      label: Scheduled Intake Date
+      hint: If scheduled
+      type: date
+      options: []
+      required: false
+    - id: 46
+      name: referral_status
+      label: Referral Status
+      hint: Disposition
+      type: select_one
+      options:
+      - Pending review
+      - Accepted
+      - Accepted - waitlist
+      - Referred elsewhere
+      - Not accepted
+      - Incomplete information
+      required: false

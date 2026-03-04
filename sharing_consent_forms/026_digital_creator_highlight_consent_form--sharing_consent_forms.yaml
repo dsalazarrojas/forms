@@ -1,0 +1,48 @@
+inputSchema:
+  type: object
+  properties:
+    title: Digital Creator Highlight Consent Form
+    pages:
+    - id: 1
+      name: digital_creator_highlight_consent_form_1
+      label: I am a digital creator
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: digital_creator_highlight_consent_form_2
+      label: What type of creator am I
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: digital_creator_highlight_consent_form_3
+      label: I have the authority to act on behalf of
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: digital_creator_highlight_consent_form_4
+      label: I can represent my own work
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: digital_creator_highlight_consent_form_5
+      label: I have the right to grant permissions
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

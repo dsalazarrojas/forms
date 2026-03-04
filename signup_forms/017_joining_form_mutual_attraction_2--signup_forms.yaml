@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Joining Form Mutual Attraction 2
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: birth_date
+      label: Birth Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: desired_partner_gender
+      label: Desired Partner Gender
+      hint: null
+      type: select_multiple
+      options:
+      - Female
+      - Male
+      - Both
+      required: false
+    - id: 7
+      name: desired_attraction_gender
+      label: Desired Attraction Gender
+      hint: null
+      type: select_multiple
+      options:
+      - Female
+      - Male
+      - Both
+      required: false
+    - id: 8
+      name: relationship_status
+      label: Relationship Status
+      hint: null
+      type: select_one
+      options:
+      - Single
+      - In a relationship
+      - Married
+      required: false
+    - id: 9
+      name: desired_attraction_orientation
+      label: Desired Attraction Orientation
+      hint: null
+      type: select_multiple
+      options:
+      - Straight
+      - Gay
+      - Bi
+      - Other
+      required: false
+    - id: 10
+      name: match_or_partners
+      label: Match or Partner Your Are Searching
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: signup_form_agree
+      label: I Agree
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: false

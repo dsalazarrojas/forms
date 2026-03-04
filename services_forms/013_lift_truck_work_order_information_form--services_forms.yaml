@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lift Truck Work Order Information Form
+    pages:
+    - id: 1
+      name: work_order_id
+      label: Work Order ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: lift_truck_make
+      label: Lift Truck Make
+      hint: null
+      type: select_one
+      options:
+      - Toyota
+      - Caterpillar
+      - Hyster
+      - Komatsu
+      required: false
+    - id: 3
+      name: lift_truck_model
+      label: Lift Truck Model
+      hint: null
+      type: select_one
+      options:
+      - FT 8000
+      - FT 9000
+      - FT 10000
+      - FT 12000
+      - FT 14000
+      required: false
+    - id: 4
+      name: lift_truck_year
+      label: Lift Truck Year
+      hint: null
+      type: select_one
+      options:
+      - '2018'
+      - '2019'
+      - '2020'
+      - '2021'
+      - '2022'
+      required: false
+    - id: 5
+      name: lift_truck_serial_number
+      label: Lift Truck Serial Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: work_order_description
+      label: Work Order Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: work_order_status
+      label: Work Order Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Pending
+      required: false
+    - id: 8
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: customer_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: customer_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

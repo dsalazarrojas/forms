@@ -1,0 +1,181 @@
+inputSchema:
+  type: object
+  properties:
+    title: City Wide Shift Bid Participation
+    pages:
+    - id: 1
+      name: employee_info_header
+      label: -- Employee Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - Police
+      - Fire
+      - Public Works
+      - Parks and Recreation
+      - Water Services
+      - Sanitation
+      - Transportation
+      - Other
+      required: true
+    - id: 5
+      name: current_division
+      label: Current Division or Station
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: position_title
+      label: Position Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: tenure_years
+      label: Years with Department
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: shift_preferences_header
+      label: -- Shift Preferences --
+      hint: Rank your preferred shifts and schedules
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: shift_preference_1
+      label: First Choice Shift
+      hint: null
+      type: select_one
+      options:
+      - Morning - 6am-2pm
+      - Afternoon - 2pm-10pm
+      - Night - 10pm-6am
+      - Rotating
+      - Flexible
+      required: true
+    - id: 11
+      name: shift_preference_2
+      label: Second Choice Shift
+      hint: null
+      type: select_one
+      options:
+      - Morning - 6am-2pm
+      - Afternoon - 2pm-10pm
+      - Night - 10pm-6am
+      - Rotating
+      - Flexible
+      required: true
+    - id: 12
+      name: shift_preference_3
+      label: Third Choice Shift
+      hint: null
+      type: select_one
+      options:
+      - Morning - 6am-2pm
+      - Afternoon - 2pm-10pm
+      - Night - 10pm-6am
+      - Rotating
+      - Flexible
+      required: false
+    - id: 13
+      name: location_preferences
+      label: Location or Division Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: schedule_type
+      label: Preferred Schedule Type
+      hint: null
+      type: select_one
+      options:
+      - 5 day work week
+      - 4 day work week - 10 hour shifts
+      - 4 day work week - 12 hour shifts
+      - No preference
+      required: true
+    - id: 15
+      name: weekend_preference
+      label: Weekend Work Availability
+      hint: null
+      type: select_one
+      options:
+      - Willing to work weekends
+      - Prefer to avoid weekends
+      - No preference
+      required: false
+    - id: 16
+      name: special_requests_header
+      label: -- Special Requests and Constraints --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: special_requests
+      label: Special Requests or Constraints
+      hint: Medical, family, or other scheduling needs
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: unavailable_dates
+      label: Dates You Will Be Unavailable
+      hint: Vacations, leave, etc.
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: willing_transfers
+      label: Willing to Transfer Locations or Divisions
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: false
+    - id: 20
+      name: acknowledgment
+      label: I acknowledge that shift bids are subject to department availability
+        and seniority rules
+      hint: null
+      type: select_one
+      options:
+      - Yes, I acknowledge
+      - false
+      required: true

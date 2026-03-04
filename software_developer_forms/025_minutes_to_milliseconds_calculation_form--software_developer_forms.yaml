@@ -1,0 +1,48 @@
+inputSchema:
+  type: object
+  properties:
+    title: Minutes To Milliseconds Calculation Form
+    pages:
+    - id: 1
+      name: input_time_in_minutes
+      label: Input Time in Minutes
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: select_speed_of_light
+      label: Select Speed of Light
+      hint: null
+      type: select_one
+      options:
+      - 300,000 m/s
+      - 200,000 m/s
+      - 100,000 m/s
+      required: false
+    - id: 3
+      name: select_units_to_display
+      label: Select Units to Display
+      hint: null
+      type: select_multiple
+      options:
+      - milliseconds
+      - seconds
+      - minutes
+      - hours
+      - years
+      required: false
+    - id: 4
+      name: calculate_button
+      label: Calculate
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: result_time_in_milliseconds
+      label: Result Time in Milliseconds
+      hint: null
+      type: time
+      options: []
+      required: false

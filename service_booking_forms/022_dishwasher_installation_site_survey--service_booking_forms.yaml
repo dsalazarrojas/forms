@@ -1,0 +1,157 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dishwasher Installation Site Survey
+    pages:
+    - id: 1
+      name: site_address
+      label: Site Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: installation_date
+      label: Installation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: Contact E-Mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: site_phone
+      label: Site Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: site_phone_type
+      label: Site Phone Type
+      hint: null
+      type: select_one
+      options:
+      - Home
+      - Work
+      - Other
+      required: false
+    - id: 7
+      name: appointment_time
+      label: Appointment Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: appointment_date
+      label: Appointment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: contact_phone_type
+      label: Contact Phone Type
+      hint: null
+      type: select_one
+      options:
+      - Home
+      - Work
+      - Other
+      required: false
+    - id: 10
+      name: contact_phone_number
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: site_notes
+      label: Site Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: appointment_notes
+      label: Appointment Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: contact_preferred_contact_method
+      label: Contact Preferred Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - E-Mail
+      - SMS
+      - Other
+      required: false
+    - id: 14
+      name: contact_preferred_contact_time
+      label: Contact Preferred Contact Time
+      hint: null
+      type: select_multiple
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      - Anytime
+      required: false
+    - id: 15
+      name: contact_language
+      label: Contact Language
+      hint: null
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - Mandarin
+      - Other
+      required: false
+    - id: 16
+      name: appointment_language
+      label: Appointment Language
+      hint: null
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - Mandarin
+      - Other
+      required: false
+    - id: 17
+      name: site_access
+      label: Site Access
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 18
+      name: contact_access
+      label: Contact Access
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

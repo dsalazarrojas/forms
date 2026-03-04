@@ -1,0 +1,351 @@
+inputSchema:
+  type: object
+  properties:
+    title: College And Career Readiness Survey
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Full Name
+      hint: Your name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: student_email
+      label: Email Address
+      hint: School email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: grade_level
+      label: Grade Level
+      hint: Current grade
+      type: select_one
+      options:
+      - 9th Grade
+      - 10th Grade
+      - 11th Grade
+      - 12th Grade
+      required: true
+    - id: 4
+      name: school_name
+      label: School Name
+      hint: Your high school
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: survey_date
+      label: Survey Date
+      hint: Today date
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: post_graduation_plans
+      label: Post-Graduation Plans
+      hint: What do you plan to do
+      type: select_one
+      options:
+      - Four-Year College
+      - Community College
+      - Trade or Vocational School
+      - Military Service
+      - Full-Time Employment
+      - Apprenticeship
+      - Gap Year
+      - Undecided
+      required: true
+    - id: 7
+      name: college_applications
+      label: Have You Applied to Colleges
+      hint: Application status
+      type: select_one
+      options:
+      - Yes Multiple
+      - Yes One
+      - In Progress
+      - Not Yet
+      - Not Planning To
+      required: true
+    - id: 8
+      name: colleges_applied
+      label: Number of Colleges Applied To
+      hint: If applicable
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: intended_major
+      label: Intended Major or Career Field
+      hint: What do you want to study
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: career_interest
+      label: Career Interest Area
+      hint: What career interests you
+      type: select_one
+      options:
+      - STEM
+      - Business
+      - Healthcare
+      - Education
+      - Arts and Humanities
+      - Social Sciences
+      - Trades
+      - Public Service
+      - Undecided
+      required: true
+    - id: 11
+      name: sat_act_taken
+      label: Have You Taken SAT or ACT
+      hint: Test status
+      type: select_one
+      options:
+      - Yes Both
+      - SAT Only
+      - ACT Only
+      - Not Yet
+      - Not Planning To
+      required: true
+    - id: 12
+      name: sat_score
+      label: SAT Score
+      hint: If taken
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: act_score
+      label: ACT Score
+      hint: If taken
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: test_prep
+      label: Did You Use Test Prep
+      hint: Preparation resources
+      type: select_one
+      options:
+      - Yes Formal Course
+      - Yes Online Prep
+      - Yes Self-Study
+      - false
+      - Planning To
+      required: false
+    - id: 15
+      name: fafsa_status
+      label: FAFSA Completion Status
+      hint: Financial aid form
+      type: select_one
+      options:
+      - Completed
+      - In Progress
+      - Not Started
+      - Not Applicable
+      - Need Help
+      required: true
+    - id: 16
+      name: scholarship_applications
+      label: Scholarship Applications
+      hint: How many applied for
+      type: select_one
+      options:
+      - None
+      - 1-3
+      - 4-6
+      - 7-10
+      - Over 10
+      required: true
+    - id: 17
+      name: college_cost_concern
+      label: How Concerned Are You About College Costs
+      hint: Financial worry level
+      type: select_one
+      options:
+      - Very Concerned
+      - Concerned
+      - Somewhat Concerned
+      - Not Very Concerned
+      - Not Concerned
+      required: true
+    - id: 18
+      name: college_visits
+      label: How Many Colleges Have You Visited
+      hint: Campus tours
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: college_counselor_meetings
+      label: Meetings with College Counselor
+      hint: How many meetings
+      type: select_one
+      options:
+      - None
+      - 1-2
+      - 3-5
+      - 6-10
+      - Over 10
+      required: true
+    - id: 20
+      name: ap_dual_enrollment
+      label: AP or Dual Enrollment Courses Taken
+      hint: College-level courses
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: gpa
+      label: Current GPA
+      hint: Unweighted
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: study_habits
+      label: Study Habits Rating
+      hint: How would you rate them
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 23
+      name: time_management
+      label: Time Management Skills Rating
+      hint: How well do you manage time
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 24
+      name: note_taking
+      label: Note-Taking Skills Rating
+      hint: How good are you
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 25
+      name: research_skills
+      label: Research Skills Rating
+      hint: Ability to research
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 26
+      name: writing_confidence
+      label: Writing Confidence Level
+      hint: How confident are you
+      type: select_one
+      options:
+      - Very Confident
+      - Confident
+      - Somewhat Confident
+      - Not Very Confident
+      - Not Confident
+      required: true
+    - id: 27
+      name: math_confidence
+      label: Math Confidence Level
+      hint: How confident are you
+      type: select_one
+      options:
+      - Very Confident
+      - Confident
+      - Somewhat Confident
+      - Not Very Confident
+      - Not Confident
+      required: true
+    - id: 28
+      name: extracurricular_activities
+      label: Extracurricular Activities
+      hint: List activities
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: work_experience
+      label: Work Experience
+      hint: Jobs or internships
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: volunteer_experience
+      label: Volunteer Experience
+      hint: Community service
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: leadership_roles
+      label: Leadership Roles
+      hint: Positions held
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: support_needed
+      label: What Support Do You Need Most
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - College Application Help
+      - Essay Writing Help
+      - Financial Aid Guidance
+      - Scholarship Search
+      - Career Counseling
+      - Test Preparation
+      - Study Skills
+      - Time Management
+      - Stress Management
+      - None
+      required: true
+    - id: 33
+      name: biggest_concern
+      label: What Is Your Biggest Concern
+      hint: About after graduation
+      type: text
+      options: []
+      required: true
+    - id: 34
+      name: confidence_level
+      label: Overall Confidence in Readiness
+      hint: How ready do you feel
+      type: select_one
+      options:
+      - Very Confident
+      - Confident
+      - Somewhat Confident
+      - Not Very Confident
+      - Not Confident At All
+      required: true
+    - id: 35
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other thoughts
+      type: text
+      options: []
+      required: false

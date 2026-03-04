@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Covid 19 Self Certification And Verification Form
+    pages:
+    - id: 1
+      name: daily_symptom_screening
+      label: Daily Symptom Screening
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: student_id
+      label: Student Id
+      hint: Student ID number
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: date_screened
+      label: Date Screened
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time_screened
+      label: Time Screened
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: have_symptoms
+      label: Have You Been Exposed To COVID 19
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: feel_fever
+      label: Do You Currently Feel Fever
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: have_cough
+      label: Do You Currently Have A Cough
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: been_in_contact
+      label: Have You Been In Contact With Anyone Who Has COVID 19
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: Phone
+      hint: Phone number
+      type: text
+      options: []
+      required: false

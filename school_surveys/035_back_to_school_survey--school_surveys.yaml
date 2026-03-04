@@ -1,0 +1,228 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Back To School Survey
+    pages:
+      - id: 1
+        name: respondent_name
+        label: Full Name
+        hint: Your first and last name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: email
+        label: Email Address
+        hint: Contact email
+        type: email
+        options: []
+        required: true
+      - id: 3
+        name: role
+        label: Your Role
+        hint: Select your role in school community
+        type: select_one
+        options:
+          - Parent or Guardian
+          - Student
+          - Teacher
+          - Administrator
+          - Staff Member
+          - Other
+        required: true
+      - id: 4
+        name: school_name
+        label: School Name
+        hint: Name of school
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: grade_level
+        label: Grade Level
+        hint: Select applicable grade or N/A
+        type: select_one
+        options:
+          - Kindergarten
+          - Elementary
+          - Middle School
+          - High School
+          - Not Applicable
+        required: true
+      - id: 6
+        name: overall_preparedness
+        label: Overall Preparedness for School Year
+        hint: How prepared do you feel
+        type: select_one
+        options:
+          - Very Prepared
+          - Somewhat Prepared
+          - Neutral
+          - Somewhat Unprepared
+          - Very Unprepared
+        required: true
+      - id: 7
+        name: supply_readiness
+        label: School Supplies Readiness
+        hint: Do you have all needed supplies
+        type: select_one
+        options:
+          - Yes, fully ready
+          - Mostly ready
+          - Partially ready
+          - Not ready
+          - Need assistance
+        required: true
+      - id: 8
+        name: technology_readiness
+        label: Technology Readiness
+        hint: Do you have needed technology
+        type: select_one
+        options:
+          - Yes, fully equipped
+          - Mostly equipped
+          - Partially equipped
+          - Not equipped
+          - Need assistance
+        required: true
+      - id: 9
+        name: schedule_readiness
+        label: Schedule and Routine Readiness
+        hint: Are you ready for school schedule
+        type: select_one
+        options:
+          - Very Ready
+          - Somewhat Ready
+          - Neutral
+          - Somewhat Not Ready
+          - Not Ready
+        required: true
+      - id: 10
+        name: academic_expectations
+        label: Academic Expectations
+        hint: What are your expectations for academics
+        type: select_one
+        options:
+          - Very High
+          - High
+          - Moderate
+          - Low
+          - Very Low
+        required: true
+      - id: 11
+        name: social_expectations
+        label: Social Experience Expectations
+        hint: Expectations for social interactions
+        type: select_one
+        options:
+          - Very Positive
+          - Positive
+          - Neutral
+          - Negative
+          - Very Negative
+        required: true
+      - id: 12
+        name: biggest_concern
+        label: Biggest Concern for School Year
+        hint: What worries you most
+        type: select_one
+        options:
+          - Academic performance
+          - Social relationships
+          - Health and safety
+          - Transportation
+          - Financial costs
+          - Bullying
+          - None
+        required: true
+      - id: 13
+        name: support_systems
+        label: Available Support Systems
+        hint: What support do you have
+        type: select_multiple
+        options:
+          - Family support
+          - Teacher support
+          - Tutoring available
+          - Counseling services
+          - Peer support
+          - Limited support
+        required: true
+      - id: 14
+        name: communication_channels
+        label: Preferred Communication Channels
+        hint: How do you want to receive information
+        type: select_multiple
+        options:
+          - Email
+          - School website
+          - Mobile app
+          - Text messages
+          - Phone calls
+          - Paper notices
+          - Social media
+        required: true
+      - id: 15
+        name: involvement_interest
+        label: Interest in School Involvement
+        hint: How involved do you want to be
+        type: select_one
+        options:
+          - Very Involved
+          - Somewhat Involved
+          - Neutral
+          - Minimally Involved
+          - Not Involved
+        required: true
+      - id: 16
+        name: previous_year_satisfaction
+        label: Previous School Year Satisfaction
+        hint: How satisfied were you last year
+        type: select_one
+        options:
+          - Very Satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very Dissatisfied
+          - First Year
+        required: true
+      - id: 17
+        name: improvements_hoped
+        label: Improvements Hoped For
+        hint: What would you like to see improved
+        type: text
+        options: []
+        required: false
+      - id: 18
+        name: school_strengths
+        label: School Strengths
+        hint: What does your school do well
+        type: text
+        options: []
+        required: false
+      - id: 19
+        name: additional_resources_needed
+        label: Additional Resources Needed
+        hint: What resources would help you
+        type: text
+        options: []
+        required: false
+      - id: 20
+        name: final_comments
+        label: Final Comments
+        hint: Any other thoughts to share
+        type: text
+        options: []
+        required: false

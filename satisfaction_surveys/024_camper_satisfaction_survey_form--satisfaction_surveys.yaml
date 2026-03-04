@@ -1,0 +1,230 @@
+inputSchema:
+  type: object
+  properties:
+    title: Camper Satisfaction Survey Form
+    pages:
+    - id: 1
+      name: section_respondent_info
+      label: -- Respondent Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: camper_name
+      label: Your Name
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: camper_age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: camp_session_attended
+      label: Camp Session Attended
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: cabin_group
+      label: Cabin or Group Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_overall_experience
+      label: -- Overall Camp Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: overall_satisfaction
+      label: Overall, how satisfied were you with camp
+      hint: null
+      type: select_one
+      options:
+      - Extremely Satisfied
+      - Very Satisfied
+      - Satisfied
+      - Somewhat Satisfied
+      - Not Satisfied
+      required: true
+    - id: 8
+      name: best_part_of_camp
+      label: What was the best part of your camp experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: section_activities_programming
+      label: -- Activities and Programming --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: activity_variety
+      label: Variety of activities offered
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      - Poor
+      required: true
+    - id: 11
+      name: favorite_activities
+      label: Your favorite activities or events
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: activities_missed
+      label: Were there activities you wished camp offered
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: section_counselor_staff
+      label: -- Counselors and Staff --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: counselor_quality
+      label: Quality of counselors and staff
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      - Poor
+      required: true
+    - id: 15
+      name: counselor_supportive
+      label: Counselors were helpful and supportive
+      hint: null
+      type: select_one
+      options:
+      - Strongly Agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly Disagree
+      required: true
+    - id: 16
+      name: section_facilities
+      label: -- Facilities and Accommodations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: sleeping_accommodations
+      label: Quality of sleeping accommodations
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      - Poor
+      required: true
+    - id: 18
+      name: food_quality
+      label: Quality of food and meals
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      - Poor
+      required: true
+    - id: 19
+      name: facilities_cleanliness
+      label: Cleanliness of facilities and bathrooms
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      - Poor
+      required: true
+    - id: 20
+      name: section_social
+      label: -- Social Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: made_new_friends
+      label: I made new friends at camp
+      hint: null
+      type: select_one
+      options:
+      - Strongly Agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly Disagree
+      required: true
+    - id: 22
+      name: sense_of_community
+      label: Strong sense of community at camp
+      hint: null
+      type: select_one
+      options:
+      - Strongly Agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly Disagree
+      required: true
+    - id: 23
+      name: section_future
+      label: -- Future Intentions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: return_next_year
+      label: Would you attend camp again
+      hint: null
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Maybe
+      - Probably No
+      - Definitely No
+      required: true
+    - id: 25
+      name: improvement_suggestions
+      label: Suggestions for improving camp experience
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Interest Form
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_grade
+      label: Student Grade
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: student_subjects_of_interest
+      label: Student Subjects of Interest
+      hint: null
+      type: select_multiple
+      options:
+      - English
+      - Math
+      - Science
+      - Social Studies
+      required: false
+    - id: 4
+      name: career_goals
+      label: Career Goals
+      hint: null
+      type: select_one
+      options:
+      - Business
+      - Engineering
+      - Healthcare
+      - Arts
+      required: false
+    - id: 5
+      name: hobbies
+      label: Hobbies
+      hint: null
+      type: select_multiple
+      options:
+      - Reading
+      - Writing
+      - Music
+      - Sports
+      required: false
+    - id: 6
+      name: extracurricular_preferences
+      label: Extracurricular Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Debate Team
+      - School Newspaper
+      - School Play
+      - School Choir
+      required: false
+    - id: 7
+      name: other_hobbies
+      label: Other Hobbies
+      hint: Enter other interests or hobbies not listed above
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: student_interest_statement
+      label: Student Interest Statement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: parent_contact_info
+      label: Parent Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: student_concerns
+      label: Student Concerns
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: student_notes
+      label: Student Notes
+      hint: null
+      type: text
+      options: []
+      required: false

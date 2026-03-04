@@ -1,0 +1,227 @@
+inputSchema:
+  type: object
+  properties:
+    title: WordPress Website Maintenance Subscription Signup
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Stripe
+      - PayPal
+      - Bank Transfer
+      required: false
+    - id: 5
+      name: payment_frequency
+      label: Payment Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Weekly
+      - Monthly
+      - Annually
+      required: false
+    - id: 6
+      name: plan_duration
+      label: Plan Duration
+      hint: null
+      type: select_one
+      options:
+      - 1 Month
+      - 3 Months
+      - 6 Months
+      - 12 Months
+      - 24 Months
+      - Custom
+      required: false
+    - id: 7
+      name: payment_start
+      label: Payment Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: payment_end
+      label: Payment End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: maintenance_services
+      label: Maintenance Services
+      hint: null
+      type: select_multiple
+      options:
+      - Website Updates
+      - Backups
+      - Website Security
+      - Website Speed
+      - Performance
+      - SEO
+      - Content Delivery Network (CDN)
+      - Website Monitoring
+      required: false
+    - id: 10
+      name: agency_name
+      label: Agency Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - Live Chat
+      - Email
+      required: false
+    - id: 12
+      name: contact_value
+      label: Contact Value
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: website_url
+      label: Website URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: website_type
+      label: Website Type
+      hint: null
+      type: select_one
+      options:
+      - WordPress
+      - HTML
+      - PHP
+      - Other
+      required: false
+    - id: 15
+      name: plan_price
+      label: Plan Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: subscription_status
+      label: Subscription Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Trial
+      - Inactive
+      - Expired
+      required: false
+    - id: 17
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: payment_frequency_2
+      label: Payment Frequency 2
+      hint: null
+      type: select_multiple
+      options:
+      - Weekly
+      - Monthly
+      - Annually
+      required: false
+    - id: 19
+      name: custom_plan_duration
+      label: Custom Plan Duration
+      hint: null
+      type: select_one
+      options:
+      - 1 Month
+      - 3 Months
+      - 6 Months
+      - 12 Months
+      - 24 Months
+      required: false
+    - id: 20
+      name: payment_plan_start
+      label: Payment Plan Start
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: payment_plan_end
+      label: Payment Plan End
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: agency_name_2
+      label: Agency Name 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: contact_method_2
+      label: Contact Method 2
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - Live Chat
+      required: false
+    - id: 24
+      name: website_url_2
+      label: Website URL 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: website_type_2
+      label: Website Type 2
+      hint: null
+      type: select_one
+      options:
+      - WordPress
+      - HTML
+      - PHP
+      - Other
+      required: false

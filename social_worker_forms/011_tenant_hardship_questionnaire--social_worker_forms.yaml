@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tenant Hardship Questionnaire
+    pages:
+    - id: 1
+      name: tenant_hardship_questionnaire
+      label: Tenant Hardship Questionnaire
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: financial_status
+      label: Financial Status
+      hint: null
+      type: select_multiple
+      options:
+      - Financially Stable
+      - Financially Instable
+      - Financially Struggling
+      required: false
+    - id: 3
+      name: income_loss
+      label: Income Loss
+      hint: Please specify the total amount of income loss
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: job_loss
+      label: Job Loss
+      hint: null
+      type: select_one
+      options:
+      - Unemployed
+      - Furloughed
+      - Part-time/Reduced hours
+      - Reduced pay
+      - Business closure
+      - Other
+      required: true
+    - id: 5
+      name: business_hardship
+      label: Business Hardship
+      hint: null
+      type: select_multiple
+      options:
+      - Unstable business income
+      - Reduced business income
+      - No business income
+      - Other
+      required: false
+    - id: 6
+      name: financial_support
+      label: Financial Support
+      hint: Please specify what kind of financial support you are seeking
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: business_financial_support
+      label: Business Financial Support
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: business_financial_support_details
+      label: Business Financial Support Details
+      hint: Please specify what kind of business financial support you are seeking
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: business_financial_support_amount
+      label: Business Financial Support Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: tenant_financial_support
+      label: Tenant Financial Support
+      hint: null
+      type: select_multiple
+      options:
+      - Rent
+      - Utilities
+      - Other
+      required: false
+    - id: 11
+      name: tenant_financial_support_details
+      label: Tenant Financial Support Details
+      hint: Please specify what kind of financial support you are seeking
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: tenant_financial_support_amount
+      label: Tenant Financial Support Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: tax_return
+      label: Have you filed taxes?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 14
+      name: financial_assistance
+      label: Financial Assistance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: financial_assistance_details
+      label: Financial Assistance Details
+      hint: Please describe your financial situation
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: other_hardship_details
+      label: Other Hardship Details
+      hint: Please specify what kind of hardship you are facing
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: other_financial_support_details
+      label: Other Financial Support Details
+      hint: Please specify what kind of financial support you are seeking
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: other_financial_support_amount
+      label: Other Financial Support Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: tenant_hardship_details
+      label: Tenant Hardship Details
+      hint: Please provide a detailed description of the hardship you are facing
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: tenant_hardship_solutions
+      label: Tenant Hardship Solutions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: tenant_hardship_solutions_details
+      label: Tenant Hardship Solutions Details
+      hint: Please specify what steps you are taking to address the hardship
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: financial_assistance_status
+      label: Financial Assistance Status
+      hint: null
+      type: select_one
+      options:
+      - Applied
+      - Not Applied
+      - Approved
+      - Denied
+      - In Progress
+      required: true
+    - id: 23
+      name: financial_assistance_details
+      label: Financial Assistance Details
+      hint: Please describe the financial assistance status
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: other_financial_assistance_details
+      label: Other Financial Assistance Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: other_financial_assistance_status
+      label: Other Financial Assistance Status
+      hint: null
+      type: select_one
+      options:
+      - Applied
+      - Not Applied
+      - Approved
+      - Denied
+      - In Progress
+      required: false

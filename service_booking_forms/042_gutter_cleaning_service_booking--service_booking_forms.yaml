@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: gutter_cleaning_service_booking
+    pages:
+    - id: 1
+      name: business_name
+      label: Business Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: address
+      label: service_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: preferred_time
+      label: preferred_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: end_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: services_offered
+      label: services_offered
+      hint: null
+      type: select_multiple
+      options:
+      - Gutter Cleaning
+      - Power Washing
+      - Gutter Inspections
+      required: false
+    - id: 9
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_one
+      options:
+      - ChatJimmy
+      - JohnDoe
+      - JaneDoe
+      required: false
+    - id: 10
+      name: service_type
+      label: service_type
+      hint: null
+      type: select_one
+      options:
+      - Full Service
+      - Maintenance
+      - Inspection
+      required: false
+    - id: 11
+      name: gutter_size
+      label: gutter_size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: gutter_type
+      label: gutter_type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: gutter_material
+      label: gutter_material
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: appointment_time
+      label: appointment_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: confirmation
+      label: confirmation
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: service_area
+      label: service_area
+      hint: null
+      type: select_multiple
+      options:
+      - Front of the house
+      - Back of the house
+      - Basement
+      required: false
+    - id: 17
+      name: appointment_date
+      label: appointment_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: service_status
+      label: service_status
+      hint: null
+      type: select_one
+      options:
+      - Scheduled
+      - Rescheduled
+      - Completed
+      required: false
+    - id: 19
+      name: cancellation_reason
+      label: cancellation_reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: cancellation_status
+      label: cancellation_status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Completed
+      - Cancelled
+      required: false
+    - id: 21
+      name: customer_note
+      label: customer_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: staff_note
+      label: staff_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: service_note
+      label: service_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: payment_status
+      label: payment_status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Completed
+      - Refunded
+      required: false
+    - id: 25
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Bank Transfer
+      - Credit Card
+      required: false

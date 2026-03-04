@@ -1,0 +1,138 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Content Sharing Consent Form
+    pages:
+      - id: 1
+        name: owner_identity_header
+        label: -- Content Owner Details --
+        hint: The person or entity who created the content
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: content_owner_name
+        label: Full Name of Content Owner
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: owner_email
+        label: Email Address
+        hint: null
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: content_identity_header
+        label: -- Content Identification --
+        hint: Describe the content you are allowing us to share
+        type: note
+        options: []
+        required: false
+      - id: 5
+        name: content_title_description
+        label: Title or Brief Description of Content
+        hint: e.g., Photograph of nature, Blog post about SEO
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: content_url_handle
+        label: Original URL or Social Media Handle
+        hint: Link to where the content was originally posted
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: sharing_permissions_header
+        label: -- Sharing Permissions --
+        hint: Choose where and how we can share your work
+        type: note
+        options: []
+        required: false
+      - id: 8
+        name: approved_platforms
+        label: Approved Platforms for Sharing
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Our Official Website
+          - Company Instagram/Facebook
+          - LinkedIn (Professional Profile)
+          - Email Newsletters
+          - Digital Presentations/Webinars
+          - Internal Training Materials
+        required: true
+      - id: 9
+        name: attribution_requirement
+        label: Attribution Requirement
+        hint: How should we credit you
+        type: select_one
+        options:
+          - Full name with link to profile
+          - Tagging social media handle only
+          - Anonymous (No credit needed)
+          - Specific credit line (mention below)
+        required: true
+      - id: 10
+        name: duration_of_consent
+        label: Duration of Consent
+        hint: How long can we continue to share this
+        type: select_one
+        options:
+          - 6 Months
+          - 1 Year
+          - 2 Years
+          - Indefinite (Until revoked)
+        required: true
+      - id: 11
+        name: compensation_disclosure
+        label: Is there any compensation for this sharing
+        hint: Standard terms are usually non-compensatory
+        type: select_one
+        options:
+          - No - Shared for exposure and credit only
+          - Yes - One-time payment (mention in notes)
+          - Yes - Other agreement in place
+        required: true
+      - id: 12
+        name: authorization_statement
+        label: -- Authorization --
+        hint: I confirm I am the sole owner of this content and grant permission as stated above
+        type: note
+        options: []
+        required: false
+      - id: 13
+        name: signature_date
+        label: Date of Consent
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 14
+        name: digital_signature
+        label: Digital Signature (Type Full Name)
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 15
+        name: additional_terms
+        label: Any specific limitations or terms
+        hint: null
+        type: text
+        options: []
+        required: false

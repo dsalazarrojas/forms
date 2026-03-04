@@ -1,0 +1,226 @@
+inputSchema:
+  type: object
+  properties:
+    title: Child Orientation Registration
+    pages:
+    - id: 1
+      name: registration_date
+      label: Registration Date
+      hint: Date of orientation registration
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: child_first_name
+      label: Child First Name
+      hint: Legal first name of the child
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: child_last_name
+      label: Child Last Name
+      hint: Legal last name of the child
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: child_nickname
+      label: Child Nickname
+      hint: Preferred name or nickname
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: child_date_of_birth
+      label: Child Date of Birth
+      hint: Please provide the child's birth date
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: child_age
+      label: Child Age
+      hint: Current age of the child in years
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: child_gender
+      label: Child Gender
+      hint: Select the child's gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      - Other
+      required: true
+    - id: 8
+      name: grade_level_enrolling
+      label: Grade Level Enrolling
+      hint: What grade level is the child enrolling in?
+      type: select_one
+      options:
+      - Pre-K
+      - Kindergarten
+      - 1st Grade
+      - 2nd Grade
+      - 3rd Grade
+      - 4th Grade
+      - 5th Grade
+      - 6th Grade
+      - 7th Grade
+      - 8th Grade
+      required: true
+    - id: 9
+      name: parent_guardian_first_name
+      label: Parent or Guardian First Name
+      hint: Legal first name of parent or guardian
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: parent_guardian_last_name
+      label: Parent or Guardian Last Name
+      hint: Legal last name of parent or guardian
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: parent_guardian_email
+      label: Parent or Guardian Email
+      hint: Primary email address for contact
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: parent_guardian_phone
+      label: Parent or Guardian Phone
+      hint: Primary phone number for contact
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: home_address
+      label: Home Address
+      hint: Full street address
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: city
+      label: City
+      hint: City of residence
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: zip_code
+      label: Zip Code
+      hint: Postal or zip code
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: orientation_session_preference
+      label: Orientation Session Preference
+      hint: Select your preferred orientation session
+      type: select_one
+      options:
+      - Morning session (9 AM to 11 AM)
+      - Afternoon session (1 PM to 3 PM)
+      - Evening session (5 PM to 7 PM)
+      - Weekend session (Saturday 10 AM to 12 PM)
+      - Virtual orientation
+      - No preference
+      required: true
+    - id: 18
+      name: orientation_date_preference
+      label: Preferred Orientation Date
+      hint: Select your preferred date for orientation
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: attending_orientation
+      label: Who Will Attend Orientation
+      hint: Select all who will attend the orientation
+      type: select_multiple
+      options:
+      - Child
+      - Parent or guardian
+      - Both parents or guardians
+      - Siblings
+      - Other family members
+      required: true
+    - id: 20
+      name: previous_school_experience
+      label: Previous School Experience
+      hint: Has the child attended school or daycare before?
+      type: select_one
+      options:
+      - Yes, current student transferring
+      - Yes, attended previously
+      - No, first time in school
+      - No, but attended daycare
+      required: true
+    - id: 21
+      name: special_programs_interest
+      label: Special Programs Interest
+      hint: Which special programs is the child interested in?
+      type: select_multiple
+      options:
+      - Arts and music
+      - Sports and athletics
+      - STEM programs
+      - Language immersion
+      - Special education services
+      - Gifted and talented
+      - None at this time
+      required: false
+    - id: 22
+      name: transportation_needed
+      label: Transportation Needed
+      hint: Will you need school transportation services?
+      type: select_one
+      options:
+      - Yes, bus service
+      - Yes, other transportation
+      - No, will provide own transportation
+      - Undecided
+      required: true
+    - id: 23
+      name: meal_plan_needed
+      label: Meal Plan Needed
+      hint: Will the child participate in the school meal program?
+      type: select_one
+      options:
+      - Yes, breakfast and lunch
+      - Yes, lunch only
+      - Yes, breakfast only
+      - No, will bring own meals
+      - Applying for free or reduced
+      required: true
+    - id: 24
+      name: medical_conditions
+      label: Medical Conditions or Allergies
+      hint: List any medical conditions or allergies school should know about
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: additional_comments
+      label: Additional Comments or Questions
+      hint: Any additional comments or questions for the school
+      type: text
+      options: []
+      required: false

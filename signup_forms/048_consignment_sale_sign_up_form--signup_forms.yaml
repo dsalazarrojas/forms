@@ -1,0 +1,286 @@
+inputSchema:
+  type: object
+  properties:
+    title: Consignment Sale Sign Up Form
+    pages:
+    - id: 1
+      name: signup_date
+      label: Sign-Up Date
+      hint: Date of registration
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: vendor_name
+      label: Vendor Name
+      hint: Full name of consignor
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: vendor_email
+      label: Email Address
+      hint: Contact email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: vendor_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: vendor_address
+      label: Address
+      hint: Mailing address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: vendor_city
+      label: City
+      hint: City
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: vendor_state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: vendor_postal_code
+      label: Postal Code
+      hint: ZIP or postal code
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: business_name
+      label: Business Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: sale_event
+      label: Sale Event
+      hint: Which sale are you joining
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: sale_date
+      label: Sale Date
+      hint: When is the sale
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: sale_location
+      label: Sale Location
+      hint: Where is the sale held
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: item_categories
+      label: Item Categories
+      hint: What types of items will you consign
+      type: select_multiple
+      options:
+      - Clothing - Women
+      - Clothing - Men
+      - Clothing - Children
+      - Shoes
+      - Accessories
+      - Jewelry
+      - Home decor
+      - Furniture
+      - Books
+      - Toys
+      - Sports equipment
+      - Electronics
+      - Other
+      required: true
+    - id: 14
+      name: item_categories_other
+      label: Other Categories
+      hint: Specify if other selected
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: estimated_items
+      label: Estimated Number of Items
+      hint: How many items will you consign
+      type: select_one
+      options:
+      - 1 to 10
+      - 11 to 25
+      - 26 to 50
+      - 51 to 100
+      - More than 100
+      required: true
+    - id: 16
+      name: estimated_value
+      label: Estimated Total Value
+      hint: Approximate retail value
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: item_condition
+      label: Item Condition
+      hint: Quality of items
+      type: select_one
+      options:
+      - New with tags
+      - Like new
+      - Excellent
+      - Good
+      - Mix of conditions
+      required: true
+    - id: 18
+      name: pricing_responsibility
+      label: Who Will Price Items
+      hint: Pricing responsibility
+      type: select_one
+      options:
+      - Consignor sets prices
+      - Sale organizer sets prices
+      - Collaborative pricing
+      required: true
+    - id: 19
+      name: commission_rate
+      label: Commission Rate
+      hint: Percentage to organizer
+      type: select_one
+      options:
+      - 30 percent
+      - 35 percent
+      - 40 percent
+      - 50 percent
+      - Other
+      required: true
+    - id: 20
+      name: commission_rate_other
+      label: Other Commission Rate
+      hint: Specify if other selected
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: drop_off_date
+      label: Drop-Off Date
+      hint: When will you deliver items
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: drop_off_time
+      label: Drop-Off Time
+      hint: Preferred time slot
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: pickup_date
+      label: Pickup Date
+      hint: When will you collect unsold items
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: volunteer_interest
+      label: Are You Interested in Volunteering
+      hint: Help during the sale
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 25
+      name: volunteer_shifts
+      label: Volunteer Shifts Available
+      hint: Select preferred shifts
+      type: select_multiple
+      options:
+      - Setup day
+      - Sale day 1 - Morning
+      - Sale day 1 - Afternoon
+      - Sale day 2 - Morning
+      - Sale day 2 - Afternoon
+      - Breakdown day
+      - Cannot volunteer
+      required: false
+    - id: 26
+      name: volunteer_benefit
+      label: Volunteer Benefit Understanding
+      hint: Do you understand volunteer perks
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 27
+      name: payment_preference
+      label: Payment Preference
+      hint: How would you like to be paid
+      type: select_one
+      options:
+      - Check
+      - Cash
+      - Store credit
+      - Donate to charity
+      - Split payment
+      required: true
+    - id: 28
+      name: charity_donation
+      label: Charity Donation
+      hint: Which charity if donating
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: unsold_items
+      label: Unsold Items Plan
+      hint: What to do with unsold items
+      type: select_one
+      options:
+      - Pick up after sale
+      - Donate to charity
+      - Discount on final day
+      - Organizer may dispose
+      required: true
+    - id: 30
+      name: terms_accepted
+      label: Terms and Conditions Accepted
+      hint: Do you agree to sale terms
+      type: select_one
+      options:
+      - Yes - I Accept
+      - false
+      required: true
+    - id: 31
+      name: vendor_signature
+      label: Vendor Signature
+      hint: Type your full name
+      type: text
+      options: []
+      required: true
+    - id: 32
+      name: registration_status
+      label: Registration Status
+      hint: For administrative use
+      type: select_one
+      options:
+      - Submitted
+      - Approved
+      - Waitlisted
+      - Cancelled
+      required: true

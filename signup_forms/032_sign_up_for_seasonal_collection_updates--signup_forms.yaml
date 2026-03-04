@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sign Up For Seasonal Collection Updates
+    pages:
+    - id: 1
+      name: form
+      label: Sign Up for Seasonal Collection Updates
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: seasonal_collection_updates
+      label: seasonal collection updates
+      hint: null
+      type: select_one
+      options:
+      - Spring
+      - Summer
+      - Autumn
+      - Winter
+      required: false
+    - id: 6
+      name: marketing_channels
+      label: marketing_channels
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - SMS
+      - Push
+      - In-app
+      required: false
+    - id: 7
+      name: time_of_year
+      label: time of year
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_of_day
+      label: time of day
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: confirm_email
+      label: confirm email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: confirm_phone
+      label: confirm phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: agree_terms
+      label: agree_terms
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

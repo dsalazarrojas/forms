@@ -1,0 +1,130 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Retention Survey
+    pages:
+    - id: 1
+      name: student_id
+      label: student_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: teacher_name
+      label: Teacher Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_reasons_left
+      label: student_reasons_left
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: student_reasons_left_other
+      label: other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: teacher_reasons_left
+      label: teacher_reasons_left
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: teacher_reasons_left_other
+      label: other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: teacher_support
+      label: teacher_support
+      hint: null
+      type: select_one
+      options:
+      - Academic Support
+      - Mental Health
+      - Parental Support
+      - Social Support
+      - Transportation
+      - Housing
+      - Other
+      required: false
+    - id: 8
+      name: teacher_support_other
+      label: other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: student_support
+      label: student_support
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: student_support_other
+      label: other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: teacher_comments
+      label: teacher_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: student_comments
+      label: student_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: school_id
+      label: school_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: grade_level
+      label: grade_level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: student_retention_date
+      label: student_retention_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: teacher_survey_date
+      label: teacher_survey_date
+      hint: null
+      type: date
+      options: []
+      required: true

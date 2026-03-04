@@ -1,0 +1,275 @@
+inputSchema:
+  type: object
+  properties:
+    title: Youth Climate Policy Understanding Survey
+    pages:
+    - id: 1
+      name: survey_title
+      label: youth_climate_policy_understanding_survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: age
+      label: youth_climate_policy_understanding_survey_age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: gender
+      label: youth_climate_policy_understanding_survey_gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      required: false
+    - id: 4
+      name: education
+      label: youth_climate_policy_understanding_survey_education
+      hint: null
+      type: select_multiple
+      options:
+      - High School Diploma
+      - Some college
+      - Bachelor’s degree
+      - Postgraduate degree
+      - Some other
+      required: false
+    - id: 5
+      name: school_type
+      label: what_kind_of_school
+      hint: null
+      type: select_one
+      options:
+      - Public
+      - Private
+      - Charter
+      - Other
+      required: false
+    - id: 6
+      name: school_level
+      label: what_level_of_school
+      hint: null
+      type: select_multiple
+      options:
+      - High School
+      - Middle school
+      - Primary school
+      - Other
+      required: false
+    - id: 7
+      name: climate_policy
+      label: youth_climate_policy_understanding_survey_climate_policy
+      hint: null
+      type: select_multiple
+      options:
+      - Strongly agree
+      - Somewhat agree
+      - Neither agree nor disagree
+      - Somewhat disagree
+      - Strongly disagree
+      required: false
+    - id: 8
+      name: climate_policy_impact
+      label: what_do_you_believe_is_the_most_important_impact_of_climate_policy
+      hint: null
+      type: select_multiple
+      options:
+      - Mitigating climate change
+      - Economic.reported
+      - Public health
+      - Food security
+      - Energy security
+      - Other
+      required: false
+    - id: 9
+      name: climate_policy_influence
+      label: how_much_do_you_think_your_schools_climate_policy_influences_your_life
+      hint: null
+      type: select_multiple
+      options:
+      - A lot
+      - Somewhat
+      - A little
+      - Not at all
+      required: false
+    - id: 10
+      name: climate_change_concern
+      label: do_you_believe_climate_change_is_a_concern_for_your_community
+      hint: null
+      type: select_multiple
+      options:
+      - Strongly agree
+      - Somewhat agree
+      - Neither agree nor disagree
+      - Somewhat disagree
+      - Strongly disagree
+      required: false
+    - id: 11
+      name: climate_change_action
+      label: what_actions_does_your_community_take_to_address_climate_change
+      hint: null
+      type: select_multiple
+      options:
+      - Recycling
+      - Reduce
+      - Reuse
+      - Reduce energy consumption
+      - Other
+      required: false
+    - id: 12
+      name: policy_influence
+      label: how_much_do_you_believe_your_schools_climate_policy_influences_your_climate_change_views
+      hint: null
+      type: select_multiple
+      options:
+      - A lot
+      - Somewhat
+      - A little
+      - Not at all
+      required: false
+    - id: 13
+      name: community_influence
+      label: how_much_does_your_community_influence_your_views_on_climate_change
+      hint: null
+      type: select_multiple
+      options:
+      - A lot
+      - Somewhat
+      - A little
+      - Not at all
+      required: false
+    - id: 14
+      name: climate_policy_influence_level
+      label: climate_change.reported
+      hint: null
+      type: select_multiple
+      options:
+      - A lot
+      - Somewhat
+      - A little
+      - Not at all
+      required: false
+    - id: 15
+      name: climate_policy_influence_level
+      label: climate_change.reported
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 16
+      name: survey_time
+      label: how_long_have_you_taken_this_survey
+      hint: null
+      type: select_multiple
+      options:
+      - Less than 5 minutes
+      - 5-10 minutes
+      - 10-15 minutes
+      - 15-30 minutes
+      - More than 30 minutes
+      required: false
+    - id: 17
+      name: climate_policy_influence
+      label: youth_climate.reported
+      hint: null
+      type: select_multiple
+      options:
+      - A lot
+      - Somewhat
+      - A little
+      - Not at all
+      required: false
+    - id: 18
+      name: climate_policy_influence
+      label: climate.report.reported
+      hint: null
+      type: select_multiple
+      options:
+      - A lot
+      - Somewhat
+      - A little
+      - Not at all
+      required: false
+    - id: 19
+      name: climate_change_influence
+      label: youth_climate_change.reported
+      hint: null
+      type: select_multiple
+      options:
+      - A lot
+      - Somewhat
+      - A little
+      - Not at all
+      required: false
+    - id: 20
+      name: climate_change_reported
+      label: climate_change.reported
+      hint: null
+      type: select_multiple
+      options:
+      - A lot
+      - Somewhat
+      - A little
+      - Not at all
+      required: false
+    - id: 21
+      name: climate_policy_influence
+      label: youth.report.reported
+      hint: null
+      type: select_multiple
+      options:
+      - A lot
+      - Somewhat
+      - A little
+      - Not at all
+      required: false
+    - id: 22
+      name: climate_policy_awareness
+      label: how_much_do_you_believe_your_schools_climate_policy_made_you_more_aware_of_climate_change
+      hint: null
+      type: select_multiple
+      options:
+      - A lot
+      - Somewhat
+      - A little
+      - Not at all
+      required: false
+    - id: 23
+      name: climate_policy_influence
+      label: youth.report_influence
+      hint: null
+      type: select_multiple
+      options:
+      - A lot
+      - Somewhat
+      - A little
+      - Not at all
+      required: false
+    - id: 24
+      name: climate_report_awareness
+      label: what_do_you_believe_is_the_most_important_aspect_of_your_schools_climate_policy
+      hint: null
+      type: select_multiple
+      options:
+      - Mitigating climate change
+      - Reducing climate change
+      - Improving public health
+      - Improving energy security
+      - Other
+      required: false
+    - id: 25
+      name: survey_comments
+      label: any_comments_about_this_survey
+      hint: null
+      type: note
+      options: []
+      required: false

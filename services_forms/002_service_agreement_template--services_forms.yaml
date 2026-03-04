@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Service Agreement Template
+    pages:
+    - id: 1
+      name: service_agreement_template_form
+      label: Service Agreement Template Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: service_contract
+      label: Service Contract
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: agreement_terms
+      label: Agreement Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: service_agreement_start_date
+      label: Service Agreement Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: service_agreement_end_date
+      label: Service Agreement End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: service_contract_value
+      label: Service Contract Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: payment_terms_holiday
+      label: Payment Terms Holiday
+      hint: null
+      type: select_one
+      options:
+      - Holiday
+      - Regular
+      - On Demand
+      required: false
+    - id: 10
+      name: service_agreement_status
+      label: Service Agreement Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Pending
+      - Cancelled
+      required: false
+    - id: 11
+      name: service_agreement_notes
+      label: Service Agreement Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: client_email
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: client_phone
+      label: Client Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: client_address
+      label: Client Address
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,263 @@
+inputSchema:
+  type: object
+  properties:
+    title: Anonymous Bullying Reporting Form
+    pages:
+    - id: 1
+      name: report_type
+      label: Report Type
+      hint: What type of incident?
+      type: select_one
+      options:
+      - Bullying
+      - Cyberbullying
+      - Harassment
+      - Intimidation
+      - Physical Assault
+      - Verbal Abuse
+      - Social Exclusion
+      - Other
+      required: true
+    - id: 2
+      name: incident_date
+      label: Incident Date
+      hint: When did it happen?
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: incident_time
+      label: Incident Time
+      hint: What time?
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: incident_location
+      label: Incident Location
+      hint: Where did it happen?
+      type: select_one
+      options:
+      - Classroom
+      - Hallway
+      - Cafeteria
+      - Playground
+      - Bus
+      - Online
+      - Bathroom
+      - Locker Room
+      - Other
+      required: true
+    - id: 5
+      name: location_details
+      label: Location Details
+      hint: Specify location
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: person_bullied
+      label: Person Being Bullied
+      hint: Who is being bullied?
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: person_bullied_grade
+      label: Grade of Person Bullied
+      hint: What grade?
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: your_relationship
+      label: Your Relationship
+      hint: How do you know them?
+      type: select_one
+      options:
+      - I am the Victim
+      - Friend
+      - Classmate
+      - Sibling
+      - Witness
+      - Other
+      required: true
+    - id: 9
+      name: persons_involved
+      label: Persons Involved
+      hint: Who did the bullying?
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: persons_description
+      label: Description of Persons
+      hint: Describe them
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: witnesses_present
+      label: Witnesses Present
+      hint: Were there witnesses?
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Sure
+      required: true
+    - id: 12
+      name: witness_names
+      label: Witness Names
+      hint: If known
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: incident_description
+      label: Incident Description
+      hint: Describe what happened
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: frequency
+      label: Frequency
+      hint: How often does this happen?
+      type: select_one
+      options:
+      - First Time
+      - Occasionally
+      - Frequently
+      - Daily
+      - Ongoing
+      required: true
+    - id: 15
+      name: previous_reports
+      label: Previous Reports
+      hint: Have you reported before?
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 16
+      name: previous_report_details
+      label: Previous Report Details
+      hint: When and to whom?
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: evidence_available
+      label: Evidence Available
+      hint: Do you have evidence?
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 18
+      name: evidence_type
+      label: Evidence Type
+      hint: What type?
+      type: select_multiple
+      options:
+      - Screenshots
+      - Photos
+      - Videos
+      - Messages
+      - Emails
+      - Social Media Posts
+      - Other
+      required: false
+    - id: 19
+      name: impact_description
+      label: Impact Description
+      hint: How has this affected you or them?
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: safety_concern
+      label: Safety Concern
+      hint: Is anyone in danger?
+      type: select_one
+      options:
+      - Yes, Immediate Danger
+      - Yes, Some Concern
+      - false
+      - Not Sure
+      required: true
+    - id: 21
+      name: weapons_involved
+      label: Weapons Involved
+      hint: Were weapons used?
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Sure
+      required: true
+    - id: 22
+      name: desired_outcome
+      label: Desired Outcome
+      hint: What do you want to happen?
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: contact_preference
+      label: Contact Preference
+      hint: How should we follow up?
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - In Person
+      - No Contact
+      - Through Counselor
+      required: false
+    - id: 24
+      name: contact_email
+      label: Contact Email
+      hint: Optional - for follow-up
+      type: email
+      options: []
+      required: false
+    - id: 25
+      name: contact_phone
+      label: Contact Phone
+      hint: Optional - for follow-up
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: anonymity_request
+      label: Anonymity Request
+      hint: Do you want to remain anonymous?
+      type: select_one
+      options:
+      - Yes, Completely Anonymous
+      - Confidential
+      - Name Can Be Shared
+      required: true
+    - id: 27
+      name: support_needed
+      label: Support Needed
+      hint: Do you need support?
+      type: select_one
+      options:
+      - Yes, Counseling
+      - Yes, Safety Plan
+      - Yes, Mediation
+      - false
+      - Not Sure
+      required: false
+    - id: 28
+      name: additional_information
+      label: Additional Information
+      hint: Anything else to share?
+      type: text
+      options: []
+      required: false

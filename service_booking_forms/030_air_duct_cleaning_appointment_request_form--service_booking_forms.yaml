@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Air Duct Cleaning Appointment Request Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer name
+      hint: Name for booking confirmation
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_phone
+      label: Contact phone number
+      hint: For appointment scheduling
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact email
+      hint: Optional email for receipt
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: service_address
+      label: Service address
+      hint: Address where cleaning will occur
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: preferred_date
+      label: Preferred appointment date
+      hint: First available date preferred
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: preferred_time
+      label: Preferred appointment time
+      hint: Morning, afternoon, or evening preference
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: property_type
+      label: Property type
+      hint: Residential or commercial
+      type: select_one
+      options:
+      - Residential
+      - Commercial
+      required: true
+    - id: 8
+      name: approximate_area
+      label: Approximate area to service in square meters
+      hint: Helps estimate job time
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: special_instructions
+      label: Special instructions or access notes
+      hint: Gate codes or parking instructions
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: consent_terms
+      label: Consent to service terms
+      hint: Customer agrees to scheduling and service terms
+      type: note
+      options: []
+      required: true

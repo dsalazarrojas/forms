@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Concierge Service Agreement
+    pages:
+    - id: 1
+      name: client_name
+      label: Client name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_contact
+      label: Client contact email
+      hint: Email for agreement correspondence
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: service_start_date
+      label: Service start date
+      hint: Date services will begin
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: services_provided
+      label: Services provided
+      hint: Describe services included under the agreement
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: service_fee
+      label: Service fee
+      hint: Agreed fee for services
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: billing_schedule
+      label: Billing schedule
+      hint: Monthly, weekly, or per service
+      type: select_one
+      options:
+      - Monthly
+      - Weekly
+      - Per service
+      required: true
+    - id: 7
+      name: cancellation_policy
+      label: Cancellation policy
+      hint: Summary of cancellation terms
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact
+      label: Emergency contact name and phone
+      hint: For urgent service issues
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: client_signature
+      label: Client signature instructions
+      hint: Provide signature on the validated platform
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: additional_terms
+      label: Additional terms or notes
+      hint: Any special conditions for the agreement
+      type: text
+      options: []
+      required: false

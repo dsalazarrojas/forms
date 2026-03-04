@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Baby Shower RSVP
+    pages:
+    - id: 1
+      name: guest_name
+      label: Guest name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email address
+      hint: For confirmation
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: attending
+      label: Attending
+      hint: Confirm attendance
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: true
+    - id: 4
+      name: number_of_guests
+      label: Number of guests attending
+      hint: Include yourself
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: meal_preference
+      label: Meal preference
+      hint: If a meal is provided
+      type: select_one
+      options:
+      - None
+      - Vegetarian
+      - Vegan
+      - Gluten free
+      - Other
+      required: false
+    - id: 6
+      name: song_request
+      label: Song request
+      hint: Optional fun addition
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: arrival_time
+      label: Expected arrival time
+      hint: Helps with coordination
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: gift_selected
+      label: Gift selected from registry
+      hint: Item name or link
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: transport_notes
+      label: Transport notes
+      hint: Parking or carpool information
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: rsvp_date
+      label: RSVP submission date
+      hint: Date of response
+      type: date
+      options: []
+      required: true

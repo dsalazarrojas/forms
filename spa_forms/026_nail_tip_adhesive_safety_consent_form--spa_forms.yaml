@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nail Tip Adhesive Safety Consent Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: nail_type
+      label: Nail Type
+      hint: null
+      type: select_one
+      options:
+      - Acrylic
+      - Gel
+      - Nail Tips
+      - Nail Wraps
+      required: false
+    - id: 7
+      name: nail_technician
+      label: Nail Technician
+      hint: null
+      type: select_multiple
+      options:
+      - John
+      - Jane
+      - Bob
+      - Alice
+      required: false
+    - id: 8
+      name: consent
+      label: Consent
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: consent_note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

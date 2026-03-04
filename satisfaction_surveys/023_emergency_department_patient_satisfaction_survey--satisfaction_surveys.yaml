@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: Emergency Department Patient Satisfaction Survey
+    pages:
+    - id: 1
+      name: emergency_department_page
+      label: Emergency Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: nurse_interaction_page
+      label: Nurse Interaction
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''label'': ''Strongly Agree''}'
+      - '{''value'': 2, ''label'': ''Somewhat Agree''}'
+      - '{''value'': 3, ''label'': ''Neutral''}'
+      - '{''value'': 4, ''label'': ''Somewhat Disagree''}'
+      - '{''value'': 5, ''label'': ''Strongly Disagree''}'
+      required: true
+    - id: 3
+      name: doctor_interaction_page
+      label: Doctor Interaction
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Strongly Agree''}'
+      - '{''value'': 2, ''label'': ''Somewhat Agree''}'
+      - '{''value'': 3, ''label'': ''Neutral''}'
+      - '{''value'': 4, ''label'': ''Somewhat Disagree''}'
+      - '{''value'': 5, ''label'': ''Strongly Disagree''}'
+      required: true
+    - id: 4
+      name: wait_time_page
+      label: Wait Time
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Less than 30 minutes''}'
+      - '{''value'': 2, ''label'': ''30-60 minutes''}'
+      - '{''value'': 3, ''label'': ''60-90 minutes''}'
+      - '{''value'': 4, ''label'': ''More than 90 minutes''}'
+      required: true
+    - id: 5
+      name: overall_experience_page
+      label: Overall Experience
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''label'': ''Excellent''}'
+      - '{''value'': 2, ''label'': ''Good''}'
+      - '{''value'': 3, ''label'': ''Neutral''}'
+      - '{''value'': 4, ''label'': ''Poor''}'
+      - '{''value'': 5, ''label'': ''Bad''}'
+      required: true
+    - id: 6
+      name: staff_availability_page
+      label: Staff Availability
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: doctor_availability_page
+      label: Doctor Availability
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: nurse_availability_page
+      label: Nurse Availability
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: medical_record_access_page
+      label: Medical Record Access
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': True}'
+      - '{''value'': 2, ''label'': False}'
+      required: true
+    - id: 10
+      name: discharge_instructions_page
+      label: Discharge Instructions
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Given Clearly''}'
+      - '{''value'': 2, ''label'': ''Not Given''}'
+      required: true
+    - id: 11
+      name: pain_management_page
+      label: Pain Management
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Effective''}'
+      - '{''value'': 2, ''label'': ''Ineffective''}'
+      required: true
+    - id: 12
+      name: staff_communication_page
+      label: Staff Communication
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Excellent''}'
+      - '{''value'': 2, ''label'': ''Good''}'
+      - '{''value'': 3, ''label'': ''Neutral''}'
+      - '{''value'': 4, ''label'': ''Poor''}'
+      - '{''value'': 5, ''label'': ''Bad''}'
+      required: true
+    - id: 13
+      name: wait_time_satisfaction_page
+      label: Wait Time Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: doctor_care_page
+      label: Doctor Care
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: nurse_care_page
+      label: Nurse Care
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: overall_care_page
+      label: Overall Care
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: staff_helpfulness_page
+      label: Staff Helpfulness
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: hospital_facilities_page
+      label: Hospital Facilities
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: recommendations_page
+      label: Recommendations
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: follow_up_page
+      label: Follow-up
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: follow_up_phone_page
+      label: Follow-up Phone
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: emergency_department_rating_page
+      label: Emergency Department Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: emergency_department_rating_comment_page
+      label: Emergency Department Rating Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: overall_experience_comment_page
+      label: Overall Experience Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: suggestions_page
+      label: Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false

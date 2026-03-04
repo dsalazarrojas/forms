@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beard Steam Facial Consent Form
+    pages:
+    - id: 1
+      name: client_header
+      label: -- Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: appointment_date
+      label: Appointment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: health_header
+      label: -- Health Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: facial_hair_type
+      label: Facial Hair Type
+      hint: null
+      type: select_one
+      options:
+      - Coarse
+      - Medium
+      - Fine
+      - Curly
+      - Straight
+      required: true
+    - id: 9
+      name: skin_type
+      label: Skin Type
+      hint: null
+      type: select_one
+      options:
+      - Sensitive
+      - Normal
+      - Oily
+      - Dry
+      - Combination
+      required: true
+    - id: 10
+      name: skin_conditions
+      label: Current Skin Conditions
+      hint: Acne, rosacea, eczema, psoriasis, etc.
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: heat_sensitivity
+      label: Sensitivity to Heat
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Mild
+      - Moderate
+      - Severe
+      required: true
+    - id: 12
+      name: known_allergies
+      label: Known Product Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: medications_affecting_skin
+      label: Medications Affecting Skin
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: recent_treatments
+      label: Recent Facial Treatments
+      hint: Last 2 weeks
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: respiratory_header
+      label: -- Respiratory Considerations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: breathing_conditions
+      label: Breathing Conditions
+      hint: Asthma, bronchitis, etc.
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: steam_tolerance
+      label: Previous Experience with Steam Treatments
+      hint: null
+      type: select_one
+      options:
+      - Yes - Tolerate Well
+      - Yes - Some Discomfort
+      - No - First Time
+      required: true
+    - id: 18
+      name: consent_header
+      label: -- Consent and Acknowledgment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: understand_treatment
+      label: I understand the steam facial treatment process
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: consent_to_treatment
+      label: I consent to the beard steam facial treatment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: acknowledge_risks
+      label: I acknowledge potential risks
+      hint: Burns, irritation, temporary redness
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 22
+      name: follow_aftercare
+      label: I will follow aftercare instructions
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 23
+      name: signature
+      label: Client Signature
+      hint: By typing here you provide consent
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: consent_date
+      label: Date of Consent
+      hint: null
+      type: date
+      options: []
+      required: true

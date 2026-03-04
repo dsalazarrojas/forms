@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pensioners Validation Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: Enter your first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: Enter your last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Enter your phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email
+      label: Email
+      hint: Enter your email
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: pensioner_id
+      label: Pensioner ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: notes
+      label: Notes
+      hint: Any additional comments
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: date_of_application
+      label: Date of Application
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: time_of_submission
+      label: Time of Submission
+      hint: null
+      type: time
+      options: []
+      required: true

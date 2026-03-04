@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: phone_usage_survey--services_forms
+    pages:
+    - id: 1
+      name: phone_usage_survey_services_forms
+      label: phone_survey_template
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: phone_screen_time
+      label: mobile_phone_screen_time
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: screen_time_by_day
+      label: screen_time_by_day
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: phone_model
+      label: phone_model
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: operating_system
+      label: operating_system
+      hint: null
+      type: select_one
+      options:
+      - Android
+      - iOS
+      - Windows
+      required: true
+    - id: 6
+      name: screen_size
+      label: screen_size
+      hint: null
+      type: select_one
+      options:
+      - large
+      - medium
+      - small
+      required: true
+    - id: 7
+      name: screen_resolution
+      label: screen_resolution
+      hint: null
+      type: select_multiple
+      options:
+      - HD
+      - FullHD
+      - 4K
+      required: false
+    - id: 8
+      name: carrier_survey
+      label: carrier_survey
+      hint: null
+      type: text
+      options: []
+      required: false

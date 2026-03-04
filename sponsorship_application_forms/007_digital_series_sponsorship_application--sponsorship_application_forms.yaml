@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: digital_series_sponsorship_application
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_details
+      label: Event Details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: sponsorships
+      label: Sponsorships
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: media_assets
+      label: Media Assets
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: partner_details
+      label: Partner Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: file_upload
+      label: File Upload
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wedding Shot List Worksheet
+    pages:
+    - id: 1
+      name: wedding_shot_list_worksheet
+      label: wedding_shot_list_worksheet
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: photographer_info
+      label: photographer_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_info
+      label: photographer_contact
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: shot_list_items
+      label: shot_list_items
+      hint: null
+      type: select_multiple
+      options:
+      - Item 1
+      - Item 2
+      - Item 3
+      required: true
+    - id: 5
+      name: photographer_preferences
+      label: photographer_preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: shot_list_preferences
+      label: shot_list_preferences
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 7
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: photographer_comments
+      label: photographer_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date_time
+      label: date_time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: expected_attendance
+      label: expected_attendance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: budget
+      label: budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: services_form
+      label: services_form
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false

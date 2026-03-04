@@ -1,0 +1,179 @@
+inputSchema:
+  type: object
+  properties:
+    title: dti-10-month-application-submission-2020
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: middle_name
+      label: Middle Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: postal_code
+      label: Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: high_school_diploma_earned
+      label: High School Diploma Earned
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
+      required: true
+    - id: 11
+      name: post_secondary_education_attended
+      label: Post Secondary Education Attended
+      hint: null
+      type: select_multiple
+      options:
+      - High School
+      - University
+      - Trade School
+      - College
+      - Other
+      required: false
+    - id: 12
+      name: highest_degree_earned
+      label: Highest Degree Earned
+      hint: null
+      type: select_one
+      options:
+      - Bachelor
+      - Master
+      - PhD
+      - No degree
+      - Other
+      required: true
+    - id: 13
+      name: years_of_post_secondary_education
+      label: Years of Post Secondary Education
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: years_of_post_secondary_education_relevant_field
+      label: Years of Post Secondary Education Relevant to Field
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: employer_name
+      label: Employer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: job_duration
+      label: Job Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: job_skill_used
+      label: Job Skill Used
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: job_skill_level
+      label: Job Skill Level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: first_reference
+      label: First Reference
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: job_title_first_reference
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: employer_first_reference
+      label: Employer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: upload_document
+      label: Upload Document
+      hint: null
+      type: text
+      options: []
+      required: false

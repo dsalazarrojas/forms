@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Emergency Preparadness Documentary Consent Form
+    pages:
+    - id: 1
+      name: participant_details
+      label: Participant Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: roles
+      label: Roles
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Participant''}'
+      - '{''id'': 2, ''label'': ''Supporter''}'
+      - '{''id'': 3, ''label'': ''Both''}'
+      required: true
+    - id: 3
+      name: consent
+      label: Consent
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: true
+    - id: 4
+      name: participant_details_1
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: participant_details_2
+      label: Participant Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: participant_details_3
+      label: Participant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: participant_details_4
+      label: Participant Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: participant_details_5
+      label: Participant Role
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: participant_details_6
+      label: Participant Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: participant_details_7
+      label: Participant Image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: participant_details_8
+      label: Participant Video
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: participant_details_9
+      label: Participant Audio
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: participant_details_10
+      label: Participant Video
+      hint: null
+      type: text
+      options: []
+      required: false

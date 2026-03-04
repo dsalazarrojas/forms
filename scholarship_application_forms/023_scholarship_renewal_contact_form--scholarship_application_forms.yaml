@@ -1,0 +1,124 @@
+inputSchema:
+  type: object
+  properties:
+    title: scholarship_renewal_contact_form
+    pages:
+    - id: 1
+      name: student_id
+      label: Student ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: academic_status
+      label: Academic Status
+      hint: null
+      type: select_one
+      options:
+      - High School
+      - College
+      - University
+      - High School
+      - College
+      - University
+      required: false
+    - id: 7
+      name: financial_status
+      label: Financial Status
+      hint: null
+      type: select_multiple
+      options:
+      - Stable
+      - Unstable
+      - Unknown
+      required: false
+    - id: 8
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: student_status
+      label: Student Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submit_date
+      label: Submit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: submit_time
+      label: Submit Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: scholarship_id
+      label: Scholarship ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: updated_status
+      label: Updated Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Completed
+      - In Progress
+      required: false

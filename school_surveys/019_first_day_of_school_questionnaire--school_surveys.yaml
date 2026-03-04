@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: First Day Of School Questionnaire
+    pages:
+    - id: 1
+      name: main
+      label: first_day_of_school_questionnaire
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: previous_schooling_info
+      label: previous_schooling_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: student_interests
+      label: student_interests
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: family_background
+      label: family_background
+      hint: null
+      type: text
+      options: []
+      required: false

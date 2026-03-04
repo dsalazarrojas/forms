@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fitness Class Variety And Timing Survey
+    pages:
+    - id: 1
+      name: class_variety
+      label: Class Variety
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: class_time
+      label: Class Time
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Morning''}'
+      - '{''label'': ''Afternoon''}'
+      - '{''label'': ''Evening''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 3
+      name: class_frequency
+      label: Class Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Rarely''}'
+      - '{''label'': ''Occasionally''}'
+      - '{''label'': ''Often''}'
+      - '{''label'': ''Almost Always''}'
+      required: false
+    - id: 4
+      name: class_duration
+      label: Class Duration
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''30-60 minutes''}'
+      - '{''label'': ''60-90 minutes''}'
+      - '{''label'': ''90-120 minutes''}'
+      required: false
+    - id: 5
+      name: class_intensity
+      label: Class Intensity
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Low''}'
+      - '{''label'': ''Medium''}'
+      - '{''label'': ''High''}'
+      required: false
+    - id: 6
+      name: class_style
+      label: Class Style
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: instructor_experience
+      label: Instructor Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: why_class
+      label: Why Class
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: fitness_goals
+      label: Fitness Goals
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

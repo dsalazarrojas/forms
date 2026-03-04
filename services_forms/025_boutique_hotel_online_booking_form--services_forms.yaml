@@ -1,0 +1,300 @@
+inputSchema:
+  type: object
+  properties:
+    title: Boutique Hotel Online Booking Form
+    pages:
+    - id: 1
+      name: guest_first_name
+      label: First Name
+      hint: Guest first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: guest_last_name
+      label: Last Name
+      hint: Guest last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: guest_email
+      label: Email Address
+      hint: For booking confirmation and communications
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: guest_phone
+      label: Phone Number
+      hint: Primary contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: guest_address
+      label: Address
+      hint: Complete home address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: guest_city
+      label: City
+      hint: City of residence
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: guest_state
+      label: State or Province
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: guest_country
+      label: Country
+      hint: Country of residence
+      type: select_one
+      options:
+      - United States
+      - Canada
+      - United Kingdom
+      - Australia
+      - Germany
+      - France
+      - Italy
+      - Spain
+      - Other
+      required: true
+    - id: 9
+      name: check_in_date
+      label: Check-in Date
+      hint: Arrival date
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: check_out_date
+      label: Check-out Date
+      hint: Departure date
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: number_of_nights
+      label: Number of Nights
+      hint: Total nights staying
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: number_of_guests
+      label: Number of Guests
+      hint: Total number of guests
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: number_of_adults
+      label: Number of Adults
+      hint: Guests 18 and older
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: number_of_children
+      label: Number of Children
+      hint: Guests under 18
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: children_ages
+      label: Children Ages
+      hint: Ages of children
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: room_type_preference
+      label: Room Type Preference
+      hint: Select preferred room type
+      type: select_one
+      options:
+      - Standard Queen
+      - Standard King
+      - Deluxe Queen
+      - Deluxe King
+      - Junior Suite
+      - Executive Suite
+      - Penthouse Suite
+      - Connecting Rooms
+      required: true
+    - id: 17
+      name: bed_preference
+      label: Bed Preference
+      hint: Type of bedding preferred
+      type: select_one
+      options:
+      - King bed
+      - Queen bed
+      - Two double beds
+      - Two queen beds
+      - No preference
+      required: true
+    - id: 18
+      name: view_preference
+      label: View Preference
+      hint: Preferred room view
+      type: select_one
+      options:
+      - City view
+      - Ocean view
+      - Garden view
+      - Mountain view
+      - Courtyard view
+      - No preference
+      required: false
+    - id: 19
+      name: smoking_preference
+      label: Smoking Preference
+      hint: Smoking or non-smoking
+      type: select_one
+      options:
+      - Non-smoking
+      - Smoking
+      required: true
+    - id: 20
+      name: special_requests
+      label: Special Requests
+      hint: Any special requests or requirements
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: accessibility_needs
+      label: Accessibility Needs
+      hint: Do you require accessible accommodations
+      type: select_multiple
+      options:
+      - None
+      - Wheelchair accessible
+      - Roll-in shower
+      - Grab bars
+      - Visual alarms
+      - Hearing accessible
+      - Other
+      required: true
+    - id: 22
+      name: early_check_in
+      label: Early Check-in Request
+      hint: Would you like early check-in
+      type: select_one
+      options:
+      - Yes, if available
+      - false
+      - Will arrive early
+      required: false
+    - id: 23
+      name: late_check_out
+      label: Late Check-out Request
+      hint: Would you like late check-out
+      type: select_one
+      options:
+      - Yes, if available
+      - false
+      required: false
+    - id: 24
+      name: transportation_needed
+      label: Transportation Needed
+      hint: Do you need airport transportation
+      type: select_one
+      options:
+      - Yes, airport pickup
+      - Yes, airport dropoff
+      - Yes, both
+      - false
+      required: false
+    - id: 25
+      name: package_preference
+      label: Package Preference
+      hint: Select any package deals
+      type: select_one
+      options:
+      - Room only
+      - Bed and breakfast
+      - Romance package
+      - Spa package
+      - Adventure package
+      - Business package
+      required: true
+    - id: 26
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit card
+      - Debit card
+      - PayPal
+      - Bank transfer
+      - Pay at hotel
+      required: true
+    - id: 27
+      name: special_occasion
+      label: Special Occasion
+      hint: Are you celebrating something special
+      type: select_one
+      options:
+      - None
+      - Birthday
+      - Anniversary
+      - Honeymoon
+      - Graduation
+      - Business trip
+      - Other
+      required: false
+    - id: 28
+      name: how_heard_about_us
+      label: How Did You Hear About Us
+      hint: What source led you to book
+      type: select_one
+      options:
+      - Hotel website
+      - Online travel agency
+      - Social media
+      - Friend referral
+      - Travel agent
+      - Advertisement
+      - Previous stay
+      required: false
+    - id: 29
+      name: loyalty_member
+      label: Loyalty Program Member
+      hint: Are you a member of our loyalty program
+      type: select_one
+      options:
+      - true
+      - false
+      - Want to join
+      required: true
+    - id: 30
+      name: terms_accepted
+      label: Terms and Conditions
+      hint: I accept the terms and conditions
+      type: select_one
+      options:
+      - I accept
+      - I do not accept
+      required: true
+    - id: 31
+      name: cancellation_policy_accepted
+      label: Cancellation Policy
+      hint: I understand the cancellation policy
+      type: select_one
+      options:
+      - I understand
+      - I do not understand
+      required: true

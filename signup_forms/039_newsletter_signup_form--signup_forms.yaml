@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Newsletter Signup Form
+    pages:
+    - id: 1
+      name: form_data
+      label: Newsletter Signup Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: confirm_email
+      label: Confirm Email
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: email_opt_in
+      label: Email Opt-in
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''text'': True}'
+      - '{''id'': 2, ''text'': False}'
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: confirm_phone
+      label: Confirm Phone
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: newsletter_frequency
+      label: Newsletter Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''text'': ''Daily''}'
+      - '{''id'': 2, ''text'': ''Weekly''}'
+      - '{''id'': 3, ''text'': ''Monthly''}'
+      required: false
+    - id: 10
+      name: newsletter_topics
+      label: Newsletter Topics
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

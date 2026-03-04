@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Music Workshop Signup Form
+    pages:
+    - id: 1
+      name: session
+      label: Session
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: participant_name
+      label: participant name
+      hint: participant name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: participant_email
+      label: participant email
+      hint: participant email
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: participant_phone
+      label: participant phone
+      hint: participant phone
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: participant_note
+      label: participant note
+      hint: participant note
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: session_type
+      label: session type
+      hint: session type
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: session_date
+      label: session date
+      hint: session date
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: session_time
+      label: session time
+      hint: session time
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: session_note
+      label: session note
+      hint: session note
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: participant_details
+      label: participant details
+      hint: participant details
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: form_submission_id
+      label: form submission id
+      hint: form submission id
+      type: number
+      options: []
+      required: false

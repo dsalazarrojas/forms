@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Transportation Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: transportation_methods
+      label: Transportation Methods
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: preferred_transportation_method
+      label: Preferred Transportation Method
+      hint: What is your preferred method?
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 4
+      name: how_often_use_public_transportation
+      label: How Often Do You Use Public Transportation?
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: travel_distance
+      label: What is Your Usual Daily Travel Distance?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: how_important_transportation_to_you
+      label: How Important Is Transportation To You
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 7
+      name: how_important_transportation_to_friends
+      label: How Important Is Transportation to Your Friends
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 8
+      name: how_important_transportation_to_work
+      label: How Important Is Transportation to Work
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 9
+      name: how_important_transportation_to_school
+      label: How Important Is Transportation to School
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 10
+      name: other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false

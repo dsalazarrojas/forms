@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: Golf Team Registration
+    pages:
+    - id: 1
+      name: form_data
+      label: Form Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: players
+      label: Players
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: player1_name
+      label: Player 1 Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: player1_handicap
+      label: Player 1 Handicap
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: player1_guest_tickets
+      label: Player 1 Guest Tickets
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''None''}'
+      - '{''label'': 1}'
+      - '{''label'': 2}'
+      - '{''label'': 3}'
+      required: false
+    - id: 6
+      name: player2_name
+      label: Player 2 Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: player2_handicap
+      label: Player 2 Handicap
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: player3_name
+      label: Player 3 Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: player3_handicap
+      label: Player 3 Handicap
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: player4_name
+      label: Player 4 Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: player4_handicap
+      label: Player 4 Handicap
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: player4_guest_tickets
+      label: Player 4 Guest Tickets
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''None''}'
+      - '{''label'': 1}'
+      - '{''label'': 2}'
+      - '{''label'': 3}'
+      required: false
+    - id: 13
+      name: additional_tickets
+      label: Additional Tickets
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: banking_details
+      label: Banking Details
+      hint: null
+      type: text
+      options: []
+      required: false

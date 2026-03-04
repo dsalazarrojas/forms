@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: Start Of Shift Vehicle Inspection Report Form
+    pages:
+    - id: 1
+      name: vehicle_status
+      label: vehicle status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: fuel_level
+      label: fuel level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: tire_condition
+      label: tire condition
+      hint: null
+      type: select_one
+      options:
+      - good
+      - fair
+      - poor
+      required: false
+    - id: 4
+      name: oil_level
+      label: oil level
+      hint: null
+      type: select_multiple
+      options:
+      - full
+      - empty
+      - low
+      required: false
+    - id: 5
+      name: brakes
+      label: brakes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: suspension
+      label: suspension
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: steering
+      label: steering
+      hint: null
+      type: select_one
+      options:
+      - good
+      - fair
+      - poor
+      required: false
+    - id: 8
+      name: transmission
+      label: transmission
+      hint: null
+      type: select_multiple
+      options:
+      - good
+      - fair
+      - poor
+      required: false
+    - id: 9
+      name: electrical_systems
+      label: electrical systems
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: safety_equipment
+      label: safety equipment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: lights_and_signals
+      label: lights and signals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: vehicle_damage
+      label: vehicle damage
+      hint: null
+      type: select_one
+      options:
+      - good
+      - fair
+      - poor
+      required: false
+    - id: 13
+      name: driver_documentation
+      label: driver documentation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: vehicle_registration
+      label: vehicle registration
+      hint: null
+      type: text
+      options: []
+      required: false

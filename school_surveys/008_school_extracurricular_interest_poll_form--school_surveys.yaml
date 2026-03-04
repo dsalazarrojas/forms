@@ -1,0 +1,41 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Extracurricular Interest Poll Form
+    pages:
+    - id: 1
+      name: clubs_interest
+      label: what_clubs_do_you_enjoy
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: sports_interest
+      label: favorite_sports_or_activities
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: enrichment_interest
+      label: favorite_enrichment_activities
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: other_clubs_interest
+      label: other_clubs
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

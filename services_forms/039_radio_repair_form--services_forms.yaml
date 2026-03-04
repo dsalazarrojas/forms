@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: Radio Repair Form
+    pages:
+    - id: 1
+      name: radio_repair_form_name
+      label: radio_repair_form_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: service_type
+      label: service_type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''radio''}'
+      - '{''value'': ''television''}'
+      - '{''value'': ''audio''}'
+      - '{''value'': ''video''}'
+      required: false
+    - id: 6
+      name: service_type_selected
+      label: service_type_selected
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: radio_repair_form_description
+      label: radio_repair_form_description
+      hint: null
+      type: note
+      options: []
+      required: false

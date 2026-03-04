@@ -1,0 +1,222 @@
+inputSchema:
+  type: object
+  properties:
+    title: Choir Signup Form
+    pages:
+    - id: 1
+      name: personal_information
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      - Prefer not to say
+      required: false
+    - id: 6
+      name: contact_information
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: street_address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: state_province
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: zip_postal_code
+      label: Zip or Postal Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: vocal_information
+      label: -- Vocal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: voice_type
+      label: Voice Type or Vocal Range
+      hint: null
+      type: select_one
+      options:
+      - Soprano
+      - Alto
+      - Tenor
+      - Baritone
+      - Bass
+      - Unsure
+      required: true
+    - id: 15
+      name: singing_experience
+      label: Singing Experience Level
+      hint: null
+      type: select_one
+      options:
+      - Beginner - No experience
+      - Elementary - Some experience
+      - Intermediate - Some training
+      - Advanced - Formal training
+      - Professional - Extensive experience
+      required: true
+    - id: 16
+      name: prior_choir_experience
+      label: Previous Choir Experience
+      hint: null
+      type: select_one
+      options:
+      - None
+      - School choir
+      - Church choir
+      - Community choir
+      - Multiple choirs
+      - Professional choir
+      required: true
+    - id: 17
+      name: music_reading
+      label: Can You Read Music
+      hint: null
+      type: select_one
+      options:
+      - Yes, proficiently
+      - Yes, at basic level
+      - 'No'
+      - Want to learn
+      required: true
+    - id: 18
+      name: choir_details
+      label: -- Choir Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: choir_interest
+      label: Why Are You Interested in Joining the Choir
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: availability
+      label: Your Availability
+      hint: null
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: true
+    - id: 21
+      name: rehearsal_times
+      label: Can You Attend Regular Rehearsals
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Maybe
+      required: true
+    - id: 22
+      name: performance_participation
+      label: Are You Willing to Perform in Concerts
+      hint: null
+      type: select_one
+      options:
+      - Yes, definitely
+      - Yes, sometimes
+      - 'No'
+      - Unsure
+      required: true
+    - id: 23
+      name: transportation
+      label: Do You Have Transportation to Rehearsals
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Sometimes
+      required: false
+    - id: 24
+      name: additional_information
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: additional_comments
+      label: Additional Comments or Questions
+      hint: null
+      type: text
+      options: []
+      required: false

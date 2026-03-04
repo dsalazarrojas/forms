@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Volunteer Sign Up Form
+    pages:
+    - id: 1
+      name: first_name
+      label: Report Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: organization
+      label: organization
+      hint: null
+      type: select_multiple
+      options:
+      - Apple
+      - Facebook
+      - Microsoft
+      - Google
+      required: true
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: volunteer_role
+      label: volunteer_role
+      hint: null
+      type: select_multiple
+      options:
+      - Volunteer
+      - Lead
+      - Organizer
+      required: true
+    - id: 8
+      name: availability
+      label: availability
+      hint: null
+      type: select_one
+      options:
+      - Mon
+      - Tue
+      - Wed
+      - Thu
+      - Fri
+      - Sat
+      - Sun
+      required: true
+    - id: 9
+      name: volunteer_hours
+      label: volunteer_hours
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_details
+      label: additional_details
+      hint: null
+      type: text
+      options: []
+      required: false

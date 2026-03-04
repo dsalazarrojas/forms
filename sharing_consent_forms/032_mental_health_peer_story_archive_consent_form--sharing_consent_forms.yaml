@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mental Health Peer Story Archive Consent Form
+    pages:
+    - id: 1
+      name: form_section
+      label: Form Section
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: contributor_information
+      label: Contributor Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: story_consent
+      label: Story Consent
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      - '{''label'': ''Undecided''}'
+      required: false
+    - id: 4
+      name: use_in_archive
+      label: Use in Archive
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Yes, with name removed''}'
+      - '{''label'': ''Yes, with name''}'
+      - '{''label'': False}'
+      required: false
+    - id: 5
+      name: share_with_peer_group
+      label: Share with Peer Group
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 6
+      name: share_with_organization
+      label: Share with Organization
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 7
+      name: share_with_public
+      label: Share with Public
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 8
+      name: archive_location
+      label: Archive Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: archive_type
+      label: Archive Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Online''}'
+      - '{''label'': ''Offline''}'
+      - '{''label'': ''Both''}'
+      required: false
+    - id: 10
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: contact_organization
+      label: Contact Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: contact_location
+      label: Contact Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false

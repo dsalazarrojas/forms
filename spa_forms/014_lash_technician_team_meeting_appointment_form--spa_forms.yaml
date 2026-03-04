@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: lash_technician_team_meeting_appointment_form
+    pages:
+    - id: 1
+      name: team_meeting_date
+      label: Meeting Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: salon_location
+      label: meeting_location
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: team_meeting_start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: team_meeting_duration
+      label: Meeting Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: lash_technician_team_name
+      label: Lash Technician Team Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: team_meeting_subject
+      label: Meeting Subject
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: meeting_attendees
+      label: Meeting Attendees
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: meeting_agenda
+      label: Meeting Agenda
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: action_required
+      label: Action Required
+      hint: null
+      type: text
+      options: []
+      required: false

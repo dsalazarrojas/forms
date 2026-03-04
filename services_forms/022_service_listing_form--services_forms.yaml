@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Service Listing Form
+    pages:
+    - id: 1
+      name: service_listing_form_provider
+      label: Service Listing Form Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: service_listing_form_service
+      label: Service
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: service_listing_form_description
+      label: Description
+      hint: Write a brief description of your service
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: service_listing_form_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: service_listing_form_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: service_listing_form_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: service_listing_form_hours
+      label: Hours
+      hint: null
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: false
+    - id: 8
+      name: service_listing_form_rate
+      label: Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: service_listing_form_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Available
+      - Not Available
+      - Offline
+      required: false
+    - id: 10
+      name: service_listing_form_category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Category 1
+      - Category 2
+      - Category 3
+      required: false
+    - id: 11
+      name: service_listing_form_subcategory
+      label: Subcategory
+      hint: null
+      type: select_one
+      options:
+      - Subcategory 1
+      - Subcategory 2
+      - Subcategory 3
+      required: false
+    - id: 12
+      name: service_listing_form_tags
+      label: Tags
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: service_listing_form_tags_list
+      label: Tags List
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

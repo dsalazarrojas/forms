@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Security Guard Services Quote Form
+    pages:
+    - id: 1
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: services_needed
+      label: services_needed
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: dates
+      label: dates
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: quote
+      label: quote
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: contact_method
+      label: contact_method
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: company
+      label: company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: city
+      label: city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: state
+      label: state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: zip
+      label: zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

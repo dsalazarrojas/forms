@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Senior High School Application Form
+    pages:
+    - id: 1
+      name: name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: school_start_date
+      label: School Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: school_address
+      label: School Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: parent_name
+      label: Parent Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: parent_email
+      label: Parent Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: parent_phone
+      label: Parent Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: student_statement
+      label: Student Statement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: student_references
+      label: Student References
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 12
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

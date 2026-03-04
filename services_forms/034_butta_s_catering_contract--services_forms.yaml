@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Butta's Catering Contract
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: Full name of the client
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_email
+      label: Email Address
+      hint: Your contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: client_phone
+      label: Phone Number
+      hint: Your contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: event_name
+      label: Event Name or Occasion
+      hint: What is the event for?
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: event_type
+      label: Type of Event
+      hint: What kind of event?
+      type: select_one
+      options:
+      - Wedding
+      - Corporate event
+      - Birthday party
+      - Graduation
+      - Funeral reception
+      - Holiday party
+      - Wedding reception
+      - Conference
+      - Private dinner
+      - Other event
+      required: true
+    - id: 6
+      name: event_date
+      label: Event Date
+      hint: When will the event be held?
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: event_start_time
+      label: Event Start Time
+      hint: What time should service begin?
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: event_end_time
+      label: Event End Time
+      hint: What time should service end?
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: event_location
+      label: Event Location
+      hint: Where will the event be held?
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: number_of_guests
+      label: Expected Number of Guests
+      hint: How many people are you catering for?
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: cuisine_preference
+      label: Cuisine Preference
+      hint: What type of cuisine?
+      type: select_multiple
+      options:
+      - Southern cuisine
+      - BBQ and grilled meats
+      - Soul food
+      - Seafood
+      - Vegetarian or vegan
+      - Fusion
+      - International
+      - Other
+      required: true
+    - id: 12
+      name: menu_items
+      label: Preferred Menu Items
+      hint: What dishes would you like served?
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: beverage_service
+      label: Beverage Service Included
+      hint: What beverages are needed?
+      type: select_one
+      options:
+      - Non-alcoholic beverages only
+      - Alcoholic and non-alcoholic
+      - Coffee and dessert beverages
+      - Custom beverage menu
+      - Not needed
+      required: true
+    - id: 14
+      name: dietary_requirements
+      label: Dietary Requirements or Restrictions
+      hint: Allergies, vegetarian, vegan, gluten-free, etc.
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: service_style
+      label: Service Style
+      hint: How should food be served?
+      type: select_one
+      options:
+      - Buffet service
+      - Plated service
+      - Family style
+      - Passed appetizers
+      - Combination service
+      - Other style
+      required: true
+    - id: 16
+      name: staff_provided
+      label: Catering Staff to Be Provided
+      hint: Waiters, bartenders, chefs, etc.
+      type: select_multiple
+      options:
+      - Servers or waitstaff
+      - Bartender
+      - Chef or cook
+      - Kitchen assistant
+      - Event coordinator
+      - All staff included
+      required: true
+    - id: 17
+      name: equipment_rentals
+      label: Equipment or Rentals Needed
+      hint: Tables, chairs, linens, dishes, etc.
+      type: select_multiple
+      options:
+      - Tables and chairs
+      - Linens and napkins
+      - Dishes and utensils
+      - Glassware
+      - Serving pieces
+      - Decorations
+      - Lighting
+      - Other equipment
+      required: false
+    - id: 18
+      name: contract_total
+      label: Estimated Contract Total
+      hint: Estimated cost for catering services
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: deposit_amount
+      label: Deposit or Down Payment Required
+      hint: Amount needed to confirm booking
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: special_arrangements
+      label: Special Arrangements or Notes
+      hint: Any other requirements or details
+      type: text
+      options: []
+      required: false

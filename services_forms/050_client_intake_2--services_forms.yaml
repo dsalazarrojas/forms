@@ -1,0 +1,334 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Intake 2
+    pages:
+    - id: 1
+      name: child_first_name
+      label: Child First Name
+      hint: Child legal first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: child_last_name
+      label: Child Last Name
+      hint: Child legal last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: child_date_of_birth
+      label: Child Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: child_gender
+      label: Child Gender
+      hint: For records
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-Binary
+      - Prefer Not to Say
+      - Other
+      required: true
+    - id: 5
+      name: parent_guardian_first_name
+      label: Parent or Guardian First Name
+      hint: Your legal first name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: parent_guardian_last_name
+      label: Parent or Guardian Last Name
+      hint: Your legal last name
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: parent_guardian_email
+      label: Parent or Guardian Email
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: parent_guardian_phone
+      label: Parent or Guardian Phone
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: home_address
+      label: Home Address
+      hint: Complete mailing address
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: home_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: home_state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: home_zip
+      label: ZIP Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: household_members
+      label: Who Lives in the Household?
+      hint: List all members and relationships
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: family_structure
+      label: Family Structure
+      hint: Household composition
+      type: select_one
+      options:
+      - Two Parent Home
+      - Single Parent Home
+      - Blended Family
+      - Extended Family
+      - Foster Care
+      - Other
+      required: true
+    - id: 15
+      name: school_name
+      label: School Name
+      hint: Current school
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: grade_level
+      label: Grade Level
+      hint: Current grade
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: academic_performance
+      label: Academic Performance
+      hint: How is the child doing in school?
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      - Struggling
+      required: true
+    - id: 18
+      name: special_education_services
+      label: Does Child Receive Special Education Services?
+      hint: IEP, 504, etc.
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Sure
+      required: true
+    - id: 19
+      name: learning_disabilities
+      label: Learning Disabilities or Challenges
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: medical_conditions
+      label: Medical Conditions
+      hint: Diagnosed conditions
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: current_medications
+      label: Current Medications
+      hint: Include dosages
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: allergies
+      label: Allergies
+      hint: Food, medication, environmental
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: healthcare_provider_name
+      label: Primary Healthcare Provider Name
+      hint: Doctor name
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: healthcare_provider_phone
+      label: Primary Healthcare Provider Phone
+      hint: Doctor contact
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: behavior_problems
+      label: Primary Behavior Problems
+      hint: What behaviors are concerning?
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: behavior_frequency
+      label: How Often Do Behavior Problems Occur?
+      hint: Frequency
+      type: select_one
+      options:
+      - Daily
+      - Several Times Per Week
+      - Weekly
+      - Monthly
+      - Rarely
+      required: true
+    - id: 27
+      name: behavior_triggers
+      label: What Triggers the Behavior Problems?
+      hint: If known
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: behavior_intensity
+      label: Intensity of Behavior Problems
+      hint: Severity level
+      type: select_one
+      options:
+      - Mild
+      - Moderate
+      - Severe
+      - Very Severe
+      required: true
+    - id: 29
+      name: previous_interventions
+      label: Previous Behavioral Interventions
+      hint: What has been tried?
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: intervention_effectiveness
+      label: Were Previous Interventions Effective?
+      hint: If applicable
+      type: select_one
+      options:
+      - Very Effective
+      - Somewhat Effective
+      - Not Effective
+      - Not Applicable
+      required: false
+    - id: 31
+      name: child_strengths
+      label: Child Strengths and Interests
+      hint: What does the child enjoy?
+      type: text
+      options: []
+      required: true
+    - id: 32
+      name: parent_concerns
+      label: Primary Parent Concerns
+      hint: What worries you most?
+      type: text
+      options: []
+      required: true
+    - id: 33
+      name: family_goals
+      label: What Are Your Goals for Behavioral Consulting?
+      hint: Desired outcomes
+      type: text
+      options: []
+      required: true
+    - id: 34
+      name: support_system
+      label: Family Support System
+      hint: Available support
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: insurance_provider
+      label: Insurance Provider
+      hint: Company name
+      type: text
+      options: []
+      required: false
+    - id: 36
+      name: insurance_policy_number
+      label: Insurance Policy Number
+      hint: Policy ID
+      type: text
+      options: []
+      required: false
+    - id: 37
+      name: referral_source
+      label: How Did You Hear About Us?
+      hint: Referral source
+      type: select_one
+      options:
+      - Physician Referral
+      - School Referral
+      - Friend or Family
+      - Website
+      - Social Media
+      - Other
+      required: true
+    - id: 38
+      name: consent_to_services
+      label: I Consent to Behavioral Consulting Services
+      hint: Service authorization
+      type: select_one
+      options:
+      - I Consent
+      - I Do Not Consent
+      required: true
+    - id: 39
+      name: information_accuracy
+      label: I Confirm All Information Is Accurate
+      hint: Truthfulness confirmation
+      type: select_one
+      options:
+      - I Confirm
+      - I Do Not Confirm
+      required: true
+    - id: 40
+      name: intake_date
+      label: Intake Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 41
+      name: parent_guardian_signature
+      label: Parent or Guardian Electronic Signature
+      hint: Type your full name
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,95 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Animation Workshop Publicity Consent Form
+    pages:
+    - id: 1
+      name: participant_header
+      label: -- Participant Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant full name
+      hint: Full name for the consent record
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact email
+      hint: For publicity confirmation
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: age_group
+      label: Age group
+      hint: Select your age group
+      type: select_one
+      options:
+      - Under 18
+      - 18 to 25
+      - 26 to 40
+      - 41 to 65
+      - 66 and above
+      required: false
+    - id: 5
+      name: consent_photos
+      label: Consent to use photos and video
+      hint: Permission to use images from the workshop
+      type: select_one
+      options:
+      - Yes
+      - No
+      required: true
+    - id: 6
+      name: consent_testimonials
+      label: Consent to use testimonials
+      hint: Permission to quote testimonials for marketing
+      type: select_one
+      options:
+      - Yes
+      - No
+      required: false
+    - id: 7
+      name: signature_name
+      label: Typed name for consent
+      hint: Type name to confirm consent
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: date_signed
+      label: Date signed
+      hint: Date consent was provided
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: guardian_contact
+      label: Guardian contact if under 18
+      hint: Provide guardian name and phone
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_restrictions
+      label: Additional restrictions
+      hint: Note any restrictions on publicity use
+      type: text
+      options: []
+      required: false

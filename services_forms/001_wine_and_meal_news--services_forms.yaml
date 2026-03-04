@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wine And Meal News
+    pages:
+    - id: 1
+      name: wine_and_meal_news
+      label: Wine and Meal News
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: meal_id
+      label: Select Meal
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 3
+      name: wine_id
+      label: Select Wine
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 4
+      name: date_paired
+      label: Date Paired
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: date_paired_time
+      label: Time Paired
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: pairing_comment
+      label: Pairing Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: wine_notes
+      label: Wine Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: pairing_score
+      label: Pairing Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,326 @@
+inputSchema:
+  type: object
+  properties:
+    title: Career Choice Survey
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: student_id
+      label: Student ID Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email_address
+      label: School Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: grade_level
+      label: Current Grade Level
+      hint: null
+      type: select_one
+      options:
+      - 9th Grade
+      - 10th Grade
+      - 11th Grade
+      - 12th Grade
+      - Undergraduate - Freshman
+      - Undergraduate - Sophomore
+      - Undergraduate - Junior
+      - Undergraduate - Senior
+      - Graduate Student
+      required: true
+    - id: 5
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer to self-describe
+      - Prefer not to say
+      required: false
+    - id: 7
+      name: survey_date
+      label: Survey Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: career_exploration_stage
+      label: Where Are You in Career Exploration
+      hint: null
+      type: select_one
+      options:
+      - Just starting to think about careers
+      - Exploring different options
+      - Narrowing down choices
+      - Have decided on a career
+      - Already working in my field
+      required: true
+    - id: 9
+      name: career_interests
+      label: Career Areas of Interest
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Healthcare and Medicine
+      - Business and Finance
+      - Technology and Computing
+      - Education and Teaching
+      - Engineering
+      - Arts and Design
+      - Communications and Media
+      - Law and Public Safety
+      - Science and Research
+      - Social Services
+      - Skilled Trades
+      - Hospitality and Tourism
+      - Agriculture and Natural Resources
+      - Sports and Recreation
+      - Undecided
+      required: true
+    - id: 10
+      name: preferred_work_environment
+      label: Preferred Work Environment
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Office setting
+      - Remote or work from home
+      - Healthcare facility
+      - School or university
+      - Laboratory
+      - Outdoors
+      - Manufacturing or industrial
+      - Retail or customer-facing
+      - Travel required
+      - Creative studio
+      - No preference
+      required: true
+    - id: 11
+      name: work_schedule_preference
+      label: Preferred Work Schedule
+      hint: null
+      type: select_one
+      options:
+      - Traditional 9-5
+      - Flexible hours
+      - Part-time
+      - Full-time
+      - Shift work
+      - Seasonal work
+      - Self-employed schedule
+      - No preference
+      required: true
+    - id: 12
+      name: salary_expectations
+      label: Expected Starting Salary Range
+      hint: Annual
+      type: select_one
+      options:
+      - Under $30,000
+      - $30,000 to $50,000
+      - $50,000 to $75,000
+      - $75,000 to $100,000
+      - $100,000 to $150,000
+      - Over $150,000
+      - Not sure
+      required: true
+    - id: 13
+      name: education_goals
+      label: Highest Level of Education Planned
+      hint: null
+      type: select_one
+      options:
+      - High school diploma
+      - Certificate or trade school
+      - Associate degree
+      - Bachelor's degree
+      - Master's degree
+      - Doctoral degree
+      - Professional degree (JD, MD)
+      - Not sure yet
+      required: true
+    - id: 14
+      name: current_major
+      label: Current Major or Field of Study
+      hint: If declared
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: considering_majors
+      label: Majors You Are Considering
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Biology or Pre-med
+      - Business Administration
+      - Computer Science
+      - Engineering
+      - Psychology
+      - Education
+      - Nursing
+      - Communications
+      - Criminal Justice
+      - Art or Design
+      - Undeclared
+      required: true
+    - id: 16
+      name: career_influences
+      label: Who Has Most Influenced Your Career Thinking
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Parents or family
+      - Teachers or counselors
+      - Friends or peers
+      - Media or internet
+      - Personal experiences
+      - Internships or work experience
+      - Mentors
+      - No one yet
+      required: true
+    - id: 17
+      name: work_experience
+      label: Do You Have Any Work Experience
+      hint: null
+      type: select_one
+      options:
+      - Yes - multiple jobs
+      - Yes - one job
+      - Yes - internships only
+      - Yes - volunteer work only
+      - No work experience
+      required: true
+    - id: 18
+      name: skills_and_strengths
+      label: Your Top Skills and Strengths
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Communication
+      - Problem solving
+      - Leadership
+      - Teamwork
+      - Technical skills
+      - Creativity
+      - Organization
+      - Analytical thinking
+      - Customer service
+      - Writing
+      - Not sure
+      required: true
+    - id: 19
+      name: career_values
+      label: Most Important Career Values
+      hint: Select top 3
+      type: select_multiple
+      options:
+      - High income
+      - Work-life balance
+      - Job security
+      - Helping others
+      - Creativity
+      - Advancement opportunities
+      - Flexibility
+      - Recognition
+      - Independence
+      - Variety
+      required: true
+    - id: 20
+      name: barriers_to_career
+      label: Perceived Barriers to Your Career Goals
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Cost of education
+      - Time commitment
+      - Family obligations
+      - Lack of information
+      - Academic preparation
+      - Geographic limitations
+      - Discrimination concerns
+      - No barriers identified
+      - Other
+      required: true
+    - id: 21
+      name: counseling_interest
+      label: Are You Interested in Career Counseling
+      hint: null
+      type: select_one
+      options:
+      - Yes - very interested
+      - Yes - might be helpful
+      - Maybe
+      - No - not interested
+      required: true
+    - id: 22
+      name: career_assessments_taken
+      label: Have You Taken Any Career Assessments
+      hint: null
+      type: select_one
+      options:
+      - Yes - multiple
+      - Yes - one
+      - No - but interested
+      - No - not interested
+      required: true
+    - id: 23
+      name: internship_interest
+      label: Are You Interested in Internship Opportunities
+      hint: null
+      type: select_one
+      options:
+      - Yes - definitely
+      - Yes - possibly
+      - No - not interested
+      - Already have internship
+      required: true
+    - id: 24
+      name: networking_comfort
+      label: How Comfortable Are You With Professional Networking
+      hint: null
+      type: select_one
+      options:
+      - Very comfortable
+      - Somewhat comfortable
+      - Neutral
+      - Uncomfortable
+      - Very uncomfortable
+      required: true
+    - id: 25
+      name: career_questions
+      label: What Career Questions Do You Have
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: additional_comments
+      label: Additional Comments
+      hint: Optional
+      type: text
+      options: []
+      required: false

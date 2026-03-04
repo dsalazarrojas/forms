@@ -1,0 +1,518 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ambulance Service Request Form
+    pages:
+    - id: 1
+      name: section_service_info
+      label: -- Service Information --
+      hint: Request ambulance standby services for your event
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: service_type
+      label: Type of Service Requested
+      hint: null
+      type: select_one
+      options:
+      - Event Standby
+      - Private Transport
+      - Inter-Facility Transfer
+      - Special Event Coverage
+      - Film/Production Set
+      - Industrial Site Coverage
+      - Other
+      required: true
+    - id: 3
+      name: section_requester_info
+      label: -- Requester Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: requester_first_name
+      label: Requester First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: requester_last_name
+      label: Requester Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: organization_name
+      label: Organization/Company Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: title_position
+      label: Title/Position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email Address
+      hint: For correspondence
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: phone_primary
+      label: Primary Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: phone_secondary
+      label: Secondary Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: street_address
+      label: Street Address
+      hint: Billing address
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: zip_code
+      label: ZIP Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: section_event_details
+      label: -- Event Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - Concert/Festival
+      - Sports Event
+      - Corporate Event
+      - Wedding
+      - Private Party
+      - Community Event
+      - Film/TV Production
+      - Construction/Industrial
+      - Other
+      required: true
+    - id: 18
+      name: event_description
+      label: Event Description
+      hint: Brief description of event
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: event_start_time
+      label: Event Start Time
+      hint: When service should begin
+      type: time
+      options: []
+      required: true
+    - id: 21
+      name: event_end_time
+      label: Event End Time
+      hint: When service should end
+      type: time
+      options: []
+      required: true
+    - id: 22
+      name: setup_time
+      label: Setup/Arrival Time
+      hint: When crew should arrive
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: section_event_location
+      label: -- Event Location --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: venue_name
+      label: Venue Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: venue_address
+      label: Venue Address
+      hint: Full street address
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: venue_city
+      label: Venue City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: venue_state
+      label: Venue State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: venue_zip
+      label: Venue ZIP Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 29
+      name: venue_contact
+      label: Venue Contact Person
+      hint: Name and phone
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: parking_instructions
+      label: Parking Instructions
+      hint: Where should ambulance park
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: access_instructions
+      label: Site Access Instructions
+      hint: Gate codes, entry points, etc.
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: section_expected_attendance
+      label: -- Expected Attendance --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 33
+      name: expected_attendees
+      label: Expected Number of Attendees
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 34
+      name: age_demographics
+      label: Age Demographics
+      hint: null
+      type: select_one
+      options:
+      - All ages
+      - Mostly adults
+      - Mostly seniors
+      - Mostly children
+      - Mixed
+      required: false
+    - id: 35
+      name: high_risk_activities
+      label: Are There High-Risk Activities
+      hint: Stunts, water activities, etc.
+      type: select_one
+      options:
+      - false
+      - Yes - Minor risk
+      - Yes - Moderate risk
+      - Yes - High risk
+      required: true
+    - id: 36
+      name: high_risk_description
+      label: Describe High-Risk Activities
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 37
+      name: section_service_requirements
+      label: -- Service Requirements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 38
+      name: ambulances_needed
+      label: Number of Ambulances Needed
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 39
+      name: ambulance_type
+      label: Ambulance Type Required
+      hint: null
+      type: select_one
+      options:
+      - Basic Life Support (BLS)
+      - Advanced Life Support (ALS)
+      - Critical Care
+      - Bariatric
+      - Any type acceptable
+      required: true
+    - id: 40
+      name: personnel_required
+      label: Personnel Requirements
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - EMT-Basic
+      - EMT-Intermediate
+      - Paramedic
+      - Nurse
+      - Physician
+      required: false
+    - id: 41
+      name: equipment_needed
+      label: Special Equipment Needed
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Standard ambulance equipment
+      - Cardiac monitor/defibrillator
+      - Ventilator
+      - Bariatric equipment
+      - Pediatric equipment
+      - Oxygen
+      - Other
+      required: false
+    - id: 42
+      name: equipment_detail
+      label: Specify Other Equipment
+      hint: If other selected
+      type: text
+      options: []
+      required: false
+    - id: 43
+      name: section_medical_history
+      label: -- Medical History at Venue --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 44
+      name: previous_events
+      label: Have You Held Similar Events Before
+      hint: null
+      type: select_one
+      options:
+      - Yes - Multiple times
+      - Yes - Once or twice
+      - No - First time
+      required: false
+    - id: 45
+      name: previous_incidents
+      label: Were There Medical Incidents at Previous Events
+      hint: If applicable
+      type: select_one
+      options:
+      - No incidents
+      - Minor incidents only
+      - Major incidents
+      - Not applicable
+      required: false
+    - id: 46
+      name: previous_incidents_detail
+      label: Describe Previous Incidents
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 47
+      name: section_nearby_facilities
+      label: -- Nearby Medical Facilities --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 48
+      name: nearest_hospital
+      label: Nearest Hospital
+      hint: Name and distance
+      type: text
+      options: []
+      required: false
+    - id: 49
+      name: hospital_directions
+      label: Directions to Hospital
+      hint: If known
+      type: text
+      options: []
+      required: false
+    - id: 50
+      name: section_payment
+      label: -- Payment Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 51
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Invoice/Bill Later
+      - Credit Card
+      - Check
+      - Purchase Order
+      - Insurance
+      - Other
+      required: true
+    - id: 52
+      name: purchase_order_number
+      label: Purchase Order Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 53
+      name: billing_contact
+      label: Billing Contact
+      hint: If different from above
+      type: text
+      options: []
+      required: false
+    - id: 54
+      name: billing_email
+      label: Billing Email
+      hint: For invoices
+      type: email
+      options: []
+      required: false
+    - id: 55
+      name: section_additional
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 56
+      name: special_requirements
+      label: Special Requirements
+      hint: Any special needs or considerations
+      type: text
+      options: []
+      required: false
+    - id: 57
+      name: weather_contingency
+      label: Weather Contingency Plan
+      hint: If outdoor event
+      type: text
+      options: []
+      required: false
+    - id: 58
+      name: additional_comments
+      label: Additional Comments
+      hint: Anything else we should know
+      type: text
+      options: []
+      required: false
+    - id: 59
+      name: how_heard_about
+      label: How Did You Hear About Our Service
+      hint: null
+      type: select_one
+      options:
+      - Internet search
+      - Referral
+      - Previous service
+      - Insurance company
+      - Venue recommendation
+      - Other
+      required: false
+    - id: 60
+      name: section_agreements
+      label: -- Agreements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 61
+      name: terms_acceptance
+      label: Terms and Conditions
+      hint: I agree to the terms of service
+      type: select_one
+      options:
+      - I agree to the terms and conditions
+      - Other
+      required: true
+    - id: 62
+      name: cancellation_policy
+      label: Cancellation Policy Acknowledgment
+      hint: I understand the cancellation policy
+      type: select_one
+      options:
+      - I understand and accept
+      - Other
+      required: true
+    - id: 63
+      name: requester_signature
+      label: Requester Signature
+      hint: Type full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 64
+      name: signature_date
+      label: Date of Signature
+      hint: null
+      type: date
+      options: []
+      required: true

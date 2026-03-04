@@ -1,0 +1,226 @@
+inputSchema:
+  type: object
+  properties:
+    title: First Day Of School Questionnaire
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: previous_school
+      label: previous_school
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: grade_level
+      label: Grade Level
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      - '10'
+      - '11'
+      - '12'
+      required: true
+    - id: 4
+      name: family_background
+      label: Family Background
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: interests_and_hobbies
+      label: Interests and Hobbies
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: previous_year_in_school
+      label: Previous Year in School
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: family_members
+      label: Family Members
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: previous_year_grade_level
+      label: Previous Year Grade Level
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      - '10'
+      - '11'
+      - '12'
+      required: true
+    - id: 9
+      name: first_language
+      label: First Language
+      hint: null
+      type: select_one
+      options:
+      - English
+      - French
+      - German
+      - Other
+      required: true
+    - id: 10
+      name: school_language
+      label: School Language
+      hint: null
+      type: select_one
+      options:
+      - English
+      - French
+      - Spanish
+      - Other
+      required: true
+    - id: 11
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: time_of_school
+      label: Time of School
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 13
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: teacher_name
+      label: Teacher Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: student_interests
+      label: Student Interests
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: teacher_interests
+      label: Teacher Interests
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: student_language
+      label: Student Language
+      hint: null
+      type: select_multiple
+      options:
+      - English
+      - French
+      - German
+      - Other
+      required: true
+    - id: 19
+      name: teacher_language
+      label: Teacher Language
+      hint: null
+      type: select_multiple
+      options:
+      - English
+      - French
+      - German
+      - Other
+      required: true
+    - id: 20
+      name: student_phone
+      label: Student Phone
+      hint: null
+      type: select_multiple
+      options:
+      - home
+      - school
+      - other
+      required: true
+    - id: 21
+      name: teacher_phone
+      label: Teacher Phone
+      hint: null
+      type: select_multiple
+      options:
+      - home
+      - school
+      - other
+      required: true
+    - id: 22
+      name: student_notes
+      label: Student Notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 23
+      name: teacher_notes
+      label: Teacher Notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 24
+      name: school_notes
+      label: School Notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 25
+      name: other_notes
+      label: Other Notes
+      hint: null
+      type: note
+      options: []
+      required: false

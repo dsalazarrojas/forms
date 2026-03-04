@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Transportation Log Form
+    pages:
+    - id: 1
+      name: start_time
+      label: start_time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: end_time
+      label: end_time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: route_start
+      label: route_start
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: route_end
+      label: route_end
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: vehicle_number
+      label: vehicle_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: vehicle_condition
+      label: vehicle_condition
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: fuel_used
+      label: fuel_used
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: driver_name
+      label: driver_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: delivery_status
+      label: delivery_status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 10
+      name: delivery_destination
+      label: delivery_destination
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: delivery_notes
+      label: delivery_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: vehicle_notes
+      label: vehicle_notes
+      hint: null
+      type: text
+      options: []
+      required: false

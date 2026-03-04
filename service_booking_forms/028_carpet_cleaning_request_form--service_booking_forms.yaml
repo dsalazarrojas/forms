@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: Carpet Cleaning Request Form
+    pages:
+    - id: 1
+      name: section_contact
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: address
+      label: Service Address
+      hint: where the cleaning will take place
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_service_details
+      label: -- Service Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: preferred_date
+      label: Preferred Cleaning Date
+      hint: choose your ideal date
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: preferred_time
+      label: Preferred Time of Day
+      hint: null
+      type: select_one
+      options:
+      - Morning (8am-12pm)
+      - Afternoon (12pm-4pm)
+      - Evening (4pm-7pm)
+      required: true
+    - id: 9
+      name: number_of_rooms
+      label: Number of Rooms to Clean
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: hallways_and_stairs
+      label: Include hallways and stairs?
+      hint: select all that apply
+      type: select_multiple
+      options:
+      - Hallways
+      - Stairs
+      - Landing
+      - None
+      required: false
+    - id: 11
+      name: furniture_moving_needed
+      label: Do you need us to move furniture?
+      hint: additional fees may apply
+      type: select_one
+      options:
+      - true
+      - false
+      - Some items
+      required: true
+    - id: 12
+      name: section_issues
+      label: -- Specific Issues --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: stain_types
+      label: Types of stains to be treated
+      hint: select all that apply
+      type: select_multiple
+      options:
+      - Pet Stains
+      - Coffee or Wine
+      - Ink
+      - Mud and Dirt
+      - General Wear
+      - None
+      required: false
+    - id: 14
+      name: pet_odor_treatment
+      label: Do you require pet odor removal?
+      hint: deep sanitizing and deodorizing
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: carpet_fabric_type
+      label: Carpet Fabric Type
+      hint: if known
+      type: select_one
+      options:
+      - Nylon
+      - Wool
+      - Polyester
+      - Olefin
+      - Not Sure
+      required: true
+    - id: 16
+      name: section_add_ons
+      label: -- Additional Services --
+      hint: combine services and save
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: add_on_services
+      label: Add-on Services
+      hint: select any additional items
+      type: select_multiple
+      options:
+      - Rug Cleaning
+      - Upholstery Cleaning
+      - Mattress Cleaning
+      - Fabric Protection
+      - Sanitizing
+      required: false
+    - id: 18
+      name: accessibility_notes
+      label: Parking or access information
+      hint: elevator access, street parking, etc.
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: section_confirmation
+      label: -- Quote and Confirmation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: estimated_budget
+      label: Your estimated budget (optional)
+      hint: numeric value only
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: referral_source
+      label: How did you find our service?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: section_final
+      label: -- Final Steps --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: booking_confirmation
+      label: I acknowledge this is a request and not a final booking
+      hint: we will contact you to confirm the time
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 24
+      name: submission_date
+      label: Today's Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: digital_signature
+      label: Customer Digital Signature
+      hint: Type name as digital signature
+      type: text
+      options: []
+      required: true

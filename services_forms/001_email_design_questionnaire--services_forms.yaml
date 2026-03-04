@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Email Design Questionnaire
+    pages:
+    - id: 1
+      name: customer_details
+      label: customer_details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_preferences
+      label: contact_preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: email_body
+      label: email_body
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_person
+      label: contact_person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email_preferences
+      label: email_preferences
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: email_visuals
+      label: email_visuals
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: email_content
+      label: email_content
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: business_preferences
+      label: business_preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: email_footer
+      label: email_footer
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: follow_ups
+      label: follow_ups
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: send_email
+      label: send_email
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

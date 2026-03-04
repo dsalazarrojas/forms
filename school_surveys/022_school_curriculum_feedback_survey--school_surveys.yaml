@@ -1,0 +1,260 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Curriculum Feedback Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: What do you think about our school curriculum?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: overall_effectiveness
+      label: How effective do you think this curriculum is?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: subject_specific_feedback
+      label: Which subjects do you think are taught well?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Mathematics''}'
+      - '{''label'': ''Language arts''}'
+      - '{''label'': ''Science''}'
+      - '{''label'': ''History''}'
+      - '{''label'': ''Physical education''}'
+      required: false
+    - id: 4
+      name: teacher_performance
+      label: How well do you think our teachers perform?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Poor''}'
+      required: false
+    - id: 5
+      name: student_engagement
+      label: How engaging do you think our curriculum is?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Highly engaging''}'
+      - '{''label'': ''Somewhat engaging''}'
+      - '{''label'': ''Not engaging at all''}'
+      required: false
+    - id: 6
+      name: suggestions
+      label: Do you have any suggestions for the school administration?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: parent_involvement
+      label: How involved are you as a parent?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very involved''}'
+      - '{''label'': ''Somewhat involved''}'
+      - '{''label'': ''Not involved at all''}'
+      required: false
+    - id: 8
+      name: teacher_communication
+      label: How good is communication between teachers and students?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Poor''}'
+      required: false
+    - id: 9
+      name: curriculum_evaluation
+      label: How important do you think curriculum evaluation is?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Very important''}'
+      - '{''label'': ''Somewhat important''}'
+      - '{''label'': ''Not very important''}'
+      required: false
+    - id: 10
+      name: additional_comments
+      label: Do you have any additional comments?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: demographic_info
+      label: Demographic information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: age
+      label: What is your age?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: gender
+      label: What is your gender?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Male''}'
+      - '{''label'': ''Female''}'
+      - '{''label'': ''Prefer not to say''}'
+      required: false
+    - id: 14
+      name: school_attended
+      label: Which school do you attend?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Elementary school''}'
+      - '{''label'': ''Middle school''}'
+      - '{''label'': ''High school''}'
+      required: false
+    - id: 15
+      name: student_teacher_relationship
+      label: How would you describe your relationship with your teacher?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Poor''}'
+      required: false
+    - id: 16
+      name: course_satisfaction
+      label: How satisfied are you with the courses offered?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Highly satisfied''}'
+      - '{''label'': ''Somewhat satisfied''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Somewhat dissatisfied''}'
+      - '{''label'': ''Highly dissatisfied''}'
+      required: false
+    - id: 17
+      name: course_enjoyment
+      label: How enjoyable do you find the courses?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Highly enjoyable''}'
+      - '{''label'': ''Somewhat enjoyable''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Somewhat unenjoyable''}'
+      - '{''label'': ''Highly unenjoyable''}'
+      required: false
+    - id: 18
+      name: course_difficulty
+      label: How difficult do you find the courses?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Highly difficult''}'
+      - '{''label'': ''Somewhat difficult''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Somewhat easy''}'
+      - '{''label'': ''Highly easy''}'
+      required: false
+    - id: 19
+      name: course_relevance
+      label: How relevant are the courses to your life?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Highly relevant''}'
+      - '{''label'': ''Somewhat relevant''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Somewhat irrelevant''}'
+      - '{''label'': ''Highly irrelevant''}'
+      required: false
+    - id: 20
+      name: course_evaluation
+      label: How valuable do you think the courses are?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Highly valuable''}'
+      - '{''label'': ''Somewhat valuable''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Somewhat not valuable''}'
+      - '{''label'': ''Highly not valuable''}'
+      required: false
+    - id: 21
+      name: course_satisfaction_2
+      label: How satisfied are you with the courses?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Highly satisfied''}'
+      - '{''label'': ''Somewhat satisfied''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Somewhat dissatisfied''}'
+      - '{''label'': ''Highly dissatisfied''}'
+      required: false
+    - id: 22
+      name: teacher_availability
+      label: How available are the teachers?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Always available''}'
+      - '{''label'': ''Most of the time''}'
+      - '{''label'': ''Some of the time''}'
+      - '{''label'': ''Rarely''}'
+      - '{''label'': ''Never''}'
+      required: false
+    - id: 23
+      name: teacher_competence
+      label: How competent do you think the teachers are?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Highly competent''}'
+      - '{''label'': ''Somewhat competent''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Somewhat incompetent''}'
+      - '{''label'': ''Highly incompetent''}'
+      required: false
+    - id: 24
+      name: parent_communication
+      label: How good is communication between parents and teachers?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Poor''}'
+      required: false
+    - id: 25
+      name: student_participation
+      label: How often do you participate in extracurricular activities?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Often''}'
+      - '{''label'': ''Sometimes''}'
+      - '{''label'': ''Rarely''}'
+      - '{''label'': ''Never''}'
+      required: false

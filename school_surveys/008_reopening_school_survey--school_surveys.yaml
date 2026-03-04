@@ -1,0 +1,39 @@
+inputSchema:
+  type: object
+  properties:
+    title: Reopening School Survey
+    pages:
+    - id: 1
+      name: school_reopening_survey
+      label: Reopening School
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: school_reopening_survey_question
+      label: Do you want your child to go to school?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: school_reopening_survey_question_2
+      label: How many days a week would you want your child to attend school?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: school_reopening_survey_question_3
+      label: Would you want your child to go to school on holidays?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

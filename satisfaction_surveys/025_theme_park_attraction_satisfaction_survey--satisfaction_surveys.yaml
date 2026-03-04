@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Theme Park Attraction Satisfaction Survey
+    pages:
+    - id: 1
+      name: attraction_visited
+      label: Attraction Visited
+      hint: null
+      type: select_multiple
+      options:
+      - Main Street USA
+      - Water Park
+      - Kong Queue
+      - Thrill Ride
+      - Other (specify)
+      required: true
+    - id: 2
+      name: attraction_rating
+      label: Rating (1-5)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: comment
+      label: Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: contact_info
+      label: How did you hear about us?
+      hint: null
+      type: select_one
+      options:
+      - Social Media
+      - Friend/Family
+      - Flyer/ Brochure
+      - Word of Mouth
+      - Other (specify)
+      required: true
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: feedback
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Solar Power System Service Enquiry Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_one
+      options:
+      - Installation
+      - Maintenance
+      - General Services
+      required: false
+    - id: 5
+      name: installation_details
+      label: Installation Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: solar_power_system_details
+      label: Solar Power System Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: preferred_time
+      label: Preferred Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: enquiry_date
+      label: Enquiry Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: enquiry_details
+      label: Enquiry Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: customer_message
+      label: Customer Message
+      hint: null
+      type: text
+      options: []
+      required: true

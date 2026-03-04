@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Emergency Contact Desk Booking Form
+    pages:
+    - id: 1
+      name: emergency_contact_desk_booking_form
+      label: Emergency Contact Desk Booking Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: location
+      label: Location
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Location 1''}'
+      - Location 2
+      - Location 3
+      required: false
+    - id: 3
+      name: emergency_type
+      label: Emergency Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''Option 1'', ''value'': ''Option 1 Value''}'
+      - '{''name'': ''Option 2'', ''value'': ''Option 2 Value''}'
+      - '{''name'': ''Option 3'', ''value'': ''Option 3 Value''}'
+      required: false
+    - id: 4
+      name: start_time
+      label: Start Time
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Option 1''}'
+      - Option 2
+      - Option 3
+      required: false
+    - id: 5
+      name: end_time
+      label: End Time
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Option 1''}'
+      - Option 2
+      - Option 3
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false

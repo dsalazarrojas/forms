@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property Maintenance Request
+    pages:
+    - id: 1
+      name: property_maintenance_request_form
+      label: Property Maintenance Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Maintenance
+      - Repairs
+      - Upgrades
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: Briefly describe the work required
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: priority
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 5
+      name: due_date
+      label: Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: assigned_tool
+      label: Assigned To
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: assigned_person
+      label: Assigned Person
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: property_contact
+      label: Property Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: property_contact_name
+      label: Property Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: property_contact_phone
+      label: Property Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: property_contact_email
+      label: Property Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false

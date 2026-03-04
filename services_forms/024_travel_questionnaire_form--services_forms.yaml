@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: travel_questionnaire_form
+    pages:
+    - id: 1
+      name: travel_agency
+      label: Travel Agency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: departure_date
+      label: Departure Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: arrival_date
+      label: Arrival Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: travel_duration
+      label: Travel Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: travel_type
+      label: Travel Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: travel_document
+      label: Travel Document
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: travel_currency
+      label: Travel Currency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: accommodation_type
+      label: Accommodation Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: special_request
+      label: Special Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: travel_agent
+      label: Travel Agent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: travel_notes
+      label: Travel Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: travel_document_type
+      label: Travel Document Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: travel_currency_type
+      label: Travel Currency Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: special_requirements
+      label: Special Requirements
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 17
+      name: travel_agent_note
+      label: Travel Agent Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: travel_notes_2
+      label: Travel Notes 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: travel_agency_2
+      label: Travel Agency 2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: travel_currency_2
+      label: Travel Currency 2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: accommodation_type_2
+      label: Accommodation Type 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: travel_document_2
+      label: Travel Document 2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: special_requirements_2
+      label: Special Requirements 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: travel_currency_3
+      label: Travel Currency 3
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: contact_number_2
+      label: Contact Number 2
+      hint: null
+      type: text
+      options: []
+      required: false

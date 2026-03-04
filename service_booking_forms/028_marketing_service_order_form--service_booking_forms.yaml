@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: Marketing Service Order Form
+    pages:
+    - id: 1
+      name: marketing_service_order_form_page
+      label: Marketing Service Order Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: marketing_service_request_description
+      label: Marketing Service Request Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: service_name
+      label: Service Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: service_start_date
+      label: Service Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: service_end_date
+      label: Service End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: service_status
+      label: Service Status
+      hint: null
+      type: select_one
+      options:
+      - Draft
+      - Active
+      - Archived
+      required: false
+    - id: 7
+      name: customer_details_page
+      label: Customer Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: customer_address
+      label: Customer Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: project_manager
+      label: Project Manager
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: sales_manager
+      label: Sales Manager
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: technical_contact
+      label: Technical Contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: marketing_contact
+      label: Marketing Contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: service_type
+      label: Service Type
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: customer_service_level
+      label: Customer Service Level
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Bronze
+      - Silver
+      - Gold
+      required: true
+    - id: 18
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: select_multiple
+      options:
+      - Cash
+      - Bank
+      required: true
+    - id: 19
+      name: billing_details
+      label: Billing Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: billing_status
+      label: Billing Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Closed
+      required: true
+    - id: 21
+      name: billing_date
+      label: Billing Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: billing_amount
+      label: Billing Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: attachments
+      label: Attachments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: attachments_list
+      label: Attachments List
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

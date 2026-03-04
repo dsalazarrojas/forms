@@ -1,0 +1,435 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Case Management Needs Questionnaire
+    pages:
+      - id: 1
+        name: questionnaire_header
+        label: Case Management Needs Questionnaire
+        hint: Assessment of case management needs and risk factors
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: assessment_date
+        label: Assessment Date
+        hint: Date of questionnaire
+        type: date
+        options: []
+        required: true
+      - id: 3
+        name: assessor_name
+        label: Assessor Name
+        hint: Case manager name
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: client_name
+        label: Client Name
+        hint: Full name
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: client_id
+        label: Client ID Number
+        hint: Case number
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: basic_needs
+        label: Basic Needs Assessment
+        hint: Essential requirements
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: housing_stability
+        label: How Stable Is Your Current Housing
+        hint: Housing security
+        type: select_one
+        options:
+          - Very stable - long term
+          - Stable - lease agreement
+          - Somewhat stable - month to month
+          - Unstable - temporary
+          - Homeless - no housing
+        required: true
+      - id: 8
+        name: food_security
+        label: Do You Have Reliable Access to Food
+        hint: Food security status
+        type: select_one
+        options:
+          - Yes - always enough
+          - Sometimes - occasionally short
+          - Often - frequently short
+          - No - regularly without food
+        required: true
+      - id: 9
+        name: utilities_status
+        label: Are Utilities Current
+        hint: Utility payments
+        type: select_one
+        options:
+          - Yes - all current
+          - Mostly current - occasionally late
+          - Behind on some utilities
+          - Utilities shut off
+          - Utilities included in rent
+        required: true
+      - id: 10
+        name: transportation_access
+        label: Do You Have Reliable Transportation
+        hint: Getting around
+        type: select_one
+        options:
+          - Yes - own vehicle
+          - Yes - reliable public transit
+          - Sometimes - depends on others
+          - No - limited transportation
+          - No - no transportation
+        required: true
+      - id: 11
+        name: financial_needs
+        label: Financial Needs Assessment
+        hint: Economic situation
+        type: note
+        options: []
+        required: false
+      - id: 12
+        name: ability_pay_rent
+        label: Can You Pay Rent or Mortgage This Month
+        hint: Housing payment
+        type: select_one
+        options:
+          - Yes - easily
+          - Yes - with difficulty
+          - Uncertain
+          - No - cannot pay
+          - Not applicable
+        required: true
+      - id: 13
+        name: outstanding_debts
+        label: Do You Have Overwhelming Debt
+        hint: Debt burden
+        type: select_one
+        options:
+          - No - manageable
+          - Some - concerning
+          - Yes - overwhelming
+          - Yes - unmanageable
+        required: true
+      - id: 14
+        name: savings_available
+        label: Do You Have Emergency Savings
+        hint: Financial cushion
+        type: select_one
+        options:
+          - Yes - 6 plus months
+          - Yes - 3 to 6 months
+          - Yes - less than 3 months
+          - No - no savings
+        required: true
+      - id: 15
+        name: employment_needs
+        label: Employment Needs
+        hint: Work situation
+        type: note
+        options: []
+        required: false
+      - id: 16
+        name: current_employment
+        label: Are You Currently Employed
+        hint: Employment status
+        type: select_one
+        options:
+          - Yes - full-time
+          - Yes - part-time
+          - Yes - self-employed
+          - No - seeking work
+          - No - not seeking
+          - Unable to work
+        required: true
+      - id: 17
+        name: job_satisfaction
+        label: Are You Satisfied with Current Employment
+        hint: Job satisfaction
+        type: select_one
+        options:
+          - Very satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very dissatisfied
+          - Not applicable
+        required: false
+      - id: 18
+        name: job_training_needed
+        label: Do You Need Job Training
+        hint: Skills development
+        type: select_one
+        options:
+          - No - skills adequate
+          - Maybe - some improvement
+          - Yes - need new skills
+          - Yes - need career change
+        required: true
+      - id: 19
+        name: childcare_needs
+        label: Do You Need Childcare Assistance
+        hint: Childcare status
+        type: select_one
+        options:
+          - No - not needed
+          - No - have adequate care
+          - Yes - need part-time
+          - Yes - need full-time
+          - Yes - need emergency care
+        required: false
+      - id: 20
+        name: health_needs
+        label: Health Needs Assessment
+        hint: Healthcare status
+        type: note
+        options: []
+        required: false
+      - id: 21
+        name: health_insurance
+        label: Do You Have Health Insurance
+        hint: Coverage status
+        type: select_one
+        options:
+          - Yes - comprehensive
+          - Yes - limited
+          - No - applying
+          - No - not eligible
+          - No - cannot afford
+        required: true
+      - id: 22
+        name: medical_needs
+        label: Do You Have Unmet Medical Needs
+        hint: Healthcare access
+        type: select_one
+        options:
+          - No - all needs met
+          - Minor - routine care
+          - Moderate - some concerns
+          - Significant - major concerns
+        required: true
+      - id: 23
+        name: mental_health_needs
+        label: Do You Have Mental Health Needs
+        hint: Emotional wellbeing
+        type: select_one
+        options:
+          - No - doing well
+          - Mild - some stress
+          - Moderate - need support
+          - Severe - need immediate help
+        required: true
+      - id: 24
+        name: substance_use_concern
+        label: Do You Have Substance Use Concerns
+        hint: Alcohol or drugs
+        type: select_one
+        options:
+          - No concerns
+          - Past - in recovery
+          - Current - mild
+          - Current - moderate
+          - Current - severe
+        required: true
+      - id: 25
+        name: disability_status
+        label: Do You Have a Disability
+        hint: Disability status
+        type: select_one
+        options:
+          - No
+          - Yes - physical
+          - Yes - mental or emotional
+          - Yes - developmental
+          - Yes - multiple
+        required: true
+      - id: 26
+        name: social_support
+        label: Social Support Assessment
+        hint: Support network
+        type: note
+        options: []
+        required: false
+      - id: 27
+        name: family_support
+        label: Do You Have Family Support
+        hint: Family relationships
+        type: select_one
+        options:
+          - Very supportive
+          - Somewhat supportive
+          - Limited support
+          - No support
+          - Estranged
+        required: true
+      - id: 28
+        name: friend_support
+        label: Do You Have Friend Support
+        hint: Social network
+        type: select_one
+        options:
+          - Strong network
+          - Some friends
+          - Few friends
+          - Isolated
+        required: true
+      - id: 29
+        name: community_involvement
+        label: Are You Involved in Community
+        hint: Social connections
+        type: select_one
+        options:
+          - Very involved
+          - Somewhat involved
+          - Minimally involved
+          - Not involved
+        required: true
+      - id: 30
+        name: safety_assessment
+        label: Safety Assessment
+        hint: Personal safety
+        type: note
+        options: []
+        required: false
+      - id: 31
+        name: domestic_violence
+        label: Are You Safe at Home
+        hint: Safety from violence
+        type: select_one
+        options:
+          - Yes - always safe
+          - Usually safe
+          - Sometimes unsafe
+          - No - currently unsafe
+        required: true
+      - id: 32
+        name: neighborhood_safety
+        label: Is Your Neighborhood Safe
+        hint: Community safety
+        type: select_one
+        options:
+          - Very safe
+          - Safe
+          - Somewhat unsafe
+          - Unsafe
+          - Very unsafe
+        required: true
+      - id: 33
+        name: risk_factors
+        label: Risk Factors Present
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - None
+          - History of trauma
+          - Recent loss
+          - Social isolation
+          - Financial crisis
+          - Housing instability
+          - Health crisis
+          - Legal issues
+          - Caregiver burden
+          - Suicidal thoughts
+          - Self-harm history
+          - Substance use
+          - Domestic violence
+          - Child welfare involvement
+          - Elder abuse risk
+        required: true
+      - id: 34
+        name: protective_factors
+        label: Protective Factors Present
+        hint: Strengths
+        type: select_multiple
+        options:
+          - Strong coping skills
+          - Positive relationships
+          - Stable housing
+          - Steady income
+          - Good health
+          - Faith or spirituality
+          - Community connections
+          - Access to services
+          - Problem-solving skills
+          - Hope for future
+          - Other
+        required: true
+      - id: 35
+        name: overall_assessment
+        label: Overall Needs Assessment
+        hint: Summary determination
+        type: note
+        options: []
+        required: false
+      - id: 36
+        name: risk_level
+        label: Overall Risk Level
+        hint: Risk assessment
+        type: select_one
+        options:
+          - Low - minimal intervention
+          - Moderate - some support needed
+          - High - intensive support needed
+          - Critical - immediate intervention
+        required: true
+      - id: 37
+        name: priority_needs
+        label: Top Three Priority Needs
+        hint: Most urgent
+        type: text
+        options: []
+        required: true
+      - id: 38
+        name: recommended_services
+        label: Recommended Services
+        hint: Service plan
+        type: text
+        options: []
+        required: true
+      - id: 39
+        name: client_readiness
+        label: Client Readiness for Change
+        hint: Motivation level
+        type: select_one
+        options:
+          - Very ready - eager
+          - Ready - willing
+          - Ambivalent - unsure
+          - Not ready - resistant
+        required: true
+      - id: 40
+        name: assessor_comments
+        label: Assessor Comments
+        hint: Additional observations
+        type: text
+        options: []
+        required: false
+      - id: 41
+        name: assessor_signature_date
+        label: Assessor Signature Date
+        hint: Date signed
+        type: date
+        options: []
+        required: true

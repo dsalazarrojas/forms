@@ -1,0 +1,253 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Car Dealership Survey
+    pages:
+      - id: 1
+        name: customer_information
+        label: Customer Information
+        hint: Optional - help us serve you better
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: customer_name
+        label: Your Name
+        hint: Full name (optional)
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: customer_email
+        label: Email Address
+        hint: For follow-up if needed
+        type: email
+        options: []
+        required: false
+      - id: 4
+        name: visit_date
+        label: Visit Date
+        hint: When did you visit?
+        type: date
+        options: []
+        required: true
+      - id: 5
+        name: visit_purpose
+        label: Purpose of Visit
+        hint: Why did you visit?
+        type: select_one
+        options:
+          - Purchased a vehicle
+          - Test drove a vehicle
+          - Service/Maintenance
+          - Just browsing
+          - Parts/Accessories
+          - Finance inquiry
+        required: true
+      - id: 6
+        name: overall_experience
+        label: Overall Experience Rating
+        hint: How would you rate your overall experience?
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 7
+        name: staff_greeting
+        label: Staff Greeting
+        hint: Were you greeted promptly?
+        type: select_one
+        options:
+          - Yes - immediately
+          - Yes - within 5 minutes
+          - Yes - but took longer
+          - No - had to find someone
+        required: true
+      - id: 8
+        name: staff_knowledge
+        label: Staff Knowledge
+        hint: How knowledgeable was the staff?
+        type: select_one
+        options:
+          - Very knowledgeable
+          - Knowledgeable
+          - Somewhat knowledgeable
+          - Not very knowledgeable
+          - Poor
+        required: true
+      - id: 9
+        name: staff_professionalism
+        label: Staff Professionalism
+        hint: How professional was the staff?
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 10
+        name: salesperson_name
+        label: Salesperson Name
+        hint: Who assisted you?
+        type: text
+        options: []
+        required: false
+      - id: 11
+        name: facility_cleanliness
+        label: Facility Cleanliness
+        hint: How clean was the dealership?
+        type: select_one
+        options:
+          - Very clean
+          - Clean
+          - Acceptable
+          - Needs improvement
+          - Poor
+        required: true
+      - id: 12
+        name: waiting_area
+        label: Waiting Area Comfort
+        hint: Rate the waiting area
+        type: select_one
+        options:
+          - Very comfortable
+          - Comfortable
+          - Acceptable
+          - Uncomfortable
+          - Poor
+        required: false
+      - id: 13
+        name: vehicle_selection
+        label: Vehicle Selection
+        hint: Were you satisfied with the vehicle selection?
+        type: select_one
+        options:
+          - Excellent selection
+          - Good selection
+          - Adequate selection
+          - Limited selection
+          - Poor selection
+        required: true
+      - id: 14
+        name: pricing_transparency
+        label: Pricing Transparency
+        hint: Was pricing clearly explained?
+        type: select_one
+        options:
+          - Very clear
+          - Clear
+          - Somewhat clear
+          - Confusing
+          - Not clear at all
+        required: true
+      - id: 15
+        name: finance_process
+        label: Finance Process
+        hint: How was the finance experience?
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+          - Did not use finance
+        required: false
+      - id: 16
+        name: purchase_process
+        label: Purchase Process
+        hint: How smooth was the purchase process?
+        type: select_one
+        options:
+          - Very smooth
+          - Smooth
+          - Acceptable
+          - Complicated
+          - Very difficult
+        required: false
+      - id: 17
+        name: time_spent
+        label: Time Spent
+        hint: How long were you at the dealership?
+        type: select_one
+        options:
+          - Under 30 minutes
+          - 30 minutes to 1 hour
+          - 1-2 hours
+          - 2-3 hours
+          - Over 3 hours
+        required: true
+      - id: 18
+        name: wait_time_rating
+        label: Wait Time Rating
+        hint: Was the wait time acceptable?
+        type: select_one
+        options:
+          - Yes - very reasonable
+          - Yes - acceptable
+          - Somewhat long
+          - Too long
+          - Unacceptable
+        required: true
+      - id: 19
+        name: likelihood_to_recommend
+        label: Likelihood to Recommend
+        hint: Would you recommend us to others?
+        type: select_one
+        options:
+          - Definitely yes
+          - Probably yes
+          - Maybe
+          - Probably not
+          - Definitely not
+        required: true
+      - id: 20
+        name: return_likelihood
+        label: Return Likelihood
+        hint: Would you return for future purchases?
+        type: select_one
+        options:
+          - Definitely yes
+          - Probably yes
+          - Maybe
+          - Probably not
+          - Definitely not
+        required: true
+      - id: 21
+        name: best_aspect
+        label: Best Aspect
+        hint: What did we do well?
+        type: text
+        options: []
+        required: false
+      - id: 22
+        name: areas_for_improvement
+        label: Areas for Improvement
+        hint: What could we improve?
+        type: text
+        options: []
+        required: false
+      - id: 23
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other feedback
+        type: text
+        options: []
+        required: false

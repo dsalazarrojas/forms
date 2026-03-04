@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: puppy_training_purchase_form
+    pages:
+    - id: 1
+      name: purchase_request
+      label: Purchase Request
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: training_schedule
+      label: Training Schedule
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: client_comments
+      label: Client Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: pet_details
+      label: Pet Details
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: select_one
+      options:
+      - Payable upon completion of training
+      - Payable upon initial consultation
+      required: false
+    - id: 8
+      name: trainer_info
+      label: Trainer Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: business_logo
+      label: Business Logo
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: select_one
+      options:
+      - Owner
+      - Trainer
+      - Other
+      required: false
+    - id: 11
+      name: client_phone
+      label: Client Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: client_address
+      label: Client Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Completed
+      - Declined
+      required: false

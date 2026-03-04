@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Release Information Collection Form
+    pages:
+    - id: 1
+      name: release_information_collection_form_business_details
+      label: Release Information Collection Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: consent_form_type
+      label: Release Information Collection Form Type
+      hint: null
+      type: select_one
+      options:
+      - Business
+      - Agency
+      - School
+      - Nonprofit
+      required: false
+    - id: 3
+      name: release_information_form_description
+      label: Release Information Collection Form Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: release_information_form_content
+      label: Release Information Collection Form Content
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: content_release_details
+      label: Content Release Details
+      hint: null
+      type: select_multiple
+      options:
+      - I understand that this form is for the collection of release information for
+        business purposes only.
+      - I understand that this form is for the collection of release information for
+        agency purposes only.
+      - I understand that this form is for the collection of release information for
+        school purposes only.
+      - I understand that this form is for the collection of release information for
+        nonprofit purposes only.
+      required: false
+    - id: 6
+      name: consent_form_purpose
+      label: Consent Form Purpose
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: release_date
+      label: Release Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: release_time
+      label: Release Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: release_location
+      label: Release Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: release_person_in_charge
+      label: Person In Charge
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: email_for_contact
+      label: Email For Contact
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone_for_contact
+      label: Phone For Contact
+      hint: null
+      type: text
+      options: []
+      required: false

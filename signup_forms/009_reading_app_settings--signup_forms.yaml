@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Reading App Settings
+    pages:
+    - id: 1
+      name: user_preferences
+      label: User Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: reading_app_id
+      label: Reading App Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: name
+      label: Name
+      hint: Enter your name
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: reading_frequency
+      label: Reading Frequency
+      hint: How often do you use the Reading App?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: reading_device
+      label: Reading Device
+      hint: null
+      type: select_multiple
+      options:
+      - Tablet
+      - Smartphone
+      - E-reader
+      required: false
+    - id: 8
+      name: reading_app_version
+      label: Reading App Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: reading_frequency_other
+      label: Other (please specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: reading_device_other
+      label: Other (please specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

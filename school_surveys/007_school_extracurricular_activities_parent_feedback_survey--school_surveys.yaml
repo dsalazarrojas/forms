@@ -1,0 +1,59 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Extracurricular Activities Parent Feedback Survey
+    pages:
+    - id: 1
+      name: school_extracurricular_activities_parent_feedback_survey_page_1
+      label: school_extracurricular_activities_parent_feedback_survey_page_1
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: parent_club_interests
+      label: parent_club_interests
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''School Clubs''}'
+      - '{''value'': ''Sports Teams''}'
+      - '{''value'': ''Drama Club''}'
+      - '{''value'': ''Student Council''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 3
+      name: parent_feedback
+      label: what_do_you_like_about_our_schools_extracurricular_activities
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: parent_email
+      hint: Enter your email address
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: parent_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: comments
+      label: any_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false

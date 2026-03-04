@@ -1,0 +1,222 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sponsorship Request Form
+    pages:
+    - id: 1
+      name: request_form
+      label: Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: sponsorship_level
+      label: Sponsorship Level
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Low''}'
+      - '{''id'': 2, ''name'': ''Medium''}'
+      - '{''id'': 3, ''name'': ''High''}'
+      required: false
+    - id: 6
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''chatjimmy''}'
+      - '{''id'': 2, ''name'': ''chatjimmy2''}'
+      required: false
+    - id: 11
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''user''}'
+      - '{''id'': 2, ''name'': ''admin''}'
+      required: false
+    - id: 12
+      name: created_by
+      label: Created By
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''user''}'
+      - '{''id'': 2, ''name'': ''admin''}'
+      required: false
+    - id: 13
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''user''}'
+      - '{''id'': 2, ''name'': ''admin''}'
+      required: false
+    - id: 14
+      name: created_at
+      label: Date Created
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: updated_at
+      label: Date Updated
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: submitted_at
+      label: Date Submitted
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: assigned_at
+      label: Date Assigned
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''New''}'
+      - '{''id'': 2, ''name'': ''In Progress''}'
+      - '{''id'': 3, ''name'': ''Approved''}'
+      - '{''id'': 4, ''name'': ''Rejected''}'
+      required: false
+    - id: 19
+      name: due_date
+      label: Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: notes_count
+      label: Notes Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: submission_count
+      label: Submission Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: submitted_count
+      label: Submitted Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: assigned_count
+      label: Assigned Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: status_count
+      label: Status Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: submitted_user
+      label: Submitted User
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''user''}'
+      - '{''id'': 2, ''name'': ''admin''}'
+      required: false
+    - id: 26
+      name: created_user
+      label: Created User
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''user''}'
+      - '{''id'': 2, ''name'': ''admin''}'
+      required: false
+    - id: 27
+      name: updated_user
+      label: Updated User
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''user''}'
+      - '{''id'': 2, ''name'': ''admin''}'
+      required: false
+    - id: 28
+      name: submitted_at
+      label: Submitted At
+      hint: null
+      type: date
+      options: []
+      required: false

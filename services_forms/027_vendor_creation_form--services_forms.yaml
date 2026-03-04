@@ -1,0 +1,130 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vendor Creation Form
+    pages:
+    - id: 1
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: company
+      label: company
+      hint: Your company name
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: email
+      hint: your-email@example.com
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: phone
+      hint: 123-456-7890
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city
+      label: city
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: state
+      label: state
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: zip
+      label: zip
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: country
+      label: country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: contact_person
+      label: contact_person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: assigned_user
+      label: assigned_user
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: category
+      label: category
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,212 @@
+inputSchema:
+  type: object
+  properties:
+    title: cyber_security_checklist
+    pages:
+    - id: 1
+      name: general_best_practices
+      label: General Best Practices
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: password_security
+      label: password_security
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: network_security
+      label: network_security
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: access_controls
+      label: access_controls
+      hint: null
+      type: select_multiple
+      options:
+      - Firewalls
+      - Virtual Private Network
+      - Network segmentation
+      required: true
+    - id: 5
+      name: incident_response
+      label: incident_response
+      hint: null
+      type: select_one
+      options:
+      - 24/7
+      - 6/24
+      - 24/7 with rotation
+      required: false
+    - id: 6
+      name: backup_procedures
+      label: backup_procedures
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: true
+    - id: 7
+      name: patching
+      label: patching
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: incident_reporting
+      label: incident_reporting
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: security_testing
+      label: security_testing
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: security_training
+      label: security_training
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: incident_response_plan
+      label: incident_response_plan
+      hint: null
+      type: select_one
+      options:
+      - Tier 1
+      - Tier 2
+      - Tier 3
+      required: true
+    - id: 12
+      name: incident_triage
+      label: incident_triage
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: incident_triage_team
+      label: incident_triage_team
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: backup_frequency
+      label: backup_frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: true
+    - id: 15
+      name: backup_location
+      label: backup_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: data_classification
+      label: data_classification
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: access_logs
+      label: access_logs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: incident_classification
+      label: incident_classification
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: incident_classification_categorization
+      label: incident_classification_categorization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: incident_classification_description
+      label: incident_classification_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: incident_classification_level
+      label: incident_classification_level
+      hint: null
+      type: select_one
+      options:
+      - Level 1
+      - Level 2
+      - Level 3
+      required: true
+    - id: 22
+      name: incident_classification_urgency
+      label: incident_classification_urgency
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 23
+      name: incident_classification_priority
+      label: incident_classification_priority
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 24
+      name: incident_classification_certainty
+      label: incident_classification_certainty
+      hint: null
+      type: select_one
+      options:
+      - Certain
+      - Probable
+      - Remote
+      required: true
+    - id: 25
+      name: incident_classification_severity
+      label: incident_classification_severity
+      hint: null
+      type: select_one
+      options:
+      - Critical
+      - High
+      - Low
+      required: true

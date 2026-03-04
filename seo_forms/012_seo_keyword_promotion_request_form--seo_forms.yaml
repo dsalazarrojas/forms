@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: seo_keyword_promotion_request_form
+    pages:
+    - id: 1
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: keyword
+      label: Keyword
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: target_url
+      label: Target URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: keywords
+      label: Keywords
+      hint: null
+      type: select_multiple
+      options:
+      - Keyword 1
+      - Keyword 2
+      - Keyword 3
+      required: false
+    - id: 7
+      name: keyword_type
+      label: Keyword Type
+      hint: Select keyword type
+      type: select_one
+      options:
+      - Type 1
+      - Type 2
+      required: false
+    - id: 8
+      name: reason
+      label: Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - In Progress
+      - Completed
+      - Rejected
+      required: false
+    - id: 11
+      name: assigned_user
+      label: Assigned User
+      hint: Select assigned user
+      type: select_one
+      options:
+      - chatjimmy
+      - user1
+      - user2
+      required: false

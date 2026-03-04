@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: plumbing_inspection_checklist_form
+    pages:
+    - id: 1
+      name: address_info
+      label: Home address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_number
+      label: Contact number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_inspection
+      label: Date of inspection
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time_of_inspection
+      label: Time of inspection
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: type_of_inspection
+      label: Type of inspection
+      hint: null
+      type: select_one
+      options:
+      - Basement
+      - Foundation
+      - Roof
+      required: false
+    - id: 7
+      name: system_info
+      label: System information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

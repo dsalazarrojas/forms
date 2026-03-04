@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Open Learning Design Grant Application Form
+    pages:
+    - id: 1
+      name: form_submission_tracking
+      label: Form Submission Tracking
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_info
+      label: Applicant Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: applicant_details
+      label: Applicant Details
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 4
+      name: learning_objectives
+      label: Learning Objectives
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: project_description
+      label: Project Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: budget_breakdown
+      label: Budget Breakdown
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: timeline
+      label: Timeline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: evaluation_criteria
+      label: Evaluation Criteria
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submission_confirmation
+      label: Submission Confirmation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false

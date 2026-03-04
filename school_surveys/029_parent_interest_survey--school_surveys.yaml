@@ -1,0 +1,140 @@
+inputSchema:
+  type: object
+  properties:
+    title: Parent Interest Survey
+    pages:
+    - id: 1
+      name: parent_interest_survey_1
+      label: Parent Interest
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: school_interests
+      label: School Interests
+      hint: null
+      type: select_one
+      options:
+      - Band
+      - Choir
+      - Drama
+      - Sports
+      - Dance
+      - Clubs/Organizations
+      - Art
+      - Music
+      required: false
+    - id: 7
+      name: extracurriculars
+      label: Extracurriculars
+      hint: null
+      type: select_multiple
+      options:
+      - Clubs/Organizations
+      - Drama
+      - Sports
+      - Dance
+      - Music
+      - Art
+      - Band
+      - Choir
+      required: false
+    - id: 8
+      name: why_survey
+      label: Why Survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: contact_address
+      label: Contact Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: contact_country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: school_id
+      label: School ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: school_survey_id
+      label: School Survey ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: date_surveyed
+      label: Date Surveyed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: time_surveyed
+      label: Time Surveyed
+      hint: null
+      type: time
+      options: []
+      required: false

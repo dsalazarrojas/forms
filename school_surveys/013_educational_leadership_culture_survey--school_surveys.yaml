@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: educational_leadership_culture_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: educational_leadership_culture_survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: leadership_climate
+      label: school_leadership_climate
+      hint: null
+      type: select_one
+      options:
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 3
+      name: teacher_satisfaction
+      label: teacher_satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: feedback_frequency
+      label: regular_feedback_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      required: false
+    - id: 5
+      name: communication
+      label: regular_communication
+      hint: null
+      type: select_one
+      options:
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 6
+      name: feedback_sources
+      label: regular_feedback_sources
+      hint: null
+      type: select_multiple
+      options:
+      - Supervisor
+      - Colleague
+      - Department Head
+      - Principal
+      required: false
+    - id: 7
+      name: action_plans
+      label: action_plans
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: feedback_quality
+      label: feedback_quality
+      hint: null
+      type: select_one
+      options:
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 9
+      name: decision_making
+      label: decision_making
+      hint: null
+      type: select_one
+      options:
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 10
+      name: trust
+      label: trust
+      hint: null
+      type: select_one
+      options:
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: false

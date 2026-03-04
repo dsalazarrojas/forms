@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cyber Security Checklist
+    pages:
+    - id: 1
+      name: service_evaluation_form_data_input
+      label: Service Evaluation Forms
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: security_checklist_items
+      label: Security Checklist Items
+      hint: null
+      type: select_multiple
+      options:
+      - Check the firewall
+      - Check the intrusion detection system
+      - Check the network segmentation
+      - Check the patch management
+      - Check the password policy
+      - Check the physical security
+      - Check the server logs
+      - Check the user accounts
+      - Check the vulnerability management
+      required: true
+    - id: 3
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Category 1
+      - Category 2
+      - Category 3
+      - Category 4
+      - Category 5
+      - Category 6
+      - Category 7
+      required: true
+    - id: 9
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - Chatjimmy
+      - Other
+      required: true
+    - id: 10
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - John
+      - Jane
+      - Other
+      required: true
+    - id: 11
+      name: submitted_at
+      label: Submitted At
+      hint: null
+      type: time
+      options: []
+      required: false

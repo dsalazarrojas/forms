@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Social Media Campaign Impact Questionnaire
+    pages:
+    - id: 1
+      name: social_media_campaign_impact_questionnaire_1
+      label: How often do you post on Social Media?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: how_did_you_hear_about_us
+      label: How did you hear about us?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: campaign_platforms
+      label: Which platforms did you encounter our campaign on?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: campaign_impact_on_your_life
+      label: How much impact did our campaign have on your life?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: campaign_effectiveness
+      label: How effective was our social media campaign?
+      hint: null
+      type: select_one
+      options:
+      - Very Ineffective
+      - Somewhat Ineffective
+      - Moderately Ineffective
+      - Very Effective
+      - Somewhat Effective
+      - Moderately Effective
+      required: true
+    - id: 6
+      name: what_did_you_like_about_the_campaign
+      label: What did you like about the campaign?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: what_did_you_dislike_about_the_campaign
+      label: What did you dislike about the campaign?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: will_you_participate_in_further_research
+      label: Will you participate in further research or surveys about social media
+        campaigns?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Maybe
+      required: false
+    - id: 9
+      name: additional_comments
+      label: Additional comments or feedback
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Credit Consultation Contact Form
+    pages:
+    - id: 1
+      name: contact_details_form
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: fico_score
+      label: FICO Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_request
+      label: Contact Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: submitter_name
+      label: Submitter Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: submitter_comment
+      label: Submitter Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_form_submitter
+      label: Submitter
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 9
+      name: credit_score
+      label: Credit Score
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 10
+      name: submitter_agreement
+      label: Submitter Agreement
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 11
+      name: form_submit
+      label: Form Submit
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

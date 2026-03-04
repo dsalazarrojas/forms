@@ -1,0 +1,365 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Sports Project Funding Application
+    pages:
+    - id: 1
+      name: applicant_info
+      label: Applicant Information
+      hint: Your contact details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: title
+      label: Title or Position
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: organization_name
+      label: Organization Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: organization_type
+      label: Organization Type
+      hint: null
+      type: select_one
+      options:
+      - Youth Sports League
+      - Community Sports Club
+      - School Team
+      - Recreation Department
+      - Nonprofit Organization
+      - Other
+      required: true
+    - id: 7
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: zip_code
+      label: ZIP Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: project_info
+      label: Project Information
+      hint: Details about your project
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: project_name
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: project_description
+      label: Project Description
+      hint: What is your project
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: sport_type
+      label: Sport or Activity
+      hint: null
+      type: select_one
+      options:
+      - Basketball
+      - Soccer
+      - Baseball
+      - Softball
+      - Football
+      - Volleyball
+      - Tennis
+      - Swimming
+      - Track and Field
+      - Multi-Sport
+      - Other
+      required: true
+    - id: 17
+      name: project_goals
+      label: Project Goals
+      hint: What do you want to achieve
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: target_audience
+      label: Target Audience
+      hint: Who will benefit
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: participants_count
+      label: Expected Number of Participants
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: age_groups
+      label: Age Groups Served
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Under 6
+      - 6-10 years
+      - 11-14 years
+      - 15-18 years
+      - 19-25 years
+      - Adults
+      - Seniors
+      required: true
+    - id: 21
+      name: timeline
+      label: Project Timeline
+      hint: Start and end dates
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: start_date
+      label: Project Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: end_date
+      label: Project End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: duration
+      label: Project Duration
+      hint: null
+      type: select_one
+      options:
+      - One-Time Event
+      - Less than 1 Month
+      - 1-3 Months
+      - 3-6 Months
+      - 6-12 Months
+      - Ongoing
+      required: true
+    - id: 25
+      name: budget_section
+      label: Budget Information
+      hint: Financial details
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: total_budget
+      label: Total Project Budget
+      hint: In dollars
+      type: number
+      options: []
+      required: true
+    - id: 27
+      name: amount_requested
+      label: Amount Requested
+      hint: In dollars
+      type: number
+      options: []
+      required: true
+    - id: 28
+      name: budget_breakdown
+      label: Budget Breakdown
+      hint: How will funds be used
+      type: text
+      options: []
+      required: true
+    - id: 29
+      name: funding_sources
+      label: Other Funding Sources
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Organization Funds
+      - Participant Fees
+      - Fundraising
+      - Other Grants
+      - Corporate Sponsorship
+      - Individual Donations
+      - None
+      required: true
+    - id: 30
+      name: other_funding_amount
+      label: Amount from Other Sources
+      hint: In dollars
+      type: number
+      options: []
+      required: false
+    - id: 31
+      name: expenses
+      label: Major Expense Categories
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Equipment
+      - Facilities
+      - Uniforms
+      - Transportation
+      - Insurance
+      - Staff or Coaches
+      - Officials
+      - Marketing
+      - Administrative
+      - Other
+      required: true
+    - id: 32
+      name: sustainability
+      label: How Will the Project Be Sustained
+      hint: After funding ends
+      type: text
+      options: []
+      required: true
+    - id: 33
+      name: impact
+      label: Expected Community Impact
+      hint: What difference will it make
+      type: text
+      options: []
+      required: true
+    - id: 34
+      name: success_metrics
+      label: How Will You Measure Success
+      hint: Key performance indicators
+      type: text
+      options: []
+      required: true
+    - id: 35
+      name: organization_history
+      label: Organization History
+      hint: How long have you operated
+      type: text
+      options: []
+      required: false
+    - id: 36
+      name: previous_funding
+      label: Have You Received Funding Before
+      hint: null
+      type: select_one
+      options:
+      - Yes - From This Source
+      - Yes - From Other Sources
+      - No - First Time
+      required: true
+    - id: 37
+      name: previous_details
+      label: Previous Funding Details
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 38
+      name: supporting_documents
+      label: Supporting Documents
+      hint: What are you including
+      type: select_multiple
+      options:
+      - Budget Spreadsheet
+      - Project Plan
+      - Organization Bylaws
+      - Tax-Exempt Status
+      - Letters of Support
+      - Photos
+      - Other
+      required: false
+    - id: 39
+      name: references
+      label: Professional References
+      hint: Names and contact info
+      type: text
+      options: []
+      required: false
+    - id: 40
+      name: additional_comments
+      label: Additional Comments
+      hint: Anything else to share
+      type: text
+      options: []
+      required: false
+    - id: 41
+      name: certification
+      label: I Certify This Information Is Accurate
+      hint: null
+      type: select_one
+      options:
+      - Yes - I Certify
+      - No - I Do Not Certify
+      required: true
+    - id: 42
+      name: applicant_signature
+      label: Applicant Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: true
+    - id: 43
+      name: signature_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true

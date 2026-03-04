@@ -1,0 +1,46 @@
+inputSchema:
+  type: object
+  properties:
+    title: digital_resource_co_creation_consent_form
+    pages:
+    - id: 1
+      name: project_details
+      label: Project Details
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 2
+      name: contributor_details
+      label: contributor_details
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 3
+      name: permissions
+      label: permissions
+      hint: Enter project permissions
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contributor_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contributor_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Teleopto Services Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_dob
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: patient_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: patient_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: patient_address_1
+      label: Address 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: patient_address_2
+      label: Address 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: monitoring_device_id
+      label: Monitoring Device ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: medical_practice_name
+      label: Medical Practice Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: medical_practice_address
+      label: Medical Practice Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: true

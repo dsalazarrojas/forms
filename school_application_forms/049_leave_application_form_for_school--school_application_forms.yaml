@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Leave Application Form For School
+    pages:
+    - id: 1
+      name: school_leave_details
+      label: School Leave Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_details
+      label: Student Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: leave_type
+      label: Leave Type
+      hint: null
+      type: select_one
+      options:
+      - Leave
+      - Absence
+      - Vacation
+      - Holiday
+      required: true
+    - id: 4
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: reason
+      label: Reason
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: days_off
+      label: Days Off
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: leave_status
+      label: Leave Status
+      hint: null
+      type: select_one
+      options:
+      - Applied
+      - Approved
+      - Rejected
+      - Pending
+      required: true
+    - id: 12
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

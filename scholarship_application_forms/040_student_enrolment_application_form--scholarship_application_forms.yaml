@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Enrolment Application Form
+    pages:
+    - id: 1
+      name: student_details
+      label: Student Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: student_age
+      label: Student Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: student_dob
+      label: Student Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: student_address
+      label: Student Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: parent_details
+      label: Parent Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: parent_name
+      label: Parent Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: parent_name
+      label: Parent Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: guardian_details
+      label: Guardian Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: guardian_name
+      label: Guardian Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: guardian_name
+      label: Guardian Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: student_enrolment
+      label: Student Enrolment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: student_enrolment
+      label: Student Enrolment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: school_year
+      label: School Year
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 15
+      name: student_enrolment_status
+      label: Student Enrolment Status
+      hint: null
+      type: select_one
+      options:
+      - Enrolled
+      - Not Enrolled
+      required: false
+    - id: 16
+      name: student_enrolment_date
+      label: Student Enrolment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: student_enrolment_note
+      label: Student Enrolment Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: student_email
+      label: Student Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: student_phone
+      label: Student Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: student_documentation
+      label: Student Documentation
+      hint: null
+      type: select_multiple
+      options:
+      - ID
+      - Proof of Age
+      - Proof of Citizenship
+      required: false
+    - id: 21
+      name: student_dob_document
+      label: Student Date of Birth Document
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: student_address_document
+      label: Student Address Document
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: guardian_documentation
+      label: Guardian Documentation
+      hint: null
+      type: select_multiple
+      options:
+      - ID
+      - Proof of Age
+      - Proof of Citizenship
+      required: false
+    - id: 24
+      name: parent_documentation
+      label: Parent Documentation
+      hint: null
+      type: select_multiple
+      options:
+      - ID
+      - Proof of Income
+      - Proof of Residence
+      required: false
+    - id: 25
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - Submit and Complete
+      - Cancel
+      required: false

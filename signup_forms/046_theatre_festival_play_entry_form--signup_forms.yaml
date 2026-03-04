@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Theatre Festival Play Entry Form
+    pages:
+    - id: 1
+      name: play_title
+      label: Play Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: play_year
+      label: Play Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: play_type
+      label: Play Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: play_length
+      label: Play Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: venue
+      label: Venue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: play_description
+      label: Play Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: play_url
+      label: Play URL
+      hint: null
+      type: text
+      options: []
+      required: false

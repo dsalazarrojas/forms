@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: vaccine_availability_sign_up_list_form
+    pages:
+    - id: 1
+      name: schedule_vaccine_appointment
+      label: Schedule A Vaccine Appointment
+      hint: null
+      type: select_one
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: false
+    - id: 2
+      name: vaccine_type
+      label: Select A Vaccine Type
+      hint: null
+      type: select_one
+      options:
+      - Influenza
+      - COVID-19
+      - Meningococcal
+      - Tdap
+      - Pertussis
+      required: true
+    - id: 3
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: patient_phone
+      label: Patient Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: patient_email
+      label: Patient Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: date_of_birth
+      label: Date Of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: vaccine_availability
+      label: Vaccine Availability
+      hint: null
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      required: true
+    - id: 8
+      name: vaccine_availability_comment
+      label: Vaccine Availability Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Teacher Technology Survey
+    pages:
+    - id: 1
+      name: teacher_id
+      label: teacher_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: school_name
+      label: school_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: school_level
+      label: school_level
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''High School''}'
+      - '{''id'': 2, ''label'': ''Elementary School''}'
+      required: true
+    - id: 4
+      name: subject_area
+      label: subject_area
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: technology_used
+      label: technology_used
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Desktop Computer''}'
+      - '{''id'': 2, ''label'': ''Smartphone''}'
+      - '{''id'': 3, ''label'': ''Laptop''}'
+      - '{''id'': 4, ''label'': ''Interactive Whiteboard''}'
+      required: true
+    - id: 6
+      name: technology_needed
+      label: technology_needed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: knowledge_required
+      label: knowledge_required
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: output_file
+      label: output_file
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: teacher_comments
+      label: teacher_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: other_comments
+      label: other_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: teacher_phone
+      label: teacher_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: teacher_email
+      label: teacher_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: teacher_name
+      label: teacher_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: teacher_id
+      label: teacher_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: school_id
+      label: school_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: school
+      label: school
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: assigned_by
+      label: assigned_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: submitted_by
+      label: submitted_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: survey_status
+      label: survey_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Not Started''}'
+      - '{''id'': 2, ''label'': ''Completed''}'
+      - '{''id'': 3, ''label'': ''In Progress''}'
+      - '{''id'': 4, ''label'': ''On Hold''}'
+      - '{''id'': 5, ''label'': ''Completed''}'
+      required: true

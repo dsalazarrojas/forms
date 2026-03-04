@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: social media marketing quiz
+    pages:
+    - id: 1
+      name: introduction
+      label: What do you know about social media marketing?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: social_media_platforms
+      label: Which social media platforms do you use?
+      hint: null
+      type: select_multiple
+      options:
+      - Facebook
+      - Twitter
+      - Instagram
+      - LinkedIn
+      - YouTube
+      required: true
+    - id: 3
+      name: social_media_goals
+      label: What are your social media goals?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: social_media_target_audience
+      label: Who is your social media target audience?
+      hint: null
+      type: select_one
+      options:
+      - Business
+      - Consumers
+      - Both
+      required: true
+    - id: 5
+      name: content_strategy
+      label: What is your content strategy?
+      hint: null
+      type: select_multiple
+      options:
+      - Organic
+      - Paid Advertising
+      - Influencer Marketing
+      - Email Marketing
+      required: true
+    - id: 6
+      name: content_channels
+      label: Which channels do you use for content?
+      hint: null
+      type: select_multiple
+      options:
+      - Facebook
+      - Twitter
+      - Instagram
+      - LinkedIn
+      - YouTube
+      required: true
+    - id: 7
+      name: engagement_strategy
+      label: What is your engagement strategy?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: metrics_measurement
+      label: How do you measure success on social media?
+      hint: null
+      type: select_one
+      options:
+      - Engagement metrics
+      - Reach metrics
+      - Conversion metrics
+      required: true
+    - id: 9
+      name: budget_allocation
+      label: How do you allocate your budget?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: time_commitment
+      label: How much time do you dedicate to social media marketing?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: budget
+      label: What is your social media budget?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: social_media_manager
+      label: Who is your social media manager?
+      hint: null
+      type: select_one
+      options:
+      - Internal
+      - External
+      - None
+      required: false
+    - id: 13
+      name: automation_tools
+      label: Which automation tools do you use?
+      hint: null
+      type: select_multiple
+      options:
+      - Hootsuite
+      - Buffer
+      - IFTTT
+      required: false
+    - id: 14
+      name: content_calendar
+      label: Do you use a content calendar?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 15
+      name: analytics
+      label: What are your analytics tools?
+      hint: null
+      type: select_multiple
+      options:
+      - Google Analytics
+      - Facebook Insights
+      - Twitter Analytics
+      required: false
+    - id: 16
+      name: email_marketing
+      label: Do you use email marketing?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 17
+      name: return_on_investment
+      label: What is your return on investment?
+      hint: Please specify your return on investment.
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: time_zone
+      label: What time zone are you in?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: timezone_offset
+      label: What timezone offset do you have?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: notes
+      label: Additional notes
+      hint: Please provide any additional comments or notes.
+      type: text
+      options: []
+      required: false

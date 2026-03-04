@@ -1,0 +1,237 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: 2020 Mtfa Bursary Application
+    pages:
+    - id: 1
+      name: section_header_personal
+      label: '--- Personal Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: Please enter your legal name as it appears on official documents
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email address
+      hint: We will contact you using this email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone number
+      hint: Include country code if applicable
+      type: phone
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      - Prefer not to say
+      required: true
+    - id: 7
+      name: address
+      label: Home address
+      hint: Include street, city, postal code, and country
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: nationality
+      label: Nationality
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: section_header_education
+      label: '--- Educational Background ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: current_institution
+      label: Current educational institution
+      hint: Name of school, college, or university
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: program_of_study
+      label: Program of study
+      hint: Degree or certification program you're enrolled in
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: year_of_study
+      label: Year of study
+      hint: null
+      type: select_one
+      options:
+      - Freshman
+      - Sophomore
+      - Junior
+      - Senior
+      - Graduate student
+      - Other
+      required: true
+    - id: 13
+      name: gpa
+      label: Current GPA
+      hint: On a scale of 0.0 to 4.0
+      type: decimal
+      options: []
+      required: true
+    - id: 14
+      name: expected_graduation_date
+      label: Expected graduation date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: section_header_application
+      label: '--- Application Details ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: application_date
+      label: Application date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: application_type
+      label: Type of application
+      hint: null
+      type: select_one
+      options:
+      - New application
+      - Renewal
+      - Transfer
+      - Amendment
+      required: true
+    - id: 18
+      name: bursary_amount_requested
+      label: Amount of bursary requested
+      hint: Enter amount in local currency
+      type: decimal
+      options: []
+      required: true
+    - id: 19
+      name: purpose
+      label: Purpose or reason for applying
+      hint: Explain why you need financial assistance
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: academic_achievements
+      label: Academic achievements or honors
+      hint: Scholarships, awards, Dean's list, etc.
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: extracurricular_activities
+      label: Extracurricular activities
+      hint: Clubs, sports, volunteer work, leadership roles
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: employment_status
+      label: Current employment status
+      hint: null
+      type: select_one
+      options:
+      - Full-time employed
+      - Part-time employed
+      - Unemployed
+      - Self-employed
+      - Other
+      required: true
+    - id: 23
+      name: annual_income
+      label: Annual household income
+      hint: Estimated total household income in local currency
+      type: decimal
+      options: []
+      required: true
+    - id: 24
+      name: financial_circumstances
+      label: Special financial circumstances
+      hint: Any exceptional situations affecting your finances
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: references
+      label: References
+      hint: Provide two references with contact information
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: supporting_details
+      label: Additional supporting information
+      hint: Any other information that supports your application
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: declaration
+      label: Declaration
+      hint: I certify that all information provided is accurate and complete
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, I do not agree
+      required: true
+    - id: 28
+      name: additional_comments
+      label: Additional comments or notes
+      hint: Any other information you'd like to share
+      type: text
+      options: []
+      required: false

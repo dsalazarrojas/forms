@@ -1,0 +1,66 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: what_if_101_idea_journal_2021_2022
+    pages:
+    - id: 1
+      name: idea_journal_title
+      label: What If 101 Idea Journal 2021/2022
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: idea_journal_date
+      label: Idea Journal Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: idea_journal_time
+      label: Idea Journal Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: idea_journal_idea
+      label: Idea Journal Idea
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: idea_journal_idea_type
+      label: Idea Journal Type
+      hint: null
+      type: select_one
+      options:
+      - School Project
+      - Class Project
+      - Personal Project
+      - Other
+      required: true
+    - id: 6
+      name: idea_journal_idea_status
+      label: Idea Journal Status
+      hint: Select all statuses that apply
+      type: select_multiple
+      options:
+      - New
+      - Active
+      - On Hold
+      - Archived
+      required: true

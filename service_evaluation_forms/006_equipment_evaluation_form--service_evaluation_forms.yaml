@@ -1,0 +1,36 @@
+inputSchema:
+  type: object
+  properties:
+    title: Equipment Evaluation Form
+    pages:
+    - id: 1
+      name: equipment_performance
+      label: Equipment Performance
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: equipment_type
+      label: equipment_type
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 3
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: performance_rating_1
+      label: Performance Rating 1
+      hint: null
+      type: number
+      options: []
+      required: false

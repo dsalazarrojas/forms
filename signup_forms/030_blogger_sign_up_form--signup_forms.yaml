@@ -1,0 +1,185 @@
+inputSchema:
+  type: object
+  properties:
+    title: Blogger Sign Up Form
+    pages:
+    - id: 1
+      name: signup_header
+      label: Blogger Sign Up Form
+      hint: Join our network of talented bloggers
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Your legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: blog_name
+      label: Blog Name
+      hint: Name of your blog
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: blog_url
+      label: Blog URL
+      hint: Website address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: blog_category
+      label: Blog Category
+      hint: Primary niche
+      type: select_one
+      options:
+      - Lifestyle
+      - Travel
+      - Food and Recipe
+      - Fashion and Beauty
+      - Technology
+      - Parenting and Family
+      - Health and Wellness
+      - Personal Finance
+      - Education
+      - DIY and Crafts
+      - Other
+      required: true
+    - id: 8
+      name: monthly_traffic
+      label: Monthly Page Views
+      hint: Approximate traffic
+      type: select_one
+      options:
+      - Under 1000
+      - 1000-10000
+      - 10001-50000
+      - 50001-100000
+      - 100001-500000
+      - Over 500000
+      required: true
+    - id: 9
+      name: social_followers
+      label: Social Media Followers
+      hint: Total across platforms
+      type: select_one
+      options:
+      - Under 1000
+      - 1000-5000
+      - 5001-10000
+      - 10001-50000
+      - 50001-100000
+      - Over 100000
+      required: false
+    - id: 10
+      name: years_active
+      label: Years Blogging
+      hint: How long active
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-2 years
+      - 3-5 years
+      - Over 5 years
+      required: true
+    - id: 11
+      name: content_types
+      label: Content Types Created
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Written Articles
+      - Photo Essays
+      - Video Content
+      - Podcasts
+      - Infographics
+      - Tutorials
+      - Reviews
+      required: true
+    - id: 12
+      name: collaboration_interest
+      label: Collaboration Interests
+      hint: What opportunities interest you
+      type: select_multiple
+      options:
+      - Sponsored Content
+      - Product Reviews
+      - Brand Ambassadorships
+      - Affiliate Programs
+      - Guest Posting
+      - Event Coverage
+      - Social Media Campaigns
+      required: true
+    - id: 13
+      name: rate_card
+      label: Rate Card
+      hint: Link to your rate card or pricing
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: portfolio_samples
+      label: Portfolio Samples
+      hint: Links to best work
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: availability
+      label: Availability
+      hint: How soon can you start
+      type: select_one
+      options:
+      - Immediately
+      - Within 2 Weeks
+      - Within 1 Month
+      - Flexible
+      required: true
+    - id: 16
+      name: previous_collaborations
+      label: Previous Brand Collaborations
+      hint: List notable brands worked with
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: why_join
+      label: Why Do You Want to Join
+      hint: Tell us about yourself
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: terms_agreement
+      label: Terms Agreement
+      hint: I agree to terms and conditions
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 19
+      name: additional_info
+      label: Additional Information
+      hint: Anything else to share
+      type: text
+      options: []
+      required: false

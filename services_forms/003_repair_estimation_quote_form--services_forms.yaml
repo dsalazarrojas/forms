@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Repair Estimation Quote Form
+    pages:
+    - id: 1
+      name: customer_info
+      label: Customer Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: job_details
+      label: Job Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: customer_comments
+      label: Customer Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: technician_info
+      label: Technician Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: repair_quote_info
+      label: Repair Quote Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: services_selected
+      label: Selected Services
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: service_cost
+      label: Service Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: customer_signature
+      label: Customer Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: technician_signature
+      label: Technician Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: job_date
+      label: Job Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: job_time
+      label: Job Time
+      hint: null
+      type: time
+      options: []
+      required: false

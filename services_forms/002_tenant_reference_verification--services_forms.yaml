@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tenant Reference Verification
+    pages:
+    - id: 1
+      name: tenant_reference_verification_question_1
+      label: How did you meet this tenant?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: tenant_reference_verification_question_2
+      label: How long have you known the tenant?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: tenant_reference_verification_question_3
+      label: How would you describe your relationship with the tenant?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Friend''}'
+      - '{''id'': 2, ''label'': ''Family''}'
+      - '{''id'': 3, ''label'': ''Coworker''}'
+      required: false
+    - id: 4
+      name: tenant_reference_verification_question_4
+      label: How would you describe the tenant's personality?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Outgoing''}'
+      - '{''id'': 2, ''label'': ''Reserved''}'
+      - '{''id'': 3, ''label'': ''Assertive''}'
+      - '{''id'': 4, ''label'': ''Calm''}'
+      - '{''id'': 5, ''label'': ''Adventurous''}'
+      - '{''id'': 6, ''label'': ''Diplomatic''}'
+      required: false
+    - id: 5
+      name: tenant_reference_verification_question_5
+      label: How would you describe the tenant's behavior?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Timely''}'
+      - '{''id'': 2, ''label'': ''Unpredictable''}'
+      - '{''id'': 3, ''label'': ''Unreliable''}'
+      - '{''id'': 4, ''label'': ''Punctual''}'
+      required: false
+    - id: 6
+      name: tenant_reference_verification_question_6
+      label: What is your experience with the tenant like?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: tenant_reference_verification_question_7
+      label: How would you rate your experience with the tenant?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: tenant_reference_verification_question_8
+      label: How would you rate the quality of service provided by the tenant?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: tenant_reference_verification_question_9
+      label: What would you recommend the tenant for future business?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false
+    - id: 10
+      name: tenant_reference_verification_question_10
+      label: Would you like to contact the tenant again?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false

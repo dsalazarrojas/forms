@@ -1,0 +1,132 @@
+inputSchema:
+  type: object
+  properties:
+    title: Social Worker Interview Form
+    pages:
+    - id: 1
+      name: client_info
+      label: Client Information
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: client_contact_details
+      label: Client Contact Details
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: address_line_1
+      label: Address Line 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address_line_2
+      label: Address Line 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: postal_code
+      label: Postal Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: case_status
+      label: Case Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''New Case''}'
+      - '{''label'': ''Active Case''}'
+      - '{''label'': ''Resolved Case''}'
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''chatjimmy''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 12
+      name: date_of_last_contact
+      label: Date of Last Contact
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: time_of_last_contact
+      label: Time of Last Contact
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: time_of_next_contact
+      label: Time of Next Contact
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: time_of_next_contact_frequency
+      label: Time of Next Contact Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: client_notes
+      label: Client Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: case_manager
+      label: Case Manager
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Social Worker 1''}'
+      - '{''label'': ''Social Worker 2''}'
+      - '{''label'': ''Social Worker 3''}'
+      required: false

@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: Child Emergency Contact Form
+    pages:
+    - id: 1
+      name: form_submission_date
+      label: Form Submission Date
+      hint: Date of emergency contact form submission
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: child_first_name
+      label: Child First Name
+      hint: Legal first name of the child
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: child_last_name
+      label: Child Last Name
+      hint: Legal last name of the child
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: child_date_of_birth
+      label: Child Date of Birth
+      hint: Please provide the child's birth date
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: child_grade_level
+      label: Child Grade Level
+      hint: Current grade level of the child
+      type: select_one
+      options:
+      - Kindergarten
+      - 1st Grade
+      - 2nd Grade
+      - 3rd Grade
+      - 4th Grade
+      - 5th Grade
+      - 6th Grade
+      - 7th Grade
+      - 8th Grade
+      - 9th Grade
+      - 10th Grade
+      - 11th Grade
+      - 12th Grade
+      required: true
+    - id: 6
+      name: child_school_name
+      label: Child School Name
+      hint: Name of the child's school
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: primary_contact_first_name
+      label: Primary Contact First Name
+      hint: Legal first name of primary contact person
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: primary_contact_last_name
+      label: Primary Contact Last Name
+      hint: Legal last name of primary contact person
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: primary_contact_relationship
+      label: Primary Contact Relationship
+      hint: Relationship of primary contact to the child
+      type: select_one
+      options:
+      - Mother
+      - Father
+      - Guardian
+      - Grandparent
+      - Other relative
+      - Other
+      required: true
+    - id: 10
+      name: primary_contact_phone_home
+      label: Primary Contact Home Phone
+      hint: Home phone number for primary contact
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: primary_contact_phone_work
+      label: Primary Contact Work Phone
+      hint: Work phone number for primary contact
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: primary_contact_cell_phone
+      label: Primary Contact Cell Phone
+      hint: Cell phone number for primary contact
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: primary_contact_email
+      label: Primary Contact Email
+      hint: Email address for primary contact
+      type: email
+      options: []
+      required: true
+    - id: 14
+      name: secondary_contact_first_name
+      label: Secondary Contact First Name
+      hint: Legal first name of secondary contact person
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: secondary_contact_last_name
+      label: Secondary Contact Last Name
+      hint: Legal last name of secondary contact person
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: secondary_contact_relationship
+      label: Secondary Contact Relationship
+      hint: Relationship of secondary contact to the child
+      type: select_one
+      options:
+      - Mother
+      - Father
+      - Guardian
+      - Grandparent
+      - Other relative
+      - Other
+      required: true
+    - id: 17
+      name: secondary_contact_phone
+      label: Secondary Contact Phone
+      hint: Phone number for secondary contact
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: secondary_contact_email
+      label: Secondary Contact Email
+      hint: Email address for secondary contact
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: emergency_medical_provider
+      label: Emergency Medical Provider
+      hint: Name of child's primary care physician or medical provider
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: medical_provider_phone
+      label: Medical Provider Phone
+      hint: Phone number for medical provider
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: medical_insurance_company
+      label: Medical Insurance Company
+      hint: Name of medical insurance provider
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: medical_insurance_policy_number
+      label: Medical Insurance Policy Number
+      hint: Insurance policy or member number
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: known_medical_conditions
+      label: Known Medical Conditions
+      hint: List any known medical conditions or allergies
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: current_medications
+      label: Current Medications
+      hint: List any current medications the child is taking
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_emergency_instructions
+      label: Additional Emergency Instructions
+      hint: Any additional instructions for emergency situations
+      type: text
+      options: []
+      required: false

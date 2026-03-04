@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Skincare Treatment Repeat Frequency Survey
+    pages:
+    - id: 1
+      name: client_treatment_frequency
+      label: Client Treatment Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: satisfaction_level
+      label: Satisfaction Level
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 3
+      name: preferred_visit_frequency
+      label: Preferred Visit Frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: treatment_habits
+      label: Treatment Habits
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: satisfaction_comments
+      label: Satisfaction Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: next_step
+      label: Next Steps
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: client_visit_history
+      label: Client Visit History
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: treatment_frequency
+      label: Treatment Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: frequency
+      label: Frequency
+      hint: null
+      type: number
+      options: []
+      required: false

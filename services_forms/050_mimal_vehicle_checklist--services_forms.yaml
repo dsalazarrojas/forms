@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: mimal_vehicle_checklist
+    pages:
+    - id: 1
+      name: vehicle_type
+      label: Vehicle Type
+      hint: null
+      type: select_one
+      options:
+      - Car
+      - Bike
+      - Truck
+      required: false
+    - id: 2
+      name: mileage
+      label: mileage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: year
+      label: Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: owner_name
+      label: owner_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: owner_phone
+      label: owner_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: owner_email
+      label: owner_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: vin
+      label: vin
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: make
+      label: make
+      hint: null
+      type: text
+      options: []
+      required: false

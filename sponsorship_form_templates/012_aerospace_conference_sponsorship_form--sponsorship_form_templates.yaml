@@ -1,0 +1,260 @@
+inputSchema:
+  type: object
+  properties:
+    title: Aerospace Conference Sponsorship Form
+    pages:
+    - id: 1
+      name: sponsor_company_information_section
+      label: Sponsor Company Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: Legal name of the sponsoring company
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: company_industry_sector
+      label: Industry Sector
+      hint: Primary industry sector of the company
+      type: select_one
+      options:
+      - Commercial Aviation
+      - Defense
+      - Space Exploration
+      - Aircraft Manufacturing
+      - Components & Systems
+      - Satellite Technology
+      - Unmanned Aerial Vehicles
+      - Airport Services
+      - Aerospace Materials
+      - Consulting & Services
+      required: true
+    - id: 4
+      name: company_website
+      label: Company Website
+      hint: Official website of the company
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: primary_contact_name
+      label: Primary Contact Name
+      hint: Name of the primary contact person for sponsorship
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: primary_contact_title
+      label: Primary Contact Title
+      hint: Job title of the primary contact person
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: primary_contact_email
+      label: Primary Contact Email
+      hint: Business email for primary contact
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: primary_contact_phone
+      label: Primary Contact Phone
+      hint: Business phone number for primary contact
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: secondary_contact_name
+      label: Secondary Contact Name
+      hint: Name of the secondary contact person (optional)
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: sponsorship_package_section
+      label: Sponsorship Package Selection
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: selected_sponsorship_level
+      label: Selected Sponsorship Level
+      hint: Which sponsorship package are you selecting?
+      type: select_one
+      options:
+      - Platinum (USD $50,000)
+      - Gold (USD $25,000)
+      - Silver (USD $10,000)
+      - Bronze (USD $5,000)
+      - Exhibitor (USD $3,000)
+      - Media Partner (USD $2,000)
+      - Startup Spotlight (USD $1,500)
+      required: true
+    - id: 12
+      name: sponsorship_benefits_acknowledged
+      label: Sponsorship Benefits Acknowledged
+      hint: I acknowledge that I have reviewed and understand the benefits included
+        in the selected sponsorship package
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 13
+      name: branding_requirements_section
+      label: Branding and Marketing Requirements
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: logo_file_upload
+      label: Logo File Upload
+      hint: Upload your company logo in high resolution (will be used for promotional
+        materials)
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: booth_preference
+      label: Exhibition Booth Preference
+      hint: Do you have a preference for booth location or size?
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: marketing_materials_description
+      label: Marketing Materials Description
+      hint: Describe any marketing materials you plan to bring
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: special_requests_accommodations
+      label: Special Requests or Accommodations
+      hint: Any special requests for the conference organizers
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: presentation_opportunities_section
+      label: Presentation and Speaking Opportunities
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: speaking_session_interest
+      label: Interest in Speaking Session
+      hint: Are you interested in presenting a technical session or keynote?
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: false
+    - id: 20
+      name: presentation_topic
+      label: Proposed Presentation Topic
+      hint: If interested in speaking, suggest a presentation topic
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: networking_event_participation
+      label: Networking Event Participation
+      hint: Would you like to sponsor or participate in networking events?
+      type: select_one
+      options:
+      - Cocktail Reception
+      - Breakfast Session
+      - Lunch Session
+      - Gala Dinner
+      - None
+      required: false
+    - id: 22
+      name: payment_information_section
+      label: Payment Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: payment_method
+      label: Payment Method
+      hint: How will you be paying for the sponsorship?
+      type: select_one
+      options:
+      - Wire Transfer
+      - Check
+      - Credit Card
+      - Purchase Order
+      - Other
+      required: true
+    - id: 24
+      name: billing_contact_name
+      label: Billing Contact Name
+      hint: Name of the person responsible for billing
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: billing_contact_email
+      label: Billing Contact Email
+      hint: Email for sending invoices and billing information
+      type: email
+      options: []
+      required: true
+    - id: 26
+      name: billing_address
+      label: Billing Address
+      hint: Complete address for sending invoices
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: purchase_order_number
+      label: Purchase Order Number
+      hint: If paying by PO, provide the purchase order number
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: contract_agreements_section
+      label: Contract and Agreements
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 29
+      name: terms_and_conditions_agreement
+      label: Terms and Conditions Agreement
+      hint: I agree to the conference sponsorship terms and conditions
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 30
+      name: cancellation_policy_acknowledged
+      label: Cancellation Policy Acknowledged
+      hint: I acknowledge and agree to the sponsorship cancellation policy
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 31
+      name: signature_authorization
+      label: Signature Authorization
+      hint: Electronic signature of authorized representative
+      type: text
+      options: []
+      required: true

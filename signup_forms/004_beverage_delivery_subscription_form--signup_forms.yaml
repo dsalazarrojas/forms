@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beverage Delivery Subscription Form
+    pages:
+    - id: 1
+      name: section_header_account
+      label: -- Create Your Account --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: We will send subscription updates here
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: For delivery notifications
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_header_delivery
+      label: -- Delivery Address --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: street_address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: state
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: postal_code
+      label: Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: section_header_preferences
+      label: -- Subscription Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: subscription_plan
+      label: Choose Your Subscription Plan
+      hint: Select the plan that works best for you
+      type: select_one
+      options:
+      - Weekly delivery
+      - Bi-weekly delivery
+      - Monthly delivery
+      - Custom schedule
+      required: true
+    - id: 14
+      name: delivery_day
+      label: Preferred Delivery Day
+      hint: Which day of the week do you prefer?
+      type: select_one
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: true
+    - id: 15
+      name: time_window
+      label: Preferred Delivery Time Window
+      hint: When should we deliver?
+      type: select_one
+      options:
+      - Morning (8am-12pm)
+      - Afternoon (12pm-5pm)
+      - Evening (5pm-9pm)
+      - Flexible
+      required: true
+    - id: 16
+      name: beverage_types
+      label: Beverage Types (Select all that apply)
+      hint: Which beverages are you interested in?
+      type: select_multiple
+      options:
+      - Soft drinks
+      - Bottled water
+      - Juices
+      - Sports drinks
+      - Energy drinks
+      - Flavored water
+      - Tea
+      - Coffee
+      required: true
+    - id: 17
+      name: delivery_quantity
+      label: Average Weekly Consumption (units)
+      hint: How many beverage units per week?
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: special_preferences
+      label: Special Preferences or Dietary Restrictions
+      hint: Any allergies, preferences, or constraints?
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: section_header_payment
+      label: -- Payment Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: payment_method
+      label: Payment Method
+      hint: How would you like to pay?
+      type: select_one
+      options:
+      - Credit card
+      - Debit card
+      - Bank transfer
+      - Payment plan
+      required: true
+    - id: 21
+      name: billing_same_as_delivery
+      label: Is Billing Address Same as Delivery Address
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 22
+      name: auto_renew
+      label: Auto-Renewal Preference
+      hint: Do you want this subscription to auto-renew?
+      type: select_one
+      options:
+      - Yes, auto-renew subscription
+      - No, ask me before renewing
+      - No, one-time delivery only
+      required: true
+    - id: 23
+      name: referral_code
+      label: Referral Code or Promo Code
+      hint: If you have one, enter it here
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: terms_agreement
+      label: I agree to the subscription terms and conditions
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true

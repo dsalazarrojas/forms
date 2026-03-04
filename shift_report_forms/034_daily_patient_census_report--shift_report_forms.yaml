@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daily Patient Census Report
+    pages:
+    - id: 1
+      name: unit_name
+      label: Unit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: time_start
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: time_end
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: total_patients
+      label: prophets
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: admitted_patients
+      label: Admitted
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: discharged_patients
+      label: Discharged
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: total_visiting
+      label: Visiting
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: patients_in_progress
+      label: In Progress
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false

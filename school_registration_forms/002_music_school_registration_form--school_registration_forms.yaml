@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Music School Registration Form
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_age
+      label: Student Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: student_email
+      label: Student Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: preferred_class_days
+      label: Preferred Class Days
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: parent_name
+      label: Parent Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: parent_email
+      label: Parent Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: music_school_member
+      label: Are you a member of our music school?
+      hint: null
+      type: select_one
+      options:
+      - Member
+      - Not member
+      required: false
+    - id: 9
+      name: music_school_experience
+      label: Do you have experience in music school?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: music_lessons_frequency
+      label: How many music lessons do you want to take?
+      hint: null
+      type: select_one
+      options:
+      - 1-5
+      - 6-10
+      - 11-15
+      - 16-20
+      - More than 20
+      required: false

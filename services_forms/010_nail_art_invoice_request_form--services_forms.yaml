@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nail Art Invoice Request Form
+    pages:
+    - id: 1
+      name: nail_art_invoice_request_form
+      label: Nail Art Invoice Request Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_design_choice
+      label: customer_design_choice
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 3
+      name: customer_style_choice
+      label: customer_style_choice
+      hint: null
+      type: select_one
+      options:
+      - Style 1
+      - Style 2
+      - Style 3
+      required: false
+    - id: 4
+      name: customer_contact_details
+      label: customer_contact_details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: customer_contact_name
+      label: customer_contact_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: customer_address
+      label: customer_address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: customer_notes
+      label: customer_notes
+      hint: null
+      type: text
+      options: []
+      required: false

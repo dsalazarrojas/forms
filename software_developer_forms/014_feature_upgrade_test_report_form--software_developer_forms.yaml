@@ -1,0 +1,131 @@
+inputSchema:
+  type: object
+  properties:
+    title: Feature Upgrade Test Report Form
+    pages:
+    - id: 1
+      name: upgrade_testing
+      label: Upgrade Testing
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: test_outcome
+      label: Test Outcome
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: upgrade_issues
+      label: Upgrade Issues
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: test_version
+      label: Test Version
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: test_environment
+      label: Test Environment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: test_date
+      label: Test Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: test_time
+      label: Test Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: test_result
+      label: Test Result
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: upgrade_status
+      label: Upgrade Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 11
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: test_version_number
+      label: Test Version Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: test_result_details
+      label: Test Result Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: test_result_status
+      label: Test Result Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 15
+      name: test_result_comment
+      label: Test Result Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: test_result_comment
+      label: Test Result Comment
+      hint: null
+      type: text
+      options: []
+      required: false

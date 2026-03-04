@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Social Work Referral Form
+    pages:
+    - id: 1
+      name: student_name
+      label: student_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: teacher_name
+      label: teacher
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: referral_date
+      label: referral_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: student_grade
+      label: student_grade
+      hint: null
+      type: select_one
+      options:
+      - '9'
+      - '10'
+      - '11'
+      - '12'
+      required: true
+    - id: 5
+      name: behavior_description
+      label: behavior_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: recommended_services
+      label: recommended_services
+      hint: null
+      type: select_multiple
+      options:
+      - Service 1
+      - Service 2
+      - Service 3
+      required: true
+    - id: 7
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: student_id
+      label: student_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: teacher_id
+      label: teacher_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - jenny
+      required: true
+    - id: 12
+      name: submitted_date
+      label: submitted_date
+      hint: null
+      type: date
+      options: []
+      required: false

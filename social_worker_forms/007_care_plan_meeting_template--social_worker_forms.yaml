@@ -1,0 +1,230 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Care Plan Meeting Template
+    pages:
+      - id: 1
+        name: meeting_date
+        label: Care Plan Meeting Date
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 2
+        name: meeting_time
+        label: Meeting Time
+        hint: null
+        type: time
+        options: []
+        required: true
+      - id: 3
+        name: patient_name
+        label: Patient Name
+        hint: Full legal name
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: date_of_birth
+        label: Date of Birth
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 5
+        name: patient_id
+        label: Patient ID or Medical Record Number
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: primary_practitioner
+        label: Primary Practitioner or Care Coordinator
+        hint: Name and title
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: meeting_participants
+        label: Other Meeting Participants
+        hint: List all attendees (family, specialists, social workers, etc.)
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: current_diagnosis
+        label: Current Diagnosis or Primary Condition
+        hint: Main health condition(s) being addressed
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: patient_strengths
+        label: Patient Strengths and Resources
+        hint: Positive attributes, support systems, coping mechanisms
+        type: text
+        options: []
+        required: true
+      - id: 10
+        name: patient_challenges
+        label: Identified Challenges or Barriers
+        hint: Physical, emotional, social, financial obstacles
+        type: text
+        options: []
+        required: true
+      - id: 11
+        name: living_situation
+        label: Current Living Situation
+        hint: null
+        type: select_one
+        options:
+          - Independent - living alone
+          - With family or spouse
+          - Assisted living facility
+          - Nursing home or long-term care
+          - Transitional housing
+          - Homeless or at-risk housing
+        required: true
+      - id: 12
+        name: family_support
+        label: Family or Caregiver Support Available
+        hint: Who is available to provide support?
+        type: text
+        options: []
+        required: false
+      - id: 13
+        name: support_needs
+        label: Primary Support Needs
+        hint: Select all applicable areas
+        type: select_multiple
+        options:
+          - Medical management
+          - Mental health support
+          - Medication assistance
+          - Mobility or physical assistance
+          - Financial support
+          - Housing assistance
+          - Food or nutrition support
+          - Transportation
+          - Social engagement
+          - Job training or employment
+        required: true
+      - id: 14
+        name: short_term_goals
+        label: Short-term Goals (1-3 months)
+        hint: Specific, measurable objectives
+        type: text
+        options: []
+        required: true
+      - id: 15
+        name: long_term_goals
+        label: Long-term Goals (6-12 months)
+        hint: Broader treatment objectives
+        type: text
+        options: []
+        required: true
+      - id: 16
+        name: treatment_plan
+        label: Treatment Plan
+        hint: Specific interventions and therapeutic approaches
+        type: text
+        options: []
+        required: true
+      - id: 17
+        name: medications
+        label: Current Medications
+        hint: List all medications and dosages
+        type: text
+        options: []
+        required: true
+      - id: 18
+        name: medical_referrals
+        label: Medical or Specialist Referrals
+        hint: Any additional healthcare providers needed?
+        type: text
+        options: []
+        required: false
+      - id: 19
+        name: social_services
+        label: Social Services or Community Resources
+        hint: Benefits, programs, support groups referred
+        type: text
+        options: []
+        required: false
+      - id: 20
+        name: therapy_services
+        label: Therapy or Counseling Services
+        hint: Type and frequency of services to be provided
+        type: text
+        options: []
+        required: false
+      - id: 21
+        name: monitoring_plan
+        label: Monitoring and Review Plan
+        hint: How will progress be tracked and when will plan be reviewed?
+        type: text
+        options: []
+        required: true
+      - id: 22
+        name: follow_up_frequency
+        label: Follow-up Appointment Frequency
+        hint: null
+        type: select_one
+        options:
+          - Weekly
+          - Bi-weekly
+          - Monthly
+          - Quarterly
+          - As needed
+        required: true
+      - id: 23
+        name: next_review_date
+        label: Date for Next Care Plan Review
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 24
+        name: emergency_contacts
+        label: Emergency Contact Information
+        hint: Name and phone number of emergency contacts
+        type: text
+        options: []
+        required: true
+      - id: 25
+        name: transportation_needs
+        label: Transportation Needs
+        hint: How will patient access appointments and services?
+        type: text
+        options: []
+        required: false
+      - id: 26
+        name: cultural_considerations
+        label: Cultural or Spiritual Considerations
+        hint: Important cultural practices or beliefs to consider
+        type: text
+        options: []
+        required: false
+      - id: 27
+        name: patient_agreement
+        label: Patient or Guardian Agreement with Care Plan
+        hint: Does patient agree with proposed plan?
+        type: select_one
+        options:
+          - Agrees with plan as presented
+          - Agrees with modifications
+          - Does not agree - alternative plan discussed
+          - Requires additional time to consider
+        required: true

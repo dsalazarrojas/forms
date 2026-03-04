@@ -1,0 +1,152 @@
+inputSchema:
+  type: object
+  properties:
+    title: Playschool Trial Registration Form
+    pages:
+    - id: 1
+      name: child_info
+      label: Child Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: parent_info
+      label: Parent Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: emergency_contact
+      label: Emergency Contact
+      hint: Enter emergency contact information
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: consent_details
+      label: Consent Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: trial_visit_date
+      label: Trial Visit Date
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: time_of_day
+      label: Time of Day
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: time_duration
+      label: Time Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: child_name
+      label: Child Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: emergency_relation
+      label: Emergency Relation
+      hint: null
+      type: select_multiple
+      options:
+      - Mother
+      - Father
+      - Guardian
+      required: false
+    - id: 15
+      name: consent_form
+      label: Consent Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: notes
+      label: Notes
+      hint: Additional Notes
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: notes2
+      label: Notes
+      hint: Additional Notes
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: trial_type
+      label: Trial Type
+      hint: null
+      type: select_one
+      options:
+      - Trial
+      - Registration
+      required: false
+    - id: 19
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Unpaid
+      required: false
+    - id: 20
+      name: amount_paid
+      label: Amount Paid
+      hint: null
+      type: number
+      options: []
+      required: false

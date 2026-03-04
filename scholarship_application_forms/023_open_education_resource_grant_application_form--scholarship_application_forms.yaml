@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Open Education Resource Grant Application Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: institution_name
+      label: Institution Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: project_title
+      label: Project Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: applicant_name
+      label: Applicant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: project_description
+      label: Project Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: project_start_date
+      label: Project Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: project_end_date
+      label: Project End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: project_budget
+      label: Project Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: select_type
+      label: Select Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1'', ''value'': ''option-1''}'
+      - '{''label'': ''Option 2'', ''value'': ''option-2''}'
+      - '{''label'': ''Option 3'', ''value'': ''option-3''}'
+      required: false
+    - id: 12
+      name: select_option_1
+      label: Select Option 1
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Option 1.1'', ''value'': ''option-1-1''}'
+      - '{''label'': ''Option 1.2'', ''value'': ''option-1-2''}'
+      required: false
+    - id: 13
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: select_multiple_time
+      label: Select Multiple Time
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''08:00'', ''value'': ''08:00''}'
+      - '{''label'': ''09:00'', ''value'': ''09:00''}'
+      - '{''label'': 600, ''value'': 600}'
+      required: false
+    - id: 16
+      name: select_multiple_time_1
+      label: Select Multiple Time 1
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': 720, ''value'': 720}'
+      - '{''label'': 780, ''value'': 780}'
+      - '{''label'': 840, ''value'': 840}'
+      required: false
+    - id: 17
+      name: select_multiple_time_2
+      label: Select Multiple Time 2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': 900, ''value'': 900}'
+      - '{''label'': 960, ''value'': 960}'
+      - '{''label'': 1020, ''value'': 1020}'
+      required: false
+    - id: 18
+      name: form_description
+      label: Form Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: assigned_to
+      label: Assigned to
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Chat'', ''value'': ''chatjimmy''}'
+      - Other
+      required: false
+    - id: 20
+      name: form_submitted_by
+      label: Form Submitter
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Jimmy'', ''value'': ''jimmy''}'
+      - Other
+      required: false
+    - id: 21
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 22
+      name: form_submission_time
+      label: Form Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: submitter
+      label: Submitter
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Jimmy'', ''value'': ''jimmy''}'
+      - Other
+      required: false
+    - id: 24
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 25
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Chat'', ''value'': ''chatjimmy''}'
+      - Other
+      required: false

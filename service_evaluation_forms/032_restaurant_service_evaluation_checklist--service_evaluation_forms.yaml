@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: restaurant_service_evaluation_checklist
+    pages:
+    - id: 1
+      name: general_info
+      label: general_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: server_attentiveness
+      label: server_attentiveness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: service_quality
+      label: service_quality
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 4
+      name: server_speed
+      label: server_speed
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: cleanliness
+      label: cleanliness
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: server_courtesy
+      label: server_courtesy
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 7
+      name: order_precision
+      label: order_precision
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: food_quality
+      label: food_quality
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 9
+      name: server_presentation
+      label: server_presentation
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: overall_experience
+      label: overall_experience
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false

@@ -1,0 +1,85 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: equipment_breakdown_summary_report_form
+    pages:
+    - id: 1
+      name: summary
+      label: Summary
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: equipment_details
+      label: equipment_details
+      hint: Equipment details, including model number and location
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: failure_description
+      label: failure_description
+      hint: Describe the failure
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: repair_details
+      label: repair_details
+      hint: Repair details and cost
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: incident_history
+      label: incident_history
+      hint: Incident history
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: equipment_status
+      label: status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Functional''}'
+      - '{''id'': 2, ''label'': ''Non-functional''}'
+      - '{''id'': 3, ''label'': ''Offline''}'
+      required: true
+    - id: 7
+      name: maintenance_frequency
+      label: maintenance_frequency
+      hint: How often maintenance is performed
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Daily''}'
+      - '{''id'': 2, ''label'': ''Weekly''}'
+      - '{''id'': 3, ''label'': ''Monthly''}'
+      required: false
+    - id: 8
+      name: last_maintenance
+      label: last_maintenance
+      hint: Date of last maintenance
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: last_inspection
+      label: last_inspection
+      hint: Last inspection date
+      type: date
+      options: []
+      required: false

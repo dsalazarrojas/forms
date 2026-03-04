@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: vehicle_repair_form
+    pages:
+    - id: 1
+      name: vehicle_details
+      label: Vehicle Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vehicle_year
+      label: vehicle_year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: vehicle_problem
+      label: vehicle_problem
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: mechanic_notes
+      label: Mechanic Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: customer_contact
+      label: Customer Contact
+      hint: Phone number, email, or physical contact information
+      type: select_multiple
+      options:
+      - phone
+      - email
+      - physical_contact
+      required: false
+    - id: 6
+      name: repair_status
+      label: Repair Status
+      hint: null
+      type: select_one
+      options:
+      - pending
+      - completed
+      - declined
+      required: false
+    - id: 7
+      name: customer_comments
+      label: Customer Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: customer_signature
+      label: Customer Signature
+      hint: null
+      type: text
+      options: []
+      required: false

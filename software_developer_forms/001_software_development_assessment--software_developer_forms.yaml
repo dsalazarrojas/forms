@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: Software Development Assessment
+    pages:
+    - id: 1
+      name: main_page
+      label: Main Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: software_development_skills
+      label: Software Development Skills
+      hint: null
+      type: select_multiple
+      options:
+      - Development
+      - Deployment
+      - Testing
+      required: true
+    - id: 3
+      name: development_tools
+      label: Development Tools
+      hint: null
+      type: select_one
+      options:
+      - Jira
+      - GitHub
+      - Slack
+      required: true
+    - id: 4
+      name: software_development_methodologies
+      label: Software Development Methodologies
+      hint: null
+      type: select_one
+      options:
+      - Agile
+      - Waterfall
+      required: true
+    - id: 5
+      name: software_development_teams
+      label: Software Development Teams
+      hint: null
+      type: select_multiple
+      options:
+      - Large
+      - Medium
+      - Small
+      required: true
+    - id: 6
+      name: communication_channels
+      label: Communication Channels
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Phone
+      - Chat
+      required: false
+    - id: 7
+      name: software_development_technologies
+      label: Software Development Technologies
+      hint: null
+      type: select_multiple
+      options:
+      - Java
+      - Python
+      - JavaScript
+      required: true
+    - id: 8
+      name: collaboration_tool
+      label: Collaboration Tools
+      hint: null
+      type: select_one
+      options:
+      - Google Drive
+      - Trello
+      required: true
+    - id: 9
+      name: feedback_mechanism
+      label: Feedback Mechanism
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time_to_complete
+      label: Time to Complete
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: user_email
+      label: User Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 17
+      name: user_phone
+      label: User Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: user_address
+      label: User Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: user_notes
+      label: User Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: software_development_era
+      label: Software Development Era
+      hint: null
+      type: select_multiple
+      options:
+      - Era 1
+      - Era 2
+      required: true
+    - id: 21
+      name: project_details
+      label: Project Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: team_size
+      label: Team Size
+      hint: null
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      required: true
+    - id: 23
+      name: team_location
+      label: Team Location
+      hint: null
+      type: select_one
+      options:
+      - Remote
+      - On Site
+      - Hybrid
+      required: true
+    - id: 24
+      name: collaboration_frequency
+      label: Collaboration Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: true
+    - id: 25
+      name: submission_comments
+      label: Submission Comments
+      hint: null
+      type: note
+      options: []
+      required: false

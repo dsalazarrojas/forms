@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: oxygeneoconsult
+    pages:
+    - id: 1
+      name: maininformation
+      label: Main Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contactinformation
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: appointmenttime
+      label: Appointment Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: appointmentdate
+      label: Appointment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: services
+      label: Services
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: skincareconsultation
+      label: Skincare Consultation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: facialtreatment
+      label: Facial Treatment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: chemicalpeel
+      label: Chemical Peel
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: microdermabrasion
+      label: Microdermabrasion
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ambassador Registration Form
+    pages:
+    - id: 1
+      name: section_registration
+      label: -- Registration --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Full name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email address
+      hint: Used for updates
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: region
+      label: Region
+      hint: Select your region
+      type: select_one
+      options:
+      - North
+      - South
+      - East
+      - West
+      required: true
+    - id: 5
+      name: role_interest
+      label: Role of interest
+      hint: Choose your preferred ambassador role
+      type: select_one
+      options:
+      - Event host
+      - Social media
+      - Outreach
+      required: true
+    - id: 6
+      name: start_date
+      label: Available start date
+      hint: When you can begin participating
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone number
+      hint: Optional contact number
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Additional comments
+      hint: Any other relevant info
+      type: text
+      options: []
+      required: false

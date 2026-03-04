@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: vehicle_valuation_form
+    pages:
+    - id: 1
+      name: vehicle_valuation
+      label: vehicle_valuation
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: vehicle_type
+      label: vehicle_type
+      hint: null
+      type: select_one
+      options:
+      - Sedan
+      - SUV
+      - Truck
+      - Van
+      required: false
+    - id: 3
+      name: vehicle_model
+      label: vehicle_model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: vin
+      label: vehicle_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: mileage
+      label: mileage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: year
+      label: year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: condition
+      label: vehicle_condition
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 8
+      name: make
+      label: vehicle_make
+      hint: null
+      type: text
+      options: []
+      required: false

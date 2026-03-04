@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: graphic_design_subscription_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: design_service
+      label: Design Service
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: design_service_type
+      label: Design Service Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: design_file
+      label: Design File
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: upload_design_file
+      label: Upload Design File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: project_deadline
+      label: Project Deadline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: project_start_time
+      label: Project Start Time
+      hint: null
+      type: time
+      options: []
+      required: false

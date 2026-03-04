@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: dog-walking-training-pet-sitting--homestay-agreement
+    pages:
+    - id: 1
+      name: dog_walking_training_pet_sitting_homestay_agreement_form
+      label: Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: pet_sitting_information
+      label: Pet Sitting Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: pet_sitting_rules
+      label: Pet Sitting Rules
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: homestay_agreement
+      label: Homestay Agreement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: services_offered
+      label: Services Offered
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Dog Walking'', ''value'': ''Dog Walking''}'
+      - '{''label'': ''Pet Sitting'', ''value'': ''Pet Sitting''}'
+      - '{''label'': ''Homestay'', ''value'': ''Homestay''}'
+      - '{''label'': ''Other'', ''value'': ''Other''}'
+      required: true
+    - id: 6
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

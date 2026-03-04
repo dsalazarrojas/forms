@@ -1,0 +1,178 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Attitude Survey
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: school_attitude_scale
+      label: School Attitude
+      hint: How do you feel about your school?
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 3
+      name: teacher_attitude_scale
+      label: Teacher Attitude
+      hint: How do you feel about your teachers?
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 4
+      name: experience_scale
+      label: Overall Experience
+      hint: Please rate your overall experience within the school.
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: favorite_subject
+      label: Favorite Subject
+      hint: null
+      type: select_one
+      options:
+      - math
+      - science
+      - reading
+      required: false
+    - id: 6
+      name: least_favourite_subject
+      label: Least Favorite Subject
+      hint: null
+      type: select_one
+      options:
+      - math
+      - science
+      - reading
+      required: false
+    - id: 7
+      name: why_favorite_subject
+      label: Why Favorite Subject
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: why_least_favourite_subject
+      label: Why Least Favorite Subject
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: student_attitude_scale_date
+      label: When do you feel most positive about school?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: student_attitude_scale_time
+      label: Time of Day
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: school_experience_scale
+      label: Overall School Experience
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: favorite_teacher_scale
+      label: Favorite Teacher
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 13
+      name: least_favorite_teacher_scale
+      label: Least Favorite Teacher
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 14
+      name: why_favorite_teacher
+      label: Why Favorite Teacher
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: why_least_favorite_teacher
+      label: Why Least Favorite Teacher
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: student_perception_scale
+      label: Student Perceptions
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 17
+      name: favorite_teacher_attribute
+      label: Favorite Teacher Attribute
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 18
+      name: least_favorite_teacher_attribute
+      label: Least Favorite Teacher Attribute
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 19
+      name: teacher_attitude_scale
+      label: Teacher Attitude
+      hint: How do you feel about your teachers?
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 20
+      name: student_attitude_scale
+      label: Student Attitude
+      hint: How do you feel about your school?
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false

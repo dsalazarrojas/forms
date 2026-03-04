@@ -1,0 +1,156 @@
+inputSchema:
+  type: object
+  properties:
+    title: Public Housing Application Form
+    pages:
+    - id: 1
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: Date Of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: income_level
+      label: Income Level
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: false
+    - id: 5
+      name: household_size
+      label: Household Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: employment_status
+      label: Employment Status
+      hint: null
+      type: select_one
+      options:
+      - Unemployed
+      - Employed
+      - Retired
+      required: false
+    - id: 9
+      name: housing_status
+      label: Housing Status
+      hint: null
+      type: select_one
+      options:
+      - Renting
+      - Owning
+      - Public Housing
+      required: false
+    - id: 10
+      name: income_source
+      label: Income Source
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: income_frequency
+      label: Income Frequency
+      hint: null
+      type: select_one
+      options:
+      - Weekly
+      - Monthly
+      - Yearly
+      required: false
+    - id: 12
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: submitter_signature
+      label: Submitter Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: date_submitted
+      label: Date Submitted
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: submitter_name
+      label: Submitter Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: submitter_relationship
+      label: Submitter Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: organization_address
+      label: Organization Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: organization_phone
+      label: Organization Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: organization_email
+      label: Organization Email
+      hint: null
+      type: email
+      options: []
+      required: false

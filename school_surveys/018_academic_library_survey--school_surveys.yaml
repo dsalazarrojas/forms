@@ -1,0 +1,152 @@
+inputSchema:
+  type: object
+  properties:
+    title: Academic Library Survey
+    pages:
+    - id: 1
+      name: library_survey_intro
+      label: Academic Library Survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: user_status
+      label: User Status
+      hint: What is your relationship with the library?
+      type: select_one
+      options:
+      - Undergraduate student
+      - Graduate student
+      - Faculty member
+      - Staff member
+      - Alumni
+      - Visitor
+      - Other
+      required: true
+    - id: 3
+      name: frequency_of_visit
+      label: Frequency of Library Visits
+      hint: How often do you visit the library?
+      type: select_one
+      options:
+      - Daily
+      - Several times a week
+      - Once a week
+      - Several times a month
+      - Once a month
+      - Rarely
+      - First time
+      required: true
+    - id: 4
+      name: primary_purpose
+      label: Primary Purpose for Using the Library
+      hint: What is your main reason for using the library?
+      type: select_multiple
+      options:
+      - Research
+      - Study space
+      - Access to databases
+      - Borrow books
+      - Attend workshops
+      - Meet with colleagues
+      - Use computers/software
+      - Other
+      required: false
+    - id: 5
+      name: overall_satisfaction
+      label: Overall Satisfaction with Library Services
+      hint: Rate your overall satisfaction with the library (1-5 scale)
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: library_space_rating
+      label: Library Space Rating
+      hint: How satisfied are you with the library's physical space? (1-5 scale)
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: quiet_study_areas_rating
+      label: Quiet Study Areas Rating
+      hint: How satisfied are you with the availability of quiet study areas? (1-5
+        scale)
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: collaborative_spaces_rating
+      label: Collaborative Spaces Rating
+      hint: How satisfied are you with collaborative work spaces? (1-5 scale)
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: technology_resources_rating
+      label: Technology Resources Rating
+      hint: How satisfied are you with the library's technology resources? (1-5 scale)
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: staff_assistance_rating
+      label: Staff Assistance Rating
+      hint: How satisfied are you with the help provided by library staff? (1-5 scale)
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: digital_resources_rating
+      label: Digital Resources Rating
+      hint: How satisfied are you with the library's digital resources? (1-5 scale)
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: book_collection_rating
+      label: Book Collection Rating
+      hint: How satisfied are you with the library's book collection? (1-5 scale)
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: online_catalog_rating
+      label: Online Catalog Rating
+      hint: How satisfied are you with the online catalog system? (1-5 scale)
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: library_hours_suitability
+      label: Library Hours Suitability
+      hint: Are the library hours suitable for your needs?
+      type: select_one
+      options:
+      - Very suitable
+      - Suitable
+      - Neutral
+      - Not very suitable
+      - Not suitable at all
+      required: true
+    - id: 15
+      name: additional_services_desired
+      label: Additional Services Desired
+      hint: What additional services would you like to see offered?
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: biggest_challenge
+      label: Biggest Challenge
+      hint: What is your biggest challenge when using the library?
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: suggestions_for_improvement
+      label: Suggestions for Improvement
+      hint: What would you suggest to improve the library services?
+      type: text
+      options: []
+      required: false

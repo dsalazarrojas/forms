@@ -1,0 +1,45 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dinner Event Donation Form
+    pages:
+    - id: 1
+      name: signup_form
+      label: Signup Form
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: donation_form
+      label: Donation Form
+      hint: Please indicate the items you want to donate
+      type: select_one
+      options:
+      - Apples
+      - Bananas
+      - Grapes
+      required: false
+    - id: 3
+      name: donation_amount
+      label: Donation Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false

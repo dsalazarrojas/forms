@@ -1,0 +1,289 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cleaning Client Information Form
+    pages:
+    - id: 1
+      name: section_header_client
+      label: -- Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_first_name
+      label: First Name
+      hint: Client first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_last_name
+      label: Last Name
+      hint: Client last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: Contact email address
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Primary contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: alternate_phone
+      label: Alternate Phone Number
+      hint: Secondary contact number
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date_of_birth
+      label: Date of Birth
+      hint: For identification purposes
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: section_header_property
+      label: -- Property Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: property_address
+      label: Property Address
+      hint: Full street address
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: city
+      label: City
+      hint: City or town
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: state_province
+      label: State or Province
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: postal_code
+      label: Postal or ZIP Code
+      hint: Postal or ZIP code
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: property_type
+      label: Property Type
+      hint: Type of property
+      type: select_one
+      options:
+      - Single Family Home
+      - Apartment or Condo
+      - Townhouse
+      - Duplex or Triplex
+      - Office Space
+      - Retail Store
+      - Restaurant
+      - Medical Office
+      - Other Commercial
+      required: true
+    - id: 14
+      name: property_size
+      label: Approximate Square Footage
+      hint: Size of property
+      type: select_one
+      options:
+      - Under 1,000 sq ft
+      - 1,000 - 2,000 sq ft
+      - 2,001 - 3,000 sq ft
+      - 3,001 - 5,000 sq ft
+      - Over 5,000 sq ft
+      required: true
+    - id: 15
+      name: number_of_bedrooms
+      label: Number of Bedrooms
+      hint: If applicable
+      type: select_one
+      options:
+      - Studio
+      - 1 Bedroom
+      - 2 Bedrooms
+      - 3 Bedrooms
+      - 4 Bedrooms
+      - 5 or more Bedrooms
+      - Not Applicable
+      required: false
+    - id: 16
+      name: number_of_bathrooms
+      label: Number of Bathrooms
+      hint: If applicable
+      type: select_one
+      options:
+      - 1 Bathroom
+      - 1.5 Bathrooms
+      - 2 Bathrooms
+      - 2.5 Bathrooms
+      - 3 Bathrooms
+      - 4 or more Bathrooms
+      - Not Applicable
+      required: false
+    - id: 17
+      name: access_instructions
+      label: Access Instructions
+      hint: How should cleaners access the property
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: parking_information
+      label: Parking Information
+      hint: Where should cleaners park
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: section_header_service
+      label: -- Service Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: service_type_needed
+      label: Service Type Needed
+      hint: What type of cleaning service do you need
+      type: select_one
+      options:
+      - Regular Recurring Cleaning
+      - One-Time Deep Cleaning
+      - Move-In or Move-Out Cleaning
+      - Post-Construction Cleaning
+      - Spring Cleaning
+      - Office Cleaning
+      - Special Event Cleaning
+      required: true
+    - id: 21
+      name: cleaning_frequency
+      label: Cleaning Frequency
+      hint: How often do you want service
+      type: select_one
+      options:
+      - Weekly
+      - Bi-Weekly
+      - Monthly
+      - Quarterly
+      - One-Time Only
+      - As Needed
+      required: true
+    - id: 22
+      name: preferred_day
+      label: Preferred Day of Week
+      hint: Which day works best for you
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      - No Preference
+      required: true
+    - id: 23
+      name: preferred_time
+      label: Preferred Time of Day
+      hint: What time works best
+      type: select_one
+      options:
+      - Morning (8am - 12pm)
+      - Afternoon (12pm - 4pm)
+      - Evening (4pm - 8pm)
+      - Flexible
+      required: true
+    - id: 24
+      name: pets_in_home
+      label: Do You Have Pets
+      hint: Any pets in the home
+      type: select_one
+      options:
+      - No Pets
+      - Yes - Dogs
+      - Yes - Cats
+      - Yes - Other
+      - Yes - Multiple Types
+      required: true
+    - id: 25
+      name: pet_instructions
+      label: Pet Instructions
+      hint: Any special instructions regarding pets
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: special_requirements
+      label: Special Requirements or Requests
+      hint: Any special cleaning requirements
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: allergies_or_sensitivities
+      label: Allergies or Chemical Sensitivities
+      hint: Any allergies we should know about
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: how_did_you_hear
+      label: How Did You Hear About Us
+      hint: How did you learn about our services
+      type: select_one
+      options:
+      - Website
+      - Social Media
+      - Friend or Family Referral
+      - Online Search
+      - Advertisement
+      - Previous Customer
+      - Other
+      required: false
+    - id: 29
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Who should we call in an emergency
+      type: text
+      options: []
+      required: true
+    - id: 30
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Emergency contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 31
+      name: terms_acceptance
+      label: Terms and Conditions Acceptance
+      hint: Do you agree to our terms of service
+      type: select_one
+      options:
+      - Yes - I accept the terms and conditions
+      - No - I do not accept
+      required: true

@@ -1,0 +1,52 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Satisfaction Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: how_would_you_rate_your_overall_satisfaction_with_school
+      label: Overall Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: how_would_you_rate_your_satisfaction_with_teachers
+      label: Teachers
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: how_would_you_rate_your_satisfaction_with_facility
+      label: Facility
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: what_is_the_main_reason_for_your_satisfaction_with_school
+      label: Main Reason
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      - option5
+      required: false
+    - id: 6
+      name: any_other_comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

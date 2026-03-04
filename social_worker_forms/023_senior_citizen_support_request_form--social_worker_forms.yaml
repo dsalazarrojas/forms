@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Senior Citizen Support Request Form
+    pages:
+    - id: 1
+      name: senior_citizen_support_request_form_page
+      label: Senior Citizen Support Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: senior_citizen_support_request_form_first_page
+      label: First Page
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: senior_citizen_support_request_form_phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: senior_citizen_support_request_form_email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: senior_citizen_support_request_form_service_request
+      label: Service Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: senior_citizen_support_request_form_service_type
+      label: Service Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Home Help'', ''value'': ''home_help''}'
+      - '{''id'': 2, ''label'': ''Transportation'', ''value'': ''transportation''}'
+      - '{''id'': 3, ''label'': ''Health Services'', ''value'': ''health_services''}'
+      - '{''id'': 4, ''label'': ''Social Services'', ''value'': ''social_services''}'
+      - '{''id'': 5, ''label'': ''Other'', ''value'': ''other''}'
+      required: false
+    - id: 7
+      name: senior_citizen_support_request_form_additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: senior_citizen_support_request_form_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: senior_citizen_support_request_form_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: senior_citizen_support_request_form_dob
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: senior_citizen_support_request_form_gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Male'', ''value'': ''male''}'
+      - '{''id'': 2, ''label'': ''Female'', ''value'': ''female''}'
+      required: false

@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Prom Guest Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: school
+      label: School
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: grade
+      label: Grade
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: graduation_year
+      label: Graduation Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: guest_name
+      label: Guest Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: guest_phone
+      label: Guest Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: guest_email
+      label: Guest Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: guest_school
+      label: Guest School
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: guardian_name
+      label: Guardian Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: guardian_phone
+      label: Guardian Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: guardian_email
+      label: Guardian Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: guardian_school
+      label: Guardian School
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: relationship
+      label: Relationship
+      hint: null
+      type: select_one
+      options:
+      - Parent
+      - Teacher
+      - Family Member
+      - Other
+      required: true
+    - id: 17
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: school_district
+      label: District
+      hint: null
+      type: select_one
+      options:
+      - North
+      - South
+      - East
+      - West
+      required: true
+    - id: 19
+      name: school_grade_level
+      label: Grade Level
+      hint: null
+      type: select_one
+      options:
+      - Freshman
+      - Sophomore
+      - Junior
+      - Senior
+      required: true
+    - id: 20
+      name: school_club
+      label: School Club
+      hint: null
+      type: select_multiple
+      options:
+      - Band
+      - Chorus
+      - Debate
+      - Drama
+      - Orchestra
+      - Robotics
+      - Speech
+      - Yearbook
+      required: true
+    - id: 21
+      name: special_needs
+      label: Special Needs
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 22
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 24
+      name: event_start_time
+      label: Event Start Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 25
+      name: event_end_time
+      label: Event End Time
+      hint: null
+      type: time
+      options: []
+      required: true

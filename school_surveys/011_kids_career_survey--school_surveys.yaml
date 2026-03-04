@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: kids_career_survey
+    pages:
+    - id: 1
+      name: what_will_they_choose
+      label: What will they choose
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: career_choices
+      label: Career choices
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: age
+      label: age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: education_level
+      label: Education level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 5
+      name: career_interests
+      label: Career interests
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: job_satisfaction
+      label: Job satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 7
+      name: job_fulfillment
+      label: Job fulfillment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: career_growth
+      label: Career growth
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: future_plans
+      label: Future plans
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: job_facts
+      label: Job facts
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: job_environment
+      label: Job environment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

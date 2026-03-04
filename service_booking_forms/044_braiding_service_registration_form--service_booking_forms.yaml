@@ -1,0 +1,303 @@
+inputSchema:
+  type: object
+  properties:
+    title: Braiding Service Registration Form
+    pages:
+    - id: 1
+      name: client_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_email
+      label: Email Address
+      hint: For appointment communications
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: client_phone
+      label: Phone Number
+      hint: Primary contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: client_address
+      label: Address
+      hint: Complete home address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: appointment_date
+      label: Requested Appointment Date
+      hint: Preferred date
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: appointment_time
+      label: Requested Appointment Time
+      hint: Preferred time
+      type: select_one
+      options:
+      - Morning (9AM-12PM)
+      - Afternoon (12PM-4PM)
+      - Evening (4PM-8PM)
+      - Flexible
+      required: true
+    - id: 9
+      name: service_type
+      label: Service Type
+      hint: What braiding service do you want
+      type: select_one
+      options:
+      - Box braids
+      - Cornrows
+      - Knotless braids
+      - Senegalese twists
+      - Passion twists
+      - Fulani braids
+      - Lemonade braids
+      - Goddess braids
+      - Micro braids
+      - Feed-in braids
+      - Other
+      required: true
+    - id: 10
+      name: hair_length
+      label: Current Hair Length
+      hint: Your natural hair length
+      type: select_one
+      options:
+      - Very short (0-2 inches)
+      - Short (2-4 inches)
+      - Medium (4-8 inches)
+      - Long (8-12 inches)
+      - Very long (12+ inches)
+      required: true
+    - id: 11
+      name: desired_length
+      label: Desired Braid Length
+      hint: How long do you want the braids
+      type: select_one
+      options:
+      - Short (shoulder length)
+      - Medium (mid-back)
+      - Long (waist length)
+      - Extra long (hip length)
+      required: true
+    - id: 12
+      name: braid_size
+      label: Braid Size
+      hint: Preferred braid thickness
+      type: select_one
+      options:
+      - Micro (very small)
+      - Small
+      - Medium
+      - Large
+      - Jumbo
+      - Mixed sizes
+      required: true
+    - id: 13
+      name: hair_type
+      label: Hair Type
+      hint: Your natural hair texture
+      type: select_one
+      options:
+      - Type 3A
+      - Type 3B
+      - Type 3C
+      - Type 4A
+      - Type 4B
+      - Type 4C
+      - Relaxed
+      - Natural
+      required: true
+    - id: 14
+      name: hair_condition
+      label: Hair Condition
+      hint: Current condition of your hair
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Damaged
+      required: true
+    - id: 15
+      name: scalp_sensitivity
+      label: Scalp Sensitivity
+      hint: Do you have a sensitive scalp
+      type: select_one
+      options:
+      - No sensitivity
+      - Mild sensitivity
+      - Moderate sensitivity
+      - Very sensitive
+      required: true
+    - id: 16
+      name: allergies
+      label: Allergies
+      hint: Any allergies to hair products
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: previous_braiding
+      label: Previous Braiding Experience
+      hint: Have you had braids before
+      type: select_one
+      options:
+      - Yes, frequently
+      - Yes, occasionally
+      - Yes, once
+      - No, first time
+      required: true
+    - id: 18
+      name: last_braiding_date
+      label: Last Braiding Date
+      hint: When did you last have braids
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: add_on_services
+      label: Add-on Services
+      hint: Select any additional services
+      type: select_multiple
+      options:
+      - None
+      - Wash and condition
+      - Deep conditioning treatment
+      - Blow dry
+      - Trim
+      - Color
+      - Styling
+      required: true
+    - id: 20
+      name: hair_extensions
+      label: Hair Extensions
+      hint: Will you need extensions
+      type: select_one
+      options:
+      - Yes, provide extensions
+      - Yes, I will bring my own
+      - No extensions needed
+      required: true
+    - id: 21
+      name: extension_color
+      label: Extension Color
+      hint: Preferred color
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: style_reference
+      label: Style Reference
+      hint: Do you have a photo reference
+      type: select_one
+      options:
+      - Yes, will bring photo
+      - Yes, will send digitally
+      - No, need stylist recommendation
+      required: true
+    - id: 23
+      name: estimated_duration
+      label: Estimated Duration
+      hint: Do you understand the time commitment
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 24
+      name: price_estimate
+      label: Price Estimate
+      hint: Do you understand the estimated cost
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 25
+      name: deposit_paid
+      label: Deposit Paid
+      hint: Have you paid the deposit
+      type: select_one
+      options:
+      - true
+      - false
+      - Pending
+      required: true
+    - id: 26
+      name: cancellation_policy
+      label: Cancellation Policy
+      hint: I understand the cancellation policy
+      type: select_one
+      options:
+      - Yes, I understand
+      - false
+      required: true
+    - id: 27
+      name: aftercare_instructions
+      label: Aftercare Instructions
+      hint: I will follow aftercare instructions
+      type: select_one
+      options:
+      - Yes, I agree
+      - false
+      required: true
+    - id: 28
+      name: special_requests
+      label: Special Requests
+      hint: Any special requests or notes
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: referral_source
+      label: How Did You Hear About Us
+      hint: What brought you to us
+      type: select_one
+      options:
+      - Social media
+      - Friend referral
+      - Website
+      - Walk-by
+      - Previous client
+      - Other
+      required: false
+    - id: 30
+      name: client_signature
+      label: Client Signature
+      hint: Type your full legal name as signature
+      type: text
+      options: []
+      required: true
+    - id: 31
+      name: signature_date
+      label: Signature Date
+      hint: Date of registration
+      type: date
+      options: []
+      required: true

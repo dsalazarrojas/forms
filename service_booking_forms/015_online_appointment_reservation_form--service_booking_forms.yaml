@@ -1,0 +1,121 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Appointment Reservation Form
+    pages:
+    - id: 1
+      name: first_page
+      label: First Page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_page_2
+      label: Client Information
+      hint: Enter client information
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Client Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Client Email
+      hint: Enter client email
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: service_request
+      label: Service Request
+      hint: Select a service
+      type: select_one
+      options:
+      - Service 1
+      - Service 2
+      - Service 3
+      required: false
+    - id: 6
+      name: service_request_2
+      label: Service Request 2
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 7
+      name: start_time
+      label: Start Time
+      hint: Select a start time
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: start_date
+      label: Start Date
+      hint: Select a start date
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: end_date
+      label: End Date
+      hint: Select an end date
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: duration
+      label: Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: first_name
+      label: First Name
+      hint: Enter first name
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: additional_notes
+      label: Additional Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: confirm
+      label: Confirm Request
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Save as draft
+      - Cancel
+      required: false

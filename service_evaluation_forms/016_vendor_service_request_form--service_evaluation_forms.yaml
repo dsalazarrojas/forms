@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vendor Service Request Form
+    pages:
+    - id: 1
+      name: first_page
+      label: Vendor Service Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_one
+      options:
+      - Service 1
+      - Service 2
+      - Service 3
+      required: false
+    - id: 6
+      name: service_description
+      label: Service Description
+      hint: Describe the service you need
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: service_request_date
+      label: Service Request Date
+      hint: Date
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: service_request_time
+      label: Service Request Time
+      hint: Time
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: service_requester_name
+      label: Service Requester Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: service_requester_organization
+      label: Service Requester Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: service_requester_phone
+      label: Service Requester Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: service_requester_email
+      label: Service Requester Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: additional_services_needed
+      label: Additional Services Needed
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: priority_level
+      label: Priority Level
+      hint: High, Medium, or Low
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 15
+      name: service_status
+      label: Service Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - In Progress
+      - Done
+      required: false
+    - id: 16
+      name: service_details
+      label: Service Details
+      hint: Please provide any additional information about the service.
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: date_submitted
+      label: Date Submitted
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: submitted_by_organization
+      label: Submitted By Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: service_request_id
+      label: Service Request ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: service_requester_note
+      label: Service Requester Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: service_requester_comment
+      label: Service Requester Comment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: service_note
+      label: Service Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: service_requester_organization_url
+      label: Service Requester Organization URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false

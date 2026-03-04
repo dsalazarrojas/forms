@@ -1,0 +1,86 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Care Services Provider Agreement
+    pages:
+      - id: 1
+        name: agreement_header
+        label: -- Agreement Details --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: client_name
+        label: Client name
+        hint: Name of the client receiving services
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: provider_name
+        label: Provider name
+        hint: Name of the care provider
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: service_start_date
+        label: Service start date
+        hint: Date services will begin
+        type: date
+        options: []
+        required: true
+      - id: 5
+        name: service_end_date
+        label: Service end date
+        hint: Estimated end date if applicable
+        type: date
+        options: []
+        required: false
+      - id: 6
+        name: services_provided
+        label: Services provided
+        hint: Describe scope of services
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: payment_terms
+        label: Payment terms
+        hint: Billing frequency and responsibilities
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: cancellation_policy
+        label: Cancellation policy
+        hint: Conditions for termination or changes
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: signatures_required
+        label: Signatures required
+        hint: Names of signees and roles
+        type: text
+        options: []
+        required: true
+      - id: 10
+        name: additional_clauses
+        label: Additional clauses
+        hint: Any other agreed terms
+        type: text
+        options: []
+        required: false

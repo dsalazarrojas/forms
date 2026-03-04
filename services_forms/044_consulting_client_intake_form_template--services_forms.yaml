@@ -1,0 +1,61 @@
+inputSchema:
+  type: object
+  properties:
+    title: Consulting Client Intake Form Template
+    pages:
+    - id: 1
+      name: section_client_overview
+      label: -- Client Overview --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client name
+      hint: Company or individual
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_person
+      label: Contact person
+      hint: Primary contact for the engagement
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Contact email
+      hint: For follow up and proposals
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: service_requested
+      label: Service requested
+      hint: Short description of requested consulting services
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: project_goals
+      label: Project goals
+      hint: Desired outcomes and KPIs
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: timeline
+      label: Timeline
+      hint: Expected start and end dates
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: budget_range
+      label: Budget range
+      hint: Approximate budget for the engagement
+      type: number
+      options: []
+      required: false

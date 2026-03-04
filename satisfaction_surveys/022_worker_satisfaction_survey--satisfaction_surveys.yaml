@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Worker Satisfaction Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: how_satisfied
+      label: How satisfied are you with your job?
+      hint: null
+      type: select_one
+      options:
+      - Very Dissatisfied
+      - Somewhat Dissatisfied
+      - Neutral
+      - Somewhat Satisfied
+      - Very Satisfied
+      required: false
+    - id: 3
+      name: work_life_balance
+      label: How would you rate your work-life balance?
+      hint: On a scale of 1-5, with 1 being very bad and 5 being very good.
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: feedback
+      label: What can we do to improve?
+      hint: Please provide feedback on what we can do to improve the work environment.
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: manager_feedback
+      label: What feedback do you have for your manager?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: department_feedback
+      label: What feedback do you have for your department?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: team_feedback
+      label: What feedback do you have for your team?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: suggestions
+      label: Do you have any suggestions for the company?
+      hint: Please be as specific as possible.
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: Any comments or questions?
+      hint: null
+      type: text
+      options: []
+      required: false

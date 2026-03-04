@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hospice Care Patient Demographics Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: date_of_death
+      label: date_of_death
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: patient_address
+      label: patient_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: caregiver_name
+      label: caregiver_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: patient_medical_condition
+      label: patient_medical_condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: hospice_name
+      label: hospice_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: medical_team_members
+      label: medical_team_members
+      hint: Enter names of medical team members.
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: medical_team_roles
+      label: medical_team_roles
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: date_of_admission
+      label: date_of_admission
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: date_of_discharge
+      label: date_of_discharge
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: hospice_care_level
+      label: hospice_care_level
+      hint: null
+      type: text
+      options: []
+      required: false

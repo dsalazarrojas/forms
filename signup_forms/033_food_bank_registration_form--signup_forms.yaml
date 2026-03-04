@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Food Bank Registration Form
+    pages:
+    - id: 1
+      name: user_details
+      label: User Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: meal_pickup
+      label: Meal Pickup
+      hint: null
+      type: select_one
+      options:
+      - Free Meal 1
+      - Free Meal 2
+      - Free Meal 3
+      required: false
+    - id: 3
+      name: meal_pickup_date
+      label: Meal Pickup Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: meal_pickup_time
+      label: Meal Pickup Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: user_comments
+      label: User Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: food_bank_comments
+      label: Food Bank Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: user_consent
+      label: User Consent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: consent_date
+      label: Consent Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: consent_time
+      label: Consent Time
+      hint: null
+      type: time
+      options: []
+      required: false

@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: student_engagement_survey
+    pages:
+    - id: 1
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: student_id
+      label: Student Id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: student_grade
+      label: Student Grade
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 4
+      name: school_grade
+      label: School Grade
+      hint: null
+      type: select_one
+      options:
+      - A
+      - B
+      - C
+      - D
+      - F
+      required: true
+    - id: 5
+      name: student_subjects
+      label: Student Subjects
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: teacher_subjects
+      label: Teacher Subjects
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: student_comments
+      label: Student Comments
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 8
+      name: teacher_comments
+      label: Teacher Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: student_email
+      label: Student Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: teacher_email
+      label: Teacher Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: teacher_phone
+      label: Teacher Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: student_phone
+      label: Student Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: classroom_comments
+      label: Classroom Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: teacher_comments
+      label: Teacher Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: classroom_comments_2
+      label: Classroom Comments 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: teacher_comments_2
+      label: Teacher Comments 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: classroom_comments_3
+      label: Classroom Comments 3
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: teacher_comments_3
+      label: Teacher Comments 3
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: classroom_comments_4
+      label: Classroom Comments 4
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: teacher_comments_4
+      label: Teacher Comments 4
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: classroom_comments_5
+      label: Classroom Comments 5
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: teacher_comments_5
+      label: Teacher Comments 5
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: classroom_comments_6
+      label: Classroom Comments 6
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: teacher_comments_6
+      label: Teacher Comments 6
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: classroom_comments_7
+      label: Classroom Comments 7
+      hint: null
+      type: note
+      options: []
+      required: false

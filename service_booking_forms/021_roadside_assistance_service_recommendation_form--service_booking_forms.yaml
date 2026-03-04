@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Roadside Assistance Service Recommendation Form
+    pages:
+    - id: 1
+      name: service_provider
+      label: Service Provider
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''1'', ''value'': ''AAA''}'
+      - '{''id'': ''2'', ''value'': ''AA Plus''}'
+      - '{''id'': ''3'', ''value'': ''AAA Plus''}'
+      required: true
+    - id: 2
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': ''1'', ''value'': ''Oil Change''}'
+      - '{''id'': ''2'', ''value'': ''Tire Change''}'
+      - '{''id'': ''3'', ''value'': ''Battery Replacement''}'
+      required: true
+    - id: 3
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''1'', ''value'': ''Phone''}'
+      - '{''id'': ''2'', ''value'': ''Email''}'
+      - '{''id'': ''3'', ''value'': ''In Person''}'
+      required: true
+    - id: 4
+      name: appointment_date
+      label: Appointment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: appointment_time
+      label: Appointment Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: customer_details
+      label: Customer Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: vehicle_year
+      label: Vehicle Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: vehicle_model
+      label: Vehicle Model
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: vehicle_registration_number
+      label: Vehicle Registration Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: customer_phone_number
+      label: Customer Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: service_description
+      label: Service Description
+      hint: null
+      type: note
+      options: []
+      required: false

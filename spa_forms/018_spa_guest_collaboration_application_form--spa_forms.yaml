@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Spa Guest Collaboration Application Form
+    pages:
+    - id: 1
+      name: spa_guest_collaboration_application_form
+      label: guest_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: collaboration_name
+      label: collaboration_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email_address
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: special_program
+      label: special_programs
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 6
+      name: interactions
+      label: interactions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: preferences
+      label: preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false
+    - id: 10
+      name: spa_id
+      label: spa_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: user_id
+      label: user_id
+      hint: null
+      type: number
+      options: []
+      required: false

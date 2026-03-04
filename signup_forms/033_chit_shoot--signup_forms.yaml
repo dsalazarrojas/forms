@@ -1,0 +1,267 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chit Shoot
+    pages:
+    - id: 1
+      name: participant_information
+      label: Participant Information
+      hint: Your details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: address
+      label: Address
+      hint: Street, city, state, zip
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: chit_details
+      label: Chit Details
+      hint: Your chit preferences
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: chit_amount
+      label: Preferred Chit Amount
+      hint: null
+      type: select_one
+      options:
+      - 10,000
+      - 25,000
+      - 50,000
+      - 100,000
+      - 250,000
+      - 500,000
+      required: true
+    - id: 11
+      name: chit_duration
+      label: Preferred Duration
+      hint: null
+      type: select_one
+      options:
+      - 12 months
+      - 20 months
+      - 24 months
+      - 40 months
+      required: true
+    - id: 12
+      name: monthly_payment
+      label: Monthly Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: prize_month_preference
+      label: Preferred Prize Month
+      hint: When you want the prize
+      type: select_one
+      options:
+      - Month 1
+      - Months 2-5
+      - Months 6-10
+      - Months 11-15
+      - Months 16-20
+      - Any month
+      - Auction
+      required: true
+    - id: 14
+      name: nominee_information
+      label: Nominee Information
+      hint: Beneficiary details
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: nominee_name
+      label: Nominee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: nominee_relationship
+      label: Relationship to Nominee
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: nominee_contact
+      label: Nominee Contact
+      hint: Phone or email
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: payment_information
+      label: Payment Information
+      hint: How you will pay
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: payment_method
+      label: Preferred Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Check
+      - Bank transfer
+      - Online payment
+      - Auto-debit
+      required: true
+    - id: 20
+      name: bank_name
+      label: Bank Name
+      hint: If bank transfer
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: account_number
+      label: Account Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: payment_date
+      label: Preferred Payment Date
+      hint: Day of month
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: guarantor_details
+      label: Guarantor Details
+      hint: Required for approval
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: guarantor_name
+      label: Guarantor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: guarantor_contact
+      label: Guarantor Contact
+      hint: Phone number
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: guarantor_address
+      label: Guarantor Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: additional_information
+      label: Additional Information
+      hint: Any other details
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: how_did_you_hear
+      label: How Did You Hear About This Chit
+      hint: null
+      type: select_one
+      options:
+      - Friend or family
+      - Advertisement
+      - Previous member
+      - Social media
+      - Other
+      required: false
+    - id: 29
+      name: previous_membership
+      label: Have you participated in a chit before
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 30
+      name: special_requests
+      label: Special Requests or Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: terms_agreement
+      label: I agree to the terms and conditions
+      hint: null
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, I do not agree
+      required: true
+    - id: 32
+      name: participant_signature
+      label: Participant Signature
+      hint: Digital signature
+      type: text
+      options: []
+      required: true
+    - id: 33
+      name: signup_date
+      label: Date of Signup
+      hint: null
+      type: date
+      options: []
+      required: true

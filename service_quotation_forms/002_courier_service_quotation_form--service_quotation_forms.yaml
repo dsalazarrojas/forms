@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: Courier Service Quotation Form
+    pages:
+    - id: 1
+      name: service_request
+      label: service_request
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Service'', ''value'': ''Service''}'
+      - '{''label'': ''Delivery'', ''value'': ''Delivery''}'
+      - '{''label'': ''Package'', ''value'': ''Package''}'
+      required: false
+    - id: 2
+      name: client_details
+      label: client_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: quotation_details
+      label: quotation_details
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Option 1'', ''value'': ''option_1''}'
+      - '{''label'': ''Option 2'', ''value'': ''option_2''}'
+      - '{''label'': ''Option 3'', ''value'': ''option_3''}'
+      required: false
+    - id: 4
+      name: estimated_cost
+      label: estimated_cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: estimated_time
+      label: estimated_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: service_type
+      label: service_type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1'', ''value'': ''option_1''}'
+      - '{''label'': ''Option 2'', ''value'': ''option_2''}'
+      - '{''label'': ''Option 3'', ''value'': ''option_3''}'
+      required: false

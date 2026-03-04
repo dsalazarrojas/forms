@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Housekeeping Service Request Form
+    pages:
+    - id: 1
+      name: housekeeping_service_request_form
+      label: Service Type
+      hint: null
+      type: select_one
+      options:
+      - Cleaning
+      - Janitorial
+      - Maintenance
+      required: true
+    - id: 2
+      name: date_of_service
+      label: Date of Service
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: service_frequency
+      label: Frequency of Service
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Biweekly
+      - Monthly
+      - One Time
+      required: true
+    - id: 6
+      name: service_area
+      label: Service Area
+      hint: null
+      type: select_multiple
+      options:
+      - Kitchen
+      - Living Room
+      - Bedroom
+      - Bathroom
+      - Hallway
+      required: true
+    - id: 7
+      name: additional_requests
+      label: Additional Requests
+      hint: Please provide any additional requests or information.
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - John
+      - Jane
+      - Bob
+      required: true

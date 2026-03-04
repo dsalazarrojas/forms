@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Piano Tuning Appointment Form
+    pages:
+    - id: 1
+      name: piano_tuning_appointment_form
+      label: Piano Tuning Appointment Form
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 2
+      name: customer_name
+      label: customer name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_email
+      label: customer email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: piano_type
+      label: piano type
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: service_details
+      label: service details
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 6
+      name: service_date
+      label: service date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: service_time
+      label: service time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: service_location
+      label: service location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: contact_phone
+      label: contact phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: contact_note
+      label: contact note
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 11
+      name: technician_name
+      label: technician name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: technician_notes
+      label: technician notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 13
+      name: customer_signature
+      label: customer signature
+      hint: null
+      type: select_one
+      options:
+      - Customer Signature 1
+      - Customer Signature 2
+      - Customer Signature 3
+      required: true
+    - id: 14
+      name: technician_signature
+      label: technician signature
+      hint: null
+      type: select_one
+      options:
+      - Technician Signature 1
+      - Technician Signature 2
+      - Technician Signature 3
+      required: true

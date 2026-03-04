@@ -1,0 +1,261 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bin Delivery Tracking Form
+    pages:
+    - id: 1
+      name: driver_information
+      label: Driver Information
+      hint: Enter driver details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: driver_name
+      label: Driver Name
+      hint: Full name of driver
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: driver_id
+      label: Driver ID
+      hint: Employee ID number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: driver_phone
+      label: Driver Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: delivery_date
+      label: Delivery Date
+      hint: Date of delivery or pickup
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: shift_time
+      label: Shift Time
+      hint: Work shift period
+      type: select_one
+      options:
+      - Morning Shift (6 AM - 2 PM)
+      - Afternoon Shift (2 PM - 10 PM)
+      - Night Shift (10 PM - 6 AM)
+      required: true
+    - id: 7
+      name: truck_information
+      label: Truck Information
+      hint: Enter vehicle details
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: truck_number
+      label: Truck Number
+      hint: Vehicle identification number
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: truck_license_plate
+      label: License Plate
+      hint: License plate number
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: truck_type
+      label: Truck Type
+      hint: Type of delivery vehicle
+      type: select_one
+      options:
+      - Standard Delivery Truck
+      - Large Container Truck
+      - Roll-Off Truck
+      - Side Loader
+      - Rear Loader
+      - Other
+      required: true
+    - id: 11
+      name: route_number
+      label: Route Number
+      hint: Assigned delivery route
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: delivery_details
+      label: Delivery Details
+      hint: Enter delivery information
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: customer_name
+      label: Customer Name
+      hint: Name of customer or business
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: delivery_address
+      label: Delivery Address
+      hint: Complete street address
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: delivery_city
+      label: City
+      hint: City for delivery
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: delivery_zip
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: service_type
+      label: Service Type
+      hint: Type of service performed
+      type: select_one
+      options:
+      - Bin Delivery
+      - Bin Pickup
+      - Bin Exchange
+      - Scheduled Delivery
+      - Emergency Service
+      required: true
+    - id: 18
+      name: bin_type_delivered
+      label: Bin Type Delivered
+      hint: Type of bin being delivered
+      type: select_one
+      options:
+      - Trash Bin
+      - Recycling Bin
+      - Compost Bin
+      - Green Waste Bin
+      - Commercial Dumpster
+      - Specialty Container
+      required: true
+    - id: 19
+      name: bin_size
+      label: Bin Size
+      hint: Size of bin
+      type: select_one
+      options:
+      - Small (20-35 gallons)
+      - Medium (60-65 gallons)
+      - Large (90-96 gallons)
+      - Extra Large (100+ gallons)
+      - Commercial (2-8 cubic yards)
+      required: true
+    - id: 20
+      name: quantity_delivered
+      label: Quantity Delivered
+      hint: Number of bins delivered
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: quantity_picked_up
+      label: Quantity Picked Up
+      hint: Number of bins picked up
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: bin_condition
+      label: Bin Condition
+      hint: Condition of bins
+      type: select_one
+      options:
+      - New
+      - Good Condition
+      - Fair Condition
+      - Needs Repair
+      - Damaged
+      required: true
+    - id: 23
+      name: delivery_time_start
+      label: Delivery Start Time
+      hint: When did delivery begin
+      type: time
+      options: []
+      required: true
+    - id: 24
+      name: delivery_time_end
+      label: Delivery End Time
+      hint: When was delivery completed
+      type: time
+      options: []
+      required: true
+    - id: 25
+      name: photo_documentation
+      label: Photo Documentation
+      hint: Did you take photos of delivery
+      type: select_one
+      options:
+      - Yes - Photos Taken
+      - No - Photos Not Required
+      - No - Unable to Take Photos
+      required: true
+    - id: 26
+      name: customer_signature
+      label: Customer Confirmation
+      hint: Customer received delivery
+      type: select_one
+      options:
+      - Customer Confirmed Receipt
+      - Left at Location
+      - No Customer Present
+      required: true
+    - id: 27
+      name: issues_encountered
+      label: Issues Encountered
+      hint: Were there any problems
+      type: select_one
+      options:
+      - No Issues
+      - Access Problem
+      - Bin Damage
+      - Customer Not Available
+      - Weather Delay
+      - Vehicle Issue
+      - Other
+      required: true
+    - id: 28
+      name: issue_description
+      label: Issue Description
+      hint: Describe any issues
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: supervisor_notification
+      label: Supervisor Notification
+      hint: Does supervisor need to be notified
+      type: select_one
+      options:
+      - No - Routine Delivery
+      - Yes - Issue Requires Attention
+      - Yes - Customer Request
+      required: true

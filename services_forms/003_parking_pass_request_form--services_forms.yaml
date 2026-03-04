@@ -1,0 +1,211 @@
+inputSchema:
+  type: object
+  properties:
+    title: Parking Pass Request Form
+    pages:
+    - id: 1
+      name: parking_pass_request_form_1
+      label: Requesting User
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: requested_date
+      label: Requested Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: user_email
+      label: User Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: vehicle_type
+      label: Vehicle Type
+      hint: null
+      type: select_one
+      options:
+      - Car
+      - Motorbike
+      - Truck
+      required: false
+    - id: 7
+      name: parking_facility
+      label: Parking Facility
+      hint: null
+      type: select_multiple
+      options:
+      - Parking Facility 1
+      - Parking Facility 2
+      - Parking Facility 3
+      required: false
+    - id: 8
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: select_multiple
+      options:
+      - Special Request 1
+      - Special Request 2
+      - Special Request 3
+      required: false
+    - id: 9
+      name: parking_details
+      label: Parking Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: parking_status
+      label: Parking Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Pending
+      required: false
+    - id: 11
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - Admin User 1
+      - Admin User 2
+      - Admin User 3
+      required: false
+    - id: 12
+      name: assigned_by
+      label: Assigned By
+      hint: null
+      type: select_one
+      options:
+      - User 1
+      - User 2
+      - User 3
+      required: false
+    - id: 13
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: timestamp
+      label: Timestamp
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: user
+      label: User
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: user_status
+      label: User Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 18
+      name: facility_status
+      label: Facility Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 19
+      name: facility
+      label: Facility
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: comments_status
+      label: Comments Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 21
+      name: user_type
+      label: User Type
+      hint: null
+      type: select_multiple
+      options:
+      - Admin User 1
+      - Admin User 2
+      - Admin User 3
+      required: false
+    - id: 22
+      name: comments_type
+      label: Comments Type
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 23
+      name: facility_type
+      label: Facility Type
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 24
+      name: assigned_date
+      label: Assigned Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: assigned_time
+      label: Assigned Time
+      hint: null
+      type: time
+      options: []
+      required: false

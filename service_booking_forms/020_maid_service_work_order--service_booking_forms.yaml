@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Maid Service Work Order
+    pages:
+    - id: 1
+      name: service_details
+      label: Service Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_one
+      options:
+      - Maid Service
+      - Deep Cleaning
+      - Window Cleaning
+      - Other (please specify)
+      required: false
+    - id: 3
+      name: service_date
+      label: Service Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: service_details_1
+      label: Service Details 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: service_details_2
+      label: Service Details 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: additional_services
+      label: Additional Services
+      hint: null
+      type: select_multiple
+      options:
+      - Vacuuming
+      - Mopping
+      - Dusting
+      - Polishing
+      - Cleaning
+      - Laundry
+      - Other (please specify)
+      required: false
+    - id: 12
+      name: schedule_date
+      label: Schedule Date
+      hint: null
+      type: date
+      options: []
+      required: false

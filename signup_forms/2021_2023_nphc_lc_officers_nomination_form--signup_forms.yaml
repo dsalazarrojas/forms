@@ -1,0 +1,210 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: 2021 2023 NPHC LC Officers Nomination Form
+    pages:
+    - id: 1
+      name: section_header_nominee
+      label: '--- Nominee Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: Enter the full legal name as it should appear on records
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: preferred_name
+      label: Preferred name
+      hint: Leave blank if same as full name
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email_address
+      label: Email address
+      hint: Primary contact email for nomination communications
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone number
+      hint: Include country code if outside the U.S.
+      type: phone
+      options: []
+      required: false
+    - id: 6
+      name: mailing_address
+      label: Mailing address
+      hint: Street, city, state/province, ZIP/postal code
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: membership_years
+      label: Years affiliated with NPHC or local chapter
+      hint: Enter whole years (0 if new member)
+      type: integer
+      options: []
+      required: true
+    - id: 9
+      name: current_status
+      label: Current status
+      hint: Select the option that best describes the nominee's affiliation
+      type: select_one
+      options:
+      - Undergraduate Student
+      - Graduate Student
+      - Alumnus/a
+      - Faculty/Staff
+      - Community Member
+      required: true
+    - id: 10
+      name: position_nominated
+      label: Position nominated for
+      hint: Select one; choose "Other" if a different office is intended
+      type: select_one
+      options:
+      - President
+      - Vice President
+      - Secretary
+      - Treasurer
+      - Public Relations Officer
+      - Historian
+      - Parliamentarian
+      - Sergeant-at-Arms
+      - Recruitment Chair
+      - Other
+      required: true
+    - id: 11
+      name: other_position_text
+      label: If other, specify position
+      hint: Provide the exact title if "Other" was selected
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: section_header_experience
+      label: '--- Leadership & Experience ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: leadership_experience
+      label: Leadership experience summary
+      hint: Briefly list relevant leadership roles and dates (2-3 sentences)
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: previous_offices
+      label: Previous offices held (select all that apply)
+      hint: Leave blank if none
+      type: select_multiple
+      options:
+      - President
+      - Vice President
+      - Secretary
+      - Treasurer
+      - Public Relations Officer
+      - Historian
+      - Parliamentarian
+      - Sergeant-at-Arms
+      - Recruitment Chair
+      - None
+      required: false
+    - id: 15
+      name: supporting_statement
+      label: Supporting statement from nominator or nominee
+      hint: 'Why is the nominee suited for this role? (recommended: 150-250 words)'
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: section_header_nominator
+      label: '--- Nominator Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: nominator_full_name
+      label: Nominator full name
+      hint: Person submitting this nomination
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: nominator_email
+      label: Nominator email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 19
+      name: nominator_phone
+      label: Nominator phone number
+      hint: Optional secondary contact
+      type: phone
+      options: []
+      required: false
+    - id: 20
+      name: nomination_date
+      label: Date of nomination submission
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: availability_conflicts
+      label: Known conflicts or availability concerns
+      hint: Select if the nominee has time conflicts or restrictions
+      type: select_one
+      options:
+      - No conflicts
+      - Has conflicts — contact for details
+      required: false
+    - id: 22
+      name: consent_for_nomination
+      label: Nominee consent to be nominated
+      hint: Must be confirmed before finalizing the ballot
+      type: select_one
+      options:
+      - Yes, nominee consents to be nominated
+      - No, nominee does not consent
+      required: true
+    - id: 23
+      name: additional_comments
+      label: Additional comments or notes
+      hint: Optional—use for endorsements, references, or special instructions
+      type: text
+      options: []
+      required: false

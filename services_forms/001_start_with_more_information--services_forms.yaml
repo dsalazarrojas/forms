@@ -1,0 +1,37 @@
+inputSchema:
+  type: object
+  properties:
+    title: Start With More Information
+    pages:
+    - id: 1
+      name: start_with_more_information_services_forms_page_1
+      label: what_do_you_want_to_do
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: details_details_details_get_the_facts_with_our_form_used_to_evaluate_specific_criteria_to_offer_services
+      label: details_details_details_get_the_facts
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: specific_criteria_to_offer_services
+      label: specific_criteria
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: offer_services
+      label: offer_services
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

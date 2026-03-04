@@ -1,0 +1,289 @@
+inputSchema:
+  type: object
+  properties:
+    title: Art School Enrollment Form
+    pages:
+    - id: 1
+      name: application_date
+      label: Application Date
+      hint: Date of application
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: student_first_name
+      label: Student First Name
+      hint: Legal first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_last_name
+      label: Student Last Name
+      hint: Legal last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: student_email
+      label: Student Email
+      hint: Email address
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: student_phone
+      label: Student Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: Student date of birth
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: mailing_address
+      label: Mailing Address
+      hint: Full address
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: city
+      label: City
+      hint: City
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: zip_code
+      label: Zip Code
+      hint: Postal or zip code
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: program_interest
+      label: Program Interest
+      hint: Program you wish to enroll in
+      type: select_one
+      options:
+      - Fine Arts
+      - Graphic Design
+      - Photography
+      - Sculpture
+      - Painting
+      - Digital Arts
+      - Art History
+      - Illustration
+      - Animation
+      - Other
+      required: true
+    - id: 12
+      name: degree_type
+      label: Degree Type
+      hint: Type of degree or program
+      type: select_one
+      options:
+      - Certificate Program
+      - Associate Degree
+      - Bachelor's Degree
+      - Master's Degree
+      - Non-Degree
+      - Continuing Education
+      required: true
+    - id: 13
+      name: enrollment_term
+      label: Enrollment Term
+      hint: Term of enrollment
+      type: select_one
+      options:
+      - Fall Semester
+      - Spring Semester
+      - Summer Semester
+      - Full Year
+      required: true
+    - id: 14
+      name: enrollment_year
+      label: Enrollment Year
+      hint: Year of enrollment
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: full_time_part_time
+      label: Full Time Part Time
+      hint: Enrollment status
+      type: select_one
+      options:
+      - Full-Time
+      - Part-Time
+      required: true
+    - id: 16
+      name: high_school_name
+      label: High School Name
+      hint: Name of high school
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: high_school_graduation
+      label: High School Graduation
+      hint: Year of graduation
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: gpa
+      label: GPA
+      hint: Grade point average
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: previous_art_education
+      label: Previous Art Education
+      hint: Have you had prior art education
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 20
+      name: previous_education_details
+      label: Previous Education Details
+      hint: Describe previous art education
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: portfolio_submitted
+      label: Portfolio Submitted
+      hint: Have you submitted a portfolio
+      type: select_one
+      options:
+      - true
+      - false
+      - Will Submit Later
+      required: true
+    - id: 22
+      name: artistic_mediums
+      label: Artistic Mediums
+      hint: Select mediums you work with
+      type: select_multiple
+      options:
+      - Drawing
+      - Painting
+      - Sculpture
+      - Photography
+      - Digital Art
+      - Printmaking
+      - Ceramics
+      - Textiles
+      - Mixed Media
+      - Other
+      required: true
+    - id: 23
+      name: career_goals
+      label: Career Goals
+      hint: What are your career goals
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: why_this_school
+      label: Why This School
+      hint: Why do you want to attend
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: financial_aid_needed
+      label: Financial Aid Needed
+      hint: Do you need financial aid
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 26
+      name: scholarship_interest
+      label: Scholarship Interest
+      hint: Are you interested in scholarships
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 27
+      name: housing_needed
+      label: Housing Needed
+      hint: Do you need student housing
+      type: select_one
+      options:
+      - Yes - On Campus
+      - Yes - Off Campus Assistance
+      - false
+      required: false
+    - id: 28
+      name: special_needs
+      label: Special Needs
+      hint: Any accessibility requirements
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Name of emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 30
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 31
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: Relationship to student
+      type: text
+      options: []
+      required: true
+    - id: 32
+      name: terms_accepted
+      label: Terms Accepted
+      hint: I accept the school terms and conditions
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 33
+      name: student_signature
+      label: Student Signature
+      hint: Type full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 34
+      name: parent_signature
+      label: Parent Signature
+      hint: Parent signature if under 18
+      type: text
+      options: []
+      required: false

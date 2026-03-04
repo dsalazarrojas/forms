@@ -1,0 +1,136 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Exploration Inquiry Form
+    pages:
+    - id: 1
+      name: prospective_family
+      label: Prospective Family
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: family_information
+      label: Family Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: student_info
+      label: Student Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: inquiry_type
+      label: Inquiry Type
+      hint: null
+      type: select_one
+      options:
+      - Inquiry Type
+      - Informational Call
+      - Campus Visit
+      required: false
+    - id: 5
+      name: inquiry_details
+      label: Inquiry Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: preferred_contact
+      label: Preferred Contact Method
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Phone
+      - In-person Meeting
+      required: false
+    - id: 7
+      name: best_time
+      label: Best Time
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: visit_scheduling
+      label: Visit Scheduling
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Flexible Schedule
+      required: false
+    - id: 9
+      name: admissions_interest
+      label: Admissions Interest
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: follow_up
+      label: Follow-up
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: schedule_call
+      label: Schedule Call
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 15
+      name: schedule_visit
+      label: Schedule Visit
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 16
+      name: schedule_follow_up
+      label: Schedule Follow-up
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

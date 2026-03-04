@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: respite_case_notes_form
+    pages:
+    - id: 1
+      name: respite_case
+      label: Respite Case
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: respite_client
+      label: respite_client
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_contact
+      label: Date of Contact
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time_of_contact
+      label: Time of Contact
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: respite_care_provided
+      label: Respite Care Provided
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: number_of_contacts
+      label: Number of Contacts
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: next_contact_date
+      label: Next Contact Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: next_contact_time
+      label: Next Contact Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: respite_care_frequency
+      label: Respite Care Frequency
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 10
+      name: respite_care_duration
+      label: Respite Care Duration
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 11
+      name: respite_care_support
+      label: Respite Care Support
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 12
+      name: respite_care_status
+      label: Respite Care Status
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 13
+      name: next_contact_status
+      label: Next Contact Status
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 14
+      name: respite_care_notes
+      label: Respite Care Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: respite_care_goals
+      label: Respite Care Goals
+      hint: null
+      type: text
+      options: []
+      required: false

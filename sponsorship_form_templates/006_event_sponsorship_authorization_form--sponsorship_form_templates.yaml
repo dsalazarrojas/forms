@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: event_sponsorship_authorization_form
+    pages:
+    - id: 1
+      name: event_details
+      label: Event Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: sponsor_info
+      label: Sponsor Info
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: sponsorship_amount
+      label: Sponsorship Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: event_start_date
+      label: Event Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: event_end_date
+      label: Event End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: sponsorship_start_date
+      label: Sponsorship Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: event_sponsorship_details
+      label: Event Sponsorship Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: sponsor_relationship
+      label: Sponsor Relationship
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: sponsorship_status
+      label: Sponsorship Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false

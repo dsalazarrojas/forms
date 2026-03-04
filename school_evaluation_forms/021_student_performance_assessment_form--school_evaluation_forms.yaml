@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Performance Assessment Form
+    pages:
+    - id: 1
+      name: student_performance
+      label: student_performance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: student_id
+      label: student_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: assessment_date
+      label: assessment_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: teacher_id
+      label: teacher_id
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Teacher 1'', ''label'': ''Teacher 1''}'
+      - '{''id'': 2, ''name'': ''Teacher 2'', ''label'': ''Teacher 2''}'
+      - '{''id'': 3, ''name'': ''Teacher 3'', ''label'': ''Teacher 3''}'
+      required: false
+    - id: 6
+      name: subject
+      label: subject
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: assessment_type
+      label: assessment_type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: student_performance
+      label: student_performance
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''High'', ''label'': ''High''}'
+      - '{''id'': 2, ''name'': ''Medium'', ''label'': ''Medium''}'
+      - '{''id'': 3, ''name'': ''Low'', ''label'': ''Low''}'
+      required: false
+    - id: 9
+      name: student_comment
+      label: student_comment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: teacher_comment
+      label: teacher_comment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: school_year
+      label: school_year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: student_grade_level
+      label: student_grade_level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 13
+      name: subject_area
+      label: subject_area
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: student_attendance_status
+      label: student_attendance_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 15
+      name: student_attendance
+      label: student_attendance
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: student_behavior
+      label: student_behavior
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: assessment_outcome
+      label: assessment_outcome
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: school_administration
+      label: school_administration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: student_progress
+      label: student_progress
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: student_recommendation
+      label: student_recommendation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: student_attendance_status
+      label: student_attendance_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 22
+      name: student_attendance_rate
+      label: student_attendance_rate
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 23
+      name: student_attendance_frequency
+      label: student_attendance_frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: student_absence
+      label: student_absence
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: student_behavior_type
+      label: student_behavior_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

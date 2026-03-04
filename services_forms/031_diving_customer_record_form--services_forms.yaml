@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: diving_customer_record_form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: certification_level
+      label: Certification Level
+      hint: null
+      type: select_one
+      options:
+      - Intermediate
+      - Advanced
+      - Master
+      required: false
+    - id: 4
+      name: certification_date
+      label: Certification Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: certification_number
+      label: Certification Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: instructor
+      label: Instructor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: customer_diving_hours
+      label: Customer Diving Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: instructor_diving_hours
+      label: Instructor Diving Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: training_diving_hours
+      label: Training Diving Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: customer_experience
+      label: Customer Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: instructor_experience
+      label: Instructor Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: dive_master
+      label: Dive Master
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 13
+      name: certification_type
+      label: Certification Type
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Skin Care Product Sensitivity Test Consent Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: skin_type
+      label: Skin Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: skin_history
+      label: Skin History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: consent_date
+      label: Consent Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: consent_time
+      label: Consent Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: skin_care_products
+      label: Skin Care Products
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: skin_symptoms
+      label: Skin Symptoms
+      hint: null
+      type: text
+      options: []
+      required: true

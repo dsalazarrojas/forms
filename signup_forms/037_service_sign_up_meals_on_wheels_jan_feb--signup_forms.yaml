@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: 'Service Sign Up: Meals On Wheels (JAN/FEB)'
+    pages:
+    - id: 1
+      name: service_sign_up_meals_on_wheels_jan_feb
+      label: Service Sign Up - Meals On Wheels (JAN/FEB)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Signup Forms
+      - Other
+      required: true
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: name
+      label: Name
+      hint: The Curve ASU
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

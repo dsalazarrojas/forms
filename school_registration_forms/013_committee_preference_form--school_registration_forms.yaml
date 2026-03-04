@@ -1,0 +1,229 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Committee Preference Form
+    pages:
+      - id: 1
+        name: preference_information
+        label: Preference Information
+        hint: Share your committee preferences
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: employee_name
+        label: Employee Name
+        hint: Your full name
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: employee_id
+        label: Employee ID
+        hint: Your employee identification number
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: department
+        label: Department
+        hint: Which department do you work in
+        type: select_one
+        options:
+          - Administration
+          - Academic Affairs
+          - Student Services
+          - Finance
+          - Human Resources
+          - Facilities
+          - IT Services
+          - Other
+        required: true
+      - id: 5
+        name: position_title
+        label: Position Title
+        hint: Your current job title
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: years_of_service
+        label: Years of Service
+        hint: How long have you worked here
+        type: select_one
+        options:
+          - Less than 1 year
+          - 1-3 years
+          - 3-5 years
+          - 5-10 years
+          - 10+ years
+        required: true
+      - id: 7
+        name: committee_interest
+        label: Committee Interest
+        hint: Are you interested in serving on a committee
+        type: select_one
+        options:
+          - "Yes - Very Interested"
+          - "Yes - Somewhat Interested"
+          - "Neutral"
+          - "Not Interested"
+        required: true
+      - id: 8
+        name: preferred_committees
+        label: Preferred Committees
+        hint: Which committees interest you
+        type: select_multiple
+        options:
+          - Academic Affairs
+          - Budget and Finance
+          - Personnel
+          - Diversity and Inclusion
+          - Technology
+          - Facilities Planning
+          - Student Life
+          - Research
+          - Community Outreach
+          - Safety
+        required: false
+      - id: 9
+        name: primary_interest
+        label: Primary Interest
+        hint: Your top committee choice
+        type: select_one
+        options:
+          - Academic Affairs
+          - Budget and Finance
+          - Personnel
+          - Diversity and Inclusion
+          - Technology
+          - Facilities Planning
+          - Student Life
+          - Research
+          - Community Outreach
+          - Safety
+        required: false
+      - id: 10
+        name: availability
+        label: Availability
+        hint: When are you available for meetings
+        type: select_multiple
+        options:
+          - Monday Morning
+          - Monday Afternoon
+          - Tuesday Morning
+          - Tuesday Afternoon
+          - Wednesday Morning
+          - Wednesday Afternoon
+          - Thursday Morning
+          - Thursday Afternoon
+          - Friday Morning
+          - Friday Afternoon
+        required: true
+      - id: 11
+        name: meeting_frequency_preference
+        label: Meeting Frequency Preference
+        hint: How often would you prefer to meet
+        type: select_one
+        options:
+          - Weekly
+          - Bi-Weekly
+          - Monthly
+          - Quarterly
+          - As Needed
+        required: true
+      - id: 12
+        name: time_commitment
+        label: Time Commitment
+        hint: How much time can you dedicate monthly
+        type: select_one
+        options:
+          - 1-2 hours
+          - 3-5 hours
+          - 6-10 hours
+          - 10+ hours
+        required: true
+      - id: 13
+        name: skills_expertise
+        label: Skills and Expertise
+        hint: What skills or expertise do you bring
+        type: select_multiple
+        options:
+          - Financial Analysis
+          - Strategic Planning
+          - Project Management
+          - Communication
+          - Data Analysis
+          - Policy Development
+          - Event Planning
+          - Technology
+          - Legal
+          - Human Resources
+        required: false
+      - id: 14
+        name: previous_experience
+        label: Previous Experience
+        hint: Have you served on committees before
+        type: select_one
+        options:
+          - "Yes - Extensive Experience"
+          - "Yes - Some Experience"
+          - "No - First Time"
+        required: true
+      - id: 15
+        name: motivation
+        label: Motivation
+        hint: Why do you want to serve on a committee
+        type: text
+        options: []
+        required: false
+      - id: 16
+        name: goals
+        label: Goals
+        hint: What do you hope to accomplish
+        type: text
+        options: []
+        required: false
+      - id: 17
+        name: concerns
+        label: Concerns
+        hint: Any concerns about committee service
+        type: text
+        options: []
+        required: false
+      - id: 18
+        name: supervisor_approval
+        label: Supervisor Approval
+        hint: Does your supervisor support your participation
+        type: select_one
+        options:
+          - "Yes - Approved"
+          - "Pending"
+          - "Not Yet Asked"
+          - "No"
+        required: true
+      - id: 19
+        name: supervisor_name
+        label: Supervisor Name
+        hint: Name of your supervisor
+        type: text
+        options: []
+        required: false
+      - id: 20
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other information to share
+        type: text
+        options: []
+        required: false

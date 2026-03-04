@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Home Care Referral Form
+    pages:
+    - id: 1
+      name: home_care_referral_form_1
+      label: Client Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: home_care_referral_client_name
+      label: client_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: home_care_referral_client_date_of_birth
+      label: client_date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: home_care_referral_client_phone
+      label: client_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: home_care_referral_client_email
+      label: client_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: home_care_referral_referring_agency
+      label: referring_agency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: home_care_referral_additional_services
+      label: additional_services
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: home_care_referral_referral_date
+      label: referral_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: home_care_referral_referral_time
+      label: referral_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: home_care_referral_referral_status
+      label: referral_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 11
+      name: home_care_referral_note
+      label: referral_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: home_care_referral_form_signed
+      label: form_signed
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

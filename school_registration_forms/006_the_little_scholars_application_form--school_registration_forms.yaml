@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: The Little Scholars Application Form
+    pages:
+    - id: 1
+      name: parent_info
+      label: parent_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: school_name
+      label: school
+      hint: null
+      type: select_one
+      options:
+      - 1st
+      - 2nd
+      - 3rd
+      - 4th
+      - 5th
+      - 6th
+      - 7th
+      - 8th
+      required: true
+    - id: 5
+      name: student_name
+      label: student_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: student_dob
+      label: student_dob
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: student_start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: student_grade_level
+      label: grade_level
+      hint: null
+      type: select_one
+      options:
+      - 1st
+      - 2nd
+      - 3rd
+      - 4th
+      - 5th
+      - 6th
+      - 7th
+      - 8th
+      required: true
+    - id: 9
+      name: student_birthdate
+      label: birthdate
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: student_address
+      label: student_address
+      hint: null
+      type: text
+      options: []
+      required: true

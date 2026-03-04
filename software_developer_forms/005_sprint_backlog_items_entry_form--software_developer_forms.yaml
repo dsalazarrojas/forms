@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sprint Backlog Items Entry Form
+    pages:
+    - id: 1
+      name: user_input
+      label: form_user_input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: description
+      label: item_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: sprint_id
+      label: select_sprint
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: task_ids
+      label: select_tasks
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: priority
+      label: item_priority
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: estimated_hours
+      label: estimated_hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: actual_hours
+      label: actual_hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: completed_hours
+      label: completed_hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: status
+      label: item_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

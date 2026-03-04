@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: Asset Activity Form
+    pages:
+    - id: 1
+      name: company_name
+      label: Company Name
+      hint: Legal business name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: report_period
+      label: Report Period
+      hint: Time period covered
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Semi-Annual
+      - Annual
+      required: true
+    - id: 3
+      name: period_start
+      label: Period Start Date
+      hint: Beginning of period
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: period_end
+      label: Period End Date
+      hint: End of period
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: prepared_by
+      label: Prepared By
+      hint: Name of preparer
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: department
+      label: Department
+      hint: Which department
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: asset_category
+      label: Asset Category
+      hint: Type of assets
+      type: select_one
+      options:
+      - Current Assets
+      - Fixed Assets
+      - Intangible Assets
+      - Financial Assets
+      - All Categories
+      required: true
+    - id: 8
+      name: opening_balance
+      label: Opening Balance
+      hint: Value at period start
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: additions_during_period
+      label: Additions During Period
+      hint: New assets acquired
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: additions_description
+      label: Additions Description
+      hint: Describe new assets
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: disposals_during_period
+      label: Disposals During Period
+      hint: Assets sold or removed
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: disposals_description
+      label: Disposals Description
+      hint: Describe disposed assets
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: depreciation_amount
+      label: Depreciation Amount
+      hint: Total depreciation
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: impairment_losses
+      label: Impairment Losses
+      hint: Any impairment charges
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: revaluation_gains
+      label: Revaluation Gains
+      hint: Increases in value
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: transfers_in
+      label: Transfers In
+      hint: Assets transferred in
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: transfers_out
+      label: Transfers Out
+      hint: Assets transferred out
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: closing_balance
+      label: Closing Balance
+      hint: Value at period end
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: activity_count
+      label: Number of Asset Activities
+      hint: Total transactions
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: significant_changes
+      label: Significant Changes
+      hint: Notable activity
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: variances_noted
+      label: Variances from Budget
+      hint: Differences from plan
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: supporting_documents
+      label: Supporting Documents Attached
+      hint: List attachments
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: reviewed_by
+      label: Reviewed By
+      hint: Supervisor name
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: review_date
+      label: Review Date
+      hint: When reviewed
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: approval_status
+      label: Approval Status
+      hint: Current status
+      type: select_one
+      options:
+      - Draft
+      - Pending Review
+      - Approved
+      - Rejected
+      required: true

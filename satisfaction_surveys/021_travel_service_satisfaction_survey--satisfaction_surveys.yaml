@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Travel Service Satisfaction Survey
+    pages:
+    - id: 1
+      name: travel_service_satisfaction_survey_form_1
+      label: travel_service_satisfaction
+      hint: null
+      type: select_one
+      options:
+      - '{''option_1'': ''Excellent''}'
+      - '{''option_2'': ''Good''}'
+      - '{''option_3'': ''Fair''}'
+      - '{''option_4'': ''Poor''}'
+      required: false
+    - id: 2
+      name: overall_experience
+      label: travel_service_experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: travel_service_satisfaction_survey_form_2
+      label: travel_service_satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option_1'': ''Excellent''}'
+      - '{''option_2'': ''Good''}'
+      - '{''option_3'': ''Fair''}'
+      - '{''option_4'': ''Poor''}'
+      required: false
+    - id: 4
+      name: travel_service_satisfaction_survey_form_3
+      label: travel_service_improvements
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date_survey_completed
+      label: travel_service_survey_completed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_survey_completed
+      label: travel_service_survey_completed_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: name_of_travel_agent
+      label: travel_service_agent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: name_of_travel_agent_2
+      label: travel_service_agent_1
+      hint: null
+      type: text
+      options: []
+      required: false

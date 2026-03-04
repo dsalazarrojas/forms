@@ -1,0 +1,40 @@
+inputSchema:
+  type: object
+  properties:
+    title: Instagram Profile Analysis Request
+    pages:
+    - id: 1
+      name: profile_request
+      label: Request
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email ID
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: profile_url
+      label: Profile URL
+      hint: null
+      type: text
+      options: []
+      required: false

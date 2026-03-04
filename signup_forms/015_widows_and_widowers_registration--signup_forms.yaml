@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: widows_and_widowers_registration
+    pages:
+    - id: 1
+      name: widows_and_widowers_registration
+      label: widows_and_widowers_registration
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_name
+      label: participant_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: organization
+      label: organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: participant_notes
+      label: participant_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: support_services_wanted
+      label: support_services_wanted
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: support_services_other
+      label: support_services_other
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: support_services_other_others
+      label: support_services_other_others
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: how_did_you_hear_about_us
+      label: how_did_you_hear_about_us
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: how_did_you_hear_about_us_other
+      label: how_did_you_hear_about_us_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false

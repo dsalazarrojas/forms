@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: RV Service Check In Form
+    pages:
+    - id: 1
+      name: owner_details
+      label: Owner Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vehicle_info
+      label: Vehicle Info
+      hint: Please enter vehicle details
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: service_requests
+      label: Service Requests
+      hint: null
+      type: select_multiple
+      options:
+      - Oil Change
+      - Tire Rotation
+      - Maintenance Check
+      required: false
+    - id: 4
+      name: check_in_time
+      label: Check In Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: owner_signature
+      label: Owner Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: owner_phone
+      label: Owner Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: owner_email
+      label: Owner Email
+      hint: null
+      type: email
+      options: []
+      required: false

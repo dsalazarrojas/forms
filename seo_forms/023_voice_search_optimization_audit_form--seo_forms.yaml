@@ -1,0 +1,225 @@
+inputSchema:
+  type: object
+  properties:
+    title: Voice Search Optimization Audit Form
+    pages:
+    - id: 1
+      name: website_details
+      label: Website Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: goals
+      label: Goals
+      hint: null
+      type: select_multiple
+      options:
+      - Website Optimization
+      - Voice Search Optimization
+      - SEO Audits
+      required: false
+    - id: 3
+      name: website_readiness
+      label: Website Readiness
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 4
+      name: current_technology
+      label: Current Technology
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Google Search Console
+      - Google Optimize
+      - Bing Webmaster Tools
+      required: false
+    - id: 5
+      name: current_goals
+      label: Current Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: target_audience
+      label: Target Audience
+      hint: null
+      type: select_multiple
+      options:
+      - Users
+      - Businesses
+      - Both
+      required: false
+    - id: 7
+      name: target_language
+      label: Target Language
+      hint: null
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - French
+      - Chinese
+      - Other
+      required: true
+    - id: 8
+      name: additional_notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: website
+      label: Website
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: current_search_engine
+      label: Current Search Engine
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Google
+      - Bing
+      - Amazon
+      required: false
+    - id: 16
+      name: current_audits
+      label: Current Audits
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Google Search Console
+      - Google Optimize
+      - Bing Webmaster Tools
+      required: false
+    - id: 17
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: internal_search_console
+      label: Internal Search Console
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Google Search Console
+      - Google Optimize
+      - Bing Webmaster Tools
+      required: false
+    - id: 19
+      name: sitemap
+      label: Sitemap
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: internal_search_api
+      label: Internal Search API
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Google Search API
+      - Google Optimize API
+      - Bing Webmaster Tools
+      required: false
+    - id: 21
+      name: internal_search_engine_api
+      label: Internal Search Engine API
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Google Search API
+      - Google Optimize API
+      - Bing Webmaster Tools
+      required: false
+    - id: 22
+      name: search_console
+      label: Search Console
+      hint: null
+      type: select_one
+      options:
+      - Google
+      - Bing
+      - None
+      required: true
+    - id: 23
+      name: analytics
+      label: Analytics
+      hint: null
+      type: select_multiple
+      options:
+      - Google
+      - Bing
+      - None
+      required: false
+    - id: 24
+      name: internal_search_report
+      label: Internal Search Report
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 25
+      name: submit_button
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

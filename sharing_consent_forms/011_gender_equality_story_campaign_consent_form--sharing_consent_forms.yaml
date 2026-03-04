@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: gender_equality_story_campaign_consent_form
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: gender_identity
+      label: Gender Identity
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: story_preferences
+      label: Sharing Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: sharing_status
+      label: Sharing Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 6
+      name: story_details
+      label: Story Details
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 7
+      name: submission_tracking
+      label: Submission Tracking
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: sharing_agreement
+      label: Sharing Agreement
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: true
+    - id: 9
+      name: consent
+      label: Consent
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: true
+    - id: 10
+      name: contact_us
+      label: Contact Us
+      hint: null
+      type: text
+      options: []
+      required: false

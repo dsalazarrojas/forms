@@ -1,0 +1,82 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Browser Tab Renaming Extension Request Form
+    pages:
+      - id: 1
+        name: requester_name
+        label: Requester name
+        hint: Name of the person filing the request
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: contact_email
+        label: Contact email
+        hint: Email for status updates
+        type: email
+        options: []
+        required: true
+      - id: 3
+        name: browser_platform
+        label: Browser platform
+        hint: Target platform or browser
+        type: select_one
+        options:
+          - Chrome
+          - Firefox
+          - Edge
+          - Safari
+        required: true
+      - id: 4
+        name: feature_description
+        label: Feature description
+        hint: Describe the desired tab renaming behavior
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: use_cases
+        label: Use cases
+        hint: Typical scenarios where this is needed
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: priority
+        label: Priority
+        hint: Urgency for implementation
+        type: select_one
+        options:
+          - Low
+          - Medium
+          - High
+        required: false
+      - id: 7
+        name: attachment_links
+        label: Attachment links
+        hint: Links to screenshots designs or prototypes
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: follow_up_preference
+        label: Follow up preference
+        hint: Preferred follow up method
+        type: select_one
+        options:
+          - Email
+          - Slack
+          - GitHub issue
+        required: false

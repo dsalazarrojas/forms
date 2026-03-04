@@ -1,0 +1,178 @@
+inputSchema:
+  type: object
+  properties:
+    title: Commit Customer Questionnaire
+    pages:
+    - id: 1
+      name: section_customer_profile
+      label: -- Customer Profile --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_age
+      label: Current Age
+      hint: Required for health assessment
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: customer_gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Female
+      - Male
+      - Prefer not to say
+      required: true
+    - id: 5
+      name: customer_email
+      label: Email Address
+      hint: For follow-up and results delivery
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: customer_phone
+      label: Primary Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: section_health_habits
+      label: -- Health and Lifestyle Habits --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: current_activity_level
+      label: How would you describe your current physical activity level
+      hint: null
+      type: select_one
+      options:
+      - Sedentary (little to no exercise)
+      - Lightly Active (1-2 days/week)
+      - Moderately Active (3-5 days/week)
+      - Very Active (6+ days/week)
+      - Athlete (intense training)
+      required: true
+    - id: 9
+      name: daily_water_intake
+      label: Average Daily Water Intake (in ounces)
+      hint: 1 cup = 8 ounces
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: average_sleep_hours
+      label: Average Hours of Sleep per Night
+      hint: null
+      type: select_one
+      options:
+      - Less than 5 hours
+      - 5-6 hours
+      - 7-8 hours
+      - More than 8 hours
+      required: true
+    - id: 11
+      name: energy_levels
+      label: Rate your average energy levels throughout the day
+      hint: 1 (Lowest) to 10 (Highest)
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: dietary_restrictions
+      label: Any Dietary Restrictions or Allergies
+      hint: e.g., Gluten-free, Vegan, Dairy-free
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: section_goals
+      label: -- Commit Goals --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: primary_health_goal
+      label: What is your primary health or fitness goal
+      hint: Select one
+      type: select_one
+      options:
+      - Weight Loss
+      - Muscle Gain
+      - Improved Endurance
+      - Better Nutrition Habits
+      - Stress Reduction
+      - General Wellness
+      required: true
+    - id: 15
+      name: commitment_level
+      label: On a scale of 1-10, how committed are you to reaching this goal
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: top_challenge
+      label: What is your biggest challenge when it comes to health and fitness
+      hint: e.g., Time, Motivation, Lack of Knowledge
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: section_coaching
+      label: -- Coaching Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: preferred_communication
+      label: Preferred Method of Communication with your Coach
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Text Message
+      - Phone Calls
+      - Video Calls
+      required: true
+    - id: 19
+      name: coaching_style
+      label: What style of coaching do you respond best to
+      hint: null
+      type: select_one
+      options:
+      - Encouraging and Supportive
+      - Direct and No-Nonsense
+      - Data and Results Oriented
+      - Collaborative and Educational
+      required: true
+    - id: 20
+      name: date_completed
+      label: Date Completed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: additional_comments
+      label: Anything else you would like us to know
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Program Member Satisfaction Assessment Form
+    pages:
+    - id: 1
+      name: program_member_satisfaction_assessment_form
+      label: How often do you interact with us?
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Occasionally
+      - Monthly
+      - Weekly
+      - Daily
+      required: false
+    - id: 2
+      name: program_member_satisfaction_level
+      label: How would you rate your level of satisfaction with our program?
+      hint: null
+      type: select_multiple
+      options:
+      - Very dissatisfied
+      - Somewhat dissatisfied
+      - Neutral
+      - Somewhat satisfied
+      - Satisfied
+      - Very satisfied
+      required: false
+    - id: 3
+      name: program_member_suggestions
+      label: What could we improve?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: program_member_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: program_member_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: program_member_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: program_member_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: program_member_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: program_member_rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: program_member_form_submitted
+      label: Form submitted
+      hint: null
+      type: note
+      options: []
+      required: false

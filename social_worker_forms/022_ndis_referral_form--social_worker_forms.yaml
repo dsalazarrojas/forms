@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: NDIS Referral Form
+    pages:
+    - id: 1
+      name: patient_id
+      label: Patient ID
+      hint: Enter patient ID here
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: referral_reason
+      label: Referral Reason
+      hint: Provide a clear description of the referral reason
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: support_requirements
+      label: Support Requirements
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: requested_supports
+      label: Requested Supports
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: submitted_date
+      label: Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: assessor_name
+      label: Assessor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: assessor_phone
+      label: Assessor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: assessor_email
+      label: Assessor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: number
+      options: []
+      required: false

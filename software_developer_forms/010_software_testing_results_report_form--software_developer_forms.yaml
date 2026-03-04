@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: software_testing_results_report_form
+    pages:
+    - id: 1
+      name: project_name
+      label: project_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: test_environment
+      label: test_environment
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''dev''}'
+      - '{''value'': ''prod''}'
+      required: false
+    - id: 3
+      name: release_number
+      label: release_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: test_results
+      label: test_results
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''chatjimmy''}'
+      - '{''value'': ''john_doe''}'
+      required: false
+    - id: 9
+      name: submitted_at
+      label: submitted_at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: updated_at
+      label: updated_at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: created_at
+      label: created_at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: submitted_by
+      label: submitted_by
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''chatjimmy''}'
+      - '{''value'': ''john_doe''}'
+      required: false

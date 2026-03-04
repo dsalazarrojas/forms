@@ -1,0 +1,149 @@
+inputSchema:
+  type: object
+  properties:
+    title: High School Admission Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: parent_name
+      label: Parent Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: parent_contact
+      label: Parent Contact Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: student_first_name
+      label: Student First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: student_last_name
+      label: Student Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: student_birthday
+      label: Student Birthday
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: student_school_last_attended
+      label: School Last Attended
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: student_grade_level
+      label: Student Grade Level
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: contact_first_name
+      label: Contact First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: contact_last_name
+      label: Contact Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: guardian_name
+      label: Guardian Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: guardian_relationship
+      label: Relationship
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Mother''}'
+      - '{''label'': ''Father''}'
+      - '{''label'': ''Guardian''}'
+      - '{''label'': ''Other''}'
+      required: true
+    - id: 16
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: medical_medication
+      label: Medication
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: upload_file1
+      label: Upload a file
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: upload_file2
+      label: Upload another file
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: submit_button
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

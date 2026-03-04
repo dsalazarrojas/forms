@@ -1,0 +1,191 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Best Friend Survey
+    pages:
+      - id: 1
+        name: respondent_name
+        label: Your Name
+        hint: Enter your name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: respondent_email
+        label: Email Address
+        hint: Optional - for receiving results
+        type: email
+        options: []
+        required: false
+      - id: 3
+        name: friend_name
+        label: Your Best Friend Name
+        hint: Who are you thinking about when filling this survey
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: friendship_length
+        label: How Long Have You Been Friends
+        hint: Duration of your friendship
+        type: select_one
+        options:
+          - Less than 6 months
+          - 6 months to 1 year
+          - 1 to 3 years
+          - 3 to 5 years
+          - 5 to 10 years
+          - Over 10 years
+        required: true
+      - id: 5
+        name: how_met
+        label: How Did You Meet
+        hint: Where or how did your friendship begin
+        type: select_one
+        options:
+          - School or University
+          - Work
+          - Through Mutual Friends
+          - Neighborhood
+          - Hobby or Sports Club
+          - Online
+          - Family Connection
+          - Other
+        required: true
+      - id: 6
+        name: friendship_qualities
+        label: Best Qualities of Your Friend
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Loyal
+          - Funny
+          - Supportive
+          - Honest
+          - Caring
+          - Adventurous
+          - Smart
+          - Creative
+          - Reliable
+          - Good Listener
+          - Generous
+          - Easygoing
+        required: true
+      - id: 7
+        name: favorite_activity
+        label: Favorite Activity Together
+        hint: What do you most enjoy doing with your friend
+        type: select_one
+        options:
+          - Going out to eat
+          - Watching movies
+          - Shopping
+          - Exercising or sports
+          - Traveling
+          - Gaming
+          - Just talking
+          - Attending events
+          - Other
+        required: true
+      - id: 8
+        name: communication_frequency
+        label: How Often Do You Communicate
+        hint: Your typical contact frequency
+        type: select_one
+        options:
+          - Daily
+          - Several times a week
+          - Once a week
+          - A few times a month
+          - Once a month
+          - Occasionally
+        required: true
+      - id: 9
+        name: trust_level
+        label: How Much Do You Trust Your Friend
+        hint: Rate your level of trust
+        type: select_one
+        options:
+          - Completely
+          - Very Much
+          - Mostly
+          - Somewhat
+          - Not Really
+        required: true
+      - id: 10
+        name: support_rating
+        label: How Supportive Is Your Friend
+        hint: Rate how supportive they are
+        type: select_one
+        options:
+          - Extremely Supportive
+          - Very Supportive
+          - Supportive
+          - Somewhat Supportive
+          - Not Very Supportive
+        required: true
+      - id: 11
+        name: memorable_moment
+        label: Most Memorable Moment Together
+        hint: Share a special memory
+        type: text
+        options: []
+        required: true
+      - id: 12
+        name: friendship_challenges
+        label: Have You Faced Challenges in Your Friendship
+        hint: How did you handle difficulties
+        type: text
+        options: []
+        required: false
+      - id: 13
+        name: what_admire_most
+        label: What Do You Admire Most About Your Friend
+        hint: What makes them special to you
+        type: text
+        options: []
+        required: true
+      - id: 14
+        name: friendship_impact
+        label: How Has This Friendship Impacted Your Life
+        hint: Describe the positive influence
+        type: text
+        options: []
+        required: true
+      - id: 15
+        name: future_plans
+        label: What Do You Look Forward to with Your Friend
+        hint: Future activities or goals together
+        type: text
+        options: []
+        required: false
+      - id: 16
+        name: friendship_message
+        label: Message to Your Friend
+        hint: Write something you would like them to know
+        type: text
+        options: []
+        required: false
+      - id: 17
+        name: friendship_strength
+        label: How Strong Is Your Friendship
+        hint: Overall rating of your friendship
+        type: select_one
+        options:
+          - Extremely Strong
+          - Very Strong
+          - Strong
+          - Good
+          - Average
+        required: true

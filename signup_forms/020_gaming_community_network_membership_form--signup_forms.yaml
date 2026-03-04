@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gaming Community Network Membership Form
+    pages:
+    - id: 1
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: password
+      label: Password
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: confirm_password
+      label: Confirm Password
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: gaming_experience
+      label: Gaming Experience
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: timezone
+      label: Time Zone
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: timezone_offset
+      label: Time Zone Offset
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: role
+      label: Role
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: timezone_offset_units
+      label: Time Zone Offset Units
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: timezone_offset_minutes
+      label: Time Zone Offset Minutes
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: game_preferences
+      label: What type of games would you play?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

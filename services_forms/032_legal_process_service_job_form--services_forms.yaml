@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Legal Process Service Job Form
+    pages:
+    - id: 1
+      name: legal_process_service_job_form_service_type
+      label: legal_process_service_job_form_service_type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Service Type'', ''value'': ''service_type''}'
+      - '{''label'': ''Service Type'', ''value'': ''service_type''}'
+      - '{''label'': ''Service Type'', ''value'': ''service_type''}'
+      - '{''label'': ''Document Type'', ''value'': ''document_type''}'
+      - '{''label'': ''Document Type'', ''value'': ''document_type''}'
+      required: false
+    - id: 2
+      name: legal_process_service_job_form_client_info
+      label: legal_process_service_job_form_client_info
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Select One'', ''value'': ''one''}'
+      - '{''label'': ''Select Two'', ''value'': ''two''}'
+      - '{''label'': ''Select Three'', ''value'': ''three''}'
+      - '{''label'': ''Select Four'', ''value'': ''four''}'
+      required: false
+    - id: 3
+      name: legal_process_service_job_form_service_details
+      label: legal_process_service_job_form_service_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: legal_process_service_job_form_documents
+      label: legal_process_service_job_form_documents
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Select One'', ''value'': ''one''}'
+      - '{''label'': ''Select Two'', ''value'': ''two''}'
+      required: false
+    - id: 5
+      name: legal_process_service_job_form_payment
+      label: legal_process_service_job_form_payment
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: legal_process_service_job_form_payment_date
+      label: legal_process_service_job_form_payment_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: legal_process_service_job_form_payment_method
+      label: legal_process_service_job_form_payment_method
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,145 @@
+inputSchema:
+  type: object
+  properties:
+    title: ATV Waiver Form Template
+    pages:
+    - id: 1
+      name: participant_information_section
+      label: Participant Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Enter your complete legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: Your birth date in MM/DD/YYYY format
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: address
+      label: Address
+      hint: Current residential address
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: city_state_zip
+      label: City, State, ZIP Code
+      hint: City, state, and postal code of your address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: Primary contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: email_address
+      label: Email Address
+      hint: Current email for event communications
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Name of your emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: emergency_contact_relationship
+      label: Relationship to Emergency Contact
+      hint: Your relationship to the emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number of your emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: medical_conditions
+      label: Medical Conditions or Physical Limitations
+      hint: List any medical conditions or physical limitations that may affect your
+        participation
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: medications
+      label: Medications Currently Taking
+      hint: List any medications you are currently taking
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: allergies
+      label: Allergies
+      hint: List any allergies you have, especially severe ones
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: previous_atv_experience
+      label: Previous ATV Experience
+      hint: Describe your previous experience with ATVs
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: risk_acknowledgment
+      label: Risk Acknowledgment
+      hint: Do you acknowledge that ATV riding involves inherent risks?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: liability_waiver
+      label: Liability Waiver Agreement
+      hint: Do you agree to release the organizers from liability?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: photography_consent
+      label: Photography Consent
+      hint: Do you consent to being photographed during the event?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: signature
+      label: Signature
+      hint: Electronic signature acknowledging agreement to terms
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: signature_date
+      label: Date of Signature
+      hint: Date when you signed the waiver
+      type: date
+      options: []
+      required: true

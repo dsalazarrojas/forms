@@ -1,0 +1,211 @@
+inputSchema:
+  type: object
+  properties:
+    title: Transgender Survey
+    pages:
+    - id: 1
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: gender_id
+      label: gender_id
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-Binary
+      - Genderqueer
+      - Agender
+      - Genderfluid
+      - Two-Spirit
+      - Transgender
+      - Gender Non-Conforming
+      required: false
+    - id: 5
+      name: date_of_trans_history
+      label: date_of_trans_history
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: gender_identity
+      label: gender_identity
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-Binary
+      - Genderqueer
+      - Agender
+      - Genderfluid
+      - Two-Spirit
+      - Transgender
+      - Gender Non-Conforming
+      required: false
+    - id: 7
+      name: medical_condition
+      label: medical_condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: medical_history
+      label: medical_history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: mental_health
+      label: mental_health
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: medical_provider
+      label: medical_provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: medical_insurance_provider
+      label: medical_insurance_provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: medical_insurance
+      label: medical_insurance
+      hint: null
+      type: select_one
+      options:
+      - Medicare
+      - Medicaid
+      - Private Insurance
+      - Self-Pay
+      - Military Insurance
+      - Tricare
+      - None
+      required: false
+    - id: 13
+      name: medical_insurance_status
+      label: medical_insurance_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Pending
+      - None
+      required: false
+    - id: 14
+      name: medical_insurance_group
+      label: medical_insurance_group
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: medical_insurance_group_id
+      label: medical_insurance_group_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: emergency_contact_name
+      label: emergency_contact_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: emergency_contact_relationship
+      label: emergency_contact_relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: emergency_contact_phone
+      label: emergency_contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: emergency_contact_email
+      label: emergency_contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: emergency_contact_address
+      label: emergency_contact_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: patient_signature
+      label: patient_signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: patient_signature_image
+      label: patient_signature_image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: medical_note
+      label: medical_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: medical_note_2
+      label: medical_note_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: medical_note_3
+      label: medical_note_3
+      hint: null
+      type: text
+      options: []
+      required: false

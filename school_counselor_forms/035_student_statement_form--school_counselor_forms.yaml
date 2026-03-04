@@ -1,0 +1,144 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Statement Form
+    pages:
+    - id: 1
+      name: student_statement_form
+      label: what_is_your_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: student_id
+      label: student_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: student_statement
+      label: what_is_your_statement
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: student_statement_other
+      label: additional_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: parent_name
+      label: parent_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: parent_email
+      label: parent_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: student_phone
+      label: student_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: student_statement_other
+      label: other_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: student_statement_other_email
+      label: other_information_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: student_statement_other_phone
+      label: other_information_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: student_statement_other_other
+      label: other_information_other
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 13, ''name'': ''option_1'', ''label'': ''option_1''}'
+      - '{''id'': 14, ''name'': ''option_2'', ''label'': ''option_2''}'
+      - '{''id'': 15, ''name'': ''option_3'', ''label'': ''option_3''}'
+      required: false
+    - id: 13
+      name: student_statement_other_other_other
+      label: other_information_other_other
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 17, ''name'': ''option_1'', ''label'': ''option_1''}'
+      - '{''id'': 18, ''name'': ''option_2'', ''label'': ''option_2''}'
+      - '{''id'': 19, ''name'': ''option_3'', ''label'': ''option_3''}'
+      required: false
+    - id: 14
+      name: student_statement_other_other_other_date
+      label: other_information_other_other_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: student_statement_other_other_other_time
+      label: other_information_other_other_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: student_statement_other_other_other_note
+      label: other_information_other_other_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: student_statement_other_other_other_email
+      label: other_information_other_other_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: student_statement_other_other_other_phone
+      label: other_information_other_other_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: student_statement_other_other_other_note
+      label: other_information_other_other_note
+      hint: null
+      type: note
+      options: []
+      required: false

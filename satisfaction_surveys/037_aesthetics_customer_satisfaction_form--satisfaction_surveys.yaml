@@ -1,0 +1,142 @@
+inputSchema:
+  type: object
+  properties:
+    title: Aesthetics Customer Satisfaction Form
+    pages:
+    - id: 1
+      name: visit_details_header
+      label: -- Visit Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: visit_date
+      label: Date of Visit
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: treatment_received
+      label: Service / Treatment Received
+      hint: Select primary service.
+      type: select_one
+      options:
+      - Injectables (Botox/Filler)
+      - Laser Treatment
+      - Facial / Peel
+      - Body Contouring
+      - Consultation Only
+      required: true
+    - id: 4
+      name: provider_name
+      label: Provider Name
+      hint: Who performed your service?
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: ratings_header
+      label: -- Satisfaction Ratings --
+      hint: Rate from 1 (Very Dissatisfied) to 5 (Very Satisfied).
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: scheduling_ease
+      label: Ease of Scheduling
+      hint: Booking process experience.
+      type: select_one
+      options:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      required: true
+    - id: 7
+      name: staff_friendliness
+      label: Staff Friendliness
+      hint: Reception and nursing staff.
+      type: select_one
+      options:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      required: true
+    - id: 8
+      name: wait_time
+      label: Wait Time
+      hint: Was your appointment on time?
+      type: select_one
+      options:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      required: true
+    - id: 9
+      name: treatment_results
+      label: Satisfaction with Results
+      hint: Did you get the outcome you wanted?
+      type: select_one
+      options:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      required: true
+    - id: 10
+      name: clinic_cleanliness
+      label: Facility Cleanliness
+      hint: Hygiene and atmosphere.
+      type: select_one
+      options:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      required: true
+    - id: 11
+      name: feedback_text_header
+      label: -- Your Feedback --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: favorite_part
+      label: What did you like most?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: improvements
+      label: What could we improve?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: nps_score
+      label: How likely are you to recommend us?
+      hint: 0 (Not likely) to 10 (Very likely).
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: testimonial_permission
+      label: Can we use your feedback as a testimonial?
+      hint: First name only will be used.
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

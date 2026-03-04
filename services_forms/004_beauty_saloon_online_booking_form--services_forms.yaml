@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beauty Saloon Online Booking Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Full Name
+      hint: Please enter your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_email
+      label: Email Address
+      hint: We will send confirmation here
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: customer_phone
+      label: Phone Number
+      hint: Best number to reach you
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: service_type
+      label: Service Type
+      hint: Select the service you want to book
+      type: select_one
+      options:
+      - Haircut and Style
+      - Hair Color - Full
+      - Hair Color - Roots
+      - Highlights
+      - Balayage
+      - Ombre
+      - Perm
+      - Keratin Treatment
+      - Brazilian Blowout
+      - Blowout Only
+      - Updo or Formal Style
+      - Bridal Hair
+      - Hair Extensions Consultation
+      - Men Haircut
+      - Children Haircut
+      required: true
+    - id: 5
+      name: additional_services
+      label: Additional Services
+      hint: Add any additional services
+      type: select_multiple
+      options:
+      - Deep Conditioning Treatment
+      - Scalp Treatment
+      - Hair Gloss
+      - Bang Trim
+      - Style Only
+      - Curls Specialized
+      - Extensions
+      - None
+      required: false
+    - id: 6
+      name: preferred_stylist
+      label: Preferred Stylist
+      hint: Choose your stylist or select any available
+      type: select_one
+      options:
+      - Any Available Stylist
+      - Sarah
+      - Jessica
+      - Maria
+      - Ashley
+      - Jennifer
+      - Amanda
+      - Michelle
+      required: true
+    - id: 7
+      name: appointment_date
+      label: Preferred Date
+      hint: Select your preferred appointment date
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: appointment_time
+      label: Preferred Time
+      hint: Select your preferred time slot
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: first_visit
+      label: Is This Your First Visit
+      hint: Have you been to our salon before
+      type: select_one
+      options:
+      - Yes this is my first visit
+      - No I have been here before
+      required: true
+    - id: 10
+      name: how_heard
+      label: How Did You Hear About Us
+      hint: How did you find out about our salon
+      type: select_one
+      options:
+      - Google Search
+      - Facebook
+      - Instagram
+      - Friend or Family Referral
+      - Walked By
+      - Previous Client
+      - Other
+      required: false
+    - id: 11
+      name: hair_concerns
+      label: Hair Concerns or Goals
+      hint: What are your hair goals or concerns
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: current_hair_color
+      label: Current Hair Color
+      hint: What is your current hair color
+      type: select_one
+      options:
+      - Natural Blonde
+      - Colored Blonde
+      - Natural Brunette
+      - Colored Brunette
+      - Natural Red
+      - Colored Red
+      - Black
+      - Gray or White
+      - Multi-colored
+      required: false
+    - id: 13
+      name: hair_length
+      label: Hair Length
+      hint: Current hair length
+      type: select_one
+      options:
+      - Very Short (Pixie)
+      - Short (Chin length)
+      - Medium (Shoulder length)
+      - Long (Mid-back)
+      - Very Long (Waist or longer)
+      required: false
+    - id: 14
+      name: allergies
+      label: Allergies or Sensitivities
+      hint: Any allergies to hair products
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: special_requests
+      label: Special Requests
+      hint: Any special requests or accommodations
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: reminder_preference
+      label: Reminder Preference
+      hint: How would you like to receive reminders
+      type: select_one
+      options:
+      - Email
+      - Text Message
+      - Phone Call
+      - No Reminders
+      required: true
+    - id: 17
+      name: cancellation_policy
+      label: Cancellation Policy Agreement
+      hint: I understand the 24-hour cancellation policy
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 18
+      name: promotional_emails
+      label: Receive Promotional Emails
+      hint: Would you like to receive special offers
+      type: select_one
+      options:
+      - Yes please
+      - No thank you
+      required: true

@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Veterans Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: middle_initial
+      label: Middle Initial
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: branch_of_service
+      label: Branch of Service
+      hint: null
+      type: select_one
+      options:
+      - Army
+      - Navy
+      - Air Force
+      - Marine Corps
+      - Coast Guard
+      required: false
+    - id: 6
+      name: social_security_number
+      label: Social Security Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date_of_discharge
+      label: Date of Discharge
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: veteran_id_number
+      label: VA ID Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: veteran_status
+      label: Veteran Status
+      hint: null
+      type: select_one
+      options:
+      - Active Duty
+      - Discharge
+      - Medal of Honor Recipient
+      required: true
+    - id: 14
+      name: service_connected_status
+      label: Service Connected Status
+      hint: null
+      type: select_one
+      options:
+      - 100%
+      - Partial
+      - Not Eligible
+      required: false
+    - id: 15
+      name: veteran_status_note
+      label: Veteran Status Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: service_connected_status_note
+      label: Service Connected Status Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: emergency_contact_address
+      label: Emergency Contact Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: emergency_contact_email
+      label: Emergency Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 22
+      name: veteran_status_update
+      label: Veteran Status Update
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: service_connected_status_update
+      label: Service Connected Status Update
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: signature
+      label: Signature
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

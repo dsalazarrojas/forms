@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: kitchen_task_assessment_form
+    pages:
+    - id: 1
+      name: main_page
+      label: main_page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: task_selection
+      label: select_task
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: assessment_scale
+      label: assess_scale
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: submit_button
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false

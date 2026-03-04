@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Resident Satisfaction Survey
+    pages:
+    - id: 1
+      name: resident_satisfaction_survey_form
+      label: Resident Information
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: resident_satisfaction_survey_form_2
+      label: Resident Satisfaction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: resident_satisfaction_survey_form_3
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: resident_satisfaction_survey_form_4
+      label: Resident Satisfaction Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: resident_satisfaction_survey_form_5
+      label: Resident Contact Information
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''label'': 1}'
+      - '{''value'': 2, ''label'': 2}'
+      - '{''value'': 3, ''label'': 3}'
+      required: false
+    - id: 6
+      name: resident_satisfaction_survey_form_6
+      label: Resident Contact Information 2
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': 1}'
+      - '{''value'': 2, ''label'': 2}'
+      required: false
+    - id: 7
+      name: resident_satisfaction_survey_form_7
+      label: Resident Contact Information 3
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''label'': 1}'
+      - '{''value'': 2, ''label'': 2}'
+      required: false
+    - id: 8
+      name: resident_satisfaction_survey_form_8
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: resident_satisfaction_survey_form_9
+      label: Resident Satisfaction Score 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: resident_satisfaction_survey_form_10
+      label: Additional Comments
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': 1}'
+      - '{''value'': 2, ''label'': 2}'
+      required: false

@@ -1,0 +1,133 @@
+inputSchema:
+  type: object
+  properties:
+    title: Return To In Person Learning Survey
+    pages:
+    - id: 1
+      name: school_context
+      label: School Context
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: in_person_interactions
+      label: In Person Interactions
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: teacher_support
+      label: Teacher Support
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Sometimes
+      required: false
+    - id: 4
+      name: teacher_interaction_frequency
+      label: Teacher Interaction Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Less than once a week
+      - Once or twice a week
+      - 3-4 times a week
+      - 5-6 times a week
+      - Almost daily
+      required: false
+    - id: 5
+      name: student_interaction
+      label: Student Interaction
+      hint: null
+      type: select_multiple
+      options:
+      - Rarely
+      - Occasionally
+      - Sometimes
+      - Often
+      - Frequently
+      required: false
+    - id: 6
+      name: class_size
+      label: Class Size
+      hint: null
+      type: select_multiple
+      options:
+      - Small
+      - Medium
+      - Large
+      required: false
+    - id: 7
+      name: peer_help
+      label: Peer Help
+      hint: null
+      type: select_multiple
+      options:
+      - Rarely
+      - Occasionally
+      - Sometimes
+      - Often
+      - Frequently
+      required: false
+    - id: 8
+      name: teacher_availability
+      label: Teacher Availability
+      hint: null
+      type: select_multiple
+      options:
+      - Always
+      - Sometimes
+      - Rarely
+      required: false
+    - id: 9
+      name: teacher_support_quality
+      label: Teacher Support Quality
+      hint: null
+      type: select_one
+      options:
+      - Very High
+      - High
+      - Medium
+      - Low
+      - Very Low
+      required: false
+    - id: 10
+      name: student_support
+      label: Student Support
+      hint: null
+      type: select_one
+      options:
+      - Very High
+      - High
+      - Medium
+      - Low
+      - Very Low
+      required: false
+    - id: 11
+      name: student_learning_outcome
+      label: Student Learning Outcome
+      hint: null
+      type: select_one
+      options:
+      - Very High
+      - High
+      - Medium
+      - Low
+      - Very Low
+      required: false
+    - id: 12
+      name: student_engagement
+      label: Student Engagement
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: false

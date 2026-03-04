@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: In Person Vacation Bible School Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: grade
+      label: Grade
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: Enter your email address
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: Enter your phone number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: parent_first_name
+      label: Parent First Name
+      hint: Enter parent first name
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: parent_last_name
+      label: Parent Last Name
+      hint: Enter parent last name
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: student_grade
+      label: Student Grade
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: emergency_contact_first_name
+      label: Emergency Contact First Name
+      hint: Enter emergency contact first name
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: emergency_contact_last_name
+      label: Emergency Contact Last Name
+      hint: Enter emergency contact last name
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Enter emergency contact phone number
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: emergency_contact_email
+      label: Emergency Contact Email
+      hint: Enter emergency contact email address
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: null
+      type: select_one
+      options:
+      - Mom
+      - Dad
+      - Other
+      - Grandparent
+      - Guardian
+      required: true
+    - id: 14
+      name: emergency_contact_address
+      label: Emergency Contact Address
+      hint: Enter emergency contact address
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: emergency_contact_city
+      label: Emergency Contact City
+      hint: Enter emergency contact city
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: emergency_contact_state
+      label: Emergency Contact State
+      hint: Enter emergency contact state
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: emergency_contact_zip
+      label: Emergency Contact Zip
+      hint: Enter emergency contact zip
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: student_attends_school
+      label: Student Attends School
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 19
+      name: student_attends_school_name
+      label: Student Attends School Name
+      hint: Enter school name
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: student_attends_school_grade
+      label: Student Attends Grade
+      hint: Enter student grade
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: student_attends_school_city
+      label: Student Attends School City
+      hint: Enter school city
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: student_attends_school_state
+      label: Student Attends School State
+      hint: Enter school state
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: student_attends_school_zip
+      label: Student Attends School Zip
+      hint: Enter school zip
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: student_attends_school_county
+      label: Student Attends School County
+      hint: Enter school county
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: comments
+      label: Comments
+      hint: Enter comments if necessary
+      type: note
+      options: []
+      required: false

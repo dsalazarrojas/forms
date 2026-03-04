@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Admission Deferral Request Form
+    pages:
+    - id: 1
+      name: parent_details
+      label: Parent Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: reason_for_deferral
+      label: Reason For Deferral
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: parent_contact
+      label: Parent Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: reason_details
+      label: Reason Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: supporting_docs
+      label: Supporting Documents
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Not Approved
+      - In Progress
+      required: false

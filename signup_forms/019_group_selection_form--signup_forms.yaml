@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Group Selection Form
+    pages:
+    - id: 1
+      name: group_selection_form_page_1
+      label: Group Selection Form
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: group_preferences
+      label: group_presentation_preferences
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: group_preferences
+      label: group_meeting_preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: group_availability
+      label: group_availability
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: group_notes
+      label: group_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: group_email
+      label: group_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: group_phone
+      label: group_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: group_email2
+      label: group_email2
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: group_selection_form_page_2
+      label: Group Selection Form Page 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: group_preferences2
+      label: group_presentation_preferences2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

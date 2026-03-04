@@ -1,0 +1,117 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bike Auto Services Questionnaire
+    pages:
+    - id: 1
+      name: customer_info_header
+      label: -- Customer and Bike Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: bike_make_model
+      label: Bike Make and Model
+      hint: e.g., Trek Domane, Giant Escape
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: bike_type
+      label: Type of Bike
+      hint: null
+      type: select_one
+      options:
+      - Road Bike
+      - Mountain Bike
+      - Hybrid/City Bike
+      - Electric Bike
+      - Other
+      required: true
+    - id: 6
+      name: service_details_header
+      label: -- Service Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: primary_issue
+      label: What is the primary issue with your bike?
+      hint: Describe the main problem you are experiencing
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: services_requested
+      label: Services Requested
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Brake Adjustment
+      - Gear Indexing
+      - Chain Replacement
+      - Tire/Tube Replacement
+      - Full Tune-up
+      - Safety Inspection
+      required: true
+    - id: 9
+      name: noise_description
+      label: Is the bike making any unusual noises?
+      hint: If yes, please describe the sound and where it comes from
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: last_service_date
+      label: When was the bike last serviced?
+      hint: Approximate date is fine
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: urgency_level
+      label: How urgent is this repair?
+      hint: null
+      type: select_one
+      options:
+      - Not Urgent - within a week
+      - Standard - 2-3 days
+      - Urgent - ASAP
+      required: true
+    - id: 12
+      name: budget_estimate
+      label: Estimated Budget for Repairs
+      hint: In your local currency
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: drop_off_date
+      label: Preferred Drop-off Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: additional_comments
+      label: Additional Comments or Instructions
+      hint: null
+      type: text
+      options: []
+      required: false

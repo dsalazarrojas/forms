@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: YoniVaginal Steam Intake Form
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: arrival_time
+      label: Arrive Early
+      hint: Please arrive 15 minutes early for preparation of your service.
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergency_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: emergency_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: service_request
+      label: Service Request
+      hint: null
+      type: select_multiple
+      options:
+      - Steam Service 1
+      - Steam Service 2
+      - Steam Service 3
+      - Steam Service 4
+      - Steam Service 5
+      required: false
+    - id: 12
+      name: service_time
+      label: Service Time
+      hint: null
+      type: time
+      options: []
+      required: false

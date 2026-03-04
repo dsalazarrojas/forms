@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: Veterinary Client Satisfaction Benchmark Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: clinic_name
+      label: Clinic Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_visit
+      label: Date of Visit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time_of_visit
+      label: Time of Visit
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: service_provided
+      label: Service Provided
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: service_level
+      label: Level of Service
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 8
+      name: staff_interactions
+      label: Staff Interactions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 10
+      name: likely_recommend
+      label: Likely Recommend
+      hint: null
+      type: select_one
+      options:
+      - Strongly Agree
+      - Somewhat Agree
+      - Neutral
+      - Somewhat Disagree
+      - Strongly Disagree
+      required: false
+    - id: 11
+      name: likely_recommend_why
+      label: Why Likely Recommend
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: likely_recommend_why_other
+      label: Other (please specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: staff
+      label: Staff
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: doctor
+      label: Doctor
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: nurse
+      label: Nurse
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: receptionist
+      label: Receptionist
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: other_other
+      label: Other (please specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: overall_clinic_rating
+      label: Overall Clinic Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: overall_clinic_rating_why
+      label: Why Overall Clinic Rating?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: overall_clinic_rating_why_other
+      label: Other (please specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: likely_recommend_why
+      label: Why Likely Recommend?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: overall_satisfaction_why
+      label: Why Overall Satisfaction?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: overall_satisfaction_why_other
+      label: Other (please specify)
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,415 @@
+inputSchema:
+  type: object
+  properties:
+    title: Annual Vehicle Inspection Report Form
+    pages:
+    - id: 1
+      name: inspector_name
+      label: Inspector Full Name
+      hint: Person conducting inspection
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: inspector_id
+      label: Inspector ID
+      hint: Certification number
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: shop_name
+      label: Shop Name
+      hint: Inspection facility
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: shop_address
+      label: Shop Address
+      hint: Facility address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: inspection_date
+      label: Inspection Date
+      hint: Date of inspection
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: inspection_year
+      label: Inspection Year
+      hint: Which year?
+      type: select_one
+      options:
+      - 2026
+      - 2025
+      - 2024
+      - 2023
+      required: true
+    - id: 9
+      name: vehicle_owner
+      label: Vehicle Owner
+      hint: Owner name
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: owner_address
+      label: Owner Address
+      hint: Owner address
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: vehicle_make
+      label: Vehicle Make
+      hint: Manufacturer
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: vehicle_model
+      label: Vehicle Model
+      hint: Model name
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: vehicle_year
+      label: Vehicle Year
+      hint: Year of manufacture
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: vin_number
+      label: VIN Number
+      hint: Vehicle identification number
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: license_plate
+      label: License Plate
+      hint: Plate number
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: license_state
+      label: License State
+      hint: State of registration
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: odometer_reading
+      label: Odometer Reading
+      hint: Current mileage
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: vehicle_type
+      label: Vehicle Type
+      hint: Type of vehicle
+      type: select_one
+      options:
+      - Passenger Car
+      - SUV
+      - Truck
+      - Van
+      - Motorcycle
+      - Commercial Vehicle
+      - Trailer
+      - Other
+      required: true
+    - id: 19
+      name: fuel_type
+      label: Fuel Type
+      hint: Type of fuel
+      type: select_one
+      options:
+      - Gasoline
+      - Diesel
+      - Electric
+      - Hybrid
+      - Propane
+      - CNG
+      - Other
+      required: false
+    - id: 20
+      name: brakes_front
+      label: Front Brakes
+      hint: Condition
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      - Failed
+      required: true
+    - id: 21
+      name: brakes_rear
+      label: Rear Brakes
+      hint: Condition
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      - Failed
+      required: true
+    - id: 22
+      name: tires_condition
+      label: Tires Condition
+      hint: Overall condition
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      - Failed
+      required: true
+    - id: 23
+      name: tires_tread_depth
+      label: Tires Tread Depth
+      hint: Minimum depth
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: suspension_steering
+      label: Suspension and Steering
+      hint: Condition
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      - Failed
+      required: true
+    - id: 25
+      name: exhaust_system
+      label: Exhaust System
+      hint: Condition
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      - Failed
+      required: true
+    - id: 26
+      name: lighting_equipment
+      label: Lighting Equipment
+      hint: Condition
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      - Failed
+      required: true
+    - id: 27
+      name: windshield_windows
+      label: Windshield and Windows
+      hint: Condition
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      - Failed
+      required: true
+    - id: 28
+      name: mirrors
+      label: Mirrors
+      hint: Condition
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      - Failed
+      required: true
+    - id: 29
+      name: wipers
+      label: Wipers
+      hint: Condition
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      - Failed
+      required: true
+    - id: 30
+      name: horn
+      label: Horn
+      hint: Condition
+      type: select_one
+      options:
+      - Working
+      - Not Working
+      required: true
+    - id: 31
+      name: seat_belts
+      label: Seat Belts
+      hint: Condition
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      - Failed
+      required: true
+    - id: 32
+      name: airbags
+      label: Airbags
+      hint: Status
+      type: select_one
+      options:
+      - Functional
+      - Warning Light On
+      - Not Equipped
+      required: true
+    - id: 33
+      name: fuel_system
+      label: Fuel System
+      hint: Condition
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      - Failed
+      required: true
+    - id: 34
+      name: engine_condition
+      label: Engine Condition
+      hint: Overall condition
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      - Failed
+      required: true
+    - id: 35
+      name: transmission
+      label: Transmission
+      hint: Condition
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      - Failed
+      required: true
+    - id: 36
+      name: emissions_test
+      label: Emissions Test
+      hint: Result
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      - Not Required
+      - Not Tested
+      required: true
+    - id: 37
+      name: safety_inspection
+      label: Safety Inspection
+      hint: Result
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      required: true
+    - id: 38
+      name: defects_noted
+      label: Defects Noted
+      hint: List any defects
+      type: text
+      options: []
+      required: false
+    - id: 39
+      name: repairs_recommended
+      label: Repairs Recommended
+      hint: Suggested repairs
+      type: text
+      options: []
+      required: false
+    - id: 40
+      name: estimated_repair_cost
+      label: Estimated Repair Cost
+      hint: If applicable
+      type: number
+      options: []
+      required: false
+    - id: 41
+      name: overall_result
+      label: Overall Result
+      hint: Pass or fail
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      - Conditional Pass
+      required: true
+    - id: 42
+      name: sticker_issued
+      label: Sticker Issued
+      hint: Was sticker issued?
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Applicable
+      required: true
+    - id: 43
+      name: sticker_expiration
+      label: Sticker Expiration
+      hint: When does it expire?
+      type: date
+      options: []
+      required: false
+    - id: 44
+      name: next_inspection_due
+      label: Next Inspection Due
+      hint: When is next due?
+      type: date
+      options: []
+      required: true
+    - id: 45
+      name: inspector_signature
+      label: Inspector Signature
+      hint: Type name to sign
+      type: text
+      options: []
+      required: true
+    - id: 46
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

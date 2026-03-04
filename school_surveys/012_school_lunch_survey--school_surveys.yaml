@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Lunch Survey
+    pages:
+    - id: 1
+      name: school_lunch_survey
+      label: School Lunch Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: how_satisfied
+      label: How Satisfied Are You
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      required: false
+    - id: 3
+      name: food_quality
+      label: Food Quality
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 4
+      name: menu_selection
+      label: Menu Selection
+      hint: null
+      type: select_multiple
+      options:
+      - Vegetarian
+      - Non-vegetarian
+      - Omnivore
+      required: false
+    - id: 5
+      name: school_lunch_frequency
+      label: School Lunch Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: lunch_break_time
+      label: Lunch Break Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: school_meals
+      label: School Meals
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: lunch_cost
+      label: Lunch Cost
+      hint: null
+      type: select_multiple
+      options:
+      - Affordable
+      - Unaffordable
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false

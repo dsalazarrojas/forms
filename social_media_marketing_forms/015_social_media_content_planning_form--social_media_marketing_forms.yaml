@@ -1,0 +1,62 @@
+inputSchema:
+  type: object
+  properties:
+    title: Social Media Content Planning Form
+    pages:
+    - id: 1
+      name: post_type
+      label: Post type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: target_audience
+      label: Target audience
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: content_type
+      label: Content type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: platforms
+      label: Platforms
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: content_details
+      label: Content details
+      hint: A detailed description of the post or campaign.
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: start_date
+      label: Start date
+      hint: Choose a start date for the post or campaign.
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: end_date
+      label: End date
+      hint: Choose an end date for the post or campaign.
+      type: date
+      options: []
+      required: false

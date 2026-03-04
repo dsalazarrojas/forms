@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: Spa Service Quote Request
+    pages:
+    - id: 1
+      name: spa_details
+      label: Spa Details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: service_price
+      label: Service Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: spa_name
+      label: Spa Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: spa_address
+      label: Spa Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: text
+      options: []
+      required: false

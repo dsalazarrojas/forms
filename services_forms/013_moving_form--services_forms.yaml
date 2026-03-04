@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: moving_form
+    pages:
+    - id: 1
+      name: moving_description
+      label: moving_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: moving_address
+      label: moving_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: moving_type
+      label: moving_type
+      hint: null
+      type: select_one
+      options:
+      - Local
+      - Long Distance
+      - International
+      required: false
+    - id: 4
+      name: square_footage
+      label: square_footage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: moving_date
+      label: moving_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: moving_weight
+      label: moving_weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: moving_phone
+      label: moving_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: moving_email
+      label: moving_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: moving_note
+      label: moving_note
+      hint: null
+      type: note
+      options: []
+      required: false

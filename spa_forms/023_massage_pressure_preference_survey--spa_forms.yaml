@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Massage Pressure Preference Survey
+    pages:
+    - id: 1
+      name: massage_pressure_preference
+      label: Massage Pressure Preference
+      hint: null
+      type: select_one
+      options:
+      - Gentle
+      - Moderate
+      - Firm
+      required: false
+    - id: 2
+      name: preferred_massage_pressure
+      label: Preferred Massage Pressure
+      hint: null
+      type: select_multiple
+      options:
+      - Light
+      - Medium
+      - Heavy
+      required: false
+    - id: 3
+      name: massage_duration
+      label: Massage Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: time_between_massages
+      label: Time Between Massages
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: massage_freq
+      label: Massage Frequency
+      hint: null
+      type: select_one
+      options:
+      - Every Day
+      - Every Other Day
+      - Every Week
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pet Sitter Feedback Form
+    pages:
+    - id: 1
+      name: visit_details
+      label: Visit Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rating_score
+      label: rating_score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: rating_service_quality
+      label: Rating 2 Service Quality
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Bad
+      required: false
+    - id: 6
+      name: rating_service_attentiveness
+      label: Rating 2 Service Attentiveness
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Bad
+      required: false
+    - id: 7
+      name: service_rating_3
+      label: Rating 3 Service Quality
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Bad
+      required: false
+    - id: 8
+      name: service_rating_3_1
+      label: Rating 3.1 Service Quality
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Excellent
+      - Fair
+      required: false
+    - id: 9
+      name: service_rating_3_1_1
+      label: Rating 3.1.1 Service Quality
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Fair
+      required: false
+    - id: 10
+      name: rating_service_quality_1
+      label: Rating 1 Service Quality
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Bad
+      required: false

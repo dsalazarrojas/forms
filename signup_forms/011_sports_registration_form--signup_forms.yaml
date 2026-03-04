@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sports Registration Form.
+    pages:
+    - id: 1
+      name: program_information
+      label: program_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: athlete_details
+      label: athlete_details
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: position_preferred
+      label: position_preferred
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Catcher''}'
+      - '{''id'': 2, ''label'': ''Pitcher''}'
+      - '{''id'': 3, ''label'': ''Shortstop''}'
+      - '{''id'': 4, ''label'': ''Second_base''}'
+      - '{''id'': 5, ''label'': ''Third_base''}'
+      - '{''id'': 6, ''label'': ''First_base''}'
+      - '{''id'': 7, ''label'': ''Outfielder''}'
+      required: true
+    - id: 4
+      name: guardian_contact
+      label: guardian_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: terms_and_conditions
+      label: terms_and_conditions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: consent
+      label: consent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: athlete_position
+      label: athlete_position
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Pitcher''}'
+      - '{''id'': 2, ''label'': ''Catcher''}'
+      - '{''id'': 3, ''label'': ''Outfielder''}'
+      - '{''id'': 4, ''label'': ''Shortstop''}'
+      - '{''id'': 5, ''label'': ''First_base''}'
+      - '{''id'': 6, ''label'': ''Second_base''}'
+      - '{''id'': 7, ''label'': ''Third_base''}'
+      required: true
+    - id: 8
+      name: athlete_height
+      label: athlete_height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: athlete_weight
+      label: athlete_weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: guardian_relationship
+      label: guardian_relationship
+      hint: null
+      type: text
+      options: []
+      required: false

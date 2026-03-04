@@ -1,0 +1,166 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Food Program Newsletter Signup
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: Your legal first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: Your legal last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: For newsletter delivery
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: zip_code
+      label: ZIP Code
+      hint: Your ZIP code
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: household_size
+      label: Household Size
+      hint: Number of people in household
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: children_count
+      label: Number of Children
+      hint: Children under 18 in household
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: signup_reason
+      label: Reason for Signup
+      hint: Why are you signing up?
+      type: select_one
+      options:
+      - Interested in Food Programs
+      - Need Food Assistance
+      - Want to Volunteer
+      - Want to Donate
+      - General Interest
+      - Community Partner
+      required: true
+    - id: 8
+      name: program_interest
+      label: Programs of Interest
+      hint: Select programs you want to learn about
+      type: select_multiple
+      options:
+      - Food Pantry
+      - Community Fridge
+      - Meal Delivery
+      - Senior Food Program
+      - School Breakfast Program
+      - Summer Food Program
+      - Cooking Classes
+      - Nutrition Education
+      required: true
+    - id: 9
+      name: newsletter_frequency
+      label: Preferred Newsletter Frequency
+      hint: How often should we send updates?
+      type: select_one
+      options:
+      - Weekly
+      - Bi-Weekly
+      - Monthly
+      - Quarterly
+      required: true
+    - id: 10
+      name: volunteer_interest
+      label: Interested in Volunteering
+      hint: Would you like to volunteer?
+      type: select_one
+      options:
+      - Yes, Definitely
+      - Maybe
+      - false
+      required: true
+    - id: 11
+      name: volunteer_availability
+      label: Volunteer Availability
+      hint: When could you volunteer?
+      type: select_multiple
+      options:
+      - Weekday Mornings
+      - Weekday Afternoons
+      - Weekday Evenings
+      - Weekend Mornings
+      - Weekend Afternoons
+      - Weekend Evenings
+      required: false
+    - id: 12
+      name: donation_interest
+      label: Interested in Donating
+      hint: Would you like to donate?
+      type: select_one
+      options:
+      - Yes, Regularly
+      - Yes, Occasionally
+      - Maybe
+      - false
+      required: true
+    - id: 13
+      name: donation_type
+      label: Preferred Donation Type
+      hint: How would you like to contribute?
+      type: select_multiple
+      options:
+      - Monetary Donation
+      - Food Donation
+      - Time Donation
+      - In-Kind Services
+      required: false
+    - id: 14
+      name: dietary_needs
+      label: Dietary Needs or Restrictions
+      hint: Any specific dietary requirements?
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: accessibility_needs
+      label: Accessibility Needs
+      hint: Do you require accommodations?
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: referral_source
+      label: How Did You Hear About Us
+      hint: Where did you learn about us?
+      type: select_one
+      options:
+      - Website
+      - Social Media
+      - Friend or Family
+      - Community Organization
+      - School
+      - Healthcare Provider
+      - Other
+      required: false
+    - id: 17
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

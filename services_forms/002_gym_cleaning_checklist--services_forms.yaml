@@ -1,0 +1,68 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Gym Cleaning Checklist
+    pages:
+    - id: 1
+      name: fitness_center_info
+      label: Fitness Center Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: facilities
+      label: Facilities
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Locker Rooms'', ''text'': ''Locker Rooms''}'
+      - '{''value'': ''Showering Areas'', ''text'': ''Showering Areas''}'
+      - '{''value'': ''Sauna'', ''text'': ''Sauna''}'
+      - '{''value'': ''Restrooms'', ''text'': ''Restrooms''}'
+      - '{''value'': ''Exercise Rooms'', ''text'': ''Exercise Rooms''}'
+      required: false
+    - id: 3
+      name: equipment
+      label: Equipment
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Treadmill'', ''text'': ''Treadmill''}'
+      - '{''value'': ''Exercise Bike'', ''text'': ''Exercise Bike''}'
+      - '{''value'': ''Weights'', ''text'': ''Weights''}'
+      - '{''value'': ''Resistance Machines'', ''text'': ''Resistance Machines''}'
+      required: false
+    - id: 4
+      name: cleaning_frequency
+      label: Cleaning Frequency
+      hint: How frequently should the gym be cleaned?
+      type: select_one
+      options:
+      - '{''value'': ''Daily'', ''text'': ''Daily''}'
+      - '{''value'': ''Weekly'', ''text'': ''Weekly''}'
+      - '{''value'': ''Monthly'', ''text'': ''Monthly''}'
+      - '{''value'': ''Quarterly'', ''text'': ''Quarterly''}'
+      - '{''value'': ''Yearly'', ''text'': ''Yearly''}'
+      required: false
+    - id: 5
+      name: cleaning_standards
+      label: Cleaning Standards
+      hint: What cleaning standards are to be followed?
+      type: select_multiple
+      options:
+      - '{''value'': ''Sanitation'', ''text'': ''Sanitation''}'
+      - '{''value'': ''Hygiene'', ''text'': ''Hygiene''}'
+      - '{''value'': ''Organization'', ''text'': ''Organization''}'
+      required: false

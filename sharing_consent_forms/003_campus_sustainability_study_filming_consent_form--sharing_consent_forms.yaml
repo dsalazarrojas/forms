@@ -1,0 +1,101 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Campus Sustainability Study Filming Consent Form
+    pages:
+      - id: 1
+        name: consent_intro
+        label: -- Filming Consent --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: participant_name
+        label: Participant Name
+        hint: Full legal name of participant
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: participant_email
+        label: Participant Email
+        hint: Email to receive consent copy
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: affiliation
+        label: Affiliation
+        hint: Student, faculty, staff, or community member
+        type: text
+        options: []
+        required: false
+      - id: 5
+        name: project_description
+        label: Project Description
+        hint: Brief description of the filming purpose
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: recording_date
+        label: Recording Date
+        hint: Date when filming will occur
+        type: date
+        options: []
+        required: true
+      - id: 7
+        name: usage_rights
+        label: Usage Rights
+        hint: Select allowed uses of the footage
+        type: select_multiple
+        options:
+          - Research only
+          - Educational presentations
+          - Public outreach and website
+          - Media and promotional materials
+        required: true
+      - id: 8
+        name: compensation
+        label: Compensation or Incentive
+        hint: State if participant will be compensated
+        type: select_one
+        options:
+          - No compensation
+          - Monetary compensation
+          - Gift card or voucher
+          - Other
+        required: false
+      - id: 9
+        name: confidentiality_measures
+        label: Confidentiality Measures
+        hint: Describe how personal data will be protected
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: consent_signature
+        label: Consent Signature Name
+        hint: Type your name to indicate consent
+        type: text
+        options: []
+        required: true
+      - id: 11
+        name: consent_date
+        label: Consent Date
+        hint: Date consent was given
+        type: date
+        options: []
+        required: true

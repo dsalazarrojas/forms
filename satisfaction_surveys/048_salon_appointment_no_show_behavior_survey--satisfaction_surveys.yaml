@@ -1,0 +1,226 @@
+inputSchema:
+  type: object
+  properties:
+    title: Salon Appointment No Show Behavior Survey
+    pages:
+    - id: 1
+      name: salon_appointment_no_show_behavior_survey_page_1
+      label: What happened
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: salon_appointment_no_show_survey_page_2
+      label: Why did not show
+      hint: null
+      type: select_multiple
+      options:
+      - No Show - Rescheduled
+      - No Show - Emergency
+      - No Show - Other
+      required: false
+    - id: 3
+      name: salon_appointment_no_show_survey_page_3
+      label: Reason for no show
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: salon_appointment_no_show_survey_page_4
+      label: How likely do you think you will show
+      hint: null
+      type: select_one
+      options:
+      - 1 - Not at all
+      - 2 - Somewhat
+      - 3 - Very Likely
+      - 4 - Extremely Likely
+      required: false
+    - id: 5
+      name: salon_appointment_no_show_survey_page_5
+      label: Would you like to reschedule?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 6
+      name: salon_appointment_no_show_survey_page_6
+      label: How many times have you missed an appointment?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: salon_appointment_no_show_survey_page_7
+      label: What is your preferred reschedule time frame
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: salon_appointment_no_show_survey_page_8
+      label: How often do you usually show
+      hint: null
+      type: select_one
+      options:
+      - 1 - Never
+      - 2 - Rarely
+      - 3 - Occasionally
+      - 4 - Often
+      - 5 - Always
+      required: false
+    - id: 9
+      name: salon_appointment_no_show_survey_page_9
+      label: What day do you usually arrive for appointments
+      hint: null
+      type: select_one
+      options:
+      - 1 - Morning
+      - 2 - Afternoon
+      - 3 - Evening
+      - 4 - Other
+      required: false
+    - id: 10
+      name: salon_appointment_no_show_survey_page_10
+      label: How long do you usually stay
+      hint: null
+      type: select_multiple
+      options:
+      - 30 minutes - 1 hour
+      - 1 hour - 2 hours
+      - 1 hour - 3 hours
+      - 30 minutes - Other
+      - Other - 45 minutes
+      required: false
+    - id: 11
+      name: salon_appointment_no_show_survey_page_11
+      label: How often do you book last minute
+      hint: null
+      type: select_multiple
+      options:
+      - 1 - Never
+      - 2 - Rarely
+      - 3 - Occasionally
+      - 4 - Often
+      required: false
+    - id: 12
+      name: salon_appointment_no_show_survey_page_12
+      label: How often do you cancel last minute
+      hint: null
+      type: select_multiple
+      options:
+      - 1 - Never
+      - 2 - Rarely
+      - 3 - Occasionally
+      - 4 - Often
+      required: false
+    - id: 13
+      name: salon_appointment_no_show_survey_page_13
+      label: How many appointments do you usually have per week
+      hint: null
+      type: select_one
+      options:
+      - 1 - 1
+      - 2 - 2
+      - 3 - 3
+      - 4 - 4 or more
+      required: false
+    - id: 14
+      name: salon_appointment_no_show_survey_page_14
+      label: How many minutes do you arrive early
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: salon_appointment_no_show_survey_page_15
+      label: How many minutes do you arrive late
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: salon_appointment_no_show_survey_page_16
+      label: What time do you usually arrive for appointments
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: salon_appointment_no_show_survey_page_17
+      label: How long do you usually stay
+      hint: null
+      type: select_multiple
+      options:
+      - 30 minutes - 1 hour
+      - 1 hour - 2 hours
+      - 1 hour - 3 hours
+      - 30 minutes - Other
+      - Other - 45 minutes
+      required: false
+    - id: 18
+      name: salon_appointment_no_show_survey_page_18
+      label: What time do you usually leave
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: salon_appointment_no_show_survey_page_19
+      label: How long do you usually take for services
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: salon_appointment_no_show_survey_page_20
+      label: What time do you usually take your first service
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: salon_appointment_no_show_survey_page_21
+      label: What time do you usually take your last service
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: salon_appointment_no_show_survey_page_22
+      label: Do you like to be on time?
+      hint: null
+      type: select_one
+      options:
+      - 1 - Yes
+      - 2 - No
+      required: false
+    - id: 23
+      name: salon_appointment_no_show_survey_page_23
+      label: Do you like being early?
+      hint: null
+      type: select_one
+      options:
+      - 1 - Yes
+      - 2 - No
+      required: false
+    - id: 24
+      name: salon_appointment_no_show_survey_page_24
+      label: Do you like being late?
+      hint: null
+      type: select_one
+      options:
+      - 1 - Yes
+      - 2 - No
+      required: false
+    - id: 25
+      name: salon_appointment_no_show_survey_page_25
+      label: Additional comments
+      hint: null
+      type: text
+      options: []
+      required: false

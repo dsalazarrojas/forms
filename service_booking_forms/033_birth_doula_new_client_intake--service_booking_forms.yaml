@@ -1,0 +1,294 @@
+inputSchema:
+  type: object
+  properties:
+    title: Birth Doula New Client Intake
+    pages:
+    - id: 1
+      name: section_welcome
+      label: -- Welcome New Client --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: welcome_message
+      label: Thank you for choosing our doula services
+      hint: We're excited to support your birth
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: section_client_details
+      label: -- Client Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: client_name
+      label: Full Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: client_phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: client_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: partner_info
+      label: Partner Name and Phone
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: section_maternity
+      label: -- Maternity Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: due_date
+      label: Due Date
+      hint: Expected birth date
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: weeks_gestation
+      label: Weeks of Gestation
+      hint: How many weeks pregnant
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: pregnancy_count
+      label: Pregnancy Number
+      hint: First, second, etc.
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: birth_count
+      label: Number of Previous Births
+      hint: Parity
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: section_medical_info
+      label: -- Medical Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: obstetrician_name
+      label: Obstetrician or Midwife Name
+      hint: Your provider
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: healthcare_facility
+      label: Healthcare Facility or Hospital
+      hint: Where you will give birth
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: pregnancy_risk_status
+      label: Pregnancy Risk Status
+      hint: Low-risk or high-risk pregnancy
+      type: select_one
+      options:
+      - Low-Risk
+      - Moderate Risk
+      - High-Risk
+      - Undetermined
+      required: true
+    - id: 17
+      name: medical_history_brief
+      label: Brief Medical History
+      hint: Any relevant health issues
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: section_birth_preferences
+      label: -- Birth Preferences and Philosophy --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: birth_philosophy
+      label: Your Birth Philosophy
+      hint: Describe your ideal birth experience
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: pain_coping_methods
+      label: Preferred Pain Coping Methods
+      hint: Natural or medical approaches
+      type: select_multiple
+      options:
+      - Breathing Techniques
+      - Movement and Position
+      - Massage
+      - Hydrotherapy
+      - Continuous Support
+      - Epidural
+      - Other Medical Pain Relief
+      required: true
+    - id: 21
+      name: intervention_comfort_level
+      label: Comfort Level with Medical Interventions
+      hint: How open are you to interventions
+      type: select_one
+      options:
+      - Prefer Natural Birth
+      - Open to Some Interventions
+      - Open to Necessary Interventions
+      - Comfortable with Medical Management
+      required: true
+    - id: 22
+      name: birth_team_composition
+      label: Who Will Be in Your Birth Team
+      hint: Family, partner, friends present
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: cultural_or_spiritual_needs
+      label: Cultural or Spiritual Needs
+      hint: Any special considerations
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: section_doula_engagement
+      label: -- Doula Engagement Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: doula_certification_importance
+      label: Important Considerations for Doula
+      hint: What matters most to you
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: first_time_doula_client
+      label: Is This Your First Time Working with a Doula
+      hint: Previous doula experience
+      type: select_one
+      options:
+      - Yes, First Time
+      - No, Used Doula Before
+      required: true
+    - id: 27
+      name: doula_expectations
+      label: Your Expectations for the Doula
+      hint: What do you hope the doula provides
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: support_duration
+      label: Desired Support Duration
+      hint: When doula arrives and leaves
+      type: select_one
+      options:
+      - Latent Labor Through Early Postpartum
+      - Active Labor Through Birth
+      - Flexible Schedule
+      - Full Continuous Support
+      required: true
+    - id: 29
+      name: section_logistics
+      label: -- Service Logistics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 30
+      name: start_date_preference
+      label: Preferred Date to Begin Doula Services
+      hint: When would you like to start
+      type: date
+      options: []
+      required: false
+    - id: 31
+      name: postpartum_support_interest
+      label: Interest in Postpartum Support
+      hint: Support after birth
+      type: select_one
+      options:
+      - Yes, Interested
+      - false
+      - Maybe
+      required: false
+    - id: 32
+      name: postpartum_duration
+      label: Postpartum Support Duration
+      hint: How long postpartum support
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: scheduling_flexibility
+      label: Scheduling Flexibility
+      hint: Your availability for prenatal meetings
+      type: select_one
+      options:
+      - Very Flexible
+      - Somewhat Flexible
+      - Limited Flexibility
+      - Very Limited
+      required: true
+    - id: 34
+      name: section_questions
+      label: -- Questions and Concerns --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 35
+      name: questions_for_doula
+      label: Questions for Your Doula
+      hint: Anything you want to know
+      type: text
+      options: []
+      required: false
+    - id: 36
+      name: special_considerations
+      label: Special Considerations or Concerns
+      hint: Anything important we should know
+      type: text
+      options: []
+      required: false
+    - id: 37
+      name: consent_follow_up
+      label: Permission to Follow-up and Discuss Details
+      hint: May we contact you to discuss
+      type: select_one
+      options:
+      - Yes, Please Follow Up
+      - No, I Will Contact You
+      required: true

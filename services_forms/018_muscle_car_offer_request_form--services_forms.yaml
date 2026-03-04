@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Muscle Car Offer Request Form
+    pages:
+    - id: 1
+      name: make
+      label: muscle_car_make
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: model
+      label: muscle_car_model
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: year
+      label: muscle_car_year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: description
+      label: muscle_car_description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: offer_type
+      label: offer_type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 6
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: offer_message
+      label: offer_message
+      hint: null
+      type: text
+      options: []
+      required: true

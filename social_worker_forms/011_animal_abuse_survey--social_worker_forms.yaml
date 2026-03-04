@@ -1,0 +1,210 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Animal Abuse Survey
+    pages:
+    - id: 1
+      name: respondent_type
+      label: What is your role or profession
+      hint: Select the option that best describes you
+      type: select_one
+      options:
+      - Social worker
+      - Animal control officer
+      - Veterinarian or vet tech
+      - Law enforcement
+      - Animal shelter worker
+      - Concerned citizen
+      - Researcher or academic
+      - Other
+      required: true
+    - id: 2
+      name: years_experience
+      label: Years of Experience in Field
+      hint: How long have you worked in this field
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-3 years
+      - 4-7 years
+      - 8-15 years
+      - More than 15 years
+      - Not applicable
+      required: true
+    - id: 3
+      name: survey_purpose
+      label: Purpose of This Survey
+      hint: This survey collects data on animal abuse awareness and reporting
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: encountered_abuse
+      label: Have you personally encountered suspected animal abuse
+      hint: In your professional or personal capacity
+      type: select_one
+      options:
+      - Yes - multiple times
+      - Yes - once or twice
+      - No - never
+      - Unsure
+      required: true
+    - id: 5
+      name: abuse_types_witnessed
+      label: What types of abuse or neglect have you witnessed
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Physical abuse
+      - Emotional or psychological abuse
+      - Neglect - lack of food or water
+      - Neglect - lack of shelter
+      - Neglect - lack of veterinary care
+      - Hoarding situations
+      - Organized animal fighting
+      - Abandonment
+      - None
+      required: false
+    - id: 6
+      name: reporting_frequency
+      label: How often do you report suspected animal abuse
+      hint: Reporting behavior
+      type: select_one
+      options:
+      - Always report
+      - Usually report
+      - Sometimes report
+      - Rarely report
+      - Never report
+      required: true
+    - id: 7
+      name: reporting_barriers
+      label: What barriers prevent you from reporting
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Lack of evidence
+      - Fear of retaliation
+      - Unclear reporting process
+      - Belief that nothing will be done
+      - Relationship with owner
+      - Cultural considerations
+      - No barriers - always report
+      - Other
+      required: false
+    - id: 8
+      name: knowledge_of_laws
+      label: How knowledgeable are you about animal protection laws in your area
+      hint: Self-assessment of legal knowledge
+      type: select_one
+      options:
+      - Very knowledgeable
+      - Somewhat knowledgeable
+      - Neutral
+      - Not very knowledgeable
+      - Not knowledgeable at all
+      required: true
+    - id: 9
+      name: training_received
+      label: Have you received training on identifying animal abuse
+      hint: Professional training
+      type: select_one
+      options:
+      - Yes - comprehensive training
+      - Yes - basic training
+      - No - but interested
+      - No - not interested
+      required: true
+    - id: 10
+      name: training_topics
+      label: What training topics would be most helpful
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Recognizing signs of abuse
+      - Documentation techniques
+      - Legal procedures
+      - Interviewing techniques
+      - Interagency collaboration
+      - Self-care and burnout prevention
+      - Not applicable
+      required: false
+    - id: 11
+      name: agency_response
+      label: How would you rate the response from authorities when abuse is reported
+      hint: Effectiveness of response
+      type: select_one
+      options:
+      - Excellent - always effective
+      - Good - usually effective
+      - Fair - sometimes effective
+      - Poor - rarely effective
+      - Very poor - never effective
+      - Have not reported
+      required: false
+    - id: 12
+      name: link_awareness
+      label: Are you aware of the link between animal abuse and domestic violence
+      hint: Knowledge of the connection
+      type: select_one
+      options:
+      - Yes - very aware
+      - Somewhat aware
+      - No - not aware
+      required: true
+    - id: 13
+      name: coordination_services
+      label: Does your agency coordinate with animal welfare organizations
+      hint: Interagency cooperation
+      type: select_one
+      options:
+      - Yes - formal partnership
+      - Yes - informal cooperation
+      - No - but interested
+      - No - not applicable
+      required: false
+    - id: 14
+      name: emotional_impact
+      label: How does dealing with animal abuse cases affect you emotionally
+      hint: Personal impact
+      type: select_one
+      options:
+      - Significant impact - very difficult
+      - Moderate impact - challenging
+      - Mild impact - manageable
+      - Minimal impact
+      - No significant impact
+      required: false
+    - id: 15
+      name: support_needed
+      label: What support would help you address animal abuse more effectively
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - More training
+      - Clearer legal guidelines
+      - Better interagency coordination
+      - More resources for victims
+      - Mental health support
+      - Public awareness campaigns
+      - Stronger penalties
+      - Other
+      required: false
+    - id: 16
+      name: additional_comments
+      label: Additional Comments or Observations
+      hint: Any other insights you would like to share
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,234 @@
+inputSchema:
+  type: object
+  properties:
+    title: Book Exchange Swap Membership Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: We will send swap updates here
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: For coordination
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: Street Address
+      hint: Your home address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: city
+      label: City
+      hint: Your city
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: state
+      label: State
+      hint: Your state
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: zip_code
+      label: ZIP Code
+      hint: Your ZIP code
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: membership_type
+      label: Membership Type
+      hint: Select your membership preference
+      type: select_one
+      options:
+      - Local Swap Only
+      - Mail Exchange
+      - Both Local and Mail
+      - Virtual Swap
+      required: true
+    - id: 10
+      name: favorite_genres
+      label: Favorite Book Genres
+      hint: Select genres you enjoy
+      type: select_multiple
+      options:
+      - Fiction
+      - Mystery
+      - Thriller
+      - Romance
+      - Science Fiction
+      - Fantasy
+      - Historical Fiction
+      - Non-Fiction
+      - Biography
+      - Self-Help
+      - Classic Literature
+      - Young Adult
+      - Children Books
+      required: true
+    - id: 11
+      name: books_available
+      label: Number of Books You Can Swap
+      hint: How many books can you offer
+      type: select_one
+      options:
+      - 1-5 books
+      - 6-10 books
+      - 11-20 books
+      - 21-50 books
+      - Over 50 books
+      required: true
+    - id: 12
+      name: book_titles_available
+      label: List of Books You Can Swap
+      hint: List titles and authors
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: book_condition
+      label: Typical Condition of Your Books
+      hint: Select the typical condition
+      type: select_one
+      options:
+      - Like New
+      - Very Good
+      - Good
+      - Fair
+      - Mixed Conditions
+      required: true
+    - id: 14
+      name: seeking_genres
+      label: Genres You Are Seeking
+      hint: What genres do you want to receive
+      type: select_multiple
+      options:
+      - Fiction
+      - Mystery
+      - Thriller
+      - Romance
+      - Science Fiction
+      - Fantasy
+      - Historical Fiction
+      - Non-Fiction
+      - Biography
+      - Self-Help
+      - Classic Literature
+      - Young Adult
+      - Children Books
+      required: false
+    - id: 15
+      name: swap_preference
+      label: Swap Preference
+      hint: How do you prefer to swap
+      type: select_one
+      options:
+      - One for One
+      - Credit System
+      - Group Swap Events
+      - No Preference
+      required: true
+    - id: 16
+      name: meeting_availability
+      label: Meeting Availability
+      hint: When are you available for swaps
+      type: select_multiple
+      options:
+      - Weekday Mornings
+      - Weekday Afternoons
+      - Weekday Evenings
+      - Weekend Mornings
+      - Weekend Afternoons
+      - Weekend Evenings
+      required: false
+    - id: 17
+      name: willing_to_ship
+      label: Are You Willing to Mail Books
+      hint: Select if you can ship books
+      type: select_one
+      options:
+      - true
+      - false
+      - Depends on Distance
+      required: true
+    - id: 18
+      name: shipping_cost_arrangement
+      label: Shipping Cost Arrangement
+      hint: How should shipping costs be handled
+      type: select_one
+      options:
+      - Sender Pays
+      - Receiver Pays
+      - Split Equally
+      - Not Applicable
+      required: false
+    - id: 19
+      name: volunteer_interest
+      label: Interested in Volunteering
+      hint: Would you help organize swaps
+      type: select_one
+      options:
+      - Yes definitely
+      - Maybe
+      - No thanks
+      required: false
+    - id: 20
+      name: how_did_you_hear
+      label: How Did You Hear About Us
+      hint: How did you find out about this swap
+      type: select_one
+      options:
+      - Friend or Family
+      - Social Media
+      - Library
+      - Community Board
+      - Search Engine
+      - Other
+      required: false
+    - id: 21
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information to share
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: terms_agreement
+      label: I Agree to Swap Terms and Guidelines
+      hint: By selecting yes you agree to participate fairly
+      type: select_one
+      options:
+      - Yes I agree
+      - No I do not agree
+      required: true
+    - id: 23
+      name: membership_date
+      label: Membership Start Date
+      hint: Date of joining
+      type: date
+      options: []
+      required: true

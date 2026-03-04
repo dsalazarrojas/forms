@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Supervisor In Shift Specific Report
+    pages:
+    - id: 1
+      name: supervisor_in_shift_specific_report_form
+      label: Supervisor In Shift Specific Report
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: supervisor_shift_start_time
+      label: shift_start_time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: shift_end_time
+      label: shift_end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: supervisor_shift_duration
+      label: shift_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: supervisor_shift_notes
+      label: shift_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: supervisor_shift_supervisors
+      label: shift_supervisors
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: supervisor_shift_employees
+      label: shift_employees
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: supervisor_shift_location
+      label: shift_location
+      hint: null
+      type: text
+      options: []
+      required: false

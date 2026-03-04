@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: Parent Interest Survey
+    pages:
+    - id: 1
+      name: parent_interest_survey
+      label: Parent Interest Survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: extracurriculars
+      label: Extracurriculars
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: teacher
+      label: Teacher
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: parent
+      label: Parent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: stay_at_home_parent
+      label: Stay at home Parent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: school_counselor
+      label: School Counselor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: free_parent_interest_survey
+      label: Free Parent Interest Survey
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

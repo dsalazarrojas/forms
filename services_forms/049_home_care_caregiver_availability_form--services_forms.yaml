@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: home_care_caregiver_availability_form
+    pages:
+    - id: 1
+      name: caregiver_info
+      label: Caregiver Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: availability
+      label: Availability
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: services_offered
+      label: Services Offered
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Bathing''}'
+      - '{''name'': ''Dressing''}'
+      - '{''name'': ''Feeding''}'
+      - '{''name'': ''Medication Management''}'
+      - '{''name'': ''Personal Care''}'
+      - '{''name'': ''Transportation''}'
+      required: false
+    - id: 4
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: experience
+      label: Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: availability_time
+      label: Availability Time
+      hint: null
+      type: time
+      options: []
+      required: false

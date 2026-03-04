@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Marine Refit Feedback Survey
+    pages:
+    - id: 1
+      name: team_name
+      label: Team Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: project_id
+      label: Project Id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: satisfaction_rating
+      label: Satisfaction Rating
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 6
+      name: improvement_areas
+      label: Improvement Areas
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: comment
+      label: Comment
+      hint: null
+      type: note
+      options: []
+      required: false

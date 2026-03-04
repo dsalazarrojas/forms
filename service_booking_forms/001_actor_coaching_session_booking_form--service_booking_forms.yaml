@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Actor Coaching Session Booking Form
+    pages:
+    - id: 1
+      name: section_personal_info
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Enter your professional stage name or legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: We will send confirmation to this address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_session_details
+      label: -- Session Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: session_type
+      label: Session Type
+      hint: Choose the type of coaching you require
+      type: select_one
+      options:
+      - Audition Prep
+      - Monologue Work
+      - Scene Study
+      - Voice and Diction
+      - Career Consultation
+      required: true
+    - id: 7
+      name: coaching_level
+      label: Experience Level
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Professional
+      required: true
+    - id: 8
+      name: preferred_date
+      label: Preferred Session Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: preferred_time
+      label: Preferred Session Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: session_duration
+      label: Session Duration
+      hint: null
+      type: select_one
+      options:
+      - 30 Minutes
+      - 60 Minutes
+      - 90 Minutes
+      - 2 Hours
+      required: true
+    - id: 11
+      name: goals_and_focus
+      label: Coaching Goals
+      hint: What specific areas would you like to focus on during this session?
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: audition_material
+      label: Audition Material Link
+      hint: If prepping for a specific audition, provide a link to the sides or script
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: additional_comments
+      label: Additional Comments or Requirements
+      hint: null
+      type: text
+      options: []
+      required: false

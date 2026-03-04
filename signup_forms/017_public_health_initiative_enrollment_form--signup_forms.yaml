@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Public Health Initiative Enrollment Form
+    pages:
+    - id: 1
+      name: enrollment_details
+      label: enrollment_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_details
+      label: contact_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: medical_conditions
+      label: medical_conditions
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''diabetes''}'
+      - '{''value'': ''hypertension''}'
+      - '{''value'': ''none''}'
+      required: false
+    - id: 4
+      name: medications
+      label: medications
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''insulin''}'
+      - '{''value'': ''blood_thinners''}'
+      - '{''value'': ''beta_blockers''}'
+      required: false
+    - id: 5
+      name: follow_up_reminders
+      label: follow_up_reminders
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: follow_up_date
+      label: follow_up_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''chatjimmy''}'
+      - '{''value'': ''user2''}'
+      - '{''value'': ''user3''}'
+      required: false
+    - id: 10
+      name: medical_notes
+      label: medical_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: follow_up_status
+      label: follow_up_status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''pending''}'
+      - '{''value'': ''completed''}'
+      - '{''value'': ''missed''}'
+      required: false

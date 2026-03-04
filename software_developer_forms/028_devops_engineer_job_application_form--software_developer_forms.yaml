@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: DevOps Engineer Job Application Form
+    pages:
+    - id: 1
+      name: personal_details
+      label: personal_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: education
+      label: education
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: work_history
+      label: work_history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: skills
+      label: skills
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: work_experience
+      label: work_experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: personal_referees
+      label: personal_referees
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false

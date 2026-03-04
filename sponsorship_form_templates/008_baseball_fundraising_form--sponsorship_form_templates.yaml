@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Baseball Fundraising Form
+    pages:
+    - id: 1
+      name: sponsorship_intro
+      label: -- Support Our Baseball Team --
+      hint: Your donations help us with equipment, travel, and tournament fees.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: sponsor_name
+      label: Sponsor Name (Individual or Business)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: sponsor_contact_email
+      label: Contact Email
+      hint: For receipt and tax information
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: sponsor_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: sponsorship_type
+      label: Sponsorship Type
+      hint: null
+      type: select_one
+      options:
+      - Fan (Individual)
+      - Family Sponsor
+      - Local Business
+      - Corporate Partner
+      required: true
+    - id: 6
+      name: donation_amount
+      label: Donation Amount ($)
+      hint: Enter the amount you wish to contribute
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: player_to_sponsor
+      label: Sponsored Player Name
+      hint: Leave blank if general team donation
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: payment_method
+      label: Preferred Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit/Debit Card
+      - PayPal
+      - Venmo
+      - Check
+      - Cash
+      required: true
+    - id: 9
+      name: sponsor_message
+      label: Message for the Team or Player
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: anonymous_donation
+      label: Would you like your donation to remain anonymous?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 11
+      name: tax_receipt_request
+      label: Do you require a tax-deductible receipt?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 12
+      name: submission_date
+      label: Date of Donation
+      hint: null
+      type: date
+      options: []
+      required: true

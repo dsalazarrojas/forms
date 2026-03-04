@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tip Payment Form
+    pages:
+    - id: 1
+      name: calculate_bill
+      label: Calculate Bill
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: base_price
+      label: Base Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: tip_percentage
+      label: Tip Percentage
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''10'', ''label'': ''10%''}'
+      - '{''value'': ''15%'', ''label'': ''15%''}'
+      - '{''value'': ''20%'', ''label'': ''20%''}'
+      required: false
+    - id: 4
+      name: tip_amount
+      label: Tip Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: total_bill
+      label: Total Bill
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: tip_payment_form_fields
+      label: Tip Payment Form Fields
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''base price'', ''label'': ''Base Price''}'
+      - '{''value'': ''tip percentage'', ''label'': ''Tip Percentage''}'
+      - '{''value'': ''tip amount'', ''label'': ''Tip Amount''}'
+      required: false
+    - id: 7
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''calculate tip'', ''label'': ''Calculate Tip''}'
+      - '{''value'': ''reset'', ''label'': ''Reset''}'
+      required: true
+    - id: 8
+      name: result
+      label: Result
+      hint: null
+      type: text
+      options: []
+      required: false

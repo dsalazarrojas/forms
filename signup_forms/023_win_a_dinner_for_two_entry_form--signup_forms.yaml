@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Win A Dinner For Two Entry Form
+    pages:
+    - id: 1
+      name: user_info
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: phone_number
+      label: Phone Number
+      hint: Enter your phone number
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: note
+      label: Additional Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: confirm_date
+      label: Confirm Date of Birth
+      hint: null
+      type: select_multiple
+      options:
+      - MM/DD
+      - DD/MM
+      - MM/DD/YYYY
+      required: true
+    - id: 8
+      name: confirm_time
+      label: Confirm Time
+      hint: null
+      type: select_multiple
+      options:
+      - AM/PM
+      - 12H/24H
+      - 12H/24H
+      required: true
+    - id: 9
+      name: confirm_phone_number
+      label: Confirm Phone Number
+      hint: null
+      type: select_multiple
+      options:
+      - '1234567890'
+      - '12345678901'
+      - '12345678902'
+      required: true
+    - id: 10
+      name: is_eligible
+      label: Is Eligible
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: is_winner
+      label: Is Winner
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: winner_confirmation
+      label: Winner Confirmation
+      hint: null
+      type: select_one
+      options:
+      - Win
+      - Not Win
+      required: false
+    - id: 13
+      name: winner_message
+      label: Winner Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: form_owner
+      label: Form Owner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: winner_details
+      label: Winner Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: winner_message_text
+      label: Winner Message Text
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: winner_phone_number
+      label: Winner Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: winner_address
+      label: Winner Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: winner_email
+      label: Winner Email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: winner_date_of_birth
+      label: Winner Date of Birth
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: winner_date_of_birth_format
+      label: Winner Date of Birth Format
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: winner_details
+      label: Winner Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: winner_details_text
+      label: Winner Details Text
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: winner_form_submission
+      label: Winner Form Submission
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: winner_form_submission_text
+      label: Winner Form Submission Text
+      hint: null
+      type: text
+      options: []
+      required: false

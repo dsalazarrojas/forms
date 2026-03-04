@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Youth Sports Parent Communication Survey
+    pages:
+    - id: 1
+      name: parent_communication_quality
+      label: How would you rate the overall parent communication quality?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: parent_communication_preferred_channel
+      label: What channel do you prefer for communication?
+      hint: null
+      type: select_one
+      options:
+      - Channel 1
+      - Channel 2
+      - Channel 3
+      - Channel 4
+      required: false
+    - id: 3
+      name: parent_communication_improvement
+      label: What would you like to see improved in communication?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: parent_feedback
+      label: Is there any additional feedback you would like to provide for the team?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: communication_preferences
+      label: What type of information would you like to receive from the team?
+      hint: null
+      type: select_multiple
+      options:
+      - Team schedule and game details
+      - Team announcements and reminders
+      - Team news and announcements
+      - Other
+      required: false
+    - id: 9
+      name: team_announcements
+      label: Would you like the team to send you announcements?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: schedule_game_details
+      label: Would you like to receive game schedule and details?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

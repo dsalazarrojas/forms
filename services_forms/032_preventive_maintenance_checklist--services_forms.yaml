@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Preventive Maintenance Checklist
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: equipment_description
+      label: Equipment Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: maintenance_frequency
+      label: Maintenance Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: maintenance_schedule
+      label: Maintenance Schedule
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: maintenance_plan
+      label: Maintenance Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: maintenance_responsibilities
+      label: Maintenance Responsabilities
+      hint: null
+      type: select_multiple
+      options:
+      - Responsibility 1
+      - Responsibility 2
+      - Responsibility 3
+      required: false
+    - id: 7
+      name: maintenance_status
+      label: Maintenance Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 8
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: attachments
+      label: Attachments
+      hint: null
+      type: text
+      options: []
+      required: false

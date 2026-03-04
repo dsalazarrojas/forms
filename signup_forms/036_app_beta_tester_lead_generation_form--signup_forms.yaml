@@ -1,0 +1,217 @@
+inputSchema:
+  type: object
+  properties:
+    title: App Beta Tester Lead Generation Form
+    pages:
+    - id: 1
+      name: application_date
+      label: Application date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: age_group
+      label: Age group
+      hint: null
+      type: select_one
+      options:
+      - 18-25
+      - 26-35
+      - 36-45
+      - 46-55
+      - 56-65
+      - 65+
+      - Prefer not to answer
+      required: true
+    - id: 7
+      name: location
+      label: Geographic location
+      hint: City or region
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: beta_testing_experience
+      label: Previous beta testing experience
+      hint: null
+      type: select_one
+      options:
+      - Extensive experience
+      - Some experience
+      - Limited experience
+      - No experience
+      required: true
+    - id: 9
+      name: ios_interest
+      label: Interest in testing iOS app
+      hint: null
+      type: select_one
+      options:
+      - Yes, primary interest
+      - Yes, secondary interest
+      - Maybe
+      - No interest
+      - Not applicable
+      required: false
+    - id: 10
+      name: android_interest
+      label: Interest in testing Android app
+      hint: null
+      type: select_one
+      options:
+      - Yes, primary interest
+      - Yes, secondary interest
+      - Maybe
+      - No interest
+      - Not applicable
+      required: false
+    - id: 11
+      name: primary_device
+      label: Primary device for testing
+      hint: null
+      type: select_one
+      options:
+      - iPhone
+      - Android phone
+      - iPad
+      - Android tablet
+      - Multiple devices
+      - No preference
+      required: true
+    - id: 12
+      name: device_models
+      label: Specific device models you own
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: os_versions
+      label: Operating system versions available
+      hint: e.g., iOS 15, Android 12
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: daily_app_usage
+      label: Daily app usage time
+      hint: Average hours per day
+      type: select_one
+      options:
+      - Less than 1 hour
+      - 1-3 hours
+      - 3-5 hours
+      - 5-8 hours
+      - 8+ hours
+      required: true
+    - id: 15
+      name: app_categories_interest
+      label: App categories you are interested in testing
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Social media
+      - Productivity
+      - Gaming
+      - Health and fitness
+      - Finance
+      - Shopping
+      - Education
+      - Entertainment
+      - Business
+      - Other
+      required: true
+    - id: 16
+      name: testing_commitment
+      label: Testing commitment level
+      hint: How much time can you dedicate
+      type: select_one
+      options:
+      - Flexible and available
+      - Few hours per week
+      - Regular commitment possible
+      - Limited time available
+      required: true
+    - id: 17
+      name: bug_reporting_ability
+      label: Comfortable reporting detailed bug reports
+      hint: null
+      type: select_one
+      options:
+      - Very comfortable
+      - Comfortable
+      - Somewhat comfortable
+      - Not comfortable
+      required: true
+    - id: 18
+      name: feedback_quality
+      label: Will provide constructive feedback
+      hint: null
+      type: select_one
+      options:
+      - Yes, definitely
+      - Probably
+      - Maybe
+      - Not sure
+      required: true
+    - id: 19
+      name: confidentiality_agreement
+      label: Willing to sign confidentiality agreement
+      hint: null
+      type: select_one
+      options:
+      - Yes, willing
+      - Yes, but have concerns
+      - Need more information
+      - false
+      required: true
+    - id: 20
+      name: referral_source
+      label: How did you hear about this opportunity
+      hint: null
+      type: select_one
+      options:
+      - Social media
+      - Word of mouth
+      - Website
+      - App store
+      - Forum or community
+      - Email
+      - Other
+      required: true
+    - id: 21
+      name: additional_information
+      label: Additional information about yourself
+      hint: null
+      type: text
+      options: []
+      required: false

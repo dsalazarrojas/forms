@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: spa_client_post_treatment_relaxation_check_in
+    pages:
+    - id: 1
+      name: treatment_date
+      label: Treatment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: practitioner_name
+      label: Practitioner Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: treatment_type
+      label: Treatment Type
+      hint: Select a treatment type
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: treatment_area
+      label: Treatment Area
+      hint: Select a treatment area
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: client_rating
+      label: Client Rating
+      hint: Rate your comfort from 1-10
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: comfort_level
+      label: Comfort Level
+      hint: Select a comfort level
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 7
+      name: relaxation_level
+      label: Relaxation Level
+      hint: Select a relaxation level
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 8
+      name: would_recommend
+      label: Would Recommend
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false

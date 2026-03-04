@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Software Survey Form
+    pages:
+    - id: 1
+      name: software_survey_form
+      label: Software Survey Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Software Developer Forms'', ''label'': ''Software
+        Developer Forms''}'
+      - '{''id'': 2, ''name'': ''Software Company Forms'', ''label'': ''Software Company
+        Forms''}'
+      - '{''id'': 3, ''name'': ''Other Forms'', ''label'': ''Other Forms''}'
+      required: true
+    - id: 3
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: software_survey_usage
+      label: how_long_have_you_been_using_software
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: how_many_projects_do_you_participate_in
+      label: how_many_projects_do_you_participate_in
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: how_many_projects_have_you_participated_in
+      label: how_many_projects_have_you_participated_in
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: how_many_projects_have_you_participated_in
+      label: how_many_projects_have_you_participated_in
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: frequency_of_use
+      label: frequency_of_use
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Rarely'', ''label'': ''Rarely''}'
+      - '{''id'': 2, ''name'': ''Occasionally'', ''label'': ''Occasionally''}'
+      - '{''id'': 3, ''name'': ''Often'', ''label'': ''Often''}'
+      - '{''id'': 4, ''name'': ''Always'', ''label'': ''Always''}'
+      required: true
+    - id: 9
+      name: time_of_day
+      label: time_of_day
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: output
+      label: output
+      hint: null
+      type: text
+      options: []
+      required: false

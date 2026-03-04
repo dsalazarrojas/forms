@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pre Class Survey
+    pages:
+    - id: 1
+      name: intro
+      label: whats_your_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: question_1
+      label: what_is_your_major
+      hint: null
+      type: select_one
+      options:
+      - Computer Science
+      - Mathematics
+      - Arts and Humanities
+      - Science and Technology
+      - Social Sciences
+      required: false
+    - id: 3
+      name: question_2
+      label: how_did_you_feel_last_year
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: question_3
+      label: expected_outcome
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: question_4
+      label: what_topics_do_you_want_to_cover
+      hint: null
+      type: select_multiple
+      options:
+      - Python
+      - Java
+      - C++
+      - JavaScript
+      - SQL
+      required: true
+    - id: 6
+      name: question_5
+      label: do_you_have_any_other_topics_in_mind
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: question_6
+      label: any_other_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: question_7
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: question_8
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

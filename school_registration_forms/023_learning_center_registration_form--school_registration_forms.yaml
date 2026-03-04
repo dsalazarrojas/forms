@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: learning_center_registration_form
+    pages:
+    - id: 1
+      name: new_learner
+      label: New Learner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: learner_category
+      label: learner_category
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Student''}'
+      - '{''id'': 2, ''name'': ''Staff''}'
+      - '{''id'': 3, ''name'': ''Faculty''}'
+      required: false
+    - id: 6
+      name: learning_center
+      label: learning_center
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: registered_by
+      label: registered_by
+      hint: null
+      type: text
+      options: []
+      required: false

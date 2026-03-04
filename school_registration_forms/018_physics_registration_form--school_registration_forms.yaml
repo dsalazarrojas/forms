@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Physics Registration Form
+    pages:
+    - id: 1
+      name: physics_registration_form_input_1
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: physics_registration_form_input_2
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: physics_registration_form_input_3
+      label: School ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: physics_registration_form_input_4
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: physics_registration_form_input_5
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: physics_registration_form_input_6
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: physics_registration_form_input_7
+      label: Physics Teacher
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Mr. John''}'
+      - '{''id'': 2, ''label'': ''Mrs. Emma''}'
+      - '{''id'': 3, ''label'': ''Mr. Smith''}'
+      required: false
+    - id: 8
+      name: physics_registration_form_input_8
+      label: Class
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''A''}'
+      - '{''id'': 2, ''label'': ''B''}'
+      - '{''id'': 3, ''label'': ''C''}'
+      required: false
+    - id: 9
+      name: physics_registration_form_input_9
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: physics_registration_form_input_10
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

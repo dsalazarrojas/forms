@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Coming Soon
+    pages:
+    - id: 1
+      name: full_name
+      label: Full name
+      hint: Enter first and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email address
+      hint: Provide a valid email for notifications
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone number
+      hint: Optional phone for SMS reminders
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: organization
+      label: Organization or company
+      hint: Optional company name
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: how_did_you_hear_about_us
+      label: How did you hear about us
+      hint: Select the most relevant source
+      type: select_one
+      options:
+      - Social media
+      - Friend or colleague
+      - Search engine
+      - Newsletter
+      - Other
+      required: false
+    - id: 6
+      name: interest_level
+      label: Interest level in workbook
+      hint: Choose best match
+      type: select_one
+      options:
+      - Very interested
+      - Interested
+      - Maybe later
+      - Not interested
+      required: true
+    - id: 7
+      name: comments
+      label: Additional comments or questions
+      hint: Optional notes for the team
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: consent_to_contact
+      label: Consent to be contacted
+      hint: Confirm permission to send updates
+      type: select_one
+      options:
+      - Yes I consent
+      - No I do not consent
+      required: true

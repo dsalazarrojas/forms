@@ -1,0 +1,168 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lease Assistance Intake Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: lease_start_date
+      label: Lease Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: lease_end_date
+      label: Lease End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: reason_for_assistance
+      label: Reason For Assistance
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: assistance_requested
+      label: Assistance Requested
+      hint: null
+      type: select_one
+      options:
+      - Assistance With Finding a Home
+      - Assistance With Finding a Apartment
+      - Other
+      required: false
+    - id: 9
+      name: assistance_other
+      label: Other Assistance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: assistance_notes
+      label: Assistance Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: landlord_name
+      label: Landlord Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: landlord_phone
+      label: Landlord Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: landlord_email
+      label: Landlord Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 14
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: rent_start_date
+      label: Rent Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: rent_end_date
+      label: Rent End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: rent_amount
+      label: Rent Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: lease_duration
+      label: Lease Duration
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: rent_payment_method
+      label: Rent Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Check
+      - Online Banking
+      required: false
+    - id: 20
+      name: rent_frequency
+      label: Rent Frequency
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Weekly
+      - Bi-Weekly
+      required: false
+    - id: 21
+      name: rent_frequency_other
+      label: Other Rent Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: rent_notes
+      label: Rent Notes
+      hint: null
+      type: note
+      options: []
+      required: false

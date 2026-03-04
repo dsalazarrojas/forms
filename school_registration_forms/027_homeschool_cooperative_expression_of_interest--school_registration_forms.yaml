@@ -1,0 +1,144 @@
+inputSchema:
+  type: object
+  properties:
+    title: Homeschool Cooperative Expression Of Interest
+    pages:
+    - id: 1
+      name: family_interest
+      label: Family Interest
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: school_background
+      label: School Background
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_info
+      label: Contact Info
+      hint: Please provide your email and phone number
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: home_schooling_method
+      label: Homeschooling Method
+      hint: null
+      type: select_multiple
+      options:
+      - Classical
+      - Charlotte Mason
+      - Literature-Based
+      - Eclectic
+      - Relaxed
+      - Other (please specify)
+      required: true
+    - id: 5
+      name: school_formation
+      label: School Formation
+      hint: null
+      type: select_one
+      options:
+      - Co-op
+      - Co-op and Homeschool
+      - Homeschool
+      required: true
+    - id: 6
+      name: family_values
+      label: Family Values
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: family_demographics
+      label: Family Demographics
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: family_goals
+      label: Family Goals
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: school_goals
+      label: School Goals
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: teacher_qualifications
+      label: Teacher Qualifications
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: references
+      label: References
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: co_op_fees
+      label: Co-op Fees
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: co_op_commitment
+      label: Co-op Commitment
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: co_op_role
+      label: Co-op Role
+      hint: null
+      type: select_one
+      options:
+      - Member
+      - Non-Member
+      required: true
+    - id: 16
+      name: family_commitment
+      label: Family Commitment
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: submit_form
+      label: Submit Form
+      hint: null
+      type: select_one
+      options:
+      - I am ready to submit the form
+      - I need more information before submitting the form
+      required: true

@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: release_of_liability_template
+    pages:
+    - id: 1
+      name: submitter_info
+      label: Submitter Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: citizenship
+      label: Citizenship
+      hint: null
+      type: select_one
+      options:
+      - US Citizen
+      - Non-US Citizen
+      required: false
+    - id: 4
+      name: race
+      label: Race
+      hint: null
+      type: select_multiple
+      options:
+      - white
+      - black
+      - Asian
+      required: false
+    - id: 5
+      name: ethnicity
+      label: Ethnicity
+      hint: null
+      type: select_multiple
+      options:
+      - white
+      - black
+      - Asian
+      required: false
+    - id: 6
+      name: education_status
+      label: Educational Status
+      hint: null
+      type: select_multiple
+      options:
+      - High School Diploma or Higher
+      - Some High School
+      - Less than High School
+      required: false
+    - id: 7
+      name: sat_scores
+      label: SAT Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: act_scores
+      label: ACT Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: asvab_scores
+      label: ASVAB Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: lsat_scores
+      label: LSAT Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: submission_agreement
+      label: Submission Agreement
+      hint: null
+      type: select_one
+      options:
+      - I agree to the Submission Agreement
+      - I do not agree to the Submission Agreement
+      required: false
+    - id: 12
+      name: submitter_consent
+      label: Submitter Consent
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

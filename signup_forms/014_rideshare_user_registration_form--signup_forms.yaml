@@ -1,0 +1,216 @@
+inputSchema:
+  type: object
+  properties:
+    title: Rideshare User Registration Form
+    pages:
+    - id: 1
+      name: driver_registration
+      label: Driver Registration
+      hint: Please select the driver registration option
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: rider_registration
+      label: Rider Registration
+      hint: Please select the rider registration option
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: name
+      label: Name
+      hint: Enter name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email
+      hint: Enter email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone
+      hint: Enter phone
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: password
+      label: Password
+      hint: Enter password
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: confirm_password
+      label: Confirm Password
+      hint: Confirm password
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: driver_experience_years
+      label: Driver Experience
+      hint: Enter driver experience
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: driver_license
+      label: Driver License
+      hint: Select driver license
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: vehicle
+      label: Vehicle
+      hint: Select vehicle
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: vehicle_number
+      label: Vehicle Number
+      hint: Enter vehicle number
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: vehicle_type
+      label: Vehicle Type
+      hint: Select vehicle type
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: vehicle_insurance
+      label: Vehicle Insurance
+      hint: Enter vehicle insurance
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: vehicle_model
+      label: Vehicle Model
+      hint: Select vehicle model
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: payment_method
+      label: Payment Method
+      hint: Enter payment method
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: payment_details
+      label: Payment Details
+      hint: Enter payment details
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: payment_status
+      label: Payment Status
+      hint: Select payment status
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 18
+      name: payment_date
+      label: Payment Date
+      hint: Select payment date
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: pickup_date
+      label: Pickup Date
+      hint: Select pickup date
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: dropoff_date
+      label: Dropoff Date
+      hint: Select dropoff date
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: payment_method_id
+      label: Payment Method Id
+      hint: Select payment method id
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 22
+      name: service_type
+      label: Service Type
+      hint: Select service type
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 23
+      name: service_provider
+      label: Service Provider
+      hint: Enter service provider
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: payment_gateway
+      label: Payment Gateway
+      hint: Select payment gateway
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 25
+      name: terms
+      label: Terms
+      hint: Please read terms and conditions
+      type: note
+      options: []
+      required: true
+    - id: 26
+      name: agree_terms
+      label: Agree Terms
+      hint: Agree terms
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 27
+      name: submit
+      label: Submit
+      hint: Submit
+      type: text
+      options: []
+      required: true

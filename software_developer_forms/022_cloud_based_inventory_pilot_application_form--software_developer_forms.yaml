@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cloud Based Inventory Pilot Application Form
+    pages:
+    - id: 1
+      name: section_company
+      label: -- Company Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: company_size
+      label: Company Size - Number of Employees
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: industry
+      label: Industry - Sector
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: website
+      label: Company Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_contact
+      label: -- Primary Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: contact_name
+      label: Full Name
+      hint: Person submitting this application
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: contact_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: section_requirements
+      label: -- Inventory Requirements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: inventory_scope
+      label: What will be tracked in inventory?
+      hint: Products, equipment, materials, etc
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: item_count
+      label: Approximate number of items to track
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: inventory_locations
+      label: Number of locations to track
+      hint: Warehouses, stores, facilities, etc
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: update_frequency
+      label: Required update frequency
+      hint: How often inventory data changes
+      type: select_one
+      options:
+      - Real-time
+      - Hourly
+      - Daily
+      - Weekly
+      - Monthly
+      - As needed
+      required: true
+    - id: 16
+      name: section_current_system
+      label: -- Current System --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: current_inventory_system
+      label: Current inventory management system
+      hint: Software name or manual method
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: pain_points
+      label: Pain points with current system
+      hint: What needs improvement
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: section_expectations
+      label: -- Expectations and Goals --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: primary_goals
+      label: Primary goals for pilot program
+      hint: null
+      type: select_multiple
+      options:
+      - Cost reduction
+      - Improved accuracy
+      - Real-time visibility
+      - Mobile access
+      - Integration capability
+      - Scalability
+      - User-friendliness
+      required: true
+    - id: 21
+      name: expected_benefits
+      label: Expected benefits from cloud solution
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: section_timeline
+      label: -- Timeline and Commitment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: start_date
+      label: Desired pilot start date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: pilot_duration
+      label: Proposed pilot duration - Months
+      hint: How long is the trial period?
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: commitment_readiness
+      label: Organization readiness for change
+      hint: null
+      type: select_one
+      options:
+      - Very ready
+      - Ready
+      - Somewhat ready
+      - Need more time
+      - Uncertain
+      required: true

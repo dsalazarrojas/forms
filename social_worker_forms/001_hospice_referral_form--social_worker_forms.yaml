@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hospice Referral Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_dob
+      label: patient_dob
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: primary_care_physician
+      label: primary_care_physician
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: admitting_physician
+      label: admitting_physician
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: hospice_id
+      label: hospice_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: referral_date
+      label: referral_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: diagnosis
+      label: diagnosis
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: social_worker
+      label: social_worker
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: patient_status
+      label: patient_status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 10
+      name: hospice_location
+      label: hospice_location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: referral_source
+      label: referral_source
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: patient_contact_number
+      label: patient_contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: social_worker_note
+      label: social_worker_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: hospice_referral_note
+      label: hospice_referral_note
+      hint: null
+      type: note
+      options: []
+      required: false

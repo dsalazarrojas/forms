@@ -1,0 +1,90 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: AI Safety Advocacy Form
+    pages:
+    - id: 1
+      name: --advocate_information--
+      label: -- Advocate Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email address
+      hint: For communications and updates
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: location
+      label: City and country
+      hint: Help with regional coordination
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: expertise_areas
+      label: Areas of expertise
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Policy and governance
+      - Technical AI safety
+      - Community organizing
+      - Education and outreach
+      - Research
+      required: false
+    - id: 6
+      name: availability_to_volunteer
+      label: Availability to volunteer
+      hint: Select one
+      type: select_one
+      options:
+      - Weekly
+      - Monthly
+      - Occasional events
+      - Not available
+      required: true
+    - id: 7
+      name: advocacy_interests
+      label: Advocacy interests
+      hint: Brief description
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: consent_to_share_details
+      label: Consent to share contact details with partners
+      hint: Select one
+      type: select_one
+      options:
+      - Yes
+      - No
+      required: true
+    - id: 9
+      name: referral_source
+      label: How did you hear about this advocacy group
+      hint: Optional
+      type: text
+      options: []
+      required: false

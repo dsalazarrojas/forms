@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tech Meetup Enthusiast Membership Form
+    pages:
+    - id: 1
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: password
+      label: Password
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: confirm_password
+      label: Confirm Password
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: interests
+      label: Interests
+      hint: null
+      type: select_multiple
+      options:
+      - Interest 1
+      - Interest 2
+      - prophets
+      - robotics
+      required: false
+    - id: 6
+      name: agree_terms
+      label: Agree to Terms and Conditions
+      hint: null
+      type: select_one
+      options:
+      - Agree
+      - Disagree
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: confirm_phone
+      label: Confirm Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: state
+      label: State
+      hint: null
+      type: select_one
+      options:
+      - New York
+      - California
+      - Florida
+      required: false
+    - id: 12
+      name: zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: join_date
+      label: Join Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: join_time
+      label: Join Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: meetup_days
+      label: Meetup Days
+      hint: null
+      type: text
+      options: []
+      required: false

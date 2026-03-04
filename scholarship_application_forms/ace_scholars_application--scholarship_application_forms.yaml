@@ -1,0 +1,208 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: ACE Scholars Application
+    pages:
+    - id: 1
+      name: section_header_personal
+      label: '--- Personal Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: Please enter your legal name as it appears on official documents
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email address
+      hint: We will use this for all correspondence regarding your application
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone number
+      hint: Include area code
+      type: phone
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: home_address
+      label: Home address
+      hint: Street address, city, state, and ZIP code
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_header_academic
+      label: '--- Academic Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: current_school
+      label: Current school or institution
+      hint: Name of the school you're currently attending
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: expected_graduation_date
+      label: Expected graduation date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: academic_major
+      label: Intended major or field of study
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: gpa
+      label: Current GPA
+      hint: Enter your cumulative GPA on a 4.0 scale
+      type: decimal
+      options: []
+      required: true
+    - id: 12
+      name: academic_year
+      label: Academic year level
+      hint: null
+      type: select_one
+      options:
+      - Freshman
+      - Sophomore
+      - Junior
+      - Senior
+      - Graduate student
+      required: true
+    - id: 13
+      name: section_header_church_affiliation
+      label: '--- Church Affiliation ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: church_name
+      label: Name of your local A.M.E. Zion Church
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: pastor_name
+      label: Pastor's name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: years_in_church
+      label: Years as active member in A.M.E. Zion Church
+      hint: null
+      type: integer
+      options: []
+      required: true
+    - id: 17
+      name: church_leadership_roles
+      label: Leadership roles in church (select all that apply)
+      hint: null
+      type: select_multiple
+      options:
+      - Sunday School Teacher
+      - Youth Leader
+      - Choir Member
+      - Usher
+      - Trustee
+      - Committee Member
+      - Ministry Leader
+      - Volunteer Coordinator
+      required: false
+    - id: 18
+      name: section_header_financial
+      label: '--- Financial Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: expected_cost_of_attendance
+      label: Expected cost of attendance for next academic year
+      hint: Include tuition, fees, room, board, and other expenses
+      type: decimal
+      options: []
+      required: true
+    - id: 20
+      name: other_scholarships
+      label: Other scholarships or financial aid received
+      hint: List amounts and sources
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: financial_need_explanation
+      label: Brief explanation of your financial need
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: section_header_essay
+      label: '--- Essay Questions ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: academic_goals_essay
+      label: Describe your academic and career goals
+      hint: How will this scholarship help you achieve these goals?
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: service_commitment_essay
+      label: How do you plan to serve the A.M.E. Zion Church community?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: additional_comments
+      label: Additional comments or notes
+      hint: Any other information you'd like us to consider
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Digital Artist Booking Form
+    pages:
+    - id: 1
+      name: artist
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: artist_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: platform_id
+      label: Platform ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: service_details
+      label: Service Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: time_type
+      label: Time Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: time_details
+      label: Time Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: artist_platform
+      label: Artist Platform
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: platform
+      label: Platform
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: artist_platform_details
+      label: Platform Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: location_details
+      label: Location Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: artist_location
+      label: Artist Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: media_placement
+      label: Media Placement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: artist_media_placement
+      label: Artist Placement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: platform_type
+      label: Platform Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 22
+      name: price
+      label: Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: currency
+      label: Currency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 24
+      name: service
+      label: Service
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 25
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

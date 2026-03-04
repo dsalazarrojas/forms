@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Project Charter Form
+    pages:
+    - id: 1
+      name: project_info
+      label: Project Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_name
+      label: project_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: project_targeted_kpi
+      label: Targeted KPI
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: project_budget
+      label: Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: project_milestones
+      label: Milestones
+      hint: null
+      type: select_multiple
+      options:
+      - '[{}'
+      - '{}'
+      - '{}]'
+      required: false
+    - id: 6
+      name: project_risks
+      label: Risks
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: project_impact_details
+      label: Impact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: project_financial_details
+      label: Financial Details
+      hint: null
+      type: text
+      options: []
+      required: false

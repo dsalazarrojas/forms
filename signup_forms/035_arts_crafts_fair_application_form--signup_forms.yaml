@@ -1,0 +1,175 @@
+inputSchema:
+  type: object
+  properties:
+    title: Arts & Crafts Fair Application Form
+    pages:
+    - id: 1
+      name: applicant_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: applicant_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: business_name
+      label: Business or Studio Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: street_address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: state
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: zip_code
+      label: Zip or Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: craft_category
+      label: Primary Craft or Art Category
+      hint: null
+      type: select_one
+      options:
+      - Painting
+      - Sculpture
+      - Jewelry
+      - Pottery
+      - Textiles
+      - Woodwork
+      - Photography
+      - Metalwork
+      - Other
+      required: true
+    - id: 11
+      name: craft_description
+      label: Description of Your Crafts or Arts
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: years_in_business
+      label: Years in Business
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: booth_size
+      label: Booth Size Required
+      hint: null
+      type: select_one
+      options:
+      - Small - 4x4
+      - Medium - 6x6
+      - Large - 8x8
+      - Extra Large - 10x10
+      required: true
+    - id: 14
+      name: booth_fee
+      label: Booth Fee or Rental Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: electricity_needed
+      label: Electricity Required
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: special_setup
+      label: Special Setup or Equipment Needs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: fair_date
+      label: Event Date Applying For
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: prior_participation
+      label: Prior Participation in This Fair
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - First Time
+      required: false
+    - id: 19
+      name: insurance_certificate
+      label: Insurance Certificate Available
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not Required
+      required: false
+    - id: 20
+      name: terms_agreement
+      label: I Agree to Fair Terms and Conditions
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: additional_information
+      label: Additional Information
+      hint: null
+      type: text
+      options: []
+      required: false

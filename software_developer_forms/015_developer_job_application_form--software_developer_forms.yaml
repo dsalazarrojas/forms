@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: developer_job_application_form
+    pages:
+    - id: 1
+      name: resume
+      label: Resume
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: skills
+      label: Skills
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: project_details
+      label: Project details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: experience
+      label: Experience
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: education
+      label: Education
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: work_sample
+      label: Work sample
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: references
+      label: References
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: upload_resume
+      label: Upload Resume
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: upload_work_sample
+      label: Upload Work sample
+      hint: null
+      type: text
+      options: []
+      required: false

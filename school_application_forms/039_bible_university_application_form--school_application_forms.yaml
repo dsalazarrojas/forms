@@ -1,0 +1,265 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bible University Application Form
+    pages:
+    - id: 1
+      name: section_header_personal
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: middle_name
+      label: Middle Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: Month - Day - Year
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: citizenship
+      label: Citizenship
+      hint: Country of citizenship
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_header_contact
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: mailing_address
+      label: Mailing Address
+      hint: Full street address
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: state
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: postal_code
+      label: Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: section_header_education
+      label: -- Educational Background --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: high_school_name
+      label: High School or Secondary School
+      hint: Name of institution
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: high_school_graduation
+      label: Graduation Year
+      hint: When did you graduate?
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: high_school_gpa
+      label: High School GPA
+      hint: Grade Point Average
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: college_experience
+      label: Prior College or University Experience
+      hint: Have you attended college?
+      type: select_one
+      options:
+      - Yes, completed degree
+      - Yes, some college
+      - Yes, currently enrolled
+      - No prior college
+      required: true
+    - id: 20
+      name: previous_institution
+      label: Previous Institution Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: previous_gpa
+      label: College GPA
+      hint: If applicable
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: section_header_spiritual
+      label: -- Spiritual Background --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: faith_background
+      label: Religious or Faith Background
+      hint: Describe your faith journey
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: church_affiliation
+      label: Church or Faith Community Affiliation
+      hint: Your current community
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: conversion_story
+      label: Brief Testimony or Conversion Story
+      hint: Your faith experience
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: ministry_interest
+      label: Interest in Ministry or Religious Vocation
+      hint: Why do you want to study theology?
+      type: select_one
+      options:
+      - Pastoral ministry
+      - Missions
+      - Biblical scholarship
+      - Educational ministry
+      - Counseling ministry
+      - Personal enrichment
+      - Other ministry
+      required: true
+    - id: 27
+      name: section_header_program
+      label: -- Program Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: program_interest
+      label: Program or Degree Interested In
+      hint: What program do you want?
+      type: select_one
+      options:
+      - Bachelor of Theology
+      - Master of Theology
+      - Master of Divinity
+      - Certificate program
+      - Doctoral program
+      - Other program
+      required: true
+    - id: 29
+      name: major_field
+      label: Preferred Field of Study
+      hint: Major or concentration
+      type: select_one
+      options:
+      - Biblical Studies
+      - Theology
+      - Pastoral Studies
+      - Missions
+      - Christian Education
+      - Counseling
+      - Church History
+      - Practical Theology
+      required: true
+    - id: 30
+      name: start_semester
+      label: Desired Start Semester
+      hint: When do you want to begin?
+      type: select_one
+      options:
+      - Fall semester
+      - Spring semester
+      - Summer session
+      - Flexible
+      required: true
+    - id: 31
+      name: section_header_essay
+      label: -- Application Essay --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 32
+      name: statement_purpose
+      label: Statement of Purpose
+      hint: Why do you want to attend this university?
+      type: text
+      options: []
+      required: true
+    - id: 33
+      name: additional_information
+      label: Additional Information
+      hint: Anything else we should know?
+      type: text
+      options: []
+      required: false

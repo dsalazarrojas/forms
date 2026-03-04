@@ -1,0 +1,126 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student COVID 19 Test Result Submission Form
+    pages:
+    - id: 1
+      name: submit_form
+      label: Submit Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: student_name
+      label: Student Name
+      hint: Enter student's name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_id
+      label: Student ID
+      hint: Enter student's ID
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: test_result
+      label: Test Result
+      hint: Enter test result
+      type: select_one
+      options:
+      - Normal
+      - Positive
+      - Negative
+      required: true
+    - id: 5
+      name: date_taken
+      label: Date Taken
+      hint: Enter date taken
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: test_type
+      label: Test Type
+      hint: Enter test type
+      type: select_one
+      options:
+      - PCR
+      - Rapid
+      - Rapid PCR
+      required: true
+    - id: 8
+      name: school_attendance
+      label: School Attendance
+      hint: Enter school attendance
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 9
+      name: classroom_attendance
+      label: Classroom Attendance
+      hint: Enter classroom attendance
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 10
+      name: student_health_status
+      label: Student Health Status
+      hint: Enter student's health status
+      type: select_one
+      options:
+      - Normal
+      - Positive
+      - Negative
+      required: true
+    - id: 11
+      name: school_health_status
+      label: School Health Status
+      hint: Enter school health status
+      type: select_one
+      options:
+      - Normal
+      - Positive
+      - Negative
+      required: true
+    - id: 12
+      name: submitter_name
+      label: Submitter Name
+      hint: Enter submitter name
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: submitter_email
+      label: Submitter Email
+      hint: Enter submitter email
+      type: email
+      options: []
+      required: true
+    - id: 14
+      name: submitter_phone
+      label: Submitter Phone
+      hint: Enter submitter phone
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: submitter_position
+      label: Submitter Position
+      hint: Enter submitter position
+      type: text
+      options: []
+      required: true

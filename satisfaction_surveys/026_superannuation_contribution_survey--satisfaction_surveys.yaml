@@ -1,0 +1,46 @@
+inputSchema:
+  type: object
+  properties:
+    title: Superannuation Contribution Survey
+    pages:
+    - id: 1
+      name: superannuation_contribution_survey
+      label: Superannuation Contribution Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employer
+      label: Employer
+      hint: null
+      type: select_one
+      options:
+      - Employer A
+      - Employer B
+      - Employer C
+      required: false
+    - id: 3
+      name: employee_age
+      label: Employee Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: employer_rating
+      label: Employer Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: superannuation_fund
+      label: Superannuation Fund
+      hint: null
+      type: select_one
+      options:
+      - Fund A
+      - Fund B
+      - Fund C
+      required: false

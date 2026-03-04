@@ -1,0 +1,228 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fitness Program Selection Form
+    pages:
+    - id: 1
+      name: client_details
+      label: Client Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: programs
+      label: Select a Program
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Weight Lifting''}'
+      - '{''value'': ''Yoga''}'
+      - '{''value'': ''Pilates''}'
+      - '{''value'': ''Cardio Kickboxing''}'
+      - '{''value'': ''Cycling''}'
+      - '{''value'': ''Dance''}'
+      - '{''value'': ''Hiking''}'
+      - '{''value'': ''Running''}'
+      - '{''value'': ''Swimming''}'
+      - '{''value'': ''Tennis''}'
+      required: true
+    - id: 3
+      name: preferred_time
+      label: Preferred Time
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Mornings''}'
+      - '{''value'': ''Afternoons''}'
+      - '{''value'': ''Evenings''}'
+      - '{''value'': ''Weekends''}'
+      required: true
+    - id: 4
+      name: frequency
+      label: Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Daily''}'
+      - '{''value'': ''3x per week''}'
+      - '{''value'': ''2x per week''}'
+      - '{''value'': ''Less than 2x per week''}'
+      required: true
+    - id: 5
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: trainer
+      label: Preferred Trainer
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''John Doe''}'
+      - '{''value'': ''Jane Doe''}'
+      - '{''value'': ''Jim Smith''}'
+      - '{''value'': ''Jane Smith''}'
+      required: true
+    - id: 7
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: location
+      label: Location
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''City Center''}'
+      - '{''value'': ''Suburbs''}'
+      - '{''value'': ''Regional''}'
+      required: true
+    - id: 11
+      name: preferred_language
+      label: Preferred Language
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''English''}'
+      - '{''value'': ''Spanish''}'
+      - '{''value'': ''Mandarin''}'
+      required: true
+    - id: 12
+      name: additional_information
+      label: Additional Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Self''}'
+      - '{''value'': ''Spouse''}'
+      - '{''value'': ''Parent''}'
+      - '{''value'': ''Other''}'
+      required: true
+    - id: 14
+      name: emergency_phone
+      label: Emergency Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: emergency_email
+      label: Emergency Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: emergency_relationship
+      label: Relationship
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Child''}'
+      - '{''value'': ''Spouse''}'
+      - '{''value'': ''Parent''}'
+      - '{''value'': ''Other''}'
+      required: true
+    - id: 17
+      name: emergency_address
+      label: Emergency Contact Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: emergency_city
+      label: Emergency City
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''City Center''}'
+      - '{''value'': ''Suburbs''}'
+      - '{''value'': ''Regional''}'
+      required: true
+    - id: 19
+      name: emergency_country
+      label: Emergency Country
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Australia''}'
+      - '{''value'': ''New Zealand''}'
+      required: true
+    - id: 20
+      name: emergency_postal_code
+      label: Emergency Postal Code
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''1234''}'
+      - '{''value'': ''5678''}'
+      required: true
+    - id: 21
+      name: emergency_relationship_status
+      label: Relationship Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Single''}'
+      - '{''value'': ''Married''}'
+      - '{''value'': ''In a relationship''}'
+      required: true
+    - id: 22
+      name: emergency_notes
+      label: Emergency Contact Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: medication
+      label: Medication
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: medical_authorization
+      label: Medical Authorization
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Yes''}'
+      - '{''value'': ''No''}'
+      required: true

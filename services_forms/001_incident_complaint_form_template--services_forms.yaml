@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: incident_complaint_form_template
+    pages:
+    - id: 1
+      name: incident_complaint_form
+      label: incident_complaint_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: issue_description
+      label: issue_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: incident_date
+      label: incident_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: incident_time
+      label: incident_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: incident_location
+      label: incident_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: incident_description
+      label: incident_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: witness_info
+      label: witness_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: resolution_status
+      label: resolution_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 9
+      name: resolution_details
+      label: resolution_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: action_taken
+      label: action_taken
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

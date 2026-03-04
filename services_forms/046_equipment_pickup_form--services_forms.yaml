@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Equipment Pickup Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: customer name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: storage_unit_id
+      label: storage unit id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: date_of_transfer
+      label: date of transfer
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: equipment_description
+      label: equipment description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: equipment_condition
+      label: equipment condition
+      hint: null
+      type: select_one
+      options:
+      - Normal
+      - Poor
+      - Damaged
+      required: false
+    - id: 6
+      name: transfer_type
+      label: transfer type
+      hint: prophets and wizards
+      type: select_multiple
+      options:
+      - Internal Move
+      - External Move
+      - Return
+      required: false
+    - id: 7
+      name: staff_member
+      label: staff member
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - chatjประก
+      required: false
+    - id: 8
+      name: equipment_location
+      label: equipment location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: customer_signature
+      label: customer signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: staff_signature
+      label: staff signature
+      hint: null
+      type: note
+      options: []
+      required: false

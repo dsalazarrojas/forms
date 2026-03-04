@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Skate School Consent Form
+    pages:
+    - id: 1
+      name: form_name
+      label: Form Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: date_of_participation
+      label: date_of_participation
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: parent_name
+      label: parent_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: parent_phone
+      label: parent_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: emergency_contact_person
+      label: emergency_contact_person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: emergency_contact_phone
+      label: emergency_contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact_relationship
+      label: emergency_contact_relationship
+      hint: null
+      type: select_one
+      options:
+      - Mother
+      - Father
+      - Guardian
+      - Other
+      required: false
+    - id: 9
+      name: student_id_number
+      label: student_id_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: student_name
+      label: student_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: parent_signature
+      label: parent_signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: student_signature
+      label: student_signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 13
+      name: school_name
+      label: school_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: program
+      label: program
+      hint: null
+      type: select_one
+      options:
+      - Program 1
+      - Program 2
+      - Program 3
+      required: true
+    - id: 15
+      name: program_length
+      label: program_length
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: program_start_date
+      label: program_start_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: program_end_date
+      label: program_end_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: program_days
+      label: program_days
+      hint: null
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: false
+    - id: 19
+      name: parent_permission
+      label: parent_permission
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 20
+      name: student_permission
+      label: student_permission
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 21
+      name: student_permission_note
+      label: student_permission_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: emergency_contact_permission
+      label: emergency_contact_permission
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 23
+      name: emergency_contact_permission_note
+      label: emergency_contact_permission_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: school_permission
+      label: school_permission
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 25
+      name: school_permission_note
+      label: school_permission_note
+      hint: null
+      type: text
+      options: []
+      required: false

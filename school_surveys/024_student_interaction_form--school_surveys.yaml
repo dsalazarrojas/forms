@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Interaction Form
+    pages:
+    - id: 1
+      name: student_interaction_form
+      label: student_interaction_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: student_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: student_grade
+      label: student_grade
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: student_subjects
+      label: student_subjects
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: student_interaction_date
+      label: student_interaction_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: teacher_name
+      label: teacher_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: teacher_email
+      label: teacher_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: teacher_phone
+      label: teacher_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: student_feedback
+      label: student_feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: student_concern
+      label: student_concern
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: teacher_feedback
+      label: teacher_feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: student_progress
+      label: student_progress
+      hint: null
+      type: select_one
+      options:
+      - Student is on track
+      - Student needs extra help
+      - Student is struggling
+      required: false
+    - id: 14
+      name: next_steps
+      label: next_steps
+      hint: null
+      type: text
+      options: []
+      required: false

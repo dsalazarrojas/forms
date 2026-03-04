@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nail Artist Pricing Transparency Survey Form
+    pages:
+    - id: 1
+      name: salons_and_independent_nail_artists
+      label: Salons and Independent Nail Artists
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: pricing_clarity
+      label: Pricing Clarity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: services_offered
+      label: Services Offered
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: satisfaction_with_pricing
+      label: Satisfaction with Pricing
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: true
+    - id: 5
+      name: client_feedback
+      label: Client Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: better_pricing
+      label: Better Pricing
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: pricing_decision
+      label: Pricing Decision
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: form_completion
+      label: Form Completion
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

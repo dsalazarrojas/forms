@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hair Damage Source Identification Survey
+    pages:
+    - id: 1
+      name: main_page
+      label: Main Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: hair_damage
+      label: Hair Damage
+      hint: null
+      type: select_multiple
+      options:
+      - Chemical Haircare Products
+      - Physical Damage
+      - Genetic Predisposition
+      required: false
+    - id: 3
+      name: chemical_products
+      label: Chemical Haircare Products
+      hint: null
+      type: select_one
+      options:
+      - Shampoo
+      - Conditioner
+      - Hair Spray
+      - Hair dye
+      - Hair relaxer
+      required: false
+    - id: 4
+      name: damage_level
+      label: Damage Level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: chemical_prodcuts_frequency
+      label: How often do you use chemical haircare products?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: hair_spray_use
+      label: Hair Spray
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: hair_dye_use
+      label: Hair Dye
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: hair_relaxer_use
+      label: Hair Relaxer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: physical_damage
+      label: Physical Damage
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: genetic_predisposition
+      label: Genetic Predisposition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: other_damage
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: other_damage_details
+      label: Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''I confirm that the above information is correct''}'
+      - '{''text'': ''I do not confirm that the above information is correct''}'
+      required: false
+    - id: 14
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

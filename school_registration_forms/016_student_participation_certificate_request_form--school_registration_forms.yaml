@@ -1,0 +1,139 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Participation Certificate Request Form
+    pages:
+    - id: 1
+      name: school_registration_forms_request
+      label: Request
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: student_name
+      label: Student
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: student_id
+      label: Student ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: student_level
+      label: Student Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 6
+      name: course_name
+      label: Course
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: certificate_date
+      label: Certificate Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: request_reason
+      label: Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: school_name
+      label: School
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: school_address
+      label: School Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: school_city
+      label: School City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: school_state
+      label: School State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: school_country
+      label: School Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: school_zip
+      label: School Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: school_phone
+      label: School Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: school_email
+      label: School Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: request_status
+      label: Request Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

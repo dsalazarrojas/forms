@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Learning Footage Data Science Consent Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Learning Footage Data Science Consent Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: consent
+      label: give_us_your_consent
+      hint: null
+      type: select_one
+      options:
+      - I give my consent for my data to be used for the following purposes.
+      - My data to be used for analytics.
+      - My data to be used for research.
+      - My data to be used for training projects.
+      - Other (please specify)
+      required: false
+    - id: 3
+      name: purpose
+      label: what_is_this_for
+      hint: What is this consent for?
+      type: select_multiple
+      options:
+      - Analytics
+      - Research
+      - Training projects
+      - Other
+      required: false
+    - id: 4
+      name: contact_method
+      label: how_do_you_want_to_be_contacted
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - Mail
+      - Other (please specify)
+      required: false
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: other_specify
+      label: other_specify
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: signature
+      label: signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: signed_on
+      label: signed_on
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: signed_at
+      label: signed_at
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: form_completed_by
+      label: form_completed_by
+      hint: null
+      type: number
+      options: []
+      required: false

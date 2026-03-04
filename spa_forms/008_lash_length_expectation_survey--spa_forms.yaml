@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: lash_length_expectation_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: lash_length
+      label: How_long_is_your_lashes_
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: lash_style
+      label: What_style_do_you_like_on_your_bangs_
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: lash_color
+      label: What_color_do_you_like_on_your_lashes_
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: lash_texture
+      label: What_texture_do_you_like_on_your_lashes_
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: lash_length_expectation
+      label: What_is_your_expected_lash_length_
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: lash_style_preference
+      label: What_style_do_you_prefer_on_your_lashes_
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: lash_color_preference
+      label: What_color_do_you_prefer_on_your_lashes_
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: note
+      label: Any_other_info_
+      hint: null
+      type: note
+      options: []
+      required: false

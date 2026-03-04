@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: travel_expenses_fest_team_form
+    pages:
+    - id: 1
+      name: travel_expenses_fest_team_form_page_1
+      label: travel_expenses_fest_team_form_page_1_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Cash''}'
+      - '{''label'': ''Credit Card''}'
+      - '{''label'': ''Debit Card''}'
+      required: true
+    - id: 3
+      name: departure_date
+      label: departure_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: personal_preferences
+      label: personal_preferences
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Accommodation''}'
+      - '{''label'': ''Food''}'
+      - '{''label'': ''Transportation''}'
+      - '{''label'': ''Activity''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 5
+      name: flight_number
+      label: flight_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: travel_agency
+      label: travel_agency
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: travel_agent
+      label: travel_agent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: travel_agency_phone
+      label: travel_agency_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: payment_method_details
+      label: payment_method_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: accommodation
+      label: accommodation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: flight_number_details
+      label: flight_number_details
+      hint: null
+      type: text
+      options: []
+      required: false

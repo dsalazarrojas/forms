@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Interest Survey
+    pages:
+    - id: 1
+      name: student_interest_survey
+      label: What activities you enjoy
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_expectation
+      label: What expectations do you have from your school year
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: favorite_subjects
+      label: Favorite subjects
+      hint: null
+      type: select_multiple
+      options:
+      - Math
+      - Science
+      - English
+      - History
+      - Art
+      - Music
+      - Physical education
+      - Foreign languages
+      - Other
+      required: false
+    - id: 4
+      name: favorite_activities
+      label: What activities do you enjoy
+      hint: null
+      type: select_multiple
+      options:
+      - Sports
+      - Clubs
+      - Parties
+      - Games
+      - Travel
+      - Hobbies
+      - Reading
+      - Music
+      - Other
+      required: false
+    - id: 5
+      name: favorite_classes
+      label: What classes are you interested in
+      hint: null
+      type: select_one
+      options:
+      - Math class
+      - Science class
+      - English class
+      - History class
+      - Art class
+      - Physical education class
+      - Foreign languages class
+      - Other class
+      required: false
+    - id: 6
+      name: favorite_time
+      label: What time of day do you like to study
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: favorite_day
+      label: What time of day do you like to be at school
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: student_interest_survey_note
+      label: Additional comments or questions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: student_email
+      label: Student email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: student_phone
+      label: Student phone
+      hint: null
+      type: text
+      options: []
+      required: false

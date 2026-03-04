@@ -1,0 +1,170 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beauty Service Client Application Form
+    pages:
+    - id: 1
+      name: section_personal_info
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: Include area code
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: street_address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: state_province
+      label: State/Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: postal_code
+      label: Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: section_health
+      label: -- Health Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: allergies
+      label: Known Allergies to Beauty Products
+      hint: List any product allergies
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: skin_conditions
+      label: Skin Conditions
+      hint: Eczema, psoriasis, acne, etc.
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: medications
+      label: Current Medications Affecting Skin
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: pregnancy_status
+      label: Are You Currently Pregnant
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Prefer Not to Say
+      required: false
+    - id: 16
+      name: medical_procedures
+      label: Recent Medical Procedures or Treatments
+      hint: Botox, laser treatments, chemical peels, etc.
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: section_consent
+      label: -- Consent and Agreement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: consent_services
+      label: I consent to receive beauty services
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 19
+      name: consent_risks
+      label: I understand the risks and potential side effects
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 20
+      name: consent_privacy
+      label: I agree to privacy policy and terms
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 21
+      name: consent_contact
+      label: I consent to being contacted about services
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 22
+      name: application_date
+      label: Date of Application
+      hint: Today's date
+      type: date
+      options: []
+      required: true

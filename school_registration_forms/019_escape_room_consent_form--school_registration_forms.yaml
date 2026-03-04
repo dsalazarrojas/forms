@@ -1,0 +1,137 @@
+inputSchema:
+  type: object
+  properties:
+    title: Escape Room Consent Form
+    pages:
+    - id: 1
+      name: student_name
+      label: student_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: school_name
+      label: school_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: student_email
+      label: student_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: student_phone
+      label: student_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: guardian_name
+      label: guardian_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: guardian_email
+      label: guardian_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: guardian_phone
+      label: guardian_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: parent_permission
+      label: parent_permission
+      hint: null
+      type: select_one
+      options:
+      - Student Guardian
+      - Parent Guardian
+      - Both
+      required: false
+    - id: 9
+      name: emergency_contact_name
+      label: emergency_contact_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: emergency_contact_phone
+      label: emergency_contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: emergency_contact_relationship
+      label: emergency_contact_relationship
+      hint: null
+      type: select_one
+      options:
+      - Parent
+      - Guardian
+      - Both
+      required: false
+    - id: 12
+      name: student_attendance
+      label: student_attendance
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: student_absence
+      label: student_absence
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: escape_date
+      label: escape_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: escape_time
+      label: escape_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: school_address
+      label: school_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: escape_room_number
+      label: escape_room_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: teacher_name
+      label: teacher_name
+      hint: null
+      type: text
+      options: []
+      required: false

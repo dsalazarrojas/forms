@@ -1,0 +1,284 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Computer Games Survey
+    pages:
+      - id: 1
+        name: survey_id
+        label: Survey ID
+        hint: Unique survey identifier
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: survey_date
+        label: Survey Date
+        hint: Date of survey completion
+        type: date
+        options: []
+        required: true
+      - id: 3
+        name: respondent_name
+        label: Respondent Name
+        hint: Your name or gamertag
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: email_address
+        label: Email Address
+        hint: Your email for follow up
+        type: email
+        options: []
+        required: false
+      - id: 5
+        name: age_range
+        label: Age Range
+        hint: Select your age range
+        type: select_one
+        options:
+          - Under 13
+          - 13 to 17
+          - 18 to 24
+          - 25 to 34
+          - 35 to 44
+          - 45 to 54
+          - 55 or Older
+        required: true
+      - id: 6
+        name: gender
+        label: Gender
+        hint: Select your gender
+        type: select_one
+        options:
+          - Male
+          - Female
+          - Non-Binary
+          - Prefer Not to Say
+          - Other
+        required: false
+      - id: 7
+        name: gaming_platform
+        label: Primary Gaming Platform
+        hint: What platform do you primarily use
+        type: select_one
+        options:
+          - PC
+          - PlayStation
+          - Xbox
+          - Nintendo Switch
+          - Mobile Device
+          - Multiple Platforms
+        required: true
+      - id: 8
+        name: gaming_frequency
+        label: Gaming Frequency
+        hint: How often do you play games
+        type: select_one
+        options:
+          - Daily
+          - Several Times a Week
+          - Once a Week
+          - Few Times a Month
+          - Rarely
+        required: true
+      - id: 9
+        name: average_session_length
+        label: Average Session Length
+        hint: How long is your typical gaming session
+        type: select_one
+        options:
+          - Less than 1 Hour
+          - 1 to 2 Hours
+          - 2 to 4 Hours
+          - 4 to 6 Hours
+          - More than 6 Hours
+        required: true
+      - id: 10
+        name: preferred_game_genres
+        label: Preferred Game Genres
+        hint: Select your favorite genres
+        type: select_multiple
+        options:
+          - Action
+          - Adventure
+          - Role Playing (RPG)
+          - First Person Shooter (FPS)
+          - Strategy
+          - Sports
+          - Racing
+          - Puzzle
+          - Simulation
+          - Horror
+          - Fighting
+          - MMO
+        required: true
+      - id: 11
+        name: favorite_game
+        label: Favorite Game
+        hint: What is your all time favorite game
+        type: text
+        options: []
+        required: false
+      - id: 12
+        name: game_satisfaction
+        label: Overall Game Satisfaction
+        hint: How satisfied are you with current games
+        type: select_one
+        options:
+          - Very Satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very Dissatisfied
+        required: true
+      - id: 13
+        name: graphics_quality_rating
+        label: Graphics Quality Rating
+        hint: Rate the graphics quality
+        type: select_one
+        options:
+          - 5 - Excellent
+          - 4 - Good
+          - 3 - Average
+          - 2 - Poor
+          - 1 - Very Poor
+        required: true
+      - id: 14
+        name: gameplay_mechanics_rating
+        label: Gameplay Mechanics Rating
+        hint: Rate the gameplay mechanics
+        type: select_one
+        options:
+          - 5 - Excellent
+          - 4 - Good
+          - 3 - Average
+          - 2 - Poor
+          - 1 - Very Poor
+        required: true
+      - id: 15
+        name: story_narrative_rating
+        label: Story and Narrative Rating
+        hint: Rate the story and narrative
+        type: select_one
+        options:
+          - 5 - Excellent
+          - 4 - Good
+          - 3 - Average
+          - 2 - Poor
+          - 1 - Very Poor
+          - Not Applicable
+        required: false
+      - id: 16
+        name: sound_music_rating
+        label: Sound and Music Rating
+        hint: Rate the sound and music
+        type: select_one
+        options:
+          - 5 - Excellent
+          - 4 - Good
+          - 3 - Average
+          - 2 - Poor
+          - 1 - Very Poor
+        required: true
+      - id: 17
+        name: difficulty_level
+        label: Preferred Difficulty Level
+        hint: What difficulty do you prefer
+        type: select_one
+        options:
+          - Very Easy
+          - Easy
+          - Normal
+          - Hard
+          - Very Hard
+          - Depends on Game
+        required: true
+      - id: 18
+        name: multiplayer_preference
+        label: Multiplayer Preference
+        hint: Do you prefer multiplayer games
+        type: select_one
+        options:
+          - Prefer Single Player
+          - Prefer Multiplayer
+          - Enjoy Both Equally
+          - Only Play Multiplayer
+          - Only Play Single Player
+        required: true
+      - id: 19
+        name: spending_habits
+        label: Monthly Gaming Spending
+        hint: How much do you spend on gaming monthly
+        type: select_one
+        options:
+          - Nothing
+          - Less than $20
+          - $20 to $50
+          - $50 to $100
+          - $100 to $200
+          - More than $200
+        required: true
+      - id: 20
+        name: purchase_factors
+        label: Factors Influencing Purchases
+        hint: What influences your game purchases
+        type: select_multiple
+        options:
+          - Reviews
+          - Trailers
+          - Friends Recommendations
+          - Price
+          - Genre
+          - Developer Reputation
+          - Demo Availability
+          - Sales or Discounts
+        required: false
+      - id: 21
+        name: new_features_desired
+        label: New Features Desired
+        hint: What features would you like to see
+        type: text
+        options: []
+        required: false
+      - id: 22
+        name: bugs_encountered
+        label: Bugs Encountered
+        hint: Have you encountered any bugs
+        type: select_one
+        options:
+          - No Bugs
+          - Minor Bugs
+          - Moderate Bugs
+          - Game Breaking Bugs
+        required: true
+      - id: 23
+        name: likelihood_to_recommend
+        label: Likelihood to Recommend
+        hint: How likely are you to recommend our games
+        type: select_one
+        options:
+          - 10 - Extremely Likely
+          - 9 - Very Likely
+          - 8 - Likely
+          - 7 - Somewhat Likely
+          - 6 or Below - Not Likely
+        required: true
+      - id: 24
+        name: additional_feedback
+        label: Additional Feedback
+        hint: Any other comments or suggestions
+        type: text
+        options: []
+        required: false

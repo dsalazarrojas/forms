@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: Service Appointment Request Form
+    pages:
+    - id: 1
+      name: customer_info
+      label: Customer Information
+      hint: Please provide your personal details
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: service_request
+      label: Service Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: appointment_preferences
+      label: Appointment Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: preferred_date
+      label: Preferred Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: preferred_time
+      label: Preferred Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: service_type
+      label: Type of Service
+      hint: null
+      type: select_multiple
+      options:
+      - Service A
+      - Service B
+      - Service C
+      required: false
+    - id: 8
+      name: service_description
+      label: Service Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: customer_notes
+      label: Customer Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: required_field
+      label: Required Field
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: service_booking_form_id
+      label: Service Booking Form ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - other
+      required: false
+    - id: 15
+      name: required_field_2
+      label: Required Field 2
+      hint: null
+      type: text
+      options: []
+      required: false

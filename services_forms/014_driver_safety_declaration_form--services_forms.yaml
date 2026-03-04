@@ -1,0 +1,153 @@
+inputSchema:
+  type: object
+  properties:
+    title: driver_safety_declaration_form
+    pages:
+    - id: 1
+      name: general_information
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: driver_license_history
+      label: Driver License History
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': True}'
+      - '{''id'': 2, ''name'': False}'
+      required: true
+    - id: 3
+      name: vehicle_info
+      label: Vehicle Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: driver_experience
+      label: Driver Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: vehicle_accidents
+      label: Vehicle Accidents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: driver_license_status
+      label: Driver License Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''active''}'
+      - '{''id'': 2, ''name'': ''inactive''}'
+      required: false
+    - id: 7
+      name: driving_history
+      label: Driving History
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: vehicle_license_number
+      label: Vehicle License Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: vehicle_make
+      label: Vehicle Make
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Toyota''}'
+      - '{''id'': 2, ''name'': ''Honda''}'
+      - '{''id'': 3, ''name'': ''Other''}'
+      required: true
+    - id: 10
+      name: vehicle_model
+      label: Vehicle Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: vehicle_year
+      label: Vehicle Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: vehicle_registration
+      label: Vehicle Registration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: driver_license_number
+      label: Driver License Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: driver_address
+      label: Driver Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: driver_phone
+      label: Driver Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: vehicle_license_status
+      label: Vehicle License Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''active''}'
+      - '{''id'': 2, ''name'': ''inactive''}'
+      required: false
+    - id: 17
+      name: vehicle_make_status
+      label: Vehicle Make Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''active''}'
+      - '{''id'': 2, ''name'': ''inactive''}'
+      required: false
+    - id: 18
+      name: vehicle_model_status
+      label: Vehicle Model Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''active''}'
+      - '{''id'': 2, ''name'': ''inactive''}'
+      required: false
+    - id: 19
+      name: vehicle_status
+      label: Vehicle Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''active''}'
+      - '{''id'': 2, ''name'': ''inactive''}'
+      required: false

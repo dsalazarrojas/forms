@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Monthly Restaurant Employee Evaluation Form
+    pages:
+    - id: 1
+      name: restaurant_evaluation_form_1
+      label: employee_performance
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Excellent''}'
+      - '{''id'': 2, ''label'': ''Good''}'
+      - '{''id'': 3, ''label'': ''Fair''}'
+      - '{''id'': 4, ''label'': ''Poor''}'
+      required: false
+    - id: 2
+      name: employee_skills
+      label: skills
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_attendance
+      label: attendance
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: employee_customer_service
+      label: customer_service
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Excellent''}'
+      - '{''id'': 2, ''label'': ''Good''}'
+      - '{''id'': 3, ''label'': ''Fair''}'
+      - '{''id'': 4, ''label'': ''Poor''}'
+      required: true
+    - id: 5
+      name: employee_safety_consciousness
+      label: safety_consciousness
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: employee_courtesy
+      label: courtesy
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: employee_dedication
+      label: dedication
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: employee_flexibility
+      label: flexibility
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: employee_workload
+      label: workload
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: restaurant_environment
+      label: environment
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: employee_satisfaction
+      label: satisfaction
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Excellent''}'
+      - '{''id'': 2, ''label'': ''Good''}'
+      - '{''id'': 3, ''label'': ''Fair''}'
+      - '{''id'': 4, ''label'': ''Poor''}'
+      required: true
+    - id: 12
+      name: date_of_evaluation
+      label: date_of_evaluation
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: time_of_evaluation
+      label: time_of_evaluation
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 14
+      name: employee_name
+      label: employee_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: employee_email
+      label: employee_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 16
+      name: employee_phone
+      label: employee_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: employee_address
+      label: employee_address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: employee_position
+      label: employee_position
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: employee_comments
+      label: employee_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: restaurant_manager_comments
+      label: restaurant_manager_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: restaurant_manager_suggestions
+      label: restaurant_manager_suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: restaurant_manager_recommendations
+      label: restaurant_manager_recommendations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: restaurant_manager_signature
+      label: restaurant_manager_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: evaluation_completed
+      label: evaluation_completed
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: true
+    - id: 25
+      name: evaluation_status
+      label: evaluation_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''In Progress''}'
+      - '{''id'': 2, ''label'': ''Completed''}'
+      - '{''id'': 3, ''label'': ''Not Started''}'
+      required: true

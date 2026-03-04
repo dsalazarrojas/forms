@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: fleet_service_report_form
+    pages:
+    - id: 1
+      name: vehicle_details
+      label: Vehicle Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: vehicle_year
+      label: Vehicle Year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: mileage
+      label: Mileage
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: maintenance_needs
+      label: Maintenance Needs
+      hint: null
+      type: select_one
+      options:
+      - Oil Change
+      - Tire Change
+      - Battery Check
+      required: true
+    - id: 5
+      name: maintenance_items
+      label: Maintenance Items
+      hint: null
+      type: select_multiple
+      options:
+      - Oil
+      - Tire
+      - Battery
+      required: true
+    - id: 6
+      name: report_date
+      label: Report Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - Assigned
+      - Not Assigned
+      required: true

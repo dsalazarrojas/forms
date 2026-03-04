@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customs Shipping Form
+    pages:
+    - id: 1
+      name: sender_info
+      label: Sender Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: sender_country
+      label: sender_country
+      hint: null
+      type: select_one
+      options:
+      - United States
+      - Canada
+      - Mexico
+      required: false
+    - id: 3
+      name: recipient_info
+      label: Recipient Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: recipient_country
+      label: recipient_country
+      hint: null
+      type: select_one
+      options:
+      - United States
+      - Canada
+      - Mexico
+      required: false
+    - id: 5
+      name: shipment_desc
+      label: shipment_desc
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: shipment_value
+      label: Shipment Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: shipment_weight
+      label: Shipment Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: customs_form
+      label: Custom Form
+      hint: null
+      type: select_multiple
+      options:
+      - Form 1
+      - Form 2
+      - Form 3
+      required: false
+    - id: 9
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false

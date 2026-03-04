@@ -1,0 +1,169 @@
+inputSchema:
+  type: object
+  properties:
+    title: Racism Survey
+    pages:
+    - id: 1
+      name: survey_title
+      label: racism_survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: demographic_info
+      label: demographic_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: race
+      label: race
+      hint: null
+      type: select_one
+      options:
+      - African American
+      - Asian
+      - Black or African American
+      - Hispanic or Latino
+      - Native American
+      - White
+      - Other
+      required: false
+    - id: 4
+      name: ethnicity
+      label: ethnicity
+      hint: null
+      type: select_multiple
+      options:
+      - African American
+      - Asian
+      - Black or African American
+      - Hispanic or Latino
+      - Native American
+      - White
+      - Other
+      required: false
+    - id: 5
+      name: gender
+      label: gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: false
+    - id: 6
+      name: age
+      label: age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: education_level
+      label: education_level
+      hint: null
+      type: select_one
+      options:
+      - Elementary
+      - High School
+      - Some college
+      - College or higher
+      required: false
+    - id: 8
+      name: education_field
+      label: education_field
+      hint: null
+      type: select_one
+      options:
+      - Social Services
+      - Education
+      - Health Care
+      - Other
+      required: false
+    - id: 9
+      name: experience_with_discrimination
+      label: experience_with_discrimination
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: discrimination_type
+      label: discrimination_type
+      hint: null
+      type: select_one
+      options:
+      - Racism
+      - Racial discrimination
+      - Other
+      required: false
+    - id: 11
+      name: discrimination_level
+      label: discrimination_level
+      hint: null
+      type: select_one
+      options:
+      - Strongly Agree
+      - Somewhat Agree
+      - Somewhat Disagree
+      - Strongly Disagree
+      required: false
+    - id: 12
+      name: frequency
+      label: frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
+      required: false
+    - id: 13
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

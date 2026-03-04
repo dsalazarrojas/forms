@@ -1,0 +1,242 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beauty Service Event Agreement Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Full Name
+      hint: Legal name as it appears on ID
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: client_phone
+      label: Phone Number
+      hint: Best number to reach you
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: client_address
+      label: Event Address
+      hint: Full address where services will be provided
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: event_type
+      label: Event Type
+      hint: What type of event is this
+      type: select_one
+      options:
+      - Wedding
+      - Bridal Shower
+      - Birthday Party
+      - Quinceanera
+      - Prom or Formal Dance
+      - Corporate Event
+      - Photo Shoot
+      - Fashion Show
+      - Private Party
+      - Other
+      required: true
+    - id: 6
+      name: event_date
+      label: Event Date
+      hint: Date of the event
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: event_start_time
+      label: Event Start Time
+      hint: What time does the event start
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: service_start_time
+      label: Desired Service Start Time
+      hint: What time should beauty services begin
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: number_of_people
+      label: Number of People Receiving Services
+      hint: Total number of individuals
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: services_requested
+      label: Services Requested
+      hint: Select all services needed
+      type: select_multiple
+      options:
+      - Bridal Hair Styling
+      - Bridesmaid Hair Styling
+      - Mother of Bride Hair
+      - Flower Girl Hair
+      - Bridal Makeup
+      - Bridesmaid Makeup
+      - Individual Makeup
+      - False Eyelash Application
+      - Airbrush Makeup
+      - Hair Extensions
+      - Touch-Up Services
+      - Other
+      required: true
+    - id: 11
+      name: bridal_package
+      label: Bridal Package Selection
+      hint: Select bridal package if applicable
+      type: select_one
+      options:
+      - Not Applicable
+      - Bride Only Package
+      - Bride and Bridal Party Package
+      - Full Wedding Party Package
+      - Custom Package
+      required: false
+    - id: 12
+      name: trial_session
+      label: Trial Session Requested
+      hint: Would you like to schedule a trial session
+      type: select_one
+      options:
+      - Yes before the event
+      - No not needed
+      - Unsure
+      required: true
+    - id: 13
+      name: travel_distance
+      label: Travel Distance from Salon
+      hint: Approximately how many miles from our salon
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: parking_available
+      label: Parking Available at Venue
+      hint: Will parking be available for our team
+      type: select_one
+      options:
+      - Yes free parking
+      - Yes paid parking
+      - No parking validation needed
+      - Unsure
+      required: true
+    - id: 15
+      name: setup_space
+      label: Setup Space Available
+      hint: Describe the space where services will be provided
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: electrical_access
+      label: Electrical Outlets Access
+      hint: Will electrical outlets be accessible
+      type: select_one
+      options:
+      - Yes multiple outlets
+      - Yes limited outlets
+      - No will need extension cords
+      - Unsure
+      required: true
+    - id: 17
+      name: total_estimated_cost
+      label: Total Estimated Cost
+      hint: Estimated total for all services
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: deposit_amount
+      label: Deposit Amount Required
+      hint: Non-refundable deposit to secure booking
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: deposit_paid
+      label: Deposit Paid
+      hint: Has the deposit been paid
+      type: select_one
+      options:
+      - Yes paid
+      - Not yet
+      - Paying with this agreement
+      required: true
+    - id: 20
+      name: payment_schedule
+      label: Payment Schedule
+      hint: When is remaining balance due
+      type: select_one
+      options:
+      - Day of event
+      - One week before event
+      - Two weeks before event
+      - Split payments
+      required: true
+    - id: 21
+      name: cancellation_policy
+      label: Cancellation Policy Agreement
+      hint: I understand the cancellation and refund policy
+      type: select_one
+      options:
+      - I understand and agree
+      - I do not agree
+      required: true
+    - id: 22
+      name: late_fee_policy
+      label: Late Fee Policy
+      hint: I understand services may be reduced for late starts
+      type: select_one
+      options:
+      - I understand and agree
+      - I do not agree
+      required: true
+    - id: 23
+      name: weather_policy
+      label: Weather or Emergency Policy
+      hint: I understand the policy for weather or emergencies
+      type: select_one
+      options:
+      - I understand and agree
+      - I do not agree
+      required: true
+    - id: 24
+      name: liability_waiver
+      label: Liability Waiver
+      hint: I release the service provider from liability
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 25
+      name: client_signature
+      label: Client Signature Agreement
+      hint: By selecting yes I agree to all terms
+      type: select_one
+      options:
+      - I agree to all terms and conditions
+      - I do not agree
+      required: true
+    - id: 26
+      name: agreement_date
+      label: Agreement Date
+      hint: Today date
+      type: date
+      options: []
+      required: true

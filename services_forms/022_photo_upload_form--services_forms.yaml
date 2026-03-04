@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Photo Upload Form
+    pages:
+    - id: 1
+      name: photo_upload_form_page_1
+      label: Photo Upload
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: upload_photo
+      label: Select File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: uploaded_photos
+      label: Uploaded Photos
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: uploaded_phones
+      label: Uploaded Phones
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: photo_upload_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: photo_upload_tags
+      label: Tags
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: date_uploaded
+      label: Date Uploaded
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_uploaded
+      label: Time Uploaded
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: photo_upload_form_comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

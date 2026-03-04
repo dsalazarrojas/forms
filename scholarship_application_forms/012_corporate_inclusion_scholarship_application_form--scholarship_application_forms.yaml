@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: Corporate Inclusion Scholarship Application Form
+    pages:
+    - id: 1
+      name: contact
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: education
+      label: Education
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: motivation
+      label: Motivation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: contact_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: education_field_of_study
+      label: Field Of Study
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: education_institution
+      label: Institution
+      hint: null
+      type: text
+      options: []
+      required: false

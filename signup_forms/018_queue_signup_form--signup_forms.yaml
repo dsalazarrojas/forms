@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Queue Signup Form
+    pages:
+    - id: 1
+      name: queue_signup_form_first_page
+      label: queue_signup_form_first_page_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: queue_signup_form_second_page
+      label: select_queue
+      hint: Choose a queue
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: true
+    - id: 3
+      name: select_queue_name
+      label: select_queue_name_label
+      hint: Select a queue name
+      type: select_one
+      options:
+      - Queue 1
+      - Queue 2
+      - Queue 3
+      required: true
+    - id: 4
+      name: select_service
+      label: select_service_label
+      hint: Select a service
+      type: select_one
+      options:
+      - Service 1
+      - Service 2
+      - Service 3
+      required: true
+    - id: 5
+      name: select_time
+      label: select_time_label
+      hint: Select a time
+      type: select_one
+      options:
+      - 9:00am
+      - 10:00am
+      - 11:00am
+      required: true
+    - id: 6
+      name: select_date
+      label: select_date_label
+      hint: Select a date
+      type: select_one
+      options:
+      - '2024-01-01'
+      - '2024-01-02'
+      - '2024-01-03'
+      required: true
+    - id: 7
+      name: name
+      label: name_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: email_label
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: phone_label
+      hint: null
+      type: text
+      options: []
+      required: false

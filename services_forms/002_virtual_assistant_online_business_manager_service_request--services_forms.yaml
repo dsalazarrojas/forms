@@ -1,0 +1,144 @@
+inputSchema:
+  type: object
+  properties:
+    title: Virtual Assistant Online Business Manager Service Request
+    pages:
+    - id: 1
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_one
+      options:
+      - Service Inquiry
+      - Business Qualification
+      - Other
+      required: false
+    - id: 2
+      name: name
+      label: Business Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: service_needed
+      label: Service Needed
+      hint: null
+      type: select_one
+      options:
+      - Website Design
+      - Online Marketing
+      - Social Media Management
+      - Content Creation
+      - Other
+      required: false
+    - id: 6
+      name: service_inquired
+      label: Service Inquired
+      hint: Please specify what you need help with
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: preferred_communication
+      label: Preferred Communication
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Text
+      - Chat
+      required: false
+    - id: 8
+      name: follow_up
+      label: Follow-Up Schedule
+      hint: null
+      type: select_multiple
+      options:
+      - 1 hour
+      - 2 hours
+      - 3 hours
+      - 4 hours
+      - 5 hours
+      required: false
+    - id: 9
+      name: additional_notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 10
+      name: business_hours
+      label: Business Hours
+      hint: What are your working hours?
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: best_contact_time
+      label: Best Contact Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: meeting_details
+      label: Meeting Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: meeting_date
+      label: Meeting Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: meeting_time
+      label: Meeting Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: meeting_location
+      label: Meeting Location
+      hint: null
+      type: select_one
+      options:
+      - Virtual Meeting
+      - In-person Meeting
+      - Online Office
+      required: false
+    - id: 16
+      name: meeting_location_details
+      label: Meeting Location Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: meeting_follow_up
+      label: Meeting Follow-Up
+      hint: null
+      type: text
+      options: []
+      required: false

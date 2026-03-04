@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vehicle Valuation Form
+    pages:
+    - id: 1
+      name: vehicle_type
+      label: Vehicle Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: vehicle_year
+      label: vehicle_year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: vehicle_mileage
+      label: vehicle_mileage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: vehicle_condition
+      label: vehicle_condition
+      hint: null
+      type: select_multiple
+      options:
+      - New
+      - Used
+      - Salvage
+      required: false
+    - id: 5
+      name: engine_number
+      label: engine_number
+      hint: null
+      type: select_one
+      options:
+      - V6
+      - V8
+      - V10
+      required: false
+    - id: 6
+      name: vehicle_damage
+      label: vehicle_damage
+      hint: null
+      type: select_multiple
+      options:
+      - Front end damage
+      - Rear end damage
+      - Body damage
+      required: false
+    - id: 7
+      name: vehicle_value
+      label: vehicle_value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: vehicle_image
+      label: vehicle_image
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: vehicle_description
+      label: vehicle_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: vehicle_price
+      label: vehicle_price
+      hint: null
+      type: number
+      options: []
+      required: false

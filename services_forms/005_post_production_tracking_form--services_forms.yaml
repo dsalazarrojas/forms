@@ -1,0 +1,45 @@
+inputSchema:
+  type: object
+  properties:
+    title: Post Production Tracking Form
+    pages:
+    - id: 1
+      name: agency_details
+      label: Agency Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: acquisition_format
+      label: Acquisition Format
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Format 1''}'
+      - '{''id'': 2, ''name'': ''Format 2''}'
+      required: false
+    - id: 3
+      name: due_date
+      label: Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: deliverables
+      label: Deliverables
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Deliverable 1''}'
+      - '{''id'': 2, ''name'': ''Deliverable 2''}'
+      - '{''id'': 3, ''name'': ''Deliverable 3''}'
+      required: false
+    - id: 5
+      name: post_hours_budget
+      label: Post Hours Budget
+      hint: null
+      type: number
+      options: []
+      required: false

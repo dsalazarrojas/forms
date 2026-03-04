@@ -1,0 +1,177 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Catchy Username Suggestions
+    pages:
+      - id: 1
+        name: user_name
+        label: Your Name
+        hint: Your real name or nickname
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: email
+        label: Email Address
+        hint: Where to send suggestions
+        type: email
+        options: []
+        required: true
+      - id: 3
+        name: platform
+        label: Platform or Use Case
+        hint: Where will you use this username
+        type: select_one
+        options:
+          - Gaming
+          - Social Media
+          - Professional
+          - Forum
+          - Streaming
+          - General Use
+        required: true
+      - id: 4
+        name: preferred_style
+        label: Preferred Style
+        hint: What style do you prefer
+        type: select_one
+        options:
+          - Cool and Edgy
+          - Fun and Playful
+          - Professional
+          - Creative and Unique
+          - Minimalist
+          - Random
+        required: true
+      - id: 5
+        name: favorite_words
+        label: Favorite Words or Themes
+        hint: Words you like - hobbies - interests
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: favorite_numbers
+        label: Favorite Numbers
+        hint: Lucky numbers or significant dates
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: include_numbers
+        label: Include Numbers in Username
+        hint: Do you want numbers included
+        type: select_one
+        options:
+          - Yes
+          - No
+          - Optional
+        required: true
+      - id: 8
+        name: include_underscores
+        label: Include Underscores or Special Characters
+        hint: Are special characters okay
+        type: select_one
+        options:
+          - Yes
+          - No
+          - Optional
+        required: true
+      - id: 9
+        name: username_length
+        label: Preferred Username Length
+        hint: Short - medium - or long
+        type: select_one
+        options:
+          - Short - Under 10 characters
+          - Medium - 10 to 15 characters
+          - Long - Over 15 characters
+          - No Preference
+        required: false
+      - id: 10
+        name: alliteration_preference
+        label: Alliteration Preference
+        hint: Do you like repeating sounds
+        type: select_one
+        options:
+          - Yes - Love It
+          - No Preference
+          - No - Avoid It
+        required: false
+      - id: 11
+        name: animal_preference
+        label: Favorite Animal
+        hint: For animal-themed suggestions
+        type: text
+        options: []
+        required: false
+      - id: 12
+        name: color_preference
+        label: Favorite Color
+        hint: For color-themed suggestions
+        type: text
+        options: []
+        required: false
+      - id: 13
+        name: existing_usernames
+        label: Usernames You Already Tried
+        hint: What has been taken
+        type: text
+        options: []
+        required: false
+      - id: 14
+        name: quantity_needed
+        label: How Many Suggestions Needed
+        hint: Number of options you want
+        type: select_one
+        options:
+          - 5 or Less
+          - 6 to 10
+          - 11 to 20
+          - As Many as Possible
+        required: true
+      - id: 15
+        name: tone
+        label: Preferred Tone
+        hint: What vibe do you want
+        type: select_one
+        options:
+          - Serious
+          - Funny
+          - Mysterious
+          - Friendly
+          - Bold
+          - No Preference
+        required: false
+      - id: 16
+        name: avoid_words
+        label: Words to Avoid
+        hint: Any words you do not want
+        type: text
+        options: []
+        required: false
+      - id: 17
+        name: inspiration_sources
+        label: Inspiration Sources
+        hint: Movies - books - games - etc
+        type: text
+        options: []
+        required: false
+      - id: 18
+        name: additional_preferences
+        label: Additional Preferences
+        hint: Any other requirements
+        type: text
+        options: []
+        required: false

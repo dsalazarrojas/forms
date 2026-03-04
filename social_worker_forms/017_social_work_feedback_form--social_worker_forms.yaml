@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Social Work Feedback Form
+    pages:
+    - id: 1
+      name: client_rating
+      label: Client Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: rating_scale
+      label: Rating Scale
+      hint: 1-5
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 3
+      name: feedback_type
+      label: Feedback Type
+      hint: null
+      type: select_multiple
+      options:
+      - Client
+      - Colleague
+      - Manager
+      required: false
+    - id: 4
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_completed
+      label: Date Completed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_completed
+      label: Time Completed
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: completed_by
+      label: Completed By
+      hint: null
+      type: select_one
+      options:
+      - Service Worker 1
+      - Service Worker 2
+      - Service Worker 3
+      required: false

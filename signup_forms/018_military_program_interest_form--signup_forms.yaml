@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Military Program Interest Form
+    pages:
+    - id: 1
+      name: form_first_name
+      label: first name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: military_id
+      label: military_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: branch_of_military_service
+      label: branch of military service
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Army''}'
+      - '{''id'': 2, ''label'': ''Navy''}'
+      - '{''id'': 3, ''label'': ''Air Force''}'
+      - '{''id'': 4, ''label'': ''Marine Corps''}'
+      - '{''id'': 5, ''label'': ''Coast Guard''}'
+      - '{''id'': 6, ''label'': ''Other''}'
+      required: false
+    - id: 5
+      name: date_of_interest
+      label: date of interest
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: contact_method
+      label: contact method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Phone''}'
+      - '{''id'': 2, ''label'': ''Email''}'
+      - '{''id'': 3, ''label'': ''In-person''}'
+      required: true
+    - id: 7
+      name: contact_phone
+      label: contact phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: contact_email
+      label: contact email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: contact_in_person
+      label: contact in person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: school_name
+      label: school name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: school_location
+      label: school location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: school_address
+      label: school address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: school_phone
+      label: school phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: school_email
+      label: school email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: school_website
+      label: school website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: training_provider_name
+      label: training provider name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: training_provider_location
+      label: training provider location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: training_provider_phone
+      label: training provider phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: training_provider_email
+      label: training provider email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: outreach_team_name
+      label: outreach team name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: outreach_team_location
+      label: outreach team location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: outreach_team_phone
+      label: outreach team phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: outreach_team_email
+      label: outreach team email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 24
+      name: additional_comments
+      label: additional comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: true

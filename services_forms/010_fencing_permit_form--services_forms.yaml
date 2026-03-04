@@ -1,0 +1,50 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fencing Permit Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: property_address
+      label: property_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: property_size
+      label: property_size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: permit_type
+      label: Permit Type
+      hint: null
+      type: select_one
+      options:
+      - Permit A
+      - Permit B
+      - Permit C
+      required: true
+    - id: 5
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false

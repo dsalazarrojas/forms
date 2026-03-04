@@ -1,0 +1,46 @@
+inputSchema:
+  type: object
+  properties:
+    title: Legal Home
+    pages:
+    - id: 1
+      name: legal_home_service_1
+      label: Service 1
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: legal_home_service_2
+      label: Service 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: legal_home_service_3
+      label: Service 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: legal_home_legal_practitioner_1
+      label: Legal Practitioner 1
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: legal_home_legal_practitioner_2
+      label: Legal Practitioner 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: Automotive Consultant Estimate Form
+    pages:
+    - id: 1
+      name: section_header_client
+      label: -- Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: client_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: client_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_header_vehicle
+      label: -- Vehicle Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: vehicle_year
+      label: Vehicle Year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: vehicle_make
+      label: Vehicle Make
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: vehicle_model
+      label: Vehicle Model
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: vehicle_vin
+      label: Vehicle VIN
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: mileage
+      label: Current Mileage
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: section_header_service
+      label: -- Service Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: issue_description
+      label: Issue or Problem Description
+      hint: What needs to be estimated?
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: service_type
+      label: Type of Service
+      hint: null
+      type: select_one
+      options:
+      - Repair
+      - Maintenance
+      - Diagnostic
+      - Inspection
+      - Restoration
+      - Upgrade
+      - Customization
+      required: true
+    - id: 15
+      name: parts_needed
+      label: Parts or Components Affected
+      hint: List the parts that need work
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: section_header_estimate
+      label: -- Estimate Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: labor_hours
+      label: Estimated Labor Hours
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: labor_rate
+      label: Labor Rate Per Hour
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: parts_cost
+      label: Estimated Parts Cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: additional_costs
+      label: Additional Costs or Fees
+      hint: Diagnostic fees, disposal, etc.
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: total_estimate
+      label: Total Estimate
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: section_header_timeline
+      label: -- Timeline and Warranty --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: work_timeline
+      label: Estimated Work Timeline
+      hint: null
+      type: select_one
+      options:
+      - Same Day
+      - 1-2 Days
+      - 3-5 Days
+      - 1-2 Weeks
+      - 2-4 Weeks
+      - Custom Timeline
+      required: true
+    - id: 24
+      name: warranty_offered
+      label: Warranty on Work
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: estimate_date
+      label: Estimate Date
+      hint: null
+      type: date
+      options: []
+      required: true

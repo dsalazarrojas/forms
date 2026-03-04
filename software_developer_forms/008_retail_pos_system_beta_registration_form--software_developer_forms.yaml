@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: retail_pos_system_beta_registration_form
+    pages:
+    - id: 1
+      name: company_name
+      label: Company Name
+      hint: Enter your company name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_person
+      label: Contact Person
+      hint: Enter your contact person's name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: Enter your email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: Enter your phone number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: store_name
+      label: Store Name
+      hint: Enter your store name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: location
+      label: Location
+      hint: Enter your store location
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: store_type
+      label: Store Type
+      hint: Enter your store type
+      type: select_one
+      options:
+      - brick_and_mortar
+      - online
+      - both
+      required: true
+    - id: 8
+      name: store_size
+      label: Store Size
+      hint: Select your store size
+      type: select_one
+      options:
+      - small
+      - medium
+      - large
+      required: true
+    - id: 9
+      name: store_products
+      label: Store Products
+      hint: Enter your store products
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: consent
+      label: Consent
+      hint: We will be sending emails to your email address
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true

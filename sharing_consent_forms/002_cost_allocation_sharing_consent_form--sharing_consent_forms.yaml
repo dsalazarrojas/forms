@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cost Allocation Sharing Consent Form
+    pages:
+    - id: 1
+      name: main_page
+      label: Main Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: cost_sharing_agreement
+      label: Cost-Sharing Agreement
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: approval_status
+      label: Approval Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Denied
+      - Pending
+      required: false
+    - id: 4
+      name: date_approved
+      label: Date Approved
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: approval_date
+      label: Approval Date
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: approver_comments
+      label: Approver Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: approver_name
+      label: Approver Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: approver_title
+      label: Approver Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: approver_email
+      label: Approver Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: approver_phone
+      label: Approver Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: approver_signature
+      label: Approver Signature
+      hint: null
+      type: time
+      options: []
+      required: true

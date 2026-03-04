@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cryotherapy Facial Consent Form
+    pages:
+    - id: 1
+      name: client_details
+      label: Client Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: treatment_consent
+      label: Treatment Consent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: consent_given
+      label: Consent Given
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: client_comments
+      label: Client Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: spa_staff_comments
+      label: Spa Staff Comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Deal Ticket
+    pages:
+    - id: 1
+      name: deal_ticket_form
+      label: Deal Ticket Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: deal_ticket_date
+      label: Date
+      hint: Date of the deal
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: deal_ticket_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: deal_ticket_description
+      label: Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: deal_ticket_services
+      label: Services
+      hint: null
+      type: select_one
+      options:
+      - Service 1
+      - Service 2
+      - Service 3
+      required: false
+    - id: 6
+      name: deal_ticket_notes
+      label: Notes
+      hint: Any notes about the deal
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: deal_ticket_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: deal_ticket_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: deal_ticket_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: deal_ticket_status
+      label: Status
+      hint: null
+      type: select_multiple
+      options:
+      - status1
+      - status2
+      required: false

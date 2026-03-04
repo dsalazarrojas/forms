@@ -1,0 +1,142 @@
+inputSchema:
+  type: object
+  properties:
+    title: family_management_survey
+    pages:
+    - id: 1
+      name: family_dynamics
+      label: family_dynamics
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: family_members
+      label: family_members
+      hint: null
+      type: select_multiple
+      options:
+      - Member 1
+      - Member 2
+      - Member 3
+      - Member 4
+      - Member 5
+      required: false
+    - id: 3
+      name: family_relationships
+      label: family_relationships
+      hint: null
+      type: select_one
+      options:
+      - Mother
+      - Father
+      - Both
+      - Other
+      required: false
+    - id: 4
+      name: family_goals
+      label: family_goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: family_practices
+      label: family_practices
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: management_styles
+      label: management_styles
+      hint: null
+      type: select_multiple
+      options:
+      - Authoritarian
+      - Permissive
+      - Democratic
+      - Other
+      required: false
+    - id: 7
+      name: family_dynamics
+      label: family_dynamics
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: family_stresses
+      label: family_stresses
+      hint: null
+      type: select_multiple
+      options:
+      - Financial
+      - Conflict
+      - Parenting
+      - Other
+      required: false
+    - id: 9
+      name: support_systems
+      label: support_systems
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: family_counseling
+      label: family_counseling
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: family_counseling_frequency
+      label: family_counseling_frequency
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: family_counseling_duration
+      label: family_counseling_duration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: family_dynamics_2
+      label: family_dynamics_2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: family_relationships_2
+      label: family_relationships_2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: management_styles_2
+      label: management_styles_2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: family_dynamics_3
+      label: family_dynamics_3
+      hint: null
+      type: note
+      options: []
+      required: false

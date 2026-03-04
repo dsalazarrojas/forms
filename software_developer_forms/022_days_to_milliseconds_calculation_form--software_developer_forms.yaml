@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: Days To Milliseconds Calculation Form
+    pages:
+    - id: 1
+      name: days_to_ms
+      label: Days
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: ms
+      label: Milliseconds
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: calculate
+      label: Calculate
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''ms_per_day''}'
+      - '{''value'': ''days_in_ms''}'
+      required: false
+    - id: 4
+      name: result
+      label: Result
+      hint: null
+      type: text
+      options: []
+      required: false

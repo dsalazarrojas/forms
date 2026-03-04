@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: patrol_report_form
+    pages:
+    - id: 1
+      name: officer_id
+      label: Officer ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: date_and_time
+      label: Date and Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: unit_id
+      label: Unit ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: officer_name
+      label: Officer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: report_start_time
+      label: Report Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: report_end_time
+      label: Report End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: event_description
+      label: Event Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: unit_type
+      label: Unit Type
+      hint: null
+      type: select_one
+      options:
+      - Police Patrol
+      - K9 Unit
+      - Traffic
+      required: false
+    - id: 10
+      name: unit_status
+      label: Unit Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 11
+      name: report_type
+      label: Report Type
+      hint: null
+      type: select_one
+      options:
+      - Patrol
+      - Arrest
+      - Other
+      required: false
+    - id: 12
+      name: incident_number
+      label: Incident Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: incident_time
+      label: Incident Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: incident_location
+      label: Incident Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: incident_description
+      label: Incident Description
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,166 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Sign Up Form
+    pages:
+    - id: 1
+      name: business_name
+      label: Business Name
+      hint: Legal name of your business
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_person_name
+      label: Contact Person Name
+      hint: Primary contact full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Email Address
+      hint: Your business email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Phone Number
+      hint: Your contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: business_address
+      label: Business Address
+      hint: Street address of your business
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: city
+      label: City
+      hint: City name
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: state_province
+      label: State or Province
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: postal_code
+      label: Postal Code
+      hint: ZIP or postal code
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: country
+      label: Country
+      hint: Country of operation
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: business_type
+      label: Type of Business
+      hint: What type of business do you have
+      type: select_one
+      options:
+      - Retail
+      - Services
+      - Manufacturing
+      - Technology
+      - Consulting
+      - Non-profit
+      - Other
+      required: true
+    - id: 11
+      name: industry_sector
+      label: Industry Sector
+      hint: Primary industry
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: employees_count
+      label: Number of Employees
+      hint: How many people do you employ
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: annual_revenue
+      label: Annual Revenue
+      hint: Approximate annual revenue
+      type: select_one
+      options:
+      - Under 100k
+      - 100k-500k
+      - 500k-1M
+      - 1M-5M
+      - 5M-10M
+      - 10M+
+      required: false
+    - id: 14
+      name: business_website
+      label: Business Website
+      hint: Your business website URL
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: years_operating
+      label: Years in Operation
+      hint: How long has your business existed
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: signup_interest
+      label: Interest in Our Services
+      hint: What services are you interested in
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: How should we contact you
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Text Message
+      - No Contact
+      required: true
+    - id: 18
+      name: newsletter_subscription
+      label: Subscribe to Newsletter
+      hint: Want to receive updates
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 19
+      name: terms_agreement
+      label: Agree to Terms and Conditions
+      hint: Do you agree to our terms
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 20
+      name: signup_date
+      label: Sign Up Date
+      hint: Date of registration
+      type: date
+      options: []
+      required: true

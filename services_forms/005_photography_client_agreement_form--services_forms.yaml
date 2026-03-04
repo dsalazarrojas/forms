@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Photography Client Agreement Form
+    pages:
+    - id: 1
+      name: session_details
+      label: Session Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: session_type
+      label: Session Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Standard Session''}'
+      - '{''id'': 2, ''value'': ''Extended Session''}'
+      - '{''id'': 3, ''value'': ''Premium Session''}'
+      required: false
+    - id: 3
+      name: session_date
+      label: Session Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: duration
+      label: Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: photographer
+      label: Photographer
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Photographer 1''}'
+      - '{''id'': 2, ''value'': ''Photographer 2''}'
+      - '{''id'': 3, ''value'': ''Photographer 3''}'
+      required: false
+    - id: 7
+      name: client_details
+      label: Client Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: agreement
+      label: Agreement
+      hint: Please read carefully before signing
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: signature
+      label: Signature
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Submit''}'
+      - Other
+      required: false
+    - id: 11
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: client_email
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: contract
+      label: Contract
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: contract_terms
+      label: Contract Terms
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: session_terms
+      label: Session Terms
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: photo_release
+      label: Photo Release
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: client_copy
+      label: Client Copy
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

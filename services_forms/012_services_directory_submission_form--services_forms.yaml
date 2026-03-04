@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: services_directory_submission_form
+    pages:
+    - id: 1
+      name: submit_request
+      label: Submit Request
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: service_provider
+      label: Service Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: service_title
+      label: Service Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Service Category''}'
+      - '{''id'': 2, ''name'': ''Service Category''}'
+      - '{''id'': 3, ''name'': ''Service Subcategory''}'
+      - '{''id'': 4, ''name'': ''Service Description''}'
+      required: false
+    - id: 6
+      name: service_tags
+      label: Service Tags
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''tag1''}'
+      - '{''id'': 2, ''name'': ''tag2''}'
+      - '{''id'': 3, ''name'': ''tag3''}'
+      required: false
+    - id: 7
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: false

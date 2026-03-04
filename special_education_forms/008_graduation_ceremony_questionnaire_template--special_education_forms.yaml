@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Graduation Ceremony Questionnaire Template
+    pages:
+    - id: 1
+      name: graduation_ceremony_details
+      label: Graduation ceremony details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: graduation_date
+      label: Graduation date
+      hint: YYYY-MM-DD
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: graduation_time
+      label: Graduation time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: graduation_location
+      label: Graduation location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: graduation_attire
+      label: Graduation attire
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: graduation_attendees
+      label: Graduation attendees
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: graduation_speaker
+      label: Graduation speaker
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: graduation_notes
+      label: Graduation notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: graduation_email
+      label: Graduation email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: graduation_phone
+      label: Graduation phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: graduation_survey
+      label: Graduation survey
+      hint: null
+      type: select_multiple
+      options:
+      - Alumni feedback
+      - Parent feedback
+      - Student feedback
+      - Faculty feedback
+      - Staff feedback
+      - Other
+      required: true
+    - id: 12
+      name: graduation_other
+      label: Graduation other
+      hint: null
+      type: text
+      options: []
+      required: false

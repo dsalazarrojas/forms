@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Additional Score Report Request Form
+    pages:
+    - id: 1
+      name: request_header
+      label: -- Additional Score Report Request --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_full_name
+      label: Student Full Name
+      hint: Enter the student's legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_id
+      label: Student ID Number
+      hint: Official student identification number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: Student's birth date
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: requester_name
+      label: Requester Name
+      hint: Name of person requesting the score report
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: requester_relationship
+      label: Relationship to Student
+      hint: How are you related to the student?
+      type: select_one
+      options:
+      - Student
+      - Parent/Guardian
+      - Educator
+      - Counselor
+      - Admissions Officer
+      - Employer
+      - Other
+      required: true
+    - id: 7
+      name: requester_email
+      label: Requester Email
+      hint: Valid email for sending the score report
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: requester_phone
+      label: Requester Phone
+      hint: Phone number for contact regarding this request
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: institution_name
+      label: Institution Name
+      hint: Name of school, college, or organization requesting the scores
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: test_type
+      label: Type of Test
+      hint: Which test or assessment are you requesting scores for?
+      type: select_one
+      options:
+      - SAT
+      - ACT
+      - PSAT
+      - AP Exam
+      - State Standardized Test
+      - Final Exam
+      - Midterm Exam
+      - Placement Test
+      - Other
+      required: true
+    - id: 11
+      name: test_date
+      label: Date of Test Administration
+      hint: When was the test taken?
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: test_subject
+      label: Subject Area
+      hint: Which subject area does this test cover?
+      type: select_one
+      options:
+      - Mathematics
+      - Reading
+      - Writing
+      - Science
+      - Social Studies
+      - Foreign Language
+      - General Knowledge
+      - Other
+      required: false
+    - id: 13
+      name: number_of_reports
+      label: Number of Reports Needed
+      hint: How many copies of the score report do you need?
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: delivery_method
+      label: Delivery Method
+      hint: How would you like to receive the score report?
+      type: select_one
+      options:
+      - Email
+      - Mail
+      - Pick up in person
+      - Fax
+      - Secure portal
+      required: true
+    - id: 15
+      name: delivery_address
+      label: Delivery Address
+      hint: If mailing, provide complete address
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: urgency_level
+      label: Urgency Level
+      hint: How soon do you need the score report?
+      type: select_one
+      options:
+      - Standard - 5-7 business days
+      - Rush - 2-3 business days
+      - Emergency - 24 hours
+      required: true
+    - id: 17
+      name: purpose_of_request
+      label: Purpose of Request
+      hint: Why do you need this additional score report?
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: previous_request
+      label: Previous Requests
+      hint: Have you requested scores for this test before?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: fee_payment
+      label: Fee Payment Method
+      hint: How will fees be paid (if applicable)?
+      type: select_one
+      options:
+      - Cash
+      - Check
+      - Credit Card
+      - School/Institution pays
+      - Waived
+      required: false
+    - id: 20
+      name: authorization_signature
+      label: Authorization Signature
+      hint: Signature authorizing the release of scores
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: signature_date
+      label: Signature Date
+      hint: Date of authorization signature
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: counselor_notes
+      label: Counselor Notes
+      hint: Additional notes from school counselor
+      type: text
+      options: []
+      required: false

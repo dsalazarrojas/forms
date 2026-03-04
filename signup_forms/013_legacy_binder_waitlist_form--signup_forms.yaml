@@ -1,0 +1,52 @@
+inputSchema:
+  type: object
+  properties:
+    title: Legacy Binder Waitlist Form
+    pages:
+    - id: 1
+      name: waitlist_form
+      label: Legacy Binder Waitlist Form
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: number_of_people
+      label: number of people waiting
+      hint: null
+      type: select_one
+      options:
+      - '{1: 1}'
+      - '{2: 2}'
+      - '{3: 3}'
+      - '{4: 4}'
+      - '{5: 5}'
+      - '{6: 6}'
+      - '{7: 7}'
+      - '{8: 8}'
+      - '{9: 9}'
+      - '{10: 10}'
+      required: false
+    - id: 5
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,33 @@
+inputSchema:
+  type: object
+  properties:
+    title: personal budget tracking form
+    pages:
+    - id: 1
+      name: monthly_income
+      label: monthly income
+      hint: Enter the total income
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: monthly_expenses
+      label: monthly expenses
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: target_budget
+      label: target budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: financial_goals
+      label: financial goals
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Preschool Admission Contact Form
+    pages:
+    - id: 1
+      name: parent_name
+      label: Parent Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: parent_phone
+      label: Parent Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: preferred_language
+      label: Preferred Language
+      hint: null
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - French
+      - German
+      required: false
+    - id: 5
+      name: child_dob
+      label: Child's DOB
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: child_school_interest
+      label: Child's School Interest
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: parent_message
+      label: Parent Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: school_staff
+      label: School Staff
+      hint: null
+      type: select_multiple
+      options:
+      - Teacher
+      - Counselor
+      - Administrator
+      - Other
+      required: false
+    - id: 9
+      name: school_address
+      label: School Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: school_contact_number
+      label: School Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false

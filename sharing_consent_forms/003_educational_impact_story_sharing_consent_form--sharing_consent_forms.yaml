@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Educational Impact Story Sharing Consent Form
+    pages:
+    - id: 1
+      name: consent_to_share
+      label: Do you agree to share your story
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 2
+      name: attribution_preferences
+      label: How do you want to be attributed
+      hint: null
+      type: select_one
+      options:
+      - Anonymously
+      - First name and last name
+      - First name and username
+      required: true
+    - id: 3
+      name: follow_up_permissions
+      label: How do you want to be followed up on
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 4
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: story_description
+      label: Story Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: story_file
+      label: Share a Story File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: story_type
+      label: What type of story do you have?
+      hint: null
+      type: select_multiple
+      options:
+      - Personal Story
+      - Professional Story
+      - Academic Story
+      required: true
+    - id: 10
+      name: educational_organisation
+      label: Educational Organisation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: teacher_name
+      label: Teacher Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: class_name
+      label: Class Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: other_informations
+      label: Other Informations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: sharing_preferences
+      label: How do you want to be sharing your story
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 17
+      name: attribution_text
+      label: Attribution Text
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: follow_up_time
+      label: Follow-up Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: follow_up_time_frequency
+      label: Follow-up Time Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - One time
+      - Multiple times
+      required: false
+    - id: 21
+      name: follow_up_time_details
+      label: Follow-up Time Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: sharing_consent
+      label: Sharing Consent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: story_file_description
+      label: Story File Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: other_informations
+      label: Other Informations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: sharing_preferences_2
+      label: Sharing Preferences
+      hint: null
+      type: text
+      options: []
+      required: false

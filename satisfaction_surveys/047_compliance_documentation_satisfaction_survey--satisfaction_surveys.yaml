@@ -1,0 +1,312 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Compliance Documentation Satisfaction Survey
+    pages:
+      - id: 1
+        name: survey_intro
+        label: Compliance Documentation Satisfaction Survey
+        hint: Help us improve our compliance materials
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: respondent_name
+        label: Your Name
+        hint: Optional - can be anonymous
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: respondent_email
+        label: Your Email
+        hint: Optional - for follow-up
+        type: email
+        options: []
+        required: false
+      - id: 4
+        name: department
+        label: Department
+        hint: Your department
+        type: select_one
+        options:
+          - Human Resources
+          - Finance
+          - Operations
+          - IT
+          - Legal
+          - Compliance
+          - Quality Assurance
+          - Other
+        required: true
+      - id: 5
+        name: role
+        label: Your Role
+        hint: Your position
+        type: select_one
+        options:
+          - Executive
+          - Manager
+          - Team Lead
+          - Individual Contributor
+          - Contractor
+          - Other
+        required: true
+      - id: 6
+        name: tenure
+        label: Time with Company
+        hint: How long have you worked here
+        type: select_one
+        options:
+          - Less than 6 months
+          - 6 months to 1 year
+          - 1 to 3 years
+          - 4 to 6 years
+          - Over 6 years
+        required: true
+      - id: 7
+        name: documentation_usage
+        label: How Often Do You Use Compliance Docs
+        hint: Frequency of use
+        type: select_one
+        options:
+          - Daily
+          - Weekly
+          - Monthly
+          - Quarterly
+          - Rarely
+          - Never
+        required: true
+      - id: 8
+        name: documentation_types
+        label: Which Documents Do You Use
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Policies
+          - Procedures
+          - Work instructions
+          - Guidelines
+          - Checklists
+          - Forms and templates
+          - Training materials
+          - Quick reference guides
+          - Other
+        required: true
+      - id: 9
+        name: ease_of_finding
+        label: Ease of Finding Documents
+        hint: How easy is it to locate what you need
+        type: select_one
+        options:
+          - Very easy
+          - Somewhat easy
+          - Neutral
+          - Somewhat difficult
+          - Very difficult
+        required: true
+      - id: 10
+        name: clarity_of_content
+        label: Clarity of Content
+        hint: How clear is the information
+        type: select_one
+        options:
+          - Very clear
+          - Somewhat clear
+          - Neutral
+          - Somewhat unclear
+          - Very unclear
+        required: true
+      - id: 11
+        name: completeness
+        label: Completeness of Information
+        hint: Do documents have what you need
+        type: select_one
+        options:
+          - Very complete
+          - Somewhat complete
+          - Neutral
+          - Somewhat incomplete
+          - Very incomplete
+        required: true
+      - id: 12
+        name: accuracy
+        label: Accuracy of Information
+        hint: Is information current and correct
+        type: select_one
+        options:
+          - Very accurate
+          - Somewhat accurate
+          - Neutral
+          - Somewhat inaccurate
+          - Very inaccurate
+        required: true
+      - id: 13
+        name: relevance
+        label: Relevance to Your Work
+        hint: How applicable is the content
+        type: select_one
+        options:
+          - Very relevant
+          - Somewhat relevant
+          - Neutral
+          - Somewhat irrelevant
+          - Very irrelevant
+        required: true
+      - id: 14
+        name: readability
+        label: Readability
+        hint: How easy is it to read
+        type: select_one
+        options:
+          - Very easy to read
+          - Somewhat easy
+          - Neutral
+          - Somewhat difficult
+          - Very difficult
+        required: true
+      - id: 15
+        name: organization
+        label: Organization of Documents
+        hint: How well organized
+        type: select_one
+        options:
+          - Very well organized
+          - Somewhat organized
+          - Neutral
+          - Somewhat disorganized
+          - Very disorganized
+        required: true
+      - id: 16
+        name: accessibility
+        label: Accessibility
+        hint: How easy to access
+        type: select_one
+        options:
+          - Very accessible
+          - Somewhat accessible
+          - Neutral
+          - Somewhat inaccessible
+          - Very inaccessible
+        required: true
+      - id: 17
+        name: format_preference
+        label: Preferred Format
+        hint: How do you like to access
+        type: select_one
+        options:
+          - PDF documents
+          - Web pages
+          - Interactive guides
+          - Video tutorials
+          - Printed copies
+          - Mobile app
+          - No preference
+        required: true
+      - id: 18
+        name: search_functionality
+        label: Search Functionality
+        hint: How well does search work
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Fair
+          - Poor
+          - Very poor
+          - Do not use search
+        required: true
+      - id: 19
+        name: update_frequency
+        label: Update Frequency
+        hint: Are documents updated often enough
+        type: select_one
+        options:
+          - Very frequently
+          - Somewhat frequently
+          - Neutral
+          - Somewhat infrequently
+          - Very infrequently
+        required: true
+      - id: 20
+        name: training_adequacy
+        label: Training on Documentation
+        hint: Is training adequate
+        type: select_one
+        options:
+          - Very adequate
+          - Somewhat adequate
+          - Neutral
+          - Somewhat inadequate
+          - Very inadequate
+        required: true
+      - id: 21
+        name: usefulness_rating
+        label: Overall Usefulness
+        hint: How useful are the documents
+        type: select_one
+        options:
+          - Very useful
+          - Somewhat useful
+          - Neutral
+          - Somewhat useless
+          - Very useless
+        required: true
+      - id: 22
+        name: confidence_in_compliance
+        label: Confidence in Compliance
+        hint: Do you feel confident following docs
+        type: select_one
+        options:
+          - Very confident
+          - Somewhat confident
+          - Neutral
+          - Somewhat unsure
+          - Very unsure
+        required: true
+      - id: 23
+        name: most_helpful_docs
+        label: Most Helpful Documents
+        hint: Which are most useful
+        type: text
+        options: []
+        required: false
+      - id: 24
+        name: least_helpful_docs
+        label: Least Helpful Documents
+        hint: Which need improvement
+        type: text
+        options: []
+        required: false
+      - id: 25
+        name: missing_documentation
+        label: Missing Documentation
+        hint: What is not available
+        type: text
+        options: []
+        required: false
+      - id: 26
+        name: improvement_suggestions
+        label: Suggestions for Improvement
+        hint: Your ideas
+        type: text
+        options: []
+        required: false
+      - id: 27
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other feedback
+        type: text
+        options: []
+        required: false

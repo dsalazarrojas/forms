@@ -1,0 +1,231 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beauty Product Launch Lead Generation Form
+    pages:
+    - id: 1
+      name: lead_header
+      label: -- Your Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: location
+      label: Location
+      hint: City and State or Country
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: product_interest_header
+      label: -- Product Interest --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: product_categories
+      label: Product Categories of Interest
+      hint: null
+      type: select_multiple
+      options:
+      - Skincare
+      - Makeup
+      - Haircare
+      - Fragrance
+      - Nail Care
+      - Body Care
+      - Wellness
+      required: true
+    - id: 9
+      name: specific_interest
+      label: Specific Product Interest
+      hint: What specific product launch interests you most
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: customer_type
+      label: I Am A
+      hint: null
+      type: select_one
+      options:
+      - Existing Customer
+      - New Customer
+      - Beauty Professional
+      - Influencer
+      - Retailer
+      required: true
+    - id: 11
+      name: purchase_intent_header
+      label: -- Purchase Intent --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: purchase_likelihood
+      label: Likelihood to Purchase This Product
+      hint: null
+      type: select_one
+      options:
+      - Very Unlikely
+      - Unlikely
+      - Neutral
+      - Likely
+      - Very Likely
+      required: true
+    - id: 13
+      name: purchase_timeframe
+      label: When Would You Purchase
+      hint: null
+      type: select_one
+      options:
+      - Pre-launch
+      - Launch Week
+      - Within 1 Month
+      - Within 3 Months
+      - Later
+      - Unsure
+      required: true
+    - id: 14
+      name: early_access_interest
+      label: Interest in Early Access or Exclusive Offers
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: preferences_header
+      label: -- Communication Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: communication_method
+      label: Preferred Communication Method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - SMS
+      - Phone Call
+      - Social Media
+      required: true
+    - id: 17
+      name: newsletter_opt_in
+      label: Opt In to Newsletter
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: promotional_offers
+      label: Interested in Promotional Offers
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: feature_header
+      label: -- Product Features --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: important_features
+      label: Most Important Product Features
+      hint: null
+      type: select_multiple
+      options:
+      - Natural Ingredients
+      - Cruelty-free
+      - Sustainable Packaging
+      - Dermatologist-tested
+      - Affordable
+      - Premium Quality
+      required: true
+    - id: 21
+      name: price_sensitivity
+      label: Price Sensitivity
+      hint: null
+      type: select_one
+      options:
+      - Very Price-sensitive
+      - Moderate
+      - Price Not Primary Factor
+      - Premium Price Acceptable
+      required: true
+    - id: 22
+      name: engagement_header
+      label: -- Engagement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: social_media_follower
+      label: Follow Us on Social Media
+      hint: null
+      type: select_one
+      options:
+      - Yes - Already Follow
+      - Yes - Will Follow
+      - 'No'
+      required: true
+    - id: 24
+      name: referral_interest
+      label: Would You Refer Friends or Family
+      hint: null
+      type: select_one
+      options:
+      - Definitely Not
+      - Probably Not
+      - Unsure
+      - Probably Yes
+      - Definitely Yes
+      required: true
+    - id: 25
+      name: comments
+      label: Additional Comments or Questions
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,134 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mom's Community Registration Form
+    pages:
+    - id: 1
+      name: registrant_first_name
+      label: first name
+      hint: Please enter the mom's first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: registrant_last_name
+      label: last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: registrant_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: registrant_phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: child_count
+      label: how many children
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: birth_date
+      label: date of birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: child_names
+      label: children names
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 8
+      name: registrant_message
+      label: message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: child_ages
+      label: children ages
+      hint: Enter the ages of your children separated by comma
+      type: note
+      options: []
+      required: true
+    - id: 10
+      name: how_did_you_hear
+      label: how did you hear
+      hint: null
+      type: select_one
+      options:
+      - friends
+      - social media
+      - online advertisement
+      - other
+      required: true
+    - id: 11
+      name: additional_comments
+      label: additional comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: registrant_agreement
+      label: agreement
+      hint: null
+      type: select_one
+      options:
+      - I have read and agree to the terms of use
+      - I have not read and do not agree to the terms of use
+      required: true
+    - id: 13
+      name: registrant_terms_accepted
+      label: terms and conditions
+      hint: null
+      type: select_one
+      options:
+      - 'yes'
+      - 'no'
+      required: true
+    - id: 14
+      name: privacy_policy_accepted
+      label: privacy policy
+      hint: null
+      type: select_one
+      options:
+      - 'yes'
+      - 'no'
+      required: true
+    - id: 15
+      name: additional_comments_2
+      label: additional comments 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: registrant_address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: registrant_zip
+      label: zip code
+      hint: null
+      type: text
+      options: []
+      required: true

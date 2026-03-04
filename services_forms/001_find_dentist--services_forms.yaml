@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Find Dentist
+    pages:
+    - id: 1
+      name: search_query
+      label: Search Query
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: search_query_2
+      label: More Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: location
+      label: Location
+      hint: null
+      type: select_multiple
+      options:
+      - New York
+      - Los Angeles
+      - Chicago
+      - Houston
+      - Phoenix
+      - Philadelphia
+      - San Antonio
+      - San Diego
+      - Dallas
+      - San Jose
+      - Austin
+      - San Francisco
+      - Jacksonville
+      - San Jose
+      - Indianapolis
+      - San Fransisco
+      - San Francisco
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: dentist_info
+      label: Dentist Information
+      hint: null
+      type: select_one
+      options:
+      - Dentist 1
+      - Dentist 2
+      - Dentist 3
+      required: false
+    - id: 6
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: TABSE Scholarship Application Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: education_history
+      label: Education History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: education_history_education_level
+      label: Education Level
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': "Bachelor''s", ''label'': "Bachelor''s"}'
+      - '{''id'': 2, ''name'': "Master''s", ''label'': "Master''s"}'
+      - '{''id'': 3, ''name'': ''Doctorate'', ''label'': ''Doctorate''}'
+      required: false
+    - id: 5
+      name: education_history_field_of_study
+      label: Field of Study
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Computer Science'', ''label'': ''Computer Science''}'
+      - '{''id'': 2, ''name'': ''Engineering'', ''label'': ''Engineering''}'
+      - '{''id'': 3, ''name'': ''Mathematics'', ''label'': ''Mathematics''}'
+      - '{''id'': 4, ''name'': ''Other'', ''label'': ''Other''}'
+      required: false
+    - id: 6
+      name: education_history_start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: education_history_end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: education_history_attended_institution
+      label: Attended Institution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: work_experience
+      label: Work Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: work_experience_occupation
+      label: Occupation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: work_experience_company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: work_experience_start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: work_experience_end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: personal_references
+      label: Personal References
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: personal_references_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: personal_references_job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: personal_references_relationship
+      label: Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: personal_references_contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: personal_references_reference_type
+      label: Reference Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Professional Reference'', ''label'': ''Professional
+        Reference''}'
+      - '{''id'': 2, ''name'': ''Academic Reference'', ''label'': ''Academic Reference''}'
+      - '{''id'': 3, ''name'': ''Character Reference'', ''label'': ''Character Reference''}'
+      required: false
+    - id: 20
+      name: personal_references_reference_number
+      label: Number of References
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: personal_references_reference_name
+      label: Reference Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: personal_references_reference_job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: personal_references_reference_contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: personal_references_reference_note
+      label: Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: personal_references_reference_note
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false

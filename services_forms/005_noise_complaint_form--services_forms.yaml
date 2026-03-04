@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Noise Complaint Form
+    pages:
+    - id: 1
+      name: noise_complaint
+      label: Noise Complaint
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: noise_type
+      label: Noise Type
+      hint: null
+      type: select_one
+      options:
+      - Noise from neighbor
+      - Noise from traffic
+      - Other
+      required: false
+    - id: 3
+      name: noise_location
+      label: Noise Location
+      hint: null
+      type: select_multiple
+      options:
+      - Home
+      - Workplace
+      - Public area
+      - Other
+      required: false
+    - id: 4
+      name: noise_start_time
+      label: Noise Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: noise_duration
+      label: Noise Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: noise_stop_time
+      label: Noise Stop Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: noise_description
+      label: Noise Description
+      hint: Provide detailed description about the noise
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: noise_polluter
+      label: Noise Polluter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: noise_police_station
+      label: Noise Police Station
+      hint: null
+      type: select_one
+      options:
+      - Station 1
+      - Station 2
+      - Station 3
+      required: false
+    - id: 10
+      name: noise_reporter
+      label: Noise Reporter
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

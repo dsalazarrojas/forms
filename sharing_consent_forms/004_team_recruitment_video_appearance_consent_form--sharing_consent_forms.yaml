@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: team_recruitment_video_appearance_consent_form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Name
+      hint: Enter participant name
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Enter phone number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: school_name
+      label: School Name
+      hint: Enter school name
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: role_in_school
+      label: Role in School
+      hint: Enter role in school
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: parent_consent
+      label: Parent Consent
+      hint: Parent consent
+      type: select_one
+      options:
+      - Consent Given
+      - Consent Not Given
+      required: false
+    - id: 7
+      name: teacher_consent
+      label: Teacher Consent
+      hint: Teacher consent
+      type: select_one
+      options:
+      - Consent Given
+      - Consent Not Given
+      required: false
+    - id: 8
+      name: parent_consent_date
+      label: Parent Consent Date
+      hint: Parent consent date
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: teacher_consent_date
+      label: Teacher Consent Date
+      hint: Teacher consent date
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: participant_signature
+      label: Participant Signature
+      hint: Participant signature
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: parent_signature
+      label: Parent Signature
+      hint: Parent signature
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: teacher_signature
+      label: Teacher Signature
+      hint: Teacher signature
+      type: note
+      options: []
+      required: false

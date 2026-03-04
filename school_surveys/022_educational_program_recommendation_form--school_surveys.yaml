@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: educational-program-recommendation-form
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: program_name
+      label: Program Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: faculty_member_name
+      label: Faculty Member Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: faculty_identification
+      label: Faculty Member Identification
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: program_satisfaction
+      label: Program Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 6
+      name: recommend_program
+      label: Recommend Program
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Undecided
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

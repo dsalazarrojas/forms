@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Admission Form
+    pages:
+    - id: 1
+      name: school_admission_form_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: school_admission_form_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: school_admission_form_date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: school_admission_form_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: school_admission_form_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: school_admission_form_grade_level
+      label: Grade Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 7
+      name: school_admission_form_program_interest
+      label: Program Interest
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: school_admission_form_additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: school_admission_form_why_admitted
+      label: Why were you admitted to this school?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: school_admission_form_what_do_you_expect_from_our_program
+      label: What do you expect from our program?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: school_admission_form_additional_comments_2
+      label: Additional Comments 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: school_admission_form_references
+      label: References
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Private Program Inquiry
+    pages:
+    - id: 1
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - Session
+      - Event
+      - Other
+      required: true
+    - id: 2
+      name: program_type
+      label: Program Type
+      hint: null
+      type: select_multiple
+      options:
+      - Personalized Training
+      - Group Session
+      - Private Training
+      required: true
+    - id: 3
+      name: start_date
+      label: Start Date
+      hint: Select the date of the event or session
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: end_date
+      label: End Date
+      hint: Select the end date of the event or session
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: start_time
+      label: Start Time
+      hint: Select the start time of the event or session
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: end_time
+      label: End Time
+      hint: Select the end time of the event or session
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: program_name
+      label: Program Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: program_details
+      label: Program Details
+      hint: Briefly describe the program or session
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: phone
+      label: Phone
+      hint: Provide phone number
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: program_location
+      label: Program Location
+      hint: Enter the location of the event or session
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: preferred_date
+      label: Preferred Date
+      hint: Select a preferred date for the event or session
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: preferred_start_time
+      label: Preferred Start Time
+      hint: Select a preferred start time for the event or session
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: preferred_end_time
+      label: Preferred End Time
+      hint: Select a preferred end time for the event or session
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: preferred_start_date
+      label: Preferred Start Date
+      hint: Select the preferred start date for the event or session
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: preferred_end_date
+      label: Preferred End Date
+      hint: Select the preferred end date for the event or session
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: notes
+      label: Notes
+      hint: Add any additional notes about the event or session
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: assigned
+      label: Assigned
+      hint: Assigned to
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Accepted
+      - Declined
+      - Cancelled
+      required: true
+    - id: 21
+      name: follow_up
+      label: Follow up
+      hint: Follow-up date and time
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: follow_up_email
+      label: Follow-up Email
+      hint: Follow-up email address
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: follow_up_phone
+      label: Follow-up Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: program_instructor
+      label: Program Instructor
+      hint: Name of program instructor
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_info
+      label: Additional info
+      hint: Provide any additional information
+      type: text
+      options: []
+      required: false
